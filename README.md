@@ -1,1 +1,1 @@
-
+Audio Darsliklar 2026 — maktab darsliklarini audio shaklida tinglash imkonini beruvchi zamonaviy ta'lim platformasi. Vite, React va TypeScript texnologiyalari asosida yaratilgan bo'lib, yuqori tezlik va mobil qurilmalarga to'liq moslashuvchanlikni ta'minlaydi. Loyiha ta'limni raqamlashtirish va o'quvchilarga qulaylik uchun ishlab chiqilgan.
