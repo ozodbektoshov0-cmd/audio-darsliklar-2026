@@ -1,6 +1,5 @@
 {
-  "appId": "com.audiodarsliklar.app",
-  "appName": "Audio Darsliklar 2026",
-  "webDir": "dist",
-  "bundledWebRuntime": false
+	"appId": "com.audiodarsliklar.app",
+	"appName": "Audio Darsliklar 2026",
+	"webDir": "dist"
 }
