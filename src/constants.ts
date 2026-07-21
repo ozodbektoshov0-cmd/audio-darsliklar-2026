@@ -5,9 +5,9 @@
 
 export const SOCIAL_LINKS = {
   telegram: "https://t.me/Audio_Darsliklar_2026",
-  youtube: "https://www.youtube.com/@audiodarsliklar2025",
+  youtube: "https://www.youtube.com/@audiodarsliklar2026",
   instagram: "https://www.instagram.com/ozodbek_toshov007",
-  tiktok: "https://www.tiktok.com/@ozodbek.toshov_uz",
+  tiktok: "https://www.tiktok.com/@ozodbek_toshov_",
   email: "ozodbektoshov0@gmail.com",
 };
 
