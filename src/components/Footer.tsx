@@ -20,7 +20,7 @@ export default function Footer() {
               <div className="w-10 h-10 bg-brand-primary rounded-xl flex items-center justify-center text-white shadow-lg">
                 <Send size={20} />
               </div>
-              <h3 className="text-2xl font-serif font-black text-white tracking-tight">Audio Darsliklar</h3>
+              <h3 className="text-2xl font-serif font-black text-white tracking-tight">Audio Darsliklar 2026</h3>
             </div>
             <p className="mb-8 leading-relaxed text-slate-400 font-medium">
               O'zbekiston maktablarining 5-11 sinf o'quvchilari uchun sifatli darsliklarni bepul yetkazib berish innovatsion loyihasi.
@@ -97,7 +97,7 @@ export default function Footer() {
                 <div className="w-6 h-6 bg-brand-primary/20 rounded-full flex items-center justify-center">
                   <div className="w-2 h-2 rounded-full bg-brand-primary"></div>
                 </div>
-                <span className="text-xs font-black text-slate-500 uppercase tracking-widest">Ta'lim 2026</span>
+                <span className="text-xs font-black text-slate-500 uppercase tracking-widest">Audio Darsliklar 2026</span>
               </div>
             </div>
           </div>
