@@ -44,7 +44,7 @@ export default function Navbar() {
           <div className="bg-brand-primary p-2.5 rounded-2xl text-white group-hover:rotate-12 transition-all duration-500 shadow-lg shadow-brand-primary/20">
             <Headphones size={24} />
           </div>
-          <span className="text-2xl font-serif font-black text-slate-900 tracking-tight">Audio Darsliklar</span>
+          <span className="text-2xl font-serif font-black text-slate-900 tracking-tight">Audio Darsliklar 2026</span>
         </Link>
 
         {/* Desktop Links */}
