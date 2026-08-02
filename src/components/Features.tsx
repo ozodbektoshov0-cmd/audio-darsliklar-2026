@@ -28,7 +28,7 @@ export default function Features() {
             viewport={{ once: true }}
             className="text-4xl md:text-5xl font-serif font-black text-slate-900 mb-6 tracking-tight"
           >
-            Nima uchun <span className="text-brand-primary">Audio Darsliklar</span>?
+            Nima uchun <span className="text-brand-primary">Audio Darsliklar 2026</span>?
           </motion.h2>
           <div className="w-20 h-1.5 bg-brand-primary"></div>
         </div>
