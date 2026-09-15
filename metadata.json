@@ -1,0 +1,7 @@
+{
+  "name": "Audio Darsliklar 2026",
+  "description": "O'zbekiston maktablarining 1-11 sinflari uchun barcha darsliklar, PDF va audio resurslar platformasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
