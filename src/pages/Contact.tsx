@@ -137,7 +137,7 @@ export default function Contact() {
                   
                   <div className="flex flex-wrap items-center gap-3 pt-4 border-t border-white/15">
                     <span className="px-3.5 py-1.5 rounded-xl bg-white/15 text-white text-xs font-bold">
-                      {language === "uz" ? "Toshkent, O'zbekiston" : "Ташкент, Узбекистан"}
+                      {language === "uz" ? "Buxoro, O'zbekiston" : "Бухара, Узбекистан"}
                     </span>
                     <span className="px-3.5 py-1.5 rounded-xl bg-white/15 text-white text-xs font-bold">
                       {language === "uz" ? "Ta'lim Tashabbusi" : "Образовательная инициатива"}
