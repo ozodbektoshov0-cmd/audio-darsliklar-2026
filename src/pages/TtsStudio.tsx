@@ -138,7 +138,7 @@ export default function TtsStudio() {
   // Save history
   useEffect(() => {
     try {
-      localStorage.setItem("audio_darslik_tts_history", JSON.stringify(audioHistory.slice(0, 10)));
+      localStorage.setItem("audio_darslik_tts_history", JSON.stringify(audioHistory.slice(0, 10).map((h) => ({ ...h, audioUrl: "" }))));
     } catch (e) {
       console.warn("Could not save history to localStorage", e);
     }
@@ -163,9 +163,9 @@ export default function TtsStudio() {
         }),
       });
 
-      const data = await res.json();
+      const data = await res.json().catch(() => ({}));
 
-      if (!res.ok) {
+      if (!res.ok && !data.fallbackToBrowserTts) {
         throw new Error(data.error || "Audio sintez qilishda xatolik yuz berdi");
       }
 
@@ -229,7 +229,7 @@ export default function TtsStudio() {
 
     const link = document.createElement("a");
     link.href = url;
-    const safeName = customFilename || `darslik-audio-${selectedVoice}-${Date.now()}.mp3`;
+    const safeName = customFilename || `darslik-audio-${selectedVoice}-${Date.now()}.wav`;
     link.download = safeName;
     document.body.appendChild(link);
     link.click();
@@ -648,6 +648,12 @@ export default function TtsStudio() {
                       <button
                         type="button"
                         onClick={() => {
+                          if (!item.audioUrl) {
+                            // Saqlangan eski yozuv: audio xotirada yo'q, matnni qayta tahrirlash uchun qaytaramiz
+                            setText(item.text);
+                            setSelectedVoice(item.voice);
+                            return;
+                          }
                           setCurrentAudioUrl(item.audioUrl);
                           if (audioRef.current) {
                             audioRef.current.src = item.audioUrl;
@@ -662,9 +668,10 @@ export default function TtsStudio() {
                       </button>
                       <button
                         type="button"
-                        onClick={() => handleDownload(item.audioUrl, `darslik-audio-${item.id}.mp3`)}
+                        onClick={() => item.audioUrl && handleDownload(item.audioUrl, `darslik-audio-${item.id}.wav`)}
+                        disabled={!item.audioUrl}
                         className="p-2 bg-emerald-50 dark:bg-emerald-950/60 text-emerald-600 dark:text-emerald-400 rounded-xl hover:bg-emerald-600 hover:text-white transition-all"
-                        title=".mp3 yuklab olish"
+                        title=".wav yuklab olish"
                       >
                         <Download size={13} />
                       </button>

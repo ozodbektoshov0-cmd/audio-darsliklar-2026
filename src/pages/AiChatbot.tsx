@@ -159,11 +159,6 @@ export default function AiChatbot() {
           text: m.text,
         }));
 
-      const systemInstruction =
-        `Siz O'zbekiston maktab darsliklari (1-11 sinf) bo'yicha professional virtual repetitorsiz.` +
-        (profile.grade ? ` Foydalanuvchi ${profile.grade}-sinf o'quvchisi. Tushuntirishlaringizni shu yosh va sinf me'yorlariga moslang.` : "") +
-        ` Javoblaringizni do'stona, aniq, chiroyli Markdown formatida bering. O'quvchini doim bilim olishga rag'batlantiring.`;
-
       const res = await fetch("/api/chat", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
@@ -171,11 +166,12 @@ export default function AiChatbot() {
           messages: chatHistory,
           message: textToSend.trim(),
           useSearch,
-          systemInstruction,
+          persona: "tutor",
+          grade: profile.grade,
         }),
       });
 
-      const data = await res.json();
+      const data = await res.json().catch(() => ({}));
 
       if (!res.ok) {
         throw new Error(data.error || "AI javob berishda xatolik yuz berdi");
@@ -231,7 +227,7 @@ export default function AiChatbot() {
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ text: cleanText, voice: "Kore" }),
       });
-      const data = await res.json();
+      const data = await res.json().catch(() => ({}));
 
       if (data.audioBase64) {
         const audio = new Audio(`data:audio/wav;base64,${data.audioBase64}`);

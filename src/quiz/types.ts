@@ -1,0 +1,47 @@
+import type { GradeNumber, Language } from "../data/types";
+
+export interface ChoiceQuestion {
+  type: "choice";
+  q: string;
+  options: string[];
+  /** To'g'ri variant indeksi (0 dan boshlanadi) */
+  answer: number;
+  explain?: string;
+}
+
+export interface TrueFalseQuestion {
+  type: "truefalse";
+  q: string;
+  answer: boolean;
+  explain?: string;
+}
+
+export interface FillQuestion {
+  type: "fill";
+  /** Savol matni; bo'sh joy "___" bilan belgilanishi mumkin */
+  q: string;
+  /** Qabul qilinadigan javob(lar) */
+  answer: string | string[];
+  explain?: string;
+}
+
+export type Question = ChoiceQuestion | TrueFalseQuestion | FillQuestion;
+
+export interface Quiz {
+  /** Noyob id; URL: /tests/:id */
+  id: string;
+  /** src/data'dagi fan id'si (masalan "g8-uz-adabiyot"); namunalar uchun bo'sh */
+  subjectId?: string;
+  title: string;
+  grade?: GradeNumber;
+  lang?: Language;
+  /** Manba (qaysi kitob, nashr yili, boblar) */
+  source?: string;
+  /** Namuna / tekshirilmagan kontent belgisi */
+  sample?: boolean;
+  questions: Question[];
+  /** Kartochkalar va juftlash o'yini uchun [old, orqa] juftliklar */
+  cards?: [string, string][];
+}
+
+export type GameId = "quiz" | "timed" | "cards" | "match";

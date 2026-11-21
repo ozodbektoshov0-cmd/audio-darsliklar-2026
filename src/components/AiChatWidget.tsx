@@ -83,12 +83,12 @@ export default function AiChatWidget() {
           messages: history,
           message: userText,
           modelType: "flash",
-          systemInstruction:
-            "Siz O'zbekiston maktab o'quvchilari uchun ixcham, samimiy va tushunarli AI yordamchisiz. Javoblarni qisqa, aniq va foydali bering.",
+          persona: "widget",
+          grade: profile.grade,
         }),
       });
 
-      const data = await res.json();
+      const data = await res.json().catch(() => ({}));
       if (!res.ok) throw new Error(data.error || "Xatolik");
 
       setMessages((prev) => [

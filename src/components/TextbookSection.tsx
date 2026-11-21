@@ -22,7 +22,8 @@ import { ALL_SUBJECTS, SubjectCategory, Language } from "../data";
 import { useStudent, GradeNumber } from "../context/StudentContext";
 import { useLanguage } from "../context/LanguageContext";
 import { Link } from "react-router-dom";
-import { getSafePdfUrl } from "../utils/pdfHelper";
+import { useReader } from "../context/ReaderContext";
+import { getQuizHref } from "../quiz";
 
 const CATEGORY_NAMES: Record<SubjectCategory, { uz: string; ru: string }> = {
   "Boshlang'ich": { uz: "Boshlang'ich", ru: "Начальные классы" },
@@ -50,6 +51,7 @@ export default function TextbookSection() {
     isItemBookmarked 
   } = useStudent();
   const { t, language } = useLanguage();
+  const { openReader } = useReader();
 
   const [toast, setToast] = useState<{ message: string; type: "added" | "removed" } | null>(null);
 
@@ -438,15 +440,14 @@ export default function TextbookSection() {
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
                               {/* PDF Link + Bookmark */}
                               <div className="flex items-center gap-1">
-                                <a
-                                  href={getSafePdfUrl(book.pdf)}
-                                  target="_blank"
-                                  rel="noreferrer"
+                                <button
+                                  type="button"
+                                  onClick={() => openReader({ url: book.pdf, title: `${item.title} (${book.year})` })}
                                   className="flex-1 flex items-center justify-center gap-2 px-3 py-2 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 hover:border-brand-primary text-slate-800 dark:text-slate-200 rounded-xl text-xs font-bold transition-all hover:bg-brand-primary hover:text-white group/btn shadow-xs"
                                 >
                                   <FileText size={14} className="text-brand-primary group-hover/btn:text-white" />
                                   <span>{t("btnPdfBook")}</span>
-                                </a>
+                                </button>
                                 <button
                                   type="button"
                                   onClick={() => handleToggleLink({
@@ -608,16 +609,15 @@ export default function TextbookSection() {
                             <div className="flex items-center gap-1 shrink-0">
                               {res.pdfUrl && (
                                 <div className="flex items-center">
-                                  <a
-                                    href={getSafePdfUrl(res.pdfUrl)}
-                                    target="_blank"
-                                    rel="noreferrer"
-                                    title="PDF darslikni yuklab olish"
+                                  <button
+                                    type="button"
+                                    onClick={() => openReader({ url: res.pdfUrl!, title: `${subj.name} - ${res.title}`, testsHref: getQuizHref(subj.id) })}
+                                    title={language === "uz" ? "Saytda o'qish" : "Читать на сайте"}
                                     className="p-1.5 bg-brand-primary text-white rounded-l-lg hover:bg-blue-700 transition-colors flex items-center gap-1 text-[11px] font-bold px-2"
                                   >
                                     <FileText size={12} />
-                                    <span>PDF</span>
-                                  </a>
+                                    <span>{language === "uz" ? "O'qish" : "Читать"}</span>
+                                  </button>
                                   <button
                                     type="button"
                                     onClick={() => handleToggleLink({

@@ -26,7 +26,7 @@ import { useStudent, GradeNumber } from "../context/StudentContext";
 import { useLanguage } from "../context/LanguageContext";
 import { Link } from "react-router-dom";
 import MyFavoritesSection from "../components/MyFavoritesSection";
-import { getSafePdfUrl } from "../utils/pdfHelper";
+import { useReader } from "../context/ReaderContext";
 
 const ALL_GRADES: GradeNumber[] = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"];
 
@@ -42,6 +42,7 @@ export default function StudentProfile() {
   } = useStudent();
   
   const { language, t } = useLanguage();
+  const { openReader } = useReader();
   const [nameInput, setNameInput] = useState(profile.studentName);
   const [isEditingName, setIsEditingName] = useState(false);
   const [copiedLink, setCopiedLink] = useState(false);
@@ -329,10 +330,9 @@ export default function StudentProfile() {
 
                           {/* Action links */}
                           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                            <a
-                              href={getSafePdfUrl(book.pdf)}
-                              target="_blank"
-                              rel="noreferrer"
+                            <button
+                              type="button"
+                              onClick={() => openReader({ url: book.pdf, title: `${book.year}` })}
                               className="flex items-center justify-between px-5 py-4 bg-brand-primary text-white rounded-2xl font-bold text-sm hover:bg-blue-700 hover:shadow-lg hover:shadow-brand-primary/30 transition-all group/btn"
                             >
                               <span className="flex items-center gap-2.5">
@@ -340,7 +340,7 @@ export default function StudentProfile() {
                                 {language === "uz" ? "PDF Darslik" : "Учебник PDF"}
                               </span>
                               <ArrowRight size={16} className="group-hover/btn:translate-x-1 transition-transform" />
-                            </a>
+                            </button>
 
                             {book.audio ? (
                               <a
@@ -437,15 +437,14 @@ export default function StudentProfile() {
                             {b.year}-{language === "uz" ? "yil" : "год"}
                           </span>
                           <div className="flex items-center gap-2 shrink-0">
-                            <a
-                              href={getSafePdfUrl(b.pdf)}
-                              target="_blank"
-                              rel="noreferrer"
+                            <button
+                              type="button"
+                              onClick={() => openReader({ url: b.pdf, title: `${b.year}` })}
                               className="px-3 py-1.5 bg-white dark:bg-slate-700 border border-slate-200 dark:border-slate-600 hover:bg-brand-primary hover:text-white rounded-lg transition-colors text-slate-800 dark:text-slate-200 flex items-center gap-1.5"
                             >
                               <FileText size={13} />
-                              PDF
-                            </a>
+                              {language === "uz" ? "O'qish" : "Читать"}
+                            </button>
 
                             {b.audio && (
                               <a

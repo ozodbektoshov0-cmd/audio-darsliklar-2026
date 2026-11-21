@@ -19,6 +19,7 @@ export const UI_STRINGS: Translations = {
   navHome: { uz: "Asosiy", ru: "Главная" },
   navLibrary: { uz: "Kutubxona", ru: "Библиотека" },
   navAiChat: { uz: "AI Ustoz", ru: "ИИ Учитель" },
+  navTests: { uz: "Test va O'yinlar", ru: "Тесты и игры" },
   navTts: { uz: "Audio Yaratish (TTS)", ru: "Создать Аудио (TTS)" },
   navProfile: { uz: "Profil", ru: "Профиль" },
   navAbout: { uz: "Loyiha", ru: "О проекте" },
@@ -209,13 +210,20 @@ const LanguageContext = createContext<LanguageContextType | undefined>(undefined
 
 export function LanguageProvider({ children }: { children: ReactNode }) {
   const [language, setLanguageState] = useState<SiteLanguage>(() => {
-    const saved = localStorage.getItem("audio_darsliklar_lang");
-    return saved === "ru" ? "ru" : "uz";
+    try {
+      return localStorage.getItem("audio_darsliklar_lang") === "ru" ? "ru" : "uz";
+    } catch {
+      return "uz";
+    }
   });
 
   const setLanguage = (lang: SiteLanguage) => {
     setLanguageState(lang);
-    localStorage.setItem("audio_darsliklar_lang", lang);
+    try {
+      localStorage.setItem("audio_darsliklar_lang", lang);
+    } catch {
+      // ignore
+    }
     document.documentElement.lang = lang;
   };
 

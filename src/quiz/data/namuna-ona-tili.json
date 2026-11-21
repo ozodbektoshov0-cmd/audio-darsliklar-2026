@@ -1,0 +1,25 @@
+{
+  "id": "namuna-ona-tili",
+  "title": "Namuna: So'z turkumlari (Ona tili)",
+  "sample": true,
+  "lang": "uz",
+  "source": "Namuna test: tizimni ko'rsatish uchun. Haqiqiy testlar darslik PDF'laridan tayyorlanadi.",
+  "questions": [
+    { "type": "choice", "q": "Ot so'z turkumi qaysi so'roqlarga javob bo'ladi?", "options": ["kim? nima?", "qanday?", "nima qildi?", "nechta?"], "answer": 0, "explain": "Ot shaxs, narsa va hodisalarning nomini bildiradi." },
+    { "type": "choice", "q": "Sifat nimani bildiradi?", "options": ["Harakatni", "Narsaning belgisini", "Miqdorni", "Narsaning nomini"], "answer": 1, "explain": "Sifat narsaning belgisini bildirib, qanday? qanaqa? so'roqlariga javob bo'ladi." },
+    { "type": "choice", "q": "Fe'l qaysi so'roqqa javob bo'ladi?", "options": ["kim?", "qanday?", "nima qildi?", "nechta?"], "answer": 2 },
+    { "type": "choice", "q": "Son nimani bildiradi?", "options": ["Harakat belgisini", "Shaxs nomini", "Narsaning miqdori yoki tartibini", "His-tuyg'uni"], "answer": 2, "explain": "Son nechta? nechanchi? so'roqlariga javob beradi." },
+    { "type": "truefalse", "q": "«Kitob» so'zi ot so'z turkumiga kiradi.", "answer": true },
+    { "type": "truefalse", "q": "«Yugurdi» so'zi sifat so'z turkumiga kiradi.", "answer": false, "explain": "«Yugurdi» harakatni bildiradi, demak fe'l." },
+    { "type": "fill", "q": "«Maktab» so'zi qaysi so'z turkumiga kiradi? (bir so'z bilan)", "answer": ["ot"] },
+    { "type": "fill", "q": "Narsaning belgisini bildiruvchi so'z turkumi ___ deyiladi.", "answer": ["sifat"] }
+  ],
+  "cards": [
+    ["Ot", "kim? nima? so'roqlariga javob bo'ladi"],
+    ["Sifat", "narsaning belgisini bildiradi (qanday?)"],
+    ["Son", "narsaning miqdori yoki tartibini bildiradi (nechta?)"],
+    ["Fe'l", "harakatni bildiradi (nima qildi?)"],
+    ["Olmosh", "ot, sifat yoki son o'rnida qo'llanadi"],
+    ["Ravish", "harakat belgisini bildiradi (qanday? qachon?)"]
+  ]
+}

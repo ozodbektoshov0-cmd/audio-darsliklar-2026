@@ -21,7 +21,8 @@ import {
   PhoneCall, 
   ChevronRight,
   Sparkles,
-  Bookmark
+  Bookmark,
+  Gamepad2
 } from "lucide-react";
 import { useStudent } from "../context/StudentContext";
 import { useTheme } from "../context/ThemeContext";
@@ -92,6 +93,13 @@ export default function Navbar() {
       desc: language === "uz" ? "1-11 sinf barcha fan audio darsliklari" : "Аудиоучебники для 1-11 классов",
       href: "/library", 
       icon: BookOpen 
+    },
+    { 
+      key: "navTests", 
+      name: t("navTests"), 
+      desc: language === "uz" ? "Darsliklar bo'yicha testlar va o'yinlar" : "Тесты и игры по учебникам",
+      href: "/tests", 
+      icon: Gamepad2 
     },
     { 
       key: "navTts", 

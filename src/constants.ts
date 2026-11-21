@@ -4,7 +4,7 @@
  */
 
 export const SOCIAL_LINKS = {
-  telegram: "https://t.me/@audiodarsliklar2026",
+  telegram: "https://t.me/audiodarsliklar2026",
   telegramAlt: "https://t.me/Audio_Darsliklar_2026",
   youtube: "https://www.youtube.com/@audiodarsliklar2026",
   instagram: "https://www.instagram.com/ozodbek_toshov_",
@@ -33,10 +33,9 @@ export const TEXTBOOKS: Textbook[] = [
     grade: "1",
     title: "1-sinf Alifbe va Ona tili",
     books: [
-      { year: "2021 (Alifbe)", pdf: "https://old.eduportal.uz/Umumiyfiles/darsliklar/1/alifbe_1_uzb.pdf" },
-      { year: "2021 (1-qism)", pdf: "https://old.eduportal.uz/Umumiyfiles/darsliklar/1/ona_tili_1_1qism_uzb.pdf" },
-      { year: "2021 (2-qism)", pdf: "https://old.eduportal.uz/Umumiyfiles/darsliklar/1/ona_tili_1_2qism_uzb.pdf" },
-      { year: "2023", pdf: "https://drive.google.com/file/d/1bF2Q22wE0Fj8e-i3q1K3N9hZ9z1l3m4n/view" },
+      { year: "2023 (Alifbe)", pdf: "https://drive.google.com/file/d/1PIcI2ehj9FKHTz8mqFHFJOERtu2WptlP/view" },
+      { year: "2023 (Ona tili, №1)", pdf: "https://drive.google.com/file/d/1uQ34XXS4i1cx3G5G9N9IA--Y5X_1_f3F/view" },
+      { year: "2023 (Ona tili, №2)", pdf: "https://drive.google.com/file/d/1VYezbWvV0q5pNgCMEPCtLxIQyJ_YGGAl/view" },
     ],
     audio: null,
   },
@@ -45,9 +44,10 @@ export const TEXTBOOKS: Textbook[] = [
     grade: "2",
     title: "2-sinf Ona tili va O'qish",
     books: [
-      { year: "2021 (1-qism)", pdf: "https://old.eduportal.uz/Umumiyfiles/darsliklar/2/ona_tili_2_1qism_uzb.pdf" },
-      { year: "2021 (2-qism)", pdf: "https://old.eduportal.uz/Umumiyfiles/darsliklar/2/ona_tili_2_2qism_uzb.pdf" },
-      { year: "2023", pdf: "https://drive.google.com/file/d/1bF2Q22wE0Fj8e-i3q1K3N9hZ9z1l3m4o/view" },
+      { year: "2021 (№1)", pdf: "https://drive.google.com/file/d/1wUCx4kMkTeCXs3Yi3w8zzi7cHIO72aao/view" },
+      { year: "2021 (№2)", pdf: "https://drive.google.com/file/d/1Fm5wG6Ki7-0ZRODtKVzyPXh-jLE-XQvj/view" },
+      { year: "2023 (№1)", pdf: "https://drive.google.com/file/d/1XHB68RVUlX5JKOIMq6DEmJ2jZ4ITl_FI/view" },
+      { year: "2023 (№4)", pdf: "https://drive.google.com/file/d/13B6QnBTgl700nBH3AsNJiPJdM-IwnOCl/view" },
     ],
     audio: null,
   },
@@ -56,9 +56,9 @@ export const TEXTBOOKS: Textbook[] = [
     grade: "3",
     title: "3-sinf Ona tili va O'qish",
     books: [
-      { year: "2022 (1-qism)", pdf: "https://drive.google.com/file/d/1v9X0k8pQ7m8b2u0v8x9a0b1c2d3e4f5g/view" },
-      { year: "2022 (2-qism)", pdf: "https://drive.google.com/file/d/1w9X0k8pQ7m8b2u0v8x9a0b1c2d3e4f5h/view" },
-      { year: "2023", pdf: "https://drive.google.com/file/d/1bF2Q22wE0Fj8e-i3q1K3N9hZ9z1l3m4p/view" },
+      { year: "2019", pdf: "https://drive.google.com/file/d/1AHUYcuRwNQlGk1BpGRnG28gJdS7WBOpU/view" },
+      { year: "2022", pdf: "https://drive.google.com/file/d/1fu_9YCXLL9YtzT1By74LR7W_WYy9xp-9/view" },
+      { year: "2023 (№1)", pdf: "https://drive.google.com/file/d/1EaCnxnuuVFDgZfhnxEEZXbd1Ig9PuT2G/view" },
     ],
     audio: null,
   },
@@ -67,9 +67,8 @@ export const TEXTBOOKS: Textbook[] = [
     grade: "4",
     title: "4-sinf Ona tili va O'qish",
     books: [
-      { year: "2020", pdf: "https://old.eduportal.uz/Umumiyfiles/darsliklar/4/ona_tili_oqish_4_uzb.pdf" },
-      { year: "2023 (1-qism)", pdf: "https://drive.google.com/file/d/1a0b1c2d3e4f5g6h7i8j9k0l1m2n3o4p/view" },
-      { year: "2023 (2-qism)", pdf: "https://drive.google.com/file/d/1b0b1c2d3e4f5g6h7i8j9k0l1m2n3o4q/view" },
+      { year: "2017", pdf: "https://drive.google.com/file/d/10f6jGj54H4T_uiep_l1ly-sJZ8C1NnD8/view" },
+      { year: "2020", pdf: "https://drive.google.com/file/d/1QafoiNWD8ldE3QuYFGSWOndeIPycwelB/view" },
     ],
     audio: null,
   },
@@ -134,11 +133,10 @@ export const TEXTBOOKS: Textbook[] = [
       },
       {
         year: "2025",
-        pdf: "https://drive.google.com/file/d/1y6Qz_8a9jX4y1F6FzL9fD2qZU4j0NqV4/view",
-        audio: "https://youtube.com/playlist?list=PLOmXeNaR-258&si=8Az86LL1IVTuFshW"
+        pdf: "https://drive.google.com/file/d/1ca-EvPWzLGRKkd6w78d4gpjJV-RBe_R_/view"
       }
     ],
-    audio: true,
+    audio: null,
   },
   {
     id: "class-10",

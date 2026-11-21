@@ -23,11 +23,12 @@ import {
 import { useStudent, SavedBookmarkItem } from "../context/StudentContext";
 import { useLanguage } from "../context/LanguageContext";
 import { Link } from "react-router-dom";
-import { getSafePdfUrl } from "../utils/pdfHelper";
+import { useReader } from "../context/ReaderContext";
 
 export default function MyFavoritesSection() {
   const { profile, removeBookmarkItem, clearAllBookmarks } = useStudent();
   const { language, t } = useLanguage();
+  const { openReader } = useReader();
   
   const [filterType, setFilterType] = useState<"all" | "pdf" | "audio">("all");
   const [selectedGrade, setSelectedGrade] = useState<string>("all");
@@ -325,11 +326,12 @@ export default function MyFavoritesSection() {
 
                       {/* Bottom Direct Actions */}
                       <div className="mt-4 pt-3 border-t border-slate-200/60 dark:border-slate-700/60 flex items-center justify-between gap-2">
-                        {/* Open Link in new tab */}
+                        {/* PDF: saytda o'qish; audio: tashqi havola */}
                         <a
-                          href={isPdf ? getSafePdfUrl(item.url) : item.url}
-                          target="_blank"
-                          rel="noreferrer"
+                          href={isPdf ? "#" : item.url}
+                          target={isPdf ? undefined : "_blank"}
+                          rel="noopener noreferrer"
+                          onClick={isPdf ? (e) => { e.preventDefault(); openReader({ url: item.url, title: item.title }); } : undefined}
                           className={`flex-1 flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl text-xs font-black transition-all shadow-xs ${
                             isPdf
                               ? "bg-brand-primary hover:bg-blue-700 text-white hover:shadow-brand-primary/20"
