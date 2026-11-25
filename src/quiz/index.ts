@@ -17,7 +17,8 @@ export const QUIZZES: Quiz[] = Object.entries(modules)
     }
     return mod;
   })
-  .filter((q): q is Quiz => q !== null);
+  .filter((q): q is Quiz => q !== null)
+  .sort((a, b) => a.id.localeCompare(b.id, undefined, { numeric: true }));
 
 export function getQuiz(id: string | undefined): Quiz | undefined {
   return id ? QUIZZES.find((q) => q.id === id) : undefined;

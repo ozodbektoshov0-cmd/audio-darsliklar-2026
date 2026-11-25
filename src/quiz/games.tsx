@@ -90,10 +90,11 @@ function ChoiceBlock({
 
 /* ============ 1) VIKTORINA ============ */
 export function QuizGame({ quiz, uz, onFinish, onRestart }: GameProps) {
-  const questions = useMemo<Question[]>(
-    () => shuffle(quiz.questions).map((q) => (q.type === "choice" ? shuffleOptions(q) : q)),
-    [quiz],
-  );
+  const [limit, setLimit] = useState<number | "all">("all");
+  const questions = useMemo<Question[]>(() => {
+    const shuffled = shuffle(quiz.questions).map((q) => (q.type === "choice" ? shuffleOptions(q) : q));
+    return limit === "all" ? shuffled : shuffled.slice(0, limit);
+  }, [quiz, limit]);
   const [i, setI] = useState(0);
   const [picked, setPicked] = useState<number | null>(null);
   const [fillValue, setFillValue] = useState("");
@@ -154,8 +155,46 @@ export function QuizGame({ quiz, uz, onFinish, onRestart }: GameProps) {
     setFillChecked(null);
   };
 
+  const changeLimit = (nextLimit: number | "all") => {
+    setLimit(nextLimit);
+    setI(0);
+    setPicked(null);
+    setFillValue("");
+    setFillChecked(null);
+    setCorrect(0);
+    setDone(false);
+    reported.current = false;
+  };
+
   return (
     <div className={card}>
+      {quiz.questions.length > 20 && i === 0 && !answered && (
+        <div className="flex flex-wrap items-center justify-between gap-2 pb-4 mb-4 border-b border-slate-100 dark:border-slate-800">
+          <span className="text-xs font-bold text-slate-500 dark:text-slate-400">
+            {uz ? "Savollar soni:" : "Количество вопросов:"}
+          </span>
+          <div className="flex items-center gap-1.5">
+            {([20, 50, "all"] as const).map((opt) => (
+              <button
+                key={String(opt)}
+                type="button"
+                onClick={() => changeLimit(opt)}
+                className={`px-2.5 py-1 rounded-lg text-xs font-bold transition-colors ${
+                  limit === opt
+                    ? "bg-brand-primary text-white"
+                    : "bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-200 dark:hover:bg-slate-700"
+                }`}
+              >
+                {opt === "all"
+                  ? uz
+                    ? `Barchasi (${quiz.questions.length})`
+                    : `Все (${quiz.questions.length})`
+                  : `${opt} ${uz ? "ta" : "шт."}`}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
       <div className="flex items-center justify-between text-xs font-bold text-slate-500 dark:text-slate-400 mb-3">
         <span>
           {uz ? "Savol" : "Вопрос"} {i + 1}/{total}

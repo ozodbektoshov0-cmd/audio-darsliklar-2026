@@ -1,10 +1,10 @@
 import { useCallback, useState } from "react";
-import { Link, useParams } from "react-router-dom";
-import { ArrowLeft, BookOpen, FlaskConical, ListChecks, Timer, Layers, Link2 } from "lucide-react";
+import { Link, useNavigate, useParams } from "react-router-dom";
+import { ArrowLeft, BookOpen, FlaskConical, ListChecks, Timer, Layers, Link2, ChevronLeft, ChevronRight } from "lucide-react";
 import { ALL_SUBJECTS } from "../data";
 import { useLanguage } from "../context/LanguageContext";
 import { useReader } from "../context/ReaderContext";
-import { getQuiz } from "../quiz";
+import { getQuiz, getQuizzesBySubject } from "../quiz";
 import type { GameId } from "../quiz";
 import { useQuizResults } from "../quiz/util";
 import { CardsGame, MatchGame, QuizGame, TimedGame } from "../quiz/games";
@@ -16,6 +16,7 @@ export default function TestDetail() {
   const { openReader } = useReader();
   const { results, record } = useQuizResults();
 
+  const navigate = useNavigate();
   const quiz = getQuiz(id);
   const [game, setGame] = useState<GameId>("quiz");
   // Qayta o'ynash uchun komponentni qayta yaratamiz
@@ -41,6 +42,10 @@ export default function TestDetail() {
   }
 
   const subject = quiz.subjectId ? ALL_SUBJECTS.find((s) => s.id === quiz.subjectId) : undefined;
+  const siblings = quiz.subjectId ? getQuizzesBySubject(quiz.subjectId) : [];
+  const siblingIdx = siblings.findIndex((s) => s.id === quiz.id);
+  const prevTopic = siblingIdx > 0 ? siblings[siblingIdx - 1] : undefined;
+  const nextTopic = siblingIdx >= 0 && siblingIdx + 1 < siblings.length ? siblings[siblingIdx + 1] : undefined;
   const firstPdf = subject?.resources.find((r) => r.pdfUrl)?.pdfUrl ?? undefined;
   const res = results[quiz.id];
 
@@ -70,16 +75,54 @@ export default function TestDetail() {
           </div>
         )}
 
-        {firstPdf && (
-          <button
-            type="button"
-            onClick={() => openReader({ url: firstPdf, title: subject!.name })}
-            className="mb-6 inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-sm font-bold text-slate-800 dark:text-slate-200 hover:border-brand-primary"
-          >
-            <BookOpen size={15} className="text-brand-primary" />
-            {uz ? "Darslikni o'qish" : "Читать учебник"}
-          </button>
-        )}
+        <div className="flex flex-wrap items-center gap-2.5 mb-6">
+          {firstPdf && (
+            <button
+              type="button"
+              onClick={() => openReader({ url: firstPdf, title: subject!.name })}
+              className="inline-flex items-center gap-2 px-4 py-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-sm font-bold text-slate-800 dark:text-slate-200 hover:border-brand-primary"
+            >
+              <BookOpen size={15} className="text-brand-primary" />
+              {uz ? "Darslikni o'qish" : "Читать учебник"}
+            </button>
+          )}
+          {siblings.length > 1 && (
+            <div className="flex items-center gap-1.5 flex-1 min-w-[220px]">
+              {prevTopic && (
+                <Link
+                  to={`/tests/${prevTopic.id}`}
+                  className="p-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-brand-primary"
+                  aria-label={uz ? "Oldingi mavzu" : "Предыдущая тема"}
+                  title={prevTopic.title}
+                >
+                  <ChevronLeft size={16} />
+                </Link>
+              )}
+              <select
+                value={quiz.id}
+                onChange={(e) => navigate(`/tests/${e.target.value}`)}
+                aria-label={uz ? "Mavzuni tanlang" : "Выберите тему"}
+                className="flex-1 min-w-0 px-3 py-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-xs sm:text-sm font-bold text-slate-800 dark:text-slate-200 focus:outline-none focus:ring-2 focus:ring-brand-primary"
+              >
+                {siblings.map((t) => (
+                  <option key={t.id} value={t.id}>
+                    {t.title} ({t.questions.length} {uz ? "savol" : "вопр."})
+                  </option>
+                ))}
+              </select>
+              {nextTopic && (
+                <Link
+                  to={`/tests/${nextTopic.id}`}
+                  className="p-2 rounded-xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-600 dark:text-slate-300 hover:border-brand-primary"
+                  aria-label={uz ? "Keyingi mavzu" : "Следующая тема"}
+                  title={nextTopic.title}
+                >
+                  <ChevronRight size={16} />
+                </Link>
+              )}
+            </div>
+          )}
+        </div>
 
         <div className="grid grid-cols-2 sm:grid-cols-4 gap-2 mb-6">
           {games.map((g) => {
@@ -109,7 +152,7 @@ export default function TestDetail() {
           })}
         </div>
 
-        <div key={`${game}-${round}`}>
+        <div key={`${quiz.id}-${game}-${round}`}>
           {game === "quiz" && <QuizGame {...props} />}
           {game === "timed" && <TimedGame {...props} />}
           {game === "cards" && <CardsGame {...props} />}

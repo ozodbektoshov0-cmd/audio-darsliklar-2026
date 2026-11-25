@@ -6,7 +6,7 @@ import type { GradeNumber } from "../data";
 import { useLanguage } from "../context/LanguageContext";
 import { useStudent } from "../context/StudentContext";
 import { QUIZZES, getQuizzesBySubject } from "../quiz";
-import { useQuizResults } from "../quiz/util";
+import { normalize, useQuizResults } from "../quiz/util";
 
 const GRADES: GradeNumber[] = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"];
 
@@ -16,7 +16,21 @@ export default function Tests() {
   const { profile } = useStudent();
   const { results } = useQuizResults();
 
-  const [grade, setGrade] = useState<GradeNumber>(profile.grade ?? "5");
+  const gradeQuizCounts = useMemo(() => {
+    const map: Record<string, number> = {};
+    for (const g of GRADES) {
+      map[g] = ALL_SUBJECTS.filter((s) => s.grade === g).reduce(
+        (acc, s) => acc + getQuizzesBySubject(s.id).length,
+        0,
+      );
+    }
+    return map;
+  }, []);
+
+  const defaultGrade: GradeNumber =
+    profile.grade ?? GRADES.find((g) => gradeQuizCounts[g] > 0) ?? "5";
+
+  const [grade, setGrade] = useState<GradeNumber>(defaultGrade);
   const [search, setSearch] = useState("");
   const [onlyReady, setOnlyReady] = useState(true);
 
@@ -24,11 +38,20 @@ export default function Tests() {
   const readyCount = QUIZZES.filter((q) => !q.sample).length;
 
   const subjects = useMemo(() => {
-    const term = search.trim().toLowerCase();
+    const term = normalize(search);
     return ALL_SUBJECTS.filter((s) => s.grade === grade)
-      .filter((s) => !term || s.name.toLowerCase().includes(term))
-      .map((s) => ({ s, quizzes: getQuizzesBySubject(s.id) }))
-      .filter(({ quizzes }) => !onlyReady || quizzes.length > 0);
+      .map((s) => {
+        const allQuizzes = getQuizzesBySubject(s.id);
+        if (!term) return { s, quizzes: allQuizzes };
+        const subjectMatches = normalize(s.name).includes(term);
+        const matchingQuizzes = allQuizzes.filter((q) => normalize(q.title).includes(term));
+        if (subjectMatches) return { s, quizzes: allQuizzes };
+        if (matchingQuizzes.length > 0) return { s, quizzes: matchingQuizzes };
+        return null;
+      })
+      .filter((item): item is { s: (typeof ALL_SUBJECTS)[number]; quizzes: ReturnType<typeof getQuizzesBySubject> } =>
+        item !== null && (!onlyReady || item.quizzes.length > 0),
+      );
   }, [grade, search, onlyReady]);
 
   return (
@@ -71,20 +94,34 @@ export default function Tests() {
         )}
 
         <div className="flex flex-wrap gap-2 mb-5">
-          {GRADES.map((g) => (
-            <button
-              key={g}
-              type="button"
-              onClick={() => setGrade(g)}
-              className={`px-3.5 py-1.5 rounded-xl text-sm font-bold border transition-colors ${
-                grade === g
-                  ? "bg-brand-primary border-brand-primary text-white"
-                  : "bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 hover:border-brand-primary"
-              }`}
-            >
-              {g}-{uz ? "sinf" : "класс"}
-            </button>
-          ))}
+          {GRADES.map((g) => {
+            const count = gradeQuizCounts[g];
+            return (
+              <button
+                key={g}
+                type="button"
+                onClick={() => setGrade(g)}
+                className={`inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-xl text-sm font-bold border transition-colors ${
+                  grade === g
+                    ? "bg-brand-primary border-brand-primary text-white"
+                    : "bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-300 hover:border-brand-primary"
+                }`}
+              >
+                <span>{g}-{uz ? "sinf" : "класс"}</span>
+                {count > 0 && (
+                  <span
+                    className={`px-1.5 py-0.5 rounded-md text-[10px] font-black leading-none ${
+                      grade === g
+                        ? "bg-white/20 text-white"
+                        : "bg-emerald-100 dark:bg-emerald-900/50 text-emerald-700 dark:text-emerald-300"
+                    }`}
+                  >
+                    {count}
+                  </span>
+                )}
+              </button>
+            );
+          })}
         </div>
 
         <div className="flex flex-col sm:flex-row gap-3 mb-6">
@@ -93,7 +130,7 @@ export default function Tests() {
             <input
               value={search}
               onChange={(e) => setSearch(e.target.value)}
-              placeholder={uz ? "Fan nomi bo'yicha qidirish..." : "Поиск по предмету..."}
+              placeholder={uz ? "Fan yoki mavzu bo'yicha qidirish..." : "Поиск по предмету или теме..."}
               className="w-full pl-10 pr-4 py-2.5 rounded-xl border border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 text-sm text-slate-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-brand-primary"
             />
           </div>
@@ -127,26 +164,36 @@ export default function Tests() {
             )}
           </div>
         ) : (
-          <div className="grid sm:grid-cols-2 gap-4">
+          <div className={`grid gap-4 ${subjects.length === 1 ? "grid-cols-1" : "sm:grid-cols-2"}`}>
             {subjects.map(({ s, quizzes }) => (
-              <div key={s.id} className="p-5 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800">
-                <h3 className="font-bold text-slate-900 dark:text-white mb-1">{s.name}</h3>
-                <p className="text-xs text-slate-500 dark:text-slate-400 mb-3">
-                  {s.category} · {s.lang === "uz" ? "O'zbek" : "Русский"}
-                </p>
+              <div key={s.id} className="min-w-0 p-5 sm:p-6 rounded-2xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800">
+                <div className="flex flex-wrap items-baseline justify-between gap-2 mb-3">
+                  <div>
+                    <h3 className="font-bold text-lg text-slate-900 dark:text-white">{s.name}</h3>
+                    <p className="text-xs text-slate-500 dark:text-slate-400">
+                      {s.category} · {s.lang === "uz" ? "O'zbek" : "Русский"}
+                    </p>
+                  </div>
+                  {quizzes.length > 0 && (
+                    <span className="text-xs font-bold text-slate-500 dark:text-slate-400">
+                      {quizzes.length} {uz ? "mavzu" : "тем"} ·{" "}
+                      {quizzes.reduce((sum, q) => sum + q.questions.length, 0)} {uz ? "savol" : "вопр."}
+                    </span>
+                  )}
+                </div>
                 {quizzes.length === 0 ? (
                   <p className="text-xs font-semibold text-slate-400 flex items-center gap-1.5">
                     <Clock size={13} /> {uz ? "Tez orada" : "Скоро"}
                   </p>
                 ) : (
-                  <div className="space-y-2">
+                  <div className={`grid gap-2 ${quizzes.length > 4 ? "sm:grid-cols-2" : "grid-cols-1"}`}>
                     {quizzes.map((q) => {
                       const best = results[q.id]?.quiz?.best;
                       return (
                         <Link
                           key={q.id}
                           to={`/tests/${q.id}`}
-                          className="flex items-center justify-between gap-2 px-3 py-2 rounded-xl bg-blue-50 dark:bg-slate-800 hover:bg-brand-primary hover:text-white text-brand-primary dark:text-blue-300 text-sm font-bold transition-colors"
+                          className="min-w-0 flex items-center justify-between gap-2 px-3.5 py-2.5 rounded-xl bg-blue-50 dark:bg-slate-800 hover:bg-brand-primary hover:text-white text-brand-primary dark:text-blue-300 text-sm font-bold transition-colors"
                         >
                           <span className="truncate">{q.title}</span>
                           <span className="shrink-0 flex items-center gap-1 text-xs">
