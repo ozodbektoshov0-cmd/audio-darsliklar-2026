@@ -22,11 +22,14 @@ import {
   ChevronRight,
   Sparkles,
   Bookmark,
-  Gamepad2
+  Gamepad2,
+  LogIn,
+  LogOut
 } from "lucide-react";
 import { useStudent } from "../context/StudentContext";
 import { useTheme } from "../context/ThemeContext";
 import { useLanguage } from "../context/LanguageContext";
+import { useAuth } from "../context/AuthContext";
 import { SOCIAL_LINKS } from "../constants";
 import AnimatedMenuButton from "./AnimatedMenuButton";
 import AnimatedSocialIcon from "./AnimatedSocialIcon";
@@ -41,6 +44,7 @@ export default function Navbar() {
   const { profile } = useStudent();
   const { theme, toggleTheme } = useTheme();
   const { language, setLanguage, t } = useLanguage();
+  const { user, authBusy, loginWithGoogle, logout } = useAuth();
 
   useEffect(() => {
     const handleScroll = () => {
@@ -160,8 +164,8 @@ export default function Navbar() {
                 referrerPolicy="no-referrer"
               />
             </div>
-            <div className="flex flex-col">
-              <span className="text-xl sm:text-2xl font-serif font-black text-slate-900 dark:text-white tracking-tight leading-tight">
+            <div className="flex flex-col min-w-0">
+              <span className="text-base sm:text-2xl font-serif font-black text-slate-900 dark:text-white tracking-tight leading-tight whitespace-nowrap">
                 Audio <span className="text-brand-primary">Darsliklar</span>
               </span>
               <span className="text-[10px] font-bold text-slate-400 dark:text-slate-500 tracking-wider uppercase hidden sm:block">
@@ -172,6 +176,47 @@ export default function Navbar() {
 
           {/* Top Right Action Controls + Animated Menu Button */}
           <div className="flex items-center gap-2 sm:gap-3">
+            {/* Quick Google Sign-In / Account Badge */}
+            {user ? (
+              <div className="flex items-center gap-1.5 pl-2 pr-1.5 py-1 rounded-xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-800">
+                {user.photoURL ? (
+                  <img
+                    src={user.photoURL}
+                    alt={user.displayName || "Google"}
+                    className="w-6 h-6 rounded-full object-cover"
+                    referrerPolicy="no-referrer"
+                  />
+                ) : (
+                  <span className="w-6 h-6 rounded-full bg-emerald-600 text-white text-[11px] font-black flex items-center justify-center">
+                    {(user.displayName || "G")[0].toUpperCase()}
+                  </span>
+                )}
+                <span className="hidden md:inline max-w-[110px] truncate text-xs font-bold text-slate-800 dark:text-slate-100">
+                  {user.displayName || user.email}
+                </span>
+                <button
+                  type="button"
+                  onClick={() => void logout()}
+                  title={language === "uz" ? "Chiqish" : "Выйти"}
+                  aria-label={language === "uz" ? "Chiqish" : "Выйти"}
+                  className="p-1 rounded-lg text-slate-500 hover:text-red-600 hover:bg-white dark:hover:bg-slate-800 transition-colors"
+                >
+                  <LogOut size={14} />
+                </button>
+              </div>
+            ) : (
+              <button
+                type="button"
+                disabled={authBusy}
+                onClick={() => void loginWithGoogle()}
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 rounded-xl bg-brand-primary hover:bg-blue-700 text-white font-bold text-xs shadow-xs transition-colors whitespace-nowrap"
+              >
+                <LogIn size={14} />
+                <span className="hidden sm:inline">{language === "uz" ? "Google kirish" : "Войти (Google)"}</span>
+                <span className="sm:hidden">{language === "uz" ? "Kirish" : "Вход"}</span>
+              </button>
+            )}
+
             {/* Quick Profile / Grade Pill (if selected) */}
             {profile.grade && (
               <Link

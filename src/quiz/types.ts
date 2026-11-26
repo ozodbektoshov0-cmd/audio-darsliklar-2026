@@ -30,7 +30,7 @@ export type Question = ChoiceQuestion | TrueFalseQuestion | FillQuestion;
 export interface Quiz {
   /** Noyob id; URL: /tests/:id */
   id: string;
-  /** src/data'dagi fan id'si (masalan "g8-uz-adabiyot"); namunalar uchun bo'sh */
+  /** src/data'dagi fan id'si (masalan "g9-uz-adabiyot"); namunalar uchun bo'sh */
   subjectId?: string;
   title: string;
   grade?: GradeNumber;
@@ -39,9 +39,40 @@ export interface Quiz {
   source?: string;
   /** Namuna / tekshirilmagan kontent belgisi */
   sample?: boolean;
+  /** Foydalanuvchi yaratgan test belgisi */
+  custom?: boolean;
+  /** Yaratuvchi Firebase UID */
+  ownerId?: string;
+  /** Yaratuvchi ismi */
+  authorName?: string;
+  /** Darslik nomi */
+  subjectName?: string;
+  /** Mavzu nomi */
+  topicTitle?: string;
   questions: Question[];
   /** Kartochkalar va juftlash o'yini uchun [old, orqa] juftliklar */
   cards?: [string, string][];
 }
 
 export type GameId = "quiz" | "timed" | "cards" | "match";
+
+export type IntellectualGameId =
+  | "mystery-box"
+  | "wheel"
+  | "tug-of-war"
+  | "jeopardy"
+  | "anagram"
+  | "word-search"
+  | "sentence-builder"
+  | "fill-blank"
+  | "cards-match";
+
+export type PlayMode = "solo" | "teams" | "class";
+
+export interface QuizAnswerReview {
+  question: Question;
+  userAnswer: string;
+  correctAnswer: string;
+  isCorrect: boolean;
+  explanation: string;
+}

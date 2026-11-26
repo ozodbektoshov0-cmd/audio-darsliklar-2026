@@ -1,0 +1,132 @@
+{
+  "entities": {
+    "UserProfile": {
+      "title": "UserProfile",
+      "description": "Authenticated platform user profile without PII email exposure.",
+      "type": "object",
+      "properties": {
+        "uid": {
+          "type": "string",
+          "description": "Firebase Auth UID",
+          "maxLength": 128,
+          "pattern": "^[a-zA-Z0-9_\\-]+$"
+        },
+        "displayName": {
+          "type": "string",
+          "description": "Public display name",
+          "minLength": 1,
+          "maxLength": 100
+        },
+        "photoURL": {
+          "type": "string",
+          "description": "Avatar URL",
+          "maxLength": 500
+        },
+        "role": {
+          "type": "string",
+          "enum": ["student", "teacher"],
+          "description": "User role"
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": ["uid", "displayName", "role", "createdAt", "updatedAt"]
+    },
+    "CustomQuiz": {
+      "title": "CustomQuiz",
+      "description": "Teacher or user created and uploaded quiz set linked to a grade, subject, and topic.",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "maxLength": 128,
+          "pattern": "^[a-zA-Z0-9_\\-]+$"
+        },
+        "ownerId": {
+          "type": "string",
+          "maxLength": 128,
+          "pattern": "^[a-zA-Z0-9_\\-]+$"
+        },
+        "authorName": {
+          "type": "string",
+          "maxLength": 100
+        },
+        "title": {
+          "type": "string",
+          "minLength": 2,
+          "maxLength": 180
+        },
+        "grade": {
+          "type": "string",
+          "enum": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "all"]
+        },
+        "lang": {
+          "type": "string",
+          "enum": ["uz", "ru"]
+        },
+        "subjectId": {
+          "type": "string",
+          "maxLength": 120
+        },
+        "subjectName": {
+          "type": "string",
+          "maxLength": 140
+        },
+        "topicTitle": {
+          "type": "string",
+          "maxLength": 180
+        },
+        "source": {
+          "type": "string",
+          "maxLength": 240
+        },
+        "isPublic": {
+          "type": "boolean"
+        },
+        "questions": {
+          "type": "array",
+          "description": "Bounded array of quiz question objects (1 to 250)."
+        },
+        "createdAt": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "updatedAt": {
+          "type": "string",
+          "format": "date-time"
+        }
+      },
+      "required": [
+        "id",
+        "ownerId",
+        "authorName",
+        "title",
+        "grade",
+        "lang",
+        "subjectId",
+        "subjectName",
+        "topicTitle",
+        "isPublic",
+        "questions",
+        "createdAt",
+        "updatedAt"
+      ]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": { "$ref": "#/entities/UserProfile" },
+      "description": "Private user profile document keyed by auth UID."
+    },
+    "/customQuizzes/{quizId}": {
+      "schema": { "$ref": "#/entities/CustomQuiz" },
+      "description": "Teacher-created and file-imported quiz sets."
+    }
+  }
+}

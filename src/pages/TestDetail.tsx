@@ -1,12 +1,13 @@
 import { useCallback, useState } from "react";
 import { Link, useNavigate, useParams } from "react-router-dom";
-import { ArrowLeft, BookOpen, FlaskConical, ListChecks, Timer, Layers, Link2, ChevronLeft, ChevronRight } from "lucide-react";
+import { ArrowLeft, BookOpen, FlaskConical, ListChecks, Timer, Layers, Link2, ChevronLeft, ChevronRight, Gamepad2 } from "lucide-react";
 import { ALL_SUBJECTS } from "../data";
 import { useLanguage } from "../context/LanguageContext";
 import { useReader } from "../context/ReaderContext";
 import { getQuiz, getQuizzesBySubject } from "../quiz";
 import type { GameId } from "../quiz";
-import { useQuizResults } from "../quiz/util";
+import { buildBookQuiz, useQuizResults } from "../quiz/util";
+import { useCloudCustomQuizzes } from "../quiz/useCustomQuizzes";
 import { CardsGame, MatchGame, QuizGame, TimedGame } from "../quiz/games";
 
 export default function TestDetail() {
@@ -15,17 +16,25 @@ export default function TestDetail() {
   const uz = language === "uz";
   const { openReader } = useReader();
   const { results, record } = useQuizResults();
+  const { customQuizzes } = useCloudCustomQuizzes();
 
   const navigate = useNavigate();
-  const quiz = getQuiz(id);
+
+  let quiz = getQuiz(id) ?? customQuizzes.find((c) => c.id === id);
+  if (!quiz && id?.startsWith("book:")) {
+    const subjId = id.slice(5);
+    const subj = ALL_SUBJECTS.find((s) => s.id === subjId);
+    const list = getQuizzesBySubject(subjId);
+    quiz = buildBookQuiz(subjId, list, subj?.name ?? "Darslik", uz);
+  }
+
   const [game, setGame] = useState<GameId>("quiz");
-  // Qayta o'ynash uchun komponentni qayta yaratamiz
   const [round, setRound] = useState(0);
 
   const restart = useCallback(() => setRound((r) => r + 1), []);
   const finish = useCallback(
-    (score: number) => {
-      if (quiz) record(quiz.id, game, score);
+    (score: number, elapsedSec?: number) => {
+      if (quiz) record(quiz.id, game, score, elapsedSec);
     },
     [quiz, record, game],
   );
@@ -35,7 +44,7 @@ export default function TestDetail() {
       <div className="pt-32 pb-20 min-h-screen bg-slate-50 dark:bg-slate-950 text-center px-4">
         <h1 className="text-2xl font-black text-slate-900 dark:text-white mb-3">{uz ? "Test topilmadi" : "Тест не найден"}</h1>
         <Link to="/tests" className="text-brand-primary dark:text-blue-300 font-bold underline">
-          {uz ? "Barcha testlarga qaytish" : "Ко всем тестам"}
+          {uz ? "Test va o'yinlarga qaytish" : "Вернуться к тестам и играм"}
         </Link>
       </div>
     );
@@ -50,8 +59,8 @@ export default function TestDetail() {
   const res = results[quiz.id];
 
   const games: { id: GameId; label: string; icon: typeof ListChecks; unit: string }[] = [
-    { id: "quiz", label: uz ? "Viktorina" : "Викторина", icon: ListChecks, unit: "%" },
-    { id: "timed", label: uz ? "Vaqtga qarshi" : "На время", icon: Timer, unit: "" },
+    { id: "quiz", label: uz ? "Test (Vaqtli)" : "Тест", icon: ListChecks, unit: "%" },
+    { id: "timed", label: uz ? "60s Tezkor" : "60с Блиц", icon: Timer, unit: "" },
     { id: "cards", label: uz ? "Kartochkalar" : "Карточки", icon: Layers, unit: "%" },
     { id: "match", label: uz ? "Juftlash" : "Пары", icon: Link2, unit: "" },
   ];
@@ -61,9 +70,17 @@ export default function TestDetail() {
   return (
     <div className="pt-28 pb-20 bg-slate-50 dark:bg-slate-950 min-h-screen">
       <div className="container mx-auto px-4 max-w-3xl">
-        <Link to="/tests" className="inline-flex items-center gap-1.5 text-sm font-bold text-slate-500 hover:text-brand-primary mb-5">
-          <ArrowLeft size={15} /> {uz ? "Barcha testlar" : "Все тесты"}
-        </Link>
+        <div className="flex flex-wrap items-center justify-between gap-3 mb-5">
+          <Link to="/tests" className="inline-flex items-center gap-1.5 text-sm font-bold text-slate-500 hover:text-brand-primary">
+            <ArrowLeft size={15} /> {uz ? "Testlar va o'yinlar" : "Тесты и игры"}
+          </Link>
+          <Link
+            to="/tests?section=games"
+            className="inline-flex items-center gap-1.5 text-xs font-bold text-brand-primary dark:text-blue-300 hover:underline"
+          >
+            <Gamepad2 size={14} /> {uz ? "9 xil intellektual o'yinlar" : "9 интеллектуальных игр"}
+          </Link>
+        </div>
 
         <h1 className="text-2xl sm:text-4xl font-serif font-black text-slate-900 dark:text-white mb-2">{quiz.title}</h1>
         {quiz.source && <p className="text-sm text-slate-500 dark:text-slate-400 mb-4">{quiz.source}</p>}

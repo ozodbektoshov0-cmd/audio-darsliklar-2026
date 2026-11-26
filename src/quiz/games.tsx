@@ -1,20 +1,31 @@
 import { useEffect, useMemo, useRef, useState } from "react";
-import { Check, X, RotateCcw, Timer, Trophy, ArrowRight, Repeat } from "lucide-react";
-import type { ChoiceQuestion, FillQuestion, Question, Quiz, TrueFalseQuestion } from "./types";
-import { correctAnswerText, getCards, isChoiceLike, isFillCorrect, shuffle, shuffleOptions } from "./util";
+import { Check, X, RotateCcw, Timer, Trophy, ArrowRight, Repeat, Clock } from "lucide-react";
+import type { ChoiceQuestion, FillQuestion, Question, Quiz, QuizAnswerReview, TrueFalseQuestion } from "./types";
+import {
+  buildExplanation,
+  correctAnswerText,
+  formatTimerHMS,
+  getCards,
+  isChoiceLike,
+  isFillCorrect,
+  shuffle,
+  shuffleOptions,
+} from "./util";
 
-interface GameProps {
+export interface GameProps {
   quiz: Quiz;
   uz: boolean;
-  /** O'yin tugaganda natija (0-100 yoki to'g'ri javoblar soni) bilan chaqiriladi */
-  onFinish: (score: number) => void;
+  /** Boshlang'ich savollar soni (masalan, bosqichma-bosqich tanlanganda) */
+  initialLimit?: number | "all";
+  /** O'yin tugaganda natija va sarflangan vaqt (soniyada) bilan chaqiriladi */
+  onFinish: (score: number, elapsedSeconds?: number) => void;
   onRestart: () => void;
 }
 
 const card =
   "bg-white dark:bg-slate-900 rounded-3xl border border-slate-200 dark:border-slate-800 p-5 sm:p-8 shadow-sm";
 const primaryBtn =
-  "inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-brand-primary hover:bg-blue-700 text-white text-sm font-bold transition-colors disabled:opacity-50";
+  "inline-flex items-center justify-center gap-2 px-5 py-2.5 rounded-xl bg-brand-primary hover:bg-blue-700 text-white text-sm font-bold transition-colors disabled:opacity-50 whitespace-nowrap shrink-0";
 
 function ResultCard({
   title,
@@ -33,7 +44,7 @@ function ResultCard({
     <div className={`${card} text-center`}>
       <Trophy className="mx-auto text-amber-500 mb-3" size={40} />
       <p className="text-sm font-bold text-slate-500 dark:text-slate-400">{title}</p>
-      <p className="text-5xl font-black text-slate-900 dark:text-white my-3">{big}</p>
+      <p className="text-5xl font-black text-slate-900 dark:text-white my-3 tabular-nums">{big}</p>
       {sub && <p className="text-slate-600 dark:text-slate-300 mb-6">{sub}</p>}
       <button type="button" onClick={onRestart} className={primaryBtn}>
         <RotateCcw size={16} />
@@ -45,9 +56,12 @@ function ResultCard({
 
 function optionClass(state: "idle" | "correct" | "wrong" | "dim") {
   const base = "w-full text-left px-4 py-3 rounded-xl border text-sm font-semibold transition-colors ";
-  if (state === "correct") return base + "bg-emerald-50 dark:bg-emerald-950/50 border-emerald-500 text-emerald-800 dark:text-emerald-300";
-  if (state === "wrong") return base + "bg-red-50 dark:bg-red-950/50 border-red-500 text-red-800 dark:text-red-300";
-  if (state === "dim") return base + "border-slate-200 dark:border-slate-800 text-slate-400 dark:text-slate-600";
+  if (state === "correct")
+    return base + "bg-emerald-50 dark:bg-emerald-950/50 border-emerald-500 text-emerald-800 dark:text-emerald-300";
+  if (state === "wrong")
+    return base + "bg-red-50 dark:bg-red-950/50 border-red-500 text-red-800 dark:text-red-300";
+  if (state === "dim")
+    return base + "border-slate-200 dark:border-slate-800 text-slate-400 dark:text-slate-600";
   return (
     base +
     "border-slate-200 dark:border-slate-700 hover:border-brand-primary hover:bg-blue-50 dark:hover:bg-slate-800 text-slate-800 dark:text-slate-100"
@@ -55,7 +69,7 @@ function optionClass(state: "idle" | "correct" | "wrong" | "dim") {
 }
 
 /** Variantli yoki to'g'ri/noto'g'ri savol uchun tanlash tugmalari */
-function ChoiceBlock({
+export function ChoiceBlock({
   q,
   picked,
   onPick,
@@ -74,12 +88,18 @@ function ChoiceBlock({
         let state: "idle" | "correct" | "wrong" | "dim" = "idle";
         if (picked !== null) state = i === correctIdx ? "correct" : i === picked ? "wrong" : "dim";
         return (
-          <button key={i} type="button" disabled={picked !== null} onClick={() => onPick(i)} className={optionClass(state)}>
+          <button
+            key={i}
+            type="button"
+            disabled={picked !== null}
+            onClick={() => onPick(i)}
+            className={optionClass(state)}
+          >
             <span className="inline-flex items-center gap-3">
               <span className="w-6 h-6 shrink-0 rounded-lg bg-slate-100 dark:bg-slate-800 text-[11px] font-black flex items-center justify-center text-slate-500">
                 {q.type === "choice" ? String.fromCharCode(65 + i) : i === 0 ? "✓" : "✗"}
               </span>
-              {opt}
+              <span>{opt}</span>
             </span>
           </button>
         );
@@ -88,43 +108,189 @@ function ChoiceBlock({
   );
 }
 
-/* ============ 1) VIKTORINA ============ */
-export function QuizGame({ quiz, uz, onFinish, onRestart }: GameProps) {
-  const [limit, setLimit] = useState<number | "all">("all");
+/* ============ 1) VIKTORINA (TO'LIQ TEST REJIMI: VAQT + IZOH + TAHLIL) ============ */
+export function QuizGame({ quiz, uz, initialLimit = "all", onFinish, onRestart }: GameProps) {
+  const [limit, setLimit] = useState<number | "all">(initialLimit);
   const questions = useMemo<Question[]>(() => {
     const shuffled = shuffle(quiz.questions).map((q) => (q.type === "choice" ? shuffleOptions(q) : q));
-    return limit === "all" ? shuffled : shuffled.slice(0, limit);
+    return limit === "all" ? shuffled : shuffled.slice(0, Math.min(limit, shuffled.length));
   }, [quiz, limit]);
+
   const [i, setI] = useState(0);
   const [picked, setPicked] = useState<number | null>(null);
   const [fillValue, setFillValue] = useState("");
   const [fillChecked, setFillChecked] = useState<null | boolean>(null);
   const [correct, setCorrect] = useState(0);
   const [done, setDone] = useState(false);
+  const [elapsedSec, setElapsedSec] = useState(0);
+  const [reviews, setReviews] = useState<QuizAnswerReview[]>([]);
+  const [reviewFilter, setReviewFilter] = useState<"all" | "wrong" | "correct">("all");
   const reported = useRef(false);
 
   const total = questions.length;
   const q = questions[i];
 
+  // Test davomida tepada chetda vaqt ketib turadi (xx.xx.xx)
   useEffect(() => {
-    if (done && !reported.current) {
+    if (done || total === 0) return;
+    const interval = window.setInterval(() => {
+      setElapsedSec((s) => s + 1);
+    }, 1000);
+    return () => window.clearInterval(interval);
+  }, [done, total]);
+
+  useEffect(() => {
+    if (done && !reported.current && total > 0) {
       reported.current = true;
-      onFinish(Math.round((correct / total) * 100));
+      onFinish(Math.round((correct / total) * 100), elapsedSec);
     }
-  }, [done, correct, total, onFinish]);
+  }, [done, correct, total, elapsedSec, onFinish]);
 
   if (total === 0) return <div className={card}>{uz ? "Savollar yo'q." : "Нет вопросов."}</div>;
 
   if (done) {
     const pct = Math.round((correct / total) * 100);
+    const wrongCount = total - correct;
+    const filteredReviews = reviews.filter((r) => {
+      if (reviewFilter === "wrong") return !r.isCorrect;
+      if (reviewFilter === "correct") return r.isCorrect;
+      return true;
+    });
+
     return (
-      <ResultCard
-        uz={uz}
-        title={uz ? "Viktorina natijasi" : "Результат викторины"}
-        big={`${pct}%`}
-        sub={uz ? `${total} ta savoldan ${correct} tasi to'g'ri` : `${correct} из ${total} верно`}
-        onRestart={onRestart}
-      />
+      <div className="space-y-6">
+        <div className={`${card} text-center`}>
+          <Trophy className="mx-auto text-amber-500 mb-3" size={40} />
+          <p className="text-sm font-bold text-slate-500 dark:text-slate-400">
+            {uz ? "Test yakunlandi" : "Тест завершён"}
+          </p>
+          <p className="text-5xl font-black text-slate-900 dark:text-white my-3 tabular-nums">{pct}%</p>
+          <div className="flex flex-wrap items-center justify-center gap-4 text-sm text-slate-600 dark:text-slate-300 mb-6">
+            <span className="font-semibold">
+              {uz ? `${total} ta savoldan ${correct} tasi to'g'ri` : `${correct} из ${total} верно`}
+            </span>
+            <span aria-hidden="true">·</span>
+            <span className="inline-flex items-center gap-1.5 font-mono font-bold tabular-nums text-brand-primary dark:text-blue-300">
+              <Clock size={15} />
+              {uz ? "Sarflangan vaqt:" : "Время:"} {formatTimerHMS(elapsedSec)}
+            </span>
+          </div>
+          <div className="grid grid-cols-3 gap-3 max-w-md mx-auto mb-6">
+            <div className="p-3 rounded-2xl bg-emerald-50 dark:bg-emerald-950/40 border border-emerald-200 dark:border-emerald-900">
+              <p className="text-xs font-bold text-emerald-700 dark:text-emerald-300">{uz ? "To'g'ri" : "Верно"}</p>
+              <p className="text-2xl font-black text-emerald-800 dark:text-emerald-200 tabular-nums">{correct}</p>
+            </div>
+            <div className="p-3 rounded-2xl bg-red-50 dark:bg-red-950/40 border border-red-200 dark:border-red-900">
+              <p className="text-xs font-bold text-red-700 dark:text-red-300">{uz ? "Noto'g'ri" : "Ошибок"}</p>
+              <p className="text-2xl font-black text-red-800 dark:text-red-200 tabular-nums">{wrongCount}</p>
+            </div>
+            <div className="p-3 rounded-2xl bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700">
+              <p className="text-xs font-bold text-slate-600 dark:text-slate-300">{uz ? "Vaqt" : "Время"}</p>
+              <p className="text-lg sm:text-xl font-black font-mono text-slate-900 dark:text-white tabular-nums mt-0.5">
+                {formatTimerHMS(elapsedSec)}
+              </p>
+            </div>
+          </div>
+          <button type="button" onClick={onRestart} className={primaryBtn}>
+            <RotateCcw size={16} />
+            {uz ? "Qayta yechish" : "Решить заново"}
+          </button>
+        </div>
+
+        {/* Savollar tahlili: qayerda to'g'ri, qayerda xato */}
+        <div className={card}>
+          <div className="flex flex-wrap items-center justify-between gap-3 mb-5">
+            <h3 className="text-lg font-black text-slate-900 dark:text-white">
+              {uz ? "Javoblar tahlili" : "Разбор ответов"}
+            </h3>
+            <div className="flex items-center gap-1 p-1 bg-slate-100 dark:bg-slate-800 rounded-xl">
+              <button
+                type="button"
+                onClick={() => setReviewFilter("all")}
+                className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-colors whitespace-nowrap ${
+                  reviewFilter === "all"
+                    ? "bg-white dark:bg-slate-900 text-slate-900 dark:text-white shadow-xs"
+                    : "text-slate-600 dark:text-slate-400"
+                }`}
+              >
+                {uz ? `Barchasi (${reviews.length})` : `Все (${reviews.length})`}
+              </button>
+              <button
+                type="button"
+                onClick={() => setReviewFilter("wrong")}
+                className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-colors whitespace-nowrap ${
+                  reviewFilter === "wrong"
+                    ? "bg-white dark:bg-slate-900 text-red-700 dark:text-red-300 shadow-xs"
+                    : "text-slate-600 dark:text-slate-400"
+                }`}
+              >
+                {uz ? `Xatolar (${wrongCount})` : `Ошибки (${wrongCount})`}
+              </button>
+              <button
+                type="button"
+                onClick={() => setReviewFilter("correct")}
+                className={`px-3 py-1.5 rounded-lg text-xs font-bold transition-colors whitespace-nowrap ${
+                  reviewFilter === "correct"
+                    ? "bg-white dark:bg-slate-900 text-emerald-700 dark:text-emerald-300 shadow-xs"
+                    : "text-slate-600 dark:text-slate-400"
+                }`}
+              >
+                {uz ? `To'g'ri (${correct})` : `Верно (${correct})`}
+              </button>
+            </div>
+          </div>
+
+          {filteredReviews.length === 0 ? (
+            <p className="text-sm text-slate-500 dark:text-slate-400 py-4 text-center">
+              {uz ? "Bu bo'limda savollar yo'q." : "В этом фильтре нет вопросов."}
+            </p>
+          ) : (
+            <div className="space-y-3">
+              {filteredReviews.map((item, idx) => (
+                <div
+                  key={idx}
+                  className={`p-4 rounded-2xl border text-sm ${
+                    item.isCorrect
+                      ? "bg-emerald-50/60 dark:bg-emerald-950/20 border-emerald-200 dark:border-emerald-900"
+                      : "bg-red-50/70 dark:bg-red-950/25 border-red-200 dark:border-red-900"
+                  }`}
+                >
+                  <div className="flex items-start justify-between gap-3 mb-2">
+                    <p className="font-bold text-slate-900 dark:text-white">
+                      {idx + 1}. {item.question.q}
+                    </p>
+                    <span
+                      className={`shrink-0 inline-flex items-center gap-1 text-xs font-black ${
+                        item.isCorrect ? "text-emerald-700 dark:text-emerald-300" : "text-red-700 dark:text-red-300"
+                      }`}
+                    >
+                      {item.isCorrect ? <Check size={14} /> : <X size={14} />}
+                      {item.isCorrect ? (uz ? "To'g'ri" : "Верно") : uz ? "Xato" : "Ошибка"}
+                    </span>
+                  </div>
+                  <div className="space-y-1 text-xs sm:text-sm">
+                    <p className="text-slate-700 dark:text-slate-300">
+                      <span className="font-semibold">{uz ? "Sizning javobingiz:" : "Ваш ответ:"}</span>{" "}
+                      <span className={item.isCorrect ? "font-bold text-emerald-700 dark:text-emerald-300" : "font-bold text-red-700 dark:text-red-300"}>
+                        {item.userAnswer}
+                      </span>
+                    </p>
+                    {!item.isCorrect && (
+                      <p className="text-slate-800 dark:text-slate-200">
+                        <span className="font-semibold">{uz ? "To'g'ri javob:" : "Правильный ответ:"}</span>{" "}
+                        <span className="font-bold text-emerald-700 dark:text-emerald-300">{item.correctAnswer}</span>
+                      </p>
+                    )}
+                    <p className="text-slate-600 dark:text-slate-400 pt-1">
+                      <span className="font-semibold">{uz ? "Izoh:" : "Пояснение:"}</span> {item.explanation}
+                    </p>
+                  </div>
+                </div>
+              ))}
+            </div>
+          )}
+        </div>
+      </div>
     );
   }
 
@@ -134,14 +300,42 @@ export function QuizGame({ quiz, uz, onFinish, onRestart }: GameProps) {
     : fillChecked === true;
 
   const choose = (idx: number) => {
+    if (!isChoiceLike(q) || picked !== null) return;
     setPicked(idx);
-    if (isChoiceLike(q) && idx === (q.type === "choice" ? q.answer : q.answer ? 0 : 1)) setCorrect((c) => c + 1);
+    const correctIdx = q.type === "choice" ? q.answer : q.answer ? 0 : 1;
+    const isOk = idx === correctIdx;
+    if (isOk) setCorrect((c) => c + 1);
+
+    const userOpt =
+      q.type === "choice" ? q.options[idx] : idx === 0 ? (uz ? "To'g'ri" : "Верно") : uz ? "Noto'g'ri" : "Неверно";
+    setReviews((prev) => [
+      ...prev,
+      {
+        question: q,
+        userAnswer: userOpt,
+        correctAnswer: correctAnswerText(q, uz),
+        isCorrect: isOk,
+        explanation: buildExplanation(q, uz),
+      },
+    ]);
   };
 
   const checkFill = () => {
-    const ok = isFillCorrect(q as FillQuestion, fillValue);
+    if (fillChecked !== null) return;
+    const fq = q as FillQuestion;
+    const ok = isFillCorrect(fq, fillValue);
     setFillChecked(ok);
     if (ok) setCorrect((c) => c + 1);
+    setReviews((prev) => [
+      ...prev,
+      {
+        question: q,
+        userAnswer: fillValue.trim() || "—",
+        correctAnswer: correctAnswerText(q, uz),
+        isCorrect: ok,
+        explanation: buildExplanation(q, uz),
+      },
+    ]);
   };
 
   const next = () => {
@@ -163,18 +357,20 @@ export function QuizGame({ quiz, uz, onFinish, onRestart }: GameProps) {
     setFillChecked(null);
     setCorrect(0);
     setDone(false);
+    setElapsedSec(0);
+    setReviews([]);
     reported.current = false;
   };
 
   return (
     <div className={card}>
-      {quiz.questions.length > 20 && i === 0 && !answered && (
+      {quiz.questions.length > 20 && i === 0 && !answered && initialLimit === "all" && (
         <div className="flex flex-wrap items-center justify-between gap-2 pb-4 mb-4 border-b border-slate-100 dark:border-slate-800">
           <span className="text-xs font-bold text-slate-500 dark:text-slate-400">
             {uz ? "Savollar soni:" : "Количество вопросов:"}
           </span>
-          <div className="flex items-center gap-1.5">
-            {([20, 50, "all"] as const).map((opt) => (
+          <div className="flex flex-wrap items-center gap-1.5">
+            {([10, 20, 50, "all"] as const).map((opt) => (
               <button
                 key={String(opt)}
                 type="button"
@@ -195,16 +391,34 @@ export function QuizGame({ quiz, uz, onFinish, onRestart }: GameProps) {
           </div>
         </div>
       )}
-      <div className="flex items-center justify-between text-xs font-bold text-slate-500 dark:text-slate-400 mb-3">
-        <span>
-          {uz ? "Savol" : "Вопрос"} {i + 1}/{total}
-        </span>
-        <span>
-          {uz ? "To'g'ri" : "Верно"}: {correct}
-        </span>
+
+      {/* Yuqori panel: Savol raqami, to'g'ri javoblar va tepada chetda xx.xx.xx taymer */}
+      <div className="flex flex-wrap items-center justify-between gap-3 mb-3">
+        <div className="flex items-center gap-3 text-xs font-bold text-slate-500 dark:text-slate-400">
+          <span className="tabular-nums">
+            {uz ? "Savol" : "Вопрос"} {i + 1}/{total}
+          </span>
+          <span aria-hidden="true">·</span>
+          <span className="tabular-nums text-emerald-700 dark:text-emerald-400">
+            {uz ? "To'g'ri" : "Верно"}: {correct}
+          </span>
+        </div>
+
+        <div
+          data-testid="test-elapsed-timer"
+          aria-label={uz ? "Sarflangan vaqt" : "Затраченное время"}
+          className="inline-flex items-center gap-1.5 px-3 py-1 rounded-lg bg-slate-100 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 font-mono text-xs sm:text-sm font-bold text-slate-900 dark:text-white tabular-nums"
+        >
+          <Clock size={14} className="text-brand-primary dark:text-blue-300" />
+          <span>{formatTimerHMS(elapsedSec)}</span>
+        </div>
       </div>
+
       <div className="h-1.5 rounded-full bg-slate-100 dark:bg-slate-800 mb-6 overflow-hidden">
-        <div className="h-full bg-brand-primary transition-all" style={{ width: `${(i / total) * 100}%` }} />
+        <div
+          className="h-full bg-brand-primary transition-all"
+          style={{ width: `${((i + (answered ? 1 : 0)) / total) * 100}%` }}
+        />
       </div>
 
       <h3 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white mb-5 whitespace-pre-line">{q.q}</h3>
@@ -217,7 +431,7 @@ export function QuizGame({ quiz, uz, onFinish, onRestart }: GameProps) {
             e.preventDefault();
             if (fillChecked === null && fillValue.trim()) checkFill();
           }}
-          className="flex gap-2"
+          className="flex flex-col sm:flex-row gap-2"
         >
           <input
             value={fillValue}
@@ -235,23 +449,24 @@ export function QuizGame({ quiz, uz, onFinish, onRestart }: GameProps) {
 
       {answered && (
         <div
-          className={`mt-5 p-4 rounded-xl text-sm ${
+          className={`mt-5 p-4 rounded-2xl border text-sm ${
             wasCorrect
-              ? "bg-emerald-50 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-300"
-              : "bg-red-50 dark:bg-red-950/40 text-red-800 dark:text-red-300"
+              ? "bg-emerald-50 dark:bg-emerald-950/40 border-emerald-200 dark:border-emerald-900 text-emerald-900 dark:text-emerald-200"
+              : "bg-red-50 dark:bg-red-950/40 border-red-200 dark:border-red-900 text-red-900 dark:text-red-200"
           }`}
         >
           <p className="font-black flex items-center gap-1.5">
             {wasCorrect ? <Check size={16} /> : <X size={16} />}
-            {wasCorrect ? (uz ? "To'g'ri!" : "Верно!") : uz ? "Noto'g'ri" : "Неверно"}
+            {wasCorrect ? (uz ? "To'g'ri javob!" : "Верный ответ!") : uz ? "Noto'g'ri javob" : "Неверный ответ"}
           </p>
-          {!wasCorrect && (
-            <p className="mt-1">
-              {uz ? "To'g'ri javob: " : "Правильный ответ: "}
-              <b>{correctAnswerText(q)}</b>
-            </p>
-          )}
-          {q.explain && <p className="mt-1 opacity-90">{q.explain}</p>}
+          <p className="mt-1.5">
+            {uz ? "To'g'ri variant: " : "Правильный ответ: "}
+            <b className="underline decoration-dotted underline-offset-4">{correctAnswerText(q, uz)}</b>
+          </p>
+          <p className="mt-1.5 opacity-95">
+            <span className="font-bold">{uz ? "Izoh: " : "Пояснение: "}</span>
+            {buildExplanation(q, uz)}
+          </p>
         </div>
       )}
 
@@ -343,7 +558,6 @@ export function TimedGame({ quiz, uz, onFinish, onRestart }: GameProps) {
     const nextI = i + 1;
     setTimeout(() => {
       setPicked(null);
-      // Savollar tugasa, qayta aralashtiramiz
       if (nextI % order.length === 0) setOrder(shuffle(pool).map((x) => (x.type === "choice" ? shuffleOptions(x) : x)));
       setI(nextI);
     }, 650);
@@ -352,10 +566,10 @@ export function TimedGame({ quiz, uz, onFinish, onRestart }: GameProps) {
   return (
     <div className={card}>
       <div className="flex items-center justify-between mb-4">
-        <span className="inline-flex items-center gap-1.5 text-sm font-black text-brand-primary dark:text-blue-300">
+        <span className="inline-flex items-center gap-1.5 text-sm font-black text-brand-primary dark:text-blue-300 tabular-nums">
           <Timer size={16} /> {left}s
         </span>
-        <span className="text-sm font-bold text-slate-500 dark:text-slate-400">
+        <span className="text-sm font-bold text-slate-500 dark:text-slate-400 tabular-nums">
           {uz ? "Ball" : "Баллы"}: {score}
         </span>
       </div>
@@ -415,7 +629,7 @@ export function CardsGame({ quiz, uz, onFinish, onRestart }: GameProps) {
 
   return (
     <div className={card}>
-      <div className="flex items-center justify-between text-xs font-bold text-slate-500 dark:text-slate-400 mb-4">
+      <div className="flex items-center justify-between text-xs font-bold text-slate-500 dark:text-slate-400 mb-4 tabular-nums">
         <span>
           {uz ? "Qoldi" : "Осталось"}: {queue.length}
         </span>
@@ -461,7 +675,7 @@ export function CardsGame({ quiz, uz, onFinish, onRestart }: GameProps) {
   );
 }
 
-/* ============ 4) JUFTLASH ============ */
+/* ============ 4) JUFTLASH / MOSLASHTIRISH ============ */
 const MATCH_PAIRS = 6;
 
 export function MatchGame({ quiz, uz, onFinish, onRestart }: GameProps) {
@@ -520,7 +734,7 @@ export function MatchGame({ quiz, uz, onFinish, onRestart }: GameProps) {
 
   return (
     <div className={card}>
-      <div className="flex items-center justify-between text-xs font-bold text-slate-500 dark:text-slate-400 mb-4">
+      <div className="flex items-center justify-between text-xs font-bold text-slate-500 dark:text-slate-400 mb-4 tabular-nums">
         <span>{uz ? "Chapdan tanlang, keyin o'ngdan juftini toping" : "Выберите слева, затем найдите пару справа"}</span>
         <span>
           {uz ? "Xato" : "Ошибки"}: {mistakes}

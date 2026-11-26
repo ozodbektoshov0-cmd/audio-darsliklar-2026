@@ -3,6 +3,7 @@ import path from "path";
 import dotenv from "dotenv";
 import { createServer as createViteServer } from "vite";
 import { handleChat, handleTts, hasApiKey, rateLimited, tooMany } from "./server-lib/ai";
+import { handleParseTestFile } from "./server-lib/testParser";
 
 dotenv.config();
 dotenv.config({ path: ".env.local" });
@@ -15,7 +16,7 @@ async function startServer() {
   const PORT = Number(process.env.PORT) || 3000;
 
   app.set("trust proxy", 1);
-  app.use(express.json({ limit: "1mb" }));
+  app.use(express.json({ limit: "12mb" }));
 
   // JSON xatolarini ushlash
   app.use((err: any, _req: express.Request, res: express.Response, next: express.NextFunction) => {
@@ -44,6 +45,15 @@ async function startServer() {
       return res.status(r.status).json(r.body);
     }
     const r = await handleTts(req.body);
+    res.status(r.status).json(r.body);
+  });
+
+  app.post("/api/parse-tests", async (req, res) => {
+    if (rateLimited(`parse:${req.ip}`)) {
+      const r = tooMany();
+      return res.status(r.status).json(r.body);
+    }
+    const r = await handleParseTestFile(req.body);
     res.status(r.status).json(r.body);
   });
 
