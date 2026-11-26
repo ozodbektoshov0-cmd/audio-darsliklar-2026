@@ -3,30 +3,32 @@
  * Shunda ikki muhitda xatti-harakat bir xil bo'ladi.
  */
 import { GoogleGenAI, Modality } from "@google/genai";
+import type { VerifiedAuthUser } from "./authVerify";
 
 export interface HandlerResult {
   status: number;
   body: Record<string, unknown>;
 }
 
-// ---------- Sozlamalar ----------
-// Model nomlarini .env orqali almashtirish mumkin: GEMINI_CHAT_MODELS="a,b,c"
-// Ro'yxatdagi birinchi ishlaydigan model ishlatiladi (qolganlari zaxira).
 const list = (v: string | undefined, fallback: string[]) =>
   v ? v.split(",").map((s) => s.trim()).filter(Boolean) : fallback;
 
-// Env har chaqiruvda o'qiladi (dotenv server.ts'da keyinroq yuklanishi mumkin).
+// Active Gemini SDK model aliases (env orqali almashtirish mumkin)
 const flashModels = () =>
   list(process.env.GEMINI_CHAT_MODELS, [
-    "gemini-3.8-flash",
-    "gemini-flash-latest",
-    "gemini-2.5-flash",
-    "gemini-2.5-flash-lite",
+    "gemini-4-hydrogen",
+    "gemini-3.1-flash-lite",
   ]);
 const proModels = () =>
-  list(process.env.GEMINI_PRO_MODELS, ["gemini-3.1-pro-preview", "gemini-2.5-pro", ...flashModels()]);
+  list(process.env.GEMINI_PRO_MODELS, [
+    "gemini-4-neon",
+    ...flashModels(),
+  ]);
 const ttsModels = () =>
-  list(process.env.GEMINI_TTS_MODELS, ["gemini-3.1-flash-tts-preview", "gemini-2.5-flash-preview-tts"]);
+  list(process.env.GEMINI_TTS_MODELS, [
+    "gemini-3.8-flash-lite-tts",
+    "gemini-3.8-flash-tts",
+  ]);
 
 const LIMITS = {
   maxMessages: 20,
@@ -38,7 +40,6 @@ const LIMITS = {
 const VALID_VOICES = ["Puck", "Charon", "Kore", "Fenrir", "Zephyr"];
 
 // ---------- Rol (system prompt) serverda belgilanadi ----------
-// Mijozdan ixtiyoriy systemInstruction qabul qilinmaydi: kvotadan suiiste'mol qilishning oldini oladi.
 const PERSONAS = {
   tutor:
     "Siz O'zbekiston maktab ta'limi bo'yicha 'Audio Darsliklar' platformasining AI Ustoz va virtual repetitorisiz. " +
@@ -77,10 +78,17 @@ export function hasApiKey(): boolean {
   return Boolean(process.env.GEMINI_API_KEY && process.env.GEMINI_API_KEY.trim() !== "");
 }
 
-function client(): GoogleGenAI | null {
+export function createGeminiClient(): GoogleGenAI | null {
   const apiKey = process.env.GEMINI_API_KEY;
   if (!apiKey || apiKey.trim() === "") return null;
-  return new GoogleGenAI({ apiKey });
+  return new GoogleGenAI({
+    apiKey,
+    httpOptions: {
+      headers: {
+        "User-Agent": "aistudio-build",
+      },
+    },
+  });
 }
 
 export function pcmToWav(pcm: Buffer, sampleRate = 24000, channels = 1, bits = 16): Buffer {
@@ -103,16 +111,16 @@ export function pcmToWav(pcm: Buffer, sampleRate = 24000, channels = 1, bits = 1
   return Buffer.concat([h, pcm]);
 }
 
-const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
+export const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms));
 
-function isOverloaded(err: any): boolean {
+export function isOverloaded(err: any): boolean {
   const status = err?.status || err?.error?.status;
   return status === "UNAVAILABLE" || status === 503 || err?.error?.code === 503;
 }
 
 // ---------- CHAT ----------
-export async function handleChat(body: any): Promise<HandlerResult> {
-  const ai = client();
+export async function handleChat(body: any, authUser: VerifiedAuthUser | null = null): Promise<HandlerResult> {
+  const ai = createGeminiClient();
   if (!ai) {
     return {
       status: 200,
@@ -126,8 +134,12 @@ export async function handleChat(body: any): Promise<HandlerResult> {
 
   const b = body && typeof body === "object" ? body : {};
   const persona: Persona = b.persona === "widget" ? "widget" : "tutor";
-  const useSearch = Boolean(b.useSearch);
-  const modelType = b.modelType === "pro" ? "pro" : "flash";
+
+  // Xavfsizlik: tasdiqlanmagan foydalanuvchi Pro model va Google Search qimmat rejimlarini majburlay olmaydi
+  const canUsePrivilegedOptions = Boolean(authUser && authUser.emailVerified);
+  const useSearch = canUsePrivilegedOptions && Boolean(b.useSearch);
+  const modelType = canUsePrivilegedOptions && b.modelType === "pro" ? "pro" : "flash";
+
   const gradeNum = Number(b.grade);
   const grade = Number.isInteger(gradeNum) && gradeNum >= 1 && gradeNum <= 11 ? gradeNum : null;
 
@@ -147,7 +159,6 @@ export async function handleChat(body: any): Promise<HandlerResult> {
   if (contents.length === 0) {
     return { status: 400, body: { error: "Hech qanday xabar kiritilmadi" } };
   }
-  // Gemini tarixi 'user' bilan boshlanishi kerak
   while (contents.length > 1 && contents[0].role !== "user") contents.shift();
 
   let systemInstruction: string = PERSONAS[persona];
@@ -160,7 +171,6 @@ export async function handleChat(body: any): Promise<HandlerResult> {
   let lastError: any = null;
 
   for (const model of models) {
-    // Band bo'lsa (503) bir marta qisqa kutib qayta uramiz, aks holda keyingi modelga o'tamiz
     for (let attempt = 1; attempt <= 2; attempt++) {
       try {
         const response: any = await ai.models.generateContent({ model, contents, config });
@@ -204,7 +214,7 @@ export async function handleTts(body: any): Promise<HandlerResult> {
     body: { audioBase64: null, fallbackToBrowserTts: true, message },
   });
 
-  const ai = client();
+  const ai = createGeminiClient();
   if (!ai) return fallback("GEMINI_API_KEY sozlanmagan, brauzer ovozi ishlatiladi");
 
   const b = body && typeof body === "object" ? body : {};

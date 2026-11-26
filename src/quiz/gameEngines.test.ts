@@ -118,3 +118,56 @@ test("Mystery Box, Wheel of Fortune, Tug of War, and Jeopardy engines work deter
     );
   }
 });
+
+import {
+  buildCrosswordGrid,
+  buildMathDuelProblems,
+  buildMemoryDeck,
+  buildWordChain,
+  scoreRaceStep,
+  scoreTrueFalseStreak,
+} from "./gameEngines.ts";
+
+test("New 6 intellectual game engines produce valid deterministic outputs", () => {
+  // 1. Quiz Race
+  assert.deepEqual(scoreRaceStep(0, false, 8), { nextProgress: 0, finished: false });
+  assert.deepEqual(scoreRaceStep(7, true, 8), { nextProgress: 8, finished: true });
+
+  // 2. True/False Blitz streak
+  assert.deepEqual(scoreTrueFalseStreak(0, true), { nextStreak: 1, multiplier: 1, deltaPoints: 50 });
+  assert.deepEqual(scoreTrueFalseStreak(2, true), { nextStreak: 3, multiplier: 2, deltaPoints: 100 });
+  assert.deepEqual(scoreTrueFalseStreak(4, true), { nextStreak: 5, multiplier: 3, deltaPoints: 150 });
+  assert.deepEqual(scoreTrueFalseStreak(4, false), { nextStreak: 0, multiplier: 1, deltaPoints: 0 });
+
+  // 3. Math Duel
+  const problems = buildMathDuelProblems(8, 8);
+  assert.equal(problems.length, 8);
+  for (const p of problems) {
+    assert.ok(p.options.includes(p.answer));
+    assert.equal(p.options.length, 4);
+  }
+
+  // 4. Crossword Grid
+  const words = extractWordPuzzles(GENERAL_INTELLECTUAL_QUIZ, GENERAL_INTELLECTUAL_QUIZ, 8);
+  const cw = buildCrosswordGrid(words, 6);
+  assert.ok(cw.entries.length >= 2);
+  for (const e of cw.entries) {
+    for (let i = 0; i < e.word.length; i++) {
+      const r = e.direction === "across" ? e.row : e.row + i;
+      const c = e.direction === "across" ? e.col + i : e.col;
+      assert.equal(cw.solutionGrid[r][c], e.word[i]);
+    }
+  }
+
+  // 5. Memory Deck
+  const deck = buildMemoryDeck(GENERAL_INTELLECTUAL_QUIZ, GENERAL_INTELLECTUAL_QUIZ, 5);
+  assert.equal(deck.length, 10);
+
+  // 6. Word Chain
+  const chain = buildWordChain(words, 6);
+  assert.ok(chain.length >= 4);
+  for (const link of chain) {
+    assert.ok(link.options.includes(link.displayWord));
+  }
+});
+

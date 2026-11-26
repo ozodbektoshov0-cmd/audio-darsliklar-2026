@@ -3,7 +3,9 @@ import path from "path";
 import dotenv from "dotenv";
 import { createServer as createViteServer } from "vite";
 import { handleChat, handleTts, hasApiKey, rateLimited, tooMany } from "./server-lib/ai";
+import { verifyBearerToken } from "./server-lib/authVerify";
 import { handleParseTestFile } from "./server-lib/testParser";
+import { handleGenerateMaterial } from "./server-lib/materialGen";
 
 dotenv.config();
 dotenv.config({ path: ".env.local" });
@@ -16,10 +18,14 @@ async function startServer() {
   const PORT = Number(process.env.PORT) || 3000;
 
   app.set("trust proxy", 1);
-  app.use(express.json({ limit: "12mb" }));
+  // 6mb JSON matches 4MB raw base64 payload safely (aligned with Vercel cap)
+  app.use(express.json({ limit: "6mb" }));
 
-  // JSON xatolarini ushlash
+  // JSON va PayloadTooLarge xatolarini ushlash
   app.use((err: any, _req: express.Request, res: express.Response, next: express.NextFunction) => {
+    if (err?.type === "entity.too.large" || err?.status === 413) {
+      return res.status(413).json({ error: "Fayl hajmi 4 MB dan oshmasligi kerak.", code: "PAYLOAD_TOO_LARGE" });
+    }
     if (err instanceof SyntaxError && "body" in err) {
       return res.status(400).json({ error: "Noto'g'ri JSON formati", code: "INVALID_JSON" });
     }
@@ -35,7 +41,8 @@ async function startServer() {
       const r = tooMany();
       return res.status(r.status).json(r.body);
     }
-    const r = await handleChat(req.body);
+    const authUser = await verifyBearerToken(req.headers.authorization);
+    const r = await handleChat(req.body, authUser);
     res.status(r.status).json(r.body);
   });
 
@@ -54,6 +61,15 @@ async function startServer() {
       return res.status(r.status).json(r.body);
     }
     const r = await handleParseTestFile(req.body);
+    res.status(r.status).json(r.body);
+  });
+
+  app.post("/api/generate-material", async (req, res) => {
+    if (rateLimited(`mat:${req.ip}`)) {
+      const r = tooMany();
+      return res.status(r.status).json(r.body);
+    }
+    const r = await handleGenerateMaterial(req.body);
     res.status(r.status).json(r.body);
   });
 

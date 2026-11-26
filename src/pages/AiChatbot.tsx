@@ -27,6 +27,7 @@ import {
 import ReactMarkdown from "react-markdown";
 import { useLanguage } from "../context/LanguageContext";
 import { useStudent } from "../context/StudentContext";
+import { auth } from "../lib/firebase";
 
 interface ChatMessage {
   id: string;
@@ -159,9 +160,13 @@ export default function AiChatbot() {
           text: m.text,
         }));
 
+      const token = await auth.currentUser?.getIdToken().catch(() => undefined);
+      const headers: Record<string, string> = { "Content-Type": "application/json" };
+      if (token) headers.Authorization = `Bearer ${token}`;
+
       const res = await fetch("/api/chat", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers,
         body: JSON.stringify({
           messages: chatHistory,
           message: textToSend.trim(),

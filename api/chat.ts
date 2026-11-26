@@ -1,4 +1,5 @@
 import { handleChat, rateLimited, tooMany } from "../server-lib/ai";
+import { verifyBearerToken } from "../server-lib/authVerify";
 
 export async function POST(request: Request) {
   const ip = (request.headers.get("x-forwarded-for") || "anon").split(",")[0].trim();
@@ -12,6 +13,7 @@ export async function POST(request: Request) {
   } catch {
     return Response.json({ error: "Noto'g'ri JSON formati", code: "INVALID_JSON" }, { status: 400 });
   }
-  const r = await handleChat(body);
+  const authUser = await verifyBearerToken(request.headers.get("authorization"));
+  const r = await handleChat(body, authUser);
   return Response.json(r.body, { status: r.status });
 }

@@ -4,24 +4,25 @@
  */
 
 import { motion, AnimatePresence } from "motion/react";
-import { useState, useMemo } from "react";
-import { 
-  FileText, 
-  Youtube, 
-  Search, 
-  Sparkles, 
-  GraduationCap, 
-  Bookmark, 
-  BookmarkCheck, 
-  BookOpen, 
-  Volume2, 
-  Layers
+import { useEffect, useState, useMemo } from "react";
+import {
+  FileText,
+  Youtube,
+  Search,
+  Sparkles,
+  GraduationCap,
+  Bookmark,
+  BookmarkCheck,
+  BookOpen,
+  Volume2,
+  Layers,
+  Mic,
 } from "lucide-react";
 import { TEXTBOOKS } from "../constants";
 import { ALL_SUBJECTS, SubjectCategory, Language } from "../data";
 import { useStudent, GradeNumber } from "../context/StudentContext";
 import { useLanguage } from "../context/LanguageContext";
-import { Link } from "react-router-dom";
+import { Link, useSearchParams } from "react-router-dom";
 import { useReader } from "../context/ReaderContext";
 import { getQuizHref } from "../quiz";
 
@@ -36,11 +37,29 @@ const CATEGORY_NAMES: Record<SubjectCategory, { uz: string; ru: string }> = {
 };
 
 export default function TextbookSection() {
-  const [searchTerm, setSearchTerm] = useState("");
-  const [activeGradeFilter, setActiveGradeFilter] = useState<string>("all");
+  const [searchParams] = useSearchParams();
+  const initialQ = searchParams.get("q") || "";
+  const initialGrade = searchParams.get("grade") || "all";
+  const initialAudio = searchParams.get("audio") === "1";
+
+  const [searchTerm, setSearchTerm] = useState(initialQ);
+  const [activeGradeFilter, setActiveGradeFilter] = useState<string>(initialGrade);
   const [activeCategoryFilter, setActiveCategoryFilter] = useState<string>("all");
   const [activeLangFilter, setActiveLangFilter] = useState<"all" | Language>("all");
-  const [viewMode, setViewMode] = useState<"curated" | "all_subjects">("curated");
+  const [audioOnly, setAudioOnly] = useState<boolean>(initialAudio);
+  const [viewMode, setViewMode] = useState<"curated" | "all_subjects">(
+    initialQ || initialGrade !== "all" || initialAudio ? "all_subjects" : "curated",
+  );
+
+  useEffect(() => {
+    const q = searchParams.get("q");
+    const grade = searchParams.get("grade");
+    const audio = searchParams.get("audio") === "1";
+    if (q !== null) setSearchTerm(q);
+    if (grade !== null) setActiveGradeFilter(grade);
+    if (audio) setAudioOnly(true);
+    if (q || grade || audio) setViewMode("all_subjects");
+  }, [searchParams]);
 
   const { 
     profile, 
@@ -107,6 +126,8 @@ export default function TextbookSection() {
   // Filtered Full Catalog (ALL_SUBJECTS)
   const filteredCatalog = useMemo(() => {
     return ALL_SUBJECTS.filter((subj) => {
+      const hasAudio = Boolean(subj.hasAudio || subj.resources.some((r) => Boolean(r.audioUrl)));
+      if (audioOnly && !hasAudio) return false;
       const matchesSearch =
         subj.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
         subj.grade.includes(searchTerm) ||
@@ -125,10 +146,10 @@ export default function TextbookSection() {
       }
       return parseInt(a.grade) - parseInt(b.grade);
     });
-  }, [searchTerm, activeGradeFilter, activeCategoryFilter, activeLangFilter, profile.grade]);
+  }, [searchTerm, activeGradeFilter, activeCategoryFilter, activeLangFilter, audioOnly, profile.grade]);
 
   return (
-    <section id="darsliklar" className="py-24 bg-slate-50 dark:bg-slate-950 relative z-10 transition-colors">
+    <section id="darsliklar" className="py-12 bg-slate-50 dark:bg-slate-950 relative z-10 transition-colors">
       <div className="container mx-auto px-4 max-w-7xl">
         
         {/* Header Section */}
@@ -191,33 +212,48 @@ export default function TextbookSection() {
             </button>
           </div>
 
-          {/* Language filter for catalog */}
+          {/* Language & Audio filters for catalog */}
           {viewMode === "all_subjects" && (
-            <div className="inline-flex p-1 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl text-xs font-bold">
+            <div className="flex flex-wrap items-center gap-2">
               <button
-                onClick={() => setActiveLangFilter("all")}
-                className={`px-3 py-1.5 rounded-lg transition-all ${
-                  activeLangFilter === "all" ? "bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900" : "text-slate-500"
+                type="button"
+                onClick={() => setAudioOnly((v) => !v)}
+                className={`inline-flex items-center gap-1.5 px-3.5 py-2 rounded-xl border text-xs font-bold transition-colors ${
+                  audioOnly
+                    ? "bg-red-600 border-red-600 text-white"
+                    : "bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 text-slate-700 dark:text-slate-300 hover:border-red-500"
                 }`}
               >
-                {t("allLangs")}
+                <Volume2 size={14} />
+                <span>{language === "uz" ? "Faqat audioli" : "Только с аудио"}</span>
               </button>
-              <button
-                onClick={() => setActiveLangFilter("uz")}
-                className={`px-3 py-1.5 rounded-lg transition-all flex items-center gap-1 ${
-                  activeLangFilter === "uz" ? "bg-brand-primary text-white" : "text-slate-500"
-                }`}
-              >
-                {t("langUz")}
-              </button>
-              <button
-                onClick={() => setActiveLangFilter("ru")}
-                className={`px-3 py-1.5 rounded-lg transition-all flex items-center gap-1 ${
-                  activeLangFilter === "ru" ? "bg-brand-primary text-white" : "text-slate-500"
-                }`}
-              >
-                {t("langRu")}
-              </button>
+
+              <div className="inline-flex p-1 bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 rounded-xl text-xs font-bold">
+                <button
+                  onClick={() => setActiveLangFilter("all")}
+                  className={`px-3 py-1.5 rounded-lg transition-all ${
+                    activeLangFilter === "all" ? "bg-slate-900 dark:bg-slate-100 text-white dark:text-slate-900" : "text-slate-500"
+                  }`}
+                >
+                  {t("allLangs")}
+                </button>
+                <button
+                  onClick={() => setActiveLangFilter("uz")}
+                  className={`px-3 py-1.5 rounded-lg transition-all flex items-center gap-1 ${
+                    activeLangFilter === "uz" ? "bg-brand-primary text-white" : "text-slate-500"
+                  }`}
+                >
+                  {t("langUz")}
+                </button>
+                <button
+                  onClick={() => setActiveLangFilter("ru")}
+                  className={`px-3 py-1.5 rounded-lg transition-all flex items-center gap-1 ${
+                    activeLangFilter === "ru" ? "bg-brand-primary text-white" : "text-slate-500"
+                  }`}
+                >
+                  {t("langRu")}
+                </button>
+              </div>
             </div>
           )}
         </div>
@@ -273,7 +309,9 @@ export default function TextbookSection() {
           {allGrades.map((g) => {
             const isStudentGrade = profile.grade === g;
             const isActive = activeGradeFilter === g;
-            const hasAudioForGrade = g === "8" || g === "9";
+            const hasAudioForGrade = ALL_SUBJECTS.some(
+              (s) => s.grade === g && (s.hasAudio || s.resources.some((r) => Boolean(r.audioUrl))),
+            );
 
             return (
               <button
@@ -384,7 +422,7 @@ export default function TextbookSection() {
 
                         <div className="flex items-center gap-1.5">
                           {item.audio && (
-                            <span className="inline-flex items-center gap-1 px-2.5 py-1 bg-red-100 dark:bg-red-950/60 text-red-600 dark:text-red-400 rounded-lg text-xs font-black animate-pulse">
+                            <span className="inline-flex items-center gap-1 px-2 py-0.5 bg-red-50 dark:bg-red-950/60 text-red-600 dark:text-red-400 rounded-md text-xs font-bold">
                               <Youtube size={13} />
                               {t("audioAvailableTag")}
                             </span>
@@ -522,8 +560,8 @@ export default function TextbookSection() {
                       <span className="text-[11px] font-bold text-slate-500 dark:text-slate-400">
                         {item.books.length} {t("editionsCount")}
                       </span>
-                      <div className="flex items-center gap-1 text-emerald-600 dark:text-emerald-400 font-bold text-[11px]">
-                        <div className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse"></div>
+                      <div className="flex items-center gap-1.5 text-emerald-600 dark:text-emerald-400 font-bold text-[11px]">
+                        <div className="w-2 h-2 rounded-full bg-emerald-500"></div>
                         {t("downloadOpen")}
                       </div>
                     </div>
@@ -559,15 +597,15 @@ export default function TextbookSection() {
                     <div>
                       {/* Top Badges */}
                       <div className="flex items-center justify-between mb-3">
-                        <div className="flex items-center gap-2">
+                        <div className="flex items-center gap-2 text-xs font-bold text-slate-500 dark:text-slate-400">
                           <span className="w-7 h-7 rounded-lg bg-brand-primary/10 dark:bg-brand-primary/25 text-brand-primary dark:text-blue-300 font-black text-xs flex items-center justify-center">
                             {subj.grade}
                           </span>
-                          <span className="text-[11px] font-bold px-2 py-0.5 rounded-md bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-400">
-                            {CATEGORY_NAMES[subj.category] ? CATEGORY_NAMES[subj.category][language] : subj.category}
-                          </span>
-                          <span className="text-[11px] font-bold px-2 py-0.5 rounded-md bg-blue-50 dark:bg-blue-950 text-brand-primary dark:text-blue-300">
-                            {subj.lang === "uz" ? "O'zbek" : "Русский"}
+                          <span>
+                            {CATEGORY_NAMES[subj.category] ? CATEGORY_NAMES[subj.category][language] : subj.category} ·{" "}
+                            <span className="text-brand-primary dark:text-blue-300">
+                              {subj.lang === "uz" ? "O'zbek" : "Русский"}
+                            </span>
                           </span>
                         </div>
 
@@ -682,9 +720,18 @@ export default function TextbookSection() {
 
                     <div className="pt-3 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-[11px] text-slate-400">
                       <span>{subj.resources.length} {t("materialsAvailable")}</span>
-                      <span className="font-semibold text-brand-primary dark:text-blue-400">
-                        {subj.grade}{t("gradeSuffix")}
-                      </span>
+                      <div className="flex items-center gap-3">
+                        <Link
+                          to="/tts"
+                          className="inline-flex items-center gap-1 font-semibold text-amber-600 dark:text-amber-400 hover:underline"
+                        >
+                          <Mic size={11} />
+                          {language === "uz" ? "AI Ovoz" : "Озвучить"}
+                        </Link>
+                        <span className="font-semibold text-brand-primary dark:text-blue-400">
+                          {subj.grade}{t("gradeSuffix")}
+                        </span>
+                      </div>
                     </div>
                   </motion.div>
                 );
@@ -710,6 +757,7 @@ export default function TextbookSection() {
                 setActiveGradeFilter("all");
                 setActiveCategoryFilter("all");
                 setActiveLangFilter("all");
+                setAudioOnly(false);
               }}
               className="px-6 py-2.5 bg-brand-primary text-white rounded-xl text-xs font-bold"
             >

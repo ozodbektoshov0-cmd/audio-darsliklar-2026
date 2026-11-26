@@ -4,7 +4,10 @@ import { correctAnswerText, getCards, isChoiceLike, normalize, shuffle, shuffleO
 /* ================== 1. UMUMIY SAVOL KONVERTORI ================== */
 
 /** Har qanday savolni 4 variantli (yoki To'g'ri/Noto'g'ri) savolga aylantiradi — Jamoaviy o'yinlar uchun */
-export function toPlayableChoiceQuestions(quiz: Quiz, uz = true): (ChoiceQuestion | { type: "truefalse"; q: string; answer: boolean; explain?: string })[] {
+export function toPlayableChoiceQuestions(
+  quiz: Quiz,
+  uz = true,
+): (ChoiceQuestion | { type: "truefalse"; q: string; answer: boolean; explain?: string })[] {
   const fillAnswers = quiz.questions
     .filter((q): q is FillQuestion => q.type === "fill")
     .map((q) => (Array.isArray(q.answer) ? q.answer[0] : q.answer));
@@ -451,13 +454,9 @@ export const WHEEL_SECTORS: WheelSector[] = [
   { label: "+100", points: 100, type: "question", color: "#4f46e5" },
 ];
 
-/**
- * G'ildirakni ma'lum sektor yuqori strelkaga to'g'ri keladigan qilib aylantiradi.
- */
 export function computeNextWheelRotation(currentDeg: number, targetIndex: number, extraTurns = 4): number {
   const n = WHEEL_SECTORS.length;
   const sliceDeg = 360 / n;
-  // Sektor i markazi (soat strelkasiga qarshi pointer tepada = 0deg)
   const sectorCenter = targetIndex * sliceDeg + sliceDeg / 2;
   const desiredMod = (360 - (sectorCenter % 360)) % 360;
   const currentMod = ((currentDeg % 360) + 360) % 360;
@@ -501,7 +500,6 @@ export function buildJeopardyBoard(
 ): JeopardyCategoryColumn[] {
   const pointLevels = [100, 200, 300, 400];
 
-  // Agar bir nechta mavzu bo'lsa (masalan butun kitob), har bir ustun bitta mavzu bo'ladi
   if (sourceQuizzes.length >= 2) {
     const selected = shuffle(sourceQuizzes).slice(0, 4);
     return selected.map((quiz, colIdx) => {
@@ -519,7 +517,6 @@ export function buildJeopardyBoard(
     });
   }
 
-  // Bitta mavzu bo'lsa — savollarni 4 ta bo'limga taqsimlaymiz
   const single = sourceQuizzes[0] ?? fallbackQuiz;
   if (!single) return [];
   const pool = toPlayableChoiceQuestions(single, uz);
@@ -549,4 +546,385 @@ export function buildJeopardyBoard(
 export function getAnswerTextForAny(q: Question, uz = true): string {
   if (isChoiceLike(q)) return correctAnswerText(q, uz);
   return Array.isArray(q.answer) ? q.answer[0] : q.answer;
+}
+
+/* ================== 10. BILIM POYGASI (QUIZ RACE) ================== */
+
+export function scoreRaceStep(
+  currentProgress: number,
+  isCorrect: boolean,
+  targetSteps = 8,
+): { nextProgress: number; finished: boolean } {
+  const next = isCorrect ? Math.min(targetSteps, currentProgress + 1) : currentProgress;
+  return { nextProgress: next, finished: next >= targetSteps };
+}
+
+/* ================== 11. HA / YO'Q BLITS (TRUE/FALSE BLITZ) ================== */
+
+export function scoreTrueFalseStreak(
+  currentStreak: number,
+  isCorrect: boolean,
+): { nextStreak: number; multiplier: number; deltaPoints: number } {
+  if (!isCorrect) {
+    return { nextStreak: 0, multiplier: 1, deltaPoints: 0 };
+  }
+  const nextStreak = currentStreak + 1;
+  const multiplier = nextStreak >= 5 ? 3 : nextStreak >= 3 ? 2 : 1;
+  return { nextStreak, multiplier, deltaPoints: 50 * multiplier };
+}
+
+/* ================== 12. MATEMATIK DUEL (MATH DUEL) ================== */
+
+export interface MathDuelProblem {
+  prompt: string;
+  answer: number;
+  options: number[];
+  explain: string;
+}
+
+export function buildMathDuelProblems(gradeNum = 7, count = 12): MathDuelProblem[] {
+  const level = Math.max(1, Math.min(11, gradeNum));
+  const items: MathDuelProblem[] = [];
+
+  for (let i = 0; i < count; i++) {
+    let prompt = "";
+    let ans = 0;
+    let explain = "";
+
+    const mode = i % 4;
+    if (level <= 4) {
+      const a = 8 + ((i * 7 + level * 3) % 35);
+      const b = 3 + ((i * 5 + level * 2) % 18);
+      if (mode === 0) {
+        ans = a + b;
+        prompt = `${a} + ${b} = ?`;
+        explain = `${a} + ${b} = ${ans}`;
+      } else if (mode === 1) {
+        const hi = Math.max(a, b) + 10;
+        const lo = Math.min(a, b);
+        ans = hi - lo;
+        prompt = `${hi} − ${lo} = ?`;
+        explain = `${hi} − ${lo} = ${ans}`;
+      } else if (mode === 2) {
+        const x = 2 + (i % 8);
+        const y = 3 + ((i + level) % 7);
+        ans = x * y;
+        prompt = `${x} × ${y} = ?`;
+        explain = `${x} · ${y} = ${ans}`;
+      } else {
+        const div = 2 + (i % 6);
+        const q = 3 + ((i + level) % 9);
+        const num = div * q;
+        ans = q;
+        prompt = `${num} : ${div} = ?`;
+        explain = `${num} : ${div} = ${q}`;
+      }
+    } else if (level <= 8) {
+      if (mode === 0) {
+        const k = 2 + (i % 5);
+        const x = 3 + ((i + level) % 11);
+        const b = 4 + (i % 9);
+        const right = k * x + b;
+        ans = x;
+        prompt = `${k}x + ${b} = ${right} ⇒ x = ?`;
+        explain = `${k}x = ${right - b} ⇒ x = ${x}`;
+      } else if (mode === 1) {
+        const base = 10 + (i % 15);
+        const pct = [10, 20, 25, 50][i % 4];
+        const whole = base * (100 / pct > 4 ? 10 : 4);
+        ans = Math.round((whole * pct) / 100);
+        prompt = `${whole} ning ${pct}% i nechaga teng?`;
+        explain = `${whole} × ${pct} / 100 = ${ans}`;
+      } else if (mode === 2) {
+        const n = 4 + (i % 12);
+        ans = n * n;
+        prompt = `${n}² = ?`;
+        explain = `${n} × ${n} = ${ans}`;
+      } else {
+        const a = 4 + (i % 9);
+        const b = 3 + ((i + 2) % 8);
+        ans = 2 * (a + b);
+        prompt = `Tomonlari ${a} sm va ${b} sm bo'lgan to'g'ri to'rtburchak perimetri?`;
+        explain = `P = 2·(${a} + ${b}) = ${ans} sm`;
+      }
+    } else {
+      if (mode === 0) {
+        const x = 2 + (i % 8);
+        ans = x * x + 2 * x;
+        prompt = `f(x) = x² + 2x bo'lsa, f(${x}) = ?`;
+        explain = `${x}² + 2·${x} = ${x * x} + ${2 * x} = ${ans}`;
+      } else if (mode === 1) {
+        const a1 = 2 + (i % 7);
+        const d = 3 + (i % 4);
+        const n = 5;
+        ans = a1 + (n - 1) * d;
+        prompt = `Arifmetik progressiyada a₁ = ${a1}, d = ${d}. a₅ = ?`;
+        explain = `a₅ = ${a1} + 4·${d} = ${ans}`;
+      } else if (mode === 2) {
+        const b = 2 + (i % 5);
+        const p = 3 + (i % 4);
+        ans = b ** p;
+        prompt = `${b}^${p} = ?`;
+        explain = `${b} ning ${p}-darajasi = ${ans}`;
+      } else {
+        const n = 3 + (i % 6);
+        ans = n * (n - 1);
+        prompt = `n = ${n} bo'lsa, n(n − 1) = ?`;
+        explain = `${n} · (${n} − 1) = ${ans}`;
+      }
+    }
+
+    const distSet = new Set<number>([ans]);
+    const offsets = [1, -1, 2, -2, 4, -3, 5, 10, -5];
+    for (const off of offsets) {
+      if (distSet.size >= 4) break;
+      const cand = ans + off;
+      if (cand >= 0 && !distSet.has(cand)) distSet.add(cand);
+    }
+    const options = shuffle(Array.from(distSet));
+    items.push({ prompt, answer: ans, options, explain });
+  }
+
+  return items;
+}
+
+/* ================== 13. KROSSVORD (CROSSWORD ENGINE) ================== */
+
+export interface CrosswordEntry {
+  number: number;
+  direction: "across" | "down";
+  word: string;
+  displayWord: string;
+  hint: string;
+  row: number;
+  col: number;
+}
+
+export interface CrosswordPuzzle {
+  rows: number;
+  cols: number;
+  solutionGrid: (string | null)[][];
+  numberGrid: (number | null)[][];
+  entries: CrosswordEntry[];
+}
+
+export function buildCrosswordGrid(words: WordPuzzleItem[], maxWords = 6): CrosswordPuzzle {
+  const candidates = words
+    .filter((w) => w.word.length >= 4 && w.word.length <= 10)
+    .slice(0, 14);
+
+  const size = 12;
+  const grid: (string | null)[][] = Array.from({ length: size }, () => Array<string | null>(size).fill(null));
+  const placed: Omit<CrosswordEntry, "number">[] = [];
+
+  if (candidates.length === 0) {
+    return {
+      rows: 1,
+      cols: 1,
+      solutionGrid: [[null]],
+      numberGrid: [[null]],
+      entries: [],
+    };
+  }
+
+  // Birinchi so'zni gorizontal markazga joylaymiz
+  const first = candidates[0];
+  const startRow = 4;
+  const startCol = Math.max(0, Math.floor((size - first.word.length) / 2));
+  for (let i = 0; i < first.word.length; i++) {
+    grid[startRow][startCol + i] = first.word[i];
+  }
+  placed.push({
+    direction: "across",
+    word: first.word,
+    displayWord: first.displayWord,
+    hint: first.hint,
+    row: startRow,
+    col: startCol,
+  });
+
+  const canPlace = (word: string, row: number, col: number, dir: "across" | "down"): number => {
+    if (row < 0 || col < 0) return -1;
+    if (dir === "across" && col + word.length > size) return -1;
+    if (dir === "down" && row + word.length > size) return -1;
+
+    // So'z boshi va oxiri bo'sh bo'lishi kerak
+    if (dir === "across") {
+      if (col > 0 && grid[row][col - 1] !== null) return -1;
+      if (col + word.length < size && grid[row][col + word.length] !== null) return -1;
+    } else {
+      if (row > 0 && grid[row - 1][col] !== null) return -1;
+      if (row + word.length < size && grid[row + word.length][col] !== null) return -1;
+    }
+
+    let intersections = 0;
+    for (let i = 0; i < word.length; i++) {
+      const r = dir === "across" ? row : row + i;
+      const c = dir === "across" ? col + i : col;
+      const existing = grid[r][c];
+      if (existing !== null) {
+        if (existing !== word[i]) return -1;
+        intersections++;
+      } else {
+        // Yon kataklar kesishuvsiz to'qnashmasin
+        if (dir === "across") {
+          if ((r > 0 && grid[r - 1][c] !== null) || (r + 1 < size && grid[r + 1][c] !== null)) return -1;
+        } else {
+          if ((c > 0 && grid[r][c - 1] !== null) || (c + 1 < size && grid[r][c + 1] !== null)) return -1;
+        }
+      }
+    }
+    return intersections;
+  };
+
+  for (let wIdx = 1; wIdx < candidates.length && placed.length < maxWords; wIdx++) {
+    const item = candidates[wIdx];
+    let best: { row: number; col: number; dir: "across" | "down"; score: number } | null = null;
+
+    for (const existing of placed) {
+      const tryDir: "across" | "down" = existing.direction === "across" ? "down" : "across";
+      for (let i = 0; i < existing.word.length; i++) {
+        for (let j = 0; j < item.word.length; j++) {
+          if (existing.word[i] !== item.word[j]) continue;
+          const r = existing.direction === "across" ? existing.row - j : existing.row + i;
+          const c = existing.direction === "across" ? existing.col + i : existing.col - j;
+          const inter = canPlace(item.word, r, c, tryDir);
+          if (inter >= 1 && (!best || inter > best.score)) {
+            best = { row: r, col: c, dir: tryDir, score: inter };
+          }
+        }
+      }
+    }
+
+    if (best) {
+      for (let i = 0; i < item.word.length; i++) {
+        const r = best.dir === "across" ? best.row : best.row + i;
+        const c = best.dir === "across" ? best.col + i : best.col;
+        grid[r][c] = item.word[i];
+      }
+      placed.push({
+        direction: best.dir,
+        word: item.word,
+        displayWord: item.displayWord,
+        hint: item.hint,
+        row: best.row,
+        col: best.col,
+      });
+    }
+  }
+
+  // Keraksiz bo'sh qator/ustunlarni qirqib olamiz
+  let minR = size;
+  let maxR = 0;
+  let minC = size;
+  let maxC = 0;
+  for (let r = 0; r < size; r++) {
+    for (let c = 0; c < size; c++) {
+      if (grid[r][c] !== null) {
+        minR = Math.min(minR, r);
+        maxR = Math.max(maxR, r);
+        minC = Math.min(minC, c);
+        maxC = Math.max(maxC, c);
+      }
+    }
+  }
+
+  const rows = maxR - minR + 1;
+  const cols = maxC - minC + 1;
+  const solutionGrid: (string | null)[][] = Array.from({ length: rows }, (_, r) =>
+    Array.from({ length: cols }, (_, c) => grid[minR + r][minC + c]),
+  );
+  const numberGrid: (number | null)[][] = Array.from({ length: rows }, () => Array<number | null>(cols).fill(null));
+
+  const shifted = placed.map((e) => ({
+    ...e,
+    row: e.row - minR,
+    col: e.col - minC,
+  }));
+
+  shifted.sort((a, b) => (a.row !== b.row ? a.row - b.row : a.col - b.col));
+
+  let nextNum = 1;
+  const coordNumbers = new Map<string, number>();
+  const entries: CrosswordEntry[] = shifted.map((e) => {
+    const key = `${e.row}:${e.col}`;
+    let num = coordNumbers.get(key);
+    if (!num) {
+      num = nextNum++;
+      coordNumbers.set(key, num);
+      numberGrid[e.row][e.col] = num;
+    }
+    return { ...e, number: num };
+  });
+
+  return { rows, cols, solutionGrid, numberGrid, entries };
+}
+
+/* ================== 14. XOTIRA JUFTLARI (MEMORY CARDS) ================== */
+
+export interface MemoryCardItem {
+  uid: string;
+  pairId: number;
+  side: "front" | "back";
+  text: string;
+}
+
+export function buildMemoryDeck(quiz: Quiz, fallback?: Quiz, pairCount = 6): MemoryCardItem[] {
+  const rawPairs = getCards(quiz);
+  const combined =
+    rawPairs.length >= pairCount || !fallback
+      ? rawPairs
+      : [...rawPairs, ...getCards(fallback)];
+
+  const unique: [string, string][] = [];
+  const seen = new Set<string>();
+  for (const [f, b] of combined) {
+    const k = normalize(f);
+    if (!seen.has(k) && f.trim().length > 0 && b.trim().length > 0) {
+      seen.add(k);
+      unique.push([f.trim(), b.trim()]);
+    }
+  }
+
+  const picked = shuffle(unique).slice(0, pairCount);
+  const cards: MemoryCardItem[] = [];
+  picked.forEach(([front, back], idx) => {
+    cards.push({ uid: `m-${idx}-f`, pairId: idx, side: "front", text: front });
+    cards.push({ uid: `m-${idx}-b`, pairId: idx, side: "back", text: back });
+  });
+
+  return shuffle(cards);
+}
+
+/* ================== 15. SO'Z ZANJIRI (WORD CHAIN) ================== */
+
+export interface WordChainLink {
+  step: number;
+  word: string;
+  displayWord: string;
+  hint: string;
+  firstLetter: string;
+  lastLetter: string;
+  options: string[];
+}
+
+export function buildWordChain(words: WordPuzzleItem[], length = 8): WordChainLink[] {
+  const clean = shuffle(words.filter((w) => w.word.length >= 4 && w.word.length <= 12));
+  const picked = clean.slice(0, Math.min(length, clean.length));
+  const allDisplays = clean.map((w) => w.displayWord);
+
+  return picked.map((item, idx) => {
+    const distractors = shuffle(
+      allDisplays.filter((d) => normalize(d) !== normalize(item.displayWord)),
+    ).slice(0, 3);
+    return {
+      step: idx + 1,
+      word: item.word,
+      displayWord: item.displayWord,
+      hint: item.hint,
+      firstLetter: item.word[0],
+      lastLetter: item.word[item.word.length - 1],
+      options: shuffle([item.displayWord, ...distractors]),
+    };
+  });
 }

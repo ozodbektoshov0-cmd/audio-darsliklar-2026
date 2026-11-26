@@ -12,6 +12,7 @@ import {
 } from "lucide-react";
 import { ALL_SUBJECTS } from "../data";
 import type { GradeNumber, Language } from "../data/types";
+import { auth } from "../lib/firebase";
 import { useAuth } from "../context/AuthContext";
 import { getQuizzesBySubject } from "../quiz";
 import { parseTestContent } from "../quiz/parser";
@@ -205,8 +206,8 @@ export default function CustomQuizCreator({ uz, onClose, onSave }: Props) {
     setError(null);
     setImportNotice(null);
 
-    if (file.size > 8 * 1024 * 1024) {
-      setError(uz ? "Fayl hajmi 8 MB dan oshmasligi kerak." : "Файл не должен превышать 8 МБ.");
+    if (file.size > 4 * 1024 * 1024) {
+      setError(uz ? "Fayl hajmi 4 MB dan oshmasligi kerak." : "Файл не должен превышать 4 МБ.");
       return;
     }
 
@@ -235,14 +236,39 @@ export default function CustomQuizCreator({ uz, onClose, onSave }: Props) {
 
       // Server orqali aqlli tahlil (PDF, DOC, DOCX yoki erkin formatdagi TXT)
       const base64Data = await fileToBase64(file);
+      const token = await auth.currentUser?.getIdToken().catch(() => undefined);
+      const headers: Record<string, string> = { "Content-Type": "application/json" };
+      if (token) headers.Authorization = `Bearer ${token}`;
+
       const res = await fetch("/api/parse-tests", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers,
         body: JSON.stringify({ fileName: file.name, base64Data }),
       });
-      const data = await res.json();
+
+      const rawText = await res.text();
+      let data: any = null;
+      try {
+        data = rawText ? JSON.parse(rawText) : null;
+      } catch {
+        data = null;
+      }
+
       if (!res.ok) {
-        setError(data?.error || (uz ? "Faylni tahlil qilib bo'lmadi." : "Ошибка разбора файла."));
+        const fallbackMsg =
+          res.status === 413
+            ? uz
+              ? "Fayl hajmi juda katta (maksimum 4 MB)."
+              : "Слишком большой файл (макс. 4 МБ)."
+            : uz
+              ? `Server xatoligi (${res.status}): faylni tahlil qilib bo'lmadi.`
+              : `Ошибка сервера (${res.status}).`;
+        setError(data?.error || fallbackMsg);
+        return;
+      }
+
+      if (!data) {
+        setError(uz ? "Serverdan noto'g'ri javob qaytdi." : "Некорректный ответ сервера.");
         return;
       }
 
@@ -709,8 +735,8 @@ export default function CustomQuizCreator({ uz, onClose, onSave }: Props) {
                   </p>
                   <p className="text-xs text-slate-500 dark:text-slate-400 mt-1">
                     {uz
-                      ? "Hujjat ichidagi savollar avtomatik aniqlanib tayyor testga aylantiriladi (8 MB gacha)."
-                      : "Вопросы внутри документа распознаются автоматически (до 8 МБ)."}
+                      ? "Hujjat ichidagi savollar avtomatik aniqlanib tayyor testga aylantiriladi (4 MB gacha)."
+                      : "Вопросы внутри документа распознаются автоматически (до 4 МБ)."}
                   </p>
                 </div>
                 <label

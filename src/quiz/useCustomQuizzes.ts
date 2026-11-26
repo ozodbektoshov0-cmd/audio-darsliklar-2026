@@ -36,10 +36,14 @@ function toFirestorePayload(quiz: Quiz, uid: string, authorName: string) {
         ...(q.explain ? { explain: q.explain.slice(0, 800) } : {}),
       };
     }
+    const answers = (Array.isArray(q.answer) ? q.answer : [q.answer])
+      .map((a) => String(a).trim().slice(0, 200))
+      .filter(Boolean);
     return {
       type: "fill",
       q: q.q.slice(0, 800),
-      answer: Array.isArray(q.answer) ? q.answer[0].slice(0, 200) : q.answer.slice(0, 200),
+      answer: answers[0] || "",
+      ...(answers.length > 1 ? { answerAlternatives: answers.slice(0, 10) } : {}),
       ...(q.explain ? { explain: q.explain.slice(0, 800) } : {}),
     };
   });
@@ -78,6 +82,25 @@ function docToQuiz(data: Record<string, unknown>): Quiz | null {
         .map((p) => [String(p.front), String(p.back)] as [string, string])
     : undefined;
 
+  const normalizedQuestions = Array.isArray(data.questions)
+    ? data.questions.map((raw) => {
+        if (!raw || typeof raw !== "object") return raw;
+        const qObj = raw as Record<string, unknown>;
+        if (qObj.type === "fill" && Array.isArray(qObj.answerAlternatives) && qObj.answerAlternatives.length > 0) {
+          const alts = qObj.answerAlternatives.map((x) => String(x)).filter(Boolean);
+          if (alts.length > 0) {
+            return {
+              type: "fill" as const,
+              q: String(qObj.q || ""),
+              answer: alts.length === 1 ? alts[0] : alts,
+              ...(typeof qObj.explain === "string" ? { explain: qObj.explain } : {}),
+            };
+          }
+        }
+        return raw;
+      })
+    : [];
+
   const candidate: Quiz = {
     id: String(data.id || ""),
     subjectId: typeof data.subjectId === "string" && data.subjectId !== "custom" ? data.subjectId : undefined,
@@ -90,7 +113,7 @@ function docToQuiz(data: Record<string, unknown>): Quiz | null {
     ownerId: typeof data.ownerId === "string" ? data.ownerId : undefined,
     authorName: typeof data.authorName === "string" ? data.authorName : undefined,
     custom: true,
-    questions: Array.isArray(data.questions) ? (data.questions as Quiz["questions"]) : [],
+    questions: normalizedQuestions as Quiz["questions"],
     cards: cardPairs && cardPairs.length > 0 ? cardPairs : undefined,
   };
 

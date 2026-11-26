@@ -1,22 +1,20 @@
-import { GoogleGenAI, Type } from "@google/genai";
+import { Type } from "@google/genai";
 import mammoth from "mammoth";
 import { parseTestContent } from "../src/quiz/parser";
 import type { Question } from "../src/quiz/types";
+import { createGeminiClient, isOverloaded, sleep } from "./ai";
 
-const MAX_FILE_BYTES = 8 * 1024 * 1024;
+// Vercel serverless payload limit (~4.5 MB) ga mos ravishda 4 MB maksimal fayl hajmi
+export const MAX_FILE_BYTES = 4 * 1024 * 1024;
 const ALLOWED_EXTS = new Set([".pdf", ".doc", ".docx", ".txt", ".csv", ".json", ".md"]);
 
-function getGeminiClient(): GoogleGenAI | null {
-  const apiKey = process.env.GEMINI_API_KEY;
-  if (!apiKey || apiKey.trim() === "") return null;
-  return new GoogleGenAI({
-    apiKey,
-    httpOptions: {
-      headers: {
-        "User-Agent": "aistudio-build",
-      },
-    },
-  });
+function parserModels(): string[] {
+  const envVal = process.env.GEMINI_PARSER_MODELS;
+  if (envVal) {
+    const parsed = envVal.split(",").map((s) => s.trim()).filter(Boolean);
+    if (parsed.length > 0) return parsed;
+  }
+  return ["gemini-4-hydrogen", "gemini-3.1-flash-lite"];
 }
 
 function getExt(fileName: string): string {
@@ -55,68 +53,63 @@ function sanitizeExtractedQuestions(rawList: unknown[]): Question[] {
 async function extractWithGemini(
   contents: string | { parts: Array<{ inlineData?: { mimeType: string; data: string }; text?: string }> },
 ): Promise<Question[]> {
-  const ai = getGeminiClient();
+  const ai = createGeminiClient();
   if (!ai) return [];
 
-  const response = await ai.models.generateContent({
-    model: "gemini-4-hydrogen",
-    contents,
-    config: {
-      systemInstruction:
-        "Siz O'zbekiston maktab darsliklari va test hujjatlaridan savollarni aniq ajratib oluvchi tahlilchisiz. " +
-        "Berilgan hujjat yoki matndan barcha test savollarini toping (ko'pi bilan 150 ta). " +
-        "Agar matnda tayyor variantli savollar bo'lsa, aynan o'sha savol, variantlar, to'g'ri javob indeksi (0 dan boshlanadi) va qisqa izohni chiqaring. " +
-        "Agar hujjatda oddiy o'quv matni bo'lsa, shu matn mazmuni asosida sifatli maktab test savollari tuzing.",
-      responseMimeType: "application/json",
-      responseSchema: {
-        type: Type.ARRAY,
-        items: {
-          type: Type.OBJECT,
-          properties: {
-            type: {
-              type: Type.STRING,
-              description: "Savol turi: choice, truefalse yoki fill",
-            },
-            q: {
-              type: Type.STRING,
-              description: "Savol matni",
-            },
-            options: {
-              type: Type.ARRAY,
-              items: { type: Type.STRING },
-              description: "choice turi uchun 2-4 ta javob varianti",
-            },
-            answerIndex: {
-              type: Type.INTEGER,
-              description: "choice turi uchun to'g'ri javob indeksi (0 dan)",
-            },
-            boolAnswer: {
-              type: Type.BOOLEAN,
-              description: "truefalse turi uchun javob",
-            },
-            textAnswer: {
-              type: Type.STRING,
-              description: "fill turi uchun to'g'ri so'z",
-            },
-            explain: {
-              type: Type.STRING,
-              description: "Qisqa tushuntirish yoki izoh",
-            },
+  const config = {
+    systemInstruction:
+      "Siz O'zbekiston maktab darsliklari va test hujjatlaridan savollarni aniq ajratib oluvchi tahlilchisiz. " +
+      "Berilgan hujjat yoki matndan barcha test savollarini toping (ko'pi bilan 150 ta). " +
+      "Agar matnda tayyor variantli savollar bo'lsa, aynan o'sha savol, variantlar, to'g'ri javob indeksi (0 dan boshlanadi) va qisqa izohni chiqaring. " +
+      "Agar hujjatda oddiy o'quv matni bo'lsa, shu matn mazmuni asosida sifatli maktab test savollari tuzing.",
+    responseMimeType: "application/json",
+    responseSchema: {
+      type: Type.ARRAY,
+      items: {
+        type: Type.OBJECT,
+        properties: {
+          type: { type: Type.STRING, description: "Savol turi: choice, truefalse yoki fill" },
+          q: { type: Type.STRING, description: "Savol matni" },
+          options: {
+            type: Type.ARRAY,
+            items: { type: Type.STRING },
+            description: "choice turi uchun 2-4 ta javob varianti",
           },
-          required: ["type", "q"],
+          answerIndex: { type: Type.INTEGER, description: "choice turi uchun to'g'ri javob indeksi (0 dan)" },
+          boolAnswer: { type: Type.BOOLEAN, description: "truefalse turi uchun javob" },
+          textAnswer: { type: Type.STRING, description: "fill turi uchun to'g'ri so'z" },
+          explain: { type: Type.STRING, description: "Qisqa tushuntirish yoki izoh" },
         },
+        required: ["type", "q"],
       },
     },
-  });
+  };
 
-  const rawText = (response.text ?? "[]").trim();
-  const parsed = JSON.parse(rawText);
-  if (!Array.isArray(parsed)) return [];
-  return sanitizeExtractedQuestions(parsed);
+  for (const model of parserModels()) {
+    for (let attempt = 1; attempt <= 2; attempt++) {
+      try {
+        const response = await ai.models.generateContent({ model, contents, config });
+        const rawText = (response.text ?? "[]").trim();
+        const parsed = JSON.parse(rawText);
+        if (Array.isArray(parsed)) {
+          const sanitized = sanitizeExtractedQuestions(parsed);
+          if (sanitized.length > 0) return sanitized;
+        }
+        break;
+      } catch (err: any) {
+        if (isOverloaded(err) && attempt === 1) {
+          await sleep(1200);
+          continue;
+        }
+        console.warn(`[parse-tests] ${model}:`, String(err?.message || err).slice(0, 120));
+        break;
+      }
+    }
+  }
+  return [];
 }
 
 function extractReadableTextFromLegacyDoc(buf: Buffer): string {
-  // Attempt UTF-16LE and UTF-8 printable span extraction from binary .doc
   const utf8Runs = buf
     .toString("utf8")
     .replace(/[^\p{L}\p{N}\s.,?!:;()\-–—"'ʻʼ’‘|=/\n]/gu, " ")
@@ -138,7 +131,7 @@ export async function handleParseTestFile(body: any): Promise<{ status: number; 
     return { status: 400, body: { error: "Fayl yoki matn yuborilmadi." } };
   }
 
-  let ext = fileName ? getExt(fileName) : ".txt";
+  const ext = fileName ? getExt(fileName) : ".txt";
   if (!ALLOWED_EXTS.has(ext)) {
     return {
       status: 400,
@@ -151,7 +144,7 @@ export async function handleParseTestFile(body: any): Promise<{ status: number; 
     const cleanB64 = base64Data.includes(",") ? base64Data.split(",").pop() || "" : base64Data;
     buffer = Buffer.from(cleanB64, "base64");
     if (buffer.length === 0 || buffer.length > MAX_FILE_BYTES) {
-      return { status: 400, body: { error: "Fayl hajmi 8 MB dan oshmasligi kerak." } };
+      return { status: 413, body: { error: "Fayl hajmi 4 MB dan oshmasligi kerak." } };
     }
   }
 
@@ -173,7 +166,6 @@ export async function handleParseTestFile(body: any): Promise<{ status: number; 
           },
         };
       }
-      // If unstructured text, try Gemini
       const aiQuestions = await extractWithGemini(
         `Quyidagi matndan test savollarini ajratib oling:\n\n${extractedText.slice(0, 40000)}`,
       );
@@ -217,7 +209,6 @@ export async function handleParseTestFile(body: any): Promise<{ status: number; 
 
     if (ext === ".doc") {
       if (!buffer) return { status: 400, body: { error: "DOC fayl bo'sh." } };
-      // Try mammoth first (some .doc are actually docx/zip)
       try {
         const res = await mammoth.extractRawText({ buffer });
         if (res.value && res.value.trim().length > 10) {

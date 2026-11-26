@@ -8,7 +8,6 @@ import { MessageCircle } from "lucide-react";
 import { SOCIAL_LINKS } from "../constants";
 import { useLanguage } from "../context/LanguageContext";
 import AnimatedSocialIcon, { SocialIconType } from "../components/AnimatedSocialIcon";
-import AnimatedSocialButton from "../components/AnimatedSocialButton";
 
 export default function Contact() {
   const { language } = useLanguage();

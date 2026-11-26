@@ -21,6 +21,7 @@ import { Link, useLocation } from "react-router-dom";
 import ReactMarkdown from "react-markdown";
 import { useLanguage } from "../context/LanguageContext";
 import { useStudent } from "../context/StudentContext";
+import { auth } from "../lib/firebase";
 
 interface WidgetMessage {
   id: string;
@@ -76,9 +77,13 @@ export default function AiChatWidget() {
         .filter((m) => m.id !== "w-1")
         .map((m) => ({ role: m.role, text: m.text }));
 
+      const token = await auth.currentUser?.getIdToken().catch(() => undefined);
+      const headers: Record<string, string> = { "Content-Type": "application/json" };
+      if (token) headers.Authorization = `Bearer ${token}`;
+
       const res = await fetch("/api/chat", {
         method: "POST",
-        headers: { "Content-Type": "application/json" },
+        headers,
         body: JSON.stringify({
           messages: history,
           message: userText,
@@ -130,11 +135,8 @@ export default function AiChatWidget() {
         >
           {isOpen ? <X size={24} /> : <Bot size={26} />}
           {!isOpen && (
-            <span className="absolute -top-1 -right-1 flex h-4 w-4">
-              <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-amber-400 opacity-75"></span>
-              <span className="relative inline-flex rounded-full h-4 w-4 bg-amber-500 text-[9px] font-black text-white items-center justify-center">
-                AI
-              </span>
+            <span className="absolute -top-1 -right-1 inline-flex rounded-full h-4 w-4 bg-amber-500 text-[9px] font-black text-white items-center justify-center shadow-xs">
+              AI
             </span>
           )}
         </motion.button>

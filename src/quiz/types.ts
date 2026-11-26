@@ -65,7 +65,13 @@ export type IntellectualGameId =
   | "word-search"
   | "sentence-builder"
   | "fill-blank"
-  | "cards-match";
+  | "cards-match"
+  | "quiz-race"
+  | "truefalse-blitz"
+  | "math-duel"
+  | "crossword"
+  | "memory-cards"
+  | "word-chain";
 
 export type PlayMode = "solo" | "teams" | "class";
 

@@ -7,7 +7,12 @@ export * from "./types";
  * src/quiz/data/*.json fayllari avtomatik yuklanadi.
  * Yangi test qo'shish: shu papkaga JSON fayl tashlash kifoya (format: README yoki namuna-ona-tili.json).
  */
-const modules = import.meta.glob("./data/*.json", { eager: true, import: "default" }) as Record<string, unknown>;
+let modules: Record<string, unknown> = {};
+try {
+  modules = import.meta.glob("./data/*.json", { eager: true, import: "default" }) as Record<string, unknown>;
+} catch {
+  modules = {};
+}
 
 export const QUIZZES: Quiz[] = Object.entries(modules)
   .map(([path, mod]) => {

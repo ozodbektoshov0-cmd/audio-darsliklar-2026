@@ -2,14 +2,19 @@ import { useMemo, useState } from "react";
 import { useSearchParams } from "react-router-dom";
 import {
   ArrowLeft,
+  Award,
   BookOpen,
+  Calculator,
   CheckCircle2,
   ChevronRight,
   Clock,
+  Flag,
+  Flame,
   FlaskConical,
   Gamepad2,
   Grid3X3,
   Layers,
+  Link2,
   ListChecks,
   Package,
   Plus,
@@ -27,19 +32,25 @@ import { useReader } from "../context/ReaderContext";
 import { useAuth } from "../context/AuthContext";
 import { QUIZZES, getQuizzesBySubject } from "../quiz";
 import type { IntellectualGameId, PlayMode, Quiz } from "../quiz/types";
-import { buildBookQuiz, useQuizResults } from "../quiz/util";
+import { buildBookQuiz, shuffle, useQuizResults } from "../quiz/util";
 import { useCloudCustomQuizzes } from "../quiz/useCustomQuizzes";
 import { GENERAL_INTELLECTUAL_CATEGORIES, GENERAL_INTELLECTUAL_QUIZ } from "../quiz/generalGamesPack";
 import { QuizGame } from "../quiz/games";
 import {
   AnagramGame,
   CardsAndMatchGame,
+  CrosswordGame,
   FillBlankGame,
   INTELLECTUAL_GAMES_META,
   JeopardyGame,
+  MathDuelGame,
+  MemoryCardsGame,
   MysteryBoxGame,
+  QuizRaceGame,
   SentenceBuilderGame,
+  TrueFalseBlitzGame,
   TugOfWarGame,
+  WordChainGame,
   WordSearchGame,
   WheelOfFortuneGame,
 } from "../quiz/intellectualGames";
@@ -49,6 +60,18 @@ const GRADES: GradeNumber[] = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10"
 
 type SectionMode = "entry" | "tests" | "games";
 type GameScope = "general" | "textbook" | "custom";
+
+function buildAttestatsiyaQuiz(uz: boolean): Quiz {
+  const pool = [...QUIZZES.flatMap((q) => q.questions), ...GENERAL_INTELLECTUAL_QUIZ.questions];
+  return {
+    id: "attestatsiya-30",
+    title: uz ? "Attestatsiya va Nazorat sinovi (30 savol)" : "Аттестация и Контрольный экзамен (30 вопр.)",
+    grade: "9",
+    lang: uz ? "uz" : "ru",
+    source: uz ? "Fanlararo umumiy attestatsiya to'plami" : "Межпредметный экзаменационный сборник",
+    questions: shuffle(pool).slice(0, 30),
+  };
+}
 
 function getQuestionCountOptions(total: number): (number | "all")[] {
   const presets = [10, 20, 30, 50, 100].filter((n) => n < total);
@@ -65,17 +88,32 @@ export default function Tests() {
   const [searchParams] = useSearchParams();
 
   const initialSectionParam = searchParams.get("section");
+  const initialGameParam = searchParams.get("game") as IntellectualGameId | null;
+  const initialModeParam = searchParams.get("mode");
+  const initialCreateParam = searchParams.get("create") === "1";
+
+  const validInitialGame =
+    initialGameParam && INTELLECTUAL_GAMES_META.some((g) => g.id === initialGameParam) ? initialGameParam : null;
+
   const initialSection: SectionMode =
-    initialSectionParam === "tests" || initialSectionParam === "games" ? initialSectionParam : "entry";
+    validInitialGame || initialSectionParam === "games"
+      ? "games"
+      : initialModeParam === "attestatsiya" || initialSectionParam === "tests"
+        ? "tests"
+        : "entry";
 
   const [section, setSection] = useState<SectionMode>(initialSection);
 
   // ---- TESTLAR BOSQICHMA-BOSQICH HOLATI ----
-  const [testGrade, setTestGrade] = useState<GradeNumber | null>(null);
-  const [testLang, setTestLang] = useState<Language | null>(null);
+  const [testGrade, setTestGrade] = useState<GradeNumber | null>(initialModeParam === "attestatsiya" ? "9" : null);
+  const [testLang, setTestLang] = useState<Language | null>(initialModeParam === "attestatsiya" ? "uz" : null);
   const [testSubject, setTestSubject] = useState<SubjectItem | null>(null);
-  const [selectedTestQuiz, setSelectedTestQuiz] = useState<Quiz | null>(null);
-  const [questionLimit, setQuestionLimit] = useState<number | "all" | null>(null);
+  const [selectedTestQuiz, setSelectedTestQuiz] = useState<Quiz | null>(
+    initialModeParam === "attestatsiya" ? buildAttestatsiyaQuiz(uz) : null,
+  );
+  const [questionLimit, setQuestionLimit] = useState<number | "all" | null>(
+    initialModeParam === "attestatsiya" ? 30 : null,
+  );
   const [testRound, setTestRound] = useState(0);
 
   // ---- O'YINLAR HOLATI ----
@@ -86,11 +124,11 @@ export default function Tests() {
   const [gameTopicId, setGameTopicId] = useState<string>("book:g9-uz-adabiyot");
   const [customSelectedId, setCustomSelectedId] = useState<string>("");
   const [playMode, setPlayMode] = useState<PlayMode>("solo");
-  const [activeGameId, setActiveGameId] = useState<IntellectualGameId | null>(null);
+  const [activeGameId, setActiveGameId] = useState<IntellectualGameId | null>(validInitialGame);
   const [gameRound, setGameRound] = useState(0);
 
   // ---- YARATISH MODALI ----
-  const [creatorOpen, setCreatorOpen] = useState(false);
+  const [creatorOpen, setCreatorOpen] = useState(initialCreateParam);
 
   // Sinf va til bo'yicha testlar statistikasi
   const gradeQuizCounts = useMemo(() => {
@@ -219,11 +257,29 @@ export default function Tests() {
     }
   };
 
+  const startAttestatsiya = () => {
+    const att = buildAttestatsiyaQuiz(uz);
+    setSection("tests");
+    setActiveGameId(null);
+    setTestGrade("9");
+    setTestLang(uz ? "uz" : "ru");
+    setTestSubject(null);
+    setSelectedTestQuiz(att);
+    setQuestionLimit(30);
+    setTestRound((r) => r + 1);
+  };
+
   const gameIcons: Record<IntellectualGameId, typeof Package> = {
     "mystery-box": Package,
     wheel: Sparkles,
     "tug-of-war": Users,
     jeopardy: Grid3X3,
+    "quiz-race": Flag,
+    "truefalse-blitz": Flame,
+    "math-duel": Calculator,
+    crossword: Grid3X3,
+    "memory-cards": Layers,
+    "word-chain": Link2,
     anagram: Wand2,
     "word-search": Grid3X3,
     "sentence-builder": ListChecks,
@@ -249,8 +305,8 @@ export default function Tests() {
               </h1>
               <p className="text-slate-600 dark:text-slate-300 max-w-2xl mt-2 text-sm sm:text-base">
                 {uz
-                  ? "1–11-sinf darsliklari bo'yicha vaqtli testlarni yeching yoki yakka, jamoaviy hamda butun sinf uchun 9 xil intellektual o'yinlarda bellashing."
-                  : "Решайте тесты по учебникам 1–11 классов или соревнуйтесь в 9 интеллектуальных играх."}
+                  ? "1–11-sinf darsliklari bo'yicha vaqtli testlar, Attestatsiya sinovini yeching yoki yakka, jamoaviy hamda butun sinf uchun 15 xil intellektual o'yinlarda bellashing."
+                  : "Решайте тесты и аттестацию по учебникам 1–11 классов или соревнуйтесь в 15 интеллектуальных играх."}
               </p>
             </div>
 
@@ -265,9 +321,9 @@ export default function Tests() {
           </div>
         )}
 
-        {/* 1-BOSQICH: KIRISH TUGMALARI (TESTLAR YOKI O'YINLAR) */}
+        {/* 1-BOSQICH: KIRISH TUGMALARI (TESTLAR, ATTESTATSIYA YOKI O'YINLAR) */}
         {section === "entry" ? (
-          <div className="grid sm:grid-cols-2 gap-4 mb-8">
+          <div className="grid sm:grid-cols-3 gap-4 mb-8">
             <button
               type="button"
               onClick={() => {
@@ -280,11 +336,30 @@ export default function Tests() {
                 <div className="w-12 h-12 rounded-2xl flex items-center justify-center mb-4 bg-blue-50 dark:bg-slate-800 text-brand-primary dark:text-blue-300">
                   <ListChecks size={24} />
                 </div>
-                <h2 className="text-xl sm:text-2xl font-serif font-black mb-1">{uz ? "Testlar" : "Тесты"}</h2>
-                <p className="text-sm text-slate-600 dark:text-slate-400">
+                <h2 className="text-xl font-serif font-black mb-1">{uz ? "Testlar" : "Тесты"}</h2>
+                <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400">
                   {uz
-                    ? "1–11 sinf · O'zbek va rus · Darslik, mavzu yoki butun kitob bo'yicha vaqtli sinov"
-                    : "1–11 классы · Узбекский и русский · Тесты по темам или всему учебнику"}
+                    ? "1–11 sinf · O'zbek va rus · Mavzu yoki butun kitob bo'yicha sinov"
+                    : "1–11 классы · По темам или всему учебнику"}
+                </p>
+              </div>
+              <ChevronRight size={20} className="shrink-0 mt-1" />
+            </button>
+
+            <button
+              type="button"
+              onClick={startAttestatsiya}
+              className="text-left p-6 rounded-3xl border bg-white dark:bg-slate-900 border-slate-200 dark:border-slate-800 text-slate-900 dark:text-white hover:border-emerald-500 transition-colors duration-150 flex items-start justify-between gap-4"
+            >
+              <div>
+                <div className="w-12 h-12 rounded-2xl flex items-center justify-center mb-4 bg-emerald-50 dark:bg-slate-800 text-emerald-600 dark:text-emerald-400">
+                  <Award size={24} />
+                </div>
+                <h2 className="text-xl font-serif font-black mb-1">{uz ? "Attestatsiya" : "Аттестация"}</h2>
+                <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400">
+                  {uz
+                    ? "30 ta fanlararo nazorat savollari · Vaqt hisobi va tahlil"
+                    : "30 межпредметных вопросов · Таймер и разбор"}
                 </p>
               </div>
               <ChevronRight size={20} className="shrink-0 mt-1" />
@@ -302,11 +377,11 @@ export default function Tests() {
                 <div className="w-12 h-12 rounded-2xl flex items-center justify-center mb-4 bg-amber-50 dark:bg-slate-800 text-amber-600 dark:text-amber-300">
                   <Gamepad2 size={24} />
                 </div>
-                <h2 className="text-xl sm:text-2xl font-serif font-black mb-1">{uz ? "O'yinlar" : "Игры"}</h2>
-                <p className="text-sm text-slate-600 dark:text-slate-400">
+                <h2 className="text-xl font-serif font-black mb-1">{uz ? "15 ta O'yin" : "15 Игр"}</h2>
+                <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-400">
                   {uz
-                    ? "Sirli quti, Omad charxi, Arg'amchi tortish, Jeopardy, Anagram, So'z qidirish va boshqalar"
-                    : "Тайный ящик, Колесо фортуны, Канат, Jeopardy, Анаграмма, Поиск слов и другие"}
+                    ? "3D Arg'amchi tortish, Sirli quti, Jeopardy, Krossvord, Matematik duel va boshqalar"
+                    : "3D Канат, Тайный ящик, Своя игра, Кроссворд и другие"}
                 </p>
               </div>
               <ChevronRight size={20} className="shrink-0 mt-1" />
@@ -365,8 +440,8 @@ export default function Tests() {
             </h3>
             <p className="text-sm text-slate-600 dark:text-slate-300 mb-6">
               {uz
-                ? "Yuqoridagi «Testlar» tugmasini bosib 1–11 sinf darsliklaridan savollar yeching yoki «O'yinlar» tugmasini bosib 9 xil intellektual bellashuvni boshlang."
-                : "Нажмите «Тесты» для пошагового выбора класса и учебника или «Игры» для запуска интеллектуальных игр."}
+                ? "Yuqoridagi «Testlar» tugmasini bosib 1–11 sinf darsliklaridan savollar yeching, «Attestatsiya» sinovini boshlang yoki «15 ta O'yin» bo'limida bellashing."
+                : "Нажмите «Тесты» для пошагового выбора класса, «Аттестация» для общего экзамена или «15 Игр» для запуска соревнований."}
             </p>
             <div className="grid sm:grid-cols-3 gap-4 text-sm">
               <div className="p-4 rounded-2xl bg-slate-50 dark:bg-slate-800/70 border border-slate-200/70 dark:border-slate-700/70">
@@ -1261,6 +1336,60 @@ export default function Tests() {
                     <JeopardyGame
                       quiz={activeGameData.quiz}
                       relatedQuizzes={activeGameData.related}
+                      uz={uz}
+                      playMode={playMode}
+                      onFinish={(s) => record(activeGameData.quiz.id, activeGameId, s)}
+                      onRestart={() => setGameRound((r) => r + 1)}
+                    />
+                  )}
+                  {activeGameId === "quiz-race" && (
+                    <QuizRaceGame
+                      quiz={activeGameData.quiz}
+                      uz={uz}
+                      playMode={playMode}
+                      onFinish={(s) => record(activeGameData.quiz.id, activeGameId, s)}
+                      onRestart={() => setGameRound((r) => r + 1)}
+                    />
+                  )}
+                  {activeGameId === "truefalse-blitz" && (
+                    <TrueFalseBlitzGame
+                      quiz={activeGameData.quiz}
+                      uz={uz}
+                      playMode={playMode}
+                      onFinish={(s) => record(activeGameData.quiz.id, activeGameId, s)}
+                      onRestart={() => setGameRound((r) => r + 1)}
+                    />
+                  )}
+                  {activeGameId === "math-duel" && (
+                    <MathDuelGame
+                      quiz={activeGameData.quiz}
+                      uz={uz}
+                      playMode={playMode}
+                      onFinish={(s) => record(activeGameData.quiz.id, activeGameId, s)}
+                      onRestart={() => setGameRound((r) => r + 1)}
+                    />
+                  )}
+                  {activeGameId === "crossword" && (
+                    <CrosswordGame
+                      quiz={activeGameData.quiz}
+                      uz={uz}
+                      playMode={playMode}
+                      onFinish={(s) => record(activeGameData.quiz.id, activeGameId, s)}
+                      onRestart={() => setGameRound((r) => r + 1)}
+                    />
+                  )}
+                  {activeGameId === "memory-cards" && (
+                    <MemoryCardsGame
+                      quiz={activeGameData.quiz}
+                      uz={uz}
+                      playMode={playMode}
+                      onFinish={(s) => record(activeGameData.quiz.id, activeGameId, s)}
+                      onRestart={() => setGameRound((r) => r + 1)}
+                    />
+                  )}
+                  {activeGameId === "word-chain" && (
+                    <WordChainGame
+                      quiz={activeGameData.quiz}
                       uz={uz}
                       playMode={playMode}
                       onFinish={(s) => record(activeGameData.quiz.id, activeGameId, s)}

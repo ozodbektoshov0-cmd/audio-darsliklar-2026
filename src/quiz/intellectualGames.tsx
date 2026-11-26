@@ -1,8 +1,12 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { Suspense, lazy, useEffect, useMemo, useRef, useState } from "react";
 import {
   ArrowRight,
   Award,
+  Calculator,
   Check,
+  Clock,
+  Flag,
+  Flame,
   Gift,
   Grid3X3,
   HelpCircle,
@@ -15,13 +19,17 @@ import {
   Users,
   X,
 } from "lucide-react";
-import type { PlayMode, Quiz } from "./types";
+import type { IntellectualGameId, PlayMode, Quiz } from "./types";
 import { buildExplanation, correctAnswerText, isFillCorrect, normalize, shuffle } from "./util";
 import { GENERAL_INTELLECTUAL_QUIZ } from "./generalGamesPack";
 import {
   applyTugStep,
+  buildCrosswordGrid,
   buildJeopardyBoard,
+  buildMathDuelProblems,
+  buildMemoryDeck,
   buildMysteryBoxes,
+  buildWordChain,
   computeNextWheelRotation,
   extractClozePuzzles,
   extractSentencePuzzles,
@@ -30,6 +38,8 @@ import {
   getLineCoords,
   isSentenceSolved,
   matchWordSearchSelection,
+  scoreRaceStep,
+  scoreTrueFalseStreak,
   scrambleWordTiles,
   toPlayableChoiceQuestions,
   WHEEL_SECTORS,
@@ -38,8 +48,19 @@ import {
   type MysteryBoxTile,
 } from "./gameEngines";
 import { CardsGame, ChoiceBlock, MatchGame } from "./games";
-import TugOfWar3D from "./TugOfWar3D";
-import { MysteryBox3DStage } from "./MysteryBox3D";
+
+const TugOfWar3D = lazy(() => import("./TugOfWar3D"));
+const MysteryBox3DStage = lazy(() =>
+  import("./MysteryBox3D").then((m) => ({ default: m.MysteryBox3DStage })),
+);
+
+function ThreeDStageFallback({ label }: { label: string }) {
+  return (
+    <div className="w-full h-[260px] rounded-2xl bg-slate-100 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700 flex items-center justify-center mb-4 text-xs font-bold text-slate-500 dark:text-slate-400">
+      {label}
+    </div>
+  );
+}
 
 export interface IntellectualGameProps {
   quiz: Quiz;
@@ -256,15 +277,17 @@ export function MysteryBoxGame({ quiz, uz, playMode, onFinish, onRestart }: Inte
 
       {!activeBox ? (
         <>
-          <MysteryBox3DStage
-            total={boxes.length}
-            openedIds={openedIds}
-            disabled={activeBox !== null}
-            onOpenBox={(id) => {
-              const found = boxes.find((b) => b.id === id);
-              if (found) openBox(found);
-            }}
-          />
+          <Suspense fallback={<ThreeDStageFallback label={uz ? "3D sahna yuklanmoqda..." : "Загрузка 3D сцены..."} />}>
+            <MysteryBox3DStage
+              total={boxes.length}
+              openedIds={openedIds}
+              disabled={activeBox !== null}
+              onOpenBox={(id) => {
+                const found = boxes.find((b) => b.id === id);
+                if (found) openBox(found);
+              }}
+            />
+          </Suspense>
           <p className="text-sm text-slate-600 dark:text-slate-300 mb-4">
             {uz
               ? "3D sahnadagi yoki quyidagi raqamlangan qutilardan birini tanlang — savol, sovg'a yoki 2x ball chiqadi."
@@ -560,7 +583,11 @@ export function WheelOfFortuneGame({ quiz, uz, playMode, onFinish, onRestart }: 
 
 /* ============ 3. ARG'AMCHI TORTISH 3D (TUG OF WAR 3D) ============ */
 export function TugOfWarGame({ quiz, uz, playMode, onFinish, onRestart }: IntellectualGameProps) {
-  return <TugOfWar3D quiz={quiz} uz={uz} playMode={playMode} onFinish={onFinish} onRestart={onRestart} />;
+  return (
+    <Suspense fallback={<ThreeDStageFallback label={uz ? "3D arena yuklanmoqda..." : "Загрузка 3D арены..."} />}>
+      <TugOfWar3D quiz={quiz} uz={uz} playMode={playMode} onFinish={onFinish} onRestart={onRestart} />
+    </Suspense>
+  );
 }
 
 /* ============ 4. JEOPARDY ============ */
@@ -1388,18 +1415,766 @@ export function CardsAndMatchGame({ quiz, uz, onFinish, onRestart }: Intellectua
   );
 }
 
-/* ============ GAME REGISTRY METADATA ============ */
+/* ============ 10. BILIM POYGASI (QUIZ RACE) ============ */
+export function QuizRaceGame({ quiz, uz, playMode, onFinish, onRestart }: IntellectualGameProps) {
+  const pool = useMemo(() => toPlayableChoiceQuestions(quiz, uz), [quiz, uz]);
+  const targetSteps = 8;
+  const [progress, setProgress] = useState<[number, number]>([0, 0]);
+  const [activeTeam, setActiveTeam] = useState<1 | 2>(1);
+  const [qIdx, setQIdx] = useState(0);
+  const [picked, setPicked] = useState<number | null>(null);
+  const [winner, setWinner] = useState<1 | 2 | null>(null);
+  const reported = useRef(false);
+
+  const q = pool.length > 0 ? pool[qIdx % pool.length] : null;
+
+  useEffect(() => {
+    if (winner && !reported.current) {
+      reported.current = true;
+      onFinish(Math.max(progress[0], progress[1]) * 100);
+    }
+  }, [winner, progress, onFinish]);
+
+  if (!q) return <div className={cardClass}>{uz ? "Savollar topilmadi." : "Вопросы не найдены."}</div>;
+
+  if (winner) {
+    return (
+      <WinnerPanel
+        title={uz ? "Bilim poygasi yakuni" : "Итоги «Гонки знаний»"}
+        playMode={playMode === "solo" ? "teams" : playMode}
+        scores={[progress[0] * 100, progress[1] * 100]}
+        uz={uz}
+        onRestart={onRestart}
+      />
+    );
+  }
+
+  const answerRace = (idx: number) => {
+    if (picked !== null) return;
+    setPicked(idx);
+    const correctIdx = q.type === "choice" ? q.answer : q.answer ? 0 : 1;
+    const isOk = idx === correctIdx;
+
+    if (playMode === "solo") {
+      const playerStep = scoreRaceStep(progress[0], isOk, targetSteps);
+      const botOk = !isOk && Math.random() < 0.7;
+      const botStep = scoreRaceStep(progress[1], botOk, targetSteps);
+      setProgress([playerStep.nextProgress, botStep.nextProgress]);
+      if (playerStep.finished) setWinner(1);
+      else if (botStep.finished) setWinner(2);
+    } else {
+      const idxTeam = activeTeam === 1 ? 0 : 1;
+      const res = scoreRaceStep(progress[idxTeam], isOk, targetSteps);
+      const nextProg: [number, number] =
+        activeTeam === 1 ? [res.nextProgress, progress[1]] : [progress[0], res.nextProgress];
+      setProgress(nextProg);
+      if (res.finished) setWinner(activeTeam);
+    }
+  };
+
+  const nextQ = () => {
+    setPicked(null);
+    setQIdx((i) => i + 1);
+    if (playMode !== "solo") setActiveTeam((t) => (t === 1 ? 2 : 1));
+  };
+
+  const label1 = playMode === "solo" ? (uz ? "Siz" : "Вы") : uz ? "1-jamoa" : "Команда 1";
+  const label2 = playMode === "solo" ? (uz ? "Raqib (Bot)" : "Соперник") : uz ? "2-jamoa" : "Команда 2";
+
+  return (
+    <div className={cardClass}>
+      <TeamScoreHeader
+        playMode={playMode === "solo" ? "teams" : playMode}
+        scores={[progress[0] * 100, progress[1] * 100]}
+        activeTeam={activeTeam}
+        uz={uz}
+        extra={`${uz ? "Marra:" : "Финиш:"} ${targetSteps} ${uz ? "qadam" : "шагов"}`}
+      />
+
+      {/* Race Track */}
+      <div className="space-y-3 mb-6 p-4 rounded-2xl bg-slate-50 dark:bg-slate-800/70 border border-slate-200 dark:border-slate-700">
+        {[
+          { label: label1, val: progress[0], color: "bg-brand-primary" },
+          { label: label2, val: progress[1], color: "bg-amber-500" },
+        ].map((racer, i) => (
+          <div key={i} className="space-y-1">
+            <div className="flex items-center justify-between text-xs font-bold text-slate-700 dark:text-slate-300 tabular-nums">
+              <span>{racer.label}</span>
+              <span className="flex items-center gap-1">
+                {racer.val}/{targetSteps} <Flag size={12} />
+              </span>
+            </div>
+            <div className="h-3 rounded-full bg-slate-200 dark:bg-slate-700 overflow-hidden">
+              <div
+                className={`h-full ${racer.color} transition-all duration-300 rounded-full`}
+                style={{ width: `${Math.round((racer.val / targetSteps) * 100)}%` }}
+              />
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-4">{q.q}</h3>
+      <ChoiceBlock q={q} picked={picked} onPick={answerRace} uz={uz} />
+
+      {picked !== null && (
+        <div className="mt-4 p-4 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 flex flex-wrap items-center justify-between gap-3 text-sm">
+          <div>
+            <p className="font-bold text-slate-900 dark:text-white">
+              {uz ? "To'g'ri javob:" : "Ответ:"} {correctAnswerText(q, uz)}
+            </p>
+            <p className="text-slate-600 dark:text-slate-300 mt-0.5">{buildExplanation(q, uz)}</p>
+          </div>
+          <button type="button" onClick={nextQ} className={primaryBtn}>
+            {uz ? "Keyingi qadam" : "Дальше"}
+            <ArrowRight size={16} />
+          </button>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ============ 11. HA / YO'Q BLITS (TRUE/FALSE BLITZ) ============ */
+export function TrueFalseBlitzGame({ quiz, uz, onFinish, onRestart }: IntellectualGameProps) {
+  const statements = useMemo(() => {
+    const tfFromQuiz = quiz.questions
+      .filter((q) => q.type === "truefalse")
+      .map((q) => ({ q: q.q, answer: q.answer, explain: buildExplanation(q, uz) }));
+
+    const derivedFromChoice = quiz.questions
+      .filter((q) => q.type === "choice")
+      .slice(0, 14)
+      .map((q, idx) => {
+        const makeTrue = idx % 2 === 0 || q.options.length < 2;
+        const shownOpt = makeTrue ? q.options[q.answer] : q.options[(q.answer + 1) % q.options.length];
+        return {
+          q: `${q.q} — «${shownOpt}»`,
+          answer: makeTrue,
+          explain: buildExplanation(q, uz),
+        };
+      });
+
+    const merged = shuffle([...tfFromQuiz, ...derivedFromChoice]);
+    if (merged.length >= 6) return merged.slice(0, 15);
+    return shuffle(
+      GENERAL_INTELLECTUAL_QUIZ.questions
+        .filter((q) => q.type === "truefalse")
+        .map((q) => ({ q: q.q, answer: q.answer, explain: buildExplanation(q, uz) })),
+    );
+  }, [quiz, uz]);
+
+  const [idx, setIdx] = useState(0);
+  const [score, setScore] = useState(0);
+  const [streak, setStreak] = useState(0);
+  const [multiplier, setMultiplier] = useState(1);
+  const [timeLeft, setTimeLeft] = useState(45);
+  const [feedback, setFeedback] = useState<{ ok: boolean; explain: string } | null>(null);
+  const reported = useRef(false);
+
+  const done = timeLeft <= 0 || idx >= statements.length;
+
+  useEffect(() => {
+    if (done) return;
+    const id = window.setInterval(() => setTimeLeft((t) => Math.max(0, t - 1)), 1000);
+    return () => window.clearInterval(id);
+  }, [done]);
+
+  useEffect(() => {
+    if (done && !reported.current) {
+      reported.current = true;
+      onFinish(score);
+    }
+  }, [done, score, onFinish]);
+
+  if (done) {
+    return (
+      <div className={`${cardClass} text-center`}>
+        <Trophy className="mx-auto text-amber-500 mb-3" size={40} />
+        <p className="text-sm font-bold text-slate-500">{uz ? "Ha / Yo'q Blits" : "Блиц Правда/Ложь"}</p>
+        <p className="text-5xl font-black text-slate-900 dark:text-white my-3 tabular-nums">{score}</p>
+        <button type="button" onClick={onRestart} className={primaryBtn}>
+          <RotateCcw size={16} /> {uz ? "Qayta o'ynash" : "Играть снова"}
+        </button>
+      </div>
+    );
+  }
+
+  const current = statements[idx];
+
+  const handleAnswer = (val: boolean) => {
+    if (feedback) return;
+    const ok = val === current.answer;
+    const res = scoreTrueFalseStreak(streak, ok);
+    setStreak(res.nextStreak);
+    setMultiplier(res.multiplier);
+    if (ok) setScore((s) => s + res.deltaPoints);
+    setFeedback({ ok, explain: current.explain });
+    window.setTimeout(() => {
+      setFeedback(null);
+      setIdx((i) => i + 1);
+    }, 850);
+  };
+
+  return (
+    <div className={cardClass}>
+      <div className="flex flex-wrap items-center justify-between gap-3 mb-5 pb-4 border-b border-slate-100 dark:border-slate-800 tabular-nums">
+        <div className="flex items-center gap-3 text-sm font-bold">
+          <span className="text-brand-primary dark:text-blue-300">
+            {uz ? "Ball:" : "Очки:"} <strong className="text-base">{score}</strong>
+          </span>
+          <span className="inline-flex items-center gap-1 text-amber-600 dark:text-amber-400">
+            <Flame size={15} /> {streak}x ({multiplier}x)
+          </span>
+        </div>
+        <div className="inline-flex items-center gap-1.5 text-sm font-black text-slate-700 dark:text-slate-200">
+          <Clock size={15} /> {timeLeft}s
+        </div>
+      </div>
+
+      <p className="text-xs font-bold text-slate-400 mb-2 tabular-nums">
+        {idx + 1}/{statements.length}
+      </p>
+      <h3 className="text-xl sm:text-2xl font-bold text-slate-900 dark:text-white mb-6 min-h-[72px]">
+        {current.q}
+      </h3>
+
+      <div className="grid grid-cols-2 gap-4">
+        <button
+          type="button"
+          disabled={feedback !== null}
+          onClick={() => handleAnswer(true)}
+          className="py-5 rounded-2xl border-2 border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-200 font-black text-lg hover:bg-emerald-600 hover:text-white transition-colors"
+        >
+          ✓ {uz ? "HA (To'g'ri)" : "ДА (Верно)"}
+        </button>
+        <button
+          type="button"
+          disabled={feedback !== null}
+          onClick={() => handleAnswer(false)}
+          className="py-5 rounded-2xl border-2 border-red-500 bg-red-50 dark:bg-red-950/40 text-red-800 dark:text-red-200 font-black text-lg hover:bg-red-600 hover:text-white transition-colors"
+        >
+          ✕ {uz ? "YO'Q (Noto'g'ri)" : "НЕТ (Неверно)"}
+        </button>
+      </div>
+
+      {feedback && (
+        <div
+          className={`mt-4 p-3.5 rounded-xl text-xs sm:text-sm font-semibold ${
+            feedback.ok
+              ? "bg-emerald-50 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-200"
+              : "bg-red-50 dark:bg-red-950/40 text-red-800 dark:text-red-200"
+          }`}
+        >
+          {feedback.ok ? (uz ? "To'g'ri!" : "Верно!") : uz ? "Xato!" : "Неверно!"} — {feedback.explain}
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ============ 12. MATEMATIK DUEL (MATH DUEL) ============ */
+export function MathDuelGame({ quiz, uz, playMode, onFinish, onRestart }: IntellectualGameProps) {
+  const gradeNum = quiz.grade ? parseInt(quiz.grade, 10) || 7 : 7;
+  const problems = useMemo(() => buildMathDuelProblems(gradeNum, 10), [gradeNum]);
+  const [idx, setIdx] = useState(0);
+  const [scores, setScores] = useState<[number, number]>([0, 0]);
+  const [activeTeam, setActiveTeam] = useState<1 | 2>(1);
+  const [picked, setPicked] = useState<number | null>(null);
+  const reported = useRef(false);
+
+  const done = idx >= problems.length;
+
+  useEffect(() => {
+    if (done && !reported.current) {
+      reported.current = true;
+      onFinish(Math.max(scores[0], scores[1]));
+    }
+  }, [done, scores, onFinish]);
+
+  if (done) {
+    return (
+      <WinnerPanel
+        title={uz ? "Matematik duel yakuni" : "Итоги математической дуэли"}
+        playMode={playMode}
+        scores={scores}
+        uz={uz}
+        onRestart={onRestart}
+      />
+    );
+  }
+
+  const p = problems[idx];
+
+  const handlePick = (opt: number) => {
+    if (picked !== null) return;
+    setPicked(opt);
+    if (opt === p.answer) {
+      setScores((prev) => (activeTeam === 1 ? [prev[0] + 100, prev[1]] : [prev[0], prev[1] + 100]));
+    }
+  };
+
+  const next = () => {
+    setPicked(null);
+    setIdx((i) => i + 1);
+    if (playMode !== "solo") setActiveTeam((t) => (t === 1 ? 2 : 1));
+  };
+
+  return (
+    <div className={cardClass}>
+      <TeamScoreHeader
+        playMode={playMode}
+        scores={scores}
+        activeTeam={activeTeam}
+        uz={uz}
+        extra={`${gradeNum}-${uz ? "sinf" : "кл"} · ${idx + 1}/${problems.length}`}
+      />
+
+      <div className="p-6 rounded-2xl bg-slate-50 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700 text-center mb-5">
+        <Calculator className="mx-auto text-brand-primary dark:text-blue-400 mb-2" size={26} />
+        <h3 className="text-2xl sm:text-3xl font-black text-slate-900 dark:text-white font-mono tabular-nums">
+          {p.prompt}
+        </h3>
+      </div>
+
+      <div className="grid grid-cols-2 gap-3">
+        {p.options.map((opt) => {
+          const isCorrect = opt === p.answer;
+          const isPicked = picked === opt;
+          let cls =
+            "border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 text-slate-900 dark:text-white hover:border-brand-primary";
+          if (picked !== null) {
+            if (isCorrect) cls = "border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-200";
+            else if (isPicked) cls = "border-red-500 bg-red-50 dark:bg-red-950/40 text-red-800 dark:text-red-200";
+          }
+          return (
+            <button
+              key={opt}
+              type="button"
+              disabled={picked !== null}
+              onClick={() => handlePick(opt)}
+              className={`py-4 rounded-xl border-2 text-lg font-black font-mono tabular-nums transition-colors ${cls}`}
+            >
+              {opt}
+            </button>
+          );
+        })}
+      </div>
+
+      {picked !== null && (
+        <div className="mt-4 p-4 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 flex flex-wrap items-center justify-between gap-3 text-sm">
+          <p className="font-bold text-slate-800 dark:text-slate-200">{p.explain}</p>
+          <button type="button" onClick={next} className={primaryBtn}>
+            {idx + 1 >= problems.length ? (uz ? "Natija" : "Итог") : uz ? "Keyingi misol" : "Следующий"}
+            <ArrowRight size={16} />
+          </button>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ============ 13. KROSSVORD (CROSSWORD) ============ */
+export function CrosswordGame({ quiz, uz, onFinish, onRestart }: IntellectualGameProps) {
+  const cw = useMemo(() => {
+    const words = extractWordPuzzles(quiz, GENERAL_INTELLECTUAL_QUIZ, 8);
+    return buildCrosswordGrid(words, 6);
+  }, [quiz]);
+
+  const [inputs, setInputs] = useState<Record<string, string>>({});
+  const [checked, setChecked] = useState(false);
+  const [done, setDone] = useState(false);
+  const reported = useRef(false);
+
+  const totalCells = useMemo(() => {
+    let count = 0;
+    for (const row of cw.solutionGrid) {
+      for (const cell of row) if (cell !== null) count++;
+    }
+    return count;
+  }, [cw]);
+
+  const correctCount = useMemo(() => {
+    let ok = 0;
+    cw.solutionGrid.forEach((row, r) =>
+      row.forEach((cell, c) => {
+        if (cell && (inputs[`${r}:${c}`] || "").toUpperCase() === cell) ok++;
+      }),
+    );
+    return ok;
+  }, [cw, inputs]);
+
+  useEffect(() => {
+    if (done && !reported.current && totalCells > 0) {
+      reported.current = true;
+      onFinish(Math.round((correctCount / totalCells) * 100));
+    }
+  }, [done, correctCount, totalCells, onFinish]);
+
+  if (cw.entries.length === 0) {
+    return <div className={cardClass}>{uz ? "Krossvord uchun so'zlar yetarli emas." : "Недостаточно слов."}</div>;
+  }
+
+  const verifyCrossword = () => {
+    setChecked(true);
+    if (correctCount === totalCells) setDone(true);
+  };
+
+  const revealSolution = () => {
+    const filled: Record<string, string> = {};
+    cw.solutionGrid.forEach((row, r) =>
+      row.forEach((cell, c) => {
+        if (cell) filled[`${r}:${c}`] = cell;
+      }),
+    );
+    setInputs(filled);
+    setChecked(true);
+  };
+
+  return (
+    <div className={cardClass}>
+      <div className="flex flex-wrap items-center justify-between gap-3 mb-5">
+        <p className="text-xs sm:text-sm font-semibold text-slate-600 dark:text-slate-300">
+          {uz
+            ? "Katakchalarga harflarni kiriting va «Tekshirish» tugmasini bosing."
+            : "Впишите буквы в клетки и нажмите «Проверить»."}
+        </p>
+        <div className="flex items-center gap-2">
+          <button
+            type="button"
+            onClick={revealSolution}
+            className="px-3 py-1.5 rounded-lg border border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-700 dark:text-slate-300"
+          >
+            {uz ? "Javoblarni ko'rsatish" : "Показать ответы"}
+          </button>
+          <button type="button" onClick={verifyCrossword} className={primaryBtn}>
+            {uz ? "Tekshirish" : "Проверить"}
+          </button>
+        </div>
+      </div>
+
+      <div className="grid lg:grid-cols-[auto_1fr] gap-6 items-start">
+        <div className="overflow-x-auto pb-2">
+          <div
+            className="inline-grid gap-1 p-2 rounded-2xl bg-slate-100 dark:bg-slate-800/80 border border-slate-200 dark:border-slate-700"
+            style={{ gridTemplateColumns: `repeat(${cw.cols}, minmax(34px, 40px))` }}
+          >
+            {cw.solutionGrid.map((row, r) =>
+              row.map((cell, c) => {
+                if (cell === null) {
+                  return <div key={`${r}:${c}`} className="w-9 h-9 sm:w-10 sm:h-10" />;
+                }
+                const key = `${r}:${c}`;
+                const num = cw.numberGrid[r][c];
+                const val = inputs[key] || "";
+                const isOk = checked && val.toUpperCase() === cell;
+                const isErr = checked && val.toUpperCase() !== cell;
+                return (
+                  <div key={key} className="relative w-9 h-9 sm:w-10 sm:h-10">
+                    {num !== null && (
+                      <span className="absolute top-0.5 left-1 text-[9px] font-black text-slate-500 dark:text-slate-400 pointer-events-none">
+                        {num}
+                      </span>
+                    )}
+                    <input
+                      maxLength={1}
+                      aria-label={`Katak ${r + 1}-${c + 1}`}
+                      value={val}
+                      onChange={(e) => {
+                        setChecked(false);
+                        setInputs((prev) => ({
+                          ...prev,
+                          [key]: e.target.value.slice(-1).toUpperCase(),
+                        }));
+                      }}
+                      className={`w-full h-full text-center font-black uppercase text-sm sm:text-base rounded-lg border focus:outline-none focus:ring-2 focus:ring-brand-primary ${
+                        isOk
+                          ? "bg-emerald-50 dark:bg-emerald-950/50 border-emerald-500 text-emerald-800 dark:text-emerald-200"
+                          : isErr
+                            ? "bg-red-50 dark:bg-red-950/50 border-red-400 text-red-800 dark:text-red-200"
+                            : "bg-white dark:bg-slate-900 border-slate-300 dark:border-slate-600 text-slate-900 dark:text-white"
+                      }`}
+                    />
+                  </div>
+                );
+              }),
+            )}
+          </div>
+        </div>
+
+        <div className="space-y-3">
+          <p className="text-xs font-bold uppercase tracking-wider text-slate-500 dark:text-slate-400">
+            {uz ? "Savollar (Ta'riflar)" : "Вопросы"}
+          </p>
+          <div className="space-y-2">
+            {cw.entries.map((e) => (
+              <div
+                key={`${e.number}-${e.direction}`}
+                className="p-3 rounded-xl bg-slate-50 dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-xs sm:text-sm"
+              >
+                <span className="font-black text-brand-primary dark:text-blue-300 mr-1.5 tabular-nums">
+                  {e.number}. ({e.direction === "across" ? (uz ? "Gorizontal" : "По гориз.") : uz ? "Vertikal" : "По верт."} · {e.word.length})
+                </span>
+                <span className="text-slate-700 dark:text-slate-200">{e.hint}</span>
+              </div>
+            ))}
+          </div>
+
+          {checked && (
+            <div className="p-3 rounded-xl bg-blue-50 dark:bg-blue-950/30 border border-blue-200 dark:border-blue-900 text-xs font-bold text-slate-800 dark:text-slate-200 flex items-center justify-between gap-2 tabular-nums">
+              <span>
+                {uz ? `To'g'ri harflar: ${correctCount}/${totalCells}` : `Верно букв: ${correctCount}/${totalCells}`}
+              </span>
+              <button type="button" onClick={onRestart} className="text-brand-primary dark:text-blue-300 underline">
+                {uz ? "Yangi krossvord" : "Новый"}
+              </button>
+            </div>
+          )}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+/* ============ 14. XOTIRA JUFTLARI (MEMORY CARDS) ============ */
+export function MemoryCardsGame({ quiz, uz, onFinish, onRestart }: IntellectualGameProps) {
+  const deck = useMemo(() => buildMemoryDeck(quiz, GENERAL_INTELLECTUAL_QUIZ, 6), [quiz]);
+  const [flippedUids, setFlippedUids] = useState<string[]>([]);
+  const [matchedPairs, setMatchedPairs] = useState<Set<number>>(() => new Set());
+  const [moves, setMoves] = useState(0);
+  const [locked, setLocked] = useState(false);
+  const reported = useRef(false);
+
+  const totalPairs = deck.length / 2;
+  const done = totalPairs > 0 && matchedPairs.size === totalPairs;
+
+  useEffect(() => {
+    if (done && !reported.current) {
+      reported.current = true;
+      const eff = Math.max(40, 120 - Math.max(0, moves - totalPairs) * 6);
+      onFinish(eff);
+    }
+  }, [done, moves, totalPairs, onFinish]);
+
+  if (deck.length === 0) {
+    return <div className={cardClass}>{uz ? "Juftliklar topilmadi." : "Пары не найдены."}</div>;
+  }
+
+  if (done) {
+    return (
+      <div className={`${cardClass} text-center`}>
+        <Trophy className="mx-auto text-amber-500 mb-3" size={40} />
+        <p className="text-sm font-bold text-slate-500">{uz ? "Xotira juftlari" : "Карточки памяти"}</p>
+        <p className="text-4xl font-black text-slate-900 dark:text-white my-3 tabular-nums">
+          {moves} {uz ? "ta urinish" : "ходов"}
+        </p>
+        <button type="button" onClick={onRestart} className={primaryBtn}>
+          <RotateCcw size={16} /> {uz ? "Qayta o'ynash" : "Играть снова"}
+        </button>
+      </div>
+    );
+  }
+
+  const pickCard = (uid: string) => {
+    if (locked || flippedUids.includes(uid)) return;
+    const target = deck.find((c) => c.uid === uid);
+    if (!target || matchedPairs.has(target.pairId)) return;
+
+    const nextFlipped = [...flippedUids, uid];
+    setFlippedUids(nextFlipped);
+
+    if (nextFlipped.length === 2) {
+      setMoves((m) => m + 1);
+      const first = deck.find((c) => c.uid === nextFlipped[0]);
+      const second = deck.find((c) => c.uid === nextFlipped[1]);
+      if (first && second && first.pairId === second.pairId) {
+        setMatchedPairs((prev) => new Set(prev).add(first.pairId));
+        setFlippedUids([]);
+      } else {
+        setLocked(true);
+        window.setTimeout(() => {
+          setFlippedUids([]);
+          setLocked(false);
+        }, 700);
+      }
+    }
+  };
+
+  return (
+    <div className={cardClass}>
+      <div className="flex items-center justify-between text-xs font-bold text-slate-500 dark:text-slate-400 mb-5 tabular-nums">
+        <span>
+          {uz ? "Topildi:" : "Найдено:"} {matchedPairs.size}/{totalPairs}
+        </span>
+        <span>
+          {uz ? "Urinish:" : "Ходов:"} {moves}
+        </span>
+      </div>
+
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-3">
+        {deck.map((card) => {
+          const isMatched = matchedPairs.has(card.pairId);
+          const isOpen = isMatched || flippedUids.includes(card.uid);
+          return (
+            <button
+              key={card.uid}
+              type="button"
+              disabled={isOpen || locked}
+              onClick={() => pickCard(card.uid)}
+              className={`min-h-[108px] p-3 rounded-2xl border-2 text-xs sm:text-sm font-bold flex items-center justify-center text-center transition-all ${
+                isMatched
+                  ? "bg-emerald-50 dark:bg-emerald-950/40 border-emerald-500 text-emerald-800 dark:text-emerald-200"
+                  : isOpen
+                    ? "bg-blue-50 dark:bg-slate-800 border-brand-primary text-slate-900 dark:text-white"
+                    : "bg-slate-100 dark:bg-slate-800/80 border-slate-200 dark:border-slate-700 text-slate-400 hover:border-brand-primary"
+              }`}
+            >
+              {isOpen ? (
+                <span className="line-clamp-4">{card.text}</span>
+              ) : (
+                <span className="text-xl font-black text-brand-primary dark:text-blue-400">?</span>
+              )}
+            </button>
+          );
+        })}
+      </div>
+    </div>
+  );
+}
+
+/* ============ 15. SO'Z ZANJIRI (WORD CHAIN) ============ */
+export function WordChainGame({ quiz, uz, onFinish, onRestart }: IntellectualGameProps) {
+  const links = useMemo(() => {
+    const words = extractWordPuzzles(quiz, GENERAL_INTELLECTUAL_QUIZ, 8);
+    return buildWordChain(words, 8);
+  }, [quiz]);
+
+  const [idx, setIdx] = useState(0);
+  const [pickedOpt, setPickedOpt] = useState<string | null>(null);
+  const [score, setScore] = useState(0);
+  const [done, setDone] = useState(false);
+  const reported = useRef(false);
+
+  useEffect(() => {
+    if (done && !reported.current && links.length > 0) {
+      reported.current = true;
+      onFinish(Math.round((score / links.length) * 100));
+    }
+  }, [done, score, links.length, onFinish]);
+
+  if (links.length === 0) {
+    return <div className={cardClass}>{uz ? "Zanjir uchun atamalar topilmadi." : "Термины не найдены."}</div>;
+  }
+
+  if (done) {
+    return (
+      <div className={`${cardClass} text-center`}>
+        <Trophy className="mx-auto text-amber-500 mb-3" size={40} />
+        <p className="text-sm font-bold text-slate-500">{uz ? "So'z zanjiri" : "Цепочка слов"}</p>
+        <p className="text-5xl font-black text-slate-900 dark:text-white my-3 tabular-nums">
+          {score}/{links.length}
+        </p>
+        <button type="button" onClick={onRestart} className={primaryBtn}>
+          <RotateCcw size={16} /> {uz ? "Qayta o'ynash" : "Играть снова"}
+        </button>
+      </div>
+    );
+  }
+
+  const current = links[idx];
+
+  const pickOption = (opt: string) => {
+    if (pickedOpt !== null) return;
+    setPickedOpt(opt);
+    if (normalize(opt) === normalize(current.displayWord)) {
+      setScore((s) => s + 1);
+    }
+  };
+
+  const next = () => {
+    if (idx + 1 >= links.length) {
+      setDone(true);
+      return;
+    }
+    setIdx((i) => i + 1);
+    setPickedOpt(null);
+  };
+
+  return (
+    <div className={cardClass}>
+      <div className="flex items-center justify-between text-xs font-bold text-slate-500 dark:text-slate-400 mb-4 tabular-nums">
+        <span>
+          {uz ? "Halqa" : "Звено"} {idx + 1}/{links.length}
+        </span>
+        <span>
+          {uz ? "To'g'ri:" : "Верно:"} {score}
+        </span>
+      </div>
+
+      {/* Zanjir vizualizatsiyasi */}
+      <div className="flex flex-wrap items-center gap-2 mb-5">
+        {links.map((l, i) => (
+          <div key={l.step} className="flex items-center gap-2">
+            <span
+              className={`px-3 py-1 rounded-lg text-xs font-bold border ${
+                i < idx
+                  ? "bg-emerald-50 dark:bg-emerald-950/40 border-emerald-400 text-emerald-700 dark:text-emerald-300"
+                  : i === idx
+                    ? "bg-brand-primary border-brand-primary text-white"
+                    : "bg-slate-100 dark:bg-slate-800 border-slate-200 dark:border-slate-700 text-slate-400"
+              }`}
+            >
+              {i < idx ? l.displayWord : `${l.firstLetter}···`}
+            </span>
+            {i < links.length - 1 && <ArrowRight size={13} className="text-slate-400" />}
+          </div>
+        ))}
+      </div>
+
+      <p className="text-xs font-bold text-brand-primary dark:text-blue-300 mb-1">
+        {uz ? `Bosh harfi «${current.firstLetter}», ${current.word.length} harf` : `Первая буква «${current.firstLetter}»`}
+      </p>
+      <h3 className="text-lg font-bold text-slate-900 dark:text-white mb-5">{current.hint}</h3>
+
+      <div className="grid sm:grid-cols-2 gap-3">
+        {current.options.map((opt) => {
+          const isOk = normalize(opt) === normalize(current.displayWord);
+          const isPicked = pickedOpt === opt;
+          let cls =
+            "border-slate-200 dark:border-slate-700 bg-white dark:bg-slate-900 text-slate-900 dark:text-white hover:border-brand-primary";
+          if (pickedOpt !== null) {
+            if (isOk) cls = "border-emerald-500 bg-emerald-50 dark:bg-emerald-950/40 text-emerald-800 dark:text-emerald-200";
+            else if (isPicked) cls = "border-red-500 bg-red-50 dark:bg-red-950/40 text-red-800 dark:text-red-200";
+          }
+          return (
+            <button
+              key={opt}
+              type="button"
+              disabled={pickedOpt !== null}
+              onClick={() => pickOption(opt)}
+              className={`p-3.5 rounded-xl border-2 text-left text-sm font-bold transition-colors ${cls}`}
+            >
+              {opt}
+            </button>
+          );
+        })}
+      </div>
+
+      {pickedOpt !== null && (
+        <div className="mt-4 flex justify-end">
+          <button type="button" onClick={next} className={primaryBtn}>
+            {idx + 1 >= links.length ? (uz ? "Natija" : "Итог") : uz ? "Keyingi halqa" : "Далее"}
+            <ArrowRight size={16} />
+          </button>
+        </div>
+      )}
+    </div>
+  );
+}
+
+/* ============ GAME REGISTRY METADATA (15 O'YIN) ============ */
 export const INTELLECTUAL_GAMES_META: {
-  id:
-    | "mystery-box"
-    | "wheel"
-    | "tug-of-war"
-    | "jeopardy"
-    | "anagram"
-    | "word-search"
-    | "sentence-builder"
-    | "fill-blank"
-    | "cards-match";
+  id: IntellectualGameId;
   titleUz: string;
   titleRu: string;
   descUz: string;
@@ -1437,6 +2212,54 @@ export const INTELLECTUAL_GAMES_META: {
     descUz: "Mavzular va qiyinlik ballari (100–400) bo'yicha savollarni tanlang.",
     descRu: "Выбирайте вопросы по темам и уровню баллов от 100 до 400.",
     teamCapable: true,
+  },
+  {
+    id: "quiz-race",
+    titleUz: "Bilim poygasi",
+    titleRu: "Гонка знаний",
+    descUz: "To'g'ri javoblar bilan 8 qadamlik marraga birinchi bo'lib yetib boring.",
+    descRu: "Отвечайте быстрее соперника и первым дойдите до финиша за 8 шагов.",
+    teamCapable: true,
+  },
+  {
+    id: "truefalse-blitz",
+    titleUz: "Ha / Yo'q Blits",
+    titleRu: "Блиц Правда/Ложь",
+    descUz: "45 soniya ichida ketma-ket to'g'ri javob berib 3x seriya to'plang.",
+    descRu: "Ответьте на максимум утверждений за 45 секунд и соберите серию x3.",
+    teamCapable: false,
+  },
+  {
+    id: "math-duel",
+    titleUz: "Matematik duel",
+    titleRu: "Математическая дуэль",
+    descUz: "Sinf darajasiga mos tezkor hisoblash, tenglama va mantiqiy duellar.",
+    descRu: "Быстрый счет, уравнения и задачи по уровню вашего класса.",
+    teamCapable: true,
+  },
+  {
+    id: "crossword",
+    titleUz: "Krossvord",
+    titleRu: "Кроссворд",
+    descUz: "Darslik atamalari asosida avtomatik qurilgan kesishuvchi krossvord.",
+    descRu: "Интерактивный кроссворд по ключевым терминам учебника.",
+    teamCapable: false,
+  },
+  {
+    id: "memory-cards",
+    titleUz: "Xotira juftlari",
+    titleRu: "Карточки памяти",
+    descUz: "Yopiq kartochkalarni ochib atama va uning ma'nosini juftlang.",
+    descRu: "Открывайте карточки по две и находите совпадающие пары.",
+    teamCapable: false,
+  },
+  {
+    id: "word-chain",
+    titleUz: "So'z zanjiri",
+    titleRu: "Цепочка слов",
+    descUz: "Ta'rif va bosh harf bo'yicha bilim zanjirining barcha halqalarini ulang.",
+    descRu: "Соберите всю цепочку терминов по определениям и подсказкам.",
+    teamCapable: false,
   },
   {
     id: "anagram",
