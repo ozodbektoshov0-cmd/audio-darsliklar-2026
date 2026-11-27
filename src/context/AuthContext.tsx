@@ -9,6 +9,7 @@ import {
   signInWithGoogle,
   signOutGoogle,
 } from "../lib/firebase";
+import type { GradeNumber, ProfileUserType } from "./StudentContext";
 
 interface AuthContextValue {
   user: User | null;
@@ -18,6 +19,11 @@ interface AuthContextValue {
   clearAuthError: () => void;
   loginWithGoogle: () => Promise<User | null>;
   logout: () => Promise<void>;
+  saveOnboardingPreferences: (prefs: {
+    profileType?: ProfileUserType | null;
+    grade?: GradeNumber | null;
+    onboardingDone?: boolean;
+  }) => Promise<void>;
 }
 
 const AuthContext = createContext<AuthContextValue | undefined>(undefined);
@@ -50,7 +56,6 @@ async function syncUserProfileDoc(u: User) {
       await setDoc(ref, payload, { merge: true });
     }
   } catch (err) {
-    // Non-fatal if rule/offline, log structured Firestore error for diagnosis
     try {
       handleFirestoreError(err, OperationType.WRITE, path);
     } catch (wrapped) {
@@ -109,11 +114,65 @@ export function AuthProvider({ children }: { children: React.ReactNode }) {
     }
   }, []);
 
+  const saveOnboardingPreferences = useCallback(
+    async (prefs: {
+      profileType?: ProfileUserType | null;
+      grade?: GradeNumber | null;
+      onboardingDone?: boolean;
+    }) => {
+      const u = auth.currentUser;
+      if (!u || !u.emailVerified) return;
+      const path = `users/${u.uid}`;
+      const ref = doc(db, "users", u.uid);
+      try {
+        const snap = await getDoc(ref);
+        const safeName = (u.displayName || "Foydalanuvchi").trim().slice(0, 100) || "Foydalanuvchi";
+        const safePhoto = (u.photoURL || "").slice(0, 500);
+        const payload: Record<string, unknown> = {
+          updatedAt: serverTimestamp(),
+        };
+        if (!snap.exists()) {
+          payload.uid = u.uid;
+          payload.displayName = safeName;
+          payload.role = "student";
+          payload.createdAt = serverTimestamp();
+          if (safePhoto) payload.photoURL = safePhoto;
+        }
+        if (prefs.profileType === "student" || prefs.profileType === "teacher") {
+          payload.profileType = prefs.profileType;
+        }
+        if (prefs.grade) {
+          payload.grade = prefs.grade;
+        }
+        if (typeof prefs.onboardingDone === "boolean") {
+          payload.onboardingDone = prefs.onboardingDone;
+        }
+        await setDoc(ref, payload, { merge: true });
+      } catch (err) {
+        try {
+          handleFirestoreError(err, OperationType.WRITE, path);
+        } catch (wrapped) {
+          console.warn(wrapped);
+        }
+      }
+    },
+    [],
+  );
+
   const clearAuthError = useCallback(() => setAuthError(null), []);
 
   return (
     <AuthContext.Provider
-      value={{ user, authReady, authBusy, authError, clearAuthError, loginWithGoogle, logout }}
+      value={{
+        user,
+        authReady,
+        authBusy,
+        authError,
+        clearAuthError,
+        loginWithGoogle,
+        logout,
+        saveOnboardingPreferences,
+      }}
     >
       {children}
     </AuthContext.Provider>

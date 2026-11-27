@@ -34,6 +34,7 @@ export default function StudentProfile() {
   const { 
     profile, 
     setGrade, 
+    setUserType,
     setStudentName, 
     toggleBookmark, 
     isBookmarked,
@@ -165,36 +166,68 @@ export default function StudentProfile() {
             </div>
           </div>
 
-          {/* Grade Selector Strip */}
-          <div className="mt-10 pt-8 border-t border-slate-100 dark:border-slate-800">
-            <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-4">
+          {/* Profile Type & Grade Selector Strip */}
+          <div className="mt-10 pt-8 border-t border-slate-100 dark:border-slate-800 space-y-6">
+            <div className="flex flex-wrap items-center justify-between gap-3">
               <span className="text-xs font-black uppercase tracking-widest text-slate-400 dark:text-slate-400">
-                {language === "uz" ? "Sinfingizni tanlang (1-11):" : "Выберите класс (1-11):"}
+                {language === "uz" ? "Foydalanuvchi turi:" : "Тип профиля:"}
               </span>
-              {profile.grade && (
-                <span className="text-xs font-bold text-brand-primary dark:text-blue-400 flex items-center gap-1">
-                  <CheckCircle2 size={14} /> {language === "uz" ? `Tanlangan sinf: ${profile.grade}-sinf` : `Выбранный класс: ${profile.grade} класс`}
-                </span>
-              )}
+              <div className="inline-flex gap-2">
+                <button
+                  type="button"
+                  onClick={() => setUserType("student")}
+                  className={`px-4 py-2 rounded-xl text-xs font-bold transition-all ${
+                    profile.userType !== "teacher"
+                      ? "bg-brand-primary text-white shadow-sm"
+                      : "bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300"
+                  }`}
+                >
+                  {language === "uz" ? "O'quvchiman" : "Ученик"}
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setUserType("teacher")}
+                  className={`px-4 py-2 rounded-xl text-xs font-bold transition-all ${
+                    profile.userType === "teacher"
+                      ? "bg-brand-primary text-white shadow-sm"
+                      : "bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300"
+                  }`}
+                >
+                  {language === "uz" ? "O'qituvchiman" : "Учитель"}
+                </button>
+              </div>
             </div>
 
-            <div className="grid grid-cols-6 sm:grid-cols-11 gap-2">
-              {ALL_GRADES.map((g) => {
-                const isCurrent = profile.grade === g;
-                return (
-                  <button
-                    key={g}
-                    onClick={() => setGrade(g)}
-                    className={`h-12 rounded-2xl font-black text-sm flex items-center justify-center transition-all ${
-                      isCurrent
-                        ? "bg-brand-primary text-white shadow-lg shadow-brand-primary/30 scale-105 ring-2 ring-brand-primary/20"
-                        : "bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700"
-                    }`}
-                  >
-                    {g}
-                  </button>
-                );
-              })}
+            <div>
+              <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-4 mb-4">
+                <span className="text-xs font-black uppercase tracking-widest text-slate-400 dark:text-slate-400">
+                  {language === "uz" ? "Sinfingizni tanlang (1-11):" : "Выберите класс (1-11):"}
+                </span>
+                {profile.grade && (
+                  <span className="text-xs font-bold text-brand-primary dark:text-blue-400 flex items-center gap-1">
+                    <CheckCircle2 size={14} /> {language === "uz" ? `Tanlangan sinf: ${profile.grade}-sinf` : `Выбранный класс: ${profile.grade} класс`}
+                  </span>
+                )}
+              </div>
+
+              <div className="grid grid-cols-6 sm:grid-cols-11 gap-2">
+                {ALL_GRADES.map((g) => {
+                  const isCurrent = profile.grade === g;
+                  return (
+                    <button
+                      key={g}
+                      onClick={() => setGrade(g)}
+                      className={`h-12 rounded-2xl font-black text-sm flex items-center justify-center transition-all ${
+                        isCurrent
+                          ? "bg-brand-primary text-white shadow-lg shadow-brand-primary/30 scale-105 ring-2 ring-brand-primary/20"
+                          : "bg-slate-50 dark:bg-slate-800 text-slate-600 dark:text-slate-300 hover:bg-slate-100 dark:hover:bg-slate-700"
+                      }`}
+                    >
+                      {g}
+                    </button>
+                  );
+                })}
+              </div>
             </div>
           </div>
         </div>

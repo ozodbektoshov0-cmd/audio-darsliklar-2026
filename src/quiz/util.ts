@@ -1,5 +1,14 @@
 import { useCallback, useEffect, useState } from "react";
-import type { ChoiceQuestion, FillQuestion, GameId, Question, Quiz, TrueFalseQuestion } from "./types";
+import type {
+  ChoiceQuestion,
+  DifficultyLevel,
+  FillQuestion,
+  GameId,
+  Question,
+  Quiz,
+  TestDifficulty,
+  TrueFalseQuestion,
+} from "./types";
 
 export function shuffle<T>(arr: readonly T[]): T[] {
   const a = arr.slice();
@@ -70,6 +79,146 @@ export function getCards(quiz: Quiz): [string, string][] {
 export function shuffleOptions(q: ChoiceQuestion): ChoiceQuestion {
   const idx = shuffle(q.options.map((_, i) => i));
   return { ...q, options: idx.map((i) => q.options[i]), answer: idx.indexOf(q.answer) };
+}
+
+/** Savolning murakkablik darajasini (0..100) baholaydi */
+export function scoreQuestionDifficulty(q: Question, index = 0, total = 1): number {
+  if (q.difficulty === "easy") return 20;
+  if (q.difficulty === "medium") return 55;
+  if (q.difficulty === "hard") return 85;
+
+  let score = q.type === "truefalse" ? 20 : q.type === "choice" ? 44 : 72;
+  const text = q.q.toLowerCase();
+
+  // Oddiy ta'rif yoki to'g'ridan-to'g'ri fakt savollari
+  if (/(ta'rif|koeffitsiyent|ozod had|muallifi kim|qaysi gazetada|nechta|qaysi formula|nima deb|какая формула|кто автор)/i.test(text)) {
+    score -= 10;
+  }
+
+  // Murakkab ko'p bosqichli, tengsizlik, sistema yoki tahliliy savollar
+  const complexMatches =
+    text.match(/(\{|√|sin|cos|tg|ctg|≤|≥|sistema|isbot|eng katta|eng kichik|cheksiz|dispersiya|ehtimollik|koshi|butun yechim|асимптота|система|вероятность)/gi)?.length ?? 0;
+  score += Math.min(24, complexMatches * 7);
+
+  if (text.length > 95) score += 8;
+  else if (text.length < 52) score -= 5;
+
+  if (q.type === "choice") {
+    const avgOptLen = q.options.reduce((acc, o) => acc + o.length, 0) / Math.max(1, q.options.length);
+    if (avgOptLen > 24) score += 8;
+    else if (avgOptLen <= 8) score -= 4;
+  }
+
+  if (total > 1) {
+    const relPos = Math.max(0, Math.min(1, index / (total - 1)));
+    score += Math.round(relPos * 14);
+  }
+
+  return Math.max(0, Math.min(100, score));
+}
+
+export function classifyQuestionDifficulty(q: Question, index = 0, total = 1): DifficultyLevel {
+  if (q.difficulty) return q.difficulty;
+  const s = scoreQuestionDifficulty(q, index, total);
+  if (s <= 42) return "easy";
+  if (s <= 67) return "medium";
+  return "hard";
+}
+
+export function summarizeQuizDifficulties(questions: readonly Question[]): {
+  easy: number;
+  medium: number;
+  hard: number;
+} {
+  let easy = 0;
+  let medium = 0;
+  let hard = 0;
+  const total = questions.length;
+  for (let i = 0; i < total; i++) {
+    const lvl = classifyQuestionDifficulty(questions[i], i, total);
+    if (lvl === "easy") easy++;
+    else if (lvl === "medium") medium++;
+    else hard++;
+  }
+  return { easy, medium, hard };
+}
+
+/** Tanlangan son va daraja asosida test savollarini saralab tayyorlaydi */
+export function prepareQuizQuestions(
+  questions: readonly Question[],
+  limit: number | "all",
+  difficulty?: TestDifficulty,
+): Question[] {
+  const total = questions.length;
+  if (total === 0) return [];
+  const targetCount = limit === "all" ? total : Math.max(1, Math.min(limit, total));
+
+  const tagged = questions.map((raw, idx) => {
+    const score = scoreQuestionDifficulty(raw, idx, total);
+    const level = classifyQuestionDifficulty(raw, idx, total);
+    const prepared: Question = raw.type === "choice" ? { ...shuffleOptions(raw), difficulty: level } : { ...raw, difficulty: level };
+    return { q: prepared, score, level };
+  });
+
+  if (!difficulty) {
+    return shuffle(tagged)
+      .slice(0, targetCount)
+      .map((item) => item.q);
+  }
+
+  const easy = shuffle(tagged.filter((t) => t.level === "easy"));
+  const medium = shuffle(tagged.filter((t) => t.level === "medium"));
+  const hard = shuffle(tagged.filter((t) => t.level === "hard"));
+
+  if (difficulty === "easy") {
+    const restMedium = medium.slice().sort((a, b) => a.score - b.score);
+    const restHard = hard.slice().sort((a, b) => a.score - b.score);
+    return [...easy, ...restMedium, ...restHard].slice(0, targetCount).map((t) => t.q);
+  }
+
+  if (difficulty === "medium") {
+    const restByCenter = [...easy, ...hard].sort((a, b) => Math.abs(a.score - 55) - Math.abs(b.score - 55));
+    return [...medium, ...restByCenter].slice(0, targetCount).map((t) => t.q);
+  }
+
+  if (difficulty === "hard") {
+    const restMedium = medium.slice().sort((a, b) => b.score - a.score);
+    const restEasy = easy.slice().sort((a, b) => b.score - a.score);
+    return [...hard, ...restMedium, ...restEasy].slice(0, targetCount).map((t) => t.q);
+  }
+
+  // "progressive" — osondan qiyingacha
+  if (targetCount >= total) {
+    return [
+      ...easy.sort((a, b) => a.score - b.score),
+      ...medium.sort((a, b) => a.score - b.score),
+      ...hard.sort((a, b) => a.score - b.score),
+    ].map((t) => t.q);
+  }
+
+  const wantEasy = Math.ceil(targetCount / 3);
+  const wantMed = Math.ceil((targetCount - wantEasy) / 2);
+  const wantHard = targetCount - wantEasy - wantMed;
+
+  const pickedEasy = easy.slice(0, wantEasy);
+  const pickedMed = medium.slice(0, wantMed);
+  const pickedHard = hard.slice(0, wantHard);
+
+  const selectedSet = new Set([...pickedEasy, ...pickedMed, ...pickedHard]);
+  const missing = targetCount - selectedSet.size;
+  if (missing > 0) {
+    const leftovers = tagged
+      .filter((t) => !selectedSet.has(t))
+      .sort((a, b) => a.score - b.score);
+    const extra = leftovers.slice(0, missing);
+    for (const item of extra) {
+      if (item.level === "easy") pickedEasy.push(item);
+      else if (item.level === "medium") pickedMed.push(item);
+      else pickedHard.push(item);
+    }
+  }
+
+  return [...pickedEasy, ...pickedMed, ...pickedHard].slice(0, targetCount).map((t) => t.q);
 }
 
 /** Darslikning barcha mavzulari savollarini bitta butun kitob testiga birlashtiradi */

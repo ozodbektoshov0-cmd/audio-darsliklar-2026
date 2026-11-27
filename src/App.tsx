@@ -8,6 +8,8 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import AiChatWidget from "./components/AiChatWidget";
+import SideTtsReader from "./components/SideTtsReader";
+import OnboardingModal from "./components/OnboardingModal";
 import PageLoader from "./components/PageLoader";
 import RouteSeo from "./components/RouteSeo";
 import Home from "./pages/Home";
@@ -97,7 +99,9 @@ export default function App() {
                         </Routes>
                       </Suspense>
                     </main>
+                    <SideTtsReader />
                     <AiChatWidget />
+                    <OnboardingModal />
                     <Footer />
                   </div>
                 </ReaderProvider>

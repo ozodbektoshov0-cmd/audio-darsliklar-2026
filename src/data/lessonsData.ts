@@ -1,4 +1,6 @@
 import type { GradeNumber, Language } from "../data/types";
+import type { SlideDiagramData } from "../components/SlideDiagramRenderer";
+import type { SlideVisualTheme } from "../utils/slideHelper";
 
 export interface LessonSlide {
   title: string;
@@ -7,6 +9,9 @@ export interface LessonSlide {
   bullets: string[];
   highlight?: string;
   teacherNote: string;
+  visualTheme?: SlideVisualTheme;
+  imageUrl?: string;
+  diagram?: SlideDiagramData;
   checkQuestion?: {
     q: string;
     options: string[];

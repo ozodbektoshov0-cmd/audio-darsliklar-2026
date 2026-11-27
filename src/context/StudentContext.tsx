@@ -6,9 +6,10 @@
 import React, { createContext, useContext, useState, useEffect } from "react";
 
 export type GradeNumber = "1" | "2" | "3" | "4" | "5" | "6" | "7" | "8" | "9" | "10" | "11";
+export type ProfileUserType = "student" | "teacher";
 
 export interface SavedBookmarkItem {
-  id: string; // unique ID e.g. `pdf-${url}` or `audio-${url}`
+  id: string;
   type: "pdf" | "audio";
   title: string;
   url: string;
@@ -20,6 +21,8 @@ export interface SavedBookmarkItem {
 
 export interface StudentProfileState {
   grade: GradeNumber | null;
+  userType: ProfileUserType | null;
+  onboardingDone: boolean;
   studentName: string;
   bookmarks: string[];
   savedItems: SavedBookmarkItem[];
@@ -28,6 +31,8 @@ export interface StudentProfileState {
 interface StudentContextType {
   profile: StudentProfileState;
   setGrade: (grade: GradeNumber | null) => void;
+  setUserType: (userType: ProfileUserType | null) => void;
+  setOnboardingDone: (done: boolean) => void;
   setStudentName: (name: string) => void;
   toggleBookmark: (bookId: string) => void;
   isBookmarked: (bookId: string) => boolean;
@@ -43,6 +48,8 @@ const LEGACY_STORAGE_KEY = "audio_darsliklar_student_profile_v1";
 
 const defaultState: StudentProfileState = {
   grade: null,
+  userType: null,
+  onboardingDone: false,
   studentName: "",
   bookmarks: [],
   savedItems: [],
@@ -59,12 +66,13 @@ export function StudentProvider({ children }: { children: React.ReactNode }) {
         return {
           ...defaultState,
           ...parsed,
+          userType: parsed.userType === "student" || parsed.userType === "teacher" ? parsed.userType : null,
+          onboardingDone: Boolean(parsed.onboardingDone),
           savedItems: Array.isArray(parsed.savedItems) ? parsed.savedItems : [],
           bookmarks: Array.isArray(parsed.bookmarks) ? parsed.bookmarks : [],
         };
       }
-      
-      // Check legacy key
+
       const legacy = localStorage.getItem(LEGACY_STORAGE_KEY);
       if (legacy) {
         const parsedLegacy = JSON.parse(legacy);
@@ -90,20 +98,25 @@ export function StudentProvider({ children }: { children: React.ReactNode }) {
   }, [profile]);
 
   const setGrade = (grade: GradeNumber | null) => {
-    setProfile(prev => ({ ...prev, grade }));
+    setProfile((prev) => ({ ...prev, grade }));
+  };
+
+  const setUserType = (userType: ProfileUserType | null) => {
+    setProfile((prev) => ({ ...prev, userType }));
+  };
+
+  const setOnboardingDone = (onboardingDone: boolean) => {
+    setProfile((prev) => ({ ...prev, onboardingDone }));
   };
 
   const setStudentName = (studentName: string) => {
-    setProfile(prev => ({ ...prev, studentName }));
+    setProfile((prev) => ({ ...prev, studentName }));
   };
 
-  // Legacy ID toggler
   const toggleBookmark = (bookId: string) => {
-    setProfile(prev => {
+    setProfile((prev) => {
       const exists = prev.bookmarks.includes(bookId);
-      const bookmarks = exists 
-        ? prev.bookmarks.filter(id => id !== bookId)
-        : [...prev.bookmarks, bookId];
+      const bookmarks = exists ? prev.bookmarks.filter((id) => id !== bookId) : [...prev.bookmarks, bookId];
       return { ...prev, bookmarks };
     });
   };
@@ -112,21 +125,16 @@ export function StudentProvider({ children }: { children: React.ReactNode }) {
     return profile.bookmarks.includes(bookId);
   };
 
-  // Specific PDF or Audio Link Toggler
   const toggleBookmarkItem = (item: Omit<SavedBookmarkItem, "timestamp">): boolean => {
     let nowAdded = false;
-    setProfile(prev => {
-      const existingIdx = prev.savedItems.findIndex(
-        b => b.id === item.id || b.url === item.url
-      );
+    setProfile((prev) => {
+      const existingIdx = prev.savedItems.findIndex((b) => b.id === item.id || b.url === item.url);
 
       let nextItems: SavedBookmarkItem[];
       if (existingIdx >= 0) {
-        // Remove
         nextItems = prev.savedItems.filter((_, idx) => idx !== existingIdx);
         nowAdded = false;
       } else {
-        // Add
         const newItem: SavedBookmarkItem = {
           ...item,
           timestamp: Date.now(),
@@ -135,11 +143,12 @@ export function StudentProvider({ children }: { children: React.ReactNode }) {
         nowAdded = true;
       }
 
-      // Also ensure item.id or legacy identifier stays synced in bookmarks list
       const bookmarkId = item.id;
-      const bookmarks = nowAdded 
-        ? (prev.bookmarks.includes(bookmarkId) ? prev.bookmarks : [...prev.bookmarks, bookmarkId])
-        : prev.bookmarks.filter(b => b !== bookmarkId && b !== item.url);
+      const bookmarks = nowAdded
+        ? prev.bookmarks.includes(bookmarkId)
+          ? prev.bookmarks
+          : [...prev.bookmarks, bookmarkId]
+        : prev.bookmarks.filter((b) => b !== bookmarkId && b !== item.url);
 
       return {
         ...prev,
@@ -151,19 +160,19 @@ export function StudentProvider({ children }: { children: React.ReactNode }) {
   };
 
   const isItemBookmarked = (urlOrId: string): boolean => {
-    return profile.savedItems.some(item => item.id === urlOrId || item.url === urlOrId);
+    return profile.savedItems.some((item) => item.id === urlOrId || item.url === urlOrId);
   };
 
   const removeBookmarkItem = (idOrUrl: string) => {
-    setProfile(prev => ({
+    setProfile((prev) => ({
       ...prev,
-      savedItems: prev.savedItems.filter(item => item.id !== idOrUrl && item.url !== idOrUrl),
-      bookmarks: prev.bookmarks.filter(b => b !== idOrUrl),
+      savedItems: prev.savedItems.filter((item) => item.id !== idOrUrl && item.url !== idOrUrl),
+      bookmarks: prev.bookmarks.filter((b) => b !== idOrUrl),
     }));
   };
 
   const clearAllBookmarks = () => {
-    setProfile(prev => ({
+    setProfile((prev) => ({
       ...prev,
       savedItems: [],
       bookmarks: [],
@@ -179,6 +188,8 @@ export function StudentProvider({ children }: { children: React.ReactNode }) {
       value={{
         profile,
         setGrade,
+        setUserType,
+        setOnboardingDone,
         setStudentName,
         toggleBookmark,
         isBookmarked,

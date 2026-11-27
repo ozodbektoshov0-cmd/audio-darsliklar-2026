@@ -11,7 +11,7 @@ export async function POST(request: Request) {
   try {
     body = await request.json();
   } catch {
-    return Response.json({ error: "Noto'g'ri JSON formati yoki fayl juda katta (4 MB max)", code: "INVALID_JSON" }, { status: 400 });
+    return Response.json({ error: "Noto'g'ri JSON formati", code: "INVALID_JSON" }, { status: 400 });
   }
   const r = await handleParseTestFile(body);
   return Response.json(r.body, { status: r.status });

@@ -1,5 +1,8 @@
 import type { GradeNumber, Language } from "../data/types";
 
+export type DifficultyLevel = "easy" | "medium" | "hard";
+export type TestDifficulty = DifficultyLevel | "progressive";
+
 export interface ChoiceQuestion {
   type: "choice";
   q: string;
@@ -7,6 +10,7 @@ export interface ChoiceQuestion {
   /** To'g'ri variant indeksi (0 dan boshlanadi) */
   answer: number;
   explain?: string;
+  difficulty?: DifficultyLevel;
 }
 
 export interface TrueFalseQuestion {
@@ -14,6 +18,7 @@ export interface TrueFalseQuestion {
   q: string;
   answer: boolean;
   explain?: string;
+  difficulty?: DifficultyLevel;
 }
 
 export interface FillQuestion {
@@ -23,6 +28,7 @@ export interface FillQuestion {
   /** Qabul qilinadigan javob(lar) */
   answer: string | string[];
   explain?: string;
+  difficulty?: DifficultyLevel;
 }
 
 export type Question = ChoiceQuestion | TrueFalseQuestion | FillQuestion;

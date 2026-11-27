@@ -1,6 +1,15 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import { Check, X, RotateCcw, Timer, Trophy, ArrowRight, Repeat, Clock } from "lucide-react";
-import type { ChoiceQuestion, FillQuestion, Question, Quiz, QuizAnswerReview, TrueFalseQuestion } from "./types";
+import type {
+  ChoiceQuestion,
+  DifficultyLevel,
+  FillQuestion,
+  Question,
+  Quiz,
+  QuizAnswerReview,
+  TestDifficulty,
+  TrueFalseQuestion,
+} from "./types";
 import {
   buildExplanation,
   correctAnswerText,
@@ -8,6 +17,7 @@ import {
   getCards,
   isChoiceLike,
   isFillCorrect,
+  prepareQuizQuestions,
   shuffle,
   shuffleOptions,
 } from "./util";
@@ -17,6 +27,8 @@ export interface GameProps {
   uz: boolean;
   /** Boshlang'ich savollar soni (masalan, bosqichma-bosqich tanlanganda) */
   initialLimit?: number | "all";
+  /** Tanlangan qiyinlik darajasi */
+  initialDifficulty?: TestDifficulty;
   /** O'yin tugaganda natija va sarflangan vaqt (soniyada) bilan chaqiriladi */
   onFinish: (score: number, elapsedSeconds?: number) => void;
   onRestart: () => void;
@@ -99,7 +111,7 @@ export function ChoiceBlock({
               <span className="w-6 h-6 shrink-0 rounded-lg bg-slate-100 dark:bg-slate-800 text-[11px] font-black flex items-center justify-center text-slate-500">
                 {q.type === "choice" ? String.fromCharCode(65 + i) : i === 0 ? "✓" : "✗"}
               </span>
-              <span>{opt}</span>
+              <span data-tts-option="true">{opt}</span>
             </span>
           </button>
         );
@@ -108,13 +120,18 @@ export function ChoiceBlock({
   );
 }
 
+function difficultyLabelUzRu(level: DifficultyLevel, uz: boolean): string {
+  if (level === "easy") return uz ? "Oson" : "Лёгкий";
+  if (level === "medium") return uz ? "O'rtacha" : "Средний";
+  return uz ? "Qiyin" : "Сложный";
+}
+
 /* ============ 1) VIKTORINA (TO'LIQ TEST REJIMI: VAQT + IZOH + TAHLIL) ============ */
-export function QuizGame({ quiz, uz, initialLimit = "all", onFinish, onRestart }: GameProps) {
+export function QuizGame({ quiz, uz, initialLimit = "all", initialDifficulty, onFinish, onRestart }: GameProps) {
   const [limit, setLimit] = useState<number | "all">(initialLimit);
   const questions = useMemo<Question[]>(() => {
-    const shuffled = shuffle(quiz.questions).map((q) => (q.type === "choice" ? shuffleOptions(q) : q));
-    return limit === "all" ? shuffled : shuffled.slice(0, Math.min(limit, shuffled.length));
-  }, [quiz, limit]);
+    return prepareQuizQuestions(quiz.questions, limit, initialDifficulty);
+  }, [quiz, limit, initialDifficulty]);
 
   const [i, setI] = useState(0);
   const [picked, setPicked] = useState<number | null>(null);
@@ -392,9 +409,9 @@ export function QuizGame({ quiz, uz, initialLimit = "all", onFinish, onRestart }
         </div>
       )}
 
-      {/* Yuqori panel: Savol raqami, to'g'ri javoblar va tepada chetda xx.xx.xx taymer */}
+      {/* Yuqori panel: Savol raqami, to'g'ri javoblar, daraja va tepada chetda xx.xx.xx taymer */}
       <div className="flex flex-wrap items-center justify-between gap-3 mb-3">
-        <div className="flex items-center gap-3 text-xs font-bold text-slate-500 dark:text-slate-400">
+        <div className="flex flex-wrap items-center gap-3 text-xs font-bold text-slate-500 dark:text-slate-400">
           <span className="tabular-nums">
             {uz ? "Savol" : "Вопрос"} {i + 1}/{total}
           </span>
@@ -402,6 +419,23 @@ export function QuizGame({ quiz, uz, initialLimit = "all", onFinish, onRestart }
           <span className="tabular-nums text-emerald-700 dark:text-emerald-400">
             {uz ? "To'g'ri" : "Верно"}: {correct}
           </span>
+          {q.difficulty && (
+            <>
+              <span aria-hidden="true">·</span>
+              <span
+                data-testid="active-question-difficulty"
+                className={
+                  q.difficulty === "easy"
+                    ? "text-emerald-600 dark:text-emerald-400"
+                    : q.difficulty === "medium"
+                      ? "text-amber-600 dark:text-amber-400"
+                      : "text-rose-600 dark:text-rose-400"
+                }
+              >
+                {difficultyLabelUzRu(q.difficulty, uz)}
+              </span>
+            </>
+          )}
         </div>
 
         <div
@@ -421,11 +455,14 @@ export function QuizGame({ quiz, uz, initialLimit = "all", onFinish, onRestart }
         />
       </div>
 
-      <h3 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white mb-5 whitespace-pre-line">{q.q}</h3>
+      <div data-tts-readable="active">
+        <h3 data-tts-question="true" className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white mb-5 whitespace-pre-line">
+          {q.q}
+        </h3>
 
-      {isChoiceLike(q) ? (
-        <ChoiceBlock q={q} picked={picked} onPick={choose} uz={uz} />
-      ) : (
+        {isChoiceLike(q) ? (
+          <ChoiceBlock q={q} picked={picked} onPick={choose} uz={uz} />
+        ) : (
         <form
           onSubmit={(e) => {
             e.preventDefault();
@@ -446,6 +483,7 @@ export function QuizGame({ quiz, uz, initialLimit = "all", onFinish, onRestart }
           </button>
         </form>
       )}
+      </div>
 
       {answered && (
         <div
@@ -576,8 +614,12 @@ export function TimedGame({ quiz, uz, onFinish, onRestart }: GameProps) {
       <div className="h-1.5 rounded-full bg-slate-100 dark:bg-slate-800 mb-6 overflow-hidden">
         <div className="h-full bg-amber-500 transition-all duration-1000 ease-linear" style={{ width: `${(left / TIMED_SECONDS) * 100}%` }} />
       </div>
-      <h3 className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white mb-5 whitespace-pre-line">{q.q}</h3>
-      <ChoiceBlock q={q} picked={picked} onPick={pick} uz={uz} />
+      <div data-tts-readable="active">
+        <h3 data-tts-question="true" className="text-lg sm:text-xl font-bold text-slate-900 dark:text-white mb-5 whitespace-pre-line">
+          {q.q}
+        </h3>
+        <ChoiceBlock q={q} picked={picked} onPick={pick} uz={uz} />
+      </div>
     </div>
   );
 }

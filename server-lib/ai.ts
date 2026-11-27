@@ -2,7 +2,7 @@
  * Umumiy AI mantiqi: Express (server.ts) va Vercel funksiyalari (api/*.ts) shu yerdan foydalanadi.
  * Shunda ikki muhitda xatti-harakat bir xil bo'ladi.
  */
-import { GoogleGenAI, Modality } from "@google/genai";
+import { GoogleGenAI, Modality, type GenerateContentResponse } from "@google/genai";
 import type { VerifiedAuthUser } from "./authVerify";
 
 export interface HandlerResult {
@@ -13,16 +13,16 @@ export interface HandlerResult {
 const list = (v: string | undefined, fallback: string[]) =>
   v ? v.split(",").map((s) => s.trim()).filter(Boolean) : fallback;
 
-// Active Gemini SDK model aliases (env orqali almashtirish mumkin)
-const flashModels = () =>
+// Active Gemini SDK model aliases (standart/free-tier modellar; env orqali almashtirish mumkin)
+const defaultChatModels = () =>
   list(process.env.GEMINI_CHAT_MODELS, [
     "gemini-4-hydrogen",
     "gemini-3.1-flash-lite",
   ]);
-const proModels = () =>
-  list(process.env.GEMINI_PRO_MODELS, [
-    "gemini-4-neon",
-    ...flashModels(),
+const fastChatModels = () =>
+  list(process.env.GEMINI_FAST_MODELS, [
+    "gemini-3.1-flash-lite",
+    "gemini-4-hydrogen",
   ]);
 const ttsModels = () =>
   list(process.env.GEMINI_TTS_MODELS, [
@@ -33,21 +33,21 @@ const ttsModels = () =>
 const LIMITS = {
   maxMessages: 20,
   maxMessageChars: 4000,
-  maxTtsChars: 600,
-  ratePerMinute: 20,
+  maxTtsChars: 900,
+  ratePerMinute: 30,
 };
 
-const VALID_VOICES = ["Puck", "Charon", "Kore", "Fenrir", "Zephyr"];
+export const VALID_VOICES = ["Puck", "Charon", "Kore", "Fenrir", "Zephyr"] as const;
 
 // ---------- Rol (system prompt) serverda belgilanadi ----------
 const PERSONAS = {
   tutor:
-    "Siz O'zbekiston maktab ta'limi bo'yicha 'Audio Darsliklar' platformasining AI Ustoz va virtual repetitorisiz. " +
-    "1-11-sinf o'quvchilariga barcha fanlardan tushunarli, do'stona va rag'batlantiruvchi tarzda tushuntirasiz. " +
-    "Javoblarni chiroyli Markdown formatida, misollar bilan bering. O'zbek va rus tillarida ravon javob bera olasiz. " +
+    "Siz O'zbekiston maktab ta'limi bo'yicha 'Audio Darsliklar 2026' platformasining AI Ustoz va virtual repetitorisiz. " +
+    "1-11-sinf o'quvchilariga hamda o'qituvchilarga barcha fanlardan tushunarli, do'stona va rag'batlantiruvchi tarzda tushuntirasiz. " +
+    "Javoblarni chiroyli Markdown formatida, misollar va bosqichma-bosqich yechim bilan bering. O'zbek va rus tillarida ravon javob bera olasiz. " +
     "Faqat ta'limga oid savollarga javob bering; boshqa mavzularda muloyimlik bilan o'qishga yo'naltiring.",
   widget:
-    "Siz O'zbekiston maktab o'quvchilari uchun ixcham, samimiy va tushunarli AI yordamchisiz. " +
+    "Siz O'zbekiston maktab o'quvchilari va o'qituvchilari uchun ixcham, samimiy va tushunarli AI yordamchisiz. " +
     "Javoblarni qisqa, aniq va foydali bering. Faqat ta'limga oid savollarga javob bering.",
 } as const;
 
@@ -91,7 +91,16 @@ export function createGeminiClient(): GoogleGenAI | null {
   });
 }
 
+export function isWavBuffer(buf: Buffer): boolean {
+  return (
+    buf.length >= 12 &&
+    buf.subarray(0, 4).toString("ascii") === "RIFF" &&
+    buf.subarray(8, 12).toString("ascii") === "WAVE"
+  );
+}
+
 export function pcmToWav(pcm: Buffer, sampleRate = 24000, channels = 1, bits = 16): Buffer {
+  if (isWavBuffer(pcm)) return pcm;
   const byteRate = (sampleRate * channels * bits) / 8;
   const blockAlign = (channels * bits) / 8;
   const h = Buffer.alloc(44);
@@ -119,26 +128,23 @@ export function isOverloaded(err: any): boolean {
 }
 
 // ---------- CHAT ----------
-export async function handleChat(body: any, authUser: VerifiedAuthUser | null = null): Promise<HandlerResult> {
+export async function handleChat(body: any, _authUser: VerifiedAuthUser | null = null): Promise<HandlerResult> {
   const ai = createGeminiClient();
   if (!ai) {
     return {
-      status: 200,
+      status: 503,
       body: {
-        text: "AI xizmati uchun GEMINI_API_KEY sozlanmagan. Iltimos, muhit o'zgaruvchilariga kalitni kiriting.",
-        groundingChunks: [],
-        model: "system-notice",
+        error: "AI xizmati uchun GEMINI_API_KEY sozlanmagan. Iltimos, Settings > Secrets bo'limidan API kalitni tekshiring.",
+        code: "NO_API_KEY",
       },
     };
   }
 
   const b = body && typeof body === "object" ? body : {};
   const persona: Persona = b.persona === "widget" ? "widget" : "tutor";
-
-  // Xavfsizlik: tasdiqlanmagan foydalanuvchi Pro model va Google Search qimmat rejimlarini majburlay olmaydi
-  const canUsePrivilegedOptions = Boolean(authUser && authUser.emailVerified);
-  const useSearch = canUsePrivilegedOptions && Boolean(b.useSearch);
-  const modelType = canUsePrivilegedOptions && b.modelType === "pro" ? "pro" : "flash";
+  const useSearch = Boolean(b.useSearch);
+  const modelMode = b.modelMode === "lite" ? "lite" : "hydrogen";
+  const userType = b.userType === "teacher" ? "teacher" : "student";
 
   const gradeNum = Number(b.grade);
   const grade = Number.isInteger(gradeNum) && gradeNum >= 1 && gradeNum <= 11 ? gradeNum : null;
@@ -162,18 +168,22 @@ export async function handleChat(body: any, authUser: VerifiedAuthUser | null = 
   while (contents.length > 1 && contents[0].role !== "user") contents.shift();
 
   let systemInstruction: string = PERSONAS[persona];
-  if (grade) systemInstruction += ` Foydalanuvchi ${grade}-sinf o'quvchisi: tushuntirishni shu yosh va dastur darajasiga moslang.`;
+  if (userType === "teacher") {
+    systemInstruction += " Foydalanuvchi maktab o'qituvchisi: metodik tavsiya, baholash mezoni va dars ssenariysi shaklida aniq yordam bering.";
+  } else if (grade) {
+    systemInstruction += ` Foydalanuvchi ${grade}-sinf o'quvchisi: tushuntirishni shu yosh va dastur darajasiga moslang.`;
+  }
 
   const config: Record<string, unknown> = { systemInstruction };
   if (useSearch) config.tools = [{ googleSearch: {} }];
 
-  const models = modelType === "pro" ? proModels() : flashModels();
+  const models = modelMode === "lite" ? fastChatModels() : defaultChatModels();
   let lastError: any = null;
 
   for (const model of models) {
     for (let attempt = 1; attempt <= 2; attempt++) {
       try {
-        const response: any = await ai.models.generateContent({ model, contents, config });
+        const response: GenerateContentResponse = await ai.models.generateContent({ model, contents, config });
         if (response?.text) {
           return {
             status: 200,
@@ -191,46 +201,109 @@ export async function handleChat(body: any, authUser: VerifiedAuthUser | null = 
           await sleep(1200);
           continue;
         }
-        console.warn(`[chat] ${model}: ${String(err?.message || err).slice(0, 120)}`);
+        console.warn(`[chat] ${model}: ${String(err?.message || err).slice(0, 140)}`);
         break;
       }
     }
   }
 
   console.error("[chat] barcha modellar muvaffaqiyatsiz:", lastError?.message);
+  const errCode = String(lastError?.status || lastError?.code || "MODEL_ERROR");
   return {
     status: 503,
     body: {
-      error: "AI Ustoz hozircha band. Bir necha soniyadan so'ng qayta urinib ko'ring.",
-      code: "MODEL_OVERLOADED",
+      error: "AI Ustoz hozircha javob bera olmadi. Bir necha soniyadan so'ng qayta urinib ko'ring.",
+      code: errCode,
     },
   };
 }
 
 // ---------- TTS ----------
 export async function handleTts(body: any): Promise<HandlerResult> {
-  const fallback = (message: string): HandlerResult => ({
-    status: 200,
-    body: { audioBase64: null, fallbackToBrowserTts: true, message },
-  });
-
   const ai = createGeminiClient();
-  if (!ai) return fallback("GEMINI_API_KEY sozlanmagan, brauzer ovozi ishlatiladi");
+  if (!ai) {
+    return {
+      status: 503,
+      body: {
+        error: "Gemini TTS uchun GEMINI_API_KEY sozlanmagan. Settings > Secrets bo'limini tekshiring.",
+        code: "NO_API_KEY",
+      },
+    };
+  }
 
   const b = body && typeof body === "object" ? body : {};
+  const mode = b.mode === "dialogue" ? "dialogue" : "single";
   const text = typeof b.text === "string" ? b.text.trim() : "";
   if (!text) return { status: 400, body: { error: "Matn kiritilmadi" } };
 
   const voice = VALID_VOICES.includes(b.voice) ? b.voice : "Kore";
+  const voice2 = VALID_VOICES.includes(b.voice2) ? b.voice2 : "Puck";
   const safeText = text.slice(0, LIMITS.maxTtsChars);
-  const stylePrompt = typeof b.stylePrompt === "string" ? b.stylePrompt.slice(0, 200) : "";
-  const promptText = stylePrompt ? `${stylePrompt}: ${safeText}` : safeText;
+  const stylePrompt = typeof b.stylePrompt === "string" ? b.stylePrompt.trim().slice(0, 180) : "";
+
+  if (mode === "dialogue") {
+    const lines = safeText
+      .split(/\n+/)
+      .map((l) => l.trim())
+      .filter(Boolean);
+    const parts = (lines.length >= 2 ? lines : [safeText]).slice(0, 8).map((line, idx) => {
+      const speaker = idx % 2 === 0 ? "Ustoz" : "Oquvchi";
+      return {
+        text: `${speaker}: ${line.replace(/^(Ustoz|O'quvchi|Oquvchi|Speaker\s*[12])\s*:\s*/i, "")}`,
+        speechMetadata: {
+          speaker,
+          style: idx % 2 === 0 ? "Clear, warm Uzbek teacher" : "Curious, bright student",
+        },
+      };
+    });
+
+    try {
+      const response = await ai.models.generateContent({
+        model: "gemini-3.8-flash-tts",
+        contents: [{ role: "user", parts: parts as any }],
+        config: {
+          responseModalities: [Modality.AUDIO],
+          speechConfig: {
+            multiSpeakerVoiceConfig: {
+              speakerVoiceConfigs: [
+                { speaker: "Ustoz", voiceConfig: { prebuiltVoiceConfig: { voiceName: voice } } },
+                { speaker: "Oquvchi", voiceConfig: { prebuiltVoiceConfig: { voiceName: voice2 } } },
+              ],
+            },
+          },
+        },
+      });
+      const base64Audio = response?.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data;
+      if (base64Audio) {
+        const rawBuf = Buffer.from(base64Audio, "base64");
+        const wav = pcmToWav(rawBuf);
+        return {
+          status: 200,
+          body: {
+            audioBase64: wav.toString("base64"),
+            mimeType: "audio/wav",
+            sampleRate: 24000,
+            voice: `${voice}+${voice2}`,
+            model: "gemini-3.8-flash-tts",
+            sizeBytes: wav.length,
+          },
+        };
+      }
+    } catch (err: any) {
+      console.warn("[tts-dialogue]", String(err?.message || err).slice(0, 140));
+    }
+  }
 
   for (const model of ttsModels()) {
     try {
-      const response: any = await ai.models.generateContent({
+      const part: any = { text: safeText };
+      if (stylePrompt) {
+        part.speechMetadata = { style: stylePrompt };
+      }
+
+      const response = await ai.models.generateContent({
         model,
-        contents: [{ parts: [{ text: promptText }] }],
+        contents: [{ role: "user", parts: [part] }],
         config: {
           responseModalities: [Modality.AUDIO],
           speechConfig: { voiceConfig: { prebuiltVoiceConfig: { voiceName: voice } } },
@@ -238,15 +311,30 @@ export async function handleTts(body: any): Promise<HandlerResult> {
       });
       const base64Audio = response?.candidates?.[0]?.content?.parts?.[0]?.inlineData?.data;
       if (base64Audio) {
-        const wav = pcmToWav(Buffer.from(base64Audio, "base64"));
+        const rawBuf = Buffer.from(base64Audio, "base64");
+        const wav = pcmToWav(rawBuf);
         return {
           status: 200,
-          body: { audioBase64: wav.toString("base64"), mimeType: "audio/wav", sampleRate: 24000, voice, sizeBytes: wav.length },
+          body: {
+            audioBase64: wav.toString("base64"),
+            mimeType: "audio/wav",
+            sampleRate: 24000,
+            voice,
+            model,
+            sizeBytes: wav.length,
+          },
         };
       }
     } catch (err: any) {
-      console.warn(`[tts] ${model}: ${String(err?.message || err).slice(0, 120)}`);
+      console.warn(`[tts] ${model}: ${String(err?.message || err).slice(0, 140)}`);
     }
   }
-  return fallback("Gemini TTS vaqtinchalik band, brauzer ovozi faollashtirildi");
+
+  return {
+    status: 503,
+    body: {
+      error: "Gemini TTS audio sintez qila olmadi. Keyinroq qayta urinib ko'ring.",
+      code: "TTS_UNAVAILABLE",
+    },
+  };
 }

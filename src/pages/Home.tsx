@@ -382,10 +382,10 @@ export default function Home() {
                 </div>
                 <div>
                   <h4 className="font-black text-slate-900 dark:text-white text-sm sm:text-base">
-                    {uz ? "TTS Audio Studiya (.mp3)" : "Аудиостудия TTS (.mp3)"}
+                    {uz ? "TTS Audio Studiya (.wav)" : "Аудиостудия TTS (.wav)"}
                   </h4>
                   <p className="text-xs text-slate-500">
-                    {uz ? "Istalgan dars matnini ovozga aylantirib yuklab oling" : "Озвучивайте тексты и скачивайте MP3"}
+                    {uz ? "Istalgan dars matnini ovozga aylantirib yuklab oling" : "Озвучивайте тексты и скачивайте WAV"}
                   </p>
                 </div>
               </div>

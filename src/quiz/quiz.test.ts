@@ -2,7 +2,17 @@ import test from "node:test";
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import path from "node:path";
-import { isValidQuiz, normalize, isFillCorrect, getCards, shuffleOptions, buildBookQuiz } from "./util.ts";
+import {
+  isValidQuiz,
+  normalize,
+  isFillCorrect,
+  getCards,
+  shuffleOptions,
+  buildBookQuiz,
+  classifyQuestionDifficulty,
+  summarizeQuizDifficulties,
+  prepareQuizQuestions,
+} from "./util.ts";
 import {
   buildCrosswordGrid,
   buildJeopardyBoard,
@@ -181,4 +191,49 @@ test("all 40 topics of 9-sinf Algebra (2019) exist and pass strict validation (3
   assert.equal(deck.length, 12);
   assert.ok(chain.length >= 4);
   assert.ok(elapsedMs < 1500, `Combined game engine generation took too long: ${elapsedMs.toFixed(1)} ms`);
+});
+
+test("difficulty classification, summary, and easy/medium/hard/progressive filtering work accurately", () => {
+  const algRaw = fs.readFileSync(path.join(DATA_DIR, ALGEBRA_FILES[0]), "utf8");
+  const algQuiz = JSON.parse(algRaw) as Quiz;
+  const algSummary = summarizeQuizDifficulties(algQuiz.questions);
+
+  assert.equal(algSummary.easy + algSummary.medium + algSummary.hard, algQuiz.questions.length);
+  assert.ok(algSummary.easy >= 30, `Expected >= 30 easy questions, got ${algSummary.easy}`);
+  assert.ok(algSummary.medium >= 30, `Expected >= 30 medium questions, got ${algSummary.medium}`);
+  assert.ok(algSummary.hard >= 30, `Expected >= 30 hard questions, got ${algSummary.hard}`);
+
+  const easy20 = prepareQuizQuestions(algQuiz.questions, 20, "easy");
+  assert.equal(easy20.length, 20);
+  assert.ok(easy20.every((q) => q.difficulty === "easy"));
+
+  const hard20 = prepareQuizQuestions(algQuiz.questions, 20, "hard");
+  assert.equal(hard20.length, 20);
+  assert.ok(hard20.every((q) => q.difficulty === "hard"));
+
+  // Progressive mode ("osondan qiyingacha") orders easy -> medium -> hard
+  const prog30 = prepareQuizQuestions(algQuiz.questions, 30, "progressive");
+  assert.equal(prog30.length, 30);
+  const rank = (d?: string) => (d === "easy" ? 0 : d === "medium" ? 1 : 2);
+  for (let i = 1; i < prog30.length; i++) {
+    assert.ok(
+      rank(prog30[i].difficulty) >= rank(prog30[i - 1].difficulty),
+      `Progressive order violated at index ${i}: ${prog30[i - 1].difficulty} -> ${prog30[i].difficulty}`,
+    );
+  }
+  assert.equal(prog30[0].difficulty, "easy");
+  assert.equal(prog30[prog30.length - 1].difficulty, "hard");
+
+  // Also works when limit > single bucket size (fills gracefully to requested count)
+  const easyAll = prepareQuizQuestions(algQuiz.questions, "all", "easy");
+  assert.equal(easyAll.length, algQuiz.questions.length);
+
+  // Explicit difficulty tag overrides heuristic
+  const explicitQ = {
+    type: "truefalse" as const,
+    q: "Maxsus belgilangan qiyin savol",
+    answer: true,
+    difficulty: "hard" as const,
+  };
+  assert.equal(classifyQuestionDifficulty(explicitQ), "hard");
 });

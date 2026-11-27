@@ -87,9 +87,10 @@ export default function AiChatWidget() {
         body: JSON.stringify({
           messages: history,
           message: userText,
-          modelType: "flash",
+          modelMode: "hydrogen",
           persona: "widget",
           grade: profile.grade,
+          userType: profile.userType,
         }),
       });
 
@@ -104,16 +105,17 @@ export default function AiChatWidget() {
           text: data.text || "Javob olindi.",
         },
       ]);
-    } catch {
+    } catch (err: any) {
       setMessages((prev) => [
         ...prev,
         {
           id: `w-err-${Date.now()}`,
           role: "assistant",
           text:
-            language === "uz"
+            err?.message ||
+            (language === "uz"
               ? "Kechirasiz, xatolik yuz berdi. Iltimos, qayta urinib ko'ring."
-              : "Произошла ошибка, попробуйте снова.",
+              : "Произошла ошибка, попробуйте снова."),
         },
       ]);
     } finally {

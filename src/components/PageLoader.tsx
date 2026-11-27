@@ -65,7 +65,7 @@ export default function PageLoader({ onFinish, minDurationMs = 1800 }: PageLoade
           initial={{ opacity: 1 }}
           exit={{ opacity: 0, scale: 1.03 }}
           transition={{ duration: 0.5, ease: "easeInOut" }}
-          className="fixed inset-0 z-[9999] flex flex-col items-center justify-center bg-white/95 dark:bg-slate-950/95 backdrop-blur-xl select-none"
+          className="fixed inset-0 z-[9999] flex flex-col items-center justify-center bg-white/98 dark:bg-slate-950/98 select-none"
         >
           {/* Subtle decorative background glow */}
           <div className="absolute w-72 h-72 rounded-full bg-blue-500/10 dark:bg-blue-600/15 blur-3xl pointer-events-none"></div>

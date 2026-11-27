@@ -31,8 +31,8 @@ import { useLanguage } from "../context/LanguageContext";
 import { useReader } from "../context/ReaderContext";
 import { useAuth } from "../context/AuthContext";
 import { QUIZZES, getQuizzesBySubject } from "../quiz";
-import type { IntellectualGameId, PlayMode, Quiz } from "../quiz/types";
-import { buildBookQuiz, shuffle, useQuizResults } from "../quiz/util";
+import type { IntellectualGameId, PlayMode, Quiz, TestDifficulty } from "../quiz/types";
+import { buildBookQuiz, shuffle, summarizeQuizDifficulties, useQuizResults } from "../quiz/util";
 import { useCloudCustomQuizzes } from "../quiz/useCustomQuizzes";
 import { GENERAL_INTELLECTUAL_CATEGORIES, GENERAL_INTELLECTUAL_QUIZ } from "../quiz/generalGamesPack";
 import { QuizGame } from "../quiz/games";
@@ -55,6 +55,7 @@ import {
   WheelOfFortuneGame,
 } from "../quiz/intellectualGames";
 import CustomQuizCreator from "../components/CustomQuizCreator";
+import { GAME_PREVIEWS } from "../quiz/gamePreviews";
 
 const GRADES: GradeNumber[] = ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11"];
 
@@ -126,6 +127,9 @@ export default function Tests() {
   const [questionLimit, setQuestionLimit] = useState<number | "all" | null>(
     initialModeParam === "attestatsiya" ? 30 : null,
   );
+  const [testDifficulty, setTestDifficulty] = useState<TestDifficulty | null>(
+    initialModeParam === "attestatsiya" ? "progressive" : null,
+  );
   const [testRound, setTestRound] = useState(0);
 
   // ---- O'YINLAR HOLATI ----
@@ -184,6 +188,11 @@ export default function Tests() {
     return customQuizzes.filter((q) => (!q.grade || q.grade === testGrade) && (!q.lang || q.lang === testLang));
   }, [customQuizzes, testGrade, testLang]);
 
+  const selectedDifficultySummary = useMemo(
+    () => (selectedTestQuiz ? summarizeQuizDifficulties(selectedTestQuiz.questions) : null),
+    [selectedTestQuiz],
+  );
+
   // ---- O'YINLAR UCHUN MANBA HISOBLASH ----
   const gameSubjectsForGradeLang = useMemo(() => {
     const all = ALL_SUBJECTS.filter((s) => s.grade === gameGrade && s.lang === gameLang);
@@ -217,7 +226,7 @@ export default function Tests() {
     };
   }, [gameScope, customQuizzes, customSelectedId, gameSubjectQuizzes, gameSubjectId, gameTopicId, uz]);
 
-  const resetTestStepsTo = (step: "entry" | "grade" | "lang" | "subject" | "topic" | "count") => {
+  const resetTestStepsTo = (step: "entry" | "grade" | "lang" | "subject" | "topic" | "count" | "difficulty") => {
     if (step === "entry") {
       setSection("entry");
       setTestGrade(null);
@@ -225,26 +234,34 @@ export default function Tests() {
       setTestSubject(null);
       setSelectedTestQuiz(null);
       setQuestionLimit(null);
+      setTestDifficulty(null);
     } else if (step === "grade") {
       setTestGrade(null);
       setTestLang(null);
       setTestSubject(null);
       setSelectedTestQuiz(null);
       setQuestionLimit(null);
+      setTestDifficulty(null);
     } else if (step === "lang") {
       setTestLang(null);
       setTestSubject(null);
       setSelectedTestQuiz(null);
       setQuestionLimit(null);
+      setTestDifficulty(null);
     } else if (step === "subject") {
       setTestSubject(null);
       setSelectedTestQuiz(null);
       setQuestionLimit(null);
+      setTestDifficulty(null);
     } else if (step === "topic") {
       setSelectedTestQuiz(null);
       setQuestionLimit(null);
+      setTestDifficulty(null);
     } else if (step === "count") {
       setQuestionLimit(null);
+      setTestDifficulty(null);
+    } else if (step === "difficulty") {
+      setTestDifficulty(null);
     }
   };
 
@@ -261,6 +278,7 @@ export default function Tests() {
       }
       setSelectedTestQuiz(saved);
       setQuestionLimit(null);
+      setTestDifficulty(null);
     } else {
       setSection("games");
       setGameScope("custom");
@@ -278,6 +296,7 @@ export default function Tests() {
     setTestSubject(null);
     setSelectedTestQuiz(att);
     setQuestionLimit(30);
+    setTestDifficulty("progressive");
     setTestRound((r) => r + 1);
   };
 
@@ -568,6 +587,27 @@ export default function Tests() {
                   </button>
                 </>
               )}
+
+              {selectedTestQuiz && questionLimit !== null && (
+                <>
+                  <ChevronRight size={14} className="text-slate-400" />
+                  <button
+                    type="button"
+                    onClick={() => resetTestStepsTo("difficulty")}
+                    className={`px-2.5 py-1 rounded-lg transition-colors tabular-nums ${
+                      testDifficulty === null
+                        ? "bg-brand-primary text-white"
+                        : "bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-700 text-slate-700 dark:text-slate-200 hover:border-brand-primary"
+                    }`}
+                  >
+                    {questionLimit === "all"
+                      ? uz
+                        ? `Barchasi (${selectedTestQuiz.questions.length})`
+                        : `Все (${selectedTestQuiz.questions.length})`
+                      : `${questionLimit} ${uz ? "ta savol" : "вопр."}`}
+                  </button>
+                </>
+              )}
             </nav>
 
             {/* STEP 1: 1-sinfdan 11-sinfgacha sinflar tugmalari */}
@@ -622,6 +662,7 @@ export default function Tests() {
                               setTestLang(cq.lang ?? "uz");
                               setSelectedTestQuiz(cq);
                               setQuestionLimit(null);
+                              setTestDifficulty(null);
                             }}
                             className="text-left min-w-0 flex-1"
                           >
@@ -923,8 +964,8 @@ export default function Tests() {
                 </h2>
                 <p className="text-sm text-slate-600 dark:text-slate-300 mb-6">
                   {uz
-                    ? "Variantlardan birini tanlashingiz bilan test va vaqt hisobi boshlanadi."
-                    : "Сразу после выбора начнётся тест и пойдёт отсчёт времени."}
+                    ? "Savollar sonini tanlaganingizdan so'ng test darajasini belgilaysiz."
+                    : "После выбора количества вы выберете уровень сложности теста."}
                 </p>
 
                 <div className="grid grid-cols-2 sm:grid-cols-3 gap-3">
@@ -934,7 +975,7 @@ export default function Tests() {
                       type="button"
                       onClick={() => {
                         setQuestionLimit(opt);
-                        setTestRound((r) => r + 1);
+                        setTestDifficulty(null);
                       }}
                       className="p-4 rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 hover:border-brand-primary hover:bg-brand-primary hover:text-white text-slate-900 dark:text-white font-black text-base transition-colors tabular-nums"
                     >
@@ -949,32 +990,148 @@ export default function Tests() {
               </div>
             )}
 
-            {/* STEP 6: FAOL TEST JARAYONI */}
-            {selectedTestQuiz !== null && questionLimit !== null && (
+            {/* STEP 6: TEST DARAJASINI TANLASH */}
+            {selectedTestQuiz !== null && questionLimit !== null && testDifficulty === null && (
+              <div className="p-6 sm:p-8 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 max-w-2xl mx-auto">
+                <button
+                  type="button"
+                  onClick={() => resetTestStepsTo("count")}
+                  className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-500 hover:text-brand-primary mb-4"
+                >
+                  <ArrowLeft size={14} /> {uz ? "Savollar sonini o'zgartirish" : "Изменить количество"}
+                </button>
+                <p className="text-xs font-bold text-brand-primary dark:text-blue-300 mb-1 tabular-nums">
+                  {selectedTestQuiz.title} ·{" "}
+                  {questionLimit === "all"
+                    ? uz
+                      ? `Barchasi (${selectedTestQuiz.questions.length} ta savol)`
+                      : `Все (${selectedTestQuiz.questions.length} вопр.)`
+                    : `${questionLimit} ${uz ? "ta savol" : "вопр."}`}
+                </p>
+                <h2 className="text-xl sm:text-2xl font-serif font-black text-slate-900 dark:text-white mb-2">
+                  {uz ? "Test darajasini tanlang" : "Выберите уровень сложности"}
+                </h2>
+                <p className="text-sm text-slate-600 dark:text-slate-300 mb-6">
+                  {uz
+                    ? "Darajani tanlashingiz bilan test va vaqt hisobi boshlanadi."
+                    : "Сразу после выбора уровня начнётся тест и пойдёт отсчёт времени."}
+                </p>
+
+                <div className="grid sm:grid-cols-2 gap-3.5">
+                  {(
+                    [
+                      {
+                        id: "easy" as const,
+                        title: uz ? "Oson" : "Лёгкий",
+                        desc: uz
+                          ? "Asosiy tushunchalar, ta'riflar va tezkor savollar"
+                          : "Базовые определения и быстрые вопросы",
+                        countLabel: selectedDifficultySummary
+                          ? `${selectedDifficultySummary.easy} ${uz ? "ta oson savol" : "лёгких"}`
+                          : "",
+                        accent: "hover:border-emerald-500 hover:bg-emerald-50/70 dark:hover:bg-emerald-950/30",
+                        badgeColor: "text-emerald-700 dark:text-emerald-300",
+                      },
+                      {
+                        id: "medium" as const,
+                        title: uz ? "O'rtacha" : "Средний",
+                        desc: uz
+                          ? "Darslikdagi asosiy mashqlar va standart masalalar"
+                          : "Основные упражнения и стандартные задачи",
+                        countLabel: selectedDifficultySummary
+                          ? `${selectedDifficultySummary.medium} ${uz ? "ta o'rtacha savol" : "средних"}`
+                          : "",
+                        accent: "hover:border-amber-500 hover:bg-amber-50/70 dark:hover:bg-amber-950/30",
+                        badgeColor: "text-amber-700 dark:text-amber-300",
+                      },
+                      {
+                        id: "hard" as const,
+                        title: uz ? "Qiyin" : "Сложный",
+                        desc: uz
+                          ? "Chuqurlashtirilgan, ko'p bosqichli va yozma topshiriqlar"
+                          : "Углублённые задачи и открытые ответы",
+                        countLabel: selectedDifficultySummary
+                          ? `${selectedDifficultySummary.hard} ${uz ? "ta qiyin savol" : "сложных"}`
+                          : "",
+                        accent: "hover:border-rose-500 hover:bg-rose-50/70 dark:hover:bg-rose-950/30",
+                        badgeColor: "text-rose-700 dark:text-rose-300",
+                      },
+                      {
+                        id: "progressive" as const,
+                        title: uz ? "Osondan qiyingacha" : "От лёгкого к сложному",
+                        desc: uz
+                          ? "Oddiy savollardan boshlanib, bosqichma-bosqich qiyinlashadi"
+                          : "Начинается с простых вопросов и постепенно усложняется",
+                        countLabel: uz ? "Bosqichli tartib" : "По нарастающей",
+                        accent: "hover:border-brand-primary hover:bg-blue-50/80 dark:hover:bg-slate-700",
+                        badgeColor: "text-brand-primary dark:text-blue-300",
+                      },
+                    ]
+                  ).map((item) => (
+                    <button
+                      key={item.id}
+                      type="button"
+                      onClick={() => {
+                        setTestDifficulty(item.id);
+                        setTestRound((r) => r + 1);
+                      }}
+                      className={`p-5 rounded-2xl border border-slate-200 dark:border-slate-700 bg-slate-50 dark:bg-slate-800 text-left transition-colors flex flex-col justify-between gap-2 ${item.accent}`}
+                    >
+                      <div>
+                        <p className="text-lg font-black text-slate-900 dark:text-white mb-1">{item.title}</p>
+                        <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300">{item.desc}</p>
+                      </div>
+                      {item.countLabel && (
+                        <p className={`text-xs font-bold tabular-nums ${item.badgeColor}`}>{item.countLabel}</p>
+                      )}
+                    </button>
+                  ))}
+                </div>
+              </div>
+            )}
+
+            {/* STEP 7: FAOL TEST JARAYONI */}
+            {selectedTestQuiz !== null && questionLimit !== null && testDifficulty !== null && (
               <div className="max-w-3xl mx-auto">
                 <div className="flex flex-wrap items-center justify-between gap-2 mb-4">
                   <div>
                     <h2 className="text-lg sm:text-xl font-serif font-black text-slate-900 dark:text-white">
                       {selectedTestQuiz.title}
                     </h2>
-                    {selectedTestQuiz.source && (
-                      <p className="text-xs text-slate-500 dark:text-slate-400">{selectedTestQuiz.source}</p>
-                    )}
+                    <p className="text-xs text-slate-500 dark:text-slate-400">
+                      {selectedTestQuiz.source ? `${selectedTestQuiz.source} · ` : ""}
+                      {testDifficulty === "easy"
+                        ? uz
+                          ? "Daraja: Oson"
+                          : "Уровень: Лёгкий"
+                        : testDifficulty === "medium"
+                          ? uz
+                            ? "Daraja: O'rtacha"
+                            : "Уровень: Средний"
+                          : testDifficulty === "hard"
+                            ? uz
+                              ? "Daraja: Qiyin"
+                              : "Уровень: Сложный"
+                            : uz
+                              ? "Daraja: Osondan qiyingacha"
+                              : "Уровень: От лёгкого к сложному"}
+                    </p>
                   </div>
                   <button
                     type="button"
-                    onClick={() => resetTestStepsTo("count")}
+                    onClick={() => resetTestStepsTo("difficulty")}
                     className="inline-flex items-center gap-1.5 text-xs font-bold text-slate-500 hover:text-brand-primary"
                   >
-                    <ArrowLeft size={14} /> {uz ? "Savollar sonini o'zgartirish" : "Изменить количество"}
+                    <ArrowLeft size={14} /> {uz ? "Darajani o'zgartirish" : "Сменить уровень"}
                   </button>
                 </div>
 
                 <QuizGame
-                  key={`${selectedTestQuiz.id}-${questionLimit}-${testRound}`}
+                  key={`${selectedTestQuiz.id}-${questionLimit}-${testDifficulty}-${testRound}`}
                   quiz={selectedTestQuiz}
                   uz={uz}
                   initialLimit={questionLimit}
+                  initialDifficulty={testDifficulty}
                   onFinish={(score, sec) => record(selectedTestQuiz.id, "quiz", score, sec)}
                   onRestart={() => setTestRound((r) => r + 1)}
                 />
@@ -1211,11 +1368,12 @@ export default function Tests() {
                   </div>
                 </div>
 
-                {/* 9 TA INTELLEKTUAL O'YIN RO'YXATI */}
+                {/* 15 TA INTELLEKTUAL O'YIN RO'YXATI */}
                 <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-4">
                   {INTELLECTUAL_GAMES_META.map((g) => {
                     const Icon = gameIcons[g.id];
                     const best = results[activeGameData.quiz.id]?.[g.id]?.best;
+                    const preview = GAME_PREVIEWS[g.id];
                     return (
                       <button
                         key={g.id}
@@ -1224,26 +1382,39 @@ export default function Tests() {
                           setActiveGameId(g.id);
                           setGameRound((r) => r + 1);
                         }}
-                        className="text-left p-5 rounded-3xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-brand-primary transition-all flex flex-col justify-between gap-4 group"
+                        className="text-left rounded-3xl bg-white dark:bg-slate-900 border border-slate-200 dark:border-slate-800 hover:border-brand-primary transition-all flex flex-col justify-between overflow-hidden group shadow-xs hover:shadow-md"
                       >
-                        <div>
-                          <div className="flex items-center justify-between gap-2 mb-3">
-                            <div className="w-11 h-11 rounded-2xl bg-blue-50 dark:bg-slate-800 text-brand-primary dark:text-blue-300 flex items-center justify-center group-hover:bg-brand-primary group-hover:text-white transition-colors">
-                              <Icon size={20} />
+                        <div className="w-full">
+                          <div className="relative h-36 w-full overflow-hidden bg-slate-900">
+                            <img
+                              src={preview.image}
+                              alt={uz ? g.titleUz : g.titleRu}
+                              className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                              loading="lazy"
+                            />
+                            <div className={`absolute inset-0 bg-gradient-to-t ${preview.accentClass}`} />
+                            <div className="absolute top-3 left-3 w-9 h-9 rounded-xl bg-slate-950/75 text-white flex items-center justify-center border border-white/15">
+                              <Icon size={18} />
                             </div>
-                            <span className="text-xs font-semibold text-slate-500 dark:text-slate-400">
-                              {g.teamCapable ? (uz ? "Yakka / Jamoaviy" : "Соло / Команды") : uz ? "Mantiqiy mashq" : "Логика"}
+                            <span className="absolute bottom-2.5 left-3 text-[11px] font-bold tracking-wide text-white drop-shadow">
+                              {uz ? preview.badgeUz : preview.badgeRu}
+                            </span>
+                            <span className="absolute bottom-2.5 right-3 text-[11px] font-semibold text-white/90 drop-shadow">
+                              {g.teamCapable ? (uz ? "Yakka / Jamoaviy" : "Соло / Команды") : uz ? "Mantiqiy" : "Логика"}
                             </span>
                           </div>
-                          <h3 className="text-lg font-black text-slate-900 dark:text-white mb-1">
-                            {uz ? g.titleUz : g.titleRu}
-                          </h3>
-                          <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300">
-                            {uz ? g.descUz : g.descRu}
-                          </p>
+
+                          <div className="p-4 sm:p-5 pb-2">
+                            <h3 className="text-lg font-black text-slate-900 dark:text-white mb-1 group-hover:text-brand-primary transition-colors">
+                              {uz ? g.titleUz : g.titleRu}
+                            </h3>
+                            <p className="text-xs sm:text-sm text-slate-600 dark:text-slate-300 line-clamp-2">
+                              {uz ? g.descUz : g.descRu}
+                            </p>
+                          </div>
                         </div>
 
-                        <div className="flex items-center justify-between pt-3 border-t border-slate-100 dark:border-slate-800 text-xs font-bold">
+                        <div className="w-full px-4 sm:px-5 pb-4 pt-3 mt-2 border-t border-slate-100 dark:border-slate-800 flex items-center justify-between text-xs font-bold">
                           <span className="text-brand-primary dark:text-blue-300 inline-flex items-center gap-1">
                             {uz ? "O'ynash" : "Играть"} <ChevronRight size={14} />
                           </span>
