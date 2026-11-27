@@ -1,0 +1,3550 @@
+{
+  "id": "g9-uz-algebra-03-y-ax2-funksiya",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "3-§. y = ax² funksiya",
+  "title": "3-§. y = ax² funksiya",
+  "source": "Algebra 9-sinf (2019), I bob, 3-§, 10–14-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "y = ax² (a < 0) parabolaning shoxlari qayerga yo'nalgan bo'ladi?",
+      "options": [
+        "O'ngga",
+        "Yuqoriga",
+        "Pastga",
+        "Chapga"
+      ],
+      "answer": 2,
+      "explain": "a < 0 bo'lganda barcha qiymatlar y ≤ 0, demak shoxlar pastga qaraydi."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² (a < 0) funksiyaning qiymatlar sohasi qaysi to'plam?",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; 0)",
+        "(−∞; 0]",
+        "[0; +∞)"
+      ],
+      "answer": 2,
+      "explain": "a < 0 da ax² ≤ 0, maksimal qiymat 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola A(x₀; y₀) nuqtadan (x₀ ≠ 0) o'tsa, a qanday topiladi?",
+      "options": [
+        "a = x₀ · y₀",
+        "a = x₀² / y₀",
+        "a = y₀ / x₀²",
+        "a = y₀ / x₀"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² dan a = y₀ / x₀² kelib chiqadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 4x² funksiyaning grafigi y = 0,25x² ga qaraganda Oy o'qiga yaqinroq joylashadi.",
+      "answer": true,
+      "explain": "|a| qancha katta bo'lsa, parabola shuncha tik va Oy o'qiga yaqin bo'ladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² funksiya (−∞; 0] oraliqda o'suvchi.",
+      "answer": true,
+      "explain": "a < 0 da funksiya x ≤ 0 da o'sadi, x ≥ 0 da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(1; -6) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-7",
+        "-6",
+        "-5",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ -6 = a·1 ⇒ a = -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-2; -24) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "6",
+        "-5",
+        "-7",
+        "-6"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ -24 = a·4 ⇒ a = -6."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(3; -54) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-6",
+      "explain": "a = -54 / (3)² = -54 / 9 = -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-4; -96) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-5",
+        "-7",
+        "6",
+        "-6"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ -96 = a·16 ⇒ a = -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(5; -150) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-7",
+        "-6",
+        "-5",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ -150 = a·25 ⇒ a = -6."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-6; -216) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-6",
+      "explain": "a = -216 / (-6)² = -216 / 36 = -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(7; -294) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-6",
+        "-7",
+        "-5",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ -294 = a·49 ⇒ a = -6."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(1; -5) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-5",
+      "explain": "a = -5 / (1)² = -5 / 1 = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-2; -20) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "5",
+        "-4",
+        "-6",
+        "-5"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ -20 = a·4 ⇒ a = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(3; -45) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "5",
+        "-6",
+        "-5",
+        "-4"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ -45 = a·9 ⇒ a = -5."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-4; -80) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-5",
+      "explain": "a = -80 / (-4)² = -80 / 16 = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(5; -125) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-6",
+        "-4",
+        "5",
+        "-5"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ -125 = a·25 ⇒ a = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-6; -180) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "5",
+        "-6",
+        "-4",
+        "-5"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ -180 = a·36 ⇒ a = -5."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(7; -245) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-5",
+      "explain": "a = -245 / (7)² = -245 / 49 = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(1; -4) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-5",
+        "-4",
+        "4",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ -4 = a·1 ⇒ a = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-2; -16) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-4",
+      "explain": "a = -16 / (-2)² = -16 / 4 = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(3; -36) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-3",
+        "-5",
+        "-4",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ -36 = a·9 ⇒ a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-4; -64) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-3",
+        "4",
+        "-4",
+        "-5"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ -64 = a·16 ⇒ a = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(5; -100) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-4",
+      "explain": "a = -100 / (5)² = -100 / 25 = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-6; -144) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-3",
+        "-4",
+        "4",
+        "-5"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ -144 = a·36 ⇒ a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(7; -196) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-4",
+        "-5",
+        "-3",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ -196 = a·49 ⇒ a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(1; -3) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-2",
+        "3",
+        "-3",
+        "-4"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ -3 = a·1 ⇒ a = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-2; -12) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "3",
+        "-3",
+        "-2",
+        "-4"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ -12 = a·4 ⇒ a = -3."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(3; -27) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-3",
+      "explain": "a = -27 / (3)² = -27 / 9 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-4; -48) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-3",
+        "-2",
+        "-4",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ -48 = a·16 ⇒ a = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(5; -75) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-3",
+        "-2",
+        "3",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ -75 = a·25 ⇒ a = -3."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-6; -108) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-3",
+      "explain": "a = -108 / (-6)² = -108 / 36 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(7; -147) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-4",
+        "-3",
+        "3",
+        "-2"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ -147 = a·49 ⇒ a = -3."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(1; -2) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-2",
+      "explain": "a = -2 / (1)² = -2 / 1 = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-2; -8) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-2",
+        "-1",
+        "-3",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ -8 = a·4 ⇒ a = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(3; -18) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-1",
+        "-3",
+        "-2",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ -18 = a·9 ⇒ a = -2."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-4; -32) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-2",
+      "explain": "a = -32 / (-4)² = -32 / 16 = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(5; -50) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-3",
+        "2",
+        "-2",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ -50 = a·25 ⇒ a = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-6; -72) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-2",
+        "2",
+        "-1",
+        "-3"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ -72 = a·36 ⇒ a = -2."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(7; -98) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-2",
+      "explain": "a = -98 / (7)² = -98 / 49 = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(1; -1) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "-2"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ -1 = a·1 ⇒ a = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-2; -4) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-1",
+      "explain": "a = -4 / (-2)² = -4 / 4 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(3; -9) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-1",
+        "0",
+        "-2",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ -9 = a·9 ⇒ a = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-4; -16) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-2",
+        "1",
+        "-1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ -16 = a·16 ⇒ a = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(5; -25) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "-1",
+      "explain": "a = -25 / (5)² = -25 / 25 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-6; -36) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-1",
+        "1",
+        "0",
+        "-2"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ -36 = a·36 ⇒ a = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(7; -49) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-2",
+        "-1",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ -49 = a·49 ⇒ a = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(1; 1) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ 1 = a·1 ⇒ a = 1."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-2; 4) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "1",
+      "explain": "a = 4 / (-2)² = 4 / 4 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(3; 9) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "2",
+        "1",
+        "-1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ 9 = a·9 ⇒ a = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-4; 16) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ 16 = a·16 ⇒ a = 1."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(5; 25) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "1",
+      "explain": "a = 25 / (5)² = 25 / 25 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-6; 36) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-1",
+        "0",
+        "2",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ 36 = a·36 ⇒ a = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(7; 49) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "2",
+        "1",
+        "-1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ 49 = a·49 ⇒ a = 1."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(1; 2) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "2",
+      "explain": "a = 2 / (1)² = 2 / 1 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-2; 8) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "1",
+        "-2",
+        "3",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ 8 = a·4 ⇒ a = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(3; 18) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "-2"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ 18 = a·9 ⇒ a = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-4; 32) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "2",
+      "explain": "a = 32 / (-4)² = 32 / 16 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(5; 50) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-2",
+        "1",
+        "3",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ 50 = a·25 ⇒ a = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-6; 72) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "3",
+        "-2",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ 72 = a·36 ⇒ a = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(7; 98) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "2",
+      "explain": "a = 98 / (7)² = 98 / 49 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(1; 3) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "3",
+        "2",
+        "-3",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ 3 = a·1 ⇒ a = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-2; 12) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "2",
+        "-3",
+        "4",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ 12 = a·4 ⇒ a = 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(3; 27) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "3",
+      "explain": "a = 27 / (3)² = 27 / 9 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-4; 48) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "3",
+        "2",
+        "-3",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ 48 = a·16 ⇒ a = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(5; 75) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "3",
+        "2",
+        "-3",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ 75 = a·25 ⇒ a = 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-6; 108) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "3",
+      "explain": "a = 108 / (-6)² = 108 / 36 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(7; 147) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "y₀ = ax₀² ⇒ 147 = a·49 ⇒ a = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(1; 4) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "4",
+        "-4",
+        "3",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ 4 = a·1 ⇒ a = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-2; 16) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "4",
+      "explain": "a = 16 / (-2)² = 16 / 4 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(3; 36) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-4",
+        "3",
+        "5",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ 36 = a·9 ⇒ a = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-4; 64) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "4",
+        "5",
+        "-4",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ 64 = a·16 ⇒ a = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(5; 100) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "4",
+      "explain": "a = 100 / (5)² = 100 / 25 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-6; 144) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "4",
+        "-4",
+        "3",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ 144 = a·36 ⇒ a = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(7; 196) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ 196 = a·49 ⇒ a = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(1; 5) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "5",
+      "explain": "a = 5 / (1)² = 5 / 1 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-2; 20) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "6",
+        "4",
+        "-5",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "y₀ = ax₀² ⇒ 20 = a·4 ⇒ a = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(3; 45) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-5",
+        "6",
+        "5",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ 45 = a·9 ⇒ a = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-4; 80) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "5",
+      "explain": "a = 80 / (-4)² = 80 / 16 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(5; 125) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "6",
+        "-5",
+        "5",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ 125 = a·25 ⇒ a = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-6; 180) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-5",
+        "6",
+        "5",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ 180 = a·36 ⇒ a = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(7; 245) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "5",
+      "explain": "a = 245 / (7)² = 245 / 49 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(1; 6) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "7",
+        "-6",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ 6 = a·1 ⇒ a = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-2; 24) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "5",
+        "-6",
+        "6",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ 24 = a·4 ⇒ a = 6."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(3; 54) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "6",
+      "explain": "a = 54 / (3)² = 54 / 9 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(-4; 96) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "-6",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "y₀ = ax₀² ⇒ 96 = a·16 ⇒ a = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(5; 150) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "6",
+        "7",
+        "-6",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ 150 = a·25 ⇒ a = 6."
+    },
+    {
+      "type": "fill",
+      "q": "y = ax² funksiya grafigi A(-6; 216) nuqtadan o'tsa, a koeffitsiyentni toping.",
+      "answer": "6",
+      "explain": "a = 216 / (-6)² = 216 / 36 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² parabola M(7; 294) nuqtadan o'tadi. a ning qiymatini toping.",
+      "options": [
+        "6",
+        "7",
+        "-6",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "y₀ = ax₀² ⇒ 294 = a·49 ⇒ a = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5x² funksiyada x = -6 bo'lganda y nimaga teng?",
+      "options": [
+        "180",
+        "-185",
+        "30",
+        "-180"
+      ],
+      "answer": 3,
+      "explain": "y = -5·(-6)² = -180."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5x² funksiyada x = -5 bo'lganda y nimaga teng?",
+      "options": [
+        "125",
+        "-130",
+        "25",
+        "-125"
+      ],
+      "answer": 3,
+      "explain": "y = -5·(-5)² = -125."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5x² funksiyada x = -4 bo'lganda y nimaga teng?",
+      "options": [
+        "-85",
+        "20",
+        "80",
+        "-80"
+      ],
+      "answer": 3,
+      "explain": "y = -5·(-4)² = -80."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -5x² funksiyaning x = -3 dagi qiymati -45 ga teng.",
+      "answer": true,
+      "explain": "-5 · (-3)² = -45."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5x² funksiyada x = -2 bo'lganda y nimaga teng?",
+      "options": [
+        "-25",
+        "10",
+        "-20",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "y = -5·(-2)² = -20."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5x² funksiyada x = -1 bo'lganda y nimaga teng?",
+      "options": [
+        "-10",
+        "-5",
+        "-7",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "y = -5·(-1)² = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5x² funksiyada x = 1 bo'lganda y nimaga teng?",
+      "options": [
+        "-7",
+        "-5",
+        "5",
+        "-10"
+      ],
+      "answer": 1,
+      "explain": "y = -5·(1)² = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5x² funksiyada x = 2 bo'lganda y nimaga teng?",
+      "options": [
+        "20",
+        "-10",
+        "-20",
+        "-25"
+      ],
+      "answer": 2,
+      "explain": "y = -5·(2)² = -20."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -5x² funksiyaning x = 3 dagi qiymati -45 ga teng.",
+      "answer": true,
+      "explain": "-5 · (3)² = -45."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5x² funksiyada x = 4 bo'lganda y nimaga teng?",
+      "options": [
+        "80",
+        "-20",
+        "-85",
+        "-80"
+      ],
+      "answer": 3,
+      "explain": "y = -5·(4)² = -80."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5x² funksiyada x = 5 bo'lganda y nimaga teng?",
+      "options": [
+        "-130",
+        "-25",
+        "125",
+        "-125"
+      ],
+      "answer": 3,
+      "explain": "y = -5·(5)² = -125."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5x² funksiyada x = 6 bo'lganda y nimaga teng?",
+      "options": [
+        "180",
+        "-185",
+        "-180",
+        "-30"
+      ],
+      "answer": 2,
+      "explain": "y = -5·(6)² = -180."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4x² funksiyada x = -6 bo'lganda y nimaga teng?",
+      "options": [
+        "144",
+        "24",
+        "-148",
+        "-144"
+      ],
+      "answer": 3,
+      "explain": "y = -4·(-6)² = -144."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4x² funksiyada x = -5 bo'lganda y nimaga teng?",
+      "options": [
+        "-104",
+        "100",
+        "20",
+        "-100"
+      ],
+      "answer": 3,
+      "explain": "y = -4·(-5)² = -100."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -4x² funksiyaning x = -4 dagi qiymati -64 ga teng.",
+      "answer": true,
+      "explain": "-4 · (-4)² = -64."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4x² funksiyada x = -3 bo'lganda y nimaga teng?",
+      "options": [
+        "-40",
+        "-36",
+        "12",
+        "36"
+      ],
+      "answer": 1,
+      "explain": "y = -4·(-3)² = -36."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4x² funksiyada x = -2 bo'lganda y nimaga teng?",
+      "options": [
+        "-16",
+        "8",
+        "-20",
+        "16"
+      ],
+      "answer": 0,
+      "explain": "y = -4·(-2)² = -16."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4x² funksiyada x = -1 bo'lganda y nimaga teng?",
+      "options": [
+        "-6",
+        "-8",
+        "4",
+        "-4"
+      ],
+      "answer": 3,
+      "explain": "y = -4·(-1)² = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4x² funksiyada x = 1 bo'lganda y nimaga teng?",
+      "options": [
+        "4",
+        "-6",
+        "-8",
+        "-4"
+      ],
+      "answer": 3,
+      "explain": "y = -4·(1)² = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4x² funksiyada x = 2 bo'lganda y nimaga teng?",
+      "options": [
+        "-20",
+        "-16",
+        "-8",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "y = -4·(2)² = -16."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4x² funksiyada x = 3 bo'lganda y nimaga teng?",
+      "options": [
+        "36",
+        "-40",
+        "-12",
+        "-36"
+      ],
+      "answer": 3,
+      "explain": "y = -4·(3)² = -36."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -4x² funksiyaning x = 4 dagi qiymati -64 ga teng.",
+      "answer": true,
+      "explain": "-4 · (4)² = -64."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4x² funksiyada x = 5 bo'lganda y nimaga teng?",
+      "options": [
+        "-100",
+        "-20",
+        "100",
+        "-104"
+      ],
+      "answer": 0,
+      "explain": "y = -4·(5)² = -100."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4x² funksiyada x = 6 bo'lganda y nimaga teng?",
+      "options": [
+        "144",
+        "-148",
+        "-24",
+        "-144"
+      ],
+      "answer": 3,
+      "explain": "y = -4·(6)² = -144."
+    },
+    {
+      "type": "choice",
+      "q": "y = -3x² funksiyada x = -6 bo'lganda y nimaga teng?",
+      "options": [
+        "18",
+        "-111",
+        "-108",
+        "108"
+      ],
+      "answer": 2,
+      "explain": "y = -3·(-6)² = -108."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -3x² funksiyaning x = -5 dagi qiymati -75 ga teng.",
+      "answer": true,
+      "explain": "-3 · (-5)² = -75."
+    },
+    {
+      "type": "choice",
+      "q": "y = -3x² funksiyada x = -4 bo'lganda y nimaga teng?",
+      "options": [
+        "-51",
+        "48",
+        "12",
+        "-48"
+      ],
+      "answer": 3,
+      "explain": "y = -3·(-4)² = -48."
+    },
+    {
+      "type": "choice",
+      "q": "y = -3x² funksiyada x = -3 bo'lganda y nimaga teng?",
+      "options": [
+        "27",
+        "9",
+        "-30",
+        "-27"
+      ],
+      "answer": 3,
+      "explain": "y = -3·(-3)² = -27."
+    },
+    {
+      "type": "choice",
+      "q": "y = -3x² funksiyada x = -2 bo'lganda y nimaga teng?",
+      "options": [
+        "-12",
+        "-15",
+        "6",
+        "12"
+      ],
+      "answer": 0,
+      "explain": "y = -3·(-2)² = -12."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -3x² funksiyaning x = -1 dagi qiymati -3 ga teng.",
+      "answer": true,
+      "explain": "-3 · (-1)² = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -3x² funksiyaning x = 1 dagi qiymati -3 ga teng.",
+      "answer": true,
+      "explain": "-3 · (1)² = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = -3x² funksiyada x = 2 bo'lganda y nimaga teng?",
+      "options": [
+        "-12",
+        "12",
+        "-15",
+        "-6"
+      ],
+      "answer": 0,
+      "explain": "y = -3·(2)² = -12."
+    },
+    {
+      "type": "choice",
+      "q": "y = -3x² funksiyada x = 3 bo'lganda y nimaga teng?",
+      "options": [
+        "-30",
+        "-9",
+        "27",
+        "-27"
+      ],
+      "answer": 3,
+      "explain": "y = -3·(3)² = -27."
+    },
+    {
+      "type": "choice",
+      "q": "y = -3x² funksiyada x = 4 bo'lganda y nimaga teng?",
+      "options": [
+        "-51",
+        "48",
+        "-12",
+        "-48"
+      ],
+      "answer": 3,
+      "explain": "y = -3·(4)² = -48."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -3x² funksiyaning x = 5 dagi qiymati -75 ga teng.",
+      "answer": true,
+      "explain": "-3 · (5)² = -75."
+    },
+    {
+      "type": "choice",
+      "q": "y = -3x² funksiyada x = 6 bo'lganda y nimaga teng?",
+      "options": [
+        "108",
+        "-111",
+        "-18",
+        "-108"
+      ],
+      "answer": 3,
+      "explain": "y = -3·(6)² = -108."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -2x² funksiyaning x = -6 dagi qiymati -72 ga teng.",
+      "answer": true,
+      "explain": "-2 · (-6)² = -72."
+    },
+    {
+      "type": "choice",
+      "q": "y = -2x² funksiyada x = -5 bo'lganda y nimaga teng?",
+      "options": [
+        "-50",
+        "10",
+        "-52",
+        "50"
+      ],
+      "answer": 0,
+      "explain": "y = -2·(-5)² = -50."
+    },
+    {
+      "type": "choice",
+      "q": "y = -2x² funksiyada x = -4 bo'lganda y nimaga teng?",
+      "options": [
+        "-32",
+        "32",
+        "8",
+        "-34"
+      ],
+      "answer": 0,
+      "explain": "y = -2·(-4)² = -32."
+    },
+    {
+      "type": "choice",
+      "q": "y = -2x² funksiyada x = -3 bo'lganda y nimaga teng?",
+      "options": [
+        "6",
+        "-20",
+        "18",
+        "-18"
+      ],
+      "answer": 3,
+      "explain": "y = -2·(-3)² = -18."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -2x² funksiyaning x = -2 dagi qiymati -8 ga teng.",
+      "answer": true,
+      "explain": "-2 · (-2)² = -8."
+    },
+    {
+      "type": "choice",
+      "q": "y = -2x² funksiyada x = -1 bo'lganda y nimaga teng?",
+      "options": [
+        "-2",
+        "-4",
+        "2",
+        "-3"
+      ],
+      "answer": 0,
+      "explain": "y = -2·(-1)² = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = -2x² funksiyada x = 1 bo'lganda y nimaga teng?",
+      "options": [
+        "-4",
+        "-2",
+        "-3",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "y = -2·(1)² = -2."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -2x² funksiyaning x = 2 dagi qiymati -8 ga teng.",
+      "answer": true,
+      "explain": "-2 · (2)² = -8."
+    },
+    {
+      "type": "choice",
+      "q": "y = -2x² funksiyada x = 3 bo'lganda y nimaga teng?",
+      "options": [
+        "-20",
+        "-6",
+        "-18",
+        "18"
+      ],
+      "answer": 2,
+      "explain": "y = -2·(3)² = -18."
+    },
+    {
+      "type": "choice",
+      "q": "y = -2x² funksiyada x = 4 bo'lganda y nimaga teng?",
+      "options": [
+        "-32",
+        "-34",
+        "-8",
+        "32"
+      ],
+      "answer": 0,
+      "explain": "y = -2·(4)² = -32."
+    },
+    {
+      "type": "choice",
+      "q": "y = -2x² funksiyada x = 5 bo'lganda y nimaga teng?",
+      "options": [
+        "50",
+        "-10",
+        "-52",
+        "-50"
+      ],
+      "answer": 3,
+      "explain": "y = -2·(5)² = -50."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = -2x² funksiyaning x = 6 dagi qiymati -72 ga teng.",
+      "answer": true,
+      "explain": "-2 · (6)² = -72."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² funksiyada x = -6 bo'lganda y nimaga teng?",
+      "options": [
+        "-37",
+        "36",
+        "6",
+        "-36"
+      ],
+      "answer": 3,
+      "explain": "y = -1·(-6)² = -36."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² funksiyada x = -5 bo'lganda y nimaga teng?",
+      "options": [
+        "25",
+        "-25",
+        "-26",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "y = -1·(-5)² = -25."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² funksiyada x = -4 bo'lganda y nimaga teng?",
+      "options": [
+        "4",
+        "-16",
+        "-17",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "y = -1·(-4)² = -16."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −x² funksiyaning x = -3 dagi qiymati -9 ga teng.",
+      "answer": true,
+      "explain": "-1 · (-3)² = -9."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² funksiyada x = -2 bo'lganda y nimaga teng?",
+      "options": [
+        "4",
+        "-5",
+        "2",
+        "-4"
+      ],
+      "answer": 3,
+      "explain": "y = -1·(-2)² = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² funksiyada x = -1 bo'lganda y nimaga teng?",
+      "options": [
+        "1",
+        "-2",
+        "-1",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "y = -1·(-1)² = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² funksiyada x = 1 bo'lganda y nimaga teng?",
+      "options": [
+        "-3",
+        "1",
+        "-1",
+        "-2"
+      ],
+      "answer": 2,
+      "explain": "y = -1·(1)² = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² funksiyada x = 2 bo'lganda y nimaga teng?",
+      "options": [
+        "-2",
+        "-4",
+        "-5",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "y = -1·(2)² = -4."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −x² funksiyaning x = 3 dagi qiymati -9 ga teng.",
+      "answer": true,
+      "explain": "-1 · (3)² = -9."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² funksiyada x = 4 bo'lganda y nimaga teng?",
+      "options": [
+        "-17",
+        "-4",
+        "-16",
+        "16"
+      ],
+      "answer": 2,
+      "explain": "y = -1·(4)² = -16."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² funksiyada x = 5 bo'lganda y nimaga teng?",
+      "options": [
+        "-5",
+        "-25",
+        "25",
+        "-26"
+      ],
+      "answer": 1,
+      "explain": "y = -1·(5)² = -25."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² funksiyada x = 6 bo'lganda y nimaga teng?",
+      "options": [
+        "-36",
+        "-37",
+        "36",
+        "-6"
+      ],
+      "answer": 0,
+      "explain": "y = -1·(6)² = -36."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyada x = -6 bo'lganda y nimaga teng?",
+      "options": [
+        "36",
+        "37",
+        "-36",
+        "-6"
+      ],
+      "answer": 0,
+      "explain": "y = 1·(-6)² = 36."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyada x = -5 bo'lganda y nimaga teng?",
+      "options": [
+        "-5",
+        "26",
+        "-25",
+        "25"
+      ],
+      "answer": 3,
+      "explain": "y = 1·(-5)² = 25."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyada x = -4 bo'lganda y nimaga teng?",
+      "options": [
+        "16",
+        "-16",
+        "17",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "y = 1·(-4)² = 16."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² funksiyaning x = -3 dagi qiymati 9 ga teng.",
+      "answer": true,
+      "explain": "1 · (-3)² = 9."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyada x = -2 bo'lganda y nimaga teng?",
+      "options": [
+        "-4",
+        "4",
+        "-2",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "y = 1·(-2)² = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyada x = -1 bo'lganda y nimaga teng?",
+      "options": [
+        "1",
+        "-1",
+        "0",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "y = 1·(-1)² = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyada x = 1 bo'lganda y nimaga teng?",
+      "options": [
+        "0",
+        "2",
+        "-1",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "y = 1·(1)² = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyada x = 2 bo'lganda y nimaga teng?",
+      "options": [
+        "5",
+        "2",
+        "4",
+        "-4"
+      ],
+      "answer": 2,
+      "explain": "y = 1·(2)² = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² funksiyaning x = 3 dagi qiymati 9 ga teng.",
+      "answer": true,
+      "explain": "1 · (3)² = 9."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyada x = 4 bo'lganda y nimaga teng?",
+      "options": [
+        "17",
+        "-16",
+        "16",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "y = 1·(4)² = 16."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyada x = 5 bo'lganda y nimaga teng?",
+      "options": [
+        "26",
+        "25",
+        "-25",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "y = 1·(5)² = 25."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyada x = 6 bo'lganda y nimaga teng?",
+      "options": [
+        "-36",
+        "37",
+        "6",
+        "36"
+      ],
+      "answer": 3,
+      "explain": "y = 1·(6)² = 36."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 2x² funksiyaning x = -6 dagi qiymati 72 ga teng.",
+      "answer": true,
+      "explain": "2 · (-6)² = 72."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyada x = -5 bo'lganda y nimaga teng?",
+      "options": [
+        "50",
+        "52",
+        "-10",
+        "-50"
+      ],
+      "answer": 0,
+      "explain": "y = 2·(-5)² = 50."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyada x = -4 bo'lganda y nimaga teng?",
+      "options": [
+        "32",
+        "-32",
+        "-8",
+        "34"
+      ],
+      "answer": 0,
+      "explain": "y = 2·(-4)² = 32."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyada x = -3 bo'lganda y nimaga teng?",
+      "options": [
+        "-18",
+        "-6",
+        "18",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "y = 2·(-3)² = 18."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 2x² funksiyaning x = -2 dagi qiymati 8 ga teng.",
+      "answer": true,
+      "explain": "2 · (-2)² = 8."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyada x = -1 bo'lganda y nimaga teng?",
+      "options": [
+        "-2",
+        "0",
+        "2",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "y = 2·(-1)² = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyada x = 1 bo'lganda y nimaga teng?",
+      "options": [
+        "-2",
+        "2",
+        "4",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "y = 2·(1)² = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 2x² funksiyaning x = 2 dagi qiymati 8 ga teng.",
+      "answer": true,
+      "explain": "2 · (2)² = 8."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyada x = 3 bo'lganda y nimaga teng?",
+      "options": [
+        "20",
+        "18",
+        "-18",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "y = 2·(3)² = 18."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyada x = 4 bo'lganda y nimaga teng?",
+      "options": [
+        "-32",
+        "8",
+        "32",
+        "34"
+      ],
+      "answer": 2,
+      "explain": "y = 2·(4)² = 32."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyada x = 5 bo'lganda y nimaga teng?",
+      "options": [
+        "-50",
+        "50",
+        "10",
+        "52"
+      ],
+      "answer": 1,
+      "explain": "y = 2·(5)² = 50."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 2x² funksiyaning x = 6 dagi qiymati 72 ga teng.",
+      "answer": true,
+      "explain": "2 · (6)² = 72."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyada x = -6 bo'lganda y nimaga teng?",
+      "options": [
+        "-18",
+        "-108",
+        "111",
+        "108"
+      ],
+      "answer": 3,
+      "explain": "y = 3·(-6)² = 108."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 3x² funksiyaning x = -5 dagi qiymati 75 ga teng.",
+      "answer": true,
+      "explain": "3 · (-5)² = 75."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyada x = -4 bo'lganda y nimaga teng?",
+      "options": [
+        "48",
+        "-48",
+        "51",
+        "-12"
+      ],
+      "answer": 0,
+      "explain": "y = 3·(-4)² = 48."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyada x = -3 bo'lganda y nimaga teng?",
+      "options": [
+        "27",
+        "-27",
+        "30",
+        "-9"
+      ],
+      "answer": 0,
+      "explain": "y = 3·(-3)² = 27."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyada x = -2 bo'lganda y nimaga teng?",
+      "options": [
+        "-12",
+        "12",
+        "-6",
+        "15"
+      ],
+      "answer": 1,
+      "explain": "y = 3·(-2)² = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 3x² funksiyaning x = -1 dagi qiymati 3 ga teng.",
+      "answer": true,
+      "explain": "3 · (-1)² = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 3x² funksiyaning x = 1 dagi qiymati 3 ga teng.",
+      "answer": true,
+      "explain": "3 · (1)² = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyada x = 2 bo'lganda y nimaga teng?",
+      "options": [
+        "-12",
+        "12",
+        "15",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "y = 3·(2)² = 12."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyada x = 3 bo'lganda y nimaga teng?",
+      "options": [
+        "30",
+        "-27",
+        "27",
+        "9"
+      ],
+      "answer": 2,
+      "explain": "y = 3·(3)² = 27."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyada x = 4 bo'lganda y nimaga teng?",
+      "options": [
+        "12",
+        "51",
+        "-48",
+        "48"
+      ],
+      "answer": 3,
+      "explain": "y = 3·(4)² = 48."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 3x² funksiyaning x = 5 dagi qiymati 75 ga teng.",
+      "answer": true,
+      "explain": "3 · (5)² = 75."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyada x = 6 bo'lganda y nimaga teng?",
+      "options": [
+        "18",
+        "-108",
+        "111",
+        "108"
+      ],
+      "answer": 3,
+      "explain": "y = 3·(6)² = 108."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyada x = -6 bo'lganda y nimaga teng?",
+      "options": [
+        "148",
+        "-144",
+        "-24",
+        "144"
+      ],
+      "answer": 3,
+      "explain": "y = 4·(-6)² = 144."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyada x = -5 bo'lganda y nimaga teng?",
+      "options": [
+        "104",
+        "-20",
+        "-100",
+        "100"
+      ],
+      "answer": 3,
+      "explain": "y = 4·(-5)² = 100."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 4x² funksiyaning x = -4 dagi qiymati 64 ga teng.",
+      "answer": true,
+      "explain": "4 · (-4)² = 64."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyada x = -3 bo'lganda y nimaga teng?",
+      "options": [
+        "-36",
+        "36",
+        "40",
+        "-12"
+      ],
+      "answer": 1,
+      "explain": "y = 4·(-3)² = 36."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyada x = -2 bo'lganda y nimaga teng?",
+      "options": [
+        "-8",
+        "16",
+        "20",
+        "-16"
+      ],
+      "answer": 1,
+      "explain": "y = 4·(-2)² = 16."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyada x = -1 bo'lganda y nimaga teng?",
+      "options": [
+        "-4",
+        "2",
+        "4",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "y = 4·(-1)² = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyada x = 1 bo'lganda y nimaga teng?",
+      "options": [
+        "-4",
+        "8",
+        "4",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "y = 4·(1)² = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyada x = 2 bo'lganda y nimaga teng?",
+      "options": [
+        "8",
+        "16",
+        "20",
+        "-16"
+      ],
+      "answer": 1,
+      "explain": "y = 4·(2)² = 16."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyada x = 3 bo'lganda y nimaga teng?",
+      "options": [
+        "36",
+        "40",
+        "12",
+        "-36"
+      ],
+      "answer": 0,
+      "explain": "y = 4·(3)² = 36."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 4x² funksiyaning x = 4 dagi qiymati 64 ga teng.",
+      "answer": true,
+      "explain": "4 · (4)² = 64."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyada x = 5 bo'lganda y nimaga teng?",
+      "options": [
+        "100",
+        "-100",
+        "104",
+        "20"
+      ],
+      "answer": 0,
+      "explain": "y = 4·(5)² = 100."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyada x = 6 bo'lganda y nimaga teng?",
+      "options": [
+        "144",
+        "148",
+        "-144",
+        "24"
+      ],
+      "answer": 0,
+      "explain": "y = 4·(6)² = 144."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyada x = -6 bo'lganda y nimaga teng?",
+      "options": [
+        "-30",
+        "185",
+        "-180",
+        "180"
+      ],
+      "answer": 3,
+      "explain": "y = 5·(-6)² = 180."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyada x = -5 bo'lganda y nimaga teng?",
+      "options": [
+        "125",
+        "130",
+        "-125",
+        "-25"
+      ],
+      "answer": 0,
+      "explain": "y = 5·(-5)² = 125."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyada x = -4 bo'lganda y nimaga teng?",
+      "options": [
+        "-20",
+        "-80",
+        "80",
+        "85"
+      ],
+      "answer": 2,
+      "explain": "y = 5·(-4)² = 80."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 5x² funksiyaning x = -3 dagi qiymati 45 ga teng.",
+      "answer": true,
+      "explain": "5 · (-3)² = 45."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyada x = -2 bo'lganda y nimaga teng?",
+      "options": [
+        "-20",
+        "25",
+        "20",
+        "-10"
+      ],
+      "answer": 2,
+      "explain": "y = 5·(-2)² = 20."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyada x = -1 bo'lganda y nimaga teng?",
+      "options": [
+        "-5",
+        "3",
+        "10",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "y = 5·(-1)² = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyada x = 1 bo'lganda y nimaga teng?",
+      "options": [
+        "3",
+        "5",
+        "10",
+        "-5"
+      ],
+      "answer": 1,
+      "explain": "y = 5·(1)² = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyada x = 2 bo'lganda y nimaga teng?",
+      "options": [
+        "-20",
+        "20",
+        "10",
+        "25"
+      ],
+      "answer": 1,
+      "explain": "y = 5·(2)² = 20."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 5x² funksiyaning x = 3 dagi qiymati 45 ga teng.",
+      "answer": true,
+      "explain": "5 · (3)² = 45."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyada x = 4 bo'lganda y nimaga teng?",
+      "options": [
+        "-80",
+        "80",
+        "85",
+        "20"
+      ],
+      "answer": 1,
+      "explain": "y = 5·(4)² = 80."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyada x = 5 bo'lganda y nimaga teng?",
+      "options": [
+        "130",
+        "-125",
+        "25",
+        "125"
+      ],
+      "answer": 3,
+      "explain": "y = 5·(5)² = 125."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyada x = 6 bo'lganda y nimaga teng?",
+      "options": [
+        "30",
+        "-180",
+        "180",
+        "185"
+      ],
+      "answer": 2,
+      "explain": "y = 5·(6)² = 180."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyaning [−1; 2] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "1",
+        "4",
+        "9",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 1·2² = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² parabola bilan Ox o'qiga simmetrik parabola tenglamasi y = ax² da a nechaga teng?",
+      "answer": "1",
+      "explain": "y = −1x² ga Ox ga nisbatan simmetrik parabola y = 1x², ya'ni a = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyaning [−2; 3] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "9",
+        "4",
+        "0",
+        "16"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 1·3² = 9."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyaning [−3; 4] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "16",
+        "0",
+        "25",
+        "9"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 1·4² = 16."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyaning [−4; 5] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "16",
+        "0",
+        "36",
+        "25"
+      ],
+      "answer": 3,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 1·5² = 25."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyaning [−5; 6] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "0",
+        "36",
+        "25",
+        "49"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 1·6² = 36."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² funksiyaning [−6; 7] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "36",
+        "0",
+        "64",
+        "49"
+      ],
+      "answer": 3,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 1·7² = 49."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyaning [−1; 2] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "8",
+        "0",
+        "18",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 2·2² = 8."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² parabola bilan Ox o'qiga simmetrik parabola tenglamasi y = ax² da a nechaga teng?",
+      "answer": "2",
+      "explain": "y = −2x² ga Ox ga nisbatan simmetrik parabola y = 2x², ya'ni a = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyaning [−2; 3] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "32",
+        "18",
+        "0",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 2·3² = 18."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyaning [−3; 4] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "18",
+        "32",
+        "50",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 2·4² = 32."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyaning [−4; 5] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "32",
+        "50",
+        "0",
+        "72"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 2·5² = 50."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyaning [−5; 6] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "0",
+        "50",
+        "72",
+        "98"
+      ],
+      "answer": 2,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 2·6² = 72."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² funksiyaning [−6; 7] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "98",
+        "72",
+        "0",
+        "128"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 2·7² = 98."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyaning [−1; 2] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "27",
+        "12",
+        "0",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 3·2² = 12."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² parabola bilan Ox o'qiga simmetrik parabola tenglamasi y = ax² da a nechaga teng?",
+      "answer": "3",
+      "explain": "y = −3x² ga Ox ga nisbatan simmetrik parabola y = 3x², ya'ni a = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyaning [−2; 3] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "12",
+        "27",
+        "48",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 3·3² = 27."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyaning [−3; 4] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "75",
+        "48",
+        "0",
+        "27"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 3·4² = 48."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyaning [−4; 5] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "75",
+        "0",
+        "48",
+        "108"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 3·5² = 75."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyaning [−5; 6] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "147",
+        "0",
+        "108",
+        "75"
+      ],
+      "answer": 2,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 3·6² = 108."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² funksiyaning [−6; 7] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "0",
+        "108",
+        "147",
+        "192"
+      ],
+      "answer": 2,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 3·7² = 147."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyaning [−1; 2] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "16",
+        "0",
+        "4",
+        "36"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 4·2² = 16."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² parabola bilan Ox o'qiga simmetrik parabola tenglamasi y = ax² da a nechaga teng?",
+      "answer": "4",
+      "explain": "y = −4x² ga Ox ga nisbatan simmetrik parabola y = 4x², ya'ni a = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyaning [−2; 3] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "16",
+        "64",
+        "36",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 4·3² = 36."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyaning [−3; 4] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "36",
+        "64",
+        "100",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 4·4² = 64."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyaning [−4; 5] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "100",
+        "144",
+        "0",
+        "64"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 4·5² = 100."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyaning [−5; 6] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "100",
+        "196",
+        "0",
+        "144"
+      ],
+      "answer": 3,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 4·6² = 144."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4x² funksiyaning [−6; 7] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "0",
+        "144",
+        "256",
+        "196"
+      ],
+      "answer": 3,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 4·7² = 196."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyaning [−1; 2] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "0",
+        "20",
+        "5",
+        "45"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 5·2² = 20."
+    },
+    {
+      "type": "fill",
+      "q": "y = −5x² parabola bilan Ox o'qiga simmetrik parabola tenglamasi y = ax² da a nechaga teng?",
+      "answer": "5",
+      "explain": "y = −5x² ga Ox ga nisbatan simmetrik parabola y = 5x², ya'ni a = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyaning [−2; 3] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "45",
+        "20",
+        "80",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 5·3² = 45."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyaning [−3; 4] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "45",
+        "125",
+        "0",
+        "80"
+      ],
+      "answer": 3,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 5·4² = 80."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyaning [−4; 5] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "0",
+        "125",
+        "180",
+        "80"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 5·5² = 125."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyaning [−5; 6] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "125",
+        "180",
+        "245",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 5·6² = 180."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5x² funksiyaning [−6; 7] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "245",
+        "0",
+        "320",
+        "180"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 5·7² = 245."
+    },
+    {
+      "type": "choice",
+      "q": "y = 6x² funksiyaning [−1; 2] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "24",
+        "54",
+        "6",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 6·2² = 24."
+    },
+    {
+      "type": "fill",
+      "q": "y = −6x² parabola bilan Ox o'qiga simmetrik parabola tenglamasi y = ax² da a nechaga teng?",
+      "answer": "6",
+      "explain": "y = −6x² ga Ox ga nisbatan simmetrik parabola y = 6x², ya'ni a = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = 6x² funksiyaning [−2; 3] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "0",
+        "96",
+        "24",
+        "54"
+      ],
+      "answer": 3,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 6·3² = 54."
+    },
+    {
+      "type": "choice",
+      "q": "y = 6x² funksiyaning [−3; 4] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "96",
+        "54",
+        "150",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 6·4² = 96."
+    },
+    {
+      "type": "choice",
+      "q": "y = 6x² funksiyaning [−4; 5] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "150",
+        "96",
+        "0",
+        "216"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 6·5² = 150."
+    },
+    {
+      "type": "choice",
+      "q": "y = 6x² funksiyaning [−5; 6] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "216",
+        "150",
+        "0",
+        "294"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 6·6² = 216."
+    },
+    {
+      "type": "choice",
+      "q": "y = 6x² funksiyaning [−6; 7] kesmadagi eng katta qiymatini toping.",
+      "options": [
+        "294",
+        "384",
+        "0",
+        "216"
+      ],
+      "answer": 0,
+      "explain": "a > 0 da eng katta qiymat |x| eng katta nuqtada: 6·7² = 294."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/2)x² funksiyada x = 2 bo'lganda y qiymatini toping.",
+      "options": [
+        "2",
+        "1",
+        "4",
+        "-2"
+      ],
+      "answer": 0,
+      "explain": "y = (1/2)·2² = (1/2)·4 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/2)x² funksiyada x = 4 bo'lganda y qiymatini toping.",
+      "options": [
+        "8",
+        "10",
+        "-8",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "y = (1/2)·4² = (1/2)·16 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/2)x² funksiyada x = 6 bo'lganda y qiymatini toping.",
+      "options": [
+        "18",
+        "-18",
+        "3",
+        "20"
+      ],
+      "answer": 0,
+      "explain": "y = (1/2)·6² = (1/2)·36 = 18."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/2)x² funksiyada x = 8 bo'lganda y qiymatini toping.",
+      "options": [
+        "-32",
+        "34",
+        "4",
+        "32"
+      ],
+      "answer": 3,
+      "explain": "y = (1/2)·8² = (1/2)·64 = 32."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/2)x² funksiyada x = 10 bo'lganda y qiymatini toping.",
+      "options": [
+        "5",
+        "52",
+        "-50",
+        "50"
+      ],
+      "answer": 3,
+      "explain": "y = (1/2)·10² = (1/2)·100 = 50."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/3)x² funksiyada x = 3 bo'lganda y qiymatini toping.",
+      "options": [
+        "6",
+        "1",
+        "3",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "y = (1/3)·3² = (1/3)·9 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/3)x² funksiyada x = 6 bo'lganda y qiymatini toping.",
+      "options": [
+        "12",
+        "-12",
+        "15",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "y = (1/3)·6² = (1/3)·36 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/3)x² funksiyada x = 9 bo'lganda y qiymatini toping.",
+      "options": [
+        "-27",
+        "27",
+        "30",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "y = (1/3)·9² = (1/3)·81 = 27."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/3)x² funksiyada x = 12 bo'lganda y qiymatini toping.",
+      "options": [
+        "48",
+        "51",
+        "-48",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "y = (1/3)·12² = (1/3)·144 = 48."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/3)x² funksiyada x = 15 bo'lganda y qiymatini toping.",
+      "options": [
+        "5",
+        "78",
+        "-75",
+        "75"
+      ],
+      "answer": 3,
+      "explain": "y = (1/3)·15² = (1/3)·225 = 75."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/4)x² funksiyada x = 4 bo'lganda y qiymatini toping.",
+      "options": [
+        "1",
+        "-4",
+        "8",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "y = (1/4)·4² = (1/4)·16 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/4)x² funksiyada x = 8 bo'lganda y qiymatini toping.",
+      "options": [
+        "16",
+        "2",
+        "20",
+        "-16"
+      ],
+      "answer": 0,
+      "explain": "y = (1/4)·8² = (1/4)·64 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/4)x² funksiyada x = 12 bo'lganda y qiymatini toping.",
+      "options": [
+        "3",
+        "40",
+        "36",
+        "-36"
+      ],
+      "answer": 2,
+      "explain": "y = (1/4)·12² = (1/4)·144 = 36."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/4)x² funksiyada x = 16 bo'lganda y qiymatini toping.",
+      "options": [
+        "68",
+        "4",
+        "64",
+        "-64"
+      ],
+      "answer": 2,
+      "explain": "y = (1/4)·16² = (1/4)·256 = 64."
+    },
+    {
+      "type": "choice",
+      "q": "y = (1/4)x² funksiyada x = 20 bo'lganda y qiymatini toping.",
+      "options": [
+        "-100",
+        "104",
+        "100",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "y = (1/4)·20² = (1/4)·400 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "y = (2/3)x² funksiyada x = 3 bo'lganda y qiymatini toping.",
+      "options": [
+        "2",
+        "6",
+        "-6",
+        "9"
+      ],
+      "answer": 1,
+      "explain": "y = (2/3)·3² = (2/3)·9 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = (2/3)x² funksiyada x = 6 bo'lganda y qiymatini toping.",
+      "options": [
+        "-24",
+        "24",
+        "4",
+        "27"
+      ],
+      "answer": 1,
+      "explain": "y = (2/3)·6² = (2/3)·36 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "y = (2/3)x² funksiyada x = 9 bo'lganda y qiymatini toping.",
+      "options": [
+        "6",
+        "57",
+        "54",
+        "-54"
+      ],
+      "answer": 2,
+      "explain": "y = (2/3)·9² = (2/3)·81 = 54."
+    },
+    {
+      "type": "choice",
+      "q": "y = (2/3)x² funksiyada x = 12 bo'lganda y qiymatini toping.",
+      "options": [
+        "99",
+        "8",
+        "-96",
+        "96"
+      ],
+      "answer": 3,
+      "explain": "y = (2/3)·12² = (2/3)·144 = 96."
+    },
+    {
+      "type": "choice",
+      "q": "y = (2/3)x² funksiyada x = 15 bo'lganda y qiymatini toping.",
+      "options": [
+        "-150",
+        "10",
+        "153",
+        "150"
+      ],
+      "answer": 3,
+      "explain": "y = (2/3)·15² = (2/3)·225 = 150."
+    },
+    {
+      "type": "choice",
+      "q": "y = (3/4)x² funksiyada x = 4 bo'lganda y qiymatini toping.",
+      "options": [
+        "12",
+        "3",
+        "16",
+        "-12"
+      ],
+      "answer": 0,
+      "explain": "y = (3/4)·4² = (3/4)·16 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "y = (3/4)x² funksiyada x = 8 bo'lganda y qiymatini toping.",
+      "options": [
+        "48",
+        "-48",
+        "52",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "y = (3/4)·8² = (3/4)·64 = 48."
+    },
+    {
+      "type": "choice",
+      "q": "y = (3/4)x² funksiyada x = 12 bo'lganda y qiymatini toping.",
+      "options": [
+        "108",
+        "9",
+        "-108",
+        "112"
+      ],
+      "answer": 0,
+      "explain": "y = (3/4)·12² = (3/4)·144 = 108."
+    },
+    {
+      "type": "choice",
+      "q": "y = (3/4)x² funksiyada x = 16 bo'lganda y qiymatini toping.",
+      "options": [
+        "196",
+        "12",
+        "-192",
+        "192"
+      ],
+      "answer": 3,
+      "explain": "y = (3/4)·16² = (3/4)·256 = 192."
+    },
+    {
+      "type": "choice",
+      "q": "y = (3/4)x² funksiyada x = 20 bo'lganda y qiymatini toping.",
+      "options": [
+        "15",
+        "-300",
+        "300",
+        "304"
+      ],
+      "answer": 2,
+      "explain": "y = (3/4)·20² = (3/4)·400 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-1/2)x² funksiyada x = 2 bo'lganda y qiymatini toping.",
+      "options": [
+        "0",
+        "-2",
+        "-1",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "y = (-1/2)·2² = (-1/2)·4 = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-1/2)x² funksiyada x = 4 bo'lganda y qiymatini toping.",
+      "options": [
+        "-2",
+        "8",
+        "-6",
+        "-8"
+      ],
+      "answer": 3,
+      "explain": "y = (-1/2)·4² = (-1/2)·16 = -8."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-1/2)x² funksiyada x = 6 bo'lganda y qiymatini toping.",
+      "options": [
+        "-3",
+        "-16",
+        "18",
+        "-18"
+      ],
+      "answer": 3,
+      "explain": "y = (-1/2)·6² = (-1/2)·36 = -18."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-1/2)x² funksiyada x = 8 bo'lganda y qiymatini toping.",
+      "options": [
+        "-30",
+        "-32",
+        "-4",
+        "32"
+      ],
+      "answer": 1,
+      "explain": "y = (-1/2)·8² = (-1/2)·64 = -32."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-1/2)x² funksiyada x = 10 bo'lganda y qiymatini toping.",
+      "options": [
+        "50",
+        "-48",
+        "-5",
+        "-50"
+      ],
+      "answer": 3,
+      "explain": "y = (-1/2)·10² = (-1/2)·100 = -50."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-1/3)x² funksiyada x = 3 bo'lganda y qiymatini toping.",
+      "options": [
+        "3",
+        "0",
+        "-1",
+        "-3"
+      ],
+      "answer": 3,
+      "explain": "y = (-1/3)·3² = (-1/3)·9 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-1/3)x² funksiyada x = 6 bo'lganda y qiymatini toping.",
+      "options": [
+        "-2",
+        "12",
+        "-9",
+        "-12"
+      ],
+      "answer": 3,
+      "explain": "y = (-1/3)·6² = (-1/3)·36 = -12."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-1/3)x² funksiyada x = 9 bo'lganda y qiymatini toping.",
+      "options": [
+        "27",
+        "-24",
+        "-27",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "y = (-1/3)·9² = (-1/3)·81 = -27."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-1/3)x² funksiyada x = 12 bo'lganda y qiymatini toping.",
+      "options": [
+        "-4",
+        "48",
+        "-48",
+        "-45"
+      ],
+      "answer": 2,
+      "explain": "y = (-1/3)·12² = (-1/3)·144 = -48."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-1/3)x² funksiyada x = 15 bo'lganda y qiymatini toping.",
+      "options": [
+        "75",
+        "-75",
+        "-5",
+        "-72"
+      ],
+      "answer": 1,
+      "explain": "y = (-1/3)·15² = (-1/3)·225 = -75."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-2/3)x² funksiyada x = 3 bo'lganda y qiymatini toping.",
+      "options": [
+        "-2",
+        "6",
+        "-3",
+        "-6"
+      ],
+      "answer": 3,
+      "explain": "y = (-2/3)·3² = (-2/3)·9 = -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-2/3)x² funksiyada x = 6 bo'lganda y qiymatini toping.",
+      "options": [
+        "24",
+        "-4",
+        "-24",
+        "-21"
+      ],
+      "answer": 2,
+      "explain": "y = (-2/3)·6² = (-2/3)·36 = -24."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-2/3)x² funksiyada x = 9 bo'lganda y qiymatini toping.",
+      "options": [
+        "-6",
+        "-54",
+        "54",
+        "-51"
+      ],
+      "answer": 1,
+      "explain": "y = (-2/3)·9² = (-2/3)·81 = -54."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-2/3)x² funksiyada x = 12 bo'lganda y qiymatini toping.",
+      "options": [
+        "-96",
+        "-93",
+        "-8",
+        "96"
+      ],
+      "answer": 0,
+      "explain": "y = (-2/3)·12² = (-2/3)·144 = -96."
+    },
+    {
+      "type": "choice",
+      "q": "y = (-2/3)x² funksiyada x = 15 bo'lganda y qiymatini toping.",
+      "options": [
+        "-150",
+        "-10",
+        "-147",
+        "150"
+      ],
+      "answer": 0,
+      "explain": "y = (-2/3)·15² = (-2/3)·225 = -150."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 2 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "4",
+      "explain": "s = (2·2²)/2 = 4 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 3 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "9",
+      "explain": "s = (2·3²)/2 = 9 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 4 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "16",
+      "explain": "s = (2·4²)/2 = 16 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 5 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "25",
+      "explain": "s = (2·5²)/2 = 25 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 6 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "36",
+      "explain": "s = (2·6²)/2 = 36 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 7 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "49",
+      "explain": "s = (2·7²)/2 = 49 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 8 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "64",
+      "explain": "s = (2·8²)/2 = 64 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 9 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "81",
+      "explain": "s = (2·9²)/2 = 81 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 10 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "100",
+      "explain": "s = (2·10²)/2 = 100 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 11 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "121",
+      "explain": "s = (2·11²)/2 = 121 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 2 m/s² tezlanish bilan harakatlanmoqda. t = 12 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "144",
+      "explain": "s = (2·12²)/2 = 144 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 2 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "8",
+      "explain": "s = (4·2²)/2 = 8 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 3 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "18",
+      "explain": "s = (4·3²)/2 = 18 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 4 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "32",
+      "explain": "s = (4·4²)/2 = 32 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 5 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "50",
+      "explain": "s = (4·5²)/2 = 50 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 6 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "72",
+      "explain": "s = (4·6²)/2 = 72 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 7 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "98",
+      "explain": "s = (4·7²)/2 = 98 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 8 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "128",
+      "explain": "s = (4·8²)/2 = 128 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 9 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "162",
+      "explain": "s = (4·9²)/2 = 162 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 10 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "200",
+      "explain": "s = (4·10²)/2 = 200 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 11 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "242",
+      "explain": "s = (4·11²)/2 = 242 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 4 m/s² tezlanish bilan harakatlanmoqda. t = 12 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "288",
+      "explain": "s = (4·12²)/2 = 288 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 2 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "12",
+      "explain": "s = (6·2²)/2 = 12 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 3 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "27",
+      "explain": "s = (6·3²)/2 = 27 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 4 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "48",
+      "explain": "s = (6·4²)/2 = 48 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 5 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "75",
+      "explain": "s = (6·5²)/2 = 75 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 6 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "108",
+      "explain": "s = (6·6²)/2 = 108 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 7 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "147",
+      "explain": "s = (6·7²)/2 = 147 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 8 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "192",
+      "explain": "s = (6·8²)/2 = 192 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 9 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "243",
+      "explain": "s = (6·9²)/2 = 243 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 10 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "300",
+      "explain": "s = (6·10²)/2 = 300 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 11 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "363",
+      "explain": "s = (6·11²)/2 = 363 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 6 m/s² tezlanish bilan harakatlanmoqda. t = 12 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "432",
+      "explain": "s = (6·12²)/2 = 432 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 2 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "16",
+      "explain": "s = (8·2²)/2 = 16 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 3 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "36",
+      "explain": "s = (8·3²)/2 = 36 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 4 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "64",
+      "explain": "s = (8·4²)/2 = 64 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 5 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "100",
+      "explain": "s = (8·5²)/2 = 100 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 6 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "144",
+      "explain": "s = (8·6²)/2 = 144 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 7 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "196",
+      "explain": "s = (8·7²)/2 = 196 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 8 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "256",
+      "explain": "s = (8·8²)/2 = 256 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 9 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "324",
+      "explain": "s = (8·9²)/2 = 324 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 10 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "400",
+      "explain": "s = (8·10²)/2 = 400 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 11 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "484",
+      "explain": "s = (8·11²)/2 = 484 m."
+    },
+    {
+      "type": "fill",
+      "q": "Jism s = at²/2 qonuni bo'yicha a = 8 m/s² tezlanish bilan harakatlanmoqda. t = 12 s da bosib o'tgan yo'lini (m) toping.",
+      "answer": "576",
+      "explain": "s = (8·12²)/2 = 576 m."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 4 to'g'ri chiziq kesishish nuqtalari orasidagi masofani toping.",
+      "options": [
+        "6",
+        "2",
+        "4",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "Kesishish nuqtalari (−2; 4) va (2; 4), oraliq masofa 2 − (−2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 9 to'g'ri chiziq kesishish nuqtalari orasidagi masofani toping.",
+      "options": [
+        "9",
+        "8",
+        "6",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "Kesishish nuqtalari (−3; 9) va (3; 9), oraliq masofa 3 − (−3) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 16 to'g'ri chiziq kesishish nuqtalari orasidagi masofani toping.",
+      "options": [
+        "4",
+        "8",
+        "10",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "Kesishish nuqtalari (−4; 16) va (4; 16), oraliq masofa 4 − (−4) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 25 to'g'ri chiziq kesishish nuqtalari orasidagi masofani toping.",
+      "options": [
+        "5",
+        "10",
+        "12",
+        "25"
+      ],
+      "answer": 1,
+      "explain": "Kesishish nuqtalari (−5; 25) va (5; 25), oraliq masofa 5 − (−5) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 36 to'g'ri chiziq kesishish nuqtalari orasidagi masofani toping.",
+      "options": [
+        "14",
+        "12",
+        "36",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "Kesishish nuqtalari (−6; 36) va (6; 36), oraliq masofa 6 − (−6) = 12."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Chozilish",
+      "|a| > 1 da grafikning Oy o'qiga yaqinlashishi"
+    ],
+    [
+      "Siqilish",
+      "|a| < 1 da grafikning Ox o'qiga yaqinlashishi"
+    ],
+    [
+      "Koordinata",
+      "A(x₀; y₀) orqali a = y₀/x₀² topish"
+    ],
+    [
+      "Simmetrik",
+      "y = ax² va y = −ax² grafiklari Ox ga nisbatan"
+    ],
+    [
+      "a > 0 holi",
+      "Parabola shoxlari yuqoriga yo'nalgan"
+    ],
+    [
+      "a < 0 holi",
+      "Parabola shoxlari pastga yo'nalgan"
+    ],
+    [
+      "Qiymatlar sohasi a>0",
+      "E(y) = [0; +∞)"
+    ],
+    [
+      "Qiymatlar sohasi a<0",
+      "E(y) = (−∞; 0]"
+    ],
+    [
+      "Eng katta qiymat a<0",
+      "x = 0 da y_max = 0 ga erishiladi"
+    ],
+    [
+      "Eng kichik qiymat a>0",
+      "x = 0 da y_min = 0 ga erishiladi"
+    ],
+    [
+      "y = 2x²",
+      "y = x² ga nisbatan tikroq parabola"
+    ],
+    [
+      "y = 0,5x²",
+      "y = x² ga nisbatan yoyiqroq parabola"
+    ],
+    [
+      "y = −3x²",
+      "Shoxlari pastga qaragan parabola"
+    ],
+    [
+      "Ox ga simmetriya",
+      "y = ax² va y = −ax² juftligi"
+    ]
+  ]
+}

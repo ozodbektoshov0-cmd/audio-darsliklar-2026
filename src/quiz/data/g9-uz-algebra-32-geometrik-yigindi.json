@@ -1,0 +1,3202 @@
+{
+  "id": "g9-uz-algebra-32-geometrik-yigindi",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "32-§. Geometrik progressiya dastlabki n ta hadining yig'indisi",
+  "title": "32-§. Geometrik progressiya dastlabki n ta hadining yig'indisi",
+  "source": "Algebra 9-sinf (2019), IV bob, 32-§, 167–171-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "q ≠ 1 bo'lgan geometrik progressiyaning dastlabki n ta hadi yig'indisi formulasi qaysi?",
+      "options": [
+        "Sₙ = b₁(qⁿ + 1) / (q + 1)",
+        "Sₙ = b₁ · qⁿ⁻¹",
+        "Sₙ = b₁(qⁿ − 1) / (q − 1)",
+        "Sₙ = (b₁ + bₙ)n / 2"
+      ],
+      "answer": 2,
+      "explain": "q ≠ 1 da Sₙ = b₁(qⁿ − 1)/(q − 1) = b₁(1 − qⁿ)/(1 − q)."
+    },
+    {
+      "type": "choice",
+      "q": "Geometrik progressiyada q = 1 bo'lganda Sₙ yig'indi nimaga teng?",
+      "options": [
+        "0",
+        "n · b₁",
+        "b₁",
+        "b₁ⁿ"
+      ],
+      "answer": 1,
+      "explain": "Barcha n ta had b₁ ga teng bo'lgani uchun Sₙ = n · b₁."
+    },
+    {
+      "type": "choice",
+      "q": "1 + 2 + 4 + 8 + ... + 2⁹ yig'indining qiymati nechaga teng?",
+      "options": [
+        "2047",
+        "1023",
+        "511",
+        "1024"
+      ],
+      "answer": 1,
+      "explain": "(2¹⁰ − 1)/(2 − 1) = 1024 − 1 = 1023."
+    },
+    {
+      "type": "truefalse",
+      "q": "q = −1 va b₁ = 5 bo'lgan geometrik progressiyaning dastlabki 100 ta hadining yig'indisi 0 ga teng.",
+      "answer": true,
+      "explain": "Juft sondagi qarama-qarshi hadlar jufti (5 − 5) = 0 bo'lib qisqaradi."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 1, q = 2. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "7",
+      "explain": "S_3 = 1·((2)^3 − 1)/(2 − 1) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1, q = 2 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "15",
+        "16",
+        "-15",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "S_4 = 1·((2)^4 − 1)/(2 − 1) = 15."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = 2 geometrik progressiya dastlabki 5 hadining yig'indisi 31 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 31."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 1, q = 2. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "63",
+      "explain": "S_6 = 1·((2)^6 − 1)/(2 − 1) = 63."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1, q = 3 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "13",
+        "-13",
+        "14",
+        "12"
+      ],
+      "answer": 0,
+      "explain": "S_3 = 1·((3)^3 − 1)/(3 − 1) = 13."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = 3 geometrik progressiya dastlabki 4 hadining yig'indisi 40 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 40."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 1, q = 3. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "121",
+      "explain": "S_5 = 1·((3)^5 − 1)/(3 − 1) = 121."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1, q = 3 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "364",
+        "365",
+        "363",
+        "-364"
+      ],
+      "answer": 0,
+      "explain": "S_6 = 1·((3)^6 − 1)/(3 − 1) = 364."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = 4 geometrik progressiya dastlabki 3 hadining yig'indisi 21 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 21."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 1, q = 4. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "85",
+      "explain": "S_4 = 1·((4)^4 − 1)/(4 − 1) = 85."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1, q = 4 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "340",
+        "-341",
+        "341",
+        "342"
+      ],
+      "answer": 2,
+      "explain": "S_5 = 1·((4)^5 − 1)/(4 − 1) = 341."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = 4 geometrik progressiya dastlabki 6 hadining yig'indisi 1365 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = 1365."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 1, q = -2. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "3",
+      "explain": "S_3 = 1·((-2)^3 − 1)/(-2 − 1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1, q = -2 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "5",
+        "-5",
+        "-6",
+        "-4"
+      ],
+      "answer": 1,
+      "explain": "S_4 = 1·((-2)^4 − 1)/(-2 − 1) = -5."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = -2 geometrik progressiya dastlabki 5 hadining yig'indisi 11 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 11."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 1, q = -2. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "-21",
+      "explain": "S_6 = 1·((-2)^6 − 1)/(-2 − 1) = -21."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1, q = -3 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "6",
+        "-7",
+        "7",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "S_3 = 1·((-3)^3 − 1)/(-3 − 1) = 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = -3 geometrik progressiya dastlabki 4 hadining yig'indisi -20 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = -20."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 1, q = -3. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "61",
+      "explain": "S_5 = 1·((-3)^5 − 1)/(-3 − 1) = 61."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1, q = -3 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "-182",
+        "-183",
+        "182",
+        "-181"
+      ],
+      "answer": 0,
+      "explain": "S_6 = 1·((-3)^6 − 1)/(-3 − 1) = -182."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 1, q = 5. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "31",
+      "explain": "S_3 = 1·((5)^3 − 1)/(5 − 1) = 31."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1, q = 5 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "-156",
+        "156",
+        "157",
+        "155"
+      ],
+      "answer": 1,
+      "explain": "S_4 = 1·((5)^4 − 1)/(5 − 1) = 156."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = 5 geometrik progressiya dastlabki 5 hadining yig'indisi 781 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 781."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 2, q = 2 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "-14",
+        "14",
+        "13",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "S_3 = 2·((2)^3 − 1)/(2 − 1) = 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = 2 geometrik progressiya dastlabki 4 hadining yig'indisi 30 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 30."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 2, q = 2. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "62",
+      "explain": "S_5 = 2·((2)^5 − 1)/(2 − 1) = 62."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 2, q = 2 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "-126",
+        "128",
+        "126",
+        "125"
+      ],
+      "answer": 2,
+      "explain": "S_6 = 2·((2)^6 − 1)/(2 − 1) = 126."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = 3 geometrik progressiya dastlabki 3 hadining yig'indisi 26 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 26."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 2, q = 3. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "80",
+      "explain": "S_4 = 2·((3)^4 − 1)/(3 − 1) = 80."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 2, q = 3 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "244",
+        "242",
+        "241",
+        "-242"
+      ],
+      "answer": 1,
+      "explain": "S_5 = 2·((3)^5 − 1)/(3 − 1) = 242."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = 3 geometrik progressiya dastlabki 6 hadining yig'indisi 728 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = 728."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 2, q = 4. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "42",
+      "explain": "S_3 = 2·((4)^3 − 1)/(4 − 1) = 42."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 2, q = 4 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "170",
+        "169",
+        "-170",
+        "172"
+      ],
+      "answer": 0,
+      "explain": "S_4 = 2·((4)^4 − 1)/(4 − 1) = 170."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = 4 geometrik progressiya dastlabki 5 hadining yig'indisi 682 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 682."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 2, q = 4. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "2730",
+      "explain": "S_6 = 2·((4)^6 − 1)/(4 − 1) = 2730."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 2, q = -2 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "-6",
+        "8",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "S_3 = 2·((-2)^3 − 1)/(-2 − 1) = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = -2 geometrik progressiya dastlabki 4 hadining yig'indisi -10 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = -10."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 2, q = -2. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "22",
+      "explain": "S_5 = 2·((-2)^5 − 1)/(-2 − 1) = 22."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 2, q = -2 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "-40",
+        "-43",
+        "42",
+        "-42"
+      ],
+      "answer": 3,
+      "explain": "S_6 = 2·((-2)^6 − 1)/(-2 − 1) = -42."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = -3 geometrik progressiya dastlabki 3 hadining yig'indisi 14 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 14."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 2, q = -3. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "-40",
+      "explain": "S_4 = 2·((-3)^4 − 1)/(-3 − 1) = -40."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 2, q = -3 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "124",
+        "122",
+        "-122",
+        "121"
+      ],
+      "answer": 1,
+      "explain": "S_5 = 2·((-3)^5 − 1)/(-3 − 1) = 122."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = -3 geometrik progressiya dastlabki 6 hadining yig'indisi -364 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = -364."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 2, q = 5 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "61",
+        "-62",
+        "64",
+        "62"
+      ],
+      "answer": 3,
+      "explain": "S_3 = 2·((5)^3 − 1)/(5 − 1) = 62."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = 5 geometrik progressiya dastlabki 4 hadining yig'indisi 312 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 312."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 2, q = 5. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "1562",
+      "explain": "S_5 = 2·((5)^5 − 1)/(5 − 1) = 1562."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = 2 geometrik progressiya dastlabki 3 hadining yig'indisi 21 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 21."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 3, q = 2. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "45",
+      "explain": "S_4 = 3·((2)^4 − 1)/(2 − 1) = 45."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 3, q = 2 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "96",
+        "93",
+        "92",
+        "-93"
+      ],
+      "answer": 1,
+      "explain": "S_5 = 3·((2)^5 − 1)/(2 − 1) = 93."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = 2 geometrik progressiya dastlabki 6 hadining yig'indisi 189 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = 189."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 3, q = 3. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "39",
+      "explain": "S_3 = 3·((3)^3 − 1)/(3 − 1) = 39."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 3, q = 3 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "119",
+        "-120",
+        "120",
+        "123"
+      ],
+      "answer": 2,
+      "explain": "S_4 = 3·((3)^4 − 1)/(3 − 1) = 120."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = 3 geometrik progressiya dastlabki 5 hadining yig'indisi 363 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 363."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 3, q = 3. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "1092",
+      "explain": "S_6 = 3·((3)^6 − 1)/(3 − 1) = 1092."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 3, q = 4 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "66",
+        "62",
+        "-63",
+        "63"
+      ],
+      "answer": 3,
+      "explain": "S_3 = 3·((4)^3 − 1)/(4 − 1) = 63."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = 4 geometrik progressiya dastlabki 4 hadining yig'indisi 255 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 255."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 3, q = 4. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "1023",
+      "explain": "S_5 = 3·((4)^5 − 1)/(4 − 1) = 1023."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 3, q = 4 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "-4095",
+        "4098",
+        "4095",
+        "4094"
+      ],
+      "answer": 2,
+      "explain": "S_6 = 3·((4)^6 − 1)/(4 − 1) = 4095."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = -2 geometrik progressiya dastlabki 3 hadining yig'indisi 9 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 9."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 3, q = -2. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "-15",
+      "explain": "S_4 = 3·((-2)^4 − 1)/(-2 − 1) = -15."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 3, q = -2 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "32",
+        "-33",
+        "36",
+        "33"
+      ],
+      "answer": 3,
+      "explain": "S_5 = 3·((-2)^5 − 1)/(-2 − 1) = 33."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = -2 geometrik progressiya dastlabki 6 hadining yig'indisi -63 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = -63."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 3, q = -3. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "21",
+      "explain": "S_3 = 3·((-3)^3 − 1)/(-3 − 1) = 21."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 3, q = -3 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "60",
+        "-61",
+        "-57",
+        "-60"
+      ],
+      "answer": 3,
+      "explain": "S_4 = 3·((-3)^4 − 1)/(-3 − 1) = -60."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = -3 geometrik progressiya dastlabki 5 hadining yig'indisi 183 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 183."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 3, q = -3. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "-546",
+      "explain": "S_6 = 3·((-3)^6 − 1)/(-3 − 1) = -546."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = 5 geometrik progressiya dastlabki 3 hadining yig'indisi 93 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 93."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 3, q = 5. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "468",
+      "explain": "S_4 = 3·((5)^4 − 1)/(5 − 1) = 468."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 3, q = 5 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "2346",
+        "2342",
+        "2343",
+        "-2343"
+      ],
+      "answer": 2,
+      "explain": "S_5 = 3·((5)^5 − 1)/(5 − 1) = 2343."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 4, q = 2. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "28",
+      "explain": "S_3 = 4·((2)^3 − 1)/(2 − 1) = 28."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 4, q = 2 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "59",
+        "60",
+        "-60",
+        "64"
+      ],
+      "answer": 1,
+      "explain": "S_4 = 4·((2)^4 − 1)/(2 − 1) = 60."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = 2 geometrik progressiya dastlabki 5 hadining yig'indisi 124 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 124."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 4, q = 2. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "252",
+      "explain": "S_6 = 4·((2)^6 − 1)/(2 − 1) = 252."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 4, q = 3 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "56",
+        "52",
+        "-52",
+        "51"
+      ],
+      "answer": 1,
+      "explain": "S_3 = 4·((3)^3 − 1)/(3 − 1) = 52."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = 3 geometrik progressiya dastlabki 4 hadining yig'indisi 160 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 160."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 4, q = 3. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "484",
+      "explain": "S_5 = 4·((3)^5 − 1)/(3 − 1) = 484."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 4, q = 3 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "1455",
+        "1460",
+        "1456",
+        "-1456"
+      ],
+      "answer": 2,
+      "explain": "S_6 = 4·((3)^6 − 1)/(3 − 1) = 1456."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = 4 geometrik progressiya dastlabki 3 hadining yig'indisi 84 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 84."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 4, q = 4. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "340",
+      "explain": "S_4 = 4·((4)^4 − 1)/(4 − 1) = 340."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 4, q = 4 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "1364",
+        "-1364",
+        "1363",
+        "1368"
+      ],
+      "answer": 0,
+      "explain": "S_5 = 4·((4)^5 − 1)/(4 − 1) = 1364."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = 4 geometrik progressiya dastlabki 6 hadining yig'indisi 5460 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = 5460."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 4, q = -2. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "12",
+      "explain": "S_3 = 4·((-2)^3 − 1)/(-2 − 1) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 4, q = -2 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "20",
+        "-16",
+        "-20",
+        "-21"
+      ],
+      "answer": 2,
+      "explain": "S_4 = 4·((-2)^4 − 1)/(-2 − 1) = -20."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = -2 geometrik progressiya dastlabki 5 hadining yig'indisi 44 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 44."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 4, q = -2. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "-84",
+      "explain": "S_6 = 4·((-2)^6 − 1)/(-2 − 1) = -84."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 4, q = -3 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "27",
+        "28",
+        "32",
+        "-28"
+      ],
+      "answer": 1,
+      "explain": "S_3 = 4·((-3)^3 − 1)/(-3 − 1) = 28."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = -3 geometrik progressiya dastlabki 4 hadining yig'indisi -80 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = -80."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 4, q = -3. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "244",
+      "explain": "S_5 = 4·((-3)^5 − 1)/(-3 − 1) = 244."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 4, q = -3 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "728",
+        "-728",
+        "-724",
+        "-729"
+      ],
+      "answer": 1,
+      "explain": "S_6 = 4·((-3)^6 − 1)/(-3 − 1) = -728."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 4, q = 5. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "124",
+      "explain": "S_3 = 4·((5)^3 − 1)/(5 − 1) = 124."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 4, q = 5 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "628",
+        "624",
+        "-624",
+        "623"
+      ],
+      "answer": 1,
+      "explain": "S_4 = 4·((5)^4 − 1)/(5 − 1) = 624."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = 5 geometrik progressiya dastlabki 5 hadining yig'indisi 3124 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 3124."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 5, q = 2 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "-35",
+        "34",
+        "35",
+        "40"
+      ],
+      "answer": 2,
+      "explain": "S_3 = 5·((2)^3 − 1)/(2 − 1) = 35."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = 2 geometrik progressiya dastlabki 4 hadining yig'indisi 75 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 75."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 5, q = 2. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "155",
+      "explain": "S_5 = 5·((2)^5 − 1)/(2 − 1) = 155."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 5, q = 2 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "315",
+        "320",
+        "-315",
+        "314"
+      ],
+      "answer": 0,
+      "explain": "S_6 = 5·((2)^6 − 1)/(2 − 1) = 315."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = 3 geometrik progressiya dastlabki 3 hadining yig'indisi 65 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 65."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 5, q = 3. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "200",
+      "explain": "S_4 = 5·((3)^4 − 1)/(3 − 1) = 200."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 5, q = 3 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "610",
+        "604",
+        "-605",
+        "605"
+      ],
+      "answer": 3,
+      "explain": "S_5 = 5·((3)^5 − 1)/(3 − 1) = 605."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = 3 geometrik progressiya dastlabki 6 hadining yig'indisi 1820 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = 1820."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 5, q = 4. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "105",
+      "explain": "S_3 = 5·((4)^3 − 1)/(4 − 1) = 105."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 5, q = 4 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "-425",
+        "425",
+        "424",
+        "430"
+      ],
+      "answer": 1,
+      "explain": "S_4 = 5·((4)^4 − 1)/(4 − 1) = 425."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = 4 geometrik progressiya dastlabki 5 hadining yig'indisi 1705 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 1705."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 5, q = 4. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "6825",
+      "explain": "S_6 = 5·((4)^6 − 1)/(4 − 1) = 6825."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 5, q = -2 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "15",
+        "14",
+        "-15",
+        "20"
+      ],
+      "answer": 0,
+      "explain": "S_3 = 5·((-2)^3 − 1)/(-2 − 1) = 15."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = -2 geometrik progressiya dastlabki 4 hadining yig'indisi -25 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = -25."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 5, q = -2. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "55",
+      "explain": "S_5 = 5·((-2)^5 − 1)/(-2 − 1) = 55."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 5, q = -2 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "-106",
+        "-105",
+        "-100",
+        "105"
+      ],
+      "answer": 1,
+      "explain": "S_6 = 5·((-2)^6 − 1)/(-2 − 1) = -105."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = -3 geometrik progressiya dastlabki 3 hadining yig'indisi 35 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 35."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 5, q = -3. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "-100",
+      "explain": "S_4 = 5·((-3)^4 − 1)/(-3 − 1) = -100."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 5, q = -3 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "310",
+        "305",
+        "-305",
+        "304"
+      ],
+      "answer": 1,
+      "explain": "S_5 = 5·((-3)^5 − 1)/(-3 − 1) = 305."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = -3 geometrik progressiya dastlabki 6 hadining yig'indisi -910 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = -910."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 5, q = 5 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "-155",
+        "155",
+        "154",
+        "160"
+      ],
+      "answer": 1,
+      "explain": "S_3 = 5·((5)^3 − 1)/(5 − 1) = 155."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = 5 geometrik progressiya dastlabki 4 hadining yig'indisi 780 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 780."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 5, q = 5. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "3905",
+      "explain": "S_5 = 5·((5)^5 − 1)/(5 − 1) = 3905."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = 2 geometrik progressiya dastlabki 3 hadining yig'indisi 42 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 42."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 6, q = 2. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "90",
+      "explain": "S_4 = 6·((2)^4 − 1)/(2 − 1) = 90."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 6, q = 2 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "185",
+        "192",
+        "-186",
+        "186"
+      ],
+      "answer": 3,
+      "explain": "S_5 = 6·((2)^5 − 1)/(2 − 1) = 186."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = 2 geometrik progressiya dastlabki 6 hadining yig'indisi 378 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = 378."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 6, q = 3. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "78",
+      "explain": "S_3 = 6·((3)^3 − 1)/(3 − 1) = 78."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 6, q = 3 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "240",
+        "-240",
+        "246",
+        "239"
+      ],
+      "answer": 0,
+      "explain": "S_4 = 6·((3)^4 − 1)/(3 − 1) = 240."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = 3 geometrik progressiya dastlabki 5 hadining yig'indisi 726 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 726."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 6, q = 3. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "2184",
+      "explain": "S_6 = 6·((3)^6 − 1)/(3 − 1) = 2184."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 6, q = 4 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "126",
+        "125",
+        "132",
+        "-126"
+      ],
+      "answer": 0,
+      "explain": "S_3 = 6·((4)^3 − 1)/(4 − 1) = 126."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = 4 geometrik progressiya dastlabki 4 hadining yig'indisi 510 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 510."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 6, q = 4. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "2046",
+      "explain": "S_5 = 6·((4)^5 − 1)/(4 − 1) = 2046."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 6, q = 4 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "8190",
+        "-8190",
+        "8189",
+        "8196"
+      ],
+      "answer": 0,
+      "explain": "S_6 = 6·((4)^6 − 1)/(4 − 1) = 8190."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = -2 geometrik progressiya dastlabki 3 hadining yig'indisi 18 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 18."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 6, q = -2. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "-30",
+      "explain": "S_4 = 6·((-2)^4 − 1)/(-2 − 1) = -30."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 6, q = -2 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "72",
+        "65",
+        "-66",
+        "66"
+      ],
+      "answer": 3,
+      "explain": "S_5 = 6·((-2)^5 − 1)/(-2 − 1) = 66."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = -2 geometrik progressiya dastlabki 6 hadining yig'indisi -126 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = -126."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 6, q = -3. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "42",
+      "explain": "S_3 = 6·((-3)^3 − 1)/(-3 − 1) = 42."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 6, q = -3 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "120",
+        "-121",
+        "-120",
+        "-114"
+      ],
+      "answer": 2,
+      "explain": "S_4 = 6·((-3)^4 − 1)/(-3 − 1) = -120."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = -3 geometrik progressiya dastlabki 5 hadining yig'indisi 366 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 366."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 6, q = -3. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "-1092",
+      "explain": "S_6 = 6·((-3)^6 − 1)/(-3 − 1) = -1092."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = 5 geometrik progressiya dastlabki 3 hadining yig'indisi 186 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 186."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 6, q = 5. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "936",
+      "explain": "S_4 = 6·((5)^4 − 1)/(5 − 1) = 936."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 6, q = 5 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "-4686",
+        "4685",
+        "4686",
+        "4692"
+      ],
+      "answer": 2,
+      "explain": "S_5 = 6·((5)^5 − 1)/(5 − 1) = 4686."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 7, q = 2. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "49",
+      "explain": "S_3 = 7·((2)^3 − 1)/(2 − 1) = 49."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 7, q = 2 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "112",
+        "104",
+        "-105",
+        "105"
+      ],
+      "answer": 3,
+      "explain": "S_4 = 7·((2)^4 − 1)/(2 − 1) = 105."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = 2 geometrik progressiya dastlabki 5 hadining yig'indisi 217 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 217."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 7, q = 2. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "441",
+      "explain": "S_6 = 7·((2)^6 − 1)/(2 − 1) = 441."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 7, q = 3 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "90",
+        "98",
+        "-91",
+        "91"
+      ],
+      "answer": 3,
+      "explain": "S_3 = 7·((3)^3 − 1)/(3 − 1) = 91."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = 3 geometrik progressiya dastlabki 4 hadining yig'indisi 280 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 280."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 7, q = 3. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "847",
+      "explain": "S_5 = 7·((3)^5 − 1)/(3 − 1) = 847."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 7, q = 3 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "2548",
+        "2547",
+        "2555",
+        "-2548"
+      ],
+      "answer": 0,
+      "explain": "S_6 = 7·((3)^6 − 1)/(3 − 1) = 2548."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = 4 geometrik progressiya dastlabki 3 hadining yig'indisi 147 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 147."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 7, q = 4. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "595",
+      "explain": "S_4 = 7·((4)^4 − 1)/(4 − 1) = 595."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 7, q = 4 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "2394",
+        "2386",
+        "2387",
+        "-2387"
+      ],
+      "answer": 2,
+      "explain": "S_5 = 7·((4)^5 − 1)/(4 − 1) = 2387."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = 4 geometrik progressiya dastlabki 6 hadining yig'indisi 9555 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = 9555."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 7, q = -2. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "21",
+      "explain": "S_3 = 7·((-2)^3 − 1)/(-2 − 1) = 21."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 7, q = -2 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "-28",
+        "-35",
+        "-36",
+        "35"
+      ],
+      "answer": 1,
+      "explain": "S_4 = 7·((-2)^4 − 1)/(-2 − 1) = -35."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = -2 geometrik progressiya dastlabki 5 hadining yig'indisi 77 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 77."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 7, q = -2. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "-147",
+      "explain": "S_6 = 7·((-2)^6 − 1)/(-2 − 1) = -147."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 7, q = -3 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "48",
+        "-49",
+        "49",
+        "56"
+      ],
+      "answer": 2,
+      "explain": "S_3 = 7·((-3)^3 − 1)/(-3 − 1) = 49."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = -3 geometrik progressiya dastlabki 4 hadining yig'indisi -140 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = -140."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 7, q = -3. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "427",
+      "explain": "S_5 = 7·((-3)^5 − 1)/(-3 − 1) = 427."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 7, q = -3 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "-1274",
+        "-1267",
+        "-1275",
+        "1274"
+      ],
+      "answer": 0,
+      "explain": "S_6 = 7·((-3)^6 − 1)/(-3 − 1) = -1274."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 7, q = 5. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "217",
+      "explain": "S_3 = 7·((5)^3 − 1)/(5 − 1) = 217."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 7, q = 5 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "1099",
+        "1092",
+        "1091",
+        "-1092"
+      ],
+      "answer": 1,
+      "explain": "S_4 = 7·((5)^4 − 1)/(5 − 1) = 1092."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = 5 geometrik progressiya dastlabki 5 hadining yig'indisi 5467 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 5467."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = 2 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "55",
+        "64",
+        "-56",
+        "56"
+      ],
+      "answer": 3,
+      "explain": "S_3 = 8·((2)^3 − 1)/(2 − 1) = 56."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = 2 geometrik progressiya dastlabki 4 hadining yig'indisi 120 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 120."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 8, q = 2. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "248",
+      "explain": "S_5 = 8·((2)^5 − 1)/(2 − 1) = 248."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = 2 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "512",
+        "503",
+        "504",
+        "-504"
+      ],
+      "answer": 2,
+      "explain": "S_6 = 8·((2)^6 − 1)/(2 − 1) = 504."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = 3 geometrik progressiya dastlabki 3 hadining yig'indisi 104 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 104."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 8, q = 3. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "320",
+      "explain": "S_4 = 8·((3)^4 − 1)/(3 − 1) = 320."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = 3 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "-968",
+        "968",
+        "976",
+        "967"
+      ],
+      "answer": 1,
+      "explain": "S_5 = 8·((3)^5 − 1)/(3 − 1) = 968."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = 3 geometrik progressiya dastlabki 6 hadining yig'indisi 2912 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = 2912."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 8, q = 4. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "168",
+      "explain": "S_3 = 8·((4)^3 − 1)/(4 − 1) = 168."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = 4 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "688",
+        "680",
+        "-680",
+        "679"
+      ],
+      "answer": 1,
+      "explain": "S_4 = 8·((4)^4 − 1)/(4 − 1) = 680."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = 4 geometrik progressiya dastlabki 5 hadining yig'indisi 2728 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 2728."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 8, q = 4. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "10920",
+      "explain": "S_6 = 8·((4)^6 − 1)/(4 − 1) = 10920."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = -2 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "24",
+        "32",
+        "23",
+        "-24"
+      ],
+      "answer": 0,
+      "explain": "S_3 = 8·((-2)^3 − 1)/(-2 − 1) = 24."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = -2 geometrik progressiya dastlabki 4 hadining yig'indisi -40 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = -40."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 8, q = -2. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "88",
+      "explain": "S_5 = 8·((-2)^5 − 1)/(-2 − 1) = 88."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = -2 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "168",
+        "-168",
+        "-169",
+        "-160"
+      ],
+      "answer": 1,
+      "explain": "S_6 = 8·((-2)^6 − 1)/(-2 − 1) = -168."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = -3 geometrik progressiya dastlabki 3 hadining yig'indisi 56 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 56."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 8, q = -3. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "-160",
+      "explain": "S_4 = 8·((-3)^4 − 1)/(-3 − 1) = -160."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = -3 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "487",
+        "488",
+        "-488",
+        "496"
+      ],
+      "answer": 1,
+      "explain": "S_5 = 8·((-3)^5 − 1)/(-3 − 1) = 488."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = -3 geometrik progressiya dastlabki 6 hadining yig'indisi -1456 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = -1456."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = 5 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "247",
+        "256",
+        "248",
+        "-248"
+      ],
+      "answer": 2,
+      "explain": "S_3 = 8·((5)^3 − 1)/(5 − 1) = 248."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = 5 geometrik progressiya dastlabki 4 hadining yig'indisi 1248 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 1248."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 8, q = 5. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "6248",
+      "explain": "S_5 = 8·((5)^5 − 1)/(5 − 1) = 6248."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = 2 geometrik progressiya dastlabki 3 hadining yig'indisi 63 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 63."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 9, q = 2. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "135",
+      "explain": "S_4 = 9·((2)^4 − 1)/(2 − 1) = 135."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 9, q = 2 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "279",
+        "288",
+        "278",
+        "-279"
+      ],
+      "answer": 0,
+      "explain": "S_5 = 9·((2)^5 − 1)/(2 − 1) = 279."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = 2 geometrik progressiya dastlabki 6 hadining yig'indisi 567 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = 567."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 9, q = 3. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "117",
+      "explain": "S_3 = 9·((3)^3 − 1)/(3 − 1) = 117."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 9, q = 3 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "360",
+        "369",
+        "359",
+        "-360"
+      ],
+      "answer": 0,
+      "explain": "S_4 = 9·((3)^4 − 1)/(3 − 1) = 360."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = 3 geometrik progressiya dastlabki 5 hadining yig'indisi 1089 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 1089."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 9, q = 3. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "3276",
+      "explain": "S_6 = 9·((3)^6 − 1)/(3 − 1) = 3276."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 9, q = 4 geometrik progressiyada S_3 nechaga teng?",
+      "options": [
+        "188",
+        "198",
+        "189",
+        "-189"
+      ],
+      "answer": 2,
+      "explain": "S_3 = 9·((4)^3 − 1)/(4 − 1) = 189."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = 4 geometrik progressiya dastlabki 4 hadining yig'indisi 765 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_4 = 765."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 9, q = 4. Dastlabki 5 ta hadi yig'indisi S_5 ni toping.",
+      "answer": "3069",
+      "explain": "S_5 = 9·((4)^5 − 1)/(4 − 1) = 3069."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 9, q = 4 geometrik progressiyada S_6 nechaga teng?",
+      "options": [
+        "12284",
+        "-12285",
+        "12294",
+        "12285"
+      ],
+      "answer": 3,
+      "explain": "S_6 = 9·((4)^6 − 1)/(4 − 1) = 12285."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = -2 geometrik progressiya dastlabki 3 hadining yig'indisi 27 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 27."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 9, q = -2. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "-45",
+      "explain": "S_4 = 9·((-2)^4 − 1)/(-2 − 1) = -45."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 9, q = -2 geometrik progressiyada S_5 nechaga teng?",
+      "options": [
+        "98",
+        "108",
+        "99",
+        "-99"
+      ],
+      "answer": 2,
+      "explain": "S_5 = 9·((-2)^5 − 1)/(-2 − 1) = 99."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = -2 geometrik progressiya dastlabki 6 hadining yig'indisi -189 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_6 = -189."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 9, q = -3. Dastlabki 3 ta hadi yig'indisi S_3 ni toping.",
+      "answer": "63",
+      "explain": "S_3 = 9·((-3)^3 − 1)/(-3 − 1) = 63."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 9, q = -3 geometrik progressiyada S_4 nechaga teng?",
+      "options": [
+        "-181",
+        "180",
+        "-171",
+        "-180"
+      ],
+      "answer": 3,
+      "explain": "S_4 = 9·((-3)^4 − 1)/(-3 − 1) = -180."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = -3 geometrik progressiya dastlabki 5 hadining yig'indisi 549 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_5 = 549."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 9, q = -3. Dastlabki 6 ta hadi yig'indisi S_6 ni toping.",
+      "answer": "-1638",
+      "explain": "S_6 = 9·((-3)^6 − 1)/(-3 − 1) = -1638."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = 5 geometrik progressiya dastlabki 3 hadining yig'indisi 279 ga teng.",
+      "answer": true,
+      "explain": "Formula bo'yicha S_3 = 279."
+    },
+    {
+      "type": "fill",
+      "q": "Geometrik progressiyada b₁ = 9, q = 5. Dastlabki 4 ta hadi yig'indisi S_4 ni toping.",
+      "answer": "1404",
+      "explain": "S_4 = 9·((5)^4 − 1)/(5 − 1) = 1404."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 4, q = 1/2 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "7",
+        "6",
+        "8",
+        "12"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_3 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = 1/2 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "32",
+        "16",
+        "15",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_4 = 15."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 16, q = 1/2 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "80",
+        "31",
+        "32",
+        "30"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_5 = 31."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = 1/2 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "24",
+        "14",
+        "12",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_3 = 14."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 16, q = 1/2 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "32",
+        "30",
+        "64",
+        "28"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_4 = 30."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 32, q = 1/2 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "64",
+        "62",
+        "60",
+        "160"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_5 = 62."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 12, q = 1/2 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "24",
+        "21",
+        "18",
+        "36"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_3 = 21."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 24, q = 1/2 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "45",
+        "96",
+        "42",
+        "48"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_4 = 45."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 48, q = 1/2 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "96",
+        "240",
+        "93",
+        "90"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_5 = 93."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 16, q = 1/2 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "28",
+        "48",
+        "24",
+        "32"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_3 = 28."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 32, q = 1/2 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "64",
+        "128",
+        "56",
+        "60"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_4 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 64, q = 1/2 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "128",
+        "124",
+        "120",
+        "320"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_5 = 124."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 20, q = 1/2 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "60",
+        "35",
+        "40",
+        "30"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_3 = 35."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 40, q = 1/2 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "75",
+        "70",
+        "80",
+        "160"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_4 = 75."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 80, q = 1/2 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "155",
+        "150",
+        "160",
+        "400"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_5 = 155."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 24, q = 1/2 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "36",
+        "42",
+        "72",
+        "48"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_3 = 42."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 48, q = 1/2 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "96",
+        "90",
+        "192",
+        "84"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_4 = 90."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 96, q = 1/2 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "186",
+        "180",
+        "480",
+        "192"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_5 = 186."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 28, q = 1/2 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "84",
+        "56",
+        "49",
+        "42"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_3 = 49."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 56, q = 1/2 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "98",
+        "105",
+        "112",
+        "224"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_4 = 105."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 112, q = 1/2 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "210",
+        "224",
+        "217",
+        "560"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_5 = 217."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 32, q = 1/2 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "48",
+        "96",
+        "64",
+        "56"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_3 = 56."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 64, q = 1/2 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "112",
+        "120",
+        "128",
+        "256"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_4 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 128, q = 1/2 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "640",
+        "248",
+        "240",
+        "256"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_5 = 248."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 9, q = 1/3 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "27",
+        "13",
+        "12",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_3 = 13."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 27, q = 1/3 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "108",
+        "41",
+        "40",
+        "39"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_4 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 81, q = 1/3 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "121",
+        "122",
+        "120",
+        "405"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_5 = 121."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 18, q = 1/3 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "28",
+        "54",
+        "24",
+        "26"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_3 = 26."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 54, q = 1/3 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "78",
+        "82",
+        "216",
+        "80"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_4 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 162, q = 1/3 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "242",
+        "244",
+        "240",
+        "810"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_5 = 242."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 27, q = 1/3 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "39",
+        "42",
+        "81",
+        "36"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_3 = 39."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 81, q = 1/3 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "324",
+        "120",
+        "123",
+        "117"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_4 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 243, q = 1/3 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "363",
+        "1215",
+        "360",
+        "366"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_5 = 363."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 36, q = 1/3 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "108",
+        "56",
+        "48",
+        "52"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_3 = 52."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 108, q = 1/3 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "164",
+        "432",
+        "156",
+        "160"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_4 = 160."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 324, q = 1/3 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "488",
+        "484",
+        "480",
+        "1620"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_5 = 484."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 45, q = 1/3 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "70",
+        "135",
+        "65",
+        "60"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_3 = 65."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 135, q = 1/3 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "200",
+        "195",
+        "540",
+        "205"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_4 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 405, q = 1/3 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "605",
+        "600",
+        "2025",
+        "610"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_5 = 605."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 54, q = 1/3 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "72",
+        "162",
+        "84",
+        "78"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_3 = 78."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 162, q = 1/3 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "240",
+        "234",
+        "246",
+        "648"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_4 = 240."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 486, q = 1/3 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "732",
+        "726",
+        "2430",
+        "720"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_5 = 726."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 63, q = 1/3 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "98",
+        "91",
+        "189",
+        "84"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_3 = 91."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 189, q = 1/3 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "756",
+        "273",
+        "287",
+        "280"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_4 = 280."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 567, q = 1/3 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "2835",
+        "854",
+        "840",
+        "847"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_5 = 847."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 72, q = 1/3 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "216",
+        "96",
+        "104",
+        "112"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_3 = 104."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 216, q = 1/3 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "312",
+        "328",
+        "864",
+        "320"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_4 = 320."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 648, q = 1/3 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "968",
+        "976",
+        "960",
+        "3240"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_5 = 968."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 16, q = 1/4 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "48",
+        "20",
+        "22",
+        "21"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_3 = 21."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 64, q = 1/4 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "86",
+        "84",
+        "85",
+        "256"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_4 = 85."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 256, q = 1/4 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "342",
+        "341",
+        "340",
+        "1280"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_5 = 341."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 32, q = 1/4 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "42",
+        "40",
+        "44",
+        "96"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_3 = 42."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 128, q = 1/4 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "170",
+        "168",
+        "172",
+        "512"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_4 = 170."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 512, q = 1/4 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "680",
+        "684",
+        "682",
+        "2560"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_5 = 682."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 48, q = 1/4 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "144",
+        "66",
+        "63",
+        "60"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_3 = 63."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 192, q = 1/4 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "252",
+        "255",
+        "258",
+        "768"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_4 = 255."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 768, q = 1/4 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "1023",
+        "1026",
+        "3840",
+        "1020"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_5 = 1023."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 64, q = 1/4 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "88",
+        "192",
+        "84",
+        "80"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_3 = 84."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 256, q = 1/4 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "340",
+        "1024",
+        "336",
+        "344"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_4 = 340."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1024, q = 1/4 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "5120",
+        "1364",
+        "1368",
+        "1360"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_5 = 1364."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 80, q = 1/4 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "100",
+        "240",
+        "105",
+        "110"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_3 = 105."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 320, q = 1/4 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "420",
+        "425",
+        "1280",
+        "430"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_4 = 425."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1280, q = 1/4 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "1700",
+        "1710",
+        "1705",
+        "6400"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_5 = 1705."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 96, q = 1/4 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "120",
+        "288",
+        "126",
+        "132"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_3 = 126."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 384, q = 1/4 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "510",
+        "504",
+        "1536",
+        "516"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_4 = 510."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1536, q = 1/4 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "7680",
+        "2052",
+        "2046",
+        "2040"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_5 = 2046."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 112, q = 1/4 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "154",
+        "336",
+        "140",
+        "147"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_3 = 147."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 448, q = 1/4 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "602",
+        "588",
+        "1792",
+        "595"
+      ],
+      "answer": 3,
+      "explain": "Hadlar yig'indisi S_4 = 595."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 1792, q = 1/4 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "8960",
+        "2380",
+        "2387",
+        "2394"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_5 = 2387."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 128, q = 1/4 geometrik progressiyaning dastlabki 3 ta had yig'indisi S_3 ni toping.",
+      "options": [
+        "160",
+        "384",
+        "168",
+        "176"
+      ],
+      "answer": 2,
+      "explain": "Hadlar yig'indisi S_3 = 168."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 512, q = 1/4 geometrik progressiyaning dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "options": [
+        "2048",
+        "680",
+        "672",
+        "688"
+      ],
+      "answer": 1,
+      "explain": "Hadlar yig'indisi S_4 = 680."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 2048, q = 1/4 geometrik progressiyaning dastlabki 5 ta had yig'indisi S_5 ni toping.",
+      "options": [
+        "2728",
+        "2736",
+        "10240",
+        "2720"
+      ],
+      "answer": 0,
+      "explain": "Hadlar yig'indisi S_5 = 2728."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 2, q = 1 geometrik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "answer": "24",
+      "explain": "q = 1 da S_12 = 12·2 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 2, q = −1 bo'lgan geometrik progressiyada S_25 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "0",
+        "50",
+        "−2",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 2 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 3, q = 1 geometrik progressiyaning dastlabki 13 ta hadi yig'indisini toping.",
+      "answer": "39",
+      "explain": "q = 1 da S_13 = 13·3 = 39."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 3, q = −1 bo'lgan geometrik progressiyada S_27 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "−3",
+        "0",
+        "81",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 3 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 4, q = 1 geometrik progressiyaning dastlabki 14 ta hadi yig'indisini toping.",
+      "answer": "56",
+      "explain": "q = 1 da S_14 = 14·4 = 56."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 4, q = −1 bo'lgan geometrik progressiyada S_29 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "−4",
+        "4",
+        "116",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 4 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 5, q = 1 geometrik progressiyaning dastlabki 15 ta hadi yig'indisini toping.",
+      "answer": "75",
+      "explain": "q = 1 da S_15 = 15·5 = 75."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 5, q = −1 bo'lgan geometrik progressiyada S_31 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "0",
+        "155",
+        "−5",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 5 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 6, q = 1 geometrik progressiyaning dastlabki 16 ta hadi yig'indisini toping.",
+      "answer": "96",
+      "explain": "q = 1 da S_16 = 16·6 = 96."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 6, q = −1 bo'lgan geometrik progressiyada S_33 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "6",
+        "0",
+        "−6",
+        "198"
+      ],
+      "answer": 0,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 6 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 7, q = 1 geometrik progressiyaning dastlabki 17 ta hadi yig'indisini toping.",
+      "answer": "119",
+      "explain": "q = 1 da S_17 = 17·7 = 119."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 7, q = −1 bo'lgan geometrik progressiyada S_35 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "0",
+        "−7",
+        "7",
+        "245"
+      ],
+      "answer": 2,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 7 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 8, q = 1 geometrik progressiyaning dastlabki 18 ta hadi yig'indisini toping.",
+      "answer": "144",
+      "explain": "q = 1 da S_18 = 18·8 = 144."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 8, q = −1 bo'lgan geometrik progressiyada S_37 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "0",
+        "−8",
+        "296",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 8 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 9, q = 1 geometrik progressiyaning dastlabki 19 ta hadi yig'indisini toping.",
+      "answer": "171",
+      "explain": "q = 1 da S_19 = 19·9 = 171."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 9, q = −1 bo'lgan geometrik progressiyada S_39 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "−9",
+        "9",
+        "351",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 9 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 10, q = 1 geometrik progressiyaning dastlabki 20 ta hadi yig'indisini toping.",
+      "answer": "200",
+      "explain": "q = 1 da S_20 = 20·10 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 10, q = −1 bo'lgan geometrik progressiyada S_41 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "10",
+        "0",
+        "410",
+        "−10"
+      ],
+      "answer": 0,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 10 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 11, q = 1 geometrik progressiyaning dastlabki 21 ta hadi yig'indisini toping.",
+      "answer": "231",
+      "explain": "q = 1 da S_21 = 21·11 = 231."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 11, q = −1 bo'lgan geometrik progressiyada S_43 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "11",
+        "−11",
+        "473",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 11 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 12, q = 1 geometrik progressiyaning dastlabki 22 ta hadi yig'indisini toping.",
+      "answer": "264",
+      "explain": "q = 1 da S_22 = 22·12 = 264."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 12, q = −1 bo'lgan geometrik progressiyada S_45 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "0",
+        "540",
+        "12",
+        "−12"
+      ],
+      "answer": 2,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 12 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 13, q = 1 geometrik progressiyaning dastlabki 23 ta hadi yig'indisini toping.",
+      "answer": "299",
+      "explain": "q = 1 da S_23 = 23·13 = 299."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 13, q = −1 bo'lgan geometrik progressiyada S_47 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "13",
+        "−13",
+        "611",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 13 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 14, q = 1 geometrik progressiyaning dastlabki 24 ta hadi yig'indisini toping.",
+      "answer": "336",
+      "explain": "q = 1 da S_24 = 24·14 = 336."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 14, q = −1 bo'lgan geometrik progressiyada S_49 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "0",
+        "14",
+        "686",
+        "−14"
+      ],
+      "answer": 1,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 14 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 15, q = 1 geometrik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "answer": "150",
+      "explain": "q = 1 da S_10 = 10·15 = 150."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 15, q = −1 bo'lgan geometrik progressiyada S_21 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "15",
+        "0",
+        "−15",
+        "315"
+      ],
+      "answer": 0,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 15 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 16, q = 1 geometrik progressiyaning dastlabki 11 ta hadi yig'indisini toping.",
+      "answer": "176",
+      "explain": "q = 1 da S_11 = 11·16 = 176."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 16, q = −1 bo'lgan geometrik progressiyada S_23 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "16",
+        "−16",
+        "368",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 16 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 17, q = 1 geometrik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "answer": "204",
+      "explain": "q = 1 da S_12 = 12·17 = 204."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 17, q = −1 bo'lgan geometrik progressiyada S_25 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "0",
+        "425",
+        "17",
+        "−17"
+      ],
+      "answer": 2,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 17 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 18, q = 1 geometrik progressiyaning dastlabki 13 ta hadi yig'indisini toping.",
+      "answer": "234",
+      "explain": "q = 1 da S_13 = 13·18 = 234."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 18, q = −1 bo'lgan geometrik progressiyada S_27 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "18",
+        "0",
+        "−18",
+        "486"
+      ],
+      "answer": 0,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 18 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 19, q = 1 geometrik progressiyaning dastlabki 14 ta hadi yig'indisini toping.",
+      "answer": "266",
+      "explain": "q = 1 da S_14 = 14·19 = 266."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 19, q = −1 bo'lgan geometrik progressiyada S_29 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "551",
+        "0",
+        "19",
+        "−19"
+      ],
+      "answer": 2,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 19 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 20, q = 1 geometrik progressiyaning dastlabki 15 ta hadi yig'indisini toping.",
+      "answer": "300",
+      "explain": "q = 1 da S_15 = 15·20 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 20, q = −1 bo'lgan geometrik progressiyada S_31 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "620",
+        "20",
+        "−20",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 20 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 21, q = 1 geometrik progressiyaning dastlabki 16 ta hadi yig'indisini toping.",
+      "answer": "336",
+      "explain": "q = 1 da S_16 = 16·21 = 336."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 21, q = −1 bo'lgan geometrik progressiyada S_33 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "0",
+        "21",
+        "693",
+        "−21"
+      ],
+      "answer": 1,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 21 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 22, q = 1 geometrik progressiyaning dastlabki 17 ta hadi yig'indisini toping.",
+      "answer": "374",
+      "explain": "q = 1 da S_17 = 17·22 = 374."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 22, q = −1 bo'lgan geometrik progressiyada S_35 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "22",
+        "0",
+        "770",
+        "−22"
+      ],
+      "answer": 0,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 22 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 23, q = 1 geometrik progressiyaning dastlabki 18 ta hadi yig'indisini toping.",
+      "answer": "414",
+      "explain": "q = 1 da S_18 = 18·23 = 414."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 23, q = −1 bo'lgan geometrik progressiyada S_37 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "851",
+        "0",
+        "−23",
+        "23"
+      ],
+      "answer": 3,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 23 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 24, q = 1 geometrik progressiyaning dastlabki 19 ta hadi yig'indisini toping.",
+      "answer": "456",
+      "explain": "q = 1 da S_19 = 19·24 = 456."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 24, q = −1 bo'lgan geometrik progressiyada S_39 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "−24",
+        "936",
+        "0",
+        "24"
+      ],
+      "answer": 3,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 24 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 25, q = 1 geometrik progressiyaning dastlabki 20 ta hadi yig'indisini toping.",
+      "answer": "500",
+      "explain": "q = 1 da S_20 = 20·25 = 500."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 25, q = −1 bo'lgan geometrik progressiyada S_41 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "0",
+        "−25",
+        "1025",
+        "25"
+      ],
+      "answer": 3,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 25 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 26, q = 1 geometrik progressiyaning dastlabki 21 ta hadi yig'indisini toping.",
+      "answer": "546",
+      "explain": "q = 1 da S_21 = 21·26 = 546."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 26, q = −1 bo'lgan geometrik progressiyada S_43 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "1118",
+        "−26",
+        "0",
+        "26"
+      ],
+      "answer": 3,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 26 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 27, q = 1 geometrik progressiyaning dastlabki 22 ta hadi yig'indisini toping.",
+      "answer": "594",
+      "explain": "q = 1 da S_22 = 22·27 = 594."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 27, q = −1 bo'lgan geometrik progressiyada S_45 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "−27",
+        "27",
+        "0",
+        "1215"
+      ],
+      "answer": 1,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 27 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 28, q = 1 geometrik progressiyaning dastlabki 23 ta hadi yig'indisini toping.",
+      "answer": "644",
+      "explain": "q = 1 da S_23 = 23·28 = 644."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 28, q = −1 bo'lgan geometrik progressiyada S_47 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "−28",
+        "0",
+        "28",
+        "1316"
+      ],
+      "answer": 2,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 28 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 29, q = 1 geometrik progressiyaning dastlabki 24 ta hadi yig'indisini toping.",
+      "answer": "696",
+      "explain": "q = 1 da S_24 = 24·29 = 696."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 29, q = −1 bo'lgan geometrik progressiyada S_49 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "−29",
+        "0",
+        "1421",
+        "29"
+      ],
+      "answer": 3,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 29 qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 30, q = 1 geometrik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "answer": "300",
+      "explain": "q = 1 da S_10 = 10·30 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "b₁ = 30, q = −1 bo'lgan geometrik progressiyada S_21 (toq sondagi hadlar) yig'indisi nimaga teng?",
+      "options": [
+        "0",
+        "630",
+        "30",
+        "−30"
+      ],
+      "answer": 2,
+      "explain": "Toq sondagi hadlarda barcha juftliklar yo'qolib, bitta b₁ = 30 qoladi."
+    }
+  ],
+  "cards": [
+    [
+      "Yig'indi",
+      "Sₙ = b₁(qⁿ − 1)/(q − 1) formulasi (q ≠ 1)"
+    ],
+    [
+      "Koeffitsiyent",
+      "q = 1 bo'lganda Sₙ = n · b₁ tengligi"
+    ],
+    [
+      "Murakkab",
+      "Foiz ustiga foiz qo'shiluvchi omonatlar hisobi"
+    ],
+    [
+      "Darajali",
+      "qⁿ ko'rsatkichli o'sish"
+    ],
+    [
+      "Sₙ (q > 1)",
+      "b₁(qⁿ − 1) / (q − 1)"
+    ],
+    [
+      "Sₙ (q < 1)",
+      "b₁(1 − qⁿ) / (1 − q)"
+    ],
+    [
+      "Sₙ oxirgi had bilan",
+      "(bₙ·q − b₁) / (q − 1)"
+    ],
+    [
+      "q = 1 holi",
+      "Sₙ = n · b₁"
+    ],
+    [
+      "q = −1 (n juft)",
+      "Juft hadlarda Sₙ = 0"
+    ],
+    [
+      "q = −1 (n toq)",
+      "Toq hadlarda Sₙ = b₁"
+    ],
+    [
+      "1 + 2 + 4 + 8",
+      "S₄ = 15 (2⁴ − 1)"
+    ],
+    [
+      "1 + 3 + 9 + 27",
+      "S₄ = 40 ((3⁴ − 1)/2)"
+    ],
+    [
+      "Bank omonati",
+      "S = A · (1 + p/100)ⁿ formula"
+    ],
+    [
+      "2⁰ + 2¹ + ... + 2ⁿ⁻¹",
+      "Yig'indisi 2ⁿ − 1 ga teng"
+    ],
+    [
+      "bₙ = Sₙ − Sₙ₋₁",
+      "Yig'indidan n-hadni topish formulasi"
+    ],
+    [
+      "1 − q",
+      "Kamayuvchi progressiyada q < 1 da maxraj"
+    ],
+    [
+      "q − 1",
+      "O'suvchi progressiyada q > 1 da maxraj"
+    ],
+    [
+      "b₁ = 1, q = 2, n = 5",
+      "S₅ = 31"
+    ],
+    [
+      "b₁ = 1, q = 2, n = 6",
+      "S₆ = 63"
+    ],
+    [
+      "b₁ = 1, q = 2, n = 10",
+      "S₁₀ = 1023"
+    ],
+    [
+      "b₁ = 2, q = 3, n = 3",
+      "S₃ = 2 + 6 + 18 = 26"
+    ],
+    [
+      "Hadlar soni",
+      "Sₙ va b₁, q orqali n ni topish"
+    ],
+    [
+      "Foiz stavkasi",
+      "Har yili p% ga oshganda q = 1 + p/100"
+    ],
+    [
+      "bₙ · q",
+      "Sₙ(q − 1) + b₁ ga teng"
+    ],
+    [
+      "Omonat",
+      "Bankka foiz daromadi uchun qo'yilgan mablag'"
+    ],
+    [
+      "Stavka",
+      "Yillik yoki davriy qo'shimcha foiz miqdori"
+    ],
+    [
+      "Progress",
+      "Ketma-ket hadlar yig'indisining o'sish qonuni"
+    ],
+    [
+      "Ko'paytma",
+      "b₁ ga q darajasini ko'paytirish natijasi"
+    ],
+    [
+      "Formula",
+      "Sₙ = b₁(qⁿ − 1)/(q − 1) hisoblash qoidasi"
+    ]
+  ]
+}

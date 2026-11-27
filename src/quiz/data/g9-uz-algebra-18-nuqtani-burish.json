@@ -1,0 +1,3428 @@
+{
+  "id": "g9-uz-algebra-18-nuqtani-burish",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "18-§. Nuqtani koordinatalar boshi atrofida burish",
+  "title": "18-§. Nuqtani koordinatalar boshi atrofida burish",
+  "source": "Algebra 9-sinf (2019), III bob, 18-§, 97–103-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Birlik aylanada P(1; 0) nuqtani musbat yo'nalishda burish qaysi tomonga bo'ladi?",
+      "options": [
+        "Soat strelkasiga qarshi",
+        "O'q bo'ylab to'g'ri",
+        "Soat strelkasi bo'ylab",
+        "Faqat pastga"
+      ],
+      "answer": 0,
+      "explain": "Matematikada soat strelkasiga qarshi yo'nalish musbat hisoblanadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani π/2 burchakka burganda u qaysi koordinatali nuqtaga o'tadi?",
+      "options": [
+        "(0; 1)",
+        "(−1; 0)",
+        "(0; −1)",
+        "(1; 0)"
+      ],
+      "answer": 0,
+      "explain": "90° soat strelkasiga qarshi burilganda nuqta musbat Oy o'qidagi (0; 1) ga boradi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani −π/2 burchakka burganda qaysi nuqta hosil bo'ladi?",
+      "options": [
+        "(0; −1)",
+        "(0; 1)",
+        "(−1; 0)",
+        "(1; 0)"
+      ],
+      "answer": 0,
+      "explain": "−90° soat strelkasi bo'ylab burish (0; −1) nuqtaga olib keladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "α va α + 2πk (k ∈ Z) burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "2π to'liq aylanish nuqtani o'z o'rniga qaytaradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "200° burchak II chorakda joylashadi.",
+      "answer": false,
+      "explain": "180° < 200° < 270°, demak III chorakda."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -350° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "-350° ning [0°; 360°) dagi mos burchagi 10° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -335° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "-335° ning [0°; 360°) dagi mos burchagi 25° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -320° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "I chorak",
+        "II chorak"
+      ],
+      "answer": 2,
+      "explain": "-320° ning [0°; 360°) dagi mos burchagi 40° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -305° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "-305° ning [0°; 360°) dagi mos burchagi 55° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -290° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "IV chorak",
+        "II chorak"
+      ],
+      "answer": 1,
+      "explain": "-290° ning [0°; 360°) dagi mos burchagi 70° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -275° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "III chorak",
+        "II chorak"
+      ],
+      "answer": 1,
+      "explain": "-275° ning [0°; 360°) dagi mos burchagi 85° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -260° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "III chorak",
+        "II chorak"
+      ],
+      "answer": 3,
+      "explain": "-260° ning [0°; 360°) dagi mos burchagi 100° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -245° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 2,
+      "explain": "-245° ning [0°; 360°) dagi mos burchagi 115° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -230° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "-230° ning [0°; 360°) dagi mos burchagi 130° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -215° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "-215° ning [0°; 360°) dagi mos burchagi 145° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -200° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "-200° ning [0°; 360°) dagi mos burchagi 160° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -185° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 0,
+      "explain": "-185° ning [0°; 360°) dagi mos burchagi 175° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -170° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "II chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "-170° ning [0°; 360°) dagi mos burchagi 190° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -155° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 2,
+      "explain": "-155° ning [0°; 360°) dagi mos burchagi 205° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -140° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "II chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 2,
+      "explain": "-140° ning [0°; 360°) dagi mos burchagi 220° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -125° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "-125° ning [0°; 360°) dagi mos burchagi 235° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -110° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "-110° ning [0°; 360°) dagi mos burchagi 250° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -95° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "III chorak",
+        "II chorak"
+      ],
+      "answer": 2,
+      "explain": "-95° ning [0°; 360°) dagi mos burchagi 265° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -80° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "II chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 0,
+      "explain": "-80° ning [0°; 360°) dagi mos burchagi 280° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -65° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "IV chorak",
+        "II chorak"
+      ],
+      "answer": 2,
+      "explain": "-65° ning [0°; 360°) dagi mos burchagi 295° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -50° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 3,
+      "explain": "-50° ning [0°; 360°) dagi mos burchagi 310° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -35° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "-35° ning [0°; 360°) dagi mos burchagi 325° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -20° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "-20° ning [0°; 360°) dagi mos burchagi 340° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani -5° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "-5° ning [0°; 360°) dagi mos burchagi 355° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 10° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "10° ning [0°; 360°) dagi mos burchagi 10° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 25° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 0,
+      "explain": "25° ning [0°; 360°) dagi mos burchagi 25° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 40° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "III chorak",
+        "I chorak",
+        "II chorak"
+      ],
+      "answer": 2,
+      "explain": "40° ning [0°; 360°) dagi mos burchagi 40° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 55° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 0,
+      "explain": "55° ning [0°; 360°) dagi mos burchagi 55° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 70° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "70° ning [0°; 360°) dagi mos burchagi 70° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 85° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 2,
+      "explain": "85° ning [0°; 360°) dagi mos burchagi 85° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 100° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 0,
+      "explain": "100° ning [0°; 360°) dagi mos burchagi 100° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 115° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 1,
+      "explain": "115° ning [0°; 360°) dagi mos burchagi 115° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 130° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 0,
+      "explain": "130° ning [0°; 360°) dagi mos burchagi 130° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 145° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "145° ning [0°; 360°) dagi mos burchagi 145° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 160° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 2,
+      "explain": "160° ning [0°; 360°) dagi mos burchagi 160° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 175° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "III chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 2,
+      "explain": "175° ning [0°; 360°) dagi mos burchagi 175° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 190° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "IV chorak",
+        "II chorak"
+      ],
+      "answer": 1,
+      "explain": "190° ning [0°; 360°) dagi mos burchagi 190° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 205° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "205° ning [0°; 360°) dagi mos burchagi 205° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 220° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "III chorak",
+        "II chorak"
+      ],
+      "answer": 2,
+      "explain": "220° ning [0°; 360°) dagi mos burchagi 220° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 235° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "235° ning [0°; 360°) dagi mos burchagi 235° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 250° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "250° ning [0°; 360°) dagi mos burchagi 250° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 265° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 0,
+      "explain": "265° ning [0°; 360°) dagi mos burchagi 265° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 280° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 3,
+      "explain": "280° ning [0°; 360°) dagi mos burchagi 280° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 295° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "295° ning [0°; 360°) dagi mos burchagi 295° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 310° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 3,
+      "explain": "310° ning [0°; 360°) dagi mos burchagi 310° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 325° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "325° ning [0°; 360°) dagi mos burchagi 325° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 340° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 3,
+      "explain": "340° ning [0°; 360°) dagi mos burchagi 340° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 355° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 3,
+      "explain": "355° ning [0°; 360°) dagi mos burchagi 355° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 370° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "III chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "370° ning [0°; 360°) dagi mos burchagi 10° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 385° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "II chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "385° ning [0°; 360°) dagi mos burchagi 25° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 400° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "400° ning [0°; 360°) dagi mos burchagi 40° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 415° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "415° ning [0°; 360°) dagi mos burchagi 55° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 430° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 2,
+      "explain": "430° ning [0°; 360°) dagi mos burchagi 70° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 445° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "445° ning [0°; 360°) dagi mos burchagi 85° bo'lib, u I chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 460° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "460° ning [0°; 360°) dagi mos burchagi 100° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 475° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 0,
+      "explain": "475° ning [0°; 360°) dagi mos burchagi 115° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 490° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "490° ning [0°; 360°) dagi mos burchagi 130° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 505° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "505° ning [0°; 360°) dagi mos burchagi 145° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 520° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 0,
+      "explain": "520° ning [0°; 360°) dagi mos burchagi 160° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 535° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 2,
+      "explain": "535° ning [0°; 360°) dagi mos burchagi 175° bo'lib, u II chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 550° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "550° ning [0°; 360°) dagi mos burchagi 190° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 565° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "565° ning [0°; 360°) dagi mos burchagi 205° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 580° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "580° ning [0°; 360°) dagi mos burchagi 220° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 595° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 2,
+      "explain": "595° ning [0°; 360°) dagi mos burchagi 235° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 610° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "610° ning [0°; 360°) dagi mos burchagi 250° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 625° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "III chorak",
+        "I chorak",
+        "II chorak"
+      ],
+      "answer": 1,
+      "explain": "625° ning [0°; 360°) dagi mos burchagi 265° bo'lib, u III chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 640° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "III chorak",
+        "II chorak"
+      ],
+      "answer": 0,
+      "explain": "640° ning [0°; 360°) dagi mos burchagi 280° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 655° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 1,
+      "explain": "655° ning [0°; 360°) dagi mos burchagi 295° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 670° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "670° ning [0°; 360°) dagi mos burchagi 310° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 685° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 1,
+      "explain": "685° ning [0°; 360°) dagi mos burchagi 325° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 700° burchakka burganda hosil bo'lgan nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 3,
+      "explain": "700° ning [0°; 360°) dagi mos burchagi 340° bo'lib, u IV chorak ka tushadi."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = 0 (0°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−1; −0)",
+        "(1; −0)",
+        "(1; 0)",
+        "(0; 1)"
+      ],
+      "answer": 2,
+      "explain": "Nuqta koordinatalari (cos 0; sin 0) = (1; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = π/6 (30°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−√3/2; −1/2)",
+        "(√3/2; −1/2)",
+        "(√3/2; 1/2)",
+        "(1/2; √3/2)"
+      ],
+      "answer": 2,
+      "explain": "Nuqta koordinatalari (cos π/6; sin π/6) = (√3/2; 1/2)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = π/3 (60°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(1/2; −√3/2)",
+        "(√3/2; 1/2)",
+        "(−1/2; −√3/2)",
+        "(1/2; √3/2)"
+      ],
+      "answer": 3,
+      "explain": "Nuqta koordinatalari (cos π/3; sin π/3) = (1/2; √3/2)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = π/2 (90°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(0; 1)",
+        "(−0; −1)",
+        "(0; −1)",
+        "(1; 0)"
+      ],
+      "answer": 0,
+      "explain": "Nuqta koordinatalari (cos π/2; sin π/2) = (0; 1)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = 2π/3 (120°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−1/2; −√3/2)",
+        "(−1/2; √3/2)",
+        "(1/2; −√3/2)",
+        "(√3/2; −1/2)"
+      ],
+      "answer": 1,
+      "explain": "Nuqta koordinatalari (cos 2π/3; sin 2π/3) = (−1/2; √3/2)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = 5π/6 (150°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−√3/2; 1/2)",
+        "(1/2; −√3/2)",
+        "(−√3/2; −1/2)",
+        "(√3/2; −1/2)"
+      ],
+      "answer": 0,
+      "explain": "Nuqta koordinatalari (cos 5π/6; sin 5π/6) = (−√3/2; 1/2)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = π (180°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−1; 0)",
+        "(0; −1)",
+        "(1; −0)",
+        "(−1; −0)"
+      ],
+      "answer": 0,
+      "explain": "Nuqta koordinatalari (cos π; sin π) = (−1; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = 7π/6 (210°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−√3/2; 1/2)",
+        "(−1/2; −√3/2)",
+        "(√3/2; −−1/2)",
+        "(−√3/2; −1/2)"
+      ],
+      "answer": 3,
+      "explain": "Nuqta koordinatalari (cos 7π/6; sin 7π/6) = (−√3/2; −1/2)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = 4π/3 (240°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−1/2; √3/2)",
+        "(−1/2; −√3/2)",
+        "(1/2; −−√3/2)",
+        "(−√3/2; −1/2)"
+      ],
+      "answer": 1,
+      "explain": "Nuqta koordinatalari (cos 4π/3; sin 4π/3) = (−1/2; −√3/2)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = 3π/2 (270°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−1; 0)",
+        "(0; 1)",
+        "(0; −1)",
+        "(−0; 1)"
+      ],
+      "answer": 2,
+      "explain": "Nuqta koordinatalari (cos 3π/2; sin 3π/2) = (0; −1)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = 5π/3 (300°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−√3/2; 1/2)",
+        "(1/2; −√3/2)",
+        "(1/2; √3/2)",
+        "(−1/2; √3/2)"
+      ],
+      "answer": 1,
+      "explain": "Nuqta koordinatalari (cos 5π/3; sin 5π/3) = (1/2; −√3/2)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = 11π/6 (330°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−1/2; √3/2)",
+        "(√3/2; 1/2)",
+        "(√3/2; −1/2)",
+        "(−√3/2; 1/2)"
+      ],
+      "answer": 2,
+      "explain": "Nuqta koordinatalari (cos 11π/6; sin 11π/6) = (√3/2; −1/2)."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani α = 2π (360°) ga burganda uning koordinatalari qanday bo'ladi?",
+      "options": [
+        "(−1; −0)",
+        "(1; 0)",
+        "(0; 1)",
+        "(1; −0)"
+      ],
+      "answer": 1,
+      "explain": "Nuqta koordinatalari (cos 2π; sin 2π) = (1; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "390° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "210°",
+        "0°",
+        "120°",
+        "30°"
+      ],
+      "answer": 3,
+      "explain": "390° − 360°·1 = 30°."
+    },
+    {
+      "type": "fill",
+      "q": "405° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "45",
+      "explain": "405° = 360°·1 + 45°, demak asosiy burchak 45°."
+    },
+    {
+      "type": "choice",
+      "q": "420° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "60°",
+        "30°",
+        "240°",
+        "150°"
+      ],
+      "answer": 0,
+      "explain": "420° − 360°·1 = 60°."
+    },
+    {
+      "type": "choice",
+      "q": "450° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "180°",
+        "60°",
+        "270°",
+        "90°"
+      ],
+      "answer": 3,
+      "explain": "450° − 360°·1 = 90°."
+    },
+    {
+      "type": "choice",
+      "q": "480° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "300°",
+        "210°",
+        "120°",
+        "90°"
+      ],
+      "answer": 2,
+      "explain": "480° − 360°·1 = 120°."
+    },
+    {
+      "type": "fill",
+      "q": "495° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "135",
+      "explain": "495° = 360°·1 + 135°, demak asosiy burchak 135°."
+    },
+    {
+      "type": "choice",
+      "q": "540° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "150°",
+        "270°",
+        "180°",
+        "0°"
+      ],
+      "answer": 2,
+      "explain": "540° − 360°·1 = 180°."
+    },
+    {
+      "type": "choice",
+      "q": "630° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "270°",
+        "0°",
+        "240°",
+        "90°"
+      ],
+      "answer": 0,
+      "explain": "630° − 360°·1 = 270°."
+    },
+    {
+      "type": "fill",
+      "q": "750° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "30",
+      "explain": "750° = 360°·2 + 30°, demak asosiy burchak 30°."
+    },
+    {
+      "type": "choice",
+      "q": "765° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "225°",
+        "45°",
+        "135°",
+        "15°"
+      ],
+      "answer": 1,
+      "explain": "765° − 360°·2 = 45°."
+    },
+    {
+      "type": "fill",
+      "q": "780° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "60",
+      "explain": "780° = 360°·2 + 60°, demak asosiy burchak 60°."
+    },
+    {
+      "type": "fill",
+      "q": "810° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "90",
+      "explain": "810° = 360°·2 + 90°, demak asosiy burchak 90°."
+    },
+    {
+      "type": "fill",
+      "q": "840° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "120",
+      "explain": "840° = 360°·2 + 120°, demak asosiy burchak 120°."
+    },
+    {
+      "type": "choice",
+      "q": "855° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "225°",
+        "315°",
+        "135°",
+        "105°"
+      ],
+      "answer": 2,
+      "explain": "855° − 360°·2 = 135°."
+    },
+    {
+      "type": "fill",
+      "q": "900° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "180",
+      "explain": "900° = 360°·2 + 180°, demak asosiy burchak 180°."
+    },
+    {
+      "type": "fill",
+      "q": "990° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "270",
+      "explain": "990° = 360°·2 + 270°, demak asosiy burchak 270°."
+    },
+    {
+      "type": "choice",
+      "q": "1110° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "120°",
+        "30°",
+        "0°",
+        "210°"
+      ],
+      "answer": 1,
+      "explain": "1110° − 360°·3 = 30°."
+    },
+    {
+      "type": "fill",
+      "q": "1125° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "45",
+      "explain": "1125° = 360°·3 + 45°, demak asosiy burchak 45°."
+    },
+    {
+      "type": "choice",
+      "q": "1140° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "30°",
+        "240°",
+        "60°",
+        "150°"
+      ],
+      "answer": 2,
+      "explain": "1140° − 360°·3 = 60°."
+    },
+    {
+      "type": "choice",
+      "q": "1170° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "270°",
+        "60°",
+        "180°",
+        "90°"
+      ],
+      "answer": 3,
+      "explain": "1170° − 360°·3 = 90°."
+    },
+    {
+      "type": "choice",
+      "q": "1200° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "120°",
+        "300°",
+        "90°",
+        "210°"
+      ],
+      "answer": 0,
+      "explain": "1200° − 360°·3 = 120°."
+    },
+    {
+      "type": "fill",
+      "q": "1215° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "135",
+      "explain": "1215° = 360°·3 + 135°, demak asosiy burchak 135°."
+    },
+    {
+      "type": "choice",
+      "q": "1260° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "150°",
+        "0°",
+        "270°",
+        "180°"
+      ],
+      "answer": 3,
+      "explain": "1260° − 360°·3 = 180°."
+    },
+    {
+      "type": "choice",
+      "q": "1350° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "240°",
+        "90°",
+        "270°",
+        "0°"
+      ],
+      "answer": 2,
+      "explain": "1350° − 360°·3 = 270°."
+    },
+    {
+      "type": "fill",
+      "q": "1470° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "30",
+      "explain": "1470° = 360°·4 + 30°, demak asosiy burchak 30°."
+    },
+    {
+      "type": "choice",
+      "q": "1485° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "45°",
+        "135°",
+        "225°",
+        "15°"
+      ],
+      "answer": 0,
+      "explain": "1485° − 360°·4 = 45°."
+    },
+    {
+      "type": "fill",
+      "q": "1500° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "60",
+      "explain": "1500° = 360°·4 + 60°, demak asosiy burchak 60°."
+    },
+    {
+      "type": "fill",
+      "q": "1530° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "90",
+      "explain": "1530° = 360°·4 + 90°, demak asosiy burchak 90°."
+    },
+    {
+      "type": "fill",
+      "q": "1560° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "120",
+      "explain": "1560° = 360°·4 + 120°, demak asosiy burchak 120°."
+    },
+    {
+      "type": "choice",
+      "q": "1575° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "105°",
+        "135°",
+        "315°",
+        "225°"
+      ],
+      "answer": 1,
+      "explain": "1575° − 360°·4 = 135°."
+    },
+    {
+      "type": "fill",
+      "q": "1620° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "180",
+      "explain": "1620° = 360°·4 + 180°, demak asosiy burchak 180°."
+    },
+    {
+      "type": "fill",
+      "q": "1710° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "270",
+      "explain": "1710° = 360°·4 + 270°, demak asosiy burchak 270°."
+    },
+    {
+      "type": "choice",
+      "q": "1830° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "120°",
+        "0°",
+        "30°",
+        "210°"
+      ],
+      "answer": 2,
+      "explain": "1830° − 360°·5 = 30°."
+    },
+    {
+      "type": "fill",
+      "q": "1845° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "45",
+      "explain": "1845° = 360°·5 + 45°, demak asosiy burchak 45°."
+    },
+    {
+      "type": "choice",
+      "q": "1860° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "150°",
+        "240°",
+        "30°",
+        "60°"
+      ],
+      "answer": 3,
+      "explain": "1860° − 360°·5 = 60°."
+    },
+    {
+      "type": "choice",
+      "q": "1890° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "270°",
+        "90°",
+        "180°",
+        "60°"
+      ],
+      "answer": 1,
+      "explain": "1890° − 360°·5 = 90°."
+    },
+    {
+      "type": "choice",
+      "q": "1920° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "90°",
+        "120°",
+        "210°",
+        "300°"
+      ],
+      "answer": 1,
+      "explain": "1920° − 360°·5 = 120°."
+    },
+    {
+      "type": "fill",
+      "q": "1935° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "135",
+      "explain": "1935° = 360°·5 + 135°, demak asosiy burchak 135°."
+    },
+    {
+      "type": "choice",
+      "q": "1980° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "270°",
+        "150°",
+        "0°",
+        "180°"
+      ],
+      "answer": 3,
+      "explain": "1980° − 360°·5 = 180°."
+    },
+    {
+      "type": "choice",
+      "q": "2070° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "0°",
+        "90°",
+        "240°",
+        "270°"
+      ],
+      "answer": 3,
+      "explain": "2070° − 360°·5 = 270°."
+    },
+    {
+      "type": "fill",
+      "q": "2190° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "30",
+      "explain": "2190° = 360°·6 + 30°, demak asosiy burchak 30°."
+    },
+    {
+      "type": "choice",
+      "q": "2205° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "15°",
+        "45°",
+        "225°",
+        "135°"
+      ],
+      "answer": 1,
+      "explain": "2205° − 360°·6 = 45°."
+    },
+    {
+      "type": "fill",
+      "q": "2220° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "60",
+      "explain": "2220° = 360°·6 + 60°, demak asosiy burchak 60°."
+    },
+    {
+      "type": "fill",
+      "q": "2250° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "90",
+      "explain": "2250° = 360°·6 + 90°, demak asosiy burchak 90°."
+    },
+    {
+      "type": "fill",
+      "q": "2280° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "120",
+      "explain": "2280° = 360°·6 + 120°, demak asosiy burchak 120°."
+    },
+    {
+      "type": "choice",
+      "q": "2295° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "315°",
+        "135°",
+        "225°",
+        "105°"
+      ],
+      "answer": 1,
+      "explain": "2295° − 360°·6 = 135°."
+    },
+    {
+      "type": "fill",
+      "q": "2340° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "180",
+      "explain": "2340° = 360°·6 + 180°, demak asosiy burchak 180°."
+    },
+    {
+      "type": "fill",
+      "q": "2430° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "270",
+      "explain": "2430° = 360°·6 + 270°, demak asosiy burchak 270°."
+    },
+    {
+      "type": "choice",
+      "q": "2550° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "30°",
+        "210°",
+        "120°",
+        "0°"
+      ],
+      "answer": 0,
+      "explain": "2550° − 360°·7 = 30°."
+    },
+    {
+      "type": "fill",
+      "q": "2565° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "45",
+      "explain": "2565° = 360°·7 + 45°, demak asosiy burchak 45°."
+    },
+    {
+      "type": "choice",
+      "q": "2580° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "240°",
+        "30°",
+        "150°",
+        "60°"
+      ],
+      "answer": 3,
+      "explain": "2580° − 360°·7 = 60°."
+    },
+    {
+      "type": "choice",
+      "q": "2610° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "90°",
+        "60°",
+        "180°",
+        "270°"
+      ],
+      "answer": 0,
+      "explain": "2610° − 360°·7 = 90°."
+    },
+    {
+      "type": "choice",
+      "q": "2640° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "90°",
+        "120°",
+        "300°",
+        "210°"
+      ],
+      "answer": 1,
+      "explain": "2640° − 360°·7 = 120°."
+    },
+    {
+      "type": "fill",
+      "q": "2655° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "135",
+      "explain": "2655° = 360°·7 + 135°, demak asosiy burchak 135°."
+    },
+    {
+      "type": "choice",
+      "q": "2700° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "0°",
+        "180°",
+        "270°",
+        "150°"
+      ],
+      "answer": 1,
+      "explain": "2700° − 360°·7 = 180°."
+    },
+    {
+      "type": "choice",
+      "q": "2790° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "270°",
+        "0°",
+        "90°",
+        "240°"
+      ],
+      "answer": 0,
+      "explain": "2790° − 360°·7 = 270°."
+    },
+    {
+      "type": "fill",
+      "q": "2910° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "30",
+      "explain": "2910° = 360°·8 + 30°, demak asosiy burchak 30°."
+    },
+    {
+      "type": "choice",
+      "q": "2925° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "135°",
+        "15°",
+        "225°",
+        "45°"
+      ],
+      "answer": 3,
+      "explain": "2925° − 360°·8 = 45°."
+    },
+    {
+      "type": "fill",
+      "q": "2940° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "60",
+      "explain": "2940° = 360°·8 + 60°, demak asosiy burchak 60°."
+    },
+    {
+      "type": "fill",
+      "q": "2970° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "90",
+      "explain": "2970° = 360°·8 + 90°, demak asosiy burchak 90°."
+    },
+    {
+      "type": "fill",
+      "q": "3000° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "120",
+      "explain": "3000° = 360°·8 + 120°, demak asosiy burchak 120°."
+    },
+    {
+      "type": "choice",
+      "q": "3015° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "225°",
+        "135°",
+        "315°",
+        "105°"
+      ],
+      "answer": 1,
+      "explain": "3015° − 360°·8 = 135°."
+    },
+    {
+      "type": "fill",
+      "q": "3060° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "180",
+      "explain": "3060° = 360°·8 + 180°, demak asosiy burchak 180°."
+    },
+    {
+      "type": "fill",
+      "q": "3150° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "270",
+      "explain": "3150° = 360°·8 + 270°, demak asosiy burchak 270°."
+    },
+    {
+      "type": "choice",
+      "q": "3270° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "30°",
+        "0°",
+        "210°",
+        "120°"
+      ],
+      "answer": 0,
+      "explain": "3270° − 360°·9 = 30°."
+    },
+    {
+      "type": "fill",
+      "q": "3285° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "45",
+      "explain": "3285° = 360°·9 + 45°, demak asosiy burchak 45°."
+    },
+    {
+      "type": "choice",
+      "q": "3300° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "150°",
+        "30°",
+        "60°",
+        "240°"
+      ],
+      "answer": 2,
+      "explain": "3300° − 360°·9 = 60°."
+    },
+    {
+      "type": "choice",
+      "q": "3330° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "90°",
+        "60°",
+        "270°",
+        "180°"
+      ],
+      "answer": 0,
+      "explain": "3330° − 360°·9 = 90°."
+    },
+    {
+      "type": "choice",
+      "q": "3360° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "120°",
+        "210°",
+        "90°",
+        "300°"
+      ],
+      "answer": 0,
+      "explain": "3360° − 360°·9 = 120°."
+    },
+    {
+      "type": "fill",
+      "q": "3375° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "135",
+      "explain": "3375° = 360°·9 + 135°, demak asosiy burchak 135°."
+    },
+    {
+      "type": "choice",
+      "q": "3420° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "0°",
+        "270°",
+        "180°",
+        "150°"
+      ],
+      "answer": 2,
+      "explain": "3420° − 360°·9 = 180°."
+    },
+    {
+      "type": "choice",
+      "q": "3510° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "0°",
+        "90°",
+        "240°",
+        "270°"
+      ],
+      "answer": 3,
+      "explain": "3510° − 360°·9 = 270°."
+    },
+    {
+      "type": "fill",
+      "q": "3630° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "30",
+      "explain": "3630° = 360°·10 + 30°, demak asosiy burchak 30°."
+    },
+    {
+      "type": "choice",
+      "q": "3645° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "45°",
+        "225°",
+        "15°",
+        "135°"
+      ],
+      "answer": 0,
+      "explain": "3645° − 360°·10 = 45°."
+    },
+    {
+      "type": "fill",
+      "q": "3660° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "60",
+      "explain": "3660° = 360°·10 + 60°, demak asosiy burchak 60°."
+    },
+    {
+      "type": "fill",
+      "q": "3690° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "90",
+      "explain": "3690° = 360°·10 + 90°, demak asosiy burchak 90°."
+    },
+    {
+      "type": "fill",
+      "q": "3720° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "120",
+      "explain": "3720° = 360°·10 + 120°, demak asosiy burchak 120°."
+    },
+    {
+      "type": "choice",
+      "q": "3735° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "105°",
+        "225°",
+        "315°",
+        "135°"
+      ],
+      "answer": 3,
+      "explain": "3735° − 360°·10 = 135°."
+    },
+    {
+      "type": "fill",
+      "q": "3780° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "180",
+      "explain": "3780° = 360°·10 + 180°, demak asosiy burchak 180°."
+    },
+    {
+      "type": "fill",
+      "q": "3870° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "270",
+      "explain": "3870° = 360°·10 + 270°, demak asosiy burchak 270°."
+    },
+    {
+      "type": "choice",
+      "q": "3990° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "210°",
+        "120°",
+        "0°",
+        "30°"
+      ],
+      "answer": 3,
+      "explain": "3990° − 360°·11 = 30°."
+    },
+    {
+      "type": "fill",
+      "q": "4005° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "45",
+      "explain": "4005° = 360°·11 + 45°, demak asosiy burchak 45°."
+    },
+    {
+      "type": "choice",
+      "q": "4020° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "240°",
+        "150°",
+        "60°",
+        "30°"
+      ],
+      "answer": 2,
+      "explain": "4020° − 360°·11 = 60°."
+    },
+    {
+      "type": "choice",
+      "q": "4050° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "60°",
+        "180°",
+        "270°",
+        "90°"
+      ],
+      "answer": 3,
+      "explain": "4050° − 360°·11 = 90°."
+    },
+    {
+      "type": "choice",
+      "q": "4080° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "90°",
+        "300°",
+        "120°",
+        "210°"
+      ],
+      "answer": 2,
+      "explain": "4080° − 360°·11 = 120°."
+    },
+    {
+      "type": "fill",
+      "q": "4095° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "135",
+      "explain": "4095° = 360°·11 + 135°, demak asosiy burchak 135°."
+    },
+    {
+      "type": "choice",
+      "q": "4140° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "150°",
+        "0°",
+        "180°",
+        "270°"
+      ],
+      "answer": 2,
+      "explain": "4140° − 360°·11 = 180°."
+    },
+    {
+      "type": "choice",
+      "q": "4230° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "0°",
+        "90°",
+        "270°",
+        "240°"
+      ],
+      "answer": 2,
+      "explain": "4230° − 360°·11 = 270°."
+    },
+    {
+      "type": "fill",
+      "q": "4350° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "30",
+      "explain": "4350° = 360°·12 + 30°, demak asosiy burchak 30°."
+    },
+    {
+      "type": "choice",
+      "q": "4365° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "45°",
+        "225°",
+        "135°",
+        "15°"
+      ],
+      "answer": 0,
+      "explain": "4365° − 360°·12 = 45°."
+    },
+    {
+      "type": "fill",
+      "q": "4380° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "60",
+      "explain": "4380° = 360°·12 + 60°, demak asosiy burchak 60°."
+    },
+    {
+      "type": "fill",
+      "q": "4410° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "90",
+      "explain": "4410° = 360°·12 + 90°, demak asosiy burchak 90°."
+    },
+    {
+      "type": "fill",
+      "q": "4440° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "120",
+      "explain": "4440° = 360°·12 + 120°, demak asosiy burchak 120°."
+    },
+    {
+      "type": "choice",
+      "q": "4455° burchakka burish birlik aylanada [0°; 360°) dagi qaysi burchak bilan bir xil nuqtaga tushadi?",
+      "options": [
+        "315°",
+        "105°",
+        "135°",
+        "225°"
+      ],
+      "answer": 2,
+      "explain": "4455° − 360°·12 = 135°."
+    },
+    {
+      "type": "fill",
+      "q": "4500° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "180",
+      "explain": "4500° = 360°·12 + 180°, demak asosiy burchak 180°."
+    },
+    {
+      "type": "fill",
+      "q": "4590° burchakni [0°; 360°) oraliqdagi teng kuchli burchakka keltiring (faqat sonini yozing).",
+      "answer": "270",
+      "explain": "4590° = 360°·12 + 270°, demak asosiy burchak 270°."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 13π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "IV chorak",
+        "II chorak"
+      ],
+      "answer": 0,
+      "explain": "13π/6 = π/6 + 2π·1, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-11π/6 va π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-11π/6 = π/6 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 9π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "9π/4 = π/4 + 2π·1, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-7π/4 va π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-7π/4 = π/4 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 7π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "III chorak",
+        "II chorak"
+      ],
+      "answer": 1,
+      "explain": "7π/3 = π/3 + 2π·1, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-5π/3 va π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-5π/3 = π/3 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 8π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 0,
+      "explain": "8π/3 = 2π/3 + 2π·1, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-4π/3 va 2π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-4π/3 = 2π/3 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 11π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "11π/4 = 3π/4 + 2π·1, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-5π/4 va 3π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-5π/4 = 3π/4 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 17π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 0,
+      "explain": "17π/6 = 5π/6 + 2π·1, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-7π/6 va 5π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-7π/6 = 5π/6 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 19π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "III chorak",
+        "II chorak"
+      ],
+      "answer": 2,
+      "explain": "19π/6 = 7π/6 + 2π·1, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-5π/6 va 7π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-5π/6 = 7π/6 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 13π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "I chorak",
+        "II chorak"
+      ],
+      "answer": 0,
+      "explain": "13π/4 = 5π/4 + 2π·1, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-3π/4 va 5π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-3π/4 = 5π/4 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 10π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 1,
+      "explain": "10π/3 = 4π/3 + 2π·1, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-2π/3 va 4π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-2π/3 = 4π/3 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 11π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "I chorak",
+        "II chorak"
+      ],
+      "answer": 1,
+      "explain": "11π/3 = 5π/3 + 2π·1, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-1π/3 va 5π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-1π/3 = 5π/3 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 15π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "15π/4 = 7π/4 + 2π·1, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-1π/4 va 7π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-1π/4 = 7π/4 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 23π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "23π/6 = 11π/6 + 2π·1, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-1π/6 va 11π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-1π/6 = 11π/6 − 2π·1 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 25π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "III chorak",
+        "II chorak"
+      ],
+      "answer": 0,
+      "explain": "25π/6 = π/6 + 2π·2, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-23π/6 va π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-23π/6 = π/6 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 17π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "17π/4 = π/4 + 2π·2, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-15π/4 va π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-15π/4 = π/4 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 13π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "13π/3 = π/3 + 2π·2, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-11π/3 va π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-11π/3 = π/3 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 14π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "IV chorak",
+        "II chorak"
+      ],
+      "answer": 3,
+      "explain": "14π/3 = 2π/3 + 2π·2, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-10π/3 va 2π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-10π/3 = 2π/3 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 19π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 2,
+      "explain": "19π/4 = 3π/4 + 2π·2, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-13π/4 va 3π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-13π/4 = 3π/4 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 29π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "I chorak",
+        "II chorak"
+      ],
+      "answer": 3,
+      "explain": "29π/6 = 5π/6 + 2π·2, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-19π/6 va 5π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-19π/6 = 5π/6 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 31π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 2,
+      "explain": "31π/6 = 7π/6 + 2π·2, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-17π/6 va 7π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-17π/6 = 7π/6 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 21π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "21π/4 = 5π/4 + 2π·2, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-11π/4 va 5π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-11π/4 = 5π/4 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 16π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 0,
+      "explain": "16π/3 = 4π/3 + 2π·2, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-8π/3 va 4π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-8π/3 = 4π/3 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 17π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 3,
+      "explain": "17π/3 = 5π/3 + 2π·2, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-7π/3 va 5π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-7π/3 = 5π/3 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 23π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 3,
+      "explain": "23π/4 = 7π/4 + 2π·2, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-9π/4 va 7π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-9π/4 = 7π/4 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 35π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "II chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 0,
+      "explain": "35π/6 = 11π/6 + 2π·2, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-13π/6 va 11π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-13π/6 = 11π/6 − 2π·2 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 37π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "III chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "37π/6 = π/6 + 2π·3, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-35π/6 va π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-35π/6 = π/6 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 25π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "25π/4 = π/4 + 2π·3, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-23π/4 va π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-23π/4 = π/4 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 19π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 2,
+      "explain": "19π/3 = π/3 + 2π·3, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-17π/3 va π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-17π/3 = π/3 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 20π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 2,
+      "explain": "20π/3 = 2π/3 + 2π·3, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-16π/3 va 2π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-16π/3 = 2π/3 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 27π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 0,
+      "explain": "27π/4 = 3π/4 + 2π·3, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-21π/4 va 3π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-21π/4 = 3π/4 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 41π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "II chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "41π/6 = 5π/6 + 2π·3, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-31π/6 va 5π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-31π/6 = 5π/6 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 43π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "IV chorak",
+        "II chorak"
+      ],
+      "answer": 1,
+      "explain": "43π/6 = 7π/6 + 2π·3, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-29π/6 va 7π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-29π/6 = 7π/6 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 29π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "III chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 1,
+      "explain": "29π/4 = 5π/4 + 2π·3, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-19π/4 va 5π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-19π/4 = 5π/4 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 22π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "III chorak",
+        "I chorak",
+        "II chorak"
+      ],
+      "answer": 1,
+      "explain": "22π/3 = 4π/3 + 2π·3, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-14π/3 va 4π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-14π/3 = 4π/3 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 23π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 3,
+      "explain": "23π/3 = 5π/3 + 2π·3, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-13π/3 va 5π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-13π/3 = 5π/3 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 31π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 1,
+      "explain": "31π/4 = 7π/4 + 2π·3, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-17π/4 va 7π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-17π/4 = 7π/4 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 47π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "47π/6 = 11π/6 + 2π·3, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-25π/6 va 11π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-25π/6 = 11π/6 − 2π·3 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 49π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "49π/6 = π/6 + 2π·4, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-47π/6 va π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-47π/6 = π/6 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 33π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "33π/4 = π/4 + 2π·4, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-31π/4 va π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-31π/4 = π/4 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 25π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 0,
+      "explain": "25π/3 = π/3 + 2π·4, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-23π/3 va π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-23π/3 = π/3 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 26π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 0,
+      "explain": "26π/3 = 2π/3 + 2π·4, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-22π/3 va 2π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-22π/3 = 2π/3 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 35π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 0,
+      "explain": "35π/4 = 3π/4 + 2π·4, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-29π/4 va 3π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-29π/4 = 3π/4 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 53π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "53π/6 = 5π/6 + 2π·4, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-43π/6 va 5π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-43π/6 = 5π/6 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 55π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "55π/6 = 7π/6 + 2π·4, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-41π/6 va 7π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-41π/6 = 7π/6 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 37π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "IV chorak",
+        "II chorak"
+      ],
+      "answer": 0,
+      "explain": "37π/4 = 5π/4 + 2π·4, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-27π/4 va 5π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-27π/4 = 5π/4 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 28π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 0,
+      "explain": "28π/3 = 4π/3 + 2π·4, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-20π/3 va 4π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-20π/3 = 4π/3 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 29π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "III chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 0,
+      "explain": "29π/3 = 5π/3 + 2π·4, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-19π/3 va 5π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-19π/3 = 5π/3 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 39π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "II chorak",
+        "III chorak"
+      ],
+      "answer": 0,
+      "explain": "39π/4 = 7π/4 + 2π·4, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-25π/4 va 7π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-25π/4 = 7π/4 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 59π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "59π/6 = 11π/6 + 2π·4, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-37π/6 va 11π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-37π/6 = 11π/6 − 2π·4 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 61π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "IV chorak",
+        "II chorak"
+      ],
+      "answer": 0,
+      "explain": "61π/6 = π/6 + 2π·5, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-59π/6 va π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-59π/6 = π/6 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 41π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "41π/4 = π/4 + 2π·5, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-39π/4 va π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-39π/4 = π/4 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 31π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "31π/3 = π/3 + 2π·5, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-29π/3 va π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-29π/3 = π/3 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 32π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 2,
+      "explain": "32π/3 = 2π/3 + 2π·5, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-28π/3 va 2π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-28π/3 = 2π/3 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 43π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "III chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 2,
+      "explain": "43π/4 = 3π/4 + 2π·5, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-37π/4 va 3π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-37π/4 = 3π/4 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 65π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "65π/6 = 5π/6 + 2π·5, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-55π/6 va 5π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-55π/6 = 5π/6 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 67π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "IV chorak",
+        "II chorak"
+      ],
+      "answer": 1,
+      "explain": "67π/6 = 7π/6 + 2π·5, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-53π/6 va 7π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-53π/6 = 7π/6 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 45π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "45π/4 = 5π/4 + 2π·5, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-35π/4 va 5π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-35π/4 = 5π/4 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 34π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "I chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 0,
+      "explain": "34π/3 = 4π/3 + 2π·5, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-26π/3 va 4π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-26π/3 = 4π/3 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 35π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "I chorak",
+        "III chorak",
+        "II chorak"
+      ],
+      "answer": 0,
+      "explain": "35π/3 = 5π/3 + 2π·5, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-25π/3 va 5π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-25π/3 = 5π/3 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 47π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "IV chorak",
+        "III chorak",
+        "II chorak"
+      ],
+      "answer": 1,
+      "explain": "47π/4 = 7π/4 + 2π·5, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-33π/4 va 7π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-33π/4 = 7π/4 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 71π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 2,
+      "explain": "71π/6 = 11π/6 + 2π·5, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-49π/6 va 11π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-49π/6 = 11π/6 − 2π·5 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 73π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "73π/6 = π/6 + 2π·6, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-71π/6 va π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-71π/6 = π/6 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 49π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "III chorak",
+        "IV chorak"
+      ],
+      "answer": 0,
+      "explain": "49π/4 = π/4 + 2π·6, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-47π/4 va π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-47π/4 = π/4 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 37π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "IV chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "37π/3 = π/3 + 2π·6, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-35π/3 va π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-35π/3 = π/3 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 38π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "II chorak",
+        "I chorak",
+        "IV chorak"
+      ],
+      "answer": 1,
+      "explain": "38π/3 = 2π/3 + 2π·6, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-34π/3 va 2π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-34π/3 = 2π/3 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 51π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 0,
+      "explain": "51π/4 = 3π/4 + 2π·6, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-45π/4 va 3π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-45π/4 = 3π/4 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 77π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "77π/6 = 5π/6 + 2π·6, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-67π/6 va 5π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-67π/6 = 5π/6 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 79π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "79π/6 = 7π/6 + 2π·6, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-65π/6 va 7π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-65π/6 = 7π/6 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 53π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "53π/4 = 5π/4 + 2π·6, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-43π/4 va 5π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-43π/4 = 5π/4 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 40π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 3,
+      "explain": "40π/3 = 4π/3 + 2π·6, bu III chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-32π/3 va 4π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-32π/3 = 4π/3 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 41π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "I chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "41π/3 = 5π/3 + 2π·6, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-31π/3 va 5π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-31π/3 = 5π/3 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 55π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "II chorak",
+        "I chorak"
+      ],
+      "answer": 1,
+      "explain": "55π/4 = 7π/4 + 2π·6, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-41π/4 va 7π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-41π/4 = 7π/4 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 83π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "III chorak",
+        "II chorak",
+        "IV chorak"
+      ],
+      "answer": 3,
+      "explain": "83π/6 = 11π/6 + 2π·6, bu IV chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-61π/6 va 11π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-61π/6 = 11π/6 − 2π·6 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 85π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "II chorak",
+        "III chorak",
+        "I chorak"
+      ],
+      "answer": 3,
+      "explain": "85π/6 = π/6 + 2π·7, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-83π/6 va π/6 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-83π/6 = π/6 − 2π·7 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 57π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "III chorak",
+        "IV chorak",
+        "I chorak",
+        "II chorak"
+      ],
+      "answer": 2,
+      "explain": "57π/4 = π/4 + 2π·7, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-55π/4 va π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-55π/4 = π/4 − 2π·7 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 43π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "IV chorak",
+        "II chorak",
+        "I chorak",
+        "III chorak"
+      ],
+      "answer": 2,
+      "explain": "43π/3 = π/3 + 2π·7, bu I chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-41π/3 va π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-41π/3 = π/3 − 2π·7 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 44π/3 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "44π/3 = 2π/3 + 2π·7, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-40π/3 va 2π/3 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-40π/3 = 2π/3 − 2π·7 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 59π/4 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "I chorak",
+        "II chorak",
+        "IV chorak",
+        "III chorak"
+      ],
+      "answer": 1,
+      "explain": "59π/4 = 3π/4 + 2π·7, bu II chorak da joylashadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "-53π/4 va 3π/4 burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.",
+      "answer": true,
+      "explain": "-53π/4 = 3π/4 − 2π·7 bo'lib, farqi 2π ga karrali."
+    },
+    {
+      "type": "choice",
+      "q": "P(1; 0) nuqtani 89π/6 radian burchakka burganda nuqta qaysi chorakda yotadi?",
+      "options": [
+        "II chorak",
+        "III chorak",
+        "IV chorak",
+        "I chorak"
+      ],
+      "answer": 0,
+      "explain": "89π/6 = 5π/6 + 2π·7, bu II chorak da joylashadi."
+    }
+  ],
+  "cards": [
+    [
+      "Radian",
+      "Yoy uzunligi radiusga teng markaziy burchak"
+    ],
+    [
+      "Sinus",
+      "Burilgan nuqtaning ordinatasi (y koordinatasi)"
+    ],
+    [
+      "Kosinus",
+      "Burilgan nuqtaning abssissasi (x koordinatasi)"
+    ],
+    [
+      "Tangens",
+      "Sinusning kosinusga nisbati (sin α / cos α)"
+    ],
+    [
+      "Kotangens",
+      "Kosinusning sinusga nisbati (cos α / sin α)"
+    ],
+    [
+      "Ayniyat",
+      "O'zgaruvchining barcha ruxsatli qiymatlarida to'g'ri tenglik"
+    ],
+    [
+      "Birlik",
+      "Radiusi R = 1 bo'lgan markaziy aylana"
+    ],
+    [
+      "Chorak",
+      "Koordinata tekisligining to'rtdan bir qismi"
+    ],
+    [
+      "Davr",
+      "Trigonometrik funksiyalar qiymati takrorlanuvchi burchak"
+    ],
+    [
+      "Keltirish",
+      "Katta burchakni o'tkir burchak orqali ifodalash"
+    ],
+    [
+      "Musbat",
+      "Soat strelkasiga qarshi yo'nalishda burish"
+    ],
+    [
+      "Manfiy",
+      "Soat strelkasi bo'ylab yo'nalishda burish"
+    ],
+    [
+      "Aylanma",
+      "α + 2πk burchaklar bitta nuqtaga tushishi"
+    ],
+    [
+      "Boshlang'ich",
+      "Birlik aylanadagi P(1; 0) nuqta"
+    ],
+    [
+      "P(1; 0)",
+      "0 radian burilish nuqtasi"
+    ],
+    [
+      "(0; 1)",
+      "π/2 (90°) burilish nuqtasi"
+    ],
+    [
+      "(−1; 0)",
+      "π (180°) burilish nuqtasi"
+    ],
+    [
+      "(0; −1)",
+      "3π/2 (−π/2) burilish nuqtasi"
+    ],
+    [
+      "I chorak",
+      "0 < α < π/2 burchaklar sohasi (x>0, y>0)"
+    ],
+    [
+      "II chorak",
+      "π/2 < α < π burchaklar sohasi (x<0, y>0)"
+    ],
+    [
+      "III chorak",
+      "π < α < 3π/2 burchaklar sohasi (x<0, y<0)"
+    ],
+    [
+      "IV chorak",
+      "3π/2 < α < 2π burchaklar sohasi (x>0, y<0)"
+    ],
+    [
+      "2πk davr",
+      "Har to'liq aylanishdan keyin nuqta ustiga tushadi"
+    ],
+    [
+      "α + 360°k",
+      "Gradusdagi bir xil nuqtaga tushish formulasi"
+    ]
+  ]
+}

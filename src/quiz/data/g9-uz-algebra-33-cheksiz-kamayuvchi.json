@@ -1,0 +1,3476 @@
+{
+  "id": "g9-uz-algebra-33-cheksiz-kamayuvchi",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "33-§. Cheksiz kamayuvchi geometrik progressiya",
+  "title": "33-§. Cheksiz kamayuvchi geometrik progressiya (IV bob yakuni)",
+  "source": "Algebra 9-sinf (2019), IV bob, 33-§, 171–185-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Cheksiz geometrik progressiya cheksiz kamayuvchi bo'lishi uchun uning q maxraji qanday shartni bajarishi kerak?",
+      "options": [
+        "|q| < 1 (ya'ni −1 < q < 1, q ≠ 0)",
+        "q > 1",
+        "|q| > 1",
+        "q = 1"
+      ],
+      "answer": 0,
+      "explain": "n → ∞ da qⁿ → 0 bo'lishi uchun |q| < 1 bo'lishi zarur."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning barcha hadlari yig'indisi formulasi qaysi?",
+      "options": [
+        "S = b₁ · (1 − q)",
+        "S = b₁ / (1 + q)",
+        "S = (1 − q) / b₁",
+        "S = b₁ / (1 − q)"
+      ],
+      "answer": 3,
+      "explain": "|q| < 1 da qⁿ → 0 bo'lgani uchun S = b₁/(1 − q) olinadi."
+    },
+    {
+      "type": "choice",
+      "q": "Shaxmatning 64 katagiga 1, 2, 4, 8, ... tartibda qo'yiladigan jami donalar soni qaysi ifoda bilan beriladi (Beruniy asarida)?",
+      "options": [
+        "2⁶³",
+        "2⁶⁴ − 1",
+        "64² − 1",
+        "2⁶⁴"
+      ],
+      "answer": 1,
+      "explain": "1 + 2 + 4 + ... + 2⁶³ = 2⁶⁴ − 1."
+    },
+    {
+      "type": "choice",
+      "q": "Qadimgi Misrdagi qaysi manbada progressiyaga oid mashhur «7 uy, 49 mushuk...» masalasi uchraydi?",
+      "options": [
+        "Evklid Negizlari",
+        "Al-Jabr risolasi",
+        "Pifagor jadvali",
+        "Axmes (Raynd) papirusi"
+      ],
+      "answer": 3,
+      "explain": "Darslikdagi tarixiy ma'lumotda Axmes papirusi masalasi keltirilgan."
+    },
+    {
+      "type": "truefalse",
+      "q": "1 + ½ + ¼ + ⅛ + ... cheksiz yig'indining qiymati 2 ga teng.",
+      "answer": true,
+      "explain": "b₁ = 1, q = 1/2 ⇒ S = 1 / (1 − 1/2) = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "q = −3/2 bo'lgan geometrik progressiya cheksiz kamayuvchi hisoblanadi.",
+      "answer": false,
+      "explain": "|−3/2| = 1,5 > 1, shuning uchun kamayuvchi emas."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 1 va q = 1/2 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "2",
+      "explain": "S = 1 / (1 − (1/2)) = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = 1/2 cheksiz kamayuvchi progressiyaning yig'indisi 4 ga teng.",
+      "answer": true,
+      "explain": "S = 2/(1 − (1/2)) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 4 va q = 1/2 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "8",
+      "explain": "S = 4 / (1 − (1/2)) = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = 1/2 cheksiz kamayuvchi progressiyaning yig'indisi 10 ga teng.",
+      "answer": true,
+      "explain": "S = 5/(1 − (1/2)) = 10."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 7 va q = 1/2 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "14",
+      "explain": "S = 7 / (1 − (1/2)) = 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = 1/2 cheksiz kamayuvchi progressiyaning yig'indisi 16 ga teng.",
+      "answer": true,
+      "explain": "S = 8/(1 − (1/2)) = 16."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 10 va q = 1/2 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "20",
+      "explain": "S = 10 / (1 − (1/2)) = 20."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 11, q = 1/2 cheksiz kamayuvchi progressiyaning yig'indisi 22 ga teng.",
+      "answer": true,
+      "explain": "S = 11/(1 − (1/2)) = 22."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 13 va q = 1/2 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "26",
+      "explain": "S = 13 / (1 − (1/2)) = 26."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 14, q = 1/2 cheksiz kamayuvchi progressiyaning yig'indisi 28 ga teng.",
+      "answer": true,
+      "explain": "S = 14/(1 − (1/2)) = 28."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = 1/3 cheksiz kamayuvchi progressiyaning yig'indisi 3/2 ga teng.",
+      "answer": true,
+      "explain": "S = 1/(1 − (1/3)) = 3/2."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 2, q = 1/3. Uning yig'indisini toping.",
+      "options": [
+        "3/2",
+        "3",
+        "4/3",
+        "2/3"
+      ],
+      "answer": 1,
+      "explain": "S = 2 / (1 − (1/3)) = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = 1/3 cheksiz kamayuvchi progressiyaning yig'indisi 9/2 ga teng.",
+      "answer": true,
+      "explain": "S = 3/(1 − (1/3)) = 9/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = 1/3 cheksiz kamayuvchi progressiyaning yig'indisi 6 ga teng.",
+      "answer": true,
+      "explain": "S = 4/(1 − (1/3)) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 5, q = 1/3. Uning yig'indisini toping.",
+      "options": [
+        "5/3",
+        "15/4",
+        "10/3",
+        "15/2"
+      ],
+      "answer": 3,
+      "explain": "S = 5 / (1 − (1/3)) = 15/2."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 6 va q = 1/3 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "9",
+      "explain": "S = 6 / (1 − (1/3)) = 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = 1/3 cheksiz kamayuvchi progressiyaning yig'indisi 21/2 ga teng.",
+      "answer": true,
+      "explain": "S = 7/(1 − (1/3)) = 21/2."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 8, q = 1/3. Uning yig'indisini toping.",
+      "options": [
+        "8/3",
+        "6",
+        "12",
+        "16/3"
+      ],
+      "answer": 2,
+      "explain": "S = 8 / (1 − (1/3)) = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = 1/3 cheksiz kamayuvchi progressiyaning yig'indisi 27/2 ga teng.",
+      "answer": true,
+      "explain": "S = 9/(1 − (1/3)) = 27/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 10, q = 1/3 cheksiz kamayuvchi progressiyaning yig'indisi 15 ga teng.",
+      "answer": true,
+      "explain": "S = 10/(1 − (1/3)) = 15."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 11, q = 1/3. Uning yig'indisini toping.",
+      "options": [
+        "11/3",
+        "33/2",
+        "33/4",
+        "22/3"
+      ],
+      "answer": 1,
+      "explain": "S = 11 / (1 − (1/3)) = 33/2."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 12 va q = 1/3 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "18",
+      "explain": "S = 12 / (1 − (1/3)) = 18."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 13, q = 1/3 cheksiz kamayuvchi progressiyaning yig'indisi 39/2 ga teng.",
+      "answer": true,
+      "explain": "S = 13/(1 − (1/3)) = 39/2."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 14, q = 1/3. Uning yig'indisini toping.",
+      "options": [
+        "28/3",
+        "14/3",
+        "21",
+        "21/2"
+      ],
+      "answer": 2,
+      "explain": "S = 14 / (1 − (1/3)) = 21."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 15, q = 1/3 cheksiz kamayuvchi progressiyaning yig'indisi 45/2 ga teng.",
+      "answer": true,
+      "explain": "S = 15/(1 − (1/3)) = 45/2."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 2 va q = 2/3 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "6",
+      "explain": "S = 2 / (1 − (2/3)) = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = 2/3 cheksiz kamayuvchi progressiyaning yig'indisi 9 ga teng.",
+      "answer": true,
+      "explain": "S = 3/(1 − (2/3)) = 9."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 5 va q = 2/3 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "15",
+      "explain": "S = 5 / (1 − (2/3)) = 15."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = 2/3 cheksiz kamayuvchi progressiyaning yig'indisi 18 ga teng.",
+      "answer": true,
+      "explain": "S = 6/(1 − (2/3)) = 18."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 8 va q = 2/3 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "24",
+      "explain": "S = 8 / (1 − (2/3)) = 24."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = 2/3 cheksiz kamayuvchi progressiyaning yig'indisi 27 ga teng.",
+      "answer": true,
+      "explain": "S = 9/(1 − (2/3)) = 27."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 11 va q = 2/3 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "33",
+      "explain": "S = 11 / (1 − (2/3)) = 33."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 12, q = 2/3 cheksiz kamayuvchi progressiyaning yig'indisi 36 ga teng.",
+      "answer": true,
+      "explain": "S = 12/(1 − (2/3)) = 36."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 14 va q = 2/3 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "42",
+      "explain": "S = 14 / (1 − (2/3)) = 42."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 15, q = 2/3 cheksiz kamayuvchi progressiyaning yig'indisi 45 ga teng.",
+      "answer": true,
+      "explain": "S = 15/(1 − (2/3)) = 45."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 1, q = 1/4. Uning yig'indisini toping.",
+      "options": [
+        "4/3",
+        "3/4",
+        "4/5",
+        "1/4"
+      ],
+      "answer": 0,
+      "explain": "S = 1 / (1 − (1/4)) = 4/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = 1/4 cheksiz kamayuvchi progressiyaning yig'indisi 8/3 ga teng.",
+      "answer": true,
+      "explain": "S = 2/(1 − (1/4)) = 8/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = 1/4 cheksiz kamayuvchi progressiyaning yig'indisi 4 ga teng.",
+      "answer": true,
+      "explain": "S = 3/(1 − (1/4)) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 4, q = 1/4. Uning yig'indisini toping.",
+      "options": [
+        "3",
+        "16/5",
+        "1",
+        "16/3"
+      ],
+      "answer": 3,
+      "explain": "S = 4 / (1 − (1/4)) = 16/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = 1/4 cheksiz kamayuvchi progressiyaning yig'indisi 20/3 ga teng.",
+      "answer": true,
+      "explain": "S = 5/(1 − (1/4)) = 20/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = 1/4 cheksiz kamayuvchi progressiyaning yig'indisi 8 ga teng.",
+      "answer": true,
+      "explain": "S = 6/(1 − (1/4)) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 7, q = 1/4. Uning yig'indisini toping.",
+      "options": [
+        "28/3",
+        "21/4",
+        "7/4",
+        "28/5"
+      ],
+      "answer": 0,
+      "explain": "S = 7 / (1 − (1/4)) = 28/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = 1/4 cheksiz kamayuvchi progressiyaning yig'indisi 32/3 ga teng.",
+      "answer": true,
+      "explain": "S = 8/(1 − (1/4)) = 32/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = 1/4 cheksiz kamayuvchi progressiyaning yig'indisi 12 ga teng.",
+      "answer": true,
+      "explain": "S = 9/(1 − (1/4)) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 10, q = 1/4. Uning yig'indisini toping.",
+      "options": [
+        "5/2",
+        "40/3",
+        "8",
+        "15/2"
+      ],
+      "answer": 1,
+      "explain": "S = 10 / (1 − (1/4)) = 40/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 11, q = 1/4 cheksiz kamayuvchi progressiyaning yig'indisi 44/3 ga teng.",
+      "answer": true,
+      "explain": "S = 11/(1 − (1/4)) = 44/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 12, q = 1/4 cheksiz kamayuvchi progressiyaning yig'indisi 16 ga teng.",
+      "answer": true,
+      "explain": "S = 12/(1 − (1/4)) = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 13, q = 1/4. Uning yig'indisini toping.",
+      "options": [
+        "52/5",
+        "13/4",
+        "52/3",
+        "39/4"
+      ],
+      "answer": 2,
+      "explain": "S = 13 / (1 − (1/4)) = 52/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 14, q = 1/4 cheksiz kamayuvchi progressiyaning yig'indisi 56/3 ga teng.",
+      "answer": true,
+      "explain": "S = 14/(1 − (1/4)) = 56/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 15, q = 1/4 cheksiz kamayuvchi progressiyaning yig'indisi 20 ga teng.",
+      "answer": true,
+      "explain": "S = 15/(1 − (1/4)) = 20."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = 3/4 cheksiz kamayuvchi progressiyaning yig'indisi 4 ga teng.",
+      "answer": true,
+      "explain": "S = 1/(1 − (3/4)) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 3 va q = 3/4 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "12",
+      "explain": "S = 3 / (1 − (3/4)) = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = 3/4 cheksiz kamayuvchi progressiyaning yig'indisi 16 ga teng.",
+      "answer": true,
+      "explain": "S = 4/(1 − (3/4)) = 16."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 6 va q = 3/4 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "24",
+      "explain": "S = 6 / (1 − (3/4)) = 24."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = 3/4 cheksiz kamayuvchi progressiyaning yig'indisi 28 ga teng.",
+      "answer": true,
+      "explain": "S = 7/(1 − (3/4)) = 28."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 9 va q = 3/4 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "36",
+      "explain": "S = 9 / (1 − (3/4)) = 36."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 10, q = 3/4 cheksiz kamayuvchi progressiyaning yig'indisi 40 ga teng.",
+      "answer": true,
+      "explain": "S = 10/(1 − (3/4)) = 40."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 12 va q = 3/4 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "48",
+      "explain": "S = 12 / (1 − (3/4)) = 48."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 13, q = 3/4 cheksiz kamayuvchi progressiyaning yig'indisi 52 ga teng.",
+      "answer": true,
+      "explain": "S = 13/(1 − (3/4)) = 52."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 15 va q = 3/4 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "60",
+      "explain": "S = 15 / (1 − (3/4)) = 60."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = 1/5 cheksiz kamayuvchi progressiyaning yig'indisi 5/4 ga teng.",
+      "answer": true,
+      "explain": "S = 1/(1 − (1/5)) = 5/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = 1/5 cheksiz kamayuvchi progressiyaning yig'indisi 5/2 ga teng.",
+      "answer": true,
+      "explain": "S = 2/(1 − (1/5)) = 5/2."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 3, q = 1/5. Uning yig'indisini toping.",
+      "options": [
+        "5/2",
+        "12/5",
+        "3/5",
+        "15/4"
+      ],
+      "answer": 3,
+      "explain": "S = 3 / (1 − (1/5)) = 15/4."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 4 va q = 1/5 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "5",
+      "explain": "S = 4 / (1 − (1/5)) = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = 1/5 cheksiz kamayuvchi progressiyaning yig'indisi 25/4 ga teng.",
+      "answer": true,
+      "explain": "S = 5/(1 − (1/5)) = 25/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 6, q = 1/5. Uning yig'indisini toping.",
+      "options": [
+        "6/5",
+        "15/2",
+        "24/5",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "S = 6 / (1 − (1/5)) = 15/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = 1/5 cheksiz kamayuvchi progressiyaning yig'indisi 35/4 ga teng.",
+      "answer": true,
+      "explain": "S = 7/(1 − (1/5)) = 35/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = 1/5 cheksiz kamayuvchi progressiyaning yig'indisi 10 ga teng.",
+      "answer": true,
+      "explain": "S = 8/(1 − (1/5)) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 9, q = 1/5. Uning yig'indisini toping.",
+      "options": [
+        "15/2",
+        "9/5",
+        "36/5",
+        "45/4"
+      ],
+      "answer": 3,
+      "explain": "S = 9 / (1 − (1/5)) = 45/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 10, q = 1/5 cheksiz kamayuvchi progressiyaning yig'indisi 25/2 ga teng.",
+      "answer": true,
+      "explain": "S = 10/(1 − (1/5)) = 25/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 11, q = 1/5 cheksiz kamayuvchi progressiyaning yig'indisi 55/4 ga teng.",
+      "answer": true,
+      "explain": "S = 11/(1 − (1/5)) = 55/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 12, q = 1/5. Uning yig'indisini toping.",
+      "options": [
+        "12/5",
+        "10",
+        "15",
+        "48/5"
+      ],
+      "answer": 2,
+      "explain": "S = 12 / (1 − (1/5)) = 15."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 13, q = 1/5 cheksiz kamayuvchi progressiyaning yig'indisi 65/4 ga teng.",
+      "answer": true,
+      "explain": "S = 13/(1 − (1/5)) = 65/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 14, q = 1/5 cheksiz kamayuvchi progressiyaning yig'indisi 35/2 ga teng.",
+      "answer": true,
+      "explain": "S = 14/(1 − (1/5)) = 35/2."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 15, q = 1/5. Uning yig'indisini toping.",
+      "options": [
+        "3",
+        "12",
+        "75/4",
+        "25/2"
+      ],
+      "answer": 2,
+      "explain": "S = 15 / (1 − (1/5)) = 75/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = 2/5 cheksiz kamayuvchi progressiyaning yig'indisi 5/3 ga teng.",
+      "answer": true,
+      "explain": "S = 1/(1 − (2/5)) = 5/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 2, q = 2/5. Uning yig'indisini toping.",
+      "options": [
+        "10/3",
+        "10/7",
+        "6/5",
+        "2/5"
+      ],
+      "answer": 0,
+      "explain": "S = 2 / (1 − (2/5)) = 10/3."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 3 va q = 2/5 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "5",
+      "explain": "S = 3 / (1 − (2/5)) = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = 2/5 cheksiz kamayuvchi progressiyaning yig'indisi 20/3 ga teng.",
+      "answer": true,
+      "explain": "S = 4/(1 − (2/5)) = 20/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 5, q = 2/5. Uning yig'indisini toping.",
+      "options": [
+        "25/3",
+        "25/7",
+        "3",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "S = 5 / (1 − (2/5)) = 25/3."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 6 va q = 2/5 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "10",
+      "explain": "S = 6 / (1 − (2/5)) = 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = 2/5 cheksiz kamayuvchi progressiyaning yig'indisi 35/3 ga teng.",
+      "answer": true,
+      "explain": "S = 7/(1 − (2/5)) = 35/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 8, q = 2/5. Uning yig'indisini toping.",
+      "options": [
+        "8/5",
+        "24/5",
+        "40/3",
+        "40/7"
+      ],
+      "answer": 2,
+      "explain": "S = 8 / (1 − (2/5)) = 40/3."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 9 va q = 2/5 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "15",
+      "explain": "S = 9 / (1 − (2/5)) = 15."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 10, q = 2/5 cheksiz kamayuvchi progressiyaning yig'indisi 50/3 ga teng.",
+      "answer": true,
+      "explain": "S = 10/(1 − (2/5)) = 50/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 11, q = 2/5. Uning yig'indisini toping.",
+      "options": [
+        "11/5",
+        "55/3",
+        "33/5",
+        "55/7"
+      ],
+      "answer": 1,
+      "explain": "S = 11 / (1 − (2/5)) = 55/3."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 12 va q = 2/5 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "20",
+      "explain": "S = 12 / (1 − (2/5)) = 20."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 13, q = 2/5 cheksiz kamayuvchi progressiyaning yig'indisi 65/3 ga teng.",
+      "answer": true,
+      "explain": "S = 13/(1 − (2/5)) = 65/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 14, q = 2/5. Uning yig'indisini toping.",
+      "options": [
+        "42/5",
+        "70/3",
+        "14/5",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "S = 14 / (1 − (2/5)) = 70/3."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 15 va q = 2/5 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "25",
+      "explain": "S = 15 / (1 − (2/5)) = 25."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = -1/2 cheksiz kamayuvchi progressiyaning yig'indisi 2/3 ga teng.",
+      "answer": true,
+      "explain": "S = 1/(1 − (-1/2)) = 2/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = -1/2 cheksiz kamayuvchi progressiyaning yig'indisi 4/3 ga teng.",
+      "answer": true,
+      "explain": "S = 2/(1 − (-1/2)) = 4/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 3, q = -1/2. Uning yig'indisini toping.",
+      "options": [
+        "3/2",
+        "2",
+        "6",
+        "9/2"
+      ],
+      "answer": 1,
+      "explain": "S = 3 / (1 − (-1/2)) = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = -1/2 cheksiz kamayuvchi progressiyaning yig'indisi 8/3 ga teng.",
+      "answer": true,
+      "explain": "S = 4/(1 − (-1/2)) = 8/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 5, q = -1/2 cheksiz kamayuvchi progressiyaning yig'indisi 10/3 ga teng.",
+      "answer": true,
+      "explain": "S = 5/(1 − (-1/2)) = 10/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 6, q = -1/2. Uning yig'indisini toping.",
+      "options": [
+        "12",
+        "4",
+        "3",
+        "9"
+      ],
+      "answer": 1,
+      "explain": "S = 6 / (1 − (-1/2)) = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = -1/2 cheksiz kamayuvchi progressiyaning yig'indisi 14/3 ga teng.",
+      "answer": true,
+      "explain": "S = 7/(1 − (-1/2)) = 14/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = -1/2 cheksiz kamayuvchi progressiyaning yig'indisi 16/3 ga teng.",
+      "answer": true,
+      "explain": "S = 8/(1 − (-1/2)) = 16/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 9, q = -1/2. Uning yig'indisini toping.",
+      "options": [
+        "9/2",
+        "18",
+        "27/2",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "S = 9 / (1 − (-1/2)) = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 10, q = -1/2 cheksiz kamayuvchi progressiyaning yig'indisi 20/3 ga teng.",
+      "answer": true,
+      "explain": "S = 10/(1 − (-1/2)) = 20/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 11, q = -1/2 cheksiz kamayuvchi progressiyaning yig'indisi 22/3 ga teng.",
+      "answer": true,
+      "explain": "S = 11/(1 − (-1/2)) = 22/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 12, q = -1/2. Uning yig'indisini toping.",
+      "options": [
+        "18",
+        "6",
+        "24",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "S = 12 / (1 − (-1/2)) = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 13, q = -1/2 cheksiz kamayuvchi progressiyaning yig'indisi 26/3 ga teng.",
+      "answer": true,
+      "explain": "S = 13/(1 − (-1/2)) = 26/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 14, q = -1/2 cheksiz kamayuvchi progressiyaning yig'indisi 28/3 ga teng.",
+      "answer": true,
+      "explain": "S = 14/(1 − (-1/2)) = 28/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 15, q = -1/2. Uning yig'indisini toping.",
+      "options": [
+        "45/2",
+        "30",
+        "10",
+        "15/2"
+      ],
+      "answer": 2,
+      "explain": "S = 15 / (1 − (-1/2)) = 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 1, q = -1/3 cheksiz kamayuvchi progressiyaning yig'indisi 3/4 ga teng.",
+      "answer": true,
+      "explain": "S = 1/(1 − (-1/3)) = 3/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 2, q = -1/3. Uning yig'indisini toping.",
+      "options": [
+        "3",
+        "8/3",
+        "3/2",
+        "2/3"
+      ],
+      "answer": 2,
+      "explain": "S = 2 / (1 − (-1/3)) = 3/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = -1/3 cheksiz kamayuvchi progressiyaning yig'indisi 9/4 ga teng.",
+      "answer": true,
+      "explain": "S = 3/(1 − (-1/3)) = 9/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 4, q = -1/3 cheksiz kamayuvchi progressiyaning yig'indisi 3 ga teng.",
+      "answer": true,
+      "explain": "S = 4/(1 − (-1/3)) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 5, q = -1/3. Uning yig'indisini toping.",
+      "options": [
+        "20/3",
+        "15/2",
+        "15/4",
+        "5/3"
+      ],
+      "answer": 2,
+      "explain": "S = 5 / (1 − (-1/3)) = 15/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = -1/3 cheksiz kamayuvchi progressiyaning yig'indisi 9/2 ga teng.",
+      "answer": true,
+      "explain": "S = 6/(1 − (-1/3)) = 9/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 7, q = -1/3 cheksiz kamayuvchi progressiyaning yig'indisi 21/4 ga teng.",
+      "answer": true,
+      "explain": "S = 7/(1 − (-1/3)) = 21/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 8, q = -1/3. Uning yig'indisini toping.",
+      "options": [
+        "32/3",
+        "6",
+        "8/3",
+        "12"
+      ],
+      "answer": 1,
+      "explain": "S = 8 / (1 − (-1/3)) = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = -1/3 cheksiz kamayuvchi progressiyaning yig'indisi 27/4 ga teng.",
+      "answer": true,
+      "explain": "S = 9/(1 − (-1/3)) = 27/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 10, q = -1/3 cheksiz kamayuvchi progressiyaning yig'indisi 15/2 ga teng.",
+      "answer": true,
+      "explain": "S = 10/(1 − (-1/3)) = 15/2."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 11, q = -1/3. Uning yig'indisini toping.",
+      "options": [
+        "11/3",
+        "33/2",
+        "44/3",
+        "33/4"
+      ],
+      "answer": 3,
+      "explain": "S = 11 / (1 − (-1/3)) = 33/4."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 12 va q = -1/3 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "9",
+      "explain": "S = 12 / (1 − (-1/3)) = 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 13, q = -1/3 cheksiz kamayuvchi progressiyaning yig'indisi 39/4 ga teng.",
+      "answer": true,
+      "explain": "S = 13/(1 − (-1/3)) = 39/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 14, q = -1/3. Uning yig'indisini toping.",
+      "options": [
+        "14/3",
+        "21",
+        "56/3",
+        "21/2"
+      ],
+      "answer": 3,
+      "explain": "S = 14 / (1 − (-1/3)) = 21/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 15, q = -1/3 cheksiz kamayuvchi progressiyaning yig'indisi 45/4 ga teng.",
+      "answer": true,
+      "explain": "S = 15/(1 − (-1/3)) = 45/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 1, q = -1/4. Uning yig'indisini toping.",
+      "options": [
+        "4/3",
+        "4/5",
+        "1/4",
+        "5/4"
+      ],
+      "answer": 1,
+      "explain": "S = 1 / (1 − (-1/4)) = 4/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 2, q = -1/4 cheksiz kamayuvchi progressiyaning yig'indisi 8/5 ga teng.",
+      "answer": true,
+      "explain": "S = 2/(1 − (-1/4)) = 8/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 3, q = -1/4 cheksiz kamayuvchi progressiyaning yig'indisi 12/5 ga teng.",
+      "answer": true,
+      "explain": "S = 3/(1 − (-1/4)) = 12/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 4, q = -1/4. Uning yig'indisini toping.",
+      "options": [
+        "16/3",
+        "5",
+        "16/5",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "S = 4 / (1 − (-1/4)) = 16/5."
+    },
+    {
+      "type": "fill",
+      "q": "b₁ = 5 va q = -1/4 cheksiz kamayuvchi geometrik progressiya yig'indisini toping.",
+      "answer": "4",
+      "explain": "S = 5 / (1 − (-1/4)) = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 6, q = -1/4 cheksiz kamayuvchi progressiyaning yig'indisi 24/5 ga teng.",
+      "answer": true,
+      "explain": "S = 6/(1 − (-1/4)) = 24/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 7, q = -1/4. Uning yig'indisini toping.",
+      "options": [
+        "28/5",
+        "35/4",
+        "28/3",
+        "7/4"
+      ],
+      "answer": 0,
+      "explain": "S = 7 / (1 − (-1/4)) = 28/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 8, q = -1/4 cheksiz kamayuvchi progressiyaning yig'indisi 32/5 ga teng.",
+      "answer": true,
+      "explain": "S = 8/(1 − (-1/4)) = 32/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 9, q = -1/4 cheksiz kamayuvchi progressiyaning yig'indisi 36/5 ga teng.",
+      "answer": true,
+      "explain": "S = 9/(1 − (-1/4)) = 36/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 10, q = -1/4. Uning yig'indisini toping.",
+      "options": [
+        "8",
+        "40/3",
+        "25/2",
+        "5/2"
+      ],
+      "answer": 0,
+      "explain": "S = 10 / (1 − (-1/4)) = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 11, q = -1/4 cheksiz kamayuvchi progressiyaning yig'indisi 44/5 ga teng.",
+      "answer": true,
+      "explain": "S = 11/(1 − (-1/4)) = 44/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 12, q = -1/4 cheksiz kamayuvchi progressiyaning yig'indisi 48/5 ga teng.",
+      "answer": true,
+      "explain": "S = 12/(1 − (-1/4)) = 48/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 13, q = -1/4. Uning yig'indisini toping.",
+      "options": [
+        "13/4",
+        "52/3",
+        "65/4",
+        "52/5"
+      ],
+      "answer": 3,
+      "explain": "S = 13 / (1 − (-1/4)) = 52/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 14, q = -1/4 cheksiz kamayuvchi progressiyaning yig'indisi 56/5 ga teng.",
+      "answer": true,
+      "explain": "S = 14/(1 − (-1/4)) = 56/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "b₁ = 15, q = -1/4 cheksiz kamayuvchi progressiyaning yig'indisi 12 ga teng.",
+      "answer": true,
+      "explain": "S = 15/(1 − (-1/4)) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "0,(1) cheksiz davriy o'nli kasrni oddiy kasrga aylantiring.",
+      "options": [
+        "2/9",
+        "1/9",
+        "1/10",
+        "1/99"
+      ],
+      "answer": 1,
+      "explain": "0,(1) = 1/10 + 1/100 + ... = (1/10)/(1 − 1/10) = 1/9."
+    },
+    {
+      "type": "choice",
+      "q": "0,(2) cheksiz davriy o'nli kasrni oddiy kasrga aylantiring.",
+      "options": [
+        "2/99",
+        "1/5",
+        "2/9",
+        "1/3"
+      ],
+      "answer": 2,
+      "explain": "0,(2) = 2/10 + 2/100 + ... = (2/10)/(1 − 1/10) = 2/9."
+    },
+    {
+      "type": "choice",
+      "q": "0,(3) cheksiz davriy o'nli kasrni oddiy kasrga aylantiring.",
+      "options": [
+        "1/3",
+        "1/33",
+        "4/9",
+        "3/10"
+      ],
+      "answer": 0,
+      "explain": "0,(3) = 3/10 + 3/100 + ... = (3/10)/(1 − 1/10) = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "0,(4) cheksiz davriy o'nli kasrni oddiy kasrga aylantiring.",
+      "options": [
+        "5/9",
+        "4/99",
+        "2/5",
+        "4/9"
+      ],
+      "answer": 3,
+      "explain": "0,(4) = 4/10 + 4/100 + ... = (4/10)/(1 − 1/10) = 4/9."
+    },
+    {
+      "type": "choice",
+      "q": "0,(5) cheksiz davriy o'nli kasrni oddiy kasrga aylantiring.",
+      "options": [
+        "2/3",
+        "5/9",
+        "5/99",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "0,(5) = 5/10 + 5/100 + ... = (5/10)/(1 − 1/10) = 5/9."
+    },
+    {
+      "type": "choice",
+      "q": "0,(6) cheksiz davriy o'nli kasrni oddiy kasrga aylantiring.",
+      "options": [
+        "2/3",
+        "2/33",
+        "3/5",
+        "7/9"
+      ],
+      "answer": 0,
+      "explain": "0,(6) = 6/10 + 6/100 + ... = (6/10)/(1 − 1/10) = 2/3."
+    },
+    {
+      "type": "choice",
+      "q": "0,(7) cheksiz davriy o'nli kasrni oddiy kasrga aylantiring.",
+      "options": [
+        "8/9",
+        "7/10",
+        "7/99",
+        "7/9"
+      ],
+      "answer": 3,
+      "explain": "0,(7) = 7/10 + 7/100 + ... = (7/10)/(1 − 1/10) = 7/9."
+    },
+    {
+      "type": "choice",
+      "q": "0,(8) cheksiz davriy o'nli kasrni oddiy kasrga aylantiring.",
+      "options": [
+        "1",
+        "8/99",
+        "4/5",
+        "8/9"
+      ],
+      "answer": 3,
+      "explain": "0,(8) = 8/10 + 8/100 + ... = (8/10)/(1 − 1/10) = 8/9."
+    },
+    {
+      "type": "choice",
+      "q": "0,(12) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "13/99",
+        "3/25",
+        "2/15",
+        "4/33"
+      ],
+      "answer": 3,
+      "explain": "0,(12) = 12/99 = 4/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(15) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "3/20",
+        "5/33",
+        "16/99",
+        "1/6"
+      ],
+      "answer": 1,
+      "explain": "0,(15) = 15/99 = 5/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(18) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "1/5",
+        "9/50",
+        "2/11",
+        "19/99"
+      ],
+      "answer": 2,
+      "explain": "0,(18) = 18/99 = 2/11."
+    },
+    {
+      "type": "choice",
+      "q": "0,(21) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "2/9",
+        "7/30",
+        "7/33",
+        "21/100"
+      ],
+      "answer": 2,
+      "explain": "0,(21) = 21/99 = 7/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(24) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "25/99",
+        "4/15",
+        "6/25",
+        "8/33"
+      ],
+      "answer": 3,
+      "explain": "0,(24) = 24/99 = 8/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(27) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "27/100",
+        "3/10",
+        "28/99",
+        "3/11"
+      ],
+      "answer": 3,
+      "explain": "0,(27) = 27/99 = 3/11."
+    },
+    {
+      "type": "choice",
+      "q": "0,(30) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "1/3",
+        "31/99",
+        "3/10",
+        "10/33"
+      ],
+      "answer": 3,
+      "explain": "0,(30) = 30/99 = 10/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(36) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "4/11",
+        "37/99",
+        "2/5",
+        "9/25"
+      ],
+      "answer": 0,
+      "explain": "0,(36) = 36/99 = 4/11."
+    },
+    {
+      "type": "choice",
+      "q": "0,(39) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "39/100",
+        "13/33",
+        "13/30",
+        "40/99"
+      ],
+      "answer": 1,
+      "explain": "0,(39) = 39/99 = 13/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(42) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "43/99",
+        "14/33",
+        "7/15",
+        "21/50"
+      ],
+      "answer": 1,
+      "explain": "0,(42) = 42/99 = 14/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(45) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "5/11",
+        "1/2",
+        "46/99",
+        "9/20"
+      ],
+      "answer": 0,
+      "explain": "0,(45) = 45/99 = 5/11."
+    },
+    {
+      "type": "choice",
+      "q": "0,(48) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "16/33",
+        "49/99",
+        "12/25",
+        "8/15"
+      ],
+      "answer": 0,
+      "explain": "0,(48) = 48/99 = 16/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(51) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "17/30",
+        "52/99",
+        "51/100",
+        "17/33"
+      ],
+      "answer": 3,
+      "explain": "0,(51) = 51/99 = 17/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(54) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "6/11",
+        "3/5",
+        "27/50",
+        "5/9"
+      ],
+      "answer": 0,
+      "explain": "0,(54) = 54/99 = 6/11."
+    },
+    {
+      "type": "choice",
+      "q": "0,(57) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "19/33",
+        "58/99",
+        "19/30",
+        "57/100"
+      ],
+      "answer": 0,
+      "explain": "0,(57) = 57/99 = 19/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(60) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "20/33",
+        "2/3",
+        "61/99",
+        "3/5"
+      ],
+      "answer": 0,
+      "explain": "0,(60) = 60/99 = 20/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(63) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "7/10",
+        "64/99",
+        "63/100",
+        "7/11"
+      ],
+      "answer": 3,
+      "explain": "0,(63) = 63/99 = 7/11."
+    },
+    {
+      "type": "choice",
+      "q": "0,(69) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "69/100",
+        "23/30",
+        "23/33",
+        "70/99"
+      ],
+      "answer": 2,
+      "explain": "0,(69) = 69/99 = 23/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(72) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "4/5",
+        "73/99",
+        "8/11",
+        "18/25"
+      ],
+      "answer": 2,
+      "explain": "0,(72) = 72/99 = 8/11."
+    },
+    {
+      "type": "choice",
+      "q": "0,(75) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "5/6",
+        "76/99",
+        "25/33",
+        "3/4"
+      ],
+      "answer": 2,
+      "explain": "0,(75) = 75/99 = 25/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(78) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "26/33",
+        "39/50",
+        "79/99",
+        "13/15"
+      ],
+      "answer": 0,
+      "explain": "0,(78) = 78/99 = 26/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(81) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "9/11",
+        "81/100",
+        "82/99",
+        "9/10"
+      ],
+      "answer": 0,
+      "explain": "0,(81) = 81/99 = 9/11."
+    },
+    {
+      "type": "choice",
+      "q": "0,(84) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "14/15",
+        "21/25",
+        "28/33",
+        "85/99"
+      ],
+      "answer": 2,
+      "explain": "0,(84) = 84/99 = 28/33."
+    },
+    {
+      "type": "choice",
+      "q": "0,(87) davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "29/33",
+        "29/30",
+        "87/100",
+        "8/9"
+      ],
+      "answer": 0,
+      "explain": "0,(87) = 87/99 = 29/33."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 3, birinchi hadi b₁ = 2. Maxraj q ni toping.",
+      "options": [
+        "2/3",
+        "1/3",
+        "1/4",
+        "−1/3"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 2/3 = 2/3 ⇒ q = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 6, birinchi hadi b₁ = 4. Maxraj q ni toping.",
+      "options": [
+        "1/4",
+        "2/3",
+        "1/3",
+        "−1/3"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 4/6 = 2/3 ⇒ q = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 9, birinchi hadi b₁ = 6. Maxraj q ni toping.",
+      "options": [
+        "1/4",
+        "1/3",
+        "2/3",
+        "−1/3"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 6/9 = 2/3 ⇒ q = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 12, birinchi hadi b₁ = 8. Maxraj q ni toping.",
+      "options": [
+        "2/3",
+        "1/4",
+        "−1/3",
+        "1/3"
+      ],
+      "answer": 3,
+      "explain": "1 − q = b₁/S = 8/12 = 2/3 ⇒ q = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 15, birinchi hadi b₁ = 10. Maxraj q ni toping.",
+      "options": [
+        "1/3",
+        "−1/3",
+        "1/4",
+        "2/3"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 10/15 = 2/3 ⇒ q = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 18, birinchi hadi b₁ = 12. Maxraj q ni toping.",
+      "options": [
+        "2/3",
+        "1/4",
+        "1/3",
+        "−1/3"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 12/18 = 2/3 ⇒ q = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 21, birinchi hadi b₁ = 14. Maxraj q ni toping.",
+      "options": [
+        "2/3",
+        "1/3",
+        "1/4",
+        "−1/3"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 14/21 = 2/3 ⇒ q = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 24, birinchi hadi b₁ = 16. Maxraj q ni toping.",
+      "options": [
+        "1/4",
+        "2/3",
+        "1/3",
+        "−1/3"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 16/24 = 2/3 ⇒ q = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 27, birinchi hadi b₁ = 18. Maxraj q ni toping.",
+      "options": [
+        "−1/3",
+        "1/3",
+        "1/4",
+        "2/3"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 18/27 = 2/3 ⇒ q = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 30, birinchi hadi b₁ = 20. Maxraj q ni toping.",
+      "options": [
+        "1/4",
+        "1/3",
+        "−1/3",
+        "2/3"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 20/30 = 2/3 ⇒ q = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 4, birinchi hadi b₁ = 3. Maxraj q ni toping.",
+      "options": [
+        "1/5",
+        "1/4",
+        "3/4",
+        "−1/4"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 3/4 = 3/4 ⇒ q = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 8, birinchi hadi b₁ = 6. Maxraj q ni toping.",
+      "options": [
+        "−1/4",
+        "1/4",
+        "1/5",
+        "3/4"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 6/8 = 3/4 ⇒ q = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 12, birinchi hadi b₁ = 9. Maxraj q ni toping.",
+      "options": [
+        "1/5",
+        "−1/4",
+        "3/4",
+        "1/4"
+      ],
+      "answer": 3,
+      "explain": "1 − q = b₁/S = 9/12 = 3/4 ⇒ q = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 16, birinchi hadi b₁ = 12. Maxraj q ni toping.",
+      "options": [
+        "1/4",
+        "1/5",
+        "3/4",
+        "−1/4"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 12/16 = 3/4 ⇒ q = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 20, birinchi hadi b₁ = 15. Maxraj q ni toping.",
+      "options": [
+        "1/4",
+        "3/4",
+        "−1/4",
+        "1/5"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 15/20 = 3/4 ⇒ q = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 24, birinchi hadi b₁ = 18. Maxraj q ni toping.",
+      "options": [
+        "3/4",
+        "−1/4",
+        "1/4",
+        "1/5"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 18/24 = 3/4 ⇒ q = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 28, birinchi hadi b₁ = 21. Maxraj q ni toping.",
+      "options": [
+        "1/4",
+        "3/4",
+        "−1/4",
+        "1/5"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 21/28 = 3/4 ⇒ q = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 32, birinchi hadi b₁ = 24. Maxraj q ni toping.",
+      "options": [
+        "1/5",
+        "3/4",
+        "−1/4",
+        "1/4"
+      ],
+      "answer": 3,
+      "explain": "1 − q = b₁/S = 24/32 = 3/4 ⇒ q = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 36, birinchi hadi b₁ = 27. Maxraj q ni toping.",
+      "options": [
+        "1/4",
+        "−1/4",
+        "3/4",
+        "1/5"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 27/36 = 3/4 ⇒ q = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 40, birinchi hadi b₁ = 30. Maxraj q ni toping.",
+      "options": [
+        "1/4",
+        "−1/4",
+        "3/4",
+        "1/5"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 30/40 = 3/4 ⇒ q = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 5, birinchi hadi b₁ = 4. Maxraj q ni toping.",
+      "options": [
+        "−1/5",
+        "1/5",
+        "1/6",
+        "4/5"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 4/5 = 4/5 ⇒ q = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 10, birinchi hadi b₁ = 8. Maxraj q ni toping.",
+      "options": [
+        "1/6",
+        "4/5",
+        "1/5",
+        "−1/5"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 8/10 = 4/5 ⇒ q = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 15, birinchi hadi b₁ = 12. Maxraj q ni toping.",
+      "options": [
+        "−1/5",
+        "1/6",
+        "1/5",
+        "4/5"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 12/15 = 4/5 ⇒ q = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 20, birinchi hadi b₁ = 16. Maxraj q ni toping.",
+      "options": [
+        "4/5",
+        "−1/5",
+        "1/5",
+        "1/6"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 16/20 = 4/5 ⇒ q = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 25, birinchi hadi b₁ = 20. Maxraj q ni toping.",
+      "options": [
+        "−1/5",
+        "1/5",
+        "1/6",
+        "4/5"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 20/25 = 4/5 ⇒ q = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 30, birinchi hadi b₁ = 24. Maxraj q ni toping.",
+      "options": [
+        "−1/5",
+        "4/5",
+        "1/5",
+        "1/6"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 24/30 = 4/5 ⇒ q = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 35, birinchi hadi b₁ = 28. Maxraj q ni toping.",
+      "options": [
+        "−1/5",
+        "1/5",
+        "4/5",
+        "1/6"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 28/35 = 4/5 ⇒ q = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 40, birinchi hadi b₁ = 32. Maxraj q ni toping.",
+      "options": [
+        "1/6",
+        "−1/5",
+        "4/5",
+        "1/5"
+      ],
+      "answer": 3,
+      "explain": "1 − q = b₁/S = 32/40 = 4/5 ⇒ q = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 45, birinchi hadi b₁ = 36. Maxraj q ni toping.",
+      "options": [
+        "1/6",
+        "1/5",
+        "4/5",
+        "−1/5"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 36/45 = 4/5 ⇒ q = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 50, birinchi hadi b₁ = 40. Maxraj q ni toping.",
+      "options": [
+        "1/6",
+        "1/5",
+        "4/5",
+        "−1/5"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 40/50 = 4/5 ⇒ q = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 6, birinchi hadi b₁ = 5. Maxraj q ni toping.",
+      "options": [
+        "1/6",
+        "−1/6",
+        "1/7",
+        "5/6"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 5/6 = 5/6 ⇒ q = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 12, birinchi hadi b₁ = 10. Maxraj q ni toping.",
+      "options": [
+        "1/7",
+        "1/6",
+        "5/6",
+        "−1/6"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 10/12 = 5/6 ⇒ q = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 18, birinchi hadi b₁ = 15. Maxraj q ni toping.",
+      "options": [
+        "1/6",
+        "5/6",
+        "1/7",
+        "−1/6"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 15/18 = 5/6 ⇒ q = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 24, birinchi hadi b₁ = 20. Maxraj q ni toping.",
+      "options": [
+        "5/6",
+        "1/6",
+        "−1/6",
+        "1/7"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 20/24 = 5/6 ⇒ q = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 30, birinchi hadi b₁ = 25. Maxraj q ni toping.",
+      "options": [
+        "5/6",
+        "−1/6",
+        "1/7",
+        "1/6"
+      ],
+      "answer": 3,
+      "explain": "1 − q = b₁/S = 25/30 = 5/6 ⇒ q = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 36, birinchi hadi b₁ = 30. Maxraj q ni toping.",
+      "options": [
+        "−1/6",
+        "5/6",
+        "1/6",
+        "1/7"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 30/36 = 5/6 ⇒ q = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 42, birinchi hadi b₁ = 35. Maxraj q ni toping.",
+      "options": [
+        "−1/6",
+        "1/7",
+        "1/6",
+        "5/6"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 35/42 = 5/6 ⇒ q = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 48, birinchi hadi b₁ = 40. Maxraj q ni toping.",
+      "options": [
+        "1/6",
+        "1/7",
+        "−1/6",
+        "5/6"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 40/48 = 5/6 ⇒ q = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 54, birinchi hadi b₁ = 45. Maxraj q ni toping.",
+      "options": [
+        "1/6",
+        "5/6",
+        "1/7",
+        "−1/6"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 45/54 = 5/6 ⇒ q = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 60, birinchi hadi b₁ = 50. Maxraj q ni toping.",
+      "options": [
+        "−1/6",
+        "1/7",
+        "1/6",
+        "5/6"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 50/60 = 5/6 ⇒ q = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 7, birinchi hadi b₁ = 6. Maxraj q ni toping.",
+      "options": [
+        "1/8",
+        "−1/7",
+        "1/7",
+        "6/7"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 6/7 = 6/7 ⇒ q = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 14, birinchi hadi b₁ = 12. Maxraj q ni toping.",
+      "options": [
+        "−1/7",
+        "1/7",
+        "1/8",
+        "6/7"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 12/14 = 6/7 ⇒ q = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 21, birinchi hadi b₁ = 18. Maxraj q ni toping.",
+      "options": [
+        "1/8",
+        "6/7",
+        "−1/7",
+        "1/7"
+      ],
+      "answer": 3,
+      "explain": "1 − q = b₁/S = 18/21 = 6/7 ⇒ q = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 28, birinchi hadi b₁ = 24. Maxraj q ni toping.",
+      "options": [
+        "1/7",
+        "6/7",
+        "−1/7",
+        "1/8"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 24/28 = 6/7 ⇒ q = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 35, birinchi hadi b₁ = 30. Maxraj q ni toping.",
+      "options": [
+        "6/7",
+        "−1/7",
+        "1/7",
+        "1/8"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 30/35 = 6/7 ⇒ q = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 42, birinchi hadi b₁ = 36. Maxraj q ni toping.",
+      "options": [
+        "1/7",
+        "6/7",
+        "−1/7",
+        "1/8"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 36/42 = 6/7 ⇒ q = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 49, birinchi hadi b₁ = 42. Maxraj q ni toping.",
+      "options": [
+        "6/7",
+        "−1/7",
+        "1/8",
+        "1/7"
+      ],
+      "answer": 3,
+      "explain": "1 − q = b₁/S = 42/49 = 6/7 ⇒ q = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 56, birinchi hadi b₁ = 48. Maxraj q ni toping.",
+      "options": [
+        "1/8",
+        "6/7",
+        "1/7",
+        "−1/7"
+      ],
+      "answer": 2,
+      "explain": "1 − q = b₁/S = 48/56 = 6/7 ⇒ q = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 63, birinchi hadi b₁ = 54. Maxraj q ni toping.",
+      "options": [
+        "1/8",
+        "1/7",
+        "−1/7",
+        "6/7"
+      ],
+      "answer": 1,
+      "explain": "1 − q = b₁/S = 54/63 = 6/7 ⇒ q = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = 70, birinchi hadi b₁ = 60. Maxraj q ni toping.",
+      "options": [
+        "1/7",
+        "6/7",
+        "1/8",
+        "−1/7"
+      ],
+      "answer": 0,
+      "explain": "1 − q = b₁/S = 60/70 = 6/7 ⇒ q = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "0,1(2) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "11/90",
+        "1/9",
+        "2/15",
+        "4/33"
+      ],
+      "answer": 0,
+      "explain": "0,1(2) = (12 − 1) / 90 = 11/90 = 11/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,1(3) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "13/99",
+        "4/33",
+        "13/90",
+        "2/15"
+      ],
+      "answer": 3,
+      "explain": "0,1(3) = (13 − 1) / 90 = 12/90 = 2/15."
+    },
+    {
+      "type": "choice",
+      "q": "0,1(4) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "13/99",
+        "13/90",
+        "7/45",
+        "14/99"
+      ],
+      "answer": 1,
+      "explain": "0,1(4) = (14 − 1) / 90 = 13/90 = 13/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,1(5) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "14/99",
+        "1/6",
+        "5/33",
+        "7/45"
+      ],
+      "answer": 3,
+      "explain": "0,1(5) = (15 − 1) / 90 = 14/90 = 7/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,1(6) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "1/6",
+        "16/99",
+        "5/33",
+        "8/45"
+      ],
+      "answer": 0,
+      "explain": "0,1(6) = (16 − 1) / 90 = 15/90 = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "0,1(7) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "17/99",
+        "16/99",
+        "17/90",
+        "8/45"
+      ],
+      "answer": 3,
+      "explain": "0,1(7) = (17 − 1) / 90 = 16/90 = 8/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,1(8) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "1/5",
+        "17/99",
+        "17/90",
+        "2/11"
+      ],
+      "answer": 2,
+      "explain": "0,1(8) = (18 − 1) / 90 = 17/90 = 17/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,2(1) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "7/33",
+        "7/30",
+        "19/99",
+        "19/90"
+      ],
+      "answer": 3,
+      "explain": "0,2(1) = (21 − 2) / 90 = 19/90 = 19/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,2(3) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "23/99",
+        "7/33",
+        "7/30",
+        "23/90"
+      ],
+      "answer": 2,
+      "explain": "0,2(3) = (23 − 2) / 90 = 21/90 = 7/30."
+    },
+    {
+      "type": "choice",
+      "q": "0,2(4) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "2/9",
+        "4/15",
+        "8/33",
+        "11/45"
+      ],
+      "answer": 3,
+      "explain": "0,2(4) = (24 − 2) / 90 = 22/90 = 11/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,2(5) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "23/99",
+        "25/99",
+        "5/18",
+        "23/90"
+      ],
+      "answer": 3,
+      "explain": "0,2(5) = (25 − 2) / 90 = 23/90 = 23/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,2(6) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "26/99",
+        "13/45",
+        "4/15",
+        "8/33"
+      ],
+      "answer": 2,
+      "explain": "0,2(6) = (26 − 2) / 90 = 24/90 = 4/15."
+    },
+    {
+      "type": "choice",
+      "q": "0,2(7) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "3/11",
+        "25/99",
+        "3/10",
+        "5/18"
+      ],
+      "answer": 3,
+      "explain": "0,2(7) = (27 − 2) / 90 = 25/90 = 5/18."
+    },
+    {
+      "type": "choice",
+      "q": "0,2(8) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "26/99",
+        "14/45",
+        "13/45",
+        "28/99"
+      ],
+      "answer": 2,
+      "explain": "0,2(8) = (28 − 2) / 90 = 26/90 = 13/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,3(1) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "14/45",
+        "28/99",
+        "31/99",
+        "31/90"
+      ],
+      "answer": 0,
+      "explain": "0,3(1) = (31 − 3) / 90 = 28/90 = 14/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,3(2) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "29/99",
+        "29/90",
+        "32/99",
+        "16/45"
+      ],
+      "answer": 1,
+      "explain": "0,3(2) = (32 − 3) / 90 = 29/90 = 29/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,3(4) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "34/99",
+        "31/90",
+        "17/45",
+        "31/99"
+      ],
+      "answer": 1,
+      "explain": "0,3(4) = (34 − 3) / 90 = 31/90 = 31/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,3(5) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "35/99",
+        "7/18",
+        "16/45",
+        "32/99"
+      ],
+      "answer": 2,
+      "explain": "0,3(5) = (35 − 3) / 90 = 32/90 = 16/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,3(6) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "4/11",
+        "2/5",
+        "1/3",
+        "11/30"
+      ],
+      "answer": 3,
+      "explain": "0,3(6) = (36 − 3) / 90 = 33/90 = 11/30."
+    },
+    {
+      "type": "choice",
+      "q": "0,3(7) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "34/99",
+        "17/45",
+        "37/90",
+        "37/99"
+      ],
+      "answer": 1,
+      "explain": "0,3(7) = (37 − 3) / 90 = 34/90 = 17/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,3(8) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "19/45",
+        "35/99",
+        "38/99",
+        "7/18"
+      ],
+      "answer": 3,
+      "explain": "0,3(8) = (38 − 3) / 90 = 35/90 = 7/18."
+    },
+    {
+      "type": "choice",
+      "q": "0,4(1) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "41/90",
+        "37/99",
+        "41/99",
+        "37/90"
+      ],
+      "answer": 3,
+      "explain": "0,4(1) = (41 − 4) / 90 = 37/90 = 37/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,4(2) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "38/99",
+        "14/33",
+        "19/45",
+        "7/15"
+      ],
+      "answer": 2,
+      "explain": "0,4(2) = (42 − 4) / 90 = 38/90 = 19/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,4(3) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "43/90",
+        "13/33",
+        "13/30",
+        "43/99"
+      ],
+      "answer": 2,
+      "explain": "0,4(3) = (43 − 4) / 90 = 39/90 = 13/30."
+    },
+    {
+      "type": "choice",
+      "q": "0,4(5) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "41/99",
+        "41/90",
+        "1/2",
+        "5/11"
+      ],
+      "answer": 1,
+      "explain": "0,4(5) = (45 − 4) / 90 = 41/90 = 41/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,4(6) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "46/99",
+        "14/33",
+        "7/15",
+        "23/45"
+      ],
+      "answer": 2,
+      "explain": "0,4(6) = (46 − 4) / 90 = 42/90 = 7/15."
+    },
+    {
+      "type": "choice",
+      "q": "0,4(7) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "47/90",
+        "47/99",
+        "43/90",
+        "43/99"
+      ],
+      "answer": 2,
+      "explain": "0,4(7) = (47 − 4) / 90 = 43/90 = 43/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,4(8) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "8/15",
+        "22/45",
+        "4/9",
+        "16/33"
+      ],
+      "answer": 1,
+      "explain": "0,4(8) = (48 − 4) / 90 = 44/90 = 22/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,5(1) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "17/30",
+        "46/99",
+        "17/33",
+        "23/45"
+      ],
+      "answer": 3,
+      "explain": "0,5(1) = (51 − 5) / 90 = 46/90 = 23/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,5(2) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "47/99",
+        "52/99",
+        "26/45",
+        "47/90"
+      ],
+      "answer": 3,
+      "explain": "0,5(2) = (52 − 5) / 90 = 47/90 = 47/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,5(3) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "8/15",
+        "53/99",
+        "16/33",
+        "53/90"
+      ],
+      "answer": 0,
+      "explain": "0,5(3) = (53 − 5) / 90 = 48/90 = 8/15."
+    },
+    {
+      "type": "choice",
+      "q": "0,5(4) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "49/99",
+        "49/90",
+        "3/5",
+        "6/11"
+      ],
+      "answer": 1,
+      "explain": "0,5(4) = (54 − 5) / 90 = 49/90 = 49/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,5(6) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "17/33",
+        "28/45",
+        "56/99",
+        "17/30"
+      ],
+      "answer": 3,
+      "explain": "0,5(6) = (56 − 5) / 90 = 51/90 = 17/30."
+    },
+    {
+      "type": "choice",
+      "q": "0,5(7) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "52/99",
+        "26/45",
+        "19/30",
+        "19/33"
+      ],
+      "answer": 1,
+      "explain": "0,5(7) = (57 − 5) / 90 = 52/90 = 26/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,5(8) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "53/90",
+        "58/99",
+        "29/45",
+        "53/99"
+      ],
+      "answer": 0,
+      "explain": "0,5(8) = (58 − 5) / 90 = 53/90 = 53/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,6(1) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "61/99",
+        "11/18",
+        "5/9",
+        "61/90"
+      ],
+      "answer": 1,
+      "explain": "0,6(1) = (61 − 6) / 90 = 55/90 = 11/18."
+    },
+    {
+      "type": "choice",
+      "q": "0,6(2) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "31/45",
+        "28/45",
+        "62/99",
+        "56/99"
+      ],
+      "answer": 1,
+      "explain": "0,6(2) = (62 − 6) / 90 = 56/90 = 28/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,6(3) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "19/33",
+        "7/10",
+        "7/11",
+        "19/30"
+      ],
+      "answer": 3,
+      "explain": "0,6(3) = (63 − 6) / 90 = 57/90 = 19/30."
+    },
+    {
+      "type": "choice",
+      "q": "0,6(4) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "58/99",
+        "29/45",
+        "32/45",
+        "64/99"
+      ],
+      "answer": 1,
+      "explain": "0,6(4) = (64 − 6) / 90 = 58/90 = 29/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,6(5) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "65/99",
+        "59/90",
+        "13/18",
+        "59/99"
+      ],
+      "answer": 1,
+      "explain": "0,6(5) = (65 − 6) / 90 = 59/90 = 59/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,6(7) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "67/99",
+        "61/90",
+        "61/99",
+        "67/90"
+      ],
+      "answer": 1,
+      "explain": "0,6(7) = (67 − 6) / 90 = 61/90 = 61/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,6(8) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "62/99",
+        "31/45",
+        "34/45",
+        "68/99"
+      ],
+      "answer": 1,
+      "explain": "0,6(8) = (68 − 6) / 90 = 62/90 = 31/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,7(1) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "64/99",
+        "71/99",
+        "32/45",
+        "71/90"
+      ],
+      "answer": 2,
+      "explain": "0,7(1) = (71 − 7) / 90 = 64/90 = 32/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,7(2) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "13/18",
+        "4/5",
+        "65/99",
+        "8/11"
+      ],
+      "answer": 0,
+      "explain": "0,7(2) = (72 − 7) / 90 = 65/90 = 13/18."
+    },
+    {
+      "type": "choice",
+      "q": "0,7(3) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "73/99",
+        "11/15",
+        "2/3",
+        "73/90"
+      ],
+      "answer": 1,
+      "explain": "0,7(3) = (73 − 7) / 90 = 66/90 = 11/15."
+    },
+    {
+      "type": "choice",
+      "q": "0,7(4) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "67/90",
+        "37/45",
+        "74/99",
+        "67/99"
+      ],
+      "answer": 0,
+      "explain": "0,7(4) = (74 − 7) / 90 = 67/90 = 67/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,7(5) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "34/45",
+        "5/6",
+        "25/33",
+        "68/99"
+      ],
+      "answer": 0,
+      "explain": "0,7(5) = (75 − 7) / 90 = 68/90 = 34/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,7(6) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "23/33",
+        "23/30",
+        "38/45",
+        "76/99"
+      ],
+      "answer": 1,
+      "explain": "0,7(6) = (76 − 7) / 90 = 69/90 = 23/30."
+    },
+    {
+      "type": "choice",
+      "q": "0,7(8) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "13/15",
+        "71/99",
+        "26/33",
+        "71/90"
+      ],
+      "answer": 3,
+      "explain": "0,7(8) = (78 − 7) / 90 = 71/90 = 71/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,8(1) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "9/10",
+        "9/11",
+        "73/99",
+        "73/90"
+      ],
+      "answer": 3,
+      "explain": "0,8(1) = (81 − 8) / 90 = 73/90 = 73/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,8(2) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "41/45",
+        "74/99",
+        "82/99",
+        "37/45"
+      ],
+      "answer": 3,
+      "explain": "0,8(2) = (82 − 8) / 90 = 74/90 = 37/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,8(3) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "83/90",
+        "5/6",
+        "83/99",
+        "25/33"
+      ],
+      "answer": 1,
+      "explain": "0,8(3) = (83 − 8) / 90 = 75/90 = 5/6."
+    },
+    {
+      "type": "choice",
+      "q": "0,8(4) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "76/99",
+        "28/33",
+        "14/15",
+        "38/45"
+      ],
+      "answer": 3,
+      "explain": "0,8(4) = (84 − 8) / 90 = 76/90 = 38/45."
+    },
+    {
+      "type": "choice",
+      "q": "0,8(5) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "77/90",
+        "7/9",
+        "85/99",
+        "17/18"
+      ],
+      "answer": 0,
+      "explain": "0,8(5) = (85 − 8) / 90 = 77/90 = 77/90."
+    },
+    {
+      "type": "choice",
+      "q": "0,8(6) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "13/15",
+        "86/99",
+        "26/33",
+        "43/45"
+      ],
+      "answer": 0,
+      "explain": "0,8(6) = (86 − 8) / 90 = 78/90 = 13/15."
+    },
+    {
+      "type": "choice",
+      "q": "0,8(7) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "29/33",
+        "79/90",
+        "79/99",
+        "29/30"
+      ],
+      "answer": 1,
+      "explain": "0,8(7) = (87 − 8) / 90 = 79/90 = 79/90."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 4 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "12",
+      "explain": "Yo'l = 4 + 2·(4/2)/(1 − 1/2) = 4 + 2·4 = 12 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 4 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "16",
+        "64",
+        "24",
+        "32"
+      ],
+      "answer": 3,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 16/(1 − 1/2) = 32 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 6 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "18",
+      "explain": "Yo'l = 6 + 2·(6/2)/(1 − 1/2) = 6 + 2·6 = 18 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 6 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "72",
+        "36",
+        "54",
+        "144"
+      ],
+      "answer": 0,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 36/(1 − 1/2) = 72 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 8 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "24",
+      "explain": "Yo'l = 8 + 2·(8/2)/(1 − 1/2) = 8 + 2·8 = 24 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 8 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "64",
+        "256",
+        "96",
+        "128"
+      ],
+      "answer": 3,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 64/(1 − 1/2) = 128 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 10 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "30",
+      "explain": "Yo'l = 10 + 2·(10/2)/(1 − 1/2) = 10 + 2·10 = 30 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 10 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "400",
+        "200",
+        "100",
+        "150"
+      ],
+      "answer": 1,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 100/(1 − 1/2) = 200 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 12 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "36",
+      "explain": "Yo'l = 12 + 2·(12/2)/(1 − 1/2) = 12 + 2·12 = 36 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 12 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "216",
+        "144",
+        "576",
+        "288"
+      ],
+      "answer": 3,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 144/(1 − 1/2) = 288 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 14 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "42",
+      "explain": "Yo'l = 14 + 2·(14/2)/(1 − 1/2) = 14 + 2·14 = 42 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 14 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "196",
+        "294",
+        "392",
+        "784"
+      ],
+      "answer": 2,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 196/(1 − 1/2) = 392 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 16 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "48",
+      "explain": "Yo'l = 16 + 2·(16/2)/(1 − 1/2) = 16 + 2·16 = 48 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 16 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "512",
+        "256",
+        "384",
+        "1024"
+      ],
+      "answer": 0,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 256/(1 − 1/2) = 512 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 18 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "54",
+      "explain": "Yo'l = 18 + 2·(18/2)/(1 − 1/2) = 18 + 2·18 = 54 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 18 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "1296",
+        "648",
+        "486",
+        "324"
+      ],
+      "answer": 1,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 324/(1 − 1/2) = 648 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 20 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "60",
+      "explain": "Yo'l = 20 + 2·(20/2)/(1 − 1/2) = 20 + 2·20 = 60 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 20 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "1600",
+        "400",
+        "600",
+        "800"
+      ],
+      "answer": 3,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 400/(1 − 1/2) = 800 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 22 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "66",
+      "explain": "Yo'l = 22 + 2·(22/2)/(1 − 1/2) = 22 + 2·22 = 66 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 22 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "726",
+        "968",
+        "1936",
+        "484"
+      ],
+      "answer": 1,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 484/(1 − 1/2) = 968 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 24 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "72",
+      "explain": "Yo'l = 24 + 2·(24/2)/(1 − 1/2) = 24 + 2·24 = 72 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 24 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "2304",
+        "1152",
+        "864",
+        "576"
+      ],
+      "answer": 1,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 576/(1 − 1/2) = 1152 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 26 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "78",
+      "explain": "Yo'l = 26 + 2·(26/2)/(1 − 1/2) = 26 + 2·26 = 78 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 26 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "1352",
+        "1014",
+        "2704",
+        "676"
+      ],
+      "answer": 0,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 676/(1 − 1/2) = 1352 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 28 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "84",
+      "explain": "Yo'l = 28 + 2·(28/2)/(1 − 1/2) = 28 + 2·28 = 84 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 28 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "3136",
+        "1568",
+        "784",
+        "1176"
+      ],
+      "answer": 1,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 784/(1 − 1/2) = 1568 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 30 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "90",
+      "explain": "Yo'l = 30 + 2·(30/2)/(1 − 1/2) = 30 + 2·30 = 90 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 30 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "3600",
+        "1350",
+        "1800",
+        "900"
+      ],
+      "answer": 2,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 900/(1 − 1/2) = 1800 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 32 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "96",
+      "explain": "Yo'l = 32 + 2·(32/2)/(1 − 1/2) = 32 + 2·32 = 96 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 32 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "1536",
+        "2048",
+        "4096",
+        "1024"
+      ],
+      "answer": 1,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 1024/(1 − 1/2) = 2048 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 34 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "102",
+      "explain": "Yo'l = 34 + 2·(34/2)/(1 − 1/2) = 34 + 2·34 = 102 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 34 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "2312",
+        "1156",
+        "1734",
+        "4624"
+      ],
+      "answer": 0,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 1156/(1 − 1/2) = 2312 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 36 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "108",
+      "explain": "Yo'l = 36 + 2·(36/2)/(1 − 1/2) = 36 + 2·36 = 108 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 36 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "2592",
+        "1944",
+        "1296",
+        "5184"
+      ],
+      "answer": 0,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 1296/(1 − 1/2) = 2592 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 38 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "114",
+      "explain": "Yo'l = 38 + 2·(38/2)/(1 − 1/2) = 38 + 2·38 = 114 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 38 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "2166",
+        "5776",
+        "1444",
+        "2888"
+      ],
+      "answer": 3,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 1444/(1 − 1/2) = 2888 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "To'p 40 m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.",
+      "answer": "120",
+      "explain": "Yo'l = 40 + 2·(40/2)/(1 − 1/2) = 40 + 2·40 = 120 m."
+    },
+    {
+      "type": "choice",
+      "q": "Tomoni 40 sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.",
+      "options": [
+        "1600",
+        "6400",
+        "2400",
+        "3200"
+      ],
+      "answer": 3,
+      "explain": "Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = 1600/(1 − 1/2) = 3200 sm²."
+    },
+    {
+      "type": "choice",
+      "q": "1,(1) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "1",
+        "2/9",
+        "11/9",
+        "10/9"
+      ],
+      "answer": 3,
+      "explain": "1,(1) = 1 + 1/9 = 10/9."
+    },
+    {
+      "type": "choice",
+      "q": "1,(2) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "11/9",
+        "11/10",
+        "4/3",
+        "1/3"
+      ],
+      "answer": 0,
+      "explain": "1,(2) = 1 + 2/9 = 11/9."
+    },
+    {
+      "type": "choice",
+      "q": "1,(3) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "4/9",
+        "6/5",
+        "13/9",
+        "4/3"
+      ],
+      "answer": 3,
+      "explain": "1,(3) = 1 + 3/9 = 4/3."
+    },
+    {
+      "type": "choice",
+      "q": "1,(4) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "14/9",
+        "13/9",
+        "13/10",
+        "5/9"
+      ],
+      "answer": 1,
+      "explain": "1,(4) = 1 + 4/9 = 13/9."
+    },
+    {
+      "type": "choice",
+      "q": "1,(5) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "2/3",
+        "7/5",
+        "5/3",
+        "14/9"
+      ],
+      "answer": 3,
+      "explain": "1,(5) = 1 + 5/9 = 14/9."
+    },
+    {
+      "type": "choice",
+      "q": "1,(6) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "7/9",
+        "3/2",
+        "5/3",
+        "16/9"
+      ],
+      "answer": 2,
+      "explain": "1,(6) = 1 + 6/9 = 5/3."
+    },
+    {
+      "type": "choice",
+      "q": "1,(7) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "16/9",
+        "17/9",
+        "8/9",
+        "8/5"
+      ],
+      "answer": 0,
+      "explain": "1,(7) = 1 + 7/9 = 16/9."
+    },
+    {
+      "type": "choice",
+      "q": "1,(8) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "17/10",
+        "1",
+        "2",
+        "17/9"
+      ],
+      "answer": 3,
+      "explain": "1,(8) = 1 + 8/9 = 17/9."
+    },
+    {
+      "type": "choice",
+      "q": "2,(1) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "1/3",
+        "7/3",
+        "19/10",
+        "19/9"
+      ],
+      "answer": 3,
+      "explain": "2,(1) = 2 + 1/9 = 19/9."
+    },
+    {
+      "type": "choice",
+      "q": "2,(2) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "22/9",
+        "2",
+        "20/9",
+        "4/9"
+      ],
+      "answer": 2,
+      "explain": "2,(2) = 2 + 2/9 = 20/9."
+    },
+    {
+      "type": "choice",
+      "q": "2,(3) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "23/9",
+        "21/10",
+        "7/3",
+        "5/9"
+      ],
+      "answer": 2,
+      "explain": "2,(3) = 2 + 3/9 = 7/3."
+    },
+    {
+      "type": "choice",
+      "q": "2,(4) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "11/5",
+        "8/3",
+        "22/9",
+        "2/3"
+      ],
+      "answer": 2,
+      "explain": "2,(4) = 2 + 4/9 = 22/9."
+    },
+    {
+      "type": "choice",
+      "q": "2,(5) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "23/10",
+        "7/9",
+        "25/9",
+        "23/9"
+      ],
+      "answer": 3,
+      "explain": "2,(5) = 2 + 5/9 = 23/9."
+    },
+    {
+      "type": "choice",
+      "q": "2,(6) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "12/5",
+        "26/9",
+        "8/9",
+        "8/3"
+      ],
+      "answer": 3,
+      "explain": "2,(6) = 2 + 6/9 = 8/3."
+    },
+    {
+      "type": "choice",
+      "q": "2,(7) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "3",
+        "5/2",
+        "1",
+        "25/9"
+      ],
+      "answer": 3,
+      "explain": "2,(7) = 2 + 7/9 = 25/9."
+    },
+    {
+      "type": "choice",
+      "q": "2,(8) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "10/9",
+        "13/5",
+        "28/9",
+        "26/9"
+      ],
+      "answer": 3,
+      "explain": "2,(8) = 2 + 8/9 = 26/9."
+    },
+    {
+      "type": "choice",
+      "q": "3,(1) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "31/9",
+        "28/9",
+        "14/5",
+        "4/9"
+      ],
+      "answer": 1,
+      "explain": "3,(1) = 3 + 1/9 = 28/9."
+    },
+    {
+      "type": "choice",
+      "q": "3,(2) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "32/9",
+        "29/9",
+        "29/10",
+        "5/9"
+      ],
+      "answer": 1,
+      "explain": "3,(2) = 3 + 2/9 = 29/9."
+    },
+    {
+      "type": "choice",
+      "q": "3,(3) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "10/3",
+        "11/3",
+        "2/3",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "3,(3) = 3 + 3/9 = 10/3."
+    },
+    {
+      "type": "choice",
+      "q": "3,(4) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "34/9",
+        "31/9",
+        "31/10",
+        "7/9"
+      ],
+      "answer": 1,
+      "explain": "3,(4) = 3 + 4/9 = 31/9."
+    },
+    {
+      "type": "choice",
+      "q": "3,(5) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "8/9",
+        "16/5",
+        "35/9",
+        "32/9"
+      ],
+      "answer": 3,
+      "explain": "3,(5) = 3 + 5/9 = 32/9."
+    },
+    {
+      "type": "choice",
+      "q": "3,(6) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "1",
+        "11/3",
+        "33/10",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "3,(6) = 3 + 6/9 = 11/3."
+    },
+    {
+      "type": "choice",
+      "q": "3,(7) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.",
+      "options": [
+        "17/5",
+        "10/9",
+        "37/9",
+        "34/9"
+      ],
+      "answer": 3,
+      "explain": "3,(7) = 3 + 7/9 = 34/9."
+    }
+  ],
+  "cards": [
+    [
+      "Cheksiz",
+      "Hadlar soni cheklanmagan |q| < 1 progressiya"
+    ],
+    [
+      "Yaqinlashish",
+      "n → ∞ da qⁿ → 0 bo'lish xossasi"
+    ],
+    [
+      "Davriy",
+      "Cheksiz takrorlanuvchi o'nli kasr 0,(a)"
+    ],
+    [
+      "Shaxmat",
+      "Beruniy keltirgan 2⁶⁴ − 1 bug'doy donasi masalasi"
+    ],
+    [
+      "Axmes",
+      "Qadimgi Misr papirusidagi progressiya masalasi"
+    ],
+    [
+      "|q| < 1 sharti",
+      "Cheksiz kamayuvchi geometrik progressiya belgisi"
+    ],
+    [
+      "S = b₁/(1 − q)",
+      "Cheksiz kamayuvchi progressiya yig'indisi"
+    ],
+    [
+      "0,(a)",
+      "a / 9 oddiy kasriga teng"
+    ],
+    [
+      "0,(ab)",
+      "ab / 99 oddiy kasriga teng"
+    ],
+    [
+      "1 + 1/2 + 1/4 + ...",
+      "Cheksiz yig'indisi 2 ga teng"
+    ],
+    [
+      "2⁶⁴ − 1",
+      "Shaxmat kataklaridagi bug'doy donalari soni"
+    ],
+    [
+      "IV bob yakuni",
+      "Arifmetik va geometrik progressiyalar"
+    ],
+    [
+      "0,(3)",
+      "1 / 3 oddiy kasriga teng"
+    ],
+    [
+      "0,(6)",
+      "2 / 3 oddiy kasriga teng"
+    ],
+    [
+      "0,(1)",
+      "1 / 9 oddiy kasriga teng"
+    ],
+    [
+      "1 − q maxraji",
+      "S = b₁ / (1 − q) formuladagi maxraj"
+    ],
+    [
+      "b₁ = S(1 − q)",
+      "Yig'indi va maxrajdan birinchi hadni topish"
+    ],
+    [
+      "q = 1 − b₁/S",
+      "Yig'indi va b₁ dan maxrajni topish"
+    ],
+    [
+      "To'p sakrashi",
+      "Har safar k qismga ko'tarilish — cheksiz yig'indi"
+    ],
+    [
+      "Kvadrat ichida",
+      "O'rtalarini tutashtirib olingan kvadratlar yig'indisi"
+    ],
+    [
+      "Beruniy hisobi",
+      "64 katakdagi bug'doy soni 18 kvintilliondan ko'p"
+    ],
+    [
+      "Oddiy kasr",
+      "Davriy o'nli kasrning p/q shakli"
+    ],
+    [
+      "1 + q + q² + ...",
+      "|q| < 1 da 1 / (1 − q) ga teng"
+    ],
+    [
+      "Aralash davr",
+      "0,a(b) kasrini oddiy kasrga aylantirish"
+    ],
+    [
+      "Limit",
+      "n → ∞ da yig'indi Sₙ yaqinlashadigan cheklangan son"
+    ],
+    [
+      "Kasr",
+      "Davriy o'nli sonning p/q shaklidagi yozuvi"
+    ],
+    [
+      "Donacha",
+      "Beruniy shaxmat masalasidagi har katakdagi bug'doy"
+    ]
+  ]
+}

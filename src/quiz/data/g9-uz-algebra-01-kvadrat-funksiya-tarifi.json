@@ -1,0 +1,3316 @@
+{
+  "id": "g9-uz-algebra-01-kvadrat-funksiya-tarifi",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "1-§. Kvadrat funksiyaning ta'rifi",
+  "title": "1-§. Kvadrat funksiyaning ta'rifi",
+  "source": "Algebra 9-sinf (2019), I bob, 1-§, 5–7-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Qaysi formula kvadrat funksiyaning umumiy ko'rinishini ifodalaydi?",
+      "options": [
+        "y = ax² + bx + c (a ≠ 0)",
+        "y = k / x",
+        "y = kx + b",
+        "y = a / x² + b"
+      ],
+      "answer": 0,
+      "explain": "y = ax² + bx + c, bunda a ≠ 0 — kvadrat funksiya ta'rifi."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² + bx + c funksiyada a = 0 bo'lsa, u qanday funksiyaga aylanadi?",
+      "options": [
+        "O'zgarmas qoladi",
+        "Kub funksiyaga",
+        "Chiziqli funksiyaga",
+        "Teskari proporsionallikka"
+      ],
+      "answer": 2,
+      "explain": "a = 0 da y = bx + c chiziqli funksiya hosil bo'ladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 3x² − 5x + 1 kvadrat funksiya hisoblanadi.",
+      "answer": true,
+      "explain": "Bunda a = 3 ≠ 0, demak bu kvadrat funksiya."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 2x + 7 kvadrat funksiya hisoblanadi.",
+      "answer": false,
+      "explain": "y = 2x + 7 da x² hadi yo'q (a = 0), u chiziqli funksiya."
+    },
+    {
+      "type": "truefalse",
+      "q": "Tomoni x ga teng kvadratning yuzi S(x) = x² kvadrat funksiyadir.",
+      "answer": true,
+      "explain": "S(x) = 1·x² + 0·x + 0 ko'rinishida bo'lib, a = 1 ≠ 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − 5x − 4 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = -4, c = -5",
+        "a = -4, b = 5, c = -4",
+        "a = -4, b = -5, c = -4",
+        "a = -5, b = -4, c = -4"
+      ],
+      "answer": 2,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -5, c = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 5x − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 5x − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − 5x − 1 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = 5, c = -1",
+        "a = -5, b = -4, c = -1",
+        "a = -4, b = -5, c = -1",
+        "a = -4, b = -1, c = -5"
+      ],
+      "answer": 2,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -5, c = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 5x kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 5x + 1 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − 5x + 2 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -5, b = -4, c = 2",
+        "a = -4, b = 2, c = -5",
+        "a = -4, b = -5, c = 2",
+        "a = -4, b = 5, c = 2"
+      ],
+      "answer": 2,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -5, c = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 5x + 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 5x + 4 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 4x − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 4x − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 4x kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 4x + 1 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 4x + 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 4x + 4 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − 3x − 4 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = -3, c = -4",
+        "a = -4, b = 3, c = -4",
+        "a = -3, b = -4, c = -4",
+        "a = -4, b = -4, c = -3"
+      ],
+      "answer": 0,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -3, c = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 3x − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 3x − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − 3x − 1 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = -1, c = -3",
+        "a = -4, b = 3, c = -1",
+        "a = -4, b = -3, c = -1",
+        "a = -3, b = -4, c = -1"
+      ],
+      "answer": 2,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -3, c = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 3x kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 3x + 1 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − 3x + 2 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = 2, c = -3",
+        "a = -4, b = 3, c = 2",
+        "a = -3, b = -4, c = 2",
+        "a = -4, b = -3, c = 2"
+      ],
+      "answer": 3,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -3, c = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 3x + 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 3x + 4 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − 2x − 4 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -2, b = -4, c = -4",
+        "a = -4, b = -2, c = -4",
+        "a = -4, b = -4, c = -2",
+        "a = -4, b = 2, c = -4"
+      ],
+      "answer": 1,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -2, c = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 2x − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 2x − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − 2x − 1 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = -2, c = -1",
+        "a = -4, b = -1, c = -2",
+        "a = -2, b = -4, c = -1",
+        "a = -4, b = 2, c = -1"
+      ],
+      "answer": 0,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -2, c = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 2x kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 2x + 1 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − 2x + 2 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = -2, c = 2",
+        "a = -2, b = -4, c = 2",
+        "a = -4, b = 2, c = -2",
+        "a = -4, b = 2, c = 2"
+      ],
+      "answer": 0,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -2, c = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 2x + 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 2x + 4 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − x − 4 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = -1, c = -4",
+        "a = -4, b = -4, c = -1",
+        "a = -1, b = -4, c = -4",
+        "a = -4, b = 1, c = -4"
+      ],
+      "answer": 0,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -1, c = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − x − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − x − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − x kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − x + 1 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² − x + 2 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -1, b = -4, c = 2",
+        "a = -4, b = -1, c = 2",
+        "a = -4, b = 2, c = -1",
+        "a = -4, b = 1, c = 2"
+      ],
+      "answer": 1,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = -1, c = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − x + 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − x + 4 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 1 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 4 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + x − 4 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = 1, c = -4",
+        "a = -4, b = -4, c = 1",
+        "a = 1, b = -4, c = -4",
+        "a = -4, b = -1, c = -4"
+      ],
+      "answer": 0,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 1, c = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + x − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + x − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + x − 1 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = 1, b = -4, c = -1",
+        "a = -4, b = -1, c = -1",
+        "a = -4, b = -1, c = 1",
+        "a = -4, b = 1, c = -1"
+      ],
+      "answer": 3,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 1, c = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + x kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + x + 1 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + x + 2 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = 2, c = 1",
+        "a = 1, b = -4, c = 2",
+        "a = -4, b = -1, c = 2",
+        "a = -4, b = 1, c = 2"
+      ],
+      "answer": 3,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 1, c = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + x + 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + x + 4 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + 2x − 4 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = 2, c = -4",
+        "a = -4, b = -4, c = 2",
+        "a = 2, b = -4, c = -4",
+        "a = -4, b = -2, c = -4"
+      ],
+      "answer": 0,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 2, c = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 2x − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 2x − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + 2x − 1 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = -2, c = -1",
+        "a = 2, b = -4, c = -1",
+        "a = -4, b = -1, c = 2",
+        "a = -4, b = 2, c = -1"
+      ],
+      "answer": 3,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 2, c = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 2x kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 2x + 1 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 2x + 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 2x + 4 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + 3x − 4 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = -3, c = -4",
+        "a = 3, b = -4, c = -4",
+        "a = -4, b = -4, c = 3",
+        "a = -4, b = 3, c = -4"
+      ],
+      "answer": 3,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 3, c = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 3x − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 3x − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + 3x − 1 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = -1, c = 3",
+        "a = -4, b = -3, c = -1",
+        "a = -4, b = 3, c = -1",
+        "a = 3, b = -4, c = -1"
+      ],
+      "answer": 2,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 3, c = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 3x kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 3x + 1 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + 3x + 2 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = 3, c = 2",
+        "a = -4, b = 2, c = 3",
+        "a = -4, b = -3, c = 2",
+        "a = 3, b = -4, c = 2"
+      ],
+      "answer": 0,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 3, c = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 3x + 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 3x + 4 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + 4x − 4 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = 4, b = -4, c = -4",
+        "a = -4, b = -4, c = -4",
+        "a = -4, b = 4, c = -4",
+        "a = -4, b = -4, c = 4"
+      ],
+      "answer": 2,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 4, c = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 4x − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 4x − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + 4x − 1 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = 4, b = -4, c = -1",
+        "a = -4, b = -4, c = -1",
+        "a = -4, b = -1, c = 4",
+        "a = -4, b = 4, c = -1"
+      ],
+      "answer": 3,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 4, c = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 4x kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 4x + 1 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + 4x + 2 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = -4, b = 4, c = 2",
+        "a = -4, b = 2, c = 4",
+        "a = 4, b = -4, c = 2",
+        "a = -4, b = -4, c = 2"
+      ],
+      "answer": 0,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 4, c = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 4x + 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 4x + 4 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + 5x − 4 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = 5, b = -4, c = -4",
+        "a = -4, b = -5, c = -4",
+        "a = -4, b = 5, c = -4",
+        "a = -4, b = -4, c = 5"
+      ],
+      "answer": 2,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 5, c = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 5x − 3 kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "-3",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x² + 5x − 2 funksiyada x² oldidagi koeffitsiyent -4 ga teng.",
+      "answer": true,
+      "explain": "x² hadining koeffitsiyenti a = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x² + 5x − 1 kvadrat funksiyaning a, b, c koeffitsiyentlarini toping.",
+      "options": [
+        "a = 5, b = -4, c = -1",
+        "a = -4, b = -1, c = 5",
+        "a = -4, b = 5, c = -1",
+        "a = -4, b = -5, c = -1"
+      ],
+      "answer": 2,
+      "explain": "y = ax² + bx + c bilan solishtirganda a = -4, b = 5, c = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −4x² + 5x kvadrat funksiyaning ozod hadini (c ni) yozing.",
+      "answer": "0",
+      "explain": "Ozod had x ga bog'liq bo'lmagan had bo'lib, c = 0."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 4x − 3 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "6",
+        "-4",
+        "-8",
+        "-6"
+      ],
+      "answer": 3,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (-4) + (-3) = -6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 4x − 2 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-8",
+        "-6",
+        "6",
+        "-4"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-8) + (-2) = -6."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² − 4x − 1 funksiya berilgan. f(-1) qiymatini hisoblang.",
+      "answer": "4",
+      "explain": "f(-1) = 1·(-1)² + (-4)·(-1) + (-1) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 4x bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "12",
+        "10",
+        "-12",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (8) + (0) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 4x + 1 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "8",
+        "-6",
+        "4",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (4) + (1) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 4x + 2 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "0",
+        "2",
+        "-4",
+        "-2"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-8) + (2) = -2."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² − 4x + 3 funksiya berilgan. f(1) qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "f(1) = 1·(1)² + (-4)·(1) + (3) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 4x + 4 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "-2"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-8) + (4) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 4x + 5 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "-17",
+        "15",
+        "19",
+        "17"
+      ],
+      "answer": 3,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (8) + (5) = 17."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 3x − 3 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-3",
+        "-5",
+        "5",
+        "-7"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-6) + (-3) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 3x − 2 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "2",
+        "4",
+        "-2",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (3) + (-2) = 2."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² − 3x − 1 funksiya berilgan. f(-2) qiymatini hisoblang.",
+      "answer": "9",
+      "explain": "f(-2) = 1·(-2)² + (-3)·(-2) + (-1) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 3x bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "2",
+        "-4",
+        "0",
+        "-2"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-6) + (0) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 3x + 1 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "-11",
+        "13",
+        "9",
+        "11"
+      ],
+      "answer": 3,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (6) + (1) = 11."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 3x + 2 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "-6",
+        "8",
+        "4",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (3) + (2) = 6."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² − 3x + 3 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "1",
+      "explain": "f(2) = 1·(2)² + (-3)·(2) + (3) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 3x + 4 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "0",
+        "4",
+        "2",
+        "-2"
+      ],
+      "answer": 2,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (-3) + (4) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 3x + 5 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-3",
+        "3",
+        "1",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-6) + (5) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 2x − 3 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "0",
+        "-2",
+        "1",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (2) + (-3) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 2x − 2 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "6",
+        "-6",
+        "8",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (4) + (-2) = 6."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² − 2x − 1 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "-1",
+      "explain": "f(2) = 1·(2)² + (-2)·(2) + (-1) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 2x bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "0",
+        "-1",
+        "-3",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (-2) + (0) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 2x + 1 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-4) + (1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 2x + 2 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "8",
+        "-10",
+        "12",
+        "10"
+      ],
+      "answer": 3,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (4) + (2) = 10."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² − 2x + 3 funksiya berilgan. f(-1) qiymatini hisoblang.",
+      "answer": "6",
+      "explain": "f(-1) = 1·(-1)² + (-2)·(-1) + (3) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 2x + 4 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "4",
+        "2",
+        "6",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-4) + (4) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 2x + 5 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "4",
+        "6",
+        "-4",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (-2) + (5) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − x − 3 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "5",
+        "3",
+        "-3",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (2) + (-3) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − x − 2 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-2",
+        "1",
+        "2",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-2) + (-2) = 0."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² − x − 1 funksiya berilgan. f(1) qiymatini hisoblang.",
+      "answer": "-1",
+      "explain": "f(1) = 1·(1)² + (-1)·(1) + (-1) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − x bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "-2"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-2) + (0) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − x + 1 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "-1",
+        "2",
+        "1",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (-1) + (1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − x + 2 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-4",
+        "4",
+        "6",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-2) + (2) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² − x + 3 funksiya berilgan. f(-2) qiymatini hisoblang.",
+      "answer": "9",
+      "explain": "f(-2) = 1·(-2)² + (-1)·(-2) + (3) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − x + 4 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "6",
+        "-6",
+        "4",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (1) + (4) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − x + 5 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "9",
+        "-7",
+        "5",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (-2) + (5) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 3 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "3",
+        "2",
+        "-1",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (0) + (-3) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² − 2 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "-1",
+        "1",
+        "0",
+        "-3"
+      ],
+      "answer": 0,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (0) + (-2) = -1."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² − 1 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "3",
+      "explain": "f(2) = 1·(2)² + (0)·(2) + (-1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "3",
+        "2",
+        "-1",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (0) + (0) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 1 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "3",
+        "-5",
+        "7",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (0) + (1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 2 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "5",
+        "1",
+        "3",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (0) + (2) = 3."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² + 3 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "7",
+      "explain": "f(2) = 1·(2)² + (0)·(2) + (3) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 4 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "6",
+        "10",
+        "-8",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (0) + (4) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 5 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "4",
+        "-6",
+        "8",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (0) + (5) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + x − 3 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "-3",
+        "0",
+        "-1",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (-2) + (-3) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + x − 2 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "6",
+        "-4",
+        "2",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (2) + (-2) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² + x − 1 funksiya berilgan. f(1) qiymatini hisoblang.",
+      "answer": "1",
+      "explain": "f(1) = 1·(1)² + (1)·(1) + (-1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + x bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "6",
+        "4",
+        "8",
+        "-6"
+      ],
+      "answer": 0,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (2) + (0) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + x + 1 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "3",
+        "1",
+        "5",
+        "-3"
+      ],
+      "answer": 0,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (1) + (1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + x + 2 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "8",
+        "10",
+        "6",
+        "-8"
+      ],
+      "answer": 0,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (2) + (2) = 8."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² + x + 3 funksiya berilgan. f(-2) qiymatini hisoblang.",
+      "answer": "5",
+      "explain": "f(-2) = 1·(-2)² + (1)·(-2) + (3) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + x + 4 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "6",
+        "-4",
+        "2",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (-1) + (4) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + x + 5 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "9",
+        "-11",
+        "13",
+        "11"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (2) + (5) = 11."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 2x − 3 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "4",
+        "-4",
+        "-2",
+        "-6"
+      ],
+      "answer": 1,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (-2) + (-3) = -4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 2x − 2 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "-2",
+        "-4",
+        "2",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (-4) + (-2) = -2."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² + 2x − 1 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "7",
+      "explain": "f(2) = 1·(2)² + (2)·(2) + (-1) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 2x bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "5",
+        "3",
+        "1",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (2) + (0) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 2x + 1 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "9",
+        "-9",
+        "11",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (4) + (1) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 2x + 2 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "2",
+        "-2",
+        "0",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (-4) + (2) = 2."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² + 2x + 3 funksiya berilgan. f(-1) qiymatini hisoblang.",
+      "answer": "2",
+      "explain": "f(-1) = 1·(-1)² + (2)·(-1) + (3) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 2x + 4 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "10",
+        "12",
+        "-12",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (4) + (4) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 2x + 5 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "8",
+        "6",
+        "-8",
+        "10"
+      ],
+      "answer": 0,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (2) + (5) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 3x − 3 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "9",
+        "-7",
+        "7",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (6) + (-3) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 3x − 2 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "4",
+        "-2",
+        "-4",
+        "-6"
+      ],
+      "answer": 2,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (-3) + (-2) = -4."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² + 3x − 1 funksiya berilgan. f(-2) qiymatini hisoblang.",
+      "answer": "-3",
+      "explain": "f(-2) = 1·(-2)² + (3)·(-2) + (-1) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 3x bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-10",
+        "10",
+        "8",
+        "12"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (6) + (0) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 3x + 1 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "1",
+        "-3",
+        "-1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (-6) + (1) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 3x + 2 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "-2",
+        "0",
+        "1",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (-3) + (2) = 0."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² + 3x + 3 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "13",
+      "explain": "f(2) = 1·(2)² + (3)·(2) + (3) = 13."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 3x + 4 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "-8",
+        "8",
+        "6",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (3) + (4) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 3x + 5 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-15",
+        "13",
+        "15",
+        "17"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (6) + (5) = 15."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 4x − 3 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "0",
+        "2",
+        "4",
+        "-2"
+      ],
+      "answer": 1,
+      "explain": "x = 1 ni qo'ysak: 1·1 + (4) + (-3) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 4x − 2 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-10",
+        "8",
+        "10",
+        "12"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (8) + (-2) = 10."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² + 4x − 1 funksiya berilgan. f(-1) qiymatini hisoblang.",
+      "answer": "-4",
+      "explain": "f(-1) = 1·(-1)² + (4)·(-1) + (-1) = -4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 4x bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "4",
+        "-6",
+        "-2",
+        "-4"
+      ],
+      "answer": 3,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (-8) + (0) = -4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 4x + 1 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "-2",
+        "2",
+        "0",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "x = -1 ni qo'ysak: 1·1 + (-4) + (1) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 4x + 2 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "14",
+        "12",
+        "16",
+        "-14"
+      ],
+      "answer": 0,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (8) + (2) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = x² + 4x + 3 funksiya berilgan. f(1) qiymatini hisoblang.",
+      "answer": "8",
+      "explain": "f(1) = 1·(1)² + (4)·(1) + (3) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 4x + 4 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "14",
+        "18",
+        "16",
+        "-16"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 1·4 + (8) + (4) = 16."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² + 4x + 5 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "2",
+        "-1",
+        "3",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "x = -2 ni qo'ysak: 1·4 + (-8) + (5) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 4x − 3 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-5",
+        "-3",
+        "3",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-8) + (-3) = -3."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² − 4x − 2 funksiya berilgan. f(1) qiymatini hisoblang.",
+      "answer": "-4",
+      "explain": "f(1) = 2·(1)² + (-4)·(1) + (-2) = -4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 4x − 1 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-2",
+        "-3",
+        "1",
+        "-1"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-8) + (-1) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 4x bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "-6",
+        "8",
+        "6",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (4) + (0) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 4x + 1 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-1",
+        "3",
+        "0",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-8) + (1) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² − 4x + 2 funksiya berilgan. f(1) qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "f(1) = 2·(1)² + (-4)·(1) + (2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 4x + 3 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "1",
+        "5",
+        "3",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-8) + (3) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 4x + 4 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "20",
+        "22",
+        "18",
+        "-20"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (8) + (4) = 20."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 4x + 5 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "9",
+        "11",
+        "13",
+        "-11"
+      ],
+      "answer": 1,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (4) + (5) = 11."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 3x − 3 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "-4",
+        "-6",
+        "4",
+        "-2"
+      ],
+      "answer": 0,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (-3) + (-3) = -4."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² − 3x − 2 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "f(2) = 2·(2)² + (-3)·(2) + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 3x − 1 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "2",
+        "6",
+        "-4",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (3) + (-1) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 3x bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "14",
+        "12",
+        "-14",
+        "16"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (6) + (0) = 14."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 3x + 1 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "8",
+        "-6",
+        "4",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (3) + (1) = 6."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² − 3x + 2 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "4",
+      "explain": "f(2) = 2·(2)² + (-3)·(2) + (2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 3x + 3 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "0",
+        "4",
+        "-2",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (-3) + (3) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 3x + 4 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-6",
+        "4",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-6) + (4) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 3x + 5 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "21",
+        "-19",
+        "17",
+        "19"
+      ],
+      "answer": 3,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (6) + (5) = 19."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 2x − 3 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-4) + (-3) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² − 2x − 2 funksiya berilgan. f(-1) qiymatini hisoblang.",
+      "answer": "2",
+      "explain": "f(-1) = 2·(-1)² + (-2)·(-1) + (-2) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 2x − 1 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "13",
+        "11",
+        "-11",
+        "9"
+      ],
+      "answer": 1,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (4) + (-1) = 11."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 2x bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "4",
+        "6",
+        "2",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-4) + (0) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 2x + 1 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "13",
+        "-13",
+        "11",
+        "15"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (4) + (1) = 13."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² − 2x + 2 funksiya berilgan. f(-1) qiymatini hisoblang.",
+      "answer": "6",
+      "explain": "f(-1) = 2·(-1)² + (-2)·(-1) + (2) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 2x + 3 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "9",
+        "-7",
+        "5",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-4) + (3) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 2x + 4 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "2",
+        "-4",
+        "4",
+        "6"
+      ],
+      "answer": 2,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (-2) + (4) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 2x + 5 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-9",
+        "9",
+        "11",
+        "7"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-4) + (5) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − x − 3 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "0",
+        "2",
+        "-1",
+        "-2"
+      ],
+      "answer": 0,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (1) + (-3) = 0."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² − x − 2 funksiya berilgan. f(-2) qiymatini hisoblang.",
+      "answer": "8",
+      "explain": "f(-2) = 2·(-2)² + (-1)·(-2) + (-2) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − x − 1 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "3",
+        "7",
+        "-5",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-2) + (-1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − x bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "-1",
+        "1",
+        "0",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (-1) + (0) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − x + 1 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "5",
+        "7",
+        "-7",
+        "9"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-2) + (1) = 7."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² − x + 2 funksiya berilgan. f(-2) qiymatini hisoblang.",
+      "answer": "12",
+      "explain": "f(-2) = 2·(-2)² + (-1)·(-2) + (2) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − x + 3 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "4",
+        "-6",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (1) + (3) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − x + 4 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "12",
+        "8",
+        "-10",
+        "10"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (-2) + (4) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − x + 5 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "6",
+        "-6",
+        "4",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (-1) + (5) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 3 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "-5",
+        "5",
+        "7",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (0) + (-3) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² − 2 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "6",
+      "explain": "f(2) = 2·(2)² + (0)·(2) + (-2) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² − 1 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "1",
+        "0",
+        "-1",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (0) + (-1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "6",
+        "8",
+        "-8",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (0) + (0) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 1 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "1",
+        "3",
+        "-3",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (0) + (1) = 3."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² + 2 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "10",
+      "explain": "f(2) = 2·(2)² + (0)·(2) + (2) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 3 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "11",
+        "9",
+        "13",
+        "-11"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (0) + (3) = 11."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 4 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "6",
+        "-6",
+        "8",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (0) + (4) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 5 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "11",
+        "13",
+        "15",
+        "-13"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (0) + (5) = 13."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + x − 3 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "-2",
+        "2",
+        "-4",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (-1) + (-3) = -2."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² + x − 2 funksiya berilgan. f(-2) qiymatini hisoblang.",
+      "answer": "4",
+      "explain": "f(-2) = 2·(-2)² + (1)·(-2) + (-2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + x − 1 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "7",
+        "-9",
+        "9",
+        "11"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (2) + (-1) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + x bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "5",
+        "-3",
+        "3",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (1) + (0) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + x + 1 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "13",
+        "11",
+        "-11",
+        "9"
+      ],
+      "answer": 1,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (2) + (1) = 11."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² + x + 2 funksiya berilgan. f(-2) qiymatini hisoblang.",
+      "answer": "8",
+      "explain": "f(-2) = 2·(-2)² + (1)·(-2) + (2) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + x + 3 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "6",
+        "-4",
+        "4",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (-1) + (3) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + x + 4 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "12",
+        "-14",
+        "16",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (2) + (4) = 14."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + x + 5 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "8",
+        "6",
+        "10",
+        "-8"
+      ],
+      "answer": 0,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (1) + (5) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 2x − 3 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "11",
+        "-9",
+        "9",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (4) + (-3) = 9."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² + 2x − 2 funksiya berilgan. f(-1) qiymatini hisoblang.",
+      "answer": "-2",
+      "explain": "f(-1) = 2·(-1)² + (2)·(-1) + (-2) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 2x − 1 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "3",
+        "5",
+        "1",
+        "-3"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (-4) + (-1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 2x bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "10",
+        "-12",
+        "12",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (4) + (0) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 2x + 1 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "5",
+        "3",
+        "-5",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (-4) + (1) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² + 2x + 2 funksiya berilgan. f(-1) qiymatini hisoblang.",
+      "answer": "2",
+      "explain": "f(-1) = 2·(-1)² + (2)·(-1) + (2) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 2x + 3 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "15",
+        "-15",
+        "17",
+        "13"
+      ],
+      "answer": 0,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (4) + (3) = 15."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 2x + 4 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "8",
+        "10",
+        "6",
+        "-8"
+      ],
+      "answer": 0,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (2) + (4) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 2x + 5 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "19",
+        "-17",
+        "17",
+        "15"
+      ],
+      "answer": 2,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (4) + (5) = 17."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 3x − 3 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "4",
+        "2",
+        "-2",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (3) + (-3) = 2."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² + 3x − 2 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "12",
+      "explain": "f(2) = 2·(2)² + (3)·(2) + (-2) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 3x − 1 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "-2",
+        "2",
+        "0",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (-3) + (-1) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 3x bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "2",
+        "4",
+        "0",
+        "-2"
+      ],
+      "answer": 0,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (-6) + (0) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 3x + 1 bo'lsa, f(-1) nimaga teng?",
+      "options": [
+        "2",
+        "-1",
+        "0",
+        "-2"
+      ],
+      "answer": 2,
+      "explain": "x = -1 ni qo'ysak: 2·1 + (-3) + (1) = 0."
+    },
+    {
+      "type": "fill",
+      "q": "f(x) = 2x² + 3x + 2 funksiya berilgan. f(2) qiymatini hisoblang.",
+      "answer": "16",
+      "explain": "f(2) = 2·(2)² + (3)·(2) + (2) = 16."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 3x + 3 bo'lsa, f(1) nimaga teng?",
+      "options": [
+        "6",
+        "8",
+        "-8",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "x = 1 ni qo'ysak: 2·1 + (3) + (3) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 3x + 4 bo'lsa, f(2) nimaga teng?",
+      "options": [
+        "-18",
+        "16",
+        "20",
+        "18"
+      ],
+      "answer": 3,
+      "explain": "x = 2 ni qo'ysak: 2·4 + (6) + (4) = 18."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = 2x² + 3x + 5 bo'lsa, f(-2) nimaga teng?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "-7"
+      ],
+      "answer": 1,
+      "explain": "x = -2 ni qo'ysak: 2·4 + (-6) + (5) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 9x + 20 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-6 va -4",
+        "-5 va -2",
+        "-5 va -4",
+        "5 va 4"
+      ],
+      "answer": 2,
+      "explain": "x² + 9x + 20 = 0 tenglama ildizlari x₁ = -5, x₂ = -4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² + 9x + 20 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (9)·(-5) + (20) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 15 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-5 va -1",
+        "-6 va -3",
+        "-5 va -3",
+        "5 va 3"
+      ],
+      "answer": 2,
+      "explain": "x² + 8x + 15 = 0 tenglama ildizlari x₁ = -5, x₂ = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² + 8x + 15 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (8)·(-5) + (15) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 10 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "5 va 2",
+        "-5 va -2",
+        "-5 va 0",
+        "-6 va -2"
+      ],
+      "answer": 1,
+      "explain": "x² + 7x + 10 = 0 tenglama ildizlari x₁ = -5, x₂ = -2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² + 7x + 10 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (7)·(-5) + (10) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 5 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-5 va -1",
+        "-6 va -1",
+        "-5 va 1",
+        "5 va 1"
+      ],
+      "answer": 0,
+      "explain": "x² + 6x + 5 = 0 tenglama ildizlari x₁ = -5, x₂ = -1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² + 6x + 5 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (6)·(-5) + (5) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 5x kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "5 va 0",
+        "-5 va 2",
+        "-5 va 0",
+        "-6 va 0"
+      ],
+      "answer": 2,
+      "explain": "x² + 5x = 0 tenglama ildizlari x₁ = -5, x₂ = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² + 5x funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (5)·(-5) + (0) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x − 5 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-6 va 1",
+        "-5 va 1",
+        "5 va -1",
+        "-5 va 3"
+      ],
+      "answer": 1,
+      "explain": "x² + 4x − 5 = 0 tenglama ildizlari x₁ = -5, x₂ = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² + 4x − 5 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (4)·(-5) + (-5) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x − 10 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-6 va 2",
+        "-5 va 2",
+        "5 va -2",
+        "-5 va 4"
+      ],
+      "answer": 1,
+      "explain": "x² + 3x − 10 = 0 tenglama ildizlari x₁ = -5, x₂ = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² + 3x − 10 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (3)·(-5) + (-10) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x − 15 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-6 va 3",
+        "-5 va 3",
+        "-5 va 5",
+        "5 va -3"
+      ],
+      "answer": 1,
+      "explain": "x² + 2x − 15 = 0 tenglama ildizlari x₁ = -5, x₂ = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² + 2x − 15 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (2)·(-5) + (-15) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x − 20 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-5 va 6",
+        "-6 va 4",
+        "-5 va 4",
+        "5 va -4"
+      ],
+      "answer": 2,
+      "explain": "x² + x − 20 = 0 tenglama ildizlari x₁ = -5, x₂ = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² + x − 20 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (1)·(-5) + (-20) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 25 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-6 va 5",
+        "-5 va 5",
+        "-5 va 7",
+        "5 va -5"
+      ],
+      "answer": 1,
+      "explain": "x² − 25 = 0 tenglama ildizlari x₁ = -5, x₂ = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² − 25 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (0)·(-5) + (-25) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 30 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "5 va -6",
+        "-5 va 6",
+        "-6 va 6",
+        "-5 va 8"
+      ],
+      "answer": 1,
+      "explain": "x² − x − 30 = 0 tenglama ildizlari x₁ = -5, x₂ = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -5 qiymat y = x² − x − 30 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-5) = (-5)² + (-1)·(-5) + (-30) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 12 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-4 va -1",
+        "4 va 3",
+        "-5 va -3",
+        "-4 va -3"
+      ],
+      "answer": 3,
+      "explain": "x² + 7x + 12 = 0 tenglama ildizlari x₁ = -4, x₂ = -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -4 qiymat y = x² + 7x + 12 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-4) = (-4)² + (7)·(-4) + (12) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 8 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "4 va 2",
+        "-4 va -2",
+        "-4 va 0",
+        "-5 va -2"
+      ],
+      "answer": 1,
+      "explain": "x² + 6x + 8 = 0 tenglama ildizlari x₁ = -4, x₂ = -2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -4 qiymat y = x² + 6x + 8 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-4) = (-4)² + (6)·(-4) + (8) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 5x + 4 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-4 va -1",
+        "-5 va -1",
+        "4 va 1",
+        "-4 va 1"
+      ],
+      "answer": 0,
+      "explain": "x² + 5x + 4 = 0 tenglama ildizlari x₁ = -4, x₂ = -1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -4 qiymat y = x² + 5x + 4 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-4) = (-4)² + (5)·(-4) + (4) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-4 va 2",
+        "-5 va 0",
+        "-4 va 0",
+        "4 va 0"
+      ],
+      "answer": 2,
+      "explain": "x² + 4x = 0 tenglama ildizlari x₁ = -4, x₂ = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -4 qiymat y = x² + 4x funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-4) = (-4)² + (4)·(-4) + (0) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x − 4 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-5 va 1",
+        "-4 va 3",
+        "4 va -1",
+        "-4 va 1"
+      ],
+      "answer": 3,
+      "explain": "x² + 3x − 4 = 0 tenglama ildizlari x₁ = -4, x₂ = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -4 qiymat y = x² + 3x − 4 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-4) = (-4)² + (3)·(-4) + (-4) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x − 8 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "4 va -2",
+        "-5 va 2",
+        "-4 va 2",
+        "-4 va 4"
+      ],
+      "answer": 2,
+      "explain": "x² + 2x − 8 = 0 tenglama ildizlari x₁ = -4, x₂ = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -4 qiymat y = x² + 2x − 8 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-4) = (-4)² + (2)·(-4) + (-8) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x − 12 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-4 va 5",
+        "-4 va 3",
+        "4 va -3",
+        "-5 va 3"
+      ],
+      "answer": 1,
+      "explain": "x² + x − 12 = 0 tenglama ildizlari x₁ = -4, x₂ = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -4 qiymat y = x² + x − 12 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-4) = (-4)² + (1)·(-4) + (-12) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 16 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-4 va 4",
+        "-5 va 4",
+        "-4 va 6",
+        "4 va -4"
+      ],
+      "answer": 0,
+      "explain": "x² − 16 = 0 tenglama ildizlari x₁ = -4, x₂ = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -4 qiymat y = x² − 16 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-4) = (-4)² + (0)·(-4) + (-16) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 20 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-5 va 5",
+        "-4 va 5",
+        "-4 va 7",
+        "4 va -5"
+      ],
+      "answer": 1,
+      "explain": "x² − x − 20 = 0 tenglama ildizlari x₁ = -4, x₂ = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -4 qiymat y = x² − x − 20 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-4) = (-4)² + (-1)·(-4) + (-20) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 24 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-4 va 6",
+        "-5 va 6",
+        "-4 va 8",
+        "4 va -6"
+      ],
+      "answer": 0,
+      "explain": "x² − 2x − 24 = 0 tenglama ildizlari x₁ = -4, x₂ = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -4 qiymat y = x² − 2x − 24 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-4) = (-4)² + (-2)·(-4) + (-24) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 5x + 6 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-3 va -2",
+        "3 va 2",
+        "-3 va 0",
+        "-4 va -2"
+      ],
+      "answer": 0,
+      "explain": "x² + 5x + 6 = 0 tenglama ildizlari x₁ = -3, x₂ = -2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -3 qiymat y = x² + 5x + 6 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-3) = (-3)² + (5)·(-3) + (6) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 3 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-3 va -1",
+        "3 va 1",
+        "-4 va -1",
+        "-3 va 1"
+      ],
+      "answer": 0,
+      "explain": "x² + 4x + 3 = 0 tenglama ildizlari x₁ = -3, x₂ = -1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -3 qiymat y = x² + 4x + 3 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-3) = (-3)² + (4)·(-3) + (3) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-3 va 0",
+        "-3 va 2",
+        "-4 va 0",
+        "3 va 0"
+      ],
+      "answer": 0,
+      "explain": "x² + 3x = 0 tenglama ildizlari x₁ = -3, x₂ = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -3 qiymat y = x² + 3x funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-3) = (-3)² + (3)·(-3) + (0) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x − 3 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-4 va 1",
+        "-3 va 1",
+        "-3 va 3",
+        "3 va -1"
+      ],
+      "answer": 1,
+      "explain": "x² + 2x − 3 = 0 tenglama ildizlari x₁ = -3, x₂ = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -3 qiymat y = x² + 2x − 3 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-3) = (-3)² + (2)·(-3) + (-3) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x − 6 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "3 va -2",
+        "-3 va 2",
+        "-3 va 4",
+        "-4 va 2"
+      ],
+      "answer": 1,
+      "explain": "x² + x − 6 = 0 tenglama ildizlari x₁ = -3, x₂ = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -3 qiymat y = x² + x − 6 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-3) = (-3)² + (1)·(-3) + (-6) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 9 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-3 va 3",
+        "-4 va 3",
+        "3 va -3",
+        "-3 va 5"
+      ],
+      "answer": 0,
+      "explain": "x² − 9 = 0 tenglama ildizlari x₁ = -3, x₂ = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -3 qiymat y = x² − 9 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-3) = (-3)² + (0)·(-3) + (-9) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 12 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-4 va 4",
+        "-3 va 6",
+        "3 va -4",
+        "-3 va 4"
+      ],
+      "answer": 3,
+      "explain": "x² − x − 12 = 0 tenglama ildizlari x₁ = -3, x₂ = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -3 qiymat y = x² − x − 12 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-3) = (-3)² + (-1)·(-3) + (-12) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 15 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-3 va 7",
+        "3 va -5",
+        "-4 va 5",
+        "-3 va 5"
+      ],
+      "answer": 3,
+      "explain": "x² − 2x − 15 = 0 tenglama ildizlari x₁ = -3, x₂ = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -3 qiymat y = x² − 2x − 15 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-3) = (-3)² + (-2)·(-3) + (-15) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x − 18 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-4 va 6",
+        "-3 va 6",
+        "3 va -6",
+        "-3 va 8"
+      ],
+      "answer": 1,
+      "explain": "x² − 3x − 18 = 0 tenglama ildizlari x₁ = -3, x₂ = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -3 qiymat y = x² − 3x − 18 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-3) = (-3)² + (-3)·(-3) + (-18) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x + 2 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-2 va -1",
+        "-2 va 1",
+        "2 va 1",
+        "-3 va -1"
+      ],
+      "answer": 0,
+      "explain": "x² + 3x + 2 = 0 tenglama ildizlari x₁ = -2, x₂ = -1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -2 qiymat y = x² + 3x + 2 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-2) = (-2)² + (3)·(-2) + (2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "2 va 0",
+        "-3 va 0",
+        "-2 va 0",
+        "-2 va 2"
+      ],
+      "answer": 2,
+      "explain": "x² + 2x = 0 tenglama ildizlari x₁ = -2, x₂ = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -2 qiymat y = x² + 2x funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-2) = (-2)² + (2)·(-2) + (0) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x − 2 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "2 va -1",
+        "-2 va 1",
+        "-2 va 3",
+        "-3 va 1"
+      ],
+      "answer": 1,
+      "explain": "x² + x − 2 = 0 tenglama ildizlari x₁ = -2, x₂ = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -2 qiymat y = x² + x − 2 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-2) = (-2)² + (1)·(-2) + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-2 va 2",
+        "2 va -2",
+        "-2 va 4",
+        "-3 va 2"
+      ],
+      "answer": 0,
+      "explain": "x² − 4 = 0 tenglama ildizlari x₁ = -2, x₂ = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -2 qiymat y = x² − 4 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-2) = (-2)² + (0)·(-2) + (-4) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 6 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-2 va 3",
+        "-3 va 3",
+        "2 va -3",
+        "-2 va 5"
+      ],
+      "answer": 0,
+      "explain": "x² − x − 6 = 0 tenglama ildizlari x₁ = -2, x₂ = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -2 qiymat y = x² − x − 6 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-2) = (-2)² + (-1)·(-2) + (-6) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 8 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-2 va 6",
+        "-3 va 4",
+        "-2 va 4",
+        "2 va -4"
+      ],
+      "answer": 2,
+      "explain": "x² − 2x − 8 = 0 tenglama ildizlari x₁ = -2, x₂ = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -2 qiymat y = x² − 2x − 8 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-2) = (-2)² + (-2)·(-2) + (-8) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x − 10 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-3 va 5",
+        "-2 va 5",
+        "2 va -5",
+        "-2 va 7"
+      ],
+      "answer": 1,
+      "explain": "x² − 3x − 10 = 0 tenglama ildizlari x₁ = -2, x₂ = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -2 qiymat y = x² − 3x − 10 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-2) = (-2)² + (-3)·(-2) + (-10) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x − 12 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-2 va 8",
+        "-2 va 6",
+        "2 va -6",
+        "-3 va 6"
+      ],
+      "answer": 1,
+      "explain": "x² − 4x − 12 = 0 tenglama ildizlari x₁ = -2, x₂ = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -2 qiymat y = x² − 4x − 12 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-2) = (-2)² + (-4)·(-2) + (-12) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-2 va 0",
+        "1 va 0",
+        "-1 va 2",
+        "-1 va 0"
+      ],
+      "answer": 3,
+      "explain": "x² + x = 0 tenglama ildizlari x₁ = -1, x₂ = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -1 qiymat y = x² + x funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-1) = (-1)² + (1)·(-1) + (0) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 1 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "1 va -1",
+        "-2 va 1",
+        "-1 va 3",
+        "-1 va 1"
+      ],
+      "answer": 3,
+      "explain": "x² − 1 = 0 tenglama ildizlari x₁ = -1, x₂ = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -1 qiymat y = x² − 1 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-1) = (-1)² + (0)·(-1) + (-1) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 2 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-1 va 2",
+        "-1 va 4",
+        "1 va -2",
+        "-2 va 2"
+      ],
+      "answer": 0,
+      "explain": "x² − x − 2 = 0 tenglama ildizlari x₁ = -1, x₂ = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -1 qiymat y = x² − x − 2 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-1) = (-1)² + (-1)·(-1) + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 3 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-1 va 3",
+        "1 va -3",
+        "-2 va 3",
+        "-1 va 5"
+      ],
+      "answer": 0,
+      "explain": "x² − 2x − 3 = 0 tenglama ildizlari x₁ = -1, x₂ = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -1 qiymat y = x² − 2x − 3 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-1) = (-1)² + (-2)·(-1) + (-3) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x − 4 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-1 va 6",
+        "-2 va 4",
+        "1 va -4",
+        "-1 va 4"
+      ],
+      "answer": 3,
+      "explain": "x² − 3x − 4 = 0 tenglama ildizlari x₁ = -1, x₂ = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -1 qiymat y = x² − 3x − 4 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-1) = (-1)² + (-3)·(-1) + (-4) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x − 5 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-2 va 5",
+        "1 va -5",
+        "-1 va 5",
+        "-1 va 7"
+      ],
+      "answer": 2,
+      "explain": "x² − 4x − 5 = 0 tenglama ildizlari x₁ = -1, x₂ = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -1 qiymat y = x² − 4x − 5 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-1) = (-1)² + (-4)·(-1) + (-5) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x − 6 kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-1 va 6",
+        "-2 va 6",
+        "1 va -6",
+        "-1 va 8"
+      ],
+      "answer": 0,
+      "explain": "x² − 5x − 6 = 0 tenglama ildizlari x₁ = -1, x₂ = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = -1 qiymat y = x² − 5x − 6 funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(-1) = (-1)² + (-5)·(-1) + (-6) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "-1 va 1",
+        "0 va 3",
+        "0 va 1",
+        "0 va -1"
+      ],
+      "answer": 2,
+      "explain": "x² − x = 0 tenglama ildizlari x₁ = 0, x₂ = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = 0 qiymat y = x² − x funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(0) = (0)² + (-1)·(0) + (0) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "0 va -2",
+        "-1 va 2",
+        "0 va 2",
+        "0 va 4"
+      ],
+      "answer": 2,
+      "explain": "x² − 2x = 0 tenglama ildizlari x₁ = 0, x₂ = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x = 0 qiymat y = x² − 2x funksiyaning noli hisoblanadi.",
+      "answer": true,
+      "explain": "y(0) = (0)² + (-2)·(0) + (0) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x kvadrat funksiyaning nollarini toping.",
+      "options": [
+        "0 va 3",
+        "-1 va 3",
+        "0 va -3",
+        "0 va 5"
+      ],
+      "answer": 0,
+      "explain": "x² − 3x = 0 tenglama ildizlari x₁ = 0, x₂ = 3."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Bosh had",
+      "Kvadrat funksiyadagi ax² qo'shiluvchisi"
+    ],
+    [
+      "Ozod had",
+      "y = ax² + bx + c dagi c soni"
+    ],
+    [
+      "Nol",
+      "Funksiyani nolga aylantiruvchi x qiymati"
+    ],
+    [
+      "Moslik",
+      "x va y orasidagi funksional bog'lanish"
+    ],
+    [
+      "Kvadrat funksiya",
+      "y = ax² + bx + c (a ≠ 0) ko'rinishidagi funksiya"
+    ],
+    [
+      "Kvadrat uchhad",
+      "ax² + bx + c (a ≠ 0) ko'rinishidagi ifoda"
+    ],
+    [
+      "a ≠ 0 sharti",
+      "a = 0 bo'lsa funksiya chiziqli bo'lib qoladi"
+    ],
+    [
+      "x² koeffitsiyenti",
+      "y = ax² + bx + c dagi a soni"
+    ],
+    [
+      "x koeffitsiyenti",
+      "y = ax² + bx + c dagi b soni"
+    ],
+    [
+      "y(0) qiymati",
+      "Kvadrat funksiyada har doim c ga teng"
+    ],
+    [
+      "Funksiyaning noli",
+      "ax² + bx + c = 0 tenglama ildizlari"
+    ],
+    [
+      "Erkin tushish",
+      "h = gt²/2 — kvadratik bog'lanish misoli"
+    ],
+    [
+      "Kvadrat yuzi",
+      "S = a² — kvadrat funksiyaning sodda turi"
+    ],
+    [
+      "To'la bo'lmagan",
+      "b = 0 yoki c = 0 bo'lgan kvadrat funksiya"
+    ]
+  ]
+}

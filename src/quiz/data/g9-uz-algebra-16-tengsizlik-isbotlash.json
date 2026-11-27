@@ -1,0 +1,3140 @@
+{
+  "id": "g9-uz-algebra-16-tengsizlik-isbotlash",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "16-§. Sodda tengsizliklarni isbotlash",
+  "title": "16-§. Sodda tengsizliklarni isbotlash (II bob yakuni)",
+  "source": "Algebra 9-sinf (2019), II bob, 16-§, 80–92-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Ikki nomanfiy a va b sonlar uchun Koshi tengsizligi qanday yoziladi?",
+      "options": [
+        "(a + b)/2 ≤ √(ab)",
+        "(a + b)/2 ≥ √(ab)",
+        "(a² + b²)/2 ≤ ab",
+        "a + b ≥ ab"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (a+b)/2 o'rta geometrik √(ab) dan kichik emas."
+    },
+    {
+      "type": "choice",
+      "q": "Koshi tengsizligi (a + b)/2 ≥ √(ab) da qachon aniq tenglik o'rinli bo'ladi?",
+      "options": [
+        "a > b bo'lganda",
+        "a = −b bo'lganda",
+        "a = 0 bo'lganda",
+        "a = b bo'lganda"
+      ],
+      "answer": 3,
+      "explain": "((a+b)/2 − √(ab)) = (√a − √b)²/2 = 0 ⇔ a = b."
+    },
+    {
+      "type": "choice",
+      "q": "Har qanday musbat a > 0 son uchun a + 1/a ifodaning eng kichik qiymati nechaga teng?",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "Koshi tengsizligiga ko'ra a + 1/a ≥ 2√(a·(1/a)) = 2 (a = 1 da erishiladi)."
+    },
+    {
+      "type": "truefalse",
+      "q": "a² + b² ≥ 2ab tengsizlik har qanday haqiqiy a va b sonlar uchun o'rinli.",
+      "answer": true,
+      "explain": "a² − 2ab + b² = (a − b)² ≥ 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "Manfiy x < 0 son uchun x + 1/x ≥ 2 tengsizlik o'rinlidir.",
+      "answer": false,
+      "explain": "x < 0 bo'lganda x + 1/x ≤ −2 bo'ladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 18x + 82 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 9)² + 1 ≥ 1 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 18x + 83 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "2",
+        "0",
+        "3",
+        "83"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x − 9)² + 2 ≥ 2."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 18x + 84 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "3",
+      "explain": "x² − 18x + 84 = (x − 9)² + 3 ≥ 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 18x + 85 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 9)² + 4 ≥ 4 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 18x + 86 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "5",
+        "0",
+        "86",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x − 9)² + 5 ≥ 5."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 18x + 87 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "6",
+      "explain": "x² − 18x + 87 = (x − 9)² + 6 ≥ 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 18x + 88 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 9)² + 7 ≥ 7 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 18x + 89 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "89",
+        "9",
+        "8",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x − 9)² + 8 ≥ 8."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 18x + 90 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "9",
+      "explain": "x² − 18x + 90 = (x − 9)² + 9 ≥ 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 18x + 91 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 9)² + 10 ≥ 10 > 0."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 16x + 65 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "1",
+      "explain": "x² − 16x + 65 = (x − 8)² + 1 ≥ 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 16x + 66 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 8)² + 2 ≥ 2 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 16x + 67 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "3",
+        "4",
+        "67",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x − 8)² + 3 ≥ 3."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 16x + 68 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "4",
+      "explain": "x² − 16x + 68 = (x − 8)² + 4 ≥ 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 16x + 69 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 8)² + 5 ≥ 5 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 16x + 70 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "7",
+        "6",
+        "70",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x − 8)² + 6 ≥ 6."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 16x + 71 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "7",
+      "explain": "x² − 16x + 71 = (x − 8)² + 7 ≥ 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 16x + 72 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 8)² + 8 ≥ 8 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 16x + 73 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "10",
+        "9",
+        "0",
+        "73"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x − 8)² + 9 ≥ 9."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 16x + 74 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "10",
+      "explain": "x² − 16x + 74 = (x − 8)² + 10 ≥ 10."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 14x + 50 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "50",
+        "0",
+        "2",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "To'la kvadrat ajratsak (x − 7)² + 1 ≥ 1."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 14x + 51 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "2",
+      "explain": "x² − 14x + 51 = (x − 7)² + 2 ≥ 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 14x + 52 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 7)² + 3 ≥ 3 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 14x + 53 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "5",
+        "4",
+        "53"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x − 7)² + 4 ≥ 4."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 14x + 54 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "5",
+      "explain": "x² − 14x + 54 = (x − 7)² + 5 ≥ 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 14x + 55 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 7)² + 6 ≥ 6 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 14x + 56 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "8",
+        "56",
+        "7",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x − 7)² + 7 ≥ 7."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 14x + 57 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "8",
+      "explain": "x² − 14x + 57 = (x − 7)² + 8 ≥ 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 14x + 58 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 7)² + 9 ≥ 9 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 14x + 59 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "11",
+        "10",
+        "59"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x − 7)² + 10 ≥ 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 12x + 37 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 6)² + 1 ≥ 1 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 12x + 38 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "38",
+        "3",
+        "0",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "To'la kvadrat ajratsak (x − 6)² + 2 ≥ 2."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 12x + 39 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "3",
+      "explain": "x² − 12x + 39 = (x − 6)² + 3 ≥ 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 12x + 40 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 6)² + 4 ≥ 4 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 12x + 41 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "5",
+        "6",
+        "41"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x − 6)² + 5 ≥ 5."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 12x + 42 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "6",
+      "explain": "x² − 12x + 42 = (x − 6)² + 6 ≥ 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 12x + 43 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 6)² + 7 ≥ 7 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 12x + 44 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "44",
+        "0",
+        "9",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "To'la kvadrat ajratsak (x − 6)² + 8 ≥ 8."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 12x + 45 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "9",
+      "explain": "x² − 12x + 45 = (x − 6)² + 9 ≥ 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 12x + 46 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 6)² + 10 ≥ 10 > 0."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 10x + 26 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "1",
+      "explain": "x² − 10x + 26 = (x − 5)² + 1 ≥ 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 10x + 27 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 5)² + 2 ≥ 2 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 10x + 28 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "28",
+        "3",
+        "4",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x − 5)² + 3 ≥ 3."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 10x + 29 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "4",
+      "explain": "x² − 10x + 29 = (x − 5)² + 4 ≥ 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 10x + 30 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 5)² + 5 ≥ 5 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 10x + 31 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "7",
+        "31",
+        "6",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x − 5)² + 6 ≥ 6."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 10x + 32 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "7",
+      "explain": "x² − 10x + 32 = (x − 5)² + 7 ≥ 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 10x + 33 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 5)² + 8 ≥ 8 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 10x + 34 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "34",
+        "10",
+        "9"
+      ],
+      "answer": 3,
+      "explain": "To'la kvadrat ajratsak (x − 5)² + 9 ≥ 9."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 10x + 35 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "10",
+      "explain": "x² − 10x + 35 = (x − 5)² + 10 ≥ 10."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 8x + 17 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "2",
+        "0",
+        "1",
+        "17"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x − 4)² + 1 ≥ 1."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 8x + 18 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "2",
+      "explain": "x² − 8x + 18 = (x − 4)² + 2 ≥ 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 8x + 19 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 4)² + 3 ≥ 3 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 8x + 20 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "5",
+        "20",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "To'la kvadrat ajratsak (x − 4)² + 4 ≥ 4."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 8x + 21 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "5",
+      "explain": "x² − 8x + 21 = (x − 4)² + 5 ≥ 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 8x + 22 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 4)² + 6 ≥ 6 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 8x + 23 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "8",
+        "0",
+        "23",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "To'la kvadrat ajratsak (x − 4)² + 7 ≥ 7."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 8x + 24 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "8",
+      "explain": "x² − 8x + 24 = (x − 4)² + 8 ≥ 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 8x + 25 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 4)² + 9 ≥ 9 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 8x + 26 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "10",
+        "11",
+        "26",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x − 4)² + 10 ≥ 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 6x + 10 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 3)² + 1 ≥ 1 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x + 11 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "3",
+        "0",
+        "2",
+        "11"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x − 3)² + 2 ≥ 2."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 6x + 12 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "3",
+      "explain": "x² − 6x + 12 = (x − 3)² + 3 ≥ 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 6x + 13 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 3)² + 4 ≥ 4 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x + 14 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "6",
+        "5",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x − 3)² + 5 ≥ 5."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 6x + 15 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "6",
+      "explain": "x² − 6x + 15 = (x − 3)² + 6 ≥ 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 6x + 16 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 3)² + 7 ≥ 7 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x + 17 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "9",
+        "8",
+        "17",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x − 3)² + 8 ≥ 8."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 6x + 18 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "9",
+      "explain": "x² − 6x + 18 = (x − 3)² + 9 ≥ 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 6x + 19 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 3)² + 10 ≥ 10 > 0."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x + 5 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "1",
+      "explain": "x² − 4x + 5 = (x − 2)² + 1 ≥ 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 4x + 6 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 2)² + 2 ≥ 2 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4x + 7 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "4",
+        "7",
+        "3",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x − 2)² + 3 ≥ 3."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x + 8 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "4",
+      "explain": "x² − 4x + 8 = (x − 2)² + 4 ≥ 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 4x + 9 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 2)² + 5 ≥ 5 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4x + 10 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "6",
+        "7",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x − 2)² + 6 ≥ 6."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x + 11 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "7",
+      "explain": "x² − 4x + 11 = (x − 2)² + 7 ≥ 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 4x + 12 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 2)² + 8 ≥ 8 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4x + 13 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "10",
+        "13",
+        "9"
+      ],
+      "answer": 3,
+      "explain": "To'la kvadrat ajratsak (x − 2)² + 9 ≥ 9."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x + 14 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "10",
+      "explain": "x² − 4x + 14 = (x − 2)² + 10 ≥ 10."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x + 2 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x − 1)² + 1 ≥ 1."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x + 3 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "2",
+      "explain": "x² − 2x + 3 = (x − 1)² + 2 ≥ 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 2x + 4 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 1)² + 3 ≥ 3 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x + 5 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "4",
+        "5",
+        "0",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x − 1)² + 4 ≥ 4."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x + 6 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "5",
+      "explain": "x² − 2x + 6 = (x − 1)² + 5 ≥ 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 2x + 7 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 1)² + 6 ≥ 6 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x + 8 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "7",
+        "8",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x − 1)² + 7 ≥ 7."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x + 9 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "8",
+      "explain": "x² − 2x + 9 = (x − 1)² + 8 ≥ 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 2x + 10 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x − 1)² + 9 ≥ 9 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x + 11 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "11",
+        "0",
+        "9",
+        "10"
+      ],
+      "answer": 3,
+      "explain": "To'la kvadrat ajratsak (x − 1)² + 10 ≥ 10."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x + 2 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "3",
+        "1",
+        "0",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x + 1)² + 1 ≥ 1."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 2x + 3 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "2",
+      "explain": "x² + 2x + 3 = (x + 1)² + 2 ≥ 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 2x + 4 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 1)² + 3 ≥ 3 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x + 5 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x + 1)² + 4 ≥ 4."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 2x + 6 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "5",
+      "explain": "x² + 2x + 6 = (x + 1)² + 5 ≥ 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 2x + 7 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 1)² + 6 ≥ 6 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x + 8 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "6",
+        "8",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "To'la kvadrat ajratsak (x + 1)² + 7 ≥ 7."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 2x + 9 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "8",
+      "explain": "x² + 2x + 9 = (x + 1)² + 8 ≥ 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 2x + 10 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 1)² + 9 ≥ 9 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x + 11 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "10",
+        "9",
+        "11"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x + 1)² + 10 ≥ 10."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x + 5 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "1",
+      "explain": "x² + 4x + 5 = (x + 2)² + 1 ≥ 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 4x + 6 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 2)² + 2 ≥ 2 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 4x + 7 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "3",
+        "0",
+        "7",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x + 2)² + 3 ≥ 3."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x + 8 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "4",
+      "explain": "x² + 4x + 8 = (x + 2)² + 4 ≥ 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 4x + 9 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 2)² + 5 ≥ 5 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 4x + 10 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "6",
+        "10",
+        "7",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x + 2)² + 6 ≥ 6."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x + 11 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "7",
+      "explain": "x² + 4x + 11 = (x + 2)² + 7 ≥ 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 4x + 12 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 2)² + 8 ≥ 8 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 4x + 13 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "9",
+        "0",
+        "13",
+        "10"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x + 2)² + 9 ≥ 9."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x + 14 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "10",
+      "explain": "x² + 4x + 14 = (x + 2)² + 10 ≥ 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 6x + 10 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 3)² + 1 ≥ 1 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x + 11 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "11",
+        "2",
+        "3",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x + 3)² + 2 ≥ 2."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 6x + 12 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "3",
+      "explain": "x² + 6x + 12 = (x + 3)² + 3 ≥ 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 6x + 13 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 3)² + 4 ≥ 4 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x + 14 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "5",
+        "6",
+        "14",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x + 3)² + 5 ≥ 5."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 6x + 15 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "6",
+      "explain": "x² + 6x + 15 = (x + 3)² + 6 ≥ 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 6x + 16 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 3)² + 7 ≥ 7 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x + 17 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "9",
+        "0",
+        "8",
+        "17"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x + 3)² + 8 ≥ 8."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 6x + 18 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "9",
+      "explain": "x² + 6x + 18 = (x + 3)² + 9 ≥ 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 6x + 19 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 3)² + 10 ≥ 10 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 8x + 17 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "1",
+        "17",
+        "0",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x + 4)² + 1 ≥ 1."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 8x + 18 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "2",
+      "explain": "x² + 8x + 18 = (x + 4)² + 2 ≥ 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 8x + 19 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 4)² + 3 ≥ 3 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 8x + 20 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "5",
+        "4",
+        "20",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x + 4)² + 4 ≥ 4."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 8x + 21 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "5",
+      "explain": "x² + 8x + 21 = (x + 4)² + 5 ≥ 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 8x + 22 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 4)² + 6 ≥ 6 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 8x + 23 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "23",
+        "7",
+        "8",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x + 4)² + 7 ≥ 7."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 8x + 24 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "8",
+      "explain": "x² + 8x + 24 = (x + 4)² + 8 ≥ 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 8x + 25 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 4)² + 9 ≥ 9 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 8x + 26 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "26",
+        "11",
+        "10",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x + 4)² + 10 ≥ 10."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 10x + 26 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "1",
+      "explain": "x² + 10x + 26 = (x + 5)² + 1 ≥ 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 10x + 27 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 5)² + 2 ≥ 2 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 10x + 28 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "28",
+        "0",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x + 5)² + 3 ≥ 3."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 10x + 29 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "4",
+      "explain": "x² + 10x + 29 = (x + 5)² + 4 ≥ 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 10x + 30 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 5)² + 5 ≥ 5 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 10x + 31 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "6",
+        "0",
+        "31",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x + 5)² + 6 ≥ 6."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 10x + 32 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "7",
+      "explain": "x² + 10x + 32 = (x + 5)² + 7 ≥ 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 10x + 33 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 5)² + 8 ≥ 8 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 10x + 34 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "9",
+        "10",
+        "34"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x + 5)² + 9 ≥ 9."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 10x + 35 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "10",
+      "explain": "x² + 10x + 35 = (x + 5)² + 10 ≥ 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 12x + 37 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 6)² + 1 ≥ 1 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 12x + 38 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "38",
+        "0",
+        "3",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "To'la kvadrat ajratsak (x + 6)² + 2 ≥ 2."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 12x + 39 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "3",
+      "explain": "x² + 12x + 39 = (x + 6)² + 3 ≥ 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 12x + 40 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 6)² + 4 ≥ 4 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 12x + 41 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "6",
+        "5",
+        "41",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x + 6)² + 5 ≥ 5."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 12x + 42 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "6",
+      "explain": "x² + 12x + 42 = (x + 6)² + 6 ≥ 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 12x + 43 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 6)² + 7 ≥ 7 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 12x + 44 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "9",
+        "0",
+        "8",
+        "44"
+      ],
+      "answer": 2,
+      "explain": "To'la kvadrat ajratsak (x + 6)² + 8 ≥ 8."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 12x + 45 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "9",
+      "explain": "x² + 12x + 45 = (x + 6)² + 9 ≥ 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 12x + 46 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 6)² + 10 ≥ 10 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 14x + 50 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "1",
+        "50",
+        "0",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x + 7)² + 1 ≥ 1."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 14x + 51 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "2",
+      "explain": "x² + 14x + 51 = (x + 7)² + 2 ≥ 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 14x + 52 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 7)² + 3 ≥ 3 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 14x + 53 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "4",
+        "53",
+        "0",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x + 7)² + 4 ≥ 4."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 14x + 54 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "5",
+      "explain": "x² + 14x + 54 = (x + 7)² + 5 ≥ 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 14x + 55 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 7)² + 6 ≥ 6 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 14x + 56 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "0",
+        "7",
+        "8",
+        "56"
+      ],
+      "answer": 1,
+      "explain": "To'la kvadrat ajratsak (x + 7)² + 7 ≥ 7."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 14x + 57 ifodaning barcha x ∈ R larda qabul qiladigan eng kichik qiymatini toping.",
+      "answer": "8",
+      "explain": "x² + 14x + 57 = (x + 7)² + 8 ≥ 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 14x + 58 > 0 tengsizlik barcha haqiqiy x lar uchun o'rinli.",
+      "answer": true,
+      "explain": "(x + 7)² + 9 ≥ 9 > 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 14x + 59 ifoda nechaga teng yoki undan katta bo'ladi (barcha x ∈ R uchun)?",
+      "options": [
+        "10",
+        "59",
+        "11",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "To'la kvadrat ajratsak (x + 7)² + 10 ≥ 10."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 1x + 1/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 1x + 1/x ≥ 2√(1) = 2."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 1x + 1/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "1",
+      "explain": "1x = 1/x ⇒ x² = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 2x + 2/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 2x + 2/x ≥ 2√(4) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 2x + 2/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "1",
+      "explain": "2x = 2/x ⇒ x² = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 3x + 3/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "5",
+        "6",
+        "8",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 3x + 3/x ≥ 2√(9) = 6."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 3x + 3/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "1",
+      "explain": "3x = 3/x ⇒ x² = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 4x + 4/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "4",
+        "7",
+        "10",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 4x + 4/x ≥ 2√(16) = 8."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 4x + 4/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "1",
+      "explain": "4x = 4/x ⇒ x² = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 5x + 5/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "12",
+        "5",
+        "9",
+        "10"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 5x + 5/x ≥ 2√(25) = 10."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 5x + 5/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "1",
+      "explain": "5x = 5/x ⇒ x² = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 6x + 6/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "6",
+        "12",
+        "14",
+        "11"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 6x + 6/x ≥ 2√(36) = 12."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 6x + 6/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "1",
+      "explain": "6x = 6/x ⇒ x² = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 7x + 7/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "7",
+        "14",
+        "13",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 7x + 7/x ≥ 2√(49) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 7x + 7/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "1",
+      "explain": "7x = 7/x ⇒ x² = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 1x + 4/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "6",
+        "4",
+        "2",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 1x + 4/x ≥ 2√(4) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 1x + 4/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "2",
+      "explain": "1x = 4/x ⇒ x² = 4 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 2x + 8/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "8",
+        "10",
+        "4",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 2x + 8/x ≥ 2√(16) = 8."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 2x + 8/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "2",
+      "explain": "2x = 8/x ⇒ x² = 4 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 3x + 12/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "3",
+        "6",
+        "14",
+        "12"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 3x + 12/x ≥ 2√(36) = 12."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 3x + 12/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "2",
+      "explain": "3x = 12/x ⇒ x² = 4 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 4x + 16/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "18",
+        "4",
+        "16",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "Koshi bo'yicha 4x + 16/x ≥ 2√(64) = 16."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 4x + 16/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "2",
+      "explain": "4x = 16/x ⇒ x² = 4 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 5x + 20/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "20",
+        "22",
+        "5",
+        "10"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 5x + 20/x ≥ 2√(100) = 20."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 5x + 20/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "2",
+      "explain": "5x = 20/x ⇒ x² = 4 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 6x + 24/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "26",
+        "12",
+        "24",
+        "6"
+      ],
+      "answer": 2,
+      "explain": "Koshi bo'yicha 6x + 24/x ≥ 2√(144) = 24."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 6x + 24/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "2",
+      "explain": "6x = 24/x ⇒ x² = 4 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 7x + 28/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "7",
+        "30",
+        "14",
+        "28"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 7x + 28/x ≥ 2√(196) = 28."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 7x + 28/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "2",
+      "explain": "7x = 28/x ⇒ x² = 4 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 1x + 9/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "3",
+        "1",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "Koshi bo'yicha 1x + 9/x ≥ 2√(9) = 6."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 1x + 9/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "3",
+      "explain": "1x = 9/x ⇒ x² = 9 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 2x + 18/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "14",
+        "12",
+        "6",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 2x + 18/x ≥ 2√(36) = 12."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 2x + 18/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "3",
+      "explain": "2x = 18/x ⇒ x² = 9 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 3x + 27/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "3",
+        "20",
+        "9",
+        "18"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 3x + 27/x ≥ 2√(81) = 18."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 3x + 27/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "3",
+      "explain": "3x = 27/x ⇒ x² = 9 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 4x + 36/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "24",
+        "4",
+        "12",
+        "26"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 4x + 36/x ≥ 2√(144) = 24."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 4x + 36/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "3",
+      "explain": "4x = 36/x ⇒ x² = 9 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 5x + 45/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "15",
+        "30",
+        "5",
+        "32"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 5x + 45/x ≥ 2√(225) = 30."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 5x + 45/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "3",
+      "explain": "5x = 45/x ⇒ x² = 9 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 6x + 54/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "18",
+        "36",
+        "38",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 6x + 54/x ≥ 2√(324) = 36."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 6x + 54/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "3",
+      "explain": "6x = 54/x ⇒ x² = 9 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 7x + 63/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "21",
+        "44",
+        "42",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "Koshi bo'yicha 7x + 63/x ≥ 2√(441) = 42."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 7x + 63/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "3",
+      "explain": "7x = 63/x ⇒ x² = 9 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 1x + 16/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "4",
+        "10",
+        "1",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 1x + 16/x ≥ 2√(16) = 8."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 1x + 16/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "4",
+      "explain": "1x = 16/x ⇒ x² = 16 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 2x + 32/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "18",
+        "16",
+        "8",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 2x + 32/x ≥ 2√(64) = 16."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 2x + 32/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "4",
+      "explain": "2x = 32/x ⇒ x² = 16 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 3x + 48/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "24",
+        "12",
+        "3",
+        "26"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 3x + 48/x ≥ 2√(144) = 24."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 3x + 48/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "4",
+      "explain": "3x = 48/x ⇒ x² = 16 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 4x + 64/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "32",
+        "34",
+        "16",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 4x + 64/x ≥ 2√(256) = 32."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 4x + 64/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "4",
+      "explain": "4x = 64/x ⇒ x² = 16 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 5x + 80/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "20",
+        "42",
+        "5",
+        "40"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 5x + 80/x ≥ 2√(400) = 40."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 5x + 80/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "4",
+      "explain": "5x = 80/x ⇒ x² = 16 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 6x + 96/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "50",
+        "24",
+        "48",
+        "6"
+      ],
+      "answer": 2,
+      "explain": "Koshi bo'yicha 6x + 96/x ≥ 2√(576) = 48."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 6x + 96/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "4",
+      "explain": "6x = 96/x ⇒ x² = 16 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 7x + 112/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "7",
+        "58",
+        "28",
+        "56"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 7x + 112/x ≥ 2√(784) = 56."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 7x + 112/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "4",
+      "explain": "7x = 112/x ⇒ x² = 16 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 1x + 25/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "5",
+        "10",
+        "12",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 1x + 25/x ≥ 2√(25) = 10."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 1x + 25/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "5",
+      "explain": "1x = 25/x ⇒ x² = 25 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 2x + 50/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "10",
+        "2",
+        "22",
+        "20"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 2x + 50/x ≥ 2√(100) = 20."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 2x + 50/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "5",
+      "explain": "2x = 50/x ⇒ x² = 25 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 3x + 75/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "3",
+        "15",
+        "32",
+        "30"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 3x + 75/x ≥ 2√(225) = 30."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 3x + 75/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "5",
+      "explain": "3x = 75/x ⇒ x² = 25 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 4x + 100/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "40",
+        "20",
+        "42",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 4x + 100/x ≥ 2√(400) = 40."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 4x + 100/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "5",
+      "explain": "4x = 100/x ⇒ x² = 25 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 5x + 125/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "25",
+        "5",
+        "52",
+        "50"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 5x + 125/x ≥ 2√(625) = 50."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 5x + 125/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "5",
+      "explain": "5x = 125/x ⇒ x² = 25 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 6x + 150/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "30",
+        "62",
+        "60",
+        "6"
+      ],
+      "answer": 2,
+      "explain": "Koshi bo'yicha 6x + 150/x ≥ 2√(900) = 60."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 6x + 150/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "5",
+      "explain": "6x = 150/x ⇒ x² = 25 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 7x + 175/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "70",
+        "7",
+        "72",
+        "35"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 7x + 175/x ≥ 2√(1225) = 70."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 7x + 175/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "5",
+      "explain": "7x = 175/x ⇒ x² = 25 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 1x + 36/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "1",
+        "6",
+        "12",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "Koshi bo'yicha 1x + 36/x ≥ 2√(36) = 12."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 1x + 36/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "6",
+      "explain": "1x = 36/x ⇒ x² = 36 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 2x + 72/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "12",
+        "24",
+        "2",
+        "26"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 2x + 72/x ≥ 2√(144) = 24."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 2x + 72/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "6",
+      "explain": "2x = 72/x ⇒ x² = 36 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 3x + 108/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "38",
+        "18",
+        "3",
+        "36"
+      ],
+      "answer": 3,
+      "explain": "Koshi bo'yicha 3x + 108/x ≥ 2√(324) = 36."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 3x + 108/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "6",
+      "explain": "3x = 108/x ⇒ x² = 36 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 4x + 144/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "4",
+        "24",
+        "48",
+        "50"
+      ],
+      "answer": 2,
+      "explain": "Koshi bo'yicha 4x + 144/x ≥ 2√(576) = 48."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 4x + 144/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "6",
+      "explain": "4x = 144/x ⇒ x² = 36 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 5x + 180/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "30",
+        "60",
+        "5",
+        "62"
+      ],
+      "answer": 1,
+      "explain": "Koshi bo'yicha 5x + 180/x ≥ 2√(900) = 60."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 5x + 180/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "6",
+      "explain": "5x = 180/x ⇒ x² = 36 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 6x + 216/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "72",
+        "6",
+        "74",
+        "36"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 6x + 216/x ≥ 2√(1296) = 72."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 6x + 216/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "6",
+      "explain": "6x = 216/x ⇒ x² = 36 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 7x + 252/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "84",
+        "42",
+        "7",
+        "86"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 7x + 252/x ≥ 2√(1764) = 84."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 7x + 252/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "6",
+      "explain": "7x = 252/x ⇒ x² = 36 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 1x + 49/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "14",
+        "7",
+        "1",
+        "16"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 1x + 49/x ≥ 2√(49) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 1x + 49/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "7",
+      "explain": "1x = 49/x ⇒ x² = 49 ⇒ x = 7."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 2x + 98/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "30",
+        "14",
+        "28",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "Koshi bo'yicha 2x + 98/x ≥ 2√(196) = 28."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 2x + 98/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "7",
+      "explain": "2x = 98/x ⇒ x² = 49 ⇒ x = 7."
+    },
+    {
+      "type": "choice",
+      "q": "x > 0 bo'lganda 3x + 147/x ifodaning eng kichik qiymatini toping.",
+      "options": [
+        "42",
+        "21",
+        "44",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "Koshi bo'yicha 3x + 147/x ≥ 2√(441) = 42."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 da 3x + 147/x ifoda qaysi x qiymatida eng kichik qiymatga erishadi?",
+      "answer": "7",
+      "explain": "3x = 147/x ⇒ x² = 49 ⇒ x = 7."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 4 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "2 va 5/2",
+        "5 va 2",
+        "5/2 va 3",
+        "5/2 va 2"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (1+4)/2 = 5/2, o'rta geometrik √(1·4) = 1·2 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 9 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "5 va 3",
+        "10 va 3",
+        "3 va 5",
+        "5 va 4"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (1+9)/2 = 5, o'rta geometrik √(1·9) = 1·3 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 16 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "17/2 va 5",
+        "4 va 17/2",
+        "17/2 va 4",
+        "17 va 4"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (1+16)/2 = 17/2, o'rta geometrik √(1·16) = 1·4 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 25 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "13 va 5",
+        "13 va 6",
+        "5 va 13",
+        "26 va 5"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (1+25)/2 = 13, o'rta geometrik √(1·25) = 1·5 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 36 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "37/2 va 7",
+        "37 va 6",
+        "6 va 37/2",
+        "37/2 va 6"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (1+36)/2 = 37/2, o'rta geometrik √(1·36) = 1·6 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 49 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "25 va 8",
+        "7 va 25",
+        "50 va 7",
+        "25 va 7"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (1+49)/2 = 25, o'rta geometrik √(1·49) = 1·7 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 64 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "65 va 8",
+        "65/2 va 9",
+        "65/2 va 8",
+        "8 va 65/2"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (1+64)/2 = 65/2, o'rta geometrik √(1·64) = 1·8 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 81 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "41 va 10",
+        "82 va 9",
+        "9 va 41",
+        "41 va 9"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (1+81)/2 = 41, o'rta geometrik √(1·81) = 1·9 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 100 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "101/2 va 10",
+        "101 va 10",
+        "10 va 101/2",
+        "101/2 va 11"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (1+100)/2 = 101/2, o'rta geometrik √(1·100) = 1·10 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 121 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "61 va 12",
+        "11 va 61",
+        "122 va 11",
+        "61 va 11"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (1+121)/2 = 61, o'rta geometrik √(1·121) = 1·11 = 11."
+    },
+    {
+      "type": "choice",
+      "q": "1 va 144 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "12 va 145/2",
+        "145/2 va 12",
+        "145/2 va 13",
+        "145 va 12"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (1+144)/2 = 145/2, o'rta geometrik √(1·144) = 1·12 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "4 va 9 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "13/2 va 6",
+        "13 va 6",
+        "6 va 13/2",
+        "13/2 va 7"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (4+9)/2 = 13/2, o'rta geometrik √(4·9) = 2·3 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "4 va 16 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "20 va 8",
+        "8 va 10",
+        "10 va 9",
+        "10 va 8"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (4+16)/2 = 10, o'rta geometrik √(4·16) = 2·4 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "4 va 25 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "29/2 va 10",
+        "29/2 va 11",
+        "29 va 10",
+        "10 va 29/2"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (4+25)/2 = 29/2, o'rta geometrik √(4·25) = 2·5 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "4 va 36 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "12 va 20",
+        "20 va 12",
+        "20 va 13",
+        "40 va 12"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (4+36)/2 = 20, o'rta geometrik √(4·36) = 2·6 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "4 va 49 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "14 va 53/2",
+        "53/2 va 14",
+        "53 va 14",
+        "53/2 va 15"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (4+49)/2 = 53/2, o'rta geometrik √(4·49) = 2·7 = 14."
+    },
+    {
+      "type": "choice",
+      "q": "4 va 64 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "34 va 16",
+        "34 va 17",
+        "68 va 16",
+        "16 va 34"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (4+64)/2 = 34, o'rta geometrik √(4·64) = 2·8 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "4 va 81 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "85/2 va 19",
+        "85/2 va 18",
+        "85 va 18",
+        "18 va 85/2"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (4+81)/2 = 85/2, o'rta geometrik √(4·81) = 2·9 = 18."
+    },
+    {
+      "type": "choice",
+      "q": "4 va 100 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "104 va 20",
+        "52 va 20",
+        "52 va 21",
+        "20 va 52"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (4+100)/2 = 52, o'rta geometrik √(4·100) = 2·10 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "4 va 121 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "125/2 va 22",
+        "22 va 125/2",
+        "125/2 va 23",
+        "125 va 22"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (4+121)/2 = 125/2, o'rta geometrik √(4·121) = 2·11 = 22."
+    },
+    {
+      "type": "choice",
+      "q": "4 va 144 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "74 va 25",
+        "148 va 24",
+        "24 va 74",
+        "74 va 24"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (4+144)/2 = 74, o'rta geometrik √(4·144) = 2·12 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "9 va 16 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "25/2 va 12",
+        "25 va 12",
+        "12 va 25/2",
+        "25/2 va 13"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (9+16)/2 = 25/2, o'rta geometrik √(9·16) = 3·4 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "9 va 25 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "17 va 16",
+        "17 va 15",
+        "34 va 15",
+        "15 va 17"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (9+25)/2 = 17, o'rta geometrik √(9·25) = 3·5 = 15."
+    },
+    {
+      "type": "choice",
+      "q": "9 va 36 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "45 va 18",
+        "45/2 va 19",
+        "45/2 va 18",
+        "18 va 45/2"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (9+36)/2 = 45/2, o'rta geometrik √(9·36) = 3·6 = 18."
+    },
+    {
+      "type": "choice",
+      "q": "9 va 49 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "29 va 21",
+        "21 va 29",
+        "29 va 22",
+        "58 va 21"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (9+49)/2 = 29, o'rta geometrik √(9·49) = 3·7 = 21."
+    },
+    {
+      "type": "choice",
+      "q": "9 va 64 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "73/2 va 24",
+        "24 va 73/2",
+        "73 va 24",
+        "73/2 va 25"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (9+64)/2 = 73/2, o'rta geometrik √(9·64) = 3·8 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "9 va 81 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "45 va 27",
+        "45 va 28",
+        "90 va 27",
+        "27 va 45"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (9+81)/2 = 45, o'rta geometrik √(9·81) = 3·9 = 27."
+    },
+    {
+      "type": "choice",
+      "q": "9 va 100 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "109 va 30",
+        "109/2 va 30",
+        "30 va 109/2",
+        "109/2 va 31"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (9+100)/2 = 109/2, o'rta geometrik √(9·100) = 3·10 = 30."
+    },
+    {
+      "type": "choice",
+      "q": "9 va 121 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "130 va 33",
+        "33 va 65",
+        "65 va 33",
+        "65 va 34"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (9+121)/2 = 65, o'rta geometrik √(9·121) = 3·11 = 33."
+    },
+    {
+      "type": "choice",
+      "q": "9 va 144 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "153 va 36",
+        "153/2 va 37",
+        "153/2 va 36",
+        "36 va 153/2"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (9+144)/2 = 153/2, o'rta geometrik √(9·144) = 3·12 = 36."
+    },
+    {
+      "type": "choice",
+      "q": "16 va 25 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "41/2 va 20",
+        "20 va 41/2",
+        "41 va 20",
+        "41/2 va 21"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (16+25)/2 = 41/2, o'rta geometrik √(16·25) = 4·5 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "16 va 36 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "24 va 26",
+        "52 va 24",
+        "26 va 24",
+        "26 va 25"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (16+36)/2 = 26, o'rta geometrik √(16·36) = 4·6 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "16 va 49 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "65 va 28",
+        "65/2 va 28",
+        "28 va 65/2",
+        "65/2 va 29"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (16+49)/2 = 65/2, o'rta geometrik √(16·49) = 4·7 = 28."
+    },
+    {
+      "type": "choice",
+      "q": "16 va 64 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "40 va 32",
+        "80 va 32",
+        "32 va 40",
+        "40 va 33"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (16+64)/2 = 40, o'rta geometrik √(16·64) = 4·8 = 32."
+    },
+    {
+      "type": "choice",
+      "q": "16 va 81 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "97 va 36",
+        "97/2 va 37",
+        "36 va 97/2",
+        "97/2 va 36"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (16+81)/2 = 97/2, o'rta geometrik √(16·81) = 4·9 = 36."
+    },
+    {
+      "type": "choice",
+      "q": "16 va 100 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "40 va 58",
+        "116 va 40",
+        "58 va 40",
+        "58 va 41"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (16+100)/2 = 58, o'rta geometrik √(16·100) = 4·10 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "16 va 121 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "137 va 44",
+        "44 va 137/2",
+        "137/2 va 44",
+        "137/2 va 45"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (16+121)/2 = 137/2, o'rta geometrik √(16·121) = 4·11 = 44."
+    },
+    {
+      "type": "choice",
+      "q": "16 va 144 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "48 va 80",
+        "160 va 48",
+        "80 va 49",
+        "80 va 48"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (16+144)/2 = 80, o'rta geometrik √(16·144) = 4·12 = 48."
+    },
+    {
+      "type": "choice",
+      "q": "25 va 36 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "61 va 30",
+        "61/2 va 30",
+        "61/2 va 31",
+        "30 va 61/2"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (25+36)/2 = 61/2, o'rta geometrik √(25·36) = 5·6 = 30."
+    },
+    {
+      "type": "choice",
+      "q": "25 va 49 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "37 va 36",
+        "37 va 35",
+        "74 va 35",
+        "35 va 37"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (25+49)/2 = 37, o'rta geometrik √(25·49) = 5·7 = 35."
+    },
+    {
+      "type": "choice",
+      "q": "25 va 64 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "40 va 89/2",
+        "89/2 va 40",
+        "89 va 40",
+        "89/2 va 41"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (25+64)/2 = 89/2, o'rta geometrik √(25·64) = 5·8 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "25 va 81 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "53 va 46",
+        "45 va 53",
+        "53 va 45",
+        "106 va 45"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (25+81)/2 = 53, o'rta geometrik √(25·81) = 5·9 = 45."
+    },
+    {
+      "type": "choice",
+      "q": "25 va 100 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "125/2 va 50",
+        "125/2 va 51",
+        "50 va 125/2",
+        "125 va 50"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (25+100)/2 = 125/2, o'rta geometrik √(25·100) = 5·10 = 50."
+    },
+    {
+      "type": "choice",
+      "q": "25 va 121 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "73 va 55",
+        "55 va 73",
+        "73 va 56",
+        "146 va 55"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (25+121)/2 = 73, o'rta geometrik √(25·121) = 5·11 = 55."
+    },
+    {
+      "type": "choice",
+      "q": "25 va 144 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "169/2 va 60",
+        "60 va 169/2",
+        "169 va 60",
+        "169/2 va 61"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (25+144)/2 = 169/2, o'rta geometrik √(25·144) = 5·12 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "36 va 49 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "42 va 85/2",
+        "85 va 42",
+        "85/2 va 42",
+        "85/2 va 43"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (36+49)/2 = 85/2, o'rta geometrik √(36·49) = 6·7 = 42."
+    },
+    {
+      "type": "choice",
+      "q": "36 va 64 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "50 va 49",
+        "48 va 50",
+        "50 va 48",
+        "100 va 48"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (36+64)/2 = 50, o'rta geometrik √(36·64) = 6·8 = 48."
+    },
+    {
+      "type": "choice",
+      "q": "36 va 81 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "117 va 54",
+        "117/2 va 55",
+        "54 va 117/2",
+        "117/2 va 54"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (36+81)/2 = 117/2, o'rta geometrik √(36·81) = 6·9 = 54."
+    },
+    {
+      "type": "choice",
+      "q": "36 va 100 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "68 va 61",
+        "68 va 60",
+        "60 va 68",
+        "136 va 60"
+      ],
+      "answer": 1,
+      "explain": "O'rta arifmetik (36+100)/2 = 68, o'rta geometrik √(36·100) = 6·10 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "36 va 121 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "157/2 va 66",
+        "66 va 157/2",
+        "157 va 66",
+        "157/2 va 67"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (36+121)/2 = 157/2, o'rta geometrik √(36·121) = 6·11 = 66."
+    },
+    {
+      "type": "choice",
+      "q": "36 va 144 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "90 va 72",
+        "180 va 72",
+        "72 va 90",
+        "90 va 73"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (36+144)/2 = 90, o'rta geometrik √(36·144) = 6·12 = 72."
+    },
+    {
+      "type": "choice",
+      "q": "49 va 64 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "113/2 va 56",
+        "56 va 113/2",
+        "113/2 va 57",
+        "113 va 56"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (49+64)/2 = 113/2, o'rta geometrik √(49·64) = 7·8 = 56."
+    },
+    {
+      "type": "choice",
+      "q": "49 va 81 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "130 va 63",
+        "65 va 64",
+        "63 va 65",
+        "65 va 63"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (49+81)/2 = 65, o'rta geometrik √(49·81) = 7·9 = 63."
+    },
+    {
+      "type": "choice",
+      "q": "49 va 100 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "70 va 149/2",
+        "149 va 70",
+        "149/2 va 70",
+        "149/2 va 71"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (49+100)/2 = 149/2, o'rta geometrik √(49·100) = 7·10 = 70."
+    },
+    {
+      "type": "choice",
+      "q": "49 va 121 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "77 va 85",
+        "85 va 78",
+        "85 va 77",
+        "170 va 77"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (49+121)/2 = 85, o'rta geometrik √(49·121) = 7·11 = 77."
+    },
+    {
+      "type": "choice",
+      "q": "49 va 144 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "193 va 84",
+        "193/2 va 85",
+        "84 va 193/2",
+        "193/2 va 84"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (49+144)/2 = 193/2, o'rta geometrik √(49·144) = 7·12 = 84."
+    },
+    {
+      "type": "choice",
+      "q": "64 va 81 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "72 va 145/2",
+        "145/2 va 73",
+        "145 va 72",
+        "145/2 va 72"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (64+81)/2 = 145/2, o'rta geometrik √(64·81) = 8·9 = 72."
+    },
+    {
+      "type": "choice",
+      "q": "64 va 100 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "164 va 80",
+        "80 va 82",
+        "82 va 80",
+        "82 va 81"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (64+100)/2 = 82, o'rta geometrik √(64·100) = 8·10 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "64 va 121 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "185/2 va 88",
+        "185 va 88",
+        "185/2 va 89",
+        "88 va 185/2"
+      ],
+      "answer": 0,
+      "explain": "O'rta arifmetik (64+121)/2 = 185/2, o'rta geometrik √(64·121) = 8·11 = 88."
+    },
+    {
+      "type": "choice",
+      "q": "64 va 144 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "104 va 97",
+        "96 va 104",
+        "104 va 96",
+        "208 va 96"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (64+144)/2 = 104, o'rta geometrik √(64·144) = 8·12 = 96."
+    },
+    {
+      "type": "choice",
+      "q": "81 va 100 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "90 va 181/2",
+        "181/2 va 91",
+        "181/2 va 90",
+        "181 va 90"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (81+100)/2 = 181/2, o'rta geometrik √(81·100) = 9·10 = 90."
+    },
+    {
+      "type": "choice",
+      "q": "81 va 121 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "99 va 101",
+        "101 va 100",
+        "101 va 99",
+        "202 va 99"
+      ],
+      "answer": 2,
+      "explain": "O'rta arifmetik (81+121)/2 = 101, o'rta geometrik √(81·121) = 9·11 = 99."
+    },
+    {
+      "type": "choice",
+      "q": "81 va 144 sonlarining o'rta arifmetigi va o'rta geometrigi mos ravishda nechaga teng?",
+      "options": [
+        "225/2 va 109",
+        "108 va 225/2",
+        "225 va 108",
+        "225/2 va 108"
+      ],
+      "answer": 3,
+      "explain": "O'rta arifmetik (81+144)/2 = 225/2, o'rta geometrik √(81·144) = 9·12 = 108."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (2a + 2b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "8",
+      "explain": "2(a+b)(1/a+1/b) = 2(2 + a/b + b/a) ≥ 2·4 = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 2)² ≥ 8x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 2)² − 8x = (x − 2)² ≥ 0."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (3a + 3b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "12",
+      "explain": "3(a+b)(1/a+1/b) = 3(2 + a/b + b/a) ≥ 3·4 = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 3)² ≥ 12x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 3)² − 12x = (x − 3)² ≥ 0."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (4a + 4b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "16",
+      "explain": "4(a+b)(1/a+1/b) = 4(2 + a/b + b/a) ≥ 4·4 = 16."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 4)² ≥ 16x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 4)² − 16x = (x − 4)² ≥ 0."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (5a + 5b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "20",
+      "explain": "5(a+b)(1/a+1/b) = 5(2 + a/b + b/a) ≥ 5·4 = 20."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 5)² ≥ 20x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 5)² − 20x = (x − 5)² ≥ 0."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (6a + 6b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "24",
+      "explain": "6(a+b)(1/a+1/b) = 6(2 + a/b + b/a) ≥ 6·4 = 24."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 6)² ≥ 24x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 6)² − 24x = (x − 6)² ≥ 0."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (7a + 7b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "28",
+      "explain": "7(a+b)(1/a+1/b) = 7(2 + a/b + b/a) ≥ 7·4 = 28."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 7)² ≥ 28x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 7)² − 28x = (x − 7)² ≥ 0."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (8a + 8b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "32",
+      "explain": "8(a+b)(1/a+1/b) = 8(2 + a/b + b/a) ≥ 8·4 = 32."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 8)² ≥ 32x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 8)² − 32x = (x − 8)² ≥ 0."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (9a + 9b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "36",
+      "explain": "9(a+b)(1/a+1/b) = 9(2 + a/b + b/a) ≥ 9·4 = 36."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 9)² ≥ 36x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 9)² − 36x = (x − 9)² ≥ 0."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (10a + 10b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "40",
+      "explain": "10(a+b)(1/a+1/b) = 10(2 + a/b + b/a) ≥ 10·4 = 40."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 10)² ≥ 40x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 10)² − 40x = (x − 10)² ≥ 0."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (11a + 11b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "44",
+      "explain": "11(a+b)(1/a+1/b) = 11(2 + a/b + b/a) ≥ 11·4 = 44."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 11)² ≥ 44x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 11)² − 44x = (x − 11)² ≥ 0."
+    },
+    {
+      "type": "fill",
+      "q": "a > 0 va b > 0 sonlar uchun (12a + 12b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.",
+      "answer": "48",
+      "explain": "12(a+b)(1/a+1/b) = 12(2 + a/b + b/a) ≥ 12·4 = 48."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday haqiqiy x uchun (x + 12)² ≥ 48x tengsizlik o'rinli.",
+      "answer": true,
+      "explain": "(x + 12)² − 48x = (x − 12)² ≥ 0."
+    }
+  ],
+  "cards": [
+    [
+      "Ayirma",
+      "a ≥ b ni isbotlash uchun a − b ≥ 0 ni ko'rsatish"
+    ],
+    [
+      "Koshi",
+      "Nomanfiy sonlarning o'rta arifmetigi ≥ o'rta geometrigi"
+    ],
+    [
+      "Arifmetik",
+      "Ikki son uchun (a + b) / 2"
+    ],
+    [
+      "Geometrik",
+      "Ikki nomanfiy son uchun √(ab)"
+    ],
+    [
+      "Kvadrat",
+      "Har qanday haqiqiy x uchun x² ≥ 0 xossasi"
+    ],
+    [
+      "To'la",
+      "(a − b)² ≥ 0 ayniyatiga keltirib isbotlash"
+    ],
+    [
+      "O'zaro teskari",
+      "a > 0 uchun a + 1/a ≥ 2 tengsizligi"
+    ],
+    [
+      "Ekstremal",
+      "a = b bo'lganda Koshi tengsizligi tenglikka aylanadi"
+    ],
+    [
+      "Ogyusten Koshi",
+      "Mashhur fransuz matematigi (1789–1857)"
+    ],
+    [
+      "II bob yakuni",
+      "Sistemalar va tengsizliklarni isbotlash"
+    ],
+    [
+      "a² + b² ≥ 2ab",
+      "Kvadratlar yig'indisi haqidagi asosiy tengsizlik"
+    ],
+    [
+      "a/b + b/a ≥ 2",
+      "Bir xil ishorali a, b ≠ 0 lar uchun o'rinli"
+    ],
+    [
+      "x² + px + q > 0",
+      "To'la kvadrat ajratib isbotlanadigan tengsizlik"
+    ],
+    [
+      "(a+b)/2 ≥ √(ab)",
+      "O'rta arifmetik va o'rta geometrik munosabati"
+    ],
+    [
+      "Tenglik holi",
+      "Koshi tengsizligida faqat a = b da tenglik bo'ladi"
+    ],
+    [
+      "(a+b)(1/a+1/b) ≥ 4",
+      "Musbat a, b lar uchun o'rinli tengsizlik"
+    ],
+    [
+      "a² + 1 ≥ 2a",
+      "Har qanday a ∈ R uchun (a − 1)² ≥ 0 dan keladi"
+    ],
+    [
+      "Nomanfiy",
+      "a ≥ 0 va b ≥ 0 shartli sonlar"
+    ],
+    [
+      "Isbotlash usuli",
+      "Chapdan o'ngni ayirib ishorasini aniqlash"
+    ],
+    [
+      "a² + b² + c² ≥ ab+bc+ac",
+      "Uchta son uchun mashhur tengsizlik"
+    ],
+    [
+      "x + 1/x ≤ −2",
+      "Manfiy x < 0 lar uchun bajariladi"
+    ],
+    [
+      "II bob test",
+      "Sistemalar va isbotlash bo'yicha nazorat"
+    ],
+    [
+      "Kvadrat ildiz",
+      "√(ab) ning mavjudlik sharti ab ≥ 0"
+    ],
+    [
+      "Minimal yig'indi",
+      "ab = P da a + b eng kichik qiymati 2√P"
+    ]
+  ]
+}

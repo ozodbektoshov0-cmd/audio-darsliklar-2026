@@ -1,0 +1,3500 @@
+{
+  "id": "g9-uz-algebra-15-tengsizliklar-sistemasi",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "15-§. Ikkinchi darajali bir noma'lumli tengsizliklar sistemalari",
+  "title": "15-§. Ikkinchi darajali bir noma'lumli tengsizliklar sistemalari",
+  "source": "Algebra 9-sinf (2019), II bob, 15-§, 77–80-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Ikkinchi darajali bir noma'lumli tengsizliklar sistemasining yechimi qanday topiladi?",
+      "options": [
+        "Tengsizliklar hadlab qo'shiladi",
+        "Yechimlar birlashtiriladi",
+        "Har bir tengsizlik alohida yechilib, ularning kesishmasi olinadi",
+        "Faqat birinchi tengsizlik yechiladi"
+      ],
+      "answer": 2,
+      "explain": "Sistema yechimi barcha tengsizliklarni bir vaqtda qanoatlantiruvchi x lar, ya'ni yechimlar kesishmasidir."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² ≤ 9; x > 1} tengsizliklar sistemasining yechimi (1; 3] yarim intervaldir.",
+      "answer": true,
+      "explain": "[−3; 3] ∩ (1; +∞) = (1; 3]."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 4; x > 5} tengsizliklar sistemasining cheksiz ko'p yechimi bor.",
+      "answer": false,
+      "explain": "(−2; 2) va (5; +∞) kesishmaydi, yechim ∅."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 4; x > 3} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−2; 2) va (3; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 4; x ≤ 0} sistemaning yechimi qaysi?",
+      "options": [
+        "[−2; 0]",
+        "(0; 2)",
+        "(−2; 0)",
+        "(−2; 0]"
+      ],
+      "answer": 3,
+      "explain": "(−2; 2) ∩ (−∞; 0] = (−2; 0]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 9; x > -2} sistemaning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "(-2; 3] yarim intervalda -1 dan 3 gacha 5 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 9; x ≥ -1} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[-1; 3]",
+        "[−3; -1]",
+        "(-1; 3)",
+        "[−3; 3]"
+      ],
+      "answer": 0,
+      "explain": "[−3; 3] ∩ [-1; +∞) = [-1; 3]."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 9; x > 4} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−3; 3) va (4; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 9; x ≥ 1} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−3; 1]",
+        "[1; 3]",
+        "(1; 3)",
+        "[−3; 3]"
+      ],
+      "answer": 1,
+      "explain": "[−3; 3] ∩ [1; +∞) = [1; 3]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 9; x > 2} sistemaning nechta butun yechimi bor?",
+      "answer": "1",
+      "explain": "(2; 3] yarim intervalda 3 dan 3 gacha 1 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 16; x > 5} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−4; 4) va (5; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 16; x ≤ -2} sistemaning yechimi qaysi?",
+      "options": [
+        "(−4; -2)",
+        "(-2; 4)",
+        "(−4; -2]",
+        "[−4; -2]"
+      ],
+      "answer": 2,
+      "explain": "(−4; 4) ∩ (−∞; -2] = (−4; -2]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 16; x > -1} sistemaning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "(-1; 4] yarim intervalda 0 dan 4 gacha 5 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 16; x ≥ 0} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−4; 0]",
+        "[0; 4]",
+        "[−4; 4]",
+        "(0; 4)"
+      ],
+      "answer": 1,
+      "explain": "[−4; 4] ∩ [0; +∞) = [0; 4]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 16; x > 1} sistemaning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "(1; 4] yarim intervalda 2 dan 4 gacha 3 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 16; x ≤ 2} sistemaning yechimi qaysi?",
+      "options": [
+        "(−4; 2)",
+        "[−4; 2]",
+        "(2; 4)",
+        "(−4; 2]"
+      ],
+      "answer": 3,
+      "explain": "(−4; 4) ∩ (−∞; 2] = (−4; 2]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 25; x > -4} sistemaning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "(-4; 5] yarim intervalda -3 dan 5 gacha 9 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 25; x ≥ -3} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[-3; 5]",
+        "[−5; -3]",
+        "[−5; 5]",
+        "(-3; 5)"
+      ],
+      "answer": 0,
+      "explain": "[−5; 5] ∩ [-3; +∞) = [-3; 5]."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 25; x > 6} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−5; 5) va (6; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 25; x ≤ -1} sistemaning yechimi qaysi?",
+      "options": [
+        "(−5; -1)",
+        "(-1; 5)",
+        "(−5; -1]",
+        "[−5; -1]"
+      ],
+      "answer": 2,
+      "explain": "(−5; 5) ∩ (−∞; -1] = (−5; -1]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 25; x > 0} sistemaning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "(0; 5] yarim intervalda 1 dan 5 gacha 5 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 25; x ≤ 1} sistemaning yechimi qaysi?",
+      "options": [
+        "(−5; 1)",
+        "(1; 5)",
+        "[−5; 1]",
+        "(−5; 1]"
+      ],
+      "answer": 3,
+      "explain": "(−5; 5) ∩ (−∞; 1] = (−5; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 25; x ≥ 3} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[3; 5]",
+        "[−5; 3]",
+        "(3; 5)",
+        "[−5; 5]"
+      ],
+      "answer": 0,
+      "explain": "[−5; 5] ∩ [3; +∞) = [3; 5]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 25; x > 4} sistemaning nechta butun yechimi bor?",
+      "answer": "1",
+      "explain": "(4; 5] yarim intervalda 5 dan 5 gacha 1 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 36; x > 7} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−6; 6) va (7; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 36; x ≤ -4} sistemaning yechimi qaysi?",
+      "options": [
+        "(−6; -4]",
+        "[−6; -4]",
+        "(−6; -4)",
+        "(-4; 6)"
+      ],
+      "answer": 0,
+      "explain": "(−6; 6) ∩ (−∞; -4] = (−6; -4]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 36; x > -3} sistemaning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "(-3; 6] yarim intervalda -2 dan 6 gacha 9 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 36; x ≥ -2} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−6; 6]",
+        "[-2; 6]",
+        "[−6; -2]",
+        "(-2; 6)"
+      ],
+      "answer": 1,
+      "explain": "[−6; 6] ∩ [-2; +∞) = [-2; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 36; x ≤ 0} sistemaning yechimi qaysi?",
+      "options": [
+        "(−6; 0)",
+        "(0; 6)",
+        "(−6; 0]",
+        "[−6; 0]"
+      ],
+      "answer": 2,
+      "explain": "(−6; 6) ∩ (−∞; 0] = (−6; 0]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 36; x ≥ 2} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[2; 6]",
+        "[−6; 2]",
+        "(2; 6)",
+        "[−6; 6]"
+      ],
+      "answer": 0,
+      "explain": "[−6; 6] ∩ [2; +∞) = [2; 6]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 36; x > 3} sistemaning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "(3; 6] yarim intervalda 4 dan 6 gacha 3 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 36; x ≤ 4} sistemaning yechimi qaysi?",
+      "options": [
+        "[−6; 4]",
+        "(−6; 4]",
+        "(−6; 4)",
+        "(4; 6)"
+      ],
+      "answer": 1,
+      "explain": "(−6; 6) ∩ (−∞; 4] = (−6; 4]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 49; x > -6} sistemaning nechta butun yechimi bor?",
+      "answer": "13",
+      "explain": "(-6; 7] yarim intervalda -5 dan 7 gacha 13 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 49; x ≥ -5} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−7; 7]",
+        "[-5; 7]",
+        "(-5; 7)",
+        "[−7; -5]"
+      ],
+      "answer": 1,
+      "explain": "[−7; 7] ∩ [-5; +∞) = [-5; 7]."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 49; x > 8} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−7; 7) va (8; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 49; x ≤ -3} sistemaning yechimi qaysi?",
+      "options": [
+        "(-3; 7)",
+        "[−7; -3]",
+        "(−7; -3)",
+        "(−7; -3]"
+      ],
+      "answer": 3,
+      "explain": "(−7; 7) ∩ (−∞; -3] = (−7; -3]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 49; x > -2} sistemaning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "(-2; 7] yarim intervalda -1 dan 7 gacha 9 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 49; x ≥ -1} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "(-1; 7)",
+        "[-1; 7]",
+        "[−7; -1]",
+        "[−7; 7]"
+      ],
+      "answer": 1,
+      "explain": "[−7; 7] ∩ [-1; +∞) = [-1; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 49; x ≥ 1} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−7; 7]",
+        "[1; 7]",
+        "(1; 7)",
+        "[−7; 1]"
+      ],
+      "answer": 1,
+      "explain": "[−7; 7] ∩ [1; +∞) = [1; 7]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 49; x > 2} sistemaning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "(2; 7] yarim intervalda 3 dan 7 gacha 5 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 49; x ≤ 3} sistemaning yechimi qaysi?",
+      "options": [
+        "(−7; 3)",
+        "[−7; 3]",
+        "(3; 7)",
+        "(−7; 3]"
+      ],
+      "answer": 3,
+      "explain": "(−7; 7) ∩ (−∞; 3] = (−7; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 49; x ≥ 5} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−7; 5]",
+        "(5; 7)",
+        "[−7; 7]",
+        "[5; 7]"
+      ],
+      "answer": 3,
+      "explain": "[−7; 7] ∩ [5; +∞) = [5; 7]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 49; x > 6} sistemaning nechta butun yechimi bor?",
+      "answer": "1",
+      "explain": "(6; 7] yarim intervalda 7 dan 7 gacha 1 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 64; x > 9} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−8; 8) va (9; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 64; x ≤ -6} sistemaning yechimi qaysi?",
+      "options": [
+        "(-6; 8)",
+        "(−8; -6]",
+        "[−8; -6]",
+        "(−8; -6)"
+      ],
+      "answer": 1,
+      "explain": "(−8; 8) ∩ (−∞; -6] = (−8; -6]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 64; x > -5} sistemaning nechta butun yechimi bor?",
+      "answer": "13",
+      "explain": "(-5; 8] yarim intervalda -4 dan 8 gacha 13 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 64; x ≥ -4} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−8; -4]",
+        "[−8; 8]",
+        "[-4; 8]",
+        "(-4; 8)"
+      ],
+      "answer": 2,
+      "explain": "[−8; 8] ∩ [-4; +∞) = [-4; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 64; x ≤ -2} sistemaning yechimi qaysi?",
+      "options": [
+        "[−8; -2]",
+        "(−8; -2]",
+        "(−8; -2)",
+        "(-2; 8)"
+      ],
+      "answer": 1,
+      "explain": "(−8; 8) ∩ (−∞; -2] = (−8; -2]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 64; x > -1} sistemaning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "(-1; 8] yarim intervalda 0 dan 8 gacha 9 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 64; x ≥ 0} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−8; 8]",
+        "(0; 8)",
+        "[0; 8]",
+        "[−8; 0]"
+      ],
+      "answer": 2,
+      "explain": "[−8; 8] ∩ [0; +∞) = [0; 8]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 64; x > 1} sistemaning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "(1; 8] yarim intervalda 2 dan 8 gacha 7 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 64; x ≤ 2} sistemaning yechimi qaysi?",
+      "options": [
+        "[−8; 2]",
+        "(−8; 2]",
+        "(−8; 2)",
+        "(2; 8)"
+      ],
+      "answer": 1,
+      "explain": "(−8; 8) ∩ (−∞; 2] = (−8; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 64; x ≥ 4} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "(4; 8)",
+        "[−8; 8]",
+        "[4; 8]",
+        "[−8; 4]"
+      ],
+      "answer": 2,
+      "explain": "[−8; 8] ∩ [4; +∞) = [4; 8]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 64; x > 5} sistemaning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "(5; 8] yarim intervalda 6 dan 8 gacha 3 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 64; x ≤ 6} sistemaning yechimi qaysi?",
+      "options": [
+        "[−8; 6]",
+        "(−8; 6]",
+        "(6; 8)",
+        "(−8; 6)"
+      ],
+      "answer": 1,
+      "explain": "(−8; 8) ∩ (−∞; 6] = (−8; 6]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 81; x > -8} sistemaning nechta butun yechimi bor?",
+      "answer": "17",
+      "explain": "(-8; 9] yarim intervalda -7 dan 9 gacha 17 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 81; x ≥ -7} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[-7; 9]",
+        "[−9; -7]",
+        "[−9; 9]",
+        "(-7; 9)"
+      ],
+      "answer": 0,
+      "explain": "[−9; 9] ∩ [-7; +∞) = [-7; 9]."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 81; x > 10} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−9; 9) va (10; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 81; x ≤ -5} sistemaning yechimi qaysi?",
+      "options": [
+        "(-5; 9)",
+        "[−9; -5]",
+        "(−9; -5)",
+        "(−9; -5]"
+      ],
+      "answer": 3,
+      "explain": "(−9; 9) ∩ (−∞; -5] = (−9; -5]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 81; x > -4} sistemaning nechta butun yechimi bor?",
+      "answer": "13",
+      "explain": "(-4; 9] yarim intervalda -3 dan 9 gacha 13 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 81; x ≥ -3} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−9; 9]",
+        "[−9; -3]",
+        "[-3; 9]",
+        "(-3; 9)"
+      ],
+      "answer": 2,
+      "explain": "[−9; 9] ∩ [-3; +∞) = [-3; 9]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 81; x ≤ -1} sistemaning yechimi qaysi?",
+      "options": [
+        "(−9; -1)",
+        "(-1; 9)",
+        "[−9; -1]",
+        "(−9; -1]"
+      ],
+      "answer": 3,
+      "explain": "(−9; 9) ∩ (−∞; -1] = (−9; -1]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 81; x > 0} sistemaning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "(0; 9] yarim intervalda 1 dan 9 gacha 9 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 81; x ≤ 1} sistemaning yechimi qaysi?",
+      "options": [
+        "(−9; 1)",
+        "(1; 9)",
+        "(−9; 1]",
+        "[−9; 1]"
+      ],
+      "answer": 2,
+      "explain": "(−9; 9) ∩ (−∞; 1] = (−9; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 81; x ≥ 3} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[3; 9]",
+        "[−9; 9]",
+        "[−9; 3]",
+        "(3; 9)"
+      ],
+      "answer": 0,
+      "explain": "[−9; 9] ∩ [3; +∞) = [3; 9]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 81; x > 4} sistemaning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "(4; 9] yarim intervalda 5 dan 9 gacha 5 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 81; x ≤ 5} sistemaning yechimi qaysi?",
+      "options": [
+        "(−9; 5]",
+        "(−9; 5)",
+        "[−9; 5]",
+        "(5; 9)"
+      ],
+      "answer": 0,
+      "explain": "(−9; 9) ∩ (−∞; 5] = (−9; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 81; x ≥ 7} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−9; 9]",
+        "[7; 9]",
+        "(7; 9)",
+        "[−9; 7]"
+      ],
+      "answer": 1,
+      "explain": "[−9; 9] ∩ [7; +∞) = [7; 9]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 81; x > 8} sistemaning nechta butun yechimi bor?",
+      "answer": "1",
+      "explain": "(8; 9] yarim intervalda 9 dan 9 gacha 1 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 100; x > 11} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−10; 10) va (11; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 100; x ≤ -8} sistemaning yechimi qaysi?",
+      "options": [
+        "(−10; -8)",
+        "(-8; 10)",
+        "(−10; -8]",
+        "[−10; -8]"
+      ],
+      "answer": 2,
+      "explain": "(−10; 10) ∩ (−∞; -8] = (−10; -8]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 100; x > -7} sistemaning nechta butun yechimi bor?",
+      "answer": "17",
+      "explain": "(-7; 10] yarim intervalda -6 dan 10 gacha 17 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 100; x ≥ -6} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "(-6; 10)",
+        "[−10; 10]",
+        "[−10; -6]",
+        "[-6; 10]"
+      ],
+      "answer": 3,
+      "explain": "[−10; 10] ∩ [-6; +∞) = [-6; 10]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 100; x ≤ -4} sistemaning yechimi qaysi?",
+      "options": [
+        "(-4; 10)",
+        "(−10; -4]",
+        "[−10; -4]",
+        "(−10; -4)"
+      ],
+      "answer": 1,
+      "explain": "(−10; 10) ∩ (−∞; -4] = (−10; -4]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 100; x > -3} sistemaning nechta butun yechimi bor?",
+      "answer": "13",
+      "explain": "(-3; 10] yarim intervalda -2 dan 10 gacha 13 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 100; x ≥ -2} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "(-2; 10)",
+        "[−10; -2]",
+        "[-2; 10]",
+        "[−10; 10]"
+      ],
+      "answer": 2,
+      "explain": "[−10; 10] ∩ [-2; +∞) = [-2; 10]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 100; x ≤ 0} sistemaning yechimi qaysi?",
+      "options": [
+        "(0; 10)",
+        "(−10; 0]",
+        "(−10; 0)",
+        "[−10; 0]"
+      ],
+      "answer": 1,
+      "explain": "(−10; 10) ∩ (−∞; 0] = (−10; 0]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 100; x ≥ 2} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[2; 10]",
+        "[−10; 10]",
+        "(2; 10)",
+        "[−10; 2]"
+      ],
+      "answer": 0,
+      "explain": "[−10; 10] ∩ [2; +∞) = [2; 10]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 100; x > 3} sistemaning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "(3; 10] yarim intervalda 4 dan 10 gacha 7 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 100; x ≤ 4} sistemaning yechimi qaysi?",
+      "options": [
+        "[−10; 4]",
+        "(−10; 4]",
+        "(4; 10)",
+        "(−10; 4)"
+      ],
+      "answer": 1,
+      "explain": "(−10; 10) ∩ (−∞; 4] = (−10; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 100; x ≥ 6} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[6; 10]",
+        "[−10; 10]",
+        "(6; 10)",
+        "[−10; 6]"
+      ],
+      "answer": 0,
+      "explain": "[−10; 10] ∩ [6; +∞) = [6; 10]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 100; x > 7} sistemaning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "(7; 10] yarim intervalda 8 dan 10 gacha 3 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 100; x ≤ 8} sistemaning yechimi qaysi?",
+      "options": [
+        "[−10; 8]",
+        "(8; 10)",
+        "(−10; 8)",
+        "(−10; 8]"
+      ],
+      "answer": 3,
+      "explain": "(−10; 10) ∩ (−∞; 8] = (−10; 8]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 121; x > -10} sistemaning nechta butun yechimi bor?",
+      "answer": "21",
+      "explain": "(-10; 11] yarim intervalda -9 dan 11 gacha 21 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 121; x ≥ -9} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[-9; 11]",
+        "(-9; 11)",
+        "[−11; 11]",
+        "[−11; -9]"
+      ],
+      "answer": 0,
+      "explain": "[−11; 11] ∩ [-9; +∞) = [-9; 11]."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 121; x > 12} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−11; 11) va (12; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 121; x ≤ -7} sistemaning yechimi qaysi?",
+      "options": [
+        "[−11; -7]",
+        "(−11; -7]",
+        "(-7; 11)",
+        "(−11; -7)"
+      ],
+      "answer": 1,
+      "explain": "(−11; 11) ∩ (−∞; -7] = (−11; -7]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 121; x > -6} sistemaning nechta butun yechimi bor?",
+      "answer": "17",
+      "explain": "(-6; 11] yarim intervalda -5 dan 11 gacha 17 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 121; x ≥ -5} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[-5; 11]",
+        "[−11; -5]",
+        "[−11; 11]",
+        "(-5; 11)"
+      ],
+      "answer": 0,
+      "explain": "[−11; 11] ∩ [-5; +∞) = [-5; 11]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 121; x ≤ -3} sistemaning yechimi qaysi?",
+      "options": [
+        "(−11; -3]",
+        "(−11; -3)",
+        "(-3; 11)",
+        "[−11; -3]"
+      ],
+      "answer": 0,
+      "explain": "(−11; 11) ∩ (−∞; -3] = (−11; -3]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 121; x > -2} sistemaning nechta butun yechimi bor?",
+      "answer": "13",
+      "explain": "(-2; 11] yarim intervalda -1 dan 11 gacha 13 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 121; x ≥ -1} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−11; -1]",
+        "[−11; 11]",
+        "[-1; 11]",
+        "(-1; 11)"
+      ],
+      "answer": 2,
+      "explain": "[−11; 11] ∩ [-1; +∞) = [-1; 11]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 121; x ≥ 1} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "(1; 11)",
+        "[1; 11]",
+        "[−11; 11]",
+        "[−11; 1]"
+      ],
+      "answer": 1,
+      "explain": "[−11; 11] ∩ [1; +∞) = [1; 11]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 121; x > 2} sistemaning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "(2; 11] yarim intervalda 3 dan 11 gacha 9 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 121; x ≤ 3} sistemaning yechimi qaysi?",
+      "options": [
+        "[−11; 3]",
+        "(−11; 3]",
+        "(−11; 3)",
+        "(3; 11)"
+      ],
+      "answer": 1,
+      "explain": "(−11; 11) ∩ (−∞; 3] = (−11; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 121; x ≥ 5} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[−11; 11]",
+        "[−11; 5]",
+        "(5; 11)",
+        "[5; 11]"
+      ],
+      "answer": 3,
+      "explain": "[−11; 11] ∩ [5; +∞) = [5; 11]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 121; x > 6} sistemaning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "(6; 11] yarim intervalda 7 dan 11 gacha 5 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 121; x ≤ 7} sistemaning yechimi qaysi?",
+      "options": [
+        "(−11; 7]",
+        "[−11; 7]",
+        "(7; 11)",
+        "(−11; 7)"
+      ],
+      "answer": 0,
+      "explain": "(−11; 11) ∩ (−∞; 7] = (−11; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 121; x ≥ 9} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[9; 11]",
+        "(9; 11)",
+        "[−11; 11]",
+        "[−11; 9]"
+      ],
+      "answer": 0,
+      "explain": "[−11; 11] ∩ [9; +∞) = [9; 11]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 121; x > 10} sistemaning nechta butun yechimi bor?",
+      "answer": "1",
+      "explain": "(10; 11] yarim intervalda 11 dan 11 gacha 1 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² < 144; x > 13} sistemaning yechimi bo'sh to'plam (∅).",
+      "answer": true,
+      "explain": "(−12; 12) va (13; +∞) kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 144; x ≤ -10} sistemaning yechimi qaysi?",
+      "options": [
+        "(−12; -10)",
+        "(-10; 12)",
+        "(−12; -10]",
+        "[−12; -10]"
+      ],
+      "answer": 2,
+      "explain": "(−12; 12) ∩ (−∞; -10] = (−12; -10]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 144; x > -9} sistemaning nechta butun yechimi bor?",
+      "answer": "21",
+      "explain": "(-9; 12] yarim intervalda -8 dan 12 gacha 21 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 144; x ≥ -8} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "(-8; 12)",
+        "[−12; 12]",
+        "[-8; 12]",
+        "[−12; -8]"
+      ],
+      "answer": 2,
+      "explain": "[−12; 12] ∩ [-8; +∞) = [-8; 12]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 144; x ≤ -6} sistemaning yechimi qaysi?",
+      "options": [
+        "(−12; -6]",
+        "[−12; -6]",
+        "(−12; -6)",
+        "(-6; 12)"
+      ],
+      "answer": 0,
+      "explain": "(−12; 12) ∩ (−∞; -6] = (−12; -6]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 144; x > -5} sistemaning nechta butun yechimi bor?",
+      "answer": "17",
+      "explain": "(-5; 12] yarim intervalda -4 dan 12 gacha 17 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 144; x ≥ -4} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[-4; 12]",
+        "(-4; 12)",
+        "[−12; 12]",
+        "[−12; -4]"
+      ],
+      "answer": 0,
+      "explain": "[−12; 12] ∩ [-4; +∞) = [-4; 12]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 144; x ≤ -2} sistemaning yechimi qaysi?",
+      "options": [
+        "(−12; -2]",
+        "(−12; -2)",
+        "[−12; -2]",
+        "(-2; 12)"
+      ],
+      "answer": 0,
+      "explain": "(−12; 12) ∩ (−∞; -2] = (−12; -2]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 144; x > -1} sistemaning nechta butun yechimi bor?",
+      "answer": "13",
+      "explain": "(-1; 12] yarim intervalda 0 dan 12 gacha 13 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 144; x ≥ 0} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[0; 12]",
+        "[−12; 0]",
+        "[−12; 12]",
+        "(0; 12)"
+      ],
+      "answer": 0,
+      "explain": "[−12; 12] ∩ [0; +∞) = [0; 12]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 144; x > 1} sistemaning nechta butun yechimi bor?",
+      "answer": "11",
+      "explain": "(1; 12] yarim intervalda 2 dan 12 gacha 11 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 144; x ≤ 2} sistemaning yechimi qaysi?",
+      "options": [
+        "(−12; 2)",
+        "(−12; 2]",
+        "(2; 12)",
+        "[−12; 2]"
+      ],
+      "answer": 1,
+      "explain": "(−12; 12) ∩ (−∞; 2] = (−12; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 144; x ≥ 4} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[4; 12]",
+        "[−12; 4]",
+        "(4; 12)",
+        "[−12; 12]"
+      ],
+      "answer": 0,
+      "explain": "[−12; 12] ∩ [4; +∞) = [4; 12]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 144; x > 5} sistemaning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "(5; 12] yarim intervalda 6 dan 12 gacha 7 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 144; x ≤ 6} sistemaning yechimi qaysi?",
+      "options": [
+        "[−12; 6]",
+        "(6; 12)",
+        "(−12; 6]",
+        "(−12; 6)"
+      ],
+      "answer": 2,
+      "explain": "(−12; 12) ∩ (−∞; 6] = (−12; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≤ 144; x ≥ 8} tengsizliklar sistemasining yechimini toping.",
+      "options": [
+        "[8; 12]",
+        "[−12; 12]",
+        "(8; 12)",
+        "[−12; 8]"
+      ],
+      "answer": 0,
+      "explain": "[−12; 12] ∩ [8; +∞) = [8; 12]."
+    },
+    {
+      "type": "fill",
+      "q": "{x² ≤ 144; x > 9} sistemaning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "(9; 12] yarim intervalda 10 dan 12 gacha 3 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x² < 144; x ≤ 10} sistemaning yechimi qaysi?",
+      "options": [
+        "(10; 12)",
+        "(−12; 10)",
+        "[−12; 10]",
+        "(−12; 10]"
+      ],
+      "answer": 3,
+      "explain": "(−12; 12) ∩ (−∞; 10] = (−12; 10]."
+    },
+    {
+      "type": "choice",
+      "q": "1 ≤ x² < 9 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[1; 9)",
+        "[1; 3]",
+        "(1; 3]",
+        "[1; 3)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 1 ≤ x < 3, ya'ni [1; 3)."
+    },
+    {
+      "type": "fill",
+      "q": "1 < x² ≤ 9 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "Musbat yechimlar (1; 3] da 2 ta, manfiy [−3; −1) da 2 ta: jami 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 ≤ x² < 16 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[1; 4)",
+        "[1; 16)",
+        "(1; 4]",
+        "[1; 4]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 1 ≤ x < 4, ya'ni [1; 4)."
+    },
+    {
+      "type": "fill",
+      "q": "1 < x² ≤ 16 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "Musbat yechimlar (1; 4] da 3 ta, manfiy [−4; −1) da 3 ta: jami 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 ≤ x² < 25 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(1; 5]",
+        "[1; 25)",
+        "[1; 5]",
+        "[1; 5)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 1 ≤ x < 5, ya'ni [1; 5)."
+    },
+    {
+      "type": "fill",
+      "q": "1 < x² ≤ 25 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "Musbat yechimlar (1; 5] da 4 ta, manfiy [−5; −1) da 4 ta: jami 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 ≤ x² < 36 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(1; 6]",
+        "[1; 36)",
+        "[1; 6]",
+        "[1; 6)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 1 ≤ x < 6, ya'ni [1; 6)."
+    },
+    {
+      "type": "fill",
+      "q": "1 < x² ≤ 36 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "Musbat yechimlar (1; 6] da 5 ta, manfiy [−6; −1) da 5 ta: jami 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 ≤ x² < 49 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[1; 7)",
+        "(1; 7]",
+        "[1; 49)",
+        "[1; 7]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 1 ≤ x < 7, ya'ni [1; 7)."
+    },
+    {
+      "type": "fill",
+      "q": "1 < x² ≤ 49 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "12",
+      "explain": "Musbat yechimlar (1; 7] da 6 ta, manfiy [−7; −1) da 6 ta: jami 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 ≤ x² < 64 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[1; 8]",
+        "[1; 8)",
+        "(1; 8]",
+        "[1; 64)"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 1 ≤ x < 8, ya'ni [1; 8)."
+    },
+    {
+      "type": "fill",
+      "q": "1 < x² ≤ 64 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "14",
+      "explain": "Musbat yechimlar (1; 8] da 7 ta, manfiy [−8; −1) da 7 ta: jami 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 ≤ x² < 81 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[1; 81)",
+        "(1; 9]",
+        "[1; 9]",
+        "[1; 9)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 1 ≤ x < 9, ya'ni [1; 9)."
+    },
+    {
+      "type": "fill",
+      "q": "1 < x² ≤ 81 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "16",
+      "explain": "Musbat yechimlar (1; 9] da 8 ta, manfiy [−9; −1) da 8 ta: jami 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 ≤ x² < 100 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[1; 10]",
+        "[1; 10)",
+        "[1; 100)",
+        "(1; 10]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 1 ≤ x < 10, ya'ni [1; 10)."
+    },
+    {
+      "type": "fill",
+      "q": "1 < x² ≤ 100 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "18",
+      "explain": "Musbat yechimlar (1; 10] da 9 ta, manfiy [−10; −1) da 9 ta: jami 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "4 ≤ x² < 16 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[4; 16)",
+        "(2; 4]",
+        "[2; 4]",
+        "[2; 4)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 2 ≤ x < 4, ya'ni [2; 4)."
+    },
+    {
+      "type": "fill",
+      "q": "4 < x² ≤ 16 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "Musbat yechimlar (2; 4] da 2 ta, manfiy [−4; −2) da 2 ta: jami 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "4 ≤ x² < 25 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[2; 5)",
+        "[4; 25)",
+        "(2; 5]",
+        "[2; 5]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 2 ≤ x < 5, ya'ni [2; 5)."
+    },
+    {
+      "type": "fill",
+      "q": "4 < x² ≤ 25 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "Musbat yechimlar (2; 5] da 3 ta, manfiy [−5; −2) da 3 ta: jami 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "4 ≤ x² < 36 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[2; 6)",
+        "[2; 6]",
+        "[4; 36)",
+        "(2; 6]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 2 ≤ x < 6, ya'ni [2; 6)."
+    },
+    {
+      "type": "fill",
+      "q": "4 < x² ≤ 36 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "Musbat yechimlar (2; 6] da 4 ta, manfiy [−6; −2) da 4 ta: jami 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "4 ≤ x² < 49 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[2; 7]",
+        "[2; 7)",
+        "[4; 49)",
+        "(2; 7]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 2 ≤ x < 7, ya'ni [2; 7)."
+    },
+    {
+      "type": "fill",
+      "q": "4 < x² ≤ 49 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "Musbat yechimlar (2; 7] da 5 ta, manfiy [−7; −2) da 5 ta: jami 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "4 ≤ x² < 64 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(2; 8]",
+        "[2; 8)",
+        "[2; 8]",
+        "[4; 64)"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 2 ≤ x < 8, ya'ni [2; 8)."
+    },
+    {
+      "type": "fill",
+      "q": "4 < x² ≤ 64 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "12",
+      "explain": "Musbat yechimlar (2; 8] da 6 ta, manfiy [−8; −2) da 6 ta: jami 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "4 ≤ x² < 81 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[2; 9]",
+        "[4; 81)",
+        "(2; 9]",
+        "[2; 9)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 2 ≤ x < 9, ya'ni [2; 9)."
+    },
+    {
+      "type": "fill",
+      "q": "4 < x² ≤ 81 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "14",
+      "explain": "Musbat yechimlar (2; 9] da 7 ta, manfiy [−9; −2) da 7 ta: jami 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "4 ≤ x² < 100 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[4; 100)",
+        "[2; 10)",
+        "(2; 10]",
+        "[2; 10]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 2 ≤ x < 10, ya'ni [2; 10)."
+    },
+    {
+      "type": "fill",
+      "q": "4 < x² ≤ 100 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "16",
+      "explain": "Musbat yechimlar (2; 10] da 8 ta, manfiy [−10; −2) da 8 ta: jami 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "4 ≤ x² < 121 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[2; 11)",
+        "[2; 11]",
+        "[4; 121)",
+        "(2; 11]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 2 ≤ x < 11, ya'ni [2; 11)."
+    },
+    {
+      "type": "fill",
+      "q": "4 < x² ≤ 121 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "18",
+      "explain": "Musbat yechimlar (2; 11] da 9 ta, manfiy [−11; −2) da 9 ta: jami 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "9 ≤ x² < 25 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[3; 5)",
+        "[9; 25)",
+        "(3; 5]",
+        "[3; 5]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 3 ≤ x < 5, ya'ni [3; 5)."
+    },
+    {
+      "type": "fill",
+      "q": "9 < x² ≤ 25 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "Musbat yechimlar (3; 5] da 2 ta, manfiy [−5; −3) da 2 ta: jami 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "9 ≤ x² < 36 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(3; 6]",
+        "[3; 6)",
+        "[9; 36)",
+        "[3; 6]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 3 ≤ x < 6, ya'ni [3; 6)."
+    },
+    {
+      "type": "fill",
+      "q": "9 < x² ≤ 36 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "Musbat yechimlar (3; 6] da 3 ta, manfiy [−6; −3) da 3 ta: jami 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "9 ≤ x² < 49 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(3; 7]",
+        "[9; 49)",
+        "[3; 7]",
+        "[3; 7)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 3 ≤ x < 7, ya'ni [3; 7)."
+    },
+    {
+      "type": "fill",
+      "q": "9 < x² ≤ 49 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "Musbat yechimlar (3; 7] da 4 ta, manfiy [−7; −3) da 4 ta: jami 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "9 ≤ x² < 64 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[9; 64)",
+        "(3; 8]",
+        "[3; 8]",
+        "[3; 8)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 3 ≤ x < 8, ya'ni [3; 8)."
+    },
+    {
+      "type": "fill",
+      "q": "9 < x² ≤ 64 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "Musbat yechimlar (3; 8] da 5 ta, manfiy [−8; −3) da 5 ta: jami 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "9 ≤ x² < 81 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(3; 9]",
+        "[3; 9]",
+        "[3; 9)",
+        "[9; 81)"
+      ],
+      "answer": 2,
+      "explain": "x > 0 uchun 3 ≤ x < 9, ya'ni [3; 9)."
+    },
+    {
+      "type": "fill",
+      "q": "9 < x² ≤ 81 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "12",
+      "explain": "Musbat yechimlar (3; 9] da 6 ta, manfiy [−9; −3) da 6 ta: jami 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "9 ≤ x² < 100 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[3; 10]",
+        "[9; 100)",
+        "(3; 10]",
+        "[3; 10)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 3 ≤ x < 10, ya'ni [3; 10)."
+    },
+    {
+      "type": "fill",
+      "q": "9 < x² ≤ 100 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "14",
+      "explain": "Musbat yechimlar (3; 10] da 7 ta, manfiy [−10; −3) da 7 ta: jami 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "9 ≤ x² < 121 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[3; 11]",
+        "(3; 11]",
+        "[3; 11)",
+        "[9; 121)"
+      ],
+      "answer": 2,
+      "explain": "x > 0 uchun 3 ≤ x < 11, ya'ni [3; 11)."
+    },
+    {
+      "type": "fill",
+      "q": "9 < x² ≤ 121 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "16",
+      "explain": "Musbat yechimlar (3; 11] da 8 ta, manfiy [−11; −3) da 8 ta: jami 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "9 ≤ x² < 144 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[9; 144)",
+        "(3; 12]",
+        "[3; 12]",
+        "[3; 12)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 3 ≤ x < 12, ya'ni [3; 12)."
+    },
+    {
+      "type": "fill",
+      "q": "9 < x² ≤ 144 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "18",
+      "explain": "Musbat yechimlar (3; 12] da 9 ta, manfiy [−12; −3) da 9 ta: jami 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "16 ≤ x² < 36 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[4; 6]",
+        "(4; 6]",
+        "[4; 6)",
+        "[16; 36)"
+      ],
+      "answer": 2,
+      "explain": "x > 0 uchun 4 ≤ x < 6, ya'ni [4; 6)."
+    },
+    {
+      "type": "fill",
+      "q": "16 < x² ≤ 36 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "Musbat yechimlar (4; 6] da 2 ta, manfiy [−6; −4) da 2 ta: jami 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "16 ≤ x² < 49 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[16; 49)",
+        "(4; 7]",
+        "[4; 7]",
+        "[4; 7)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 4 ≤ x < 7, ya'ni [4; 7)."
+    },
+    {
+      "type": "fill",
+      "q": "16 < x² ≤ 49 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "Musbat yechimlar (4; 7] da 3 ta, manfiy [−7; −4) da 3 ta: jami 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "16 ≤ x² < 64 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[16; 64)",
+        "(4; 8]",
+        "[4; 8)",
+        "[4; 8]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 uchun 4 ≤ x < 8, ya'ni [4; 8)."
+    },
+    {
+      "type": "fill",
+      "q": "16 < x² ≤ 64 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "Musbat yechimlar (4; 8] da 4 ta, manfiy [−8; −4) da 4 ta: jami 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "16 ≤ x² < 81 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[4; 9)",
+        "[4; 9]",
+        "(4; 9]",
+        "[16; 81)"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 4 ≤ x < 9, ya'ni [4; 9)."
+    },
+    {
+      "type": "fill",
+      "q": "16 < x² ≤ 81 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "Musbat yechimlar (4; 9] da 5 ta, manfiy [−9; −4) da 5 ta: jami 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "16 ≤ x² < 100 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[4; 10)",
+        "[4; 10]",
+        "(4; 10]",
+        "[16; 100)"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 4 ≤ x < 10, ya'ni [4; 10)."
+    },
+    {
+      "type": "fill",
+      "q": "16 < x² ≤ 100 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "12",
+      "explain": "Musbat yechimlar (4; 10] da 6 ta, manfiy [−10; −4) da 6 ta: jami 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "16 ≤ x² < 121 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(4; 11]",
+        "[16; 121)",
+        "[4; 11]",
+        "[4; 11)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 4 ≤ x < 11, ya'ni [4; 11)."
+    },
+    {
+      "type": "fill",
+      "q": "16 < x² ≤ 121 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "14",
+      "explain": "Musbat yechimlar (4; 11] da 7 ta, manfiy [−11; −4) da 7 ta: jami 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "16 ≤ x² < 144 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[4; 12]",
+        "[4; 12)",
+        "[16; 144)",
+        "(4; 12]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 4 ≤ x < 12, ya'ni [4; 12)."
+    },
+    {
+      "type": "fill",
+      "q": "16 < x² ≤ 144 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "16",
+      "explain": "Musbat yechimlar (4; 12] da 8 ta, manfiy [−12; −4) da 8 ta: jami 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "16 ≤ x² < 169 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[4; 13)",
+        "(4; 13]",
+        "[16; 169)",
+        "[4; 13]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 4 ≤ x < 13, ya'ni [4; 13)."
+    },
+    {
+      "type": "fill",
+      "q": "16 < x² ≤ 169 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "18",
+      "explain": "Musbat yechimlar (4; 13] da 9 ta, manfiy [−13; −4) da 9 ta: jami 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "25 ≤ x² < 49 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[5; 7]",
+        "[5; 7)",
+        "(5; 7]",
+        "[25; 49)"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 5 ≤ x < 7, ya'ni [5; 7)."
+    },
+    {
+      "type": "fill",
+      "q": "25 < x² ≤ 49 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "Musbat yechimlar (5; 7] da 2 ta, manfiy [−7; −5) da 2 ta: jami 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "25 ≤ x² < 64 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[5; 8]",
+        "[25; 64)",
+        "(5; 8]",
+        "[5; 8)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 5 ≤ x < 8, ya'ni [5; 8)."
+    },
+    {
+      "type": "fill",
+      "q": "25 < x² ≤ 64 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "Musbat yechimlar (5; 8] da 3 ta, manfiy [−8; −5) da 3 ta: jami 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "25 ≤ x² < 81 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[5; 9]",
+        "[25; 81)",
+        "[5; 9)",
+        "(5; 9]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 uchun 5 ≤ x < 9, ya'ni [5; 9)."
+    },
+    {
+      "type": "fill",
+      "q": "25 < x² ≤ 81 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "Musbat yechimlar (5; 9] da 4 ta, manfiy [−9; −5) da 4 ta: jami 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "25 ≤ x² < 100 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[5; 10)",
+        "[5; 10]",
+        "[25; 100)",
+        "(5; 10]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 5 ≤ x < 10, ya'ni [5; 10)."
+    },
+    {
+      "type": "fill",
+      "q": "25 < x² ≤ 100 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "Musbat yechimlar (5; 10] da 5 ta, manfiy [−10; −5) da 5 ta: jami 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "25 ≤ x² < 121 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[5; 11)",
+        "[25; 121)",
+        "(5; 11]",
+        "[5; 11]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 5 ≤ x < 11, ya'ni [5; 11)."
+    },
+    {
+      "type": "fill",
+      "q": "25 < x² ≤ 121 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "12",
+      "explain": "Musbat yechimlar (5; 11] da 6 ta, manfiy [−11; −5) da 6 ta: jami 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "25 ≤ x² < 144 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[5; 12]",
+        "[25; 144)",
+        "(5; 12]",
+        "[5; 12)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 5 ≤ x < 12, ya'ni [5; 12)."
+    },
+    {
+      "type": "fill",
+      "q": "25 < x² ≤ 144 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "14",
+      "explain": "Musbat yechimlar (5; 12] da 7 ta, manfiy [−12; −5) da 7 ta: jami 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "25 ≤ x² < 169 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[25; 169)",
+        "[5; 13)",
+        "[5; 13]",
+        "(5; 13]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 5 ≤ x < 13, ya'ni [5; 13)."
+    },
+    {
+      "type": "fill",
+      "q": "25 < x² ≤ 169 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "16",
+      "explain": "Musbat yechimlar (5; 13] da 8 ta, manfiy [−13; −5) da 8 ta: jami 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "25 ≤ x² < 196 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[5; 14)",
+        "[5; 14]",
+        "(5; 14]",
+        "[25; 196)"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 5 ≤ x < 14, ya'ni [5; 14)."
+    },
+    {
+      "type": "fill",
+      "q": "25 < x² ≤ 196 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "18",
+      "explain": "Musbat yechimlar (5; 14] da 9 ta, manfiy [−14; −5) da 9 ta: jami 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "36 ≤ x² < 64 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(6; 8]",
+        "[6; 8)",
+        "[36; 64)",
+        "[6; 8]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 6 ≤ x < 8, ya'ni [6; 8)."
+    },
+    {
+      "type": "fill",
+      "q": "36 < x² ≤ 64 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "Musbat yechimlar (6; 8] da 2 ta, manfiy [−8; −6) da 2 ta: jami 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "36 ≤ x² < 81 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(6; 9]",
+        "[6; 9]",
+        "[6; 9)",
+        "[36; 81)"
+      ],
+      "answer": 2,
+      "explain": "x > 0 uchun 6 ≤ x < 9, ya'ni [6; 9)."
+    },
+    {
+      "type": "fill",
+      "q": "36 < x² ≤ 81 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "Musbat yechimlar (6; 9] da 3 ta, manfiy [−9; −6) da 3 ta: jami 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "36 ≤ x² < 100 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[36; 100)",
+        "[6; 10]",
+        "[6; 10)",
+        "(6; 10]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 uchun 6 ≤ x < 10, ya'ni [6; 10)."
+    },
+    {
+      "type": "fill",
+      "q": "36 < x² ≤ 100 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "Musbat yechimlar (6; 10] da 4 ta, manfiy [−10; −6) da 4 ta: jami 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "36 ≤ x² < 121 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[36; 121)",
+        "[6; 11)",
+        "[6; 11]",
+        "(6; 11]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 6 ≤ x < 11, ya'ni [6; 11)."
+    },
+    {
+      "type": "fill",
+      "q": "36 < x² ≤ 121 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "Musbat yechimlar (6; 11] da 5 ta, manfiy [−11; −6) da 5 ta: jami 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "36 ≤ x² < 144 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[6; 12)",
+        "[36; 144)",
+        "[6; 12]",
+        "(6; 12]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 6 ≤ x < 12, ya'ni [6; 12)."
+    },
+    {
+      "type": "fill",
+      "q": "36 < x² ≤ 144 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "12",
+      "explain": "Musbat yechimlar (6; 12] da 6 ta, manfiy [−12; −6) da 6 ta: jami 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "36 ≤ x² < 169 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[6; 13)",
+        "[6; 13]",
+        "[36; 169)",
+        "(6; 13]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 6 ≤ x < 13, ya'ni [6; 13)."
+    },
+    {
+      "type": "fill",
+      "q": "36 < x² ≤ 169 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "14",
+      "explain": "Musbat yechimlar (6; 13] da 7 ta, manfiy [−13; −6) da 7 ta: jami 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "36 ≤ x² < 196 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[36; 196)",
+        "[6; 14]",
+        "(6; 14]",
+        "[6; 14)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 6 ≤ x < 14, ya'ni [6; 14)."
+    },
+    {
+      "type": "fill",
+      "q": "36 < x² ≤ 196 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "16",
+      "explain": "Musbat yechimlar (6; 14] da 8 ta, manfiy [−14; −6) da 8 ta: jami 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "36 ≤ x² < 225 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[6; 15]",
+        "(6; 15]",
+        "[36; 225)",
+        "[6; 15)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 6 ≤ x < 15, ya'ni [6; 15)."
+    },
+    {
+      "type": "fill",
+      "q": "36 < x² ≤ 225 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "18",
+      "explain": "Musbat yechimlar (6; 15] da 9 ta, manfiy [−15; −6) da 9 ta: jami 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "49 ≤ x² < 81 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[7; 9)",
+        "[7; 9]",
+        "[49; 81)",
+        "(7; 9]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 7 ≤ x < 9, ya'ni [7; 9)."
+    },
+    {
+      "type": "fill",
+      "q": "49 < x² ≤ 81 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "Musbat yechimlar (7; 9] da 2 ta, manfiy [−9; −7) da 2 ta: jami 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "49 ≤ x² < 100 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[7; 10)",
+        "(7; 10]",
+        "[7; 10]",
+        "[49; 100)"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 7 ≤ x < 10, ya'ni [7; 10)."
+    },
+    {
+      "type": "fill",
+      "q": "49 < x² ≤ 100 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "Musbat yechimlar (7; 10] da 3 ta, manfiy [−10; −7) da 3 ta: jami 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "49 ≤ x² < 121 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(7; 11]",
+        "[49; 121)",
+        "[7; 11]",
+        "[7; 11)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 7 ≤ x < 11, ya'ni [7; 11)."
+    },
+    {
+      "type": "fill",
+      "q": "49 < x² ≤ 121 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "Musbat yechimlar (7; 11] da 4 ta, manfiy [−11; −7) da 4 ta: jami 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "49 ≤ x² < 144 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(7; 12]",
+        "[7; 12]",
+        "[49; 144)",
+        "[7; 12)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 7 ≤ x < 12, ya'ni [7; 12)."
+    },
+    {
+      "type": "fill",
+      "q": "49 < x² ≤ 144 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "Musbat yechimlar (7; 12] da 5 ta, manfiy [−12; −7) da 5 ta: jami 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "49 ≤ x² < 169 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[7; 13)",
+        "[49; 169)",
+        "[7; 13]",
+        "(7; 13]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 7 ≤ x < 13, ya'ni [7; 13)."
+    },
+    {
+      "type": "fill",
+      "q": "49 < x² ≤ 169 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "12",
+      "explain": "Musbat yechimlar (7; 13] da 6 ta, manfiy [−13; −7) da 6 ta: jami 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "49 ≤ x² < 196 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[49; 196)",
+        "[7; 14]",
+        "(7; 14]",
+        "[7; 14)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 7 ≤ x < 14, ya'ni [7; 14)."
+    },
+    {
+      "type": "fill",
+      "q": "49 < x² ≤ 196 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "14",
+      "explain": "Musbat yechimlar (7; 14] da 7 ta, manfiy [−14; −7) da 7 ta: jami 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "49 ≤ x² < 225 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(7; 15]",
+        "[49; 225)",
+        "[7; 15)",
+        "[7; 15]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 uchun 7 ≤ x < 15, ya'ni [7; 15)."
+    },
+    {
+      "type": "fill",
+      "q": "49 < x² ≤ 225 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "16",
+      "explain": "Musbat yechimlar (7; 15] da 8 ta, manfiy [−15; −7) da 8 ta: jami 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "49 ≤ x² < 256 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[49; 256)",
+        "[7; 16)",
+        "[7; 16]",
+        "(7; 16]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 7 ≤ x < 16, ya'ni [7; 16)."
+    },
+    {
+      "type": "fill",
+      "q": "49 < x² ≤ 256 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "18",
+      "explain": "Musbat yechimlar (7; 16] da 9 ta, manfiy [−16; −7) da 9 ta: jami 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "64 ≤ x² < 100 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(8; 10]",
+        "[8; 10)",
+        "[64; 100)",
+        "[8; 10]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 8 ≤ x < 10, ya'ni [8; 10)."
+    },
+    {
+      "type": "fill",
+      "q": "64 < x² ≤ 100 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "Musbat yechimlar (8; 10] da 2 ta, manfiy [−10; −8) da 2 ta: jami 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "64 ≤ x² < 121 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "(8; 11]",
+        "[64; 121)",
+        "[8; 11)",
+        "[8; 11]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 uchun 8 ≤ x < 11, ya'ni [8; 11)."
+    },
+    {
+      "type": "fill",
+      "q": "64 < x² ≤ 121 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "Musbat yechimlar (8; 11] da 3 ta, manfiy [−11; −8) da 3 ta: jami 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "64 ≤ x² < 144 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[8; 12]",
+        "[64; 144)",
+        "[8; 12)",
+        "(8; 12]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 uchun 8 ≤ x < 12, ya'ni [8; 12)."
+    },
+    {
+      "type": "fill",
+      "q": "64 < x² ≤ 144 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "Musbat yechimlar (8; 12] da 4 ta, manfiy [−12; −8) da 4 ta: jami 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "64 ≤ x² < 169 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[8; 13)",
+        "[64; 169)",
+        "[8; 13]",
+        "(8; 13]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 8 ≤ x < 13, ya'ni [8; 13)."
+    },
+    {
+      "type": "fill",
+      "q": "64 < x² ≤ 169 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "Musbat yechimlar (8; 13] da 5 ta, manfiy [−13; −8) da 5 ta: jami 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "64 ≤ x² < 196 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[8; 14)",
+        "[8; 14]",
+        "[64; 196)",
+        "(8; 14]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 8 ≤ x < 14, ya'ni [8; 14)."
+    },
+    {
+      "type": "fill",
+      "q": "64 < x² ≤ 196 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "12",
+      "explain": "Musbat yechimlar (8; 14] da 6 ta, manfiy [−14; −8) da 6 ta: jami 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "64 ≤ x² < 225 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[8; 15)",
+        "[8; 15]",
+        "[64; 225)",
+        "(8; 15]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 uchun 8 ≤ x < 15, ya'ni [8; 15)."
+    },
+    {
+      "type": "fill",
+      "q": "64 < x² ≤ 225 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "14",
+      "explain": "Musbat yechimlar (8; 15] da 7 ta, manfiy [−15; −8) da 7 ta: jami 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "64 ≤ x² < 256 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[64; 256)",
+        "(8; 16]",
+        "[8; 16]",
+        "[8; 16)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 uchun 8 ≤ x < 16, ya'ni [8; 16)."
+    },
+    {
+      "type": "fill",
+      "q": "64 < x² ≤ 256 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "16",
+      "explain": "Musbat yechimlar (8; 16] da 8 ta, manfiy [−16; −8) da 8 ta: jami 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "64 ≤ x² < 289 qo'sh tengsizlikning musbat yechimlar oralig'ini toping.",
+      "options": [
+        "[8; 17]",
+        "[8; 17)",
+        "(8; 17]",
+        "[64; 289)"
+      ],
+      "answer": 1,
+      "explain": "x > 0 uchun 8 ≤ x < 17, ya'ni [8; 17)."
+    },
+    {
+      "type": "fill",
+      "q": "64 < x² ≤ 289 qo'sh tengsizlikning nechta butun yechimi bor?",
+      "answer": "18",
+      "explain": "Musbat yechimlar (8; 17] da 9 ta, manfiy [−17; −8) da 9 ta: jami 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − -3) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "[-5; -3]",
+        "[-5; -4]",
+        "(-4; -3)",
+        "[-4; -3]"
+      ],
+      "answer": 3,
+      "explain": "[-5; -3] ∩ [-4; +∞) = [-4; -3]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − -2) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "[-5; -2]",
+        "[-5; -4]",
+        "[-4; -2]",
+        "(-4; -2)"
+      ],
+      "answer": 2,
+      "explain": "[-5; -2] ∩ [-4; +∞) = [-4; -2]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − -1) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "[-4; -1]",
+        "[-5; -1]",
+        "[-5; -4]",
+        "(-4; -1)"
+      ],
+      "answer": 0,
+      "explain": "[-5; -1] ∩ [-4; +∞) = [-4; -1]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − 0) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "[-4; 0]",
+        "[-5; 0]",
+        "[-5; -4]",
+        "(-4; 0)"
+      ],
+      "answer": 0,
+      "explain": "[-5; 0] ∩ [-4; +∞) = [-4; 0]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − 1) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "[-5; 1]",
+        "[-5; -4]",
+        "[-4; 1]",
+        "(-4; 1)"
+      ],
+      "answer": 2,
+      "explain": "[-5; 1] ∩ [-4; +∞) = [-4; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − 2) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "(-4; 2)",
+        "[-5; 2]",
+        "[-4; 2]",
+        "[-5; -4]"
+      ],
+      "answer": 2,
+      "explain": "[-5; 2] ∩ [-4; +∞) = [-4; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − 3) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "[-4; 3]",
+        "(-4; 3)",
+        "[-5; -4]",
+        "[-5; 3]"
+      ],
+      "answer": 0,
+      "explain": "[-5; 3] ∩ [-4; +∞) = [-4; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − 4) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "(-4; 4)",
+        "[-4; 4]",
+        "[-5; -4]",
+        "[-5; 4]"
+      ],
+      "answer": 1,
+      "explain": "[-5; 4] ∩ [-4; +∞) = [-4; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − 5) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "[-5; -4]",
+        "[-5; 5]",
+        "[-4; 5]",
+        "(-4; 5)"
+      ],
+      "answer": 2,
+      "explain": "[-5; 5] ∩ [-4; +∞) = [-4; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − 6) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "(-4; 6)",
+        "[-5; 6]",
+        "[-5; -4]",
+        "[-4; 6]"
+      ],
+      "answer": 3,
+      "explain": "[-5; 6] ∩ [-4; +∞) = [-4; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − 7) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "[-5; 7]",
+        "[-4; 7]",
+        "[-5; -4]",
+        "(-4; 7)"
+      ],
+      "answer": 1,
+      "explain": "[-5; 7] ∩ [-4; +∞) = [-4; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -5)(x − 8) ≤ 0; x ≥ -4} sistemaning yechimini toping.",
+      "options": [
+        "(-4; 8)",
+        "[-5; 8]",
+        "[-5; -4]",
+        "[-4; 8]"
+      ],
+      "answer": 3,
+      "explain": "[-5; 8] ∩ [-4; +∞) = [-4; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − -2) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "[-4; -2]",
+        "[-4; -3]",
+        "(-3; -2)",
+        "[-3; -2]"
+      ],
+      "answer": 3,
+      "explain": "[-4; -2] ∩ [-3; +∞) = [-3; -2]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − -1) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "[-4; -3]",
+        "(-3; -1)",
+        "[-3; -1]",
+        "[-4; -1]"
+      ],
+      "answer": 2,
+      "explain": "[-4; -1] ∩ [-3; +∞) = [-3; -1]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − 0) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "(-3; 0)",
+        "[-4; 0]",
+        "[-3; 0]",
+        "[-4; -3]"
+      ],
+      "answer": 2,
+      "explain": "[-4; 0] ∩ [-3; +∞) = [-3; 0]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − 1) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "[-3; 1]",
+        "[-4; -3]",
+        "[-4; 1]",
+        "(-3; 1)"
+      ],
+      "answer": 0,
+      "explain": "[-4; 1] ∩ [-3; +∞) = [-3; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − 2) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "[-4; 2]",
+        "(-3; 2)",
+        "[-3; 2]",
+        "[-4; -3]"
+      ],
+      "answer": 2,
+      "explain": "[-4; 2] ∩ [-3; +∞) = [-3; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − 3) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "[-4; 3]",
+        "[-4; -3]",
+        "[-3; 3]",
+        "(-3; 3)"
+      ],
+      "answer": 2,
+      "explain": "[-4; 3] ∩ [-3; +∞) = [-3; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − 4) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "[-4; -3]",
+        "(-3; 4)",
+        "[-4; 4]",
+        "[-3; 4]"
+      ],
+      "answer": 3,
+      "explain": "[-4; 4] ∩ [-3; +∞) = [-3; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − 5) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "[-3; 5]",
+        "[-4; 5]",
+        "[-4; -3]",
+        "(-3; 5)"
+      ],
+      "answer": 0,
+      "explain": "[-4; 5] ∩ [-3; +∞) = [-3; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − 6) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "[-3; 6]",
+        "(-3; 6)",
+        "[-4; -3]",
+        "[-4; 6]"
+      ],
+      "answer": 0,
+      "explain": "[-4; 6] ∩ [-3; +∞) = [-3; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − 7) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "(-3; 7)",
+        "[-4; -3]",
+        "[-3; 7]",
+        "[-4; 7]"
+      ],
+      "answer": 2,
+      "explain": "[-4; 7] ∩ [-3; +∞) = [-3; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -4)(x − 8) ≤ 0; x ≥ -3} sistemaning yechimini toping.",
+      "options": [
+        "[-4; 8]",
+        "[-3; 8]",
+        "(-3; 8)",
+        "[-4; -3]"
+      ],
+      "answer": 1,
+      "explain": "[-4; 8] ∩ [-3; +∞) = [-3; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -3)(x − -1) ≤ 0; x ≥ -2} sistemaning yechimini toping.",
+      "options": [
+        "(-2; -1)",
+        "[-3; -1]",
+        "[-3; -2]",
+        "[-2; -1]"
+      ],
+      "answer": 3,
+      "explain": "[-3; -1] ∩ [-2; +∞) = [-2; -1]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -3)(x − 0) ≤ 0; x ≥ -2} sistemaning yechimini toping.",
+      "options": [
+        "[-3; 0]",
+        "[-2; 0]",
+        "(-2; 0)",
+        "[-3; -2]"
+      ],
+      "answer": 1,
+      "explain": "[-3; 0] ∩ [-2; +∞) = [-2; 0]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -3)(x − 1) ≤ 0; x ≥ -2} sistemaning yechimini toping.",
+      "options": [
+        "(-2; 1)",
+        "[-2; 1]",
+        "[-3; 1]",
+        "[-3; -2]"
+      ],
+      "answer": 1,
+      "explain": "[-3; 1] ∩ [-2; +∞) = [-2; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -3)(x − 2) ≤ 0; x ≥ -2} sistemaning yechimini toping.",
+      "options": [
+        "[-3; -2]",
+        "(-2; 2)",
+        "[-2; 2]",
+        "[-3; 2]"
+      ],
+      "answer": 2,
+      "explain": "[-3; 2] ∩ [-2; +∞) = [-2; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -3)(x − 3) ≤ 0; x ≥ -2} sistemaning yechimini toping.",
+      "options": [
+        "[-3; 3]",
+        "(-2; 3)",
+        "[-2; 3]",
+        "[-3; -2]"
+      ],
+      "answer": 2,
+      "explain": "[-3; 3] ∩ [-2; +∞) = [-2; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -3)(x − 4) ≤ 0; x ≥ -2} sistemaning yechimini toping.",
+      "options": [
+        "[-2; 4]",
+        "[-3; -2]",
+        "(-2; 4)",
+        "[-3; 4]"
+      ],
+      "answer": 0,
+      "explain": "[-3; 4] ∩ [-2; +∞) = [-2; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -3)(x − 5) ≤ 0; x ≥ -2} sistemaning yechimini toping.",
+      "options": [
+        "(-2; 5)",
+        "[-2; 5]",
+        "[-3; 5]",
+        "[-3; -2]"
+      ],
+      "answer": 1,
+      "explain": "[-3; 5] ∩ [-2; +∞) = [-2; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -3)(x − 6) ≤ 0; x ≥ -2} sistemaning yechimini toping.",
+      "options": [
+        "[-3; 6]",
+        "[-3; -2]",
+        "[-2; 6]",
+        "(-2; 6)"
+      ],
+      "answer": 2,
+      "explain": "[-3; 6] ∩ [-2; +∞) = [-2; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -3)(x − 7) ≤ 0; x ≥ -2} sistemaning yechimini toping.",
+      "options": [
+        "[-3; 7]",
+        "(-2; 7)",
+        "[-3; -2]",
+        "[-2; 7]"
+      ],
+      "answer": 3,
+      "explain": "[-3; 7] ∩ [-2; +∞) = [-2; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -3)(x − 8) ≤ 0; x ≥ -2} sistemaning yechimini toping.",
+      "options": [
+        "[-2; 8]",
+        "(-2; 8)",
+        "[-3; 8]",
+        "[-3; -2]"
+      ],
+      "answer": 0,
+      "explain": "[-3; 8] ∩ [-2; +∞) = [-2; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -2)(x − 0) ≤ 0; x ≥ -1} sistemaning yechimini toping.",
+      "options": [
+        "[-2; 0]",
+        "(-1; 0)",
+        "[-2; -1]",
+        "[-1; 0]"
+      ],
+      "answer": 3,
+      "explain": "[-2; 0] ∩ [-1; +∞) = [-1; 0]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -2)(x − 1) ≤ 0; x ≥ -1} sistemaning yechimini toping.",
+      "options": [
+        "(-1; 1)",
+        "[-2; -1]",
+        "[-1; 1]",
+        "[-2; 1]"
+      ],
+      "answer": 2,
+      "explain": "[-2; 1] ∩ [-1; +∞) = [-1; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -2)(x − 2) ≤ 0; x ≥ -1} sistemaning yechimini toping.",
+      "options": [
+        "[-1; 2]",
+        "(-1; 2)",
+        "[-2; 2]",
+        "[-2; -1]"
+      ],
+      "answer": 0,
+      "explain": "[-2; 2] ∩ [-1; +∞) = [-1; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -2)(x − 3) ≤ 0; x ≥ -1} sistemaning yechimini toping.",
+      "options": [
+        "(-1; 3)",
+        "[-2; -1]",
+        "[-1; 3]",
+        "[-2; 3]"
+      ],
+      "answer": 2,
+      "explain": "[-2; 3] ∩ [-1; +∞) = [-1; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -2)(x − 4) ≤ 0; x ≥ -1} sistemaning yechimini toping.",
+      "options": [
+        "(-1; 4)",
+        "[-2; 4]",
+        "[-2; -1]",
+        "[-1; 4]"
+      ],
+      "answer": 3,
+      "explain": "[-2; 4] ∩ [-1; +∞) = [-1; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -2)(x − 5) ≤ 0; x ≥ -1} sistemaning yechimini toping.",
+      "options": [
+        "(-1; 5)",
+        "[-1; 5]",
+        "[-2; -1]",
+        "[-2; 5]"
+      ],
+      "answer": 1,
+      "explain": "[-2; 5] ∩ [-1; +∞) = [-1; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -2)(x − 6) ≤ 0; x ≥ -1} sistemaning yechimini toping.",
+      "options": [
+        "[-2; 6]",
+        "[-2; -1]",
+        "[-1; 6]",
+        "(-1; 6)"
+      ],
+      "answer": 2,
+      "explain": "[-2; 6] ∩ [-1; +∞) = [-1; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -2)(x − 7) ≤ 0; x ≥ -1} sistemaning yechimini toping.",
+      "options": [
+        "[-1; 7]",
+        "(-1; 7)",
+        "[-2; -1]",
+        "[-2; 7]"
+      ],
+      "answer": 0,
+      "explain": "[-2; 7] ∩ [-1; +∞) = [-1; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -2)(x − 8) ≤ 0; x ≥ -1} sistemaning yechimini toping.",
+      "options": [
+        "(-1; 8)",
+        "[-1; 8]",
+        "[-2; -1]",
+        "[-2; 8]"
+      ],
+      "answer": 1,
+      "explain": "[-2; 8] ∩ [-1; +∞) = [-1; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -1)(x − 1) ≤ 0; x ≥ 0} sistemaning yechimini toping.",
+      "options": [
+        "[-1; 1]",
+        "[-1; 0]",
+        "[0; 1]",
+        "(0; 1)"
+      ],
+      "answer": 2,
+      "explain": "[-1; 1] ∩ [0; +∞) = [0; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -1)(x − 2) ≤ 0; x ≥ 0} sistemaning yechimini toping.",
+      "options": [
+        "[-1; 2]",
+        "(0; 2)",
+        "[0; 2]",
+        "[-1; 0]"
+      ],
+      "answer": 2,
+      "explain": "[-1; 2] ∩ [0; +∞) = [0; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -1)(x − 3) ≤ 0; x ≥ 0} sistemaning yechimini toping.",
+      "options": [
+        "[0; 3]",
+        "[-1; 0]",
+        "(0; 3)",
+        "[-1; 3]"
+      ],
+      "answer": 0,
+      "explain": "[-1; 3] ∩ [0; +∞) = [0; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -1)(x − 4) ≤ 0; x ≥ 0} sistemaning yechimini toping.",
+      "options": [
+        "(0; 4)",
+        "[0; 4]",
+        "[-1; 4]",
+        "[-1; 0]"
+      ],
+      "answer": 1,
+      "explain": "[-1; 4] ∩ [0; +∞) = [0; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -1)(x − 5) ≤ 0; x ≥ 0} sistemaning yechimini toping.",
+      "options": [
+        "[-1; 5]",
+        "[0; 5]",
+        "(0; 5)",
+        "[-1; 0]"
+      ],
+      "answer": 1,
+      "explain": "[-1; 5] ∩ [0; +∞) = [0; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -1)(x − 6) ≤ 0; x ≥ 0} sistemaning yechimini toping.",
+      "options": [
+        "[0; 6]",
+        "[-1; 6]",
+        "[-1; 0]",
+        "(0; 6)"
+      ],
+      "answer": 0,
+      "explain": "[-1; 6] ∩ [0; +∞) = [0; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -1)(x − 7) ≤ 0; x ≥ 0} sistemaning yechimini toping.",
+      "options": [
+        "(0; 7)",
+        "[-1; 7]",
+        "[0; 7]",
+        "[-1; 0]"
+      ],
+      "answer": 2,
+      "explain": "[-1; 7] ∩ [0; +∞) = [0; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − -1)(x − 8) ≤ 0; x ≥ 0} sistemaning yechimini toping.",
+      "options": [
+        "[0; 8]",
+        "(0; 8)",
+        "[-1; 8]",
+        "[-1; 0]"
+      ],
+      "answer": 0,
+      "explain": "[-1; 8] ∩ [0; +∞) = [0; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 0)(x − 2) ≤ 0; x ≥ 1} sistemaning yechimini toping.",
+      "options": [
+        "[1; 2]",
+        "(1; 2)",
+        "[0; 2]",
+        "[0; 1]"
+      ],
+      "answer": 0,
+      "explain": "[0; 2] ∩ [1; +∞) = [1; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 0)(x − 3) ≤ 0; x ≥ 1} sistemaning yechimini toping.",
+      "options": [
+        "[0; 3]",
+        "[0; 1]",
+        "(1; 3)",
+        "[1; 3]"
+      ],
+      "answer": 3,
+      "explain": "[0; 3] ∩ [1; +∞) = [1; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 0)(x − 4) ≤ 0; x ≥ 1} sistemaning yechimini toping.",
+      "options": [
+        "[0; 1]",
+        "[0; 4]",
+        "[1; 4]",
+        "(1; 4)"
+      ],
+      "answer": 2,
+      "explain": "[0; 4] ∩ [1; +∞) = [1; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 0)(x − 5) ≤ 0; x ≥ 1} sistemaning yechimini toping.",
+      "options": [
+        "[1; 5]",
+        "[0; 5]",
+        "(1; 5)",
+        "[0; 1]"
+      ],
+      "answer": 0,
+      "explain": "[0; 5] ∩ [1; +∞) = [1; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 0)(x − 6) ≤ 0; x ≥ 1} sistemaning yechimini toping.",
+      "options": [
+        "(1; 6)",
+        "[0; 6]",
+        "[0; 1]",
+        "[1; 6]"
+      ],
+      "answer": 3,
+      "explain": "[0; 6] ∩ [1; +∞) = [1; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 0)(x − 7) ≤ 0; x ≥ 1} sistemaning yechimini toping.",
+      "options": [
+        "(1; 7)",
+        "[1; 7]",
+        "[0; 1]",
+        "[0; 7]"
+      ],
+      "answer": 1,
+      "explain": "[0; 7] ∩ [1; +∞) = [1; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 0)(x − 8) ≤ 0; x ≥ 1} sistemaning yechimini toping.",
+      "options": [
+        "[0; 1]",
+        "[1; 8]",
+        "(1; 8)",
+        "[0; 8]"
+      ],
+      "answer": 1,
+      "explain": "[0; 8] ∩ [1; +∞) = [1; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 1)(x − 3) ≤ 0; x ≥ 2} sistemaning yechimini toping.",
+      "options": [
+        "(2; 3)",
+        "[1; 3]",
+        "[1; 2]",
+        "[2; 3]"
+      ],
+      "answer": 3,
+      "explain": "[1; 3] ∩ [2; +∞) = [2; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 1)(x − 4) ≤ 0; x ≥ 2} sistemaning yechimini toping.",
+      "options": [
+        "[1; 4]",
+        "[2; 4]",
+        "(2; 4)",
+        "[1; 2]"
+      ],
+      "answer": 1,
+      "explain": "[1; 4] ∩ [2; +∞) = [2; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 1)(x − 5) ≤ 0; x ≥ 2} sistemaning yechimini toping.",
+      "options": [
+        "[1; 2]",
+        "(2; 5)",
+        "[2; 5]",
+        "[1; 5]"
+      ],
+      "answer": 2,
+      "explain": "[1; 5] ∩ [2; +∞) = [2; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 1)(x − 6) ≤ 0; x ≥ 2} sistemaning yechimini toping.",
+      "options": [
+        "[1; 6]",
+        "(2; 6)",
+        "[1; 2]",
+        "[2; 6]"
+      ],
+      "answer": 3,
+      "explain": "[1; 6] ∩ [2; +∞) = [2; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 1)(x − 7) ≤ 0; x ≥ 2} sistemaning yechimini toping.",
+      "options": [
+        "[1; 7]",
+        "(2; 7)",
+        "[1; 2]",
+        "[2; 7]"
+      ],
+      "answer": 3,
+      "explain": "[1; 7] ∩ [2; +∞) = [2; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 1)(x − 8) ≤ 0; x ≥ 2} sistemaning yechimini toping.",
+      "options": [
+        "(2; 8)",
+        "[2; 8]",
+        "[1; 2]",
+        "[1; 8]"
+      ],
+      "answer": 1,
+      "explain": "[1; 8] ∩ [2; +∞) = [2; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 2)(x − 4) ≤ 0; x ≥ 3} sistemaning yechimini toping.",
+      "options": [
+        "[2; 3]",
+        "[2; 4]",
+        "(3; 4)",
+        "[3; 4]"
+      ],
+      "answer": 3,
+      "explain": "[2; 4] ∩ [3; +∞) = [3; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 2)(x − 5) ≤ 0; x ≥ 3} sistemaning yechimini toping.",
+      "options": [
+        "[2; 3]",
+        "[2; 5]",
+        "(3; 5)",
+        "[3; 5]"
+      ],
+      "answer": 3,
+      "explain": "[2; 5] ∩ [3; +∞) = [3; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 2)(x − 6) ≤ 0; x ≥ 3} sistemaning yechimini toping.",
+      "options": [
+        "[2; 3]",
+        "[2; 6]",
+        "(3; 6)",
+        "[3; 6]"
+      ],
+      "answer": 3,
+      "explain": "[2; 6] ∩ [3; +∞) = [3; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 2)(x − 7) ≤ 0; x ≥ 3} sistemaning yechimini toping.",
+      "options": [
+        "[2; 7]",
+        "[3; 7]",
+        "(3; 7)",
+        "[2; 3]"
+      ],
+      "answer": 1,
+      "explain": "[2; 7] ∩ [3; +∞) = [3; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 2)(x − 8) ≤ 0; x ≥ 3} sistemaning yechimini toping.",
+      "options": [
+        "(3; 8)",
+        "[2; 3]",
+        "[2; 8]",
+        "[3; 8]"
+      ],
+      "answer": 3,
+      "explain": "[2; 8] ∩ [3; +∞) = [3; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 3)(x − 5) ≤ 0; x ≥ 4} sistemaning yechimini toping.",
+      "options": [
+        "[3; 4]",
+        "[4; 5]",
+        "(4; 5)",
+        "[3; 5]"
+      ],
+      "answer": 1,
+      "explain": "[3; 5] ∩ [4; +∞) = [4; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 3)(x − 6) ≤ 0; x ≥ 4} sistemaning yechimini toping.",
+      "options": [
+        "[4; 6]",
+        "(4; 6)",
+        "[3; 4]",
+        "[3; 6]"
+      ],
+      "answer": 0,
+      "explain": "[3; 6] ∩ [4; +∞) = [4; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 3)(x − 7) ≤ 0; x ≥ 4} sistemaning yechimini toping.",
+      "options": [
+        "[3; 4]",
+        "[4; 7]",
+        "(4; 7)",
+        "[3; 7]"
+      ],
+      "answer": 1,
+      "explain": "[3; 7] ∩ [4; +∞) = [4; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 3)(x − 8) ≤ 0; x ≥ 4} sistemaning yechimini toping.",
+      "options": [
+        "[3; 4]",
+        "[3; 8]",
+        "(4; 8)",
+        "[4; 8]"
+      ],
+      "answer": 3,
+      "explain": "[3; 8] ∩ [4; +∞) = [4; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 4)(x − 6) ≤ 0; x ≥ 5} sistemaning yechimini toping.",
+      "options": [
+        "[4; 5]",
+        "[5; 6]",
+        "[4; 6]",
+        "(5; 6)"
+      ],
+      "answer": 1,
+      "explain": "[4; 6] ∩ [5; +∞) = [5; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 4)(x − 7) ≤ 0; x ≥ 5} sistemaning yechimini toping.",
+      "options": [
+        "[4; 7]",
+        "[4; 5]",
+        "(5; 7)",
+        "[5; 7]"
+      ],
+      "answer": 3,
+      "explain": "[4; 7] ∩ [5; +∞) = [5; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "{(x − 4)(x − 8) ≤ 0; x ≥ 5} sistemaning yechimini toping.",
+      "options": [
+        "(5; 8)",
+        "[4; 5]",
+        "[5; 8]",
+        "[4; 8]"
+      ],
+      "answer": 2,
+      "explain": "[4; 8] ∩ [5; +∞) = [5; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 1; x < 3} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "[1; 3]",
+        "(1; 3]",
+        "(0; 1]",
+        "[1; 3)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 da x ≥ 1 va x < 3 ⇒ [1; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 1; x < 4} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "[1; 4]",
+        "(1; 4]",
+        "[1; 4)",
+        "(0; 1]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 da x ≥ 1 va x < 4 ⇒ [1; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 1; x < 5} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "(1; 5]",
+        "(0; 1]",
+        "[1; 5)",
+        "[1; 5]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 da x ≥ 1 va x < 5 ⇒ [1; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 1; x < 6} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "[1; 6]",
+        "(0; 1]",
+        "(1; 6]",
+        "[1; 6)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 da x ≥ 1 va x < 6 ⇒ [1; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 1; x < 7} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "(0; 1]",
+        "(1; 7]",
+        "[1; 7]",
+        "[1; 7)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 da x ≥ 1 va x < 7 ⇒ [1; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 4; x < 4} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "[2; 4]",
+        "(0; 2]",
+        "[2; 4)",
+        "(2; 4]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 da x ≥ 2 va x < 4 ⇒ [2; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 1; x < 8} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "(0; 1]",
+        "(1; 8]",
+        "[1; 8]",
+        "[1; 8)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 da x ≥ 1 va x < 8 ⇒ [1; 8)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 9; x < 5} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "(3; 5]",
+        "[3; 5)",
+        "[3; 5]",
+        "(0; 3]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 da x ≥ 3 va x < 5 ⇒ [3; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 4; x < 6} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "(2; 6]",
+        "(0; 2]",
+        "[2; 6]",
+        "[2; 6)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 da x ≥ 2 va x < 6 ⇒ [2; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 1; x < 9} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "[1; 9]",
+        "(0; 1]",
+        "[1; 9)",
+        "(1; 9]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 da x ≥ 1 va x < 9 ⇒ [1; 9)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 16; x < 6} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "[4; 6)",
+        "(0; 4]",
+        "(4; 6]",
+        "[4; 6]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 da x ≥ 4 va x < 6 ⇒ [4; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 9; x < 7} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "(0; 3]",
+        "[3; 7]",
+        "(3; 7]",
+        "[3; 7)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 da x ≥ 3 va x < 7 ⇒ [3; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 4; x < 8} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "[2; 8)",
+        "(0; 2]",
+        "(2; 8]",
+        "[2; 8]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 da x ≥ 2 va x < 8 ⇒ [2; 8)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 1; x < 10} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "(0; 1]",
+        "[1; 10)",
+        "(1; 10]",
+        "[1; 10]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 da x ≥ 1 va x < 10 ⇒ [1; 10)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 25; x < 7} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "(0; 5]",
+        "[5; 7)",
+        "[5; 7]",
+        "(5; 7]"
+      ],
+      "answer": 1,
+      "explain": "x > 0 da x ≥ 5 va x < 7 ⇒ [5; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 16; x < 8} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "[4; 8)",
+        "(4; 8]",
+        "[4; 8]",
+        "(0; 4]"
+      ],
+      "answer": 0,
+      "explain": "x > 0 da x ≥ 4 va x < 8 ⇒ [4; 8)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 9; x < 9} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "(3; 9]",
+        "[3; 9]",
+        "[3; 9)",
+        "(0; 3]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 da x ≥ 3 va x < 9 ⇒ [3; 9)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 4; x < 10} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "(0; 2]",
+        "(2; 10]",
+        "[2; 10)",
+        "[2; 10]"
+      ],
+      "answer": 2,
+      "explain": "x > 0 da x ≥ 2 va x < 10 ⇒ [2; 10)."
+    },
+    {
+      "type": "choice",
+      "q": "{x² ≥ 1; x < 11} tengsizliklar sistemasini x > 0 uchun yeching.",
+      "options": [
+        "[1; 11]",
+        "(1; 11]",
+        "(0; 1]",
+        "[1; 11)"
+      ],
+      "answer": 3,
+      "explain": "x > 0 da x ≥ 1 va x < 11 ⇒ [1; 11)."
+    }
+  ],
+  "cards": [
+    [
+      "Kesishma",
+      "Ikkita yechim to'plamining umumiy qismi (∩)"
+    ],
+    [
+      "Sistema",
+      "Bir vaqtda bajarilishi shart bo'lgan tengsizliklar"
+    ],
+    [
+      "Oraliq",
+      "Sonlar o'qidagi [a; b] yoki (a; b) to'plam"
+    ],
+    [
+      "Qo'sh",
+      "a < f(x) < b ko'rinishidagi ikki tomonlama tengsizlik"
+    ],
+    [
+      "Ildizlar",
+      "Ikki tengsizlik yechimlarini belgilovchi nuqtalar"
+    ],
+    [
+      "Bo'sh",
+      "Umumiy yechim bo'lmagan holat (∅)"
+    ],
+    [
+      "Shtrixlash",
+      "Son o'qida yechimlarni ustma-ust belgilash"
+    ],
+    [
+      "Butun",
+      "Kesishma sohasidagi Z sonlar"
+    ],
+    [
+      "Aniqlanish",
+      "√f(x) + √g(x) ifodada ikki shart sistemasi"
+    ],
+    [
+      "Modul",
+      "|f(x)| < a ning qo'sh tengsizlikka o'tishi"
+    ],
+    [
+      "{x²≤a², x≥0}",
+      "Umumiy yechimi [0; a] kesma"
+    ],
+    [
+      "{x²≥a², x≤b}",
+      "Ikki shartning umumiy sohasi"
+    ],
+    [
+      "Chiziqli + kvadrat",
+      "Eng ko'p uchraydigan tengsizliklar sistemasi"
+    ],
+    [
+      "Eng katta butun",
+      "Kesishmadagi maksimal Z qiymat"
+    ],
+    [
+      "Eng kichik butun",
+      "Kesishmadagi minimal Z qiymat"
+    ],
+    [
+      "Qat'iy shart",
+      "Ochiq chetki nuqtalar bilan olinadi"
+    ],
+    [
+      "Noqat'iy shart",
+      "Chetki nuqtalar ham yechimga kiradi"
+    ],
+    [
+      "f(x) > a",
+      "Qo'sh tengsizlikning chap qismi"
+    ],
+    [
+      "f(x) < b",
+      "Qo'sh tengsizlikning o'ng qismi"
+    ],
+    [
+      "To'plamlar kesishmasi",
+      "Ikkala shtrix ham ustiga tushgan qism"
+    ],
+    [
+      "x ∈ ∅",
+      "Tengsizliklar bir-biriga zid bo'lganda"
+    ],
+    [
+      "Kvadrat uchhad",
+      "Sistemada parabola va nur kesishmasi"
+    ],
+    [
+      "O'ng nur",
+      "[a; +∞) yoki (a; +∞) oraliq"
+    ],
+    [
+      "Chap nur",
+      "(−∞; b] yoki (−∞; b) oraliq"
+    ]
+  ]
+}

@@ -1,0 +1,3282 @@
+{
+  "id": "g9-uz-algebra-13-sodda-sistemalar",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "13-§. Ikkinchi darajali tenglama qatnashgan sodda sistemalar",
+  "title": "13-§. Ikkinchi darajali tenglama qatnashgan sodda sistemalar",
+  "source": "Algebra 9-sinf (2019), II bob, 13-§, 68–72-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "{x + y = s; xy = p} sistemani yechish uchun qaysi yordamchi kvadrat tenglama tuziladi?",
+      "options": [
+        "t² + st + p = 0",
+        "t² − pt + s = 0",
+        "t² + st − p = 0",
+        "t² − st + p = 0"
+      ],
+      "answer": 3,
+      "explain": "Viyet teoremasiga ko'ra x va y sonlari t² − st + p = 0 tenglamaning ildizlaridir."
+    },
+    {
+      "type": "choice",
+      "q": "Chiziqli tenglama va ikkinchi darajali tenglamadan iborat sistema ko'pi bilan nechta yechimga ega bo'lishi mumkin?",
+      "options": [
+        "3 ta",
+        "1 ta",
+        "2 ta",
+        "4 ta"
+      ],
+      "answer": 2,
+      "explain": "Bir o'zgaruvchini o'rniga qo'yganda ko'pi bilan kvadrat tenglama hosil bo'ladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x − y = 2; xy = 15} tenglamalar sistemasini (5; 3) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "5 − 3 = 2 va 5 · 3 = 15, demak (5; 3) sistemaning yechimi."
+    },
+    {
+      "type": "truefalse",
+      "q": "To'g'ri chiziq va parabola hech qachon 3 ta nuqtada kesisha olmaydi.",
+      "answer": true,
+      "explain": "Chiziqli va kvadrat funksiyalar tenglashtirilganda ko'pi bilan 2-darajali tenglama olinadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "(1; 2) juftlik {x + y = 3; xy = 2} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "1 + 2 = 3 va 1·2 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 4; xy = 3} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(1; 3) va (3; 1)",
+        "(1; -3) va (-3; 1)",
+        "(1; 3)",
+        "(2; 2)"
+      ],
+      "answer": 0,
+      "explain": "t² − 4t + 3 = 0 ildizlari 1 va 3."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 5; xy = 4} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "17",
+      "explain": "x² + y² = (x + y)² − 2xy = 5² − 2·4 = 17."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 12 sm, yuzi 5 sm². Uning katta tomonini (sm) toping.",
+      "answer": "5",
+      "explain": "a + b = 6, ab = 5 ⇒ tomonlar 1 va 5 sm. Kattasi 5 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(1; 6) juftlik {x + y = 7; xy = 6} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "1 + 6 = 7 va 1·6 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 8; xy = 7} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(1; 7)",
+        "(2; 6)",
+        "(1; -7) va (-7; 1)",
+        "(1; 7) va (7; 1)"
+      ],
+      "answer": 3,
+      "explain": "t² − 8t + 7 = 0 ildizlari 1 va 7."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 9; xy = 8} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "65",
+      "explain": "x² + y² = (x + y)² − 2xy = 9² − 2·8 = 65."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 20 sm, yuzi 9 sm². Uning katta tomonini (sm) toping.",
+      "answer": "9",
+      "explain": "a + b = 10, ab = 9 ⇒ tomonlar 1 va 9 sm. Kattasi 9 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(1; 10) juftlik {x + y = 11; xy = 10} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "1 + 10 = 11 va 1·10 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 12; xy = 11} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(1; -11) va (-11; 1)",
+        "(2; 10)",
+        "(1; 11) va (11; 1)",
+        "(1; 11)"
+      ],
+      "answer": 2,
+      "explain": "t² − 12t + 11 = 0 ildizlari 1 va 11."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; xy = 12} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "145",
+      "explain": "x² + y² = (x + y)² − 2xy = 13² − 2·12 = 145."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 28 sm, yuzi 13 sm². Uning katta tomonini (sm) toping.",
+      "answer": "13",
+      "explain": "a + b = 14, ab = 13 ⇒ tomonlar 1 va 13 sm. Kattasi 13 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(1; 14) juftlik {x + y = 15; xy = 14} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "1 + 14 = 15 va 1·14 = 14."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 5; xy = 6} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "13",
+      "explain": "x² + y² = (x + y)² − 2xy = 5² − 2·6 = 13."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 12 sm, yuzi 8 sm². Uning katta tomonini (sm) toping.",
+      "answer": "4",
+      "explain": "a + b = 6, ab = 8 ⇒ tomonlar 2 va 4 sm. Kattasi 4 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2; 5) juftlik {x + y = 7; xy = 10} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "2 + 5 = 7 va 2·5 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 8; xy = 12} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(3; 5)",
+        "(2; 6)",
+        "(2; -6) va (-6; 2)",
+        "(2; 6) va (6; 2)"
+      ],
+      "answer": 3,
+      "explain": "t² − 8t + 12 = 0 ildizlari 2 va 6."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 9; xy = 14} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "53",
+      "explain": "x² + y² = (x + y)² − 2xy = 9² − 2·14 = 53."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 20 sm, yuzi 16 sm². Uning katta tomonini (sm) toping.",
+      "answer": "8",
+      "explain": "a + b = 10, ab = 16 ⇒ tomonlar 2 va 8 sm. Kattasi 8 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2; 9) juftlik {x + y = 11; xy = 18} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "2 + 9 = 11 va 2·9 = 18."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 12; xy = 20} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(3; 9)",
+        "(2; -10) va (-10; 2)",
+        "(2; 10)",
+        "(2; 10) va (10; 2)"
+      ],
+      "answer": 3,
+      "explain": "t² − 12t + 20 = 0 ildizlari 2 va 10."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; xy = 22} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "125",
+      "explain": "x² + y² = (x + y)² − 2xy = 13² − 2·22 = 125."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 28 sm, yuzi 24 sm². Uning katta tomonini (sm) toping.",
+      "answer": "12",
+      "explain": "a + b = 14, ab = 24 ⇒ tomonlar 2 va 12 sm. Kattasi 12 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2; 13) juftlik {x + y = 15; xy = 26} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "2 + 13 = 15 va 2·13 = 26."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 16; xy = 28} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(3; 13)",
+        "(2; 14) va (14; 2)",
+        "(2; -14) va (-14; 2)",
+        "(2; 14)"
+      ],
+      "answer": 1,
+      "explain": "t² − 16t + 28 = 0 ildizlari 2 va 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3; 4) juftlik {x + y = 7; xy = 12} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "3 + 4 = 7 va 3·4 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 8; xy = 15} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(3; 5) va (5; 3)",
+        "(4; 4)",
+        "(3; 5)",
+        "(3; -5) va (-5; 3)"
+      ],
+      "answer": 0,
+      "explain": "t² − 8t + 15 = 0 ildizlari 3 va 5."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 9; xy = 18} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "45",
+      "explain": "x² + y² = (x + y)² − 2xy = 9² − 2·18 = 45."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 20 sm, yuzi 21 sm². Uning katta tomonini (sm) toping.",
+      "answer": "7",
+      "explain": "a + b = 10, ab = 21 ⇒ tomonlar 3 va 7 sm. Kattasi 7 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3; 8) juftlik {x + y = 11; xy = 24} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "3 + 8 = 11 va 3·8 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 12; xy = 27} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(3; -9) va (-9; 3)",
+        "(4; 8)",
+        "(3; 9) va (9; 3)",
+        "(3; 9)"
+      ],
+      "answer": 2,
+      "explain": "t² − 12t + 27 = 0 ildizlari 3 va 9."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; xy = 30} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "109",
+      "explain": "x² + y² = (x + y)² − 2xy = 13² − 2·30 = 109."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 28 sm, yuzi 33 sm². Uning katta tomonini (sm) toping.",
+      "answer": "11",
+      "explain": "a + b = 14, ab = 33 ⇒ tomonlar 3 va 11 sm. Kattasi 11 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3; 12) juftlik {x + y = 15; xy = 36} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "3 + 12 = 15 va 3·12 = 36."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 16; xy = 39} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(4; 12)",
+        "(3; 13) va (13; 3)",
+        "(3; 13)",
+        "(3; -13) va (-13; 3)"
+      ],
+      "answer": 1,
+      "explain": "t² − 16t + 39 = 0 ildizlari 3 va 13."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 17; xy = 42} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "205",
+      "explain": "x² + y² = (x + y)² − 2xy = 17² − 2·42 = 205."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 9; xy = 20} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "41",
+      "explain": "x² + y² = (x + y)² − 2xy = 9² − 2·20 = 41."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 20 sm, yuzi 24 sm². Uning katta tomonini (sm) toping.",
+      "answer": "6",
+      "explain": "a + b = 10, ab = 24 ⇒ tomonlar 4 va 6 sm. Kattasi 6 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4; 7) juftlik {x + y = 11; xy = 28} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "4 + 7 = 11 va 4·7 = 28."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 12; xy = 32} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(4; -8) va (-8; 4)",
+        "(4; 8) va (8; 4)",
+        "(4; 8)",
+        "(5; 7)"
+      ],
+      "answer": 1,
+      "explain": "t² − 12t + 32 = 0 ildizlari 4 va 8."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; xy = 36} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "97",
+      "explain": "x² + y² = (x + y)² − 2xy = 13² − 2·36 = 97."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 28 sm, yuzi 40 sm². Uning katta tomonini (sm) toping.",
+      "answer": "10",
+      "explain": "a + b = 14, ab = 40 ⇒ tomonlar 4 va 10 sm. Kattasi 10 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4; 11) juftlik {x + y = 15; xy = 44} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "4 + 11 = 15 va 4·11 = 44."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 16; xy = 48} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(4; -12) va (-12; 4)",
+        "(4; 12)",
+        "(5; 11)",
+        "(4; 12) va (12; 4)"
+      ],
+      "answer": 3,
+      "explain": "t² − 16t + 48 = 0 ildizlari 4 va 12."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 17; xy = 52} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "185",
+      "explain": "x² + y² = (x + y)² − 2xy = 17² − 2·52 = 185."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 36 sm, yuzi 56 sm². Uning katta tomonini (sm) toping.",
+      "answer": "14",
+      "explain": "a + b = 18, ab = 56 ⇒ tomonlar 4 va 14 sm. Kattasi 14 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(5; 6) juftlik {x + y = 11; xy = 30} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "5 + 6 = 11 va 5·6 = 30."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 12; xy = 35} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(5; 7) va (7; 5)",
+        "(5; 7)",
+        "(6; 6)",
+        "(5; -7) va (-7; 5)"
+      ],
+      "answer": 0,
+      "explain": "t² − 12t + 35 = 0 ildizlari 5 va 7."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; xy = 40} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "89",
+      "explain": "x² + y² = (x + y)² − 2xy = 13² − 2·40 = 89."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 28 sm, yuzi 45 sm². Uning katta tomonini (sm) toping.",
+      "answer": "9",
+      "explain": "a + b = 14, ab = 45 ⇒ tomonlar 5 va 9 sm. Kattasi 9 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(5; 10) juftlik {x + y = 15; xy = 50} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "5 + 10 = 15 va 5·10 = 50."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 16; xy = 55} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(6; 10)",
+        "(5; -11) va (-11; 5)",
+        "(5; 11) va (11; 5)",
+        "(5; 11)"
+      ],
+      "answer": 2,
+      "explain": "t² − 16t + 55 = 0 ildizlari 5 va 11."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 17; xy = 60} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "169",
+      "explain": "x² + y² = (x + y)² − 2xy = 17² − 2·60 = 169."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 36 sm, yuzi 65 sm². Uning katta tomonini (sm) toping.",
+      "answer": "13",
+      "explain": "a + b = 18, ab = 65 ⇒ tomonlar 5 va 13 sm. Kattasi 13 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(5; 14) juftlik {x + y = 19; xy = 70} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "5 + 14 = 19 va 5·14 = 70."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; xy = 42} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "85",
+      "explain": "x² + y² = (x + y)² − 2xy = 13² − 2·42 = 85."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 28 sm, yuzi 48 sm². Uning katta tomonini (sm) toping.",
+      "answer": "8",
+      "explain": "a + b = 14, ab = 48 ⇒ tomonlar 6 va 8 sm. Kattasi 8 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(6; 9) juftlik {x + y = 15; xy = 54} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "6 + 9 = 15 va 6·9 = 54."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 16; xy = 60} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(6; -10) va (-10; 6)",
+        "(6; 10)",
+        "(6; 10) va (10; 6)",
+        "(7; 9)"
+      ],
+      "answer": 2,
+      "explain": "t² − 16t + 60 = 0 ildizlari 6 va 10."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 17; xy = 66} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "157",
+      "explain": "x² + y² = (x + y)² − 2xy = 17² − 2·66 = 157."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 36 sm, yuzi 72 sm². Uning katta tomonini (sm) toping.",
+      "answer": "12",
+      "explain": "a + b = 18, ab = 72 ⇒ tomonlar 6 va 12 sm. Kattasi 12 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(6; 13) juftlik {x + y = 19; xy = 78} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "6 + 13 = 19 va 6·13 = 78."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 20; xy = 84} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(7; 13)",
+        "(6; -14) va (-14; 6)",
+        "(6; 14) va (14; 6)",
+        "(6; 14)"
+      ],
+      "answer": 2,
+      "explain": "t² − 20t + 84 = 0 ildizlari 6 va 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "(7; 8) juftlik {x + y = 15; xy = 56} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "7 + 8 = 15 va 7·8 = 56."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 16; xy = 63} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(7; 9)",
+        "(8; 8)",
+        "(7; -9) va (-9; 7)",
+        "(7; 9) va (9; 7)"
+      ],
+      "answer": 3,
+      "explain": "t² − 16t + 63 = 0 ildizlari 7 va 9."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 17; xy = 70} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "149",
+      "explain": "x² + y² = (x + y)² − 2xy = 17² − 2·70 = 149."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 36 sm, yuzi 77 sm². Uning katta tomonini (sm) toping.",
+      "answer": "11",
+      "explain": "a + b = 18, ab = 77 ⇒ tomonlar 7 va 11 sm. Kattasi 11 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(7; 12) juftlik {x + y = 19; xy = 84} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "7 + 12 = 19 va 7·12 = 84."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 20; xy = 91} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(7; 13) va (13; 7)",
+        "(7; -13) va (-13; 7)",
+        "(8; 12)",
+        "(7; 13)"
+      ],
+      "answer": 0,
+      "explain": "t² − 20t + 91 = 0 ildizlari 7 va 13."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 21; xy = 98} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "245",
+      "explain": "x² + y² = (x + y)² − 2xy = 21² − 2·98 = 245."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 17; xy = 72} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "145",
+      "explain": "x² + y² = (x + y)² − 2xy = 17² − 2·72 = 145."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 36 sm, yuzi 80 sm². Uning katta tomonini (sm) toping.",
+      "answer": "10",
+      "explain": "a + b = 18, ab = 80 ⇒ tomonlar 8 va 10 sm. Kattasi 10 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(8; 11) juftlik {x + y = 19; xy = 88} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "8 + 11 = 19 va 8·11 = 88."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 20; xy = 96} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(8; 12) va (12; 8)",
+        "(8; -12) va (-12; 8)",
+        "(8; 12)",
+        "(9; 11)"
+      ],
+      "answer": 0,
+      "explain": "t² − 20t + 96 = 0 ildizlari 8 va 12."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 21; xy = 104} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "233",
+      "explain": "x² + y² = (x + y)² − 2xy = 21² − 2·104 = 233."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 44 sm, yuzi 112 sm². Uning katta tomonini (sm) toping.",
+      "answer": "14",
+      "explain": "a + b = 22, ab = 112 ⇒ tomonlar 8 va 14 sm. Kattasi 14 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(9; 10) juftlik {x + y = 19; xy = 90} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "9 + 10 = 19 va 9·10 = 90."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 20; xy = 99} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(10; 10)",
+        "(9; 11) va (11; 9)",
+        "(9; -11) va (-11; 9)",
+        "(9; 11)"
+      ],
+      "answer": 1,
+      "explain": "t² − 20t + 99 = 0 ildizlari 9 va 11."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 21; xy = 108} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "225",
+      "explain": "x² + y² = (x + y)² − 2xy = 21² − 2·108 = 225."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 44 sm, yuzi 117 sm². Uning katta tomonini (sm) toping.",
+      "answer": "13",
+      "explain": "a + b = 22, ab = 117 ⇒ tomonlar 9 va 13 sm. Kattasi 13 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(9; 14) juftlik {x + y = 23; xy = 126} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "9 + 14 = 23 va 9·14 = 126."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 21; xy = 110} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "221",
+      "explain": "x² + y² = (x + y)² − 2xy = 21² − 2·110 = 221."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri to'rtburchakning perimetri 44 sm, yuzi 120 sm². Uning katta tomonini (sm) toping.",
+      "answer": "12",
+      "explain": "a + b = 22, ab = 120 ⇒ tomonlar 10 va 12 sm. Kattasi 12 sm."
+    },
+    {
+      "type": "truefalse",
+      "q": "(10; 13) juftlik {x + y = 23; xy = 130} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "10 + 13 = 23 va 10·13 = 130."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 24; xy = 140} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(10; -14) va (-14; 10)",
+        "(10; 14)",
+        "(10; 14) va (14; 10)",
+        "(11; 13)"
+      ],
+      "answer": 2,
+      "explain": "t² − 24t + 140 = 0 ildizlari 10 va 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "(11; 12) juftlik {x + y = 23; xy = 132} sistemaning yechimidir.",
+      "answer": true,
+      "explain": "11 + 12 = 23 va 11·12 = 132."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 24; xy = 143} tenglamalar sistemasining yechimlarini toping.",
+      "options": [
+        "(12; 12)",
+        "(11; -13) va (-13; 11)",
+        "(11; 13) va (13; 11)",
+        "(11; 13)"
+      ],
+      "answer": 2,
+      "explain": "t² − 24t + 143 = 0 ildizlari 11 va 13."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 25; xy = 154} sistemaning yechimlaridan x² + y² qiymatini toping.",
+      "answer": "317",
+      "explain": "x² + y² = (x + y)² − 2xy = 25² − 2·154 = 317."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 1; xy = 2} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(3; 2)",
+        "(1; 2)",
+        "(2; -1)",
+        "(2; 1)"
+      ],
+      "answer": 3,
+      "explain": "2 − 1 = 1 va 2 · 1 = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 2, ko'paytmasi 3 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "3",
+      "explain": "y(y + 2) = 3 ⇒ y = 1, kattasi x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 3; xy = 4} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(5; 2)",
+        "(4; -1)",
+        "(1; 4)",
+        "(4; 1)"
+      ],
+      "answer": 3,
+      "explain": "4 − 1 = 3 va 4 · 1 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 4; xy = 5} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(6; 2)",
+        "(5; -1)",
+        "(5; 1)",
+        "(1; 5)"
+      ],
+      "answer": 2,
+      "explain": "5 − 1 = 4 va 5 · 1 = 5."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 5, ko'paytmasi 6 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "6",
+      "explain": "y(y + 5) = 6 ⇒ y = 1, kattasi x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 6; xy = 7} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(1; 7)",
+        "(7; 1)",
+        "(7; -1)",
+        "(8; 2)"
+      ],
+      "answer": 1,
+      "explain": "7 − 1 = 6 va 7 · 1 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 7; xy = 8} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(9; 2)",
+        "(8; -1)",
+        "(1; 8)",
+        "(8; 1)"
+      ],
+      "answer": 3,
+      "explain": "8 − 1 = 7 va 8 · 1 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 8, ko'paytmasi 9 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "9",
+      "explain": "y(y + 8) = 9 ⇒ y = 1, kattasi x = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 9; xy = 10} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(10; 1)",
+        "(1; 10)",
+        "(10; -1)",
+        "(11; 2)"
+      ],
+      "answer": 0,
+      "explain": "10 − 1 = 9 va 10 · 1 = 10."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 1, ko'paytmasi 6 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "3",
+      "explain": "y(y + 1) = 6 ⇒ y = 2, kattasi x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 2; xy = 8} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(4; 2)",
+        "(5; 3)",
+        "(2; 4)",
+        "(4; -2)"
+      ],
+      "answer": 0,
+      "explain": "4 − 2 = 2 va 4 · 2 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 3; xy = 10} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(6; 3)",
+        "(5; 2)",
+        "(2; 5)",
+        "(5; -2)"
+      ],
+      "answer": 1,
+      "explain": "5 − 2 = 3 va 5 · 2 = 10."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 4, ko'paytmasi 12 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "6",
+      "explain": "y(y + 4) = 12 ⇒ y = 2, kattasi x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 5; xy = 14} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(7; -2)",
+        "(2; 7)",
+        "(7; 2)",
+        "(8; 3)"
+      ],
+      "answer": 2,
+      "explain": "7 − 2 = 5 va 7 · 2 = 14."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 6; xy = 16} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(9; 3)",
+        "(2; 8)",
+        "(8; 2)",
+        "(8; -2)"
+      ],
+      "answer": 2,
+      "explain": "8 − 2 = 6 va 8 · 2 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 7, ko'paytmasi 18 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "9",
+      "explain": "y(y + 7) = 18 ⇒ y = 2, kattasi x = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 8; xy = 20} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(2; 10)",
+        "(10; 2)",
+        "(11; 3)",
+        "(10; -2)"
+      ],
+      "answer": 1,
+      "explain": "10 − 2 = 8 va 10 · 2 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 9; xy = 22} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(12; 3)",
+        "(11; -2)",
+        "(11; 2)",
+        "(2; 11)"
+      ],
+      "answer": 2,
+      "explain": "11 − 2 = 9 va 11 · 2 = 22."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 1; xy = 12} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(4; 3)",
+        "(3; 4)",
+        "(5; 4)",
+        "(4; -3)"
+      ],
+      "answer": 0,
+      "explain": "4 − 3 = 1 va 4 · 3 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 2; xy = 15} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(3; 5)",
+        "(6; 4)",
+        "(5; -3)",
+        "(5; 3)"
+      ],
+      "answer": 3,
+      "explain": "5 − 3 = 2 va 5 · 3 = 15."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 3, ko'paytmasi 18 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "6",
+      "explain": "y(y + 3) = 18 ⇒ y = 3, kattasi x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 4; xy = 21} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(7; -3)",
+        "(7; 3)",
+        "(8; 4)",
+        "(3; 7)"
+      ],
+      "answer": 1,
+      "explain": "7 − 3 = 4 va 7 · 3 = 21."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 5; xy = 24} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(9; 4)",
+        "(8; 3)",
+        "(3; 8)",
+        "(8; -3)"
+      ],
+      "answer": 1,
+      "explain": "8 − 3 = 5 va 8 · 3 = 24."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 6, ko'paytmasi 27 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "9",
+      "explain": "y(y + 6) = 27 ⇒ y = 3, kattasi x = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 7; xy = 30} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(10; -3)",
+        "(3; 10)",
+        "(11; 4)",
+        "(10; 3)"
+      ],
+      "answer": 3,
+      "explain": "10 − 3 = 7 va 10 · 3 = 30."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 8; xy = 33} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(11; -3)",
+        "(11; 3)",
+        "(12; 4)",
+        "(3; 11)"
+      ],
+      "answer": 1,
+      "explain": "11 − 3 = 8 va 11 · 3 = 33."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 9, ko'paytmasi 36 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "12",
+      "explain": "y(y + 9) = 36 ⇒ y = 3, kattasi x = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 1; xy = 20} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(4; 5)",
+        "(6; 5)",
+        "(5; 4)",
+        "(5; -4)"
+      ],
+      "answer": 2,
+      "explain": "5 − 4 = 1 va 5 · 4 = 20."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 2, ko'paytmasi 24 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "6",
+      "explain": "y(y + 2) = 24 ⇒ y = 4, kattasi x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 3; xy = 28} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(4; 7)",
+        "(7; 4)",
+        "(8; 5)",
+        "(7; -4)"
+      ],
+      "answer": 1,
+      "explain": "7 − 4 = 3 va 7 · 4 = 28."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 4; xy = 32} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(8; 4)",
+        "(8; -4)",
+        "(9; 5)",
+        "(4; 8)"
+      ],
+      "answer": 0,
+      "explain": "8 − 4 = 4 va 8 · 4 = 32."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 5, ko'paytmasi 36 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "9",
+      "explain": "y(y + 5) = 36 ⇒ y = 4, kattasi x = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 6; xy = 40} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(10; 4)",
+        "(10; -4)",
+        "(4; 10)",
+        "(11; 5)"
+      ],
+      "answer": 0,
+      "explain": "10 − 4 = 6 va 10 · 4 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 7; xy = 44} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(11; -4)",
+        "(12; 5)",
+        "(11; 4)",
+        "(4; 11)"
+      ],
+      "answer": 2,
+      "explain": "11 − 4 = 7 va 11 · 4 = 44."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 8, ko'paytmasi 48 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "12",
+      "explain": "y(y + 8) = 48 ⇒ y = 4, kattasi x = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 9; xy = 52} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(4; 13)",
+        "(14; 5)",
+        "(13; -4)",
+        "(13; 4)"
+      ],
+      "answer": 3,
+      "explain": "13 − 4 = 9 va 13 · 4 = 52."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 1, ko'paytmasi 30 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "6",
+      "explain": "y(y + 1) = 30 ⇒ y = 5, kattasi x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 2; xy = 35} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(5; 7)",
+        "(7; 5)",
+        "(7; -5)",
+        "(8; 6)"
+      ],
+      "answer": 1,
+      "explain": "7 − 5 = 2 va 7 · 5 = 35."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 3; xy = 40} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(8; -5)",
+        "(9; 6)",
+        "(5; 8)",
+        "(8; 5)"
+      ],
+      "answer": 3,
+      "explain": "8 − 5 = 3 va 8 · 5 = 40."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 4, ko'paytmasi 45 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "9",
+      "explain": "y(y + 4) = 45 ⇒ y = 5, kattasi x = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 5; xy = 50} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(10; -5)",
+        "(10; 5)",
+        "(5; 10)",
+        "(11; 6)"
+      ],
+      "answer": 1,
+      "explain": "10 − 5 = 5 va 10 · 5 = 50."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 6; xy = 55} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(12; 6)",
+        "(11; 5)",
+        "(11; -5)",
+        "(5; 11)"
+      ],
+      "answer": 1,
+      "explain": "11 − 5 = 6 va 11 · 5 = 55."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 7, ko'paytmasi 60 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "12",
+      "explain": "y(y + 7) = 60 ⇒ y = 5, kattasi x = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 8; xy = 65} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(14; 6)",
+        "(13; 5)",
+        "(13; -5)",
+        "(5; 13)"
+      ],
+      "answer": 1,
+      "explain": "13 − 5 = 8 va 13 · 5 = 65."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 9; xy = 70} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(5; 14)",
+        "(14; -5)",
+        "(15; 6)",
+        "(14; 5)"
+      ],
+      "answer": 3,
+      "explain": "14 − 5 = 9 va 14 · 5 = 70."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 1; xy = 42} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(8; 7)",
+        "(7; 6)",
+        "(6; 7)",
+        "(7; -6)"
+      ],
+      "answer": 1,
+      "explain": "7 − 6 = 1 va 7 · 6 = 42."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 2; xy = 48} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(6; 8)",
+        "(8; 6)",
+        "(9; 7)",
+        "(8; -6)"
+      ],
+      "answer": 1,
+      "explain": "8 − 6 = 2 va 8 · 6 = 48."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 3, ko'paytmasi 54 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "9",
+      "explain": "y(y + 3) = 54 ⇒ y = 6, kattasi x = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 4; xy = 60} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(10; -6)",
+        "(11; 7)",
+        "(10; 6)",
+        "(6; 10)"
+      ],
+      "answer": 2,
+      "explain": "10 − 6 = 4 va 10 · 6 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 5; xy = 66} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(12; 7)",
+        "(11; -6)",
+        "(11; 6)",
+        "(6; 11)"
+      ],
+      "answer": 2,
+      "explain": "11 − 6 = 5 va 11 · 6 = 66."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 6, ko'paytmasi 72 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "12",
+      "explain": "y(y + 6) = 72 ⇒ y = 6, kattasi x = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 7; xy = 78} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(6; 13)",
+        "(13; 6)",
+        "(14; 7)",
+        "(13; -6)"
+      ],
+      "answer": 1,
+      "explain": "13 − 6 = 7 va 13 · 6 = 78."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 8; xy = 84} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(14; -6)",
+        "(15; 7)",
+        "(6; 14)",
+        "(14; 6)"
+      ],
+      "answer": 3,
+      "explain": "14 − 6 = 8 va 14 · 6 = 84."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 9, ko'paytmasi 90 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "15",
+      "explain": "y(y + 9) = 90 ⇒ y = 6, kattasi x = 15."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 1; xy = 56} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(8; 7)",
+        "(9; 8)",
+        "(8; -7)",
+        "(7; 8)"
+      ],
+      "answer": 0,
+      "explain": "8 − 7 = 1 va 8 · 7 = 56."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 2, ko'paytmasi 63 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "9",
+      "explain": "y(y + 2) = 63 ⇒ y = 7, kattasi x = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 3; xy = 70} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(10; -7)",
+        "(11; 8)",
+        "(10; 7)",
+        "(7; 10)"
+      ],
+      "answer": 2,
+      "explain": "10 − 7 = 3 va 10 · 7 = 70."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 4; xy = 77} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(12; 8)",
+        "(11; 7)",
+        "(11; -7)",
+        "(7; 11)"
+      ],
+      "answer": 1,
+      "explain": "11 − 7 = 4 va 11 · 7 = 77."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 5, ko'paytmasi 84 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "12",
+      "explain": "y(y + 5) = 84 ⇒ y = 7, kattasi x = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 6; xy = 91} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(13; -7)",
+        "(7; 13)",
+        "(13; 7)",
+        "(14; 8)"
+      ],
+      "answer": 2,
+      "explain": "13 − 7 = 6 va 13 · 7 = 91."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 7; xy = 98} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(7; 14)",
+        "(15; 8)",
+        "(14; -7)",
+        "(14; 7)"
+      ],
+      "answer": 3,
+      "explain": "14 − 7 = 7 va 14 · 7 = 98."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 8, ko'paytmasi 105 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "15",
+      "explain": "y(y + 8) = 105 ⇒ y = 7, kattasi x = 15."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 9; xy = 112} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(7; 16)",
+        "(16; 7)",
+        "(16; -7)",
+        "(17; 8)"
+      ],
+      "answer": 1,
+      "explain": "16 − 7 = 9 va 16 · 7 = 112."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 1, ko'paytmasi 72 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "9",
+      "explain": "y(y + 1) = 72 ⇒ y = 8, kattasi x = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 2; xy = 80} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(10; -8)",
+        "(8; 10)",
+        "(10; 8)",
+        "(11; 9)"
+      ],
+      "answer": 2,
+      "explain": "10 − 8 = 2 va 10 · 8 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 3; xy = 88} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(11; -8)",
+        "(8; 11)",
+        "(11; 8)",
+        "(12; 9)"
+      ],
+      "answer": 2,
+      "explain": "11 − 8 = 3 va 11 · 8 = 88."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 4, ko'paytmasi 96 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "12",
+      "explain": "y(y + 4) = 96 ⇒ y = 8, kattasi x = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 5; xy = 104} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(8; 13)",
+        "(13; -8)",
+        "(13; 8)",
+        "(14; 9)"
+      ],
+      "answer": 2,
+      "explain": "13 − 8 = 5 va 13 · 8 = 104."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 6; xy = 112} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(15; 9)",
+        "(8; 14)",
+        "(14; -8)",
+        "(14; 8)"
+      ],
+      "answer": 3,
+      "explain": "14 − 8 = 6 va 14 · 8 = 112."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 7, ko'paytmasi 120 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "15",
+      "explain": "y(y + 7) = 120 ⇒ y = 8, kattasi x = 15."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 8; xy = 128} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(17; 9)",
+        "(16; 8)",
+        "(8; 16)",
+        "(16; -8)"
+      ],
+      "answer": 1,
+      "explain": "16 − 8 = 8 va 16 · 8 = 128."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 9; xy = 136} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(17; 8)",
+        "(8; 17)",
+        "(18; 9)",
+        "(17; -8)"
+      ],
+      "answer": 0,
+      "explain": "17 − 8 = 9 va 17 · 8 = 136."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 1; xy = 90} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(10; -9)",
+        "(9; 10)",
+        "(10; 9)",
+        "(11; 10)"
+      ],
+      "answer": 2,
+      "explain": "10 − 9 = 1 va 10 · 9 = 90."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 2; xy = 99} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(11; 9)",
+        "(12; 10)",
+        "(11; -9)",
+        "(9; 11)"
+      ],
+      "answer": 0,
+      "explain": "11 − 9 = 2 va 11 · 9 = 99."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 3, ko'paytmasi 108 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "12",
+      "explain": "y(y + 3) = 108 ⇒ y = 9, kattasi x = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 4; xy = 117} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(9; 13)",
+        "(13; -9)",
+        "(14; 10)",
+        "(13; 9)"
+      ],
+      "answer": 3,
+      "explain": "13 − 9 = 4 va 13 · 9 = 117."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 5; xy = 126} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(14; 9)",
+        "(15; 10)",
+        "(9; 14)",
+        "(14; -9)"
+      ],
+      "answer": 0,
+      "explain": "14 − 9 = 5 va 14 · 9 = 126."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 6, ko'paytmasi 135 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "15",
+      "explain": "y(y + 6) = 135 ⇒ y = 9, kattasi x = 15."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 7; xy = 144} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(17; 10)",
+        "(16; -9)",
+        "(9; 16)",
+        "(16; 9)"
+      ],
+      "answer": 3,
+      "explain": "16 − 9 = 7 va 16 · 9 = 144."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 8; xy = 153} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(17; 9)",
+        "(9; 17)",
+        "(18; 10)",
+        "(17; -9)"
+      ],
+      "answer": 0,
+      "explain": "17 − 9 = 8 va 17 · 9 = 153."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 9, ko'paytmasi 162 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "18",
+      "explain": "y(y + 9) = 162 ⇒ y = 9, kattasi x = 18."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 1; xy = 110} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(11; 10)",
+        "(10; 11)",
+        "(11; -10)",
+        "(12; 11)"
+      ],
+      "answer": 0,
+      "explain": "11 − 10 = 1 va 11 · 10 = 110."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 2, ko'paytmasi 120 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "12",
+      "explain": "y(y + 2) = 120 ⇒ y = 10, kattasi x = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 3; xy = 130} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(10; 13)",
+        "(13; 10)",
+        "(13; -10)",
+        "(14; 11)"
+      ],
+      "answer": 1,
+      "explain": "13 − 10 = 3 va 13 · 10 = 130."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 4; xy = 140} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(14; -10)",
+        "(10; 14)",
+        "(15; 11)",
+        "(14; 10)"
+      ],
+      "answer": 3,
+      "explain": "14 − 10 = 4 va 14 · 10 = 140."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 5, ko'paytmasi 150 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "15",
+      "explain": "y(y + 5) = 150 ⇒ y = 10, kattasi x = 15."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 6; xy = 160} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(17; 11)",
+        "(16; -10)",
+        "(10; 16)",
+        "(16; 10)"
+      ],
+      "answer": 3,
+      "explain": "16 − 10 = 6 va 16 · 10 = 160."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 7; xy = 170} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(17; -10)",
+        "(17; 10)",
+        "(10; 17)",
+        "(18; 11)"
+      ],
+      "answer": 1,
+      "explain": "17 − 10 = 7 va 17 · 10 = 170."
+    },
+    {
+      "type": "fill",
+      "q": "Ikki musbat sonning ayirmasi 8, ko'paytmasi 180 ga teng. Shu sonlardan kattasini toping.",
+      "answer": "18",
+      "explain": "y(y + 8) = 180 ⇒ y = 10, kattasi x = 18."
+    },
+    {
+      "type": "choice",
+      "q": "{x − y = 9; xy = 190} sistemaning musbat yechimini (x; y) toping.",
+      "options": [
+        "(20; 11)",
+        "(10; 19)",
+        "(19; 10)",
+        "(19; -10)"
+      ],
+      "answer": 2,
+      "explain": "19 − 10 = 9 va 19 · 10 = 190."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −7x − 12 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-5 va -3",
+        "4 va 3",
+        "-4 va -2",
+        "-4 va -3"
+      ],
+      "answer": 3,
+      "explain": "x² = −7x − 12 ⇒ x² + 7x + 12 = 0 ⇒ x = -4, -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −6x − 8 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-5 va -2",
+        "-4 va -1",
+        "4 va 2",
+        "-4 va -2"
+      ],
+      "answer": 3,
+      "explain": "x² = −6x − 8 ⇒ x² + 6x + 8 = 0 ⇒ x = -4, -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −5x − 4 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-5 va -1",
+        "-4 va -1",
+        "4 va 1",
+        "-4 va 0"
+      ],
+      "answer": 1,
+      "explain": "x² = −5x − 4 ⇒ x² + 5x + 4 = 0 ⇒ x = -4, -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −4x to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-5 va 0",
+        "4 va 0",
+        "-4 va 0",
+        "-4 va 1"
+      ],
+      "answer": 2,
+      "explain": "x² = −4x ⇒ x² + 4x = 0 ⇒ x = -4, 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −3x + 4 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-4 va 1",
+        "-5 va 1",
+        "4 va -1",
+        "-4 va 2"
+      ],
+      "answer": 0,
+      "explain": "x² = −3x + 4 ⇒ x² + 3x − 4 = 0 ⇒ x = -4, 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −2x + 8 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "4 va -2",
+        "-4 va 2",
+        "-5 va 2",
+        "-4 va 3"
+      ],
+      "answer": 1,
+      "explain": "x² = −2x + 8 ⇒ x² + 2x − 8 = 0 ⇒ x = -4, 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −x + 12 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-4 va 3",
+        "-5 va 3",
+        "-4 va 4",
+        "4 va -3"
+      ],
+      "answer": 0,
+      "explain": "x² = −x + 12 ⇒ x² + x − 12 = 0 ⇒ x = -4, 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 16 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-4 va 4",
+        "4 va -4",
+        "-5 va 4",
+        "-4 va 5"
+      ],
+      "answer": 0,
+      "explain": "x² = 16 ⇒ x² − 16 = 0 ⇒ x = -4, 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = x + 20 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-4 va 5",
+        "-4 va 6",
+        "4 va -5",
+        "-5 va 5"
+      ],
+      "answer": 0,
+      "explain": "x² = x + 20 ⇒ x² − x − 20 = 0 ⇒ x = -4, 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 2x + 24 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "4 va -6",
+        "-5 va 6",
+        "-4 va 7",
+        "-4 va 6"
+      ],
+      "answer": 3,
+      "explain": "x² = 2x + 24 ⇒ x² − 2x − 24 = 0 ⇒ x = -4, 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −5x − 6 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-3 va -1",
+        "-3 va -2",
+        "3 va 2",
+        "-4 va -2"
+      ],
+      "answer": 1,
+      "explain": "x² = −5x − 6 ⇒ x² + 5x + 6 = 0 ⇒ x = -3, -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −4x − 3 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "3 va 1",
+        "-3 va -1",
+        "-3 va 0",
+        "-4 va -1"
+      ],
+      "answer": 1,
+      "explain": "x² = −4x − 3 ⇒ x² + 4x + 3 = 0 ⇒ x = -3, -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −3x to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "3 va 0",
+        "-4 va 0",
+        "-3 va 0",
+        "-3 va 1"
+      ],
+      "answer": 2,
+      "explain": "x² = −3x ⇒ x² + 3x = 0 ⇒ x = -3, 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −2x + 3 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-4 va 1",
+        "3 va -1",
+        "-3 va 2",
+        "-3 va 1"
+      ],
+      "answer": 3,
+      "explain": "x² = −2x + 3 ⇒ x² + 2x − 3 = 0 ⇒ x = -3, 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −x + 6 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-4 va 2",
+        "-3 va 3",
+        "-3 va 2",
+        "3 va -2"
+      ],
+      "answer": 2,
+      "explain": "x² = −x + 6 ⇒ x² + x − 6 = 0 ⇒ x = -3, 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 9 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-3 va 3",
+        "-4 va 3",
+        "3 va -3",
+        "-3 va 4"
+      ],
+      "answer": 0,
+      "explain": "x² = 9 ⇒ x² − 9 = 0 ⇒ x = -3, 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = x + 12 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "3 va -4",
+        "-3 va 4",
+        "-3 va 5",
+        "-4 va 4"
+      ],
+      "answer": 1,
+      "explain": "x² = x + 12 ⇒ x² − x − 12 = 0 ⇒ x = -3, 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 2x + 15 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-3 va 5",
+        "-3 va 6",
+        "3 va -5",
+        "-4 va 5"
+      ],
+      "answer": 0,
+      "explain": "x² = 2x + 15 ⇒ x² − 2x − 15 = 0 ⇒ x = -3, 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 3x + 18 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-3 va 7",
+        "3 va -6",
+        "-3 va 6",
+        "-4 va 6"
+      ],
+      "answer": 2,
+      "explain": "x² = 3x + 18 ⇒ x² − 3x − 18 = 0 ⇒ x = -3, 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −3x − 2 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-2 va 0",
+        "-3 va -1",
+        "2 va 1",
+        "-2 va -1"
+      ],
+      "answer": 3,
+      "explain": "x² = −3x − 2 ⇒ x² + 3x + 2 = 0 ⇒ x = -2, -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −2x to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-2 va 1",
+        "-2 va 0",
+        "2 va 0",
+        "-3 va 0"
+      ],
+      "answer": 1,
+      "explain": "x² = −2x ⇒ x² + 2x = 0 ⇒ x = -2, 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −x + 2 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-3 va 1",
+        "2 va -1",
+        "-2 va 2",
+        "-2 va 1"
+      ],
+      "answer": 3,
+      "explain": "x² = −x + 2 ⇒ x² + x − 2 = 0 ⇒ x = -2, 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 4 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "2 va -2",
+        "-2 va 3",
+        "-3 va 2",
+        "-2 va 2"
+      ],
+      "answer": 3,
+      "explain": "x² = 4 ⇒ x² − 4 = 0 ⇒ x = -2, 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = x + 6 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "2 va -3",
+        "-2 va 3",
+        "-3 va 3",
+        "-2 va 4"
+      ],
+      "answer": 1,
+      "explain": "x² = x + 6 ⇒ x² − x − 6 = 0 ⇒ x = -2, 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 2x + 8 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-2 va 4",
+        "-3 va 4",
+        "-2 va 5",
+        "2 va -4"
+      ],
+      "answer": 0,
+      "explain": "x² = 2x + 8 ⇒ x² − 2x − 8 = 0 ⇒ x = -2, 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 3x + 10 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-2 va 6",
+        "-3 va 5",
+        "-2 va 5",
+        "2 va -5"
+      ],
+      "answer": 2,
+      "explain": "x² = 3x + 10 ⇒ x² − 3x − 10 = 0 ⇒ x = -2, 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 4x + 12 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-3 va 6",
+        "-2 va 6",
+        "-2 va 7",
+        "2 va -6"
+      ],
+      "answer": 1,
+      "explain": "x² = 4x + 12 ⇒ x² − 4x − 12 = 0 ⇒ x = -2, 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = −x to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-2 va 0",
+        "1 va 0",
+        "-1 va 1",
+        "-1 va 0"
+      ],
+      "answer": 3,
+      "explain": "x² = −x ⇒ x² + x = 0 ⇒ x = -1, 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 1 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "1 va -1",
+        "-1 va 2",
+        "-2 va 1",
+        "-1 va 1"
+      ],
+      "answer": 3,
+      "explain": "x² = 1 ⇒ x² − 1 = 0 ⇒ x = -1, 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = x + 2 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-1 va 3",
+        "-2 va 2",
+        "1 va -2",
+        "-1 va 2"
+      ],
+      "answer": 3,
+      "explain": "x² = x + 2 ⇒ x² − x − 2 = 0 ⇒ x = -1, 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 2x + 3 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-2 va 3",
+        "-1 va 3",
+        "-1 va 4",
+        "1 va -3"
+      ],
+      "answer": 1,
+      "explain": "x² = 2x + 3 ⇒ x² − 2x − 3 = 0 ⇒ x = -1, 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 3x + 4 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-1 va 4",
+        "-1 va 5",
+        "1 va -4",
+        "-2 va 4"
+      ],
+      "answer": 0,
+      "explain": "x² = 3x + 4 ⇒ x² − 3x − 4 = 0 ⇒ x = -1, 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 4x + 5 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-1 va 6",
+        "1 va -5",
+        "-2 va 5",
+        "-1 va 5"
+      ],
+      "answer": 3,
+      "explain": "x² = 4x + 5 ⇒ x² − 4x − 5 = 0 ⇒ x = -1, 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 5x + 6 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-2 va 6",
+        "-1 va 7",
+        "-1 va 6",
+        "1 va -6"
+      ],
+      "answer": 2,
+      "explain": "x² = 5x + 6 ⇒ x² − 5x − 6 = 0 ⇒ x = -1, 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = x to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "0 va 1",
+        "0 va 2",
+        "0 va -1",
+        "-1 va 1"
+      ],
+      "answer": 0,
+      "explain": "x² = x ⇒ x² − x = 0 ⇒ x = 0, 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 2x to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-1 va 2",
+        "0 va 2",
+        "0 va 3",
+        "0 va -2"
+      ],
+      "answer": 1,
+      "explain": "x² = 2x ⇒ x² − 2x = 0 ⇒ x = 0, 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 3x to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "0 va 3",
+        "-1 va 3",
+        "0 va -3",
+        "0 va 4"
+      ],
+      "answer": 0,
+      "explain": "x² = 3x ⇒ x² − 3x = 0 ⇒ x = 0, 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 4x to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "0 va 4",
+        "0 va -4",
+        "0 va 5",
+        "-1 va 4"
+      ],
+      "answer": 0,
+      "explain": "x² = 4x ⇒ x² − 4x = 0 ⇒ x = 0, 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 5x to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-1 va 5",
+        "0 va 6",
+        "0 va 5",
+        "0 va -5"
+      ],
+      "answer": 2,
+      "explain": "x² = 5x ⇒ x² − 5x = 0 ⇒ x = 0, 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 6x to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-1 va 6",
+        "0 va 6",
+        "0 va -6",
+        "0 va 7"
+      ],
+      "answer": 1,
+      "explain": "x² = 6x ⇒ x² − 6x = 0 ⇒ x = 0, 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 3x − 2 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "0 va 2",
+        "1 va 2",
+        "-1 va -2",
+        "1 va 3"
+      ],
+      "answer": 1,
+      "explain": "x² = 3x − 2 ⇒ x² − 3x + 2 = 0 ⇒ x = 1, 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 4x − 3 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "0 va 3",
+        "1 va 3",
+        "1 va 4",
+        "-1 va -3"
+      ],
+      "answer": 1,
+      "explain": "x² = 4x − 3 ⇒ x² − 4x + 3 = 0 ⇒ x = 1, 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 5x − 4 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "0 va 4",
+        "1 va 5",
+        "-1 va -4",
+        "1 va 4"
+      ],
+      "answer": 3,
+      "explain": "x² = 5x − 4 ⇒ x² − 5x + 4 = 0 ⇒ x = 1, 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 6x − 5 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "0 va 5",
+        "1 va 6",
+        "-1 va -5",
+        "1 va 5"
+      ],
+      "answer": 3,
+      "explain": "x² = 6x − 5 ⇒ x² − 6x + 5 = 0 ⇒ x = 1, 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 7x − 6 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "-1 va -6",
+        "0 va 6",
+        "1 va 6",
+        "1 va 7"
+      ],
+      "answer": 2,
+      "explain": "x² = 7x − 6 ⇒ x² − 7x + 6 = 0 ⇒ x = 1, 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 5x − 6 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "2 va 4",
+        "-2 va -3",
+        "1 va 3",
+        "2 va 3"
+      ],
+      "answer": 3,
+      "explain": "x² = 5x − 6 ⇒ x² − 5x + 6 = 0 ⇒ x = 2, 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 6x − 8 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "2 va 5",
+        "-2 va -4",
+        "2 va 4",
+        "1 va 4"
+      ],
+      "answer": 2,
+      "explain": "x² = 6x − 8 ⇒ x² − 6x + 8 = 0 ⇒ x = 2, 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 7x − 10 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "2 va 5",
+        "1 va 5",
+        "-2 va -5",
+        "2 va 6"
+      ],
+      "answer": 0,
+      "explain": "x² = 7x − 10 ⇒ x² − 7x + 10 = 0 ⇒ x = 2, 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 8x − 12 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "2 va 6",
+        "1 va 6",
+        "-2 va -6",
+        "2 va 7"
+      ],
+      "answer": 0,
+      "explain": "x² = 8x − 12 ⇒ x² − 8x + 12 = 0 ⇒ x = 2, 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 7x − 12 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "3 va 5",
+        "-3 va -4",
+        "3 va 4",
+        "2 va 4"
+      ],
+      "answer": 2,
+      "explain": "x² = 7x − 12 ⇒ x² − 7x + 12 = 0 ⇒ x = 3, 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 8x − 15 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "3 va 5",
+        "-3 va -5",
+        "3 va 6",
+        "2 va 5"
+      ],
+      "answer": 0,
+      "explain": "x² = 8x − 15 ⇒ x² − 8x + 15 = 0 ⇒ x = 3, 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabola va y = 9x − 18 to'g'ri chiziq kesishish nuqtalari abssissalarini toping.",
+      "options": [
+        "3 va 7",
+        "2 va 6",
+        "-3 va -6",
+        "3 va 6"
+      ],
+      "answer": 3,
+      "explain": "x² = 9x − 18 ⇒ x² − 9x + 18 = 0 ⇒ x = 3, 6."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −9x + 20; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "1 ta",
+        "2 ta",
+        "Yechimi yo'q"
+      ],
+      "answer": 2,
+      "explain": "x² − (−9x + 20) = 0 ⇒ x = -5 va x = -4 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 3; x − y = 1} sistemadan x² − y² qiymatini toping.",
+      "answer": "3",
+      "explain": "x² − y² = (x + y)(x − y) = 3·1 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −8x + 15; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "4 ta",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−8x + 15) = 0 ⇒ x = -5 va x = -3 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 4; x − y = 2} sistemadan x² − y² qiymatini toping.",
+      "answer": "8",
+      "explain": "x² − y² = (x + y)(x − y) = 4·2 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −7x + 10; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−7x + 10) = 0 ⇒ x = -5 va x = -2 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 5; x − y = 3} sistemadan x² − y² qiymatini toping.",
+      "answer": "15",
+      "explain": "x² − y² = (x + y)(x − y) = 5·3 = 15."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −6x + 5; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "1 ta",
+        "Yechimi yo'q",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−6x + 5) = 0 ⇒ x = -5 va x = -1 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 6; x − y = 4} sistemadan x² − y² qiymatini toping.",
+      "answer": "24",
+      "explain": "x² − y² = (x + y)(x − y) = 6·4 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −5x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "1 ta",
+        "Yechimi yo'q",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−5x) = 0 ⇒ x = -5 va x = 0 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 7; x − y = 5} sistemadan x² − y² qiymatini toping.",
+      "answer": "35",
+      "explain": "x² − y² = (x + y)(x − y) = 7·5 = 35."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −4x − 5; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−4x − 5) = 0 ⇒ x = -5 va x = 1 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 8; x − y = 6} sistemadan x² − y² qiymatini toping.",
+      "answer": "48",
+      "explain": "x² − y² = (x + y)(x − y) = 8·6 = 48."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −3x − 10; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "1 ta",
+        "4 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−3x − 10) = 0 ⇒ x = -5 va x = 2 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 9; x − y = 7} sistemadan x² − y² qiymatini toping.",
+      "answer": "63",
+      "explain": "x² − y² = (x + y)(x − y) = 9·7 = 63."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −2x − 15; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "4 ta",
+        "2 ta",
+        "1 ta"
+      ],
+      "answer": 2,
+      "explain": "x² − (−2x − 15) = 0 ⇒ x = -5 va x = 3 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 10; x − y = 8} sistemadan x² − y² qiymatini toping.",
+      "answer": "80",
+      "explain": "x² − y² = (x + y)(x − y) = 10·8 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −x − 20; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−x − 20) = 0 ⇒ x = -5 va x = 4 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 11; x − y = 9} sistemadan x² − y² qiymatini toping.",
+      "answer": "99",
+      "explain": "x² − y² = (x + y)(x − y) = 11·9 = 99."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −25; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "2 ta",
+        "1 ta"
+      ],
+      "answer": 2,
+      "explain": "x² − (−25) = 0 ⇒ x = -5 va x = 5 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 12; x − y = 10} sistemadan x² − y² qiymatini toping.",
+      "answer": "120",
+      "explain": "x² − y² = (x + y)(x − y) = 12·10 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "{y = x − 30; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "2 ta",
+        "1 ta",
+        "Yechimi yo'q"
+      ],
+      "answer": 1,
+      "explain": "x² − (x − 30) = 0 ⇒ x = -5 va x = 6 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; x − y = 11} sistemadan x² − y² qiymatini toping.",
+      "answer": "143",
+      "explain": "x² − y² = (x + y)(x − y) = 13·11 = 143."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −7x + 12; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "1 ta",
+        "Yechimi yo'q",
+        "2 ta",
+        "4 ta"
+      ],
+      "answer": 2,
+      "explain": "x² − (−7x + 12) = 0 ⇒ x = -4 va x = -3 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 5; x − y = 1} sistemadan x² − y² qiymatini toping.",
+      "answer": "5",
+      "explain": "x² − y² = (x + y)(x − y) = 5·1 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −6x + 8; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "2 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "4 ta"
+      ],
+      "answer": 0,
+      "explain": "x² − (−6x + 8) = 0 ⇒ x = -4 va x = -2 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 6; x − y = 2} sistemadan x² − y² qiymatini toping.",
+      "answer": "12",
+      "explain": "x² − y² = (x + y)(x − y) = 6·2 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −5x + 4; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "1 ta",
+        "4 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−5x + 4) = 0 ⇒ x = -4 va x = -1 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 7; x − y = 3} sistemadan x² − y² qiymatini toping.",
+      "answer": "21",
+      "explain": "x² − y² = (x + y)(x − y) = 7·3 = 21."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −4x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "2 ta",
+        "4 ta",
+        "1 ta"
+      ],
+      "answer": 1,
+      "explain": "x² − (−4x) = 0 ⇒ x = -4 va x = 0 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 8; x − y = 4} sistemadan x² − y² qiymatini toping.",
+      "answer": "32",
+      "explain": "x² − y² = (x + y)(x − y) = 8·4 = 32."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −3x − 4; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "4 ta",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−3x − 4) = 0 ⇒ x = -4 va x = 1 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 9; x − y = 5} sistemadan x² − y² qiymatini toping.",
+      "answer": "45",
+      "explain": "x² − y² = (x + y)(x − y) = 9·5 = 45."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −2x − 8; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "1 ta",
+        "2 ta",
+        "Yechimi yo'q",
+        "4 ta"
+      ],
+      "answer": 1,
+      "explain": "x² − (−2x − 8) = 0 ⇒ x = -4 va x = 2 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 10; x − y = 6} sistemadan x² − y² qiymatini toping.",
+      "answer": "60",
+      "explain": "x² − y² = (x + y)(x − y) = 10·6 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −x − 12; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "1 ta",
+        "Yechimi yo'q",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−x − 12) = 0 ⇒ x = -4 va x = 3 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 11; x − y = 7} sistemadan x² − y² qiymatini toping.",
+      "answer": "77",
+      "explain": "x² − y² = (x + y)(x − y) = 11·7 = 77."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −16; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−16) = 0 ⇒ x = -4 va x = 4 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 12; x − y = 8} sistemadan x² − y² qiymatini toping.",
+      "answer": "96",
+      "explain": "x² − y² = (x + y)(x − y) = 12·8 = 96."
+    },
+    {
+      "type": "choice",
+      "q": "{y = x − 20; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "2 ta",
+        "1 ta"
+      ],
+      "answer": 2,
+      "explain": "x² − (x − 20) = 0 ⇒ x = -4 va x = 5 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; x − y = 9} sistemadan x² − y² qiymatini toping.",
+      "answer": "117",
+      "explain": "x² − y² = (x + y)(x − y) = 13·9 = 117."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 2x − 24; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "2 ta",
+        "4 ta",
+        "1 ta"
+      ],
+      "answer": 1,
+      "explain": "x² − (2x − 24) = 0 ⇒ x = -4 va x = 6 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 14; x − y = 10} sistemadan x² − y² qiymatini toping.",
+      "answer": "140",
+      "explain": "x² − y² = (x + y)(x − y) = 14·10 = 140."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −5x + 6; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "1 ta",
+        "2 ta",
+        "4 ta",
+        "Yechimi yo'q"
+      ],
+      "answer": 1,
+      "explain": "x² − (−5x + 6) = 0 ⇒ x = -3 va x = -2 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 7; x − y = 1} sistemadan x² − y² qiymatini toping.",
+      "answer": "7",
+      "explain": "x² − y² = (x + y)(x − y) = 7·1 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −4x + 3; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "4 ta",
+        "2 ta",
+        "1 ta"
+      ],
+      "answer": 2,
+      "explain": "x² − (−4x + 3) = 0 ⇒ x = -3 va x = -1 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 8; x − y = 2} sistemadan x² − y² qiymatini toping.",
+      "answer": "16",
+      "explain": "x² − y² = (x + y)(x − y) = 8·2 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −3x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "2 ta",
+        "1 ta"
+      ],
+      "answer": 2,
+      "explain": "x² − (−3x) = 0 ⇒ x = -3 va x = 0 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 9; x − y = 3} sistemadan x² − y² qiymatini toping.",
+      "answer": "27",
+      "explain": "x² − y² = (x + y)(x − y) = 9·3 = 27."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −2x − 3; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−2x − 3) = 0 ⇒ x = -3 va x = 1 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 10; x − y = 4} sistemadan x² − y² qiymatini toping.",
+      "answer": "40",
+      "explain": "x² − y² = (x + y)(x − y) = 10·4 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −x − 6; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−x − 6) = 0 ⇒ x = -3 va x = 2 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 11; x − y = 5} sistemadan x² − y² qiymatini toping.",
+      "answer": "55",
+      "explain": "x² − y² = (x + y)(x − y) = 11·5 = 55."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −9; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "1 ta",
+        "Yechimi yo'q",
+        "4 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−9) = 0 ⇒ x = -3 va x = 3 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 12; x − y = 6} sistemadan x² − y² qiymatini toping.",
+      "answer": "72",
+      "explain": "x² − y² = (x + y)(x − y) = 12·6 = 72."
+    },
+    {
+      "type": "choice",
+      "q": "{y = x − 12; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "2 ta",
+        "1 ta",
+        "4 ta"
+      ],
+      "answer": 1,
+      "explain": "x² − (x − 12) = 0 ⇒ x = -3 va x = 4 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; x − y = 7} sistemadan x² − y² qiymatini toping.",
+      "answer": "91",
+      "explain": "x² − y² = (x + y)(x − y) = 13·7 = 91."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 2x − 15; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "1 ta",
+        "4 ta",
+        "Yechimi yo'q",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (2x − 15) = 0 ⇒ x = -3 va x = 5 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 14; x − y = 8} sistemadan x² − y² qiymatini toping.",
+      "answer": "112",
+      "explain": "x² − y² = (x + y)(x − y) = 14·8 = 112."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 3x − 18; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "1 ta",
+        "4 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (3x − 18) = 0 ⇒ x = -3 va x = 6 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 15; x − y = 9} sistemadan x² − y² qiymatini toping.",
+      "answer": "135",
+      "explain": "x² − y² = (x + y)(x − y) = 15·9 = 135."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −3x + 2; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "1 ta",
+        "2 ta",
+        "Yechimi yo'q"
+      ],
+      "answer": 2,
+      "explain": "x² − (−3x + 2) = 0 ⇒ x = -2 va x = -1 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 9; x − y = 1} sistemadan x² − y² qiymatini toping.",
+      "answer": "9",
+      "explain": "x² − y² = (x + y)(x − y) = 9·1 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −2x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "1 ta",
+        "2 ta",
+        "4 ta",
+        "Yechimi yo'q"
+      ],
+      "answer": 1,
+      "explain": "x² − (−2x) = 0 ⇒ x = -2 va x = 0 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 10; x − y = 2} sistemadan x² − y² qiymatini toping.",
+      "answer": "20",
+      "explain": "x² − y² = (x + y)(x − y) = 10·2 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −x − 2; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "2 ta",
+        "1 ta",
+        "Yechimi yo'q"
+      ],
+      "answer": 1,
+      "explain": "x² − (−x − 2) = 0 ⇒ x = -2 va x = 1 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 11; x − y = 3} sistemadan x² − y² qiymatini toping.",
+      "answer": "33",
+      "explain": "x² − y² = (x + y)(x − y) = 11·3 = 33."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −4; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "2 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "4 ta"
+      ],
+      "answer": 0,
+      "explain": "x² − (−4) = 0 ⇒ x = -2 va x = 2 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 12; x − y = 4} sistemadan x² − y² qiymatini toping.",
+      "answer": "48",
+      "explain": "x² − y² = (x + y)(x − y) = 12·4 = 48."
+    },
+    {
+      "type": "choice",
+      "q": "{y = x − 6; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "1 ta",
+        "4 ta",
+        "Yechimi yo'q",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (x − 6) = 0 ⇒ x = -2 va x = 3 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; x − y = 5} sistemadan x² − y² qiymatini toping.",
+      "answer": "65",
+      "explain": "x² − y² = (x + y)(x − y) = 13·5 = 65."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 2x − 8; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "2 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "4 ta"
+      ],
+      "answer": 0,
+      "explain": "x² − (2x − 8) = 0 ⇒ x = -2 va x = 4 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 14; x − y = 6} sistemadan x² − y² qiymatini toping.",
+      "answer": "84",
+      "explain": "x² − y² = (x + y)(x − y) = 14·6 = 84."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 3x − 10; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "2 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "4 ta"
+      ],
+      "answer": 0,
+      "explain": "x² − (3x − 10) = 0 ⇒ x = -2 va x = 5 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 15; x − y = 7} sistemadan x² − y² qiymatini toping.",
+      "answer": "105",
+      "explain": "x² − y² = (x + y)(x − y) = 15·7 = 105."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 4x − 12; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "2 ta",
+        "Yechimi yo'q",
+        "4 ta",
+        "1 ta"
+      ],
+      "answer": 0,
+      "explain": "x² − (4x − 12) = 0 ⇒ x = -2 va x = 6 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 16; x − y = 8} sistemadan x² − y² qiymatini toping.",
+      "answer": "128",
+      "explain": "x² − y² = (x + y)(x − y) = 16·8 = 128."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−x) = 0 ⇒ x = -1 va x = 0 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 11; x − y = 1} sistemadan x² − y² qiymatini toping.",
+      "answer": "11",
+      "explain": "x² − y² = (x + y)(x − y) = 11·1 = 11."
+    },
+    {
+      "type": "choice",
+      "q": "{y = −1; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "1 ta",
+        "Yechimi yo'q",
+        "4 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (−1) = 0 ⇒ x = -1 va x = 1 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 12; x − y = 2} sistemadan x² − y² qiymatini toping.",
+      "answer": "24",
+      "explain": "x² − y² = (x + y)(x − y) = 12·2 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "{y = x − 2; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "2 ta",
+        "4 ta",
+        "1 ta",
+        "Yechimi yo'q"
+      ],
+      "answer": 0,
+      "explain": "x² − (x − 2) = 0 ⇒ x = -1 va x = 2 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; x − y = 3} sistemadan x² − y² qiymatini toping.",
+      "answer": "39",
+      "explain": "x² − y² = (x + y)(x − y) = 13·3 = 39."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 2x − 3; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "4 ta",
+        "Yechimi yo'q",
+        "2 ta",
+        "1 ta"
+      ],
+      "answer": 2,
+      "explain": "x² − (2x − 3) = 0 ⇒ x = -1 va x = 3 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 14; x − y = 4} sistemadan x² − y² qiymatini toping.",
+      "answer": "56",
+      "explain": "x² − y² = (x + y)(x − y) = 14·4 = 56."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 3x − 4; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "1 ta",
+        "4 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (3x − 4) = 0 ⇒ x = -1 va x = 4 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 15; x − y = 5} sistemadan x² − y² qiymatini toping.",
+      "answer": "75",
+      "explain": "x² − y² = (x + y)(x − y) = 15·5 = 75."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 4x − 5; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "2 ta",
+        "Yechimi yo'q",
+        "4 ta",
+        "1 ta"
+      ],
+      "answer": 0,
+      "explain": "x² − (4x − 5) = 0 ⇒ x = -1 va x = 5 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 16; x − y = 6} sistemadan x² − y² qiymatini toping.",
+      "answer": "96",
+      "explain": "x² − y² = (x + y)(x − y) = 16·6 = 96."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 5x − 6; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "2 ta",
+        "4 ta",
+        "1 ta"
+      ],
+      "answer": 1,
+      "explain": "x² − (5x − 6) = 0 ⇒ x = -1 va x = 6 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 17; x − y = 7} sistemadan x² − y² qiymatini toping.",
+      "answer": "119",
+      "explain": "x² − y² = (x + y)(x − y) = 17·7 = 119."
+    },
+    {
+      "type": "choice",
+      "q": "{y = x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "4 ta",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (x) = 0 ⇒ x = 0 va x = 1 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 13; x − y = 1} sistemadan x² − y² qiymatini toping.",
+      "answer": "13",
+      "explain": "x² − y² = (x + y)(x − y) = 13·1 = 13."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 2x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "1 ta",
+        "4 ta",
+        "Yechimi yo'q",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (2x) = 0 ⇒ x = 0 va x = 2 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 14; x − y = 2} sistemadan x² − y² qiymatini toping.",
+      "answer": "28",
+      "explain": "x² − y² = (x + y)(x − y) = 14·2 = 28."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 3x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "2 ta",
+        "1 ta",
+        "Yechimi yo'q",
+        "4 ta"
+      ],
+      "answer": 0,
+      "explain": "x² − (3x) = 0 ⇒ x = 0 va x = 3 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 15; x − y = 3} sistemadan x² − y² qiymatini toping.",
+      "answer": "45",
+      "explain": "x² − y² = (x + y)(x − y) = 15·3 = 45."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 4x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "2 ta",
+        "Yechimi yo'q",
+        "4 ta",
+        "1 ta"
+      ],
+      "answer": 0,
+      "explain": "x² − (4x) = 0 ⇒ x = 0 va x = 4 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 16; x − y = 4} sistemadan x² − y² qiymatini toping.",
+      "answer": "64",
+      "explain": "x² − y² = (x + y)(x − y) = 16·4 = 64."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 5x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "4 ta",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (5x) = 0 ⇒ x = 0 va x = 5 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 17; x − y = 5} sistemadan x² − y² qiymatini toping.",
+      "answer": "85",
+      "explain": "x² − y² = (x + y)(x − y) = 17·5 = 85."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 6x; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "4 ta",
+        "1 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (6x) = 0 ⇒ x = 0 va x = 6 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 18; x − y = 6} sistemadan x² − y² qiymatini toping.",
+      "answer": "108",
+      "explain": "x² − y² = (x + y)(x − y) = 18·6 = 108."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 3x + 2; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "2 ta",
+        "1 ta",
+        "Yechimi yo'q",
+        "4 ta"
+      ],
+      "answer": 0,
+      "explain": "x² − (3x + 2) = 0 ⇒ x = 1 va x = 2 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 15; x − y = 1} sistemadan x² − y² qiymatini toping.",
+      "answer": "15",
+      "explain": "x² − y² = (x + y)(x − y) = 15·1 = 15."
+    },
+    {
+      "type": "choice",
+      "q": "{y = 4x + 3; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?",
+      "options": [
+        "Yechimi yo'q",
+        "1 ta",
+        "4 ta",
+        "2 ta"
+      ],
+      "answer": 3,
+      "explain": "x² − (4x + 3) = 0 ⇒ x = 1 va x = 3 (2 ta yechim)."
+    },
+    {
+      "type": "fill",
+      "q": "{x + y = 16; x − y = 2} sistemadan x² − y² qiymatini toping.",
+      "answer": "32",
+      "explain": "x² − y² = (x + y)(x − y) = 16·2 = 32."
+    }
+  ],
+  "cards": [
+    [
+      "Sistema",
+      "Birgalikda yechiladigan tenglamalar to'plami"
+    ],
+    [
+      "Yechim",
+      "Sistemaning barcha tenglamalarini qanoatlantiruvchi (x; y) juftlik"
+    ],
+    [
+      "Viyet",
+      "x + y = s va xy = p sistemasini yechuvchi teorema"
+    ],
+    [
+      "Almashtirish",
+      "Bir noma'lumni ikkinchisi orqali ifodalash usuli"
+    ],
+    [
+      "Kesishish",
+      "Grafiklarning umumiy nuqtalari soni"
+    ],
+    [
+      "Parabola",
+      "Ikkinchi darajali funksiya grafigi"
+    ],
+    [
+      "Chiziq",
+      "Birinchi darajali tenglama grafigi"
+    ],
+    [
+      "To'rtburchak",
+      "Yuzi S = xy va perimetri P = 2(x+y) masala"
+    ],
+    [
+      "Simmetrik",
+      "x va y o'rnini almashtirganda o'zgarmaydigan sistema"
+    ],
+    [
+      "Gipotenuza",
+      "To'g'ri burchakli uchburchakda c² = a² + b²"
+    ],
+    [
+      "Juftlik",
+      "Tenglamalar sistemasining (x; y) ko'rinishidagi yechimi"
+    ],
+    [
+      "O'rniga qo'yish",
+      "Sodda sistemalarni yechishning asosiy usuli"
+    ],
+    [
+      "{x+y=s, xy=p}",
+      "t² − st + p = 0 kvadrat tenglamaga keltiriladi"
+    ],
+    [
+      "Grafik usul",
+      "Ikkita tenglama grafigi kesishish nuqtalarini topish"
+    ],
+    [
+      "Teng kuchli",
+      "Bir xil yechimlar to'plamiga ega sistemalar"
+    ],
+    [
+      "Urinish nuqtasi",
+      "To'g'ri chiziq va parabolaning 1 ta umumiy nuqtasi"
+    ],
+    [
+      "Chiziqli + kvadrat",
+      "Eng ko'pi bilan 2 ta yechimga ega sistema"
+    ],
+    [
+      "S = ab",
+      "To'g'ri to'rtburchak yuzi formulasi"
+    ],
+    [
+      "P = 2(a + b)",
+      "To'g'ri to'rtburchak perimetri formulasi"
+    ],
+    [
+      "Katetlar",
+      "Yuzi S = ab/2 va gipotenuzasi c bo'lgan tomonlar"
+    ],
+    [
+      "Yechimsiz",
+      "Grafiklar kesishmasa sistema yechimi bo'sh (∅)"
+    ],
+    [
+      "Kvadrat summa",
+      "x² + y² = (x + y)² − 2xy ayniyati"
+    ],
+    [
+      "Ayirma kvadrati",
+      "(x − y)² = (x + y)² − 4xy"
+    ],
+    [
+      "Ikki yechim",
+      "s² − 4p > 0 da Vieta sistemasi 2 juft yechim beradi"
+    ],
+    [
+      "Bir yechim",
+      "s² − 4p = 0 da x = y bo'lgan yagona juftlik"
+    ]
+  ]
+}

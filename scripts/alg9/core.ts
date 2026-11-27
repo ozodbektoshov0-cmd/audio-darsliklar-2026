@@ -250,7 +250,7 @@ export class TopicBuilder {
 
   build(targetMin = 330, targetMax = 350): QuizOutput {
     if (this.questions.length < targetMin) {
-      console.warn(`[LOW] ${this.id}: ${this.questions.length}`);
+      throw new Error(`Topic ${this.id} generated only ${this.questions.length} questions (need >= ${targetMin})`);
     }
     const finalQuestions = this.questions.slice(0, targetMax);
     if (this.cards.length < 22) {

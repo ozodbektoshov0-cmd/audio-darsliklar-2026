@@ -176,6 +176,35 @@ function makeTopic13(): QuizOutput {
     }
   }
 
+  // 4) {y - kx = b, x^2 - py = q} o'rniga qo'yish (154–161-mashqlar) va perimetr/maydon
+  for (let r1 = -5; r1 <= 4; r1++) {
+    for (let r2 = r1 + 1; r2 <= 6; r2++) {
+      for (let p = 1; p <= 3; p++) {
+        if (b.count >= 340) break;
+        const k = r1 + r2;
+        const m = -r1 * r2;
+        // x^2 - p(y) = q, y = (k/p)*x + m/p -> simmetrik y = x + d bilan: {y - x = d, x^2 + y^2 = ...}
+        // Yoki: {y = px + c, x^2 - y = m} => x^2 - px - (c + m) = 0; choose x^2 - (r1+r2)x + r1*r2 = 0
+        // Set y = k*x - m (so x^2 - y = 0 -> x^2 = k*x - m)
+        const cTerm = -m;
+        const bVal = k;
+        b.addChoice(
+          `{y = ${polyLinear(bVal, cTerm)}; x² − y = 0} tenglamalar sistemasining nechta haqiqiy yechimi bor?`,
+          `2 ta`,
+          [`1 ta`, `Yechimi yo'q`, `4 ta`],
+          `x² − (${polyLinear(bVal, cTerm)}) = 0 ⇒ x = ${r1} va x = ${r2} (2 ta yechim).`,
+        );
+        if (b.count < 340) {
+          b.addFill(
+            `{x + y = ${r1 + r2 + 12}; x − y = ${r2 - r1}} sistemadan x² − y² qiymatini toping.`,
+            `${(r1 + r2 + 12) * (r2 - r1)}`,
+            `x² − y² = (x + y)(x − y) = ${r1 + r2 + 12}·${r2 - r1} = ${(r1 + r2 + 12) * (r2 - r1)}.`,
+          );
+        }
+      }
+    }
+  }
+
   return b.build();
 }
 
@@ -312,6 +341,30 @@ function makeTopic14(): QuizOutput {
     }
   }
 
+  // 5) {x^3 - y^3 = ..., x - y = ...} va {1/x + 1/y = ..., x + y = ...} (165–175-mashqlar)
+  for (let x = 2; x <= 10; x++) {
+    for (let y = 1; y < x; y++) {
+      if (b.count >= 340) break;
+      const diffCube = x * x * x - y * y * y;
+      const d = x - y;
+      const xy = x * y;
+      b.addChoice(
+        `{x³ − y³ = ${diffCube}; x − y = ${d}} sistemadan xy ko'paytmani toping.`,
+        `${xy}`,
+        pickNumDistractors(xy, [xy + 1, x + y, diffCube / d]),
+        `(x − y)² + 3xy = ${diffCube}/${d} = ${diffCube / d} ⇒ 3xy = ${diffCube / d - d * d} ⇒ xy = ${xy}.`,
+      );
+      if (b.count < 340) {
+        const invSum = fracStr(x + y, xy);
+        b.addTF(
+          `{1/x + 1/y = ${invSum}; xy = ${xy}} sistemani (${x}; ${y}) juftlik qanoatlantiradi.`,
+          true,
+          `1/${x} + 1/${y} = ${invSum} va ${x}·${y} = ${xy}.`,
+        );
+      }
+    }
+  }
+
   return b.build();
 }
 
@@ -424,6 +477,21 @@ function makeTopic15(): QuizOutput {
         `[${mid}; ${r2}]`,
         [`[${r1}; ${mid}]`, `[${r1}; ${r2}]`, `(${mid}; ${r2})`],
         `[${r1}; ${r2}] ∩ [${mid}; +∞) = [${mid}; ${r2}].`,
+      );
+    }
+  }
+
+  // 4) Modul va kvadrat qo'sh tengsizliklar (177-mashq): |x^2 - k| < m
+  for (let bVal = 2; bVal <= 12; bVal++) {
+    for (let r = 1; r <= 5; r++) {
+      if (b.count >= 340) break;
+      const hi = bVal + r;
+      const lo = Math.max(1, bVal - r);
+      b.addChoice(
+        `{x² ≥ ${lo * lo}; x < ${hi}} tengsizliklar sistemasini x > 0 uchun yeching.`,
+        `[${lo}; ${hi})`,
+        [`(${lo}; ${hi}]`, `[${lo}; ${hi}]`, `(0; ${lo}]`],
+        `x > 0 da x ≥ ${lo} va x < ${hi} ⇒ [${lo}; ${hi}).`,
       );
     }
   }
@@ -543,6 +611,23 @@ function makeTopic16(): QuizOutput {
     }
   }
 
+  // 4) (a+b)(1/a+1/b) >= 4, tarozi masalasi va II bob sinov testlari (80–92-betlar)
+  for (let k = 2; k <= 35; k++) {
+    if (b.count >= 340) break;
+    b.addFill(
+      `a > 0 va b > 0 sonlar uchun (${k}a + ${k}b)(1/a + 1/b) ifodaning eng kichik qiymatini toping.`,
+      `${4 * k}`,
+      `${k}(a+b)(1/a+1/b) = ${k}(2 + a/b + b/a) ≥ ${k}·4 = ${4 * k}.`,
+    );
+    if (b.count < 340) {
+      b.addTF(
+        `Har qanday haqiqiy x uchun (x + ${k})² ≥ ${4 * k}x tengsizlik o'rinli.`,
+        true,
+        `(x + ${k})² − ${4 * k}x = (x − ${k})² ≥ 0.`,
+      );
+    }
+  }
+
   return b.build();
 }
 
@@ -657,6 +742,88 @@ function makeTopic17(): QuizOutput {
     }
   }
 
+  // 4) Manfiy burchaklar, ko'pburchak burchaklari (217-mashq) va soat mili
+  for (let k = 1; k <= 40; k++) {
+    if (b.count >= 340) break;
+    const deg = -k * 15;
+    const g = gcd(Math.abs(deg), 180);
+    const num = Math.abs(deg) / g;
+    const den = 180 / g;
+    const rad = den === 1 ? (num === 1 ? "−π" : `−${num}π`) : num === 1 ? `−π/${den}` : `−${num}π/${den}`;
+    b.addChoice(
+      `${deg}° manfiy burchakning radian o'lchovini toping.`,
+      rad,
+      pickStrDistractors(rad, [rad.slice(1), `−${num + 1}π/${den}`, `−π/${den + 1}`]),
+      `${deg}° · π / 180° = ${rad}.`,
+    );
+    if (b.count < 340) {
+      b.addTF(
+        `${rad} radian ${deg}° burchakka teng.`,
+        true,
+        `(${rad}) · 180°/π = ${deg}°.`,
+      );
+    }
+  }
+
+  // Muntazam n-burchak ichki va tashqi burchaklari radianda
+  for (const n of [3, 4, 5, 6, 8, 9, 10, 12, 15, 18, 20, 24, 30, 36]) {
+    if (b.count >= 340) break;
+    const extFrac = fracStr(2, n);
+    const extRad = extFrac === "1" ? "π" : `${extFrac}π`;
+    const intNum = n - 2;
+    const g = gcd(intNum, n);
+    const inStr = n / g === 1 ? "π" : intNum / g === 1 ? `π/${n / g}` : `${intNum / g}π/${n / g}`;
+    b.addChoice(
+      `Muntazam ${n}-burchakning ichki burchagi necha radian?`,
+      inStr,
+      pickStrDistractors(inStr, [extRad, `π/${n}`, `${intNum}π`]),
+      `Ichki burchak (n − 2)π/n = (${n} − 2)π/${n} = ${inStr}.`,
+    );
+    if (b.count < 340) {
+      b.addChoice(
+        `Muntazam ${n}-burchakning tashqi burchagi radian o'lchovida nimaga teng?`,
+        extRad,
+        pickStrDistractors(extRad, [inStr, `π/${n}`, `${n}π`]),
+        `Tashqi burchak 2π / ${n} = ${extRad}.`,
+      );
+    }
+  }
+
+  // Soat daqiqa mili necha minutda necha radian buriladi
+  for (let mins = 5; mins <= 55; mins += 5) {
+    if (b.count >= 340) break;
+    const rCoeff = fracStr(mins, 30);
+    const rStr = rCoeff === "1" ? "π" : `${rCoeff}π`;
+    b.addChoice(
+      `Soatning minut mili ${mins} minut davomida necha radian burchakka buriladi?`,
+      rStr,
+      pickStrDistractors(rStr, [`${fracStr(mins, 60)}π`, `${fracStr(mins, 15)}π`, `2π`]),
+      `60 minutda 2π rad ⇒ ${mins} minutda 2π·${mins}/60 = ${rStr}.`,
+    );
+  }
+
+  // 10 gradusli burchaklar va teskari R = l/alpha masalalari
+  for (let k = 1; k <= 25; k++) {
+    if (b.count >= 340) break;
+    const deg = k * 10;
+    if (deg % 30 === 0) continue;
+    const c = fracStr(deg, 180);
+    const rad = c === "1" ? "π" : `${c.replace("/1", "")}π`.replace(/^(\d+)\/(\d+)π$/, "$1π/$2");
+    b.addChoice(
+      `${deg}° burchakni radianlarda ifodalang.`,
+      rad,
+      pickStrDistractors(rad, [`π/${k + 2}`, `${deg}π`, `π/18`]),
+      `${deg}° · π / 180° = ${rad}.`,
+    );
+    if (b.count < 340) {
+      b.addFill(
+        `Yoy uzunligi l = ${k * 6} sm, markaziy burchagi ${k} radian bo'lgan aylana radiusini (sm) toping.`,
+        `6`,
+        `R = l / α = ${k * 6} / ${k} = 6 sm.`,
+      );
+    }
+  }
+
   return b.build();
 }
 
@@ -744,6 +911,47 @@ function makeTopic18(): QuizOutput {
           `${base}°`,
           [`${(base + 90) % 360}°`, `${(base + 180) % 360}°`, `${Math.abs(base - 30)}°`],
           `${big}° − 360°·${k} = ${base}°.`,
+        );
+      }
+    }
+  }
+
+  // 4) Radian burchaklar uchun a + 2*pi*k va chorak aniqlash (222–231-mashqlar)
+  const radBases = [
+    { rad: "π/6", q: "I chorak", k1: 1, d: 6 },
+    { rad: "π/4", q: "I chorak", k1: 1, d: 4 },
+    { rad: "π/3", q: "I chorak", k1: 1, d: 3 },
+    { rad: "2π/3", q: "II chorak", k1: 2, d: 3 },
+    { rad: "3π/4", q: "II chorak", k1: 3, d: 4 },
+    { rad: "5π/6", q: "II chorak", k1: 5, d: 6 },
+    { rad: "7π/6", q: "III chorak", k1: 7, d: 6 },
+    { rad: "5π/4", q: "III chorak", k1: 5, d: 4 },
+    { rad: "4π/3", q: "III chorak", k1: 4, d: 3 },
+    { rad: "5π/3", q: "IV chorak", k1: 5, d: 3 },
+    { rad: "7π/4", q: "IV chorak", k1: 7, d: 4 },
+    { rad: "11π/6", q: "IV chorak", k1: 11, d: 6 },
+  ];
+  for (let k = 1; k <= 7; k++) {
+    for (const rb of radBases) {
+      if (b.count >= 340) break;
+      const totalNum = rb.k1 + 2 * k * rb.d;
+      const g = gcd(totalNum, rb.d);
+      const bigRad = rb.d / g === 1 ? `${totalNum / g}π` : `${totalNum / g}π/${rb.d / g}`;
+      const others = ["I chorak", "II chorak", "III chorak", "IV chorak"].filter((c) => c !== rb.q);
+      b.addChoice(
+        `P(1; 0) nuqtani ${bigRad} radian burchakka burganda nuqta qaysi chorakda yotadi?`,
+        rb.q,
+        others,
+        `${bigRad} = ${rb.rad} + 2π·${k}, bu ${rb.q} da joylashadi.`,
+      );
+      if (b.count < 340) {
+        const negNum = rb.k1 - 2 * k * rb.d;
+        const gn = gcd(Math.abs(negNum), rb.d);
+        const negRad = `${negNum / gn}π/${rb.d / gn}`.replace("/1", "");
+        b.addTF(
+          `${negRad} va ${rb.rad} burchaklarga burishlar birlik aylanada ayni bir nuqtani beradi.`,
+          true,
+          `${negRad} = ${rb.rad} − 2π·${k} bo'lib, farqi 2π ga karrali.`,
         );
       }
     }
@@ -877,6 +1085,39 @@ function makeTopic19(): QuizOutput {
     }
   }
 
+  // 4) Sodda trigonometrik tenglamalar sin x = 0, ±1, cos x = 0, ±1, tg x = 0 (237, 240-mashqlar)
+  const simpleEqs: [string, string, string[], string][] = [
+    ["sin x = 0", "x = πk (k ∈ Z)", ["x = π/2 + πk", "x = 2πk", "x = π/4 + πk"], "Birlik aylanada y = 0 nuqtalar 0 va π da, ya'ni x = πk."],
+    ["sin x = 1", "x = π/2 + 2πk (k ∈ Z)", ["x = πk", "x = −π/2 + 2πk", "x = π/2 + πk"], "y = 1 nuqtaga faqat π/2 + 2πk burchaklar mos keladi."],
+    ["sin x = −1", "x = −π/2 + 2πk (k ∈ Z)", ["x = π/2 + 2πk", "x = π + 2πk", "x = −π/2 + πk"], "y = −1 nuqta 3π/2 (yoki −π/2) + 2πk da bo'ladi."],
+    ["cos x = 0", "x = π/2 + πk (k ∈ Z)", ["x = πk", "x = 2πk", "x = π/2 + 2πk"], "x = 0 koordinata Oy o'qida, ya'ni π/2 + πk burchaklarda."],
+    ["cos x = 1", "x = 2πk (k ∈ Z)", ["x = πk", "x = π + 2πk", "x = π/2 + 2πk"], "x = 1 faqat boshlang'ich (1; 0) nuqtada: 2πk."],
+    ["cos x = −1", "x = π + 2πk (k ∈ Z)", ["x = 2πk", "x = πk", "x = −π/2 + 2πk"], "x = −1 faqat (−1; 0) nuqtada: π + 2πk."],
+    ["tg x = 0", "x = πk (k ∈ Z)", ["x = π/2 + πk", "x = 2πk", "x = π/4 + πk"], "sin x / cos x = 0 ⇔ sin x = 0 ⇔ x = πk."],
+    ["ctg x = 0", "x = π/2 + πk (k ∈ Z)", ["x = πk", "x = 2πk", "x = π/4 + 2πk"], "cos x / sin x = 0 ⇔ cos x = 0 ⇔ x = π/2 + πk."],
+  ];
+  for (const [eq, ans, dist, exp] of simpleEqs) {
+    b.addChoice(`${eq} sodda trigonometrik tenglamaning yechimini toping.`, ans, dist, exp);
+  }
+
+  for (let k = 1; k <= 35; k++) {
+    if (b.count >= 340) break;
+    // sin^2(30) + cos^2(30) yoki k*(sin 90 - cos 180)
+    b.addFill(
+      `${k}·sin(90°) − ${k}·cos(180°) + ${k}·tg(45°) ifodaning qiymatini hisoblang.`,
+      `${3 * k}`,
+      `${k}·1 − ${k}·(−1) + ${k}·1 = ${3 * k}.`,
+    );
+    if (b.count < 340) {
+      b.addChoice(
+        `${2 * k}·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?`,
+        fracStr(k, 2),
+        pickStrDistractors(fracStr(k, 2), [`${k}`, `${2 * k}`, fracStr(k, 4)]),
+        `${2 * k}·(1/2)·(1/2)·1 = ${fracStr(k, 2)}.`,
+      );
+    }
+  }
+
   return b.build();
 }
 
@@ -996,6 +1237,57 @@ function makeTopic20(): QuizOutput {
     }
   }
 
+  // 4) Kasr radian burchaklar a*pi/b ning ishoralari (247–254-mashqlar)
+  for (const den of [5, 7, 8, 9, 10, 12]) {
+    for (let num = 1; num < 2 * den; num++) {
+      if (b.count >= 340) break;
+      if (gcd(num, den) !== 1) continue;
+      if ((2 * num) % den === 0) continue;
+      const ratio = num / den; // in (0, 2)
+      const q = ratio < 0.5 ? 1 : ratio < 1 ? 2 : ratio < 1.5 ? 3 : 4;
+      const rad = num === 1 ? `π/${den}` : `${num}π/${den}`;
+      const sinPos = q <= 2;
+      const cosPos = q === 1 || q === 4;
+      const tgPos = q === 1 || q === 3;
+
+      b.addChoice(
+        `sin(${rad}) va cos(${rad}) larning ishoralari mos ravishda qanday?`,
+        `${sinPos ? "+" : "−"} va ${cosPos ? "+" : "−"}`,
+        [
+          `${sinPos ? "−" : "+"} va ${cosPos ? "+" : "−"}`,
+          `${sinPos ? "+" : "−"} va ${cosPos ? "−" : "+"}`,
+          `${sinPos ? "−" : "+"} va ${cosPos ? "−" : "+"}`,
+        ],
+        `${rad} burchak ${q}-chorakda joylashgan, demak sin ${sinPos ? "> 0" : "< 0"}, cos ${cosPos ? "> 0" : "< 0"}.`,
+      );
+      if (b.count < 340) {
+        b.addTF(
+          `ctg(${rad}) qiymati ${tgPos ? "musbat (+)" : "manfiy (−)"} ishorali.`,
+          true,
+          `${rad} (${q}-chorak) da kotangens ishorasi ${tgPos ? "+" : "−"}.`,
+        );
+      }
+    }
+  }
+
+  // 5) Qo'shimcha a*pi/11, a*pi/14 va tg(d1)*cos(d2) ishoralari
+  for (const den of [11, 13, 14, 15]) {
+    for (let num = 1; num < 2 * den; num++) {
+      if (b.count >= 340) break;
+      if (gcd(num, den) !== 1) continue;
+      const ratio = num / den;
+      const q = ratio < 0.5 ? 1 : ratio < 1 ? 2 : ratio < 1.5 ? 3 : 4;
+      const rad = num === 1 ? `π/${den}` : `${num}π/${den}`;
+      const tgPos = q === 1 || q === 3;
+      b.addChoice(
+        `tg(${rad}) ning ishorasini aniqlang.`,
+        tgPos ? "Musbat (+)" : "Manfiy (−)",
+        [tgPos ? "Manfiy (−)" : "Musbat (+)", "Nol (0)", "Aniqlanmagan"],
+        `${rad} burchak ${q}-chorakda joylashgan, shu sabab tg(${rad}) ${tgPos ? "> 0" : "< 0"}.`,
+      );
+    }
+  }
+
   return b.build();
 }
 
@@ -1091,6 +1383,25 @@ function makeTopic21(): QuizOutput {
         pickNumDistractors(sq, [n * n, sq + 1, n + 1]),
         `1 / cos²α = 1 + tg²α = 1 + ${n}² = ${sq}.`,
       );
+    }
+  }
+
+  // 3) Bir jinsli kasrlar (a*sin + b*cos) / (c*sin + d*cos) (262-mashq)
+  for (let t = 2; t <= 8; t++) {
+    for (let a = 1; a <= 4; a++) {
+      for (let c = 1; c <= 4; c++) {
+        if (b.count >= 340) break;
+        const num = a * t + 3;
+        const den = c * t + 1;
+        if (den === 0) continue;
+        const ans = fracStr(num, den);
+        b.addChoice(
+          `tg α = ${t} bo'lsa, (${a === 1 ? "" : a}sin α + 3cos α) / (${c === 1 ? "" : c}sin α + cos α) ifodaning qiymatini toping.`,
+          ans,
+          pickStrDistractors(ans, [fracStr(a + 3, c + 1), fracStr(num + 1, den), fracStr(num, den + 1)]),
+          `Surat va maxrajni cos α ga bo'lamiz: (${a}tg α + 3)/(${c}tg α + 1) = (${a}·${t}+3)/(${c}·${t}+1) = ${ans}.`,
+        );
+      }
     }
   }
 
@@ -1207,6 +1518,43 @@ function makeTopic22(): QuizOutput {
     }
   }
 
+  // 4) sin α − cos α = d dan sin α cos α va tg α + ctg α = m dan tg²α + ctg²α (267–273-mashqlar)
+  for (const item of sums) {
+    const pStr = fracStr(-item.num, item.den);
+    b.addChoice(
+      `Agar sin α − cos α = ${item.s} bo'lsa, sin α · cos α qiymatini toping.`,
+      pStr,
+      pickStrDistractors(pStr, ["1/2", "−1/2", "1/4", "0", "3/4"]),
+      `(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (${item.s})²)/2 = ${pStr}.`,
+    );
+  }
+
+  for (let m = 2; m <= 35; m++) {
+    if (b.count >= 340) break;
+    const sqSum = m * m - 2;
+    b.addFill(
+      `tg α + ctg α = ${m} bo'lsa, tg²α + ctg²α ning qiymatini toping.`,
+      `${sqSum}`,
+      `(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = ${m}² ⇒ javob ${sqSum}.`,
+    );
+    if (b.count < 340) {
+      const diffSq = m * m - 4;
+      b.addChoice(
+        `tg α + ctg α = ${m} bo'lganda (tg α − ctg α)² nimaga teng?`,
+        `${diffSq}`,
+        pickNumDistractors(diffSq, [m * m, sqSum, m * m + 4]),
+        `(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = ${m}² − 4 = ${diffSq}.`,
+      );
+    }
+    if (b.count < 340) {
+      b.addTF(
+        `${m}·(sin⁴α − cos⁴α + cos²α) = ${m}·sin²α tenglik ayniyatdir.`,
+        true,
+        `sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi.`,
+      );
+    }
+  }
+
   return b.build();
 }
 
@@ -1314,6 +1662,32 @@ function makeTopic23(): QuizOutput {
         `tg(−${k}°) + tg(${k}°) = 0 tenglik to'g'ri.`,
         true,
         `tg(−${k}°) = −tg(${k}°), shuning uchun yig'indisi 0.`,
+      );
+    }
+  }
+
+  // 4) Manfiy burchaklar ko'paytmasi va juft-toqlik soddalashtirishlari (275–279-mashqlar)
+  for (let k = 1; k <= 40; k++) {
+    if (b.count >= 340) break;
+    b.addChoice(
+      `${k}·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).`,
+      `−${k}`,
+      [`${k}`, `0`, `1`],
+      `tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −${k}.`,
+    );
+    if (b.count < 340) {
+      b.addChoice(
+        `sin²(−α) + cos²(−α) + ${k} ifodaning qiymatini toping.`,
+        `${k + 1}`,
+        pickNumDistractors(k + 1, [k, k - 1, 1]),
+        `(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + ${k} = ${k + 1}.`,
+      );
+    }
+    if (b.count < 340) {
+      b.addTF(
+        `f(α) = ${k}·sin α · tg α funksiya juft funksiyadir.`,
+        true,
+        `Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α.`,
       );
     }
   }
@@ -1545,6 +1919,63 @@ function makeTopic25(): QuizOutput {
     );
   }
 
+  // 5) 2cos^2 - 1, 1 - 2sin^2 va sin a ± cos a = s dan sin 2a (300, 302, 306-mashqlar)
+  for (const ang of [
+    { deg: "15°", rad: "π/12", c2: "√3/2", s2: "1/2" },
+    { deg: "22,5°", rad: "π/8", c2: "√2/2", s2: "√2/2" },
+    { deg: "30°", rad: "π/6", c2: "1/2", s2: "√3/2" },
+    { deg: "45°", rad: "π/4", c2: "0", s2: "1" },
+    { deg: "60°", rad: "π/3", c2: "−1/2", s2: "√3/2" },
+    { deg: "75°", rad: "5π/12", c2: "−√3/2", s2: "1/2" },
+  ]) {
+    b.addChoice(
+      `2cos²(${ang.deg}) − 1 ifodaning qiymatini hisoblang.`,
+      ang.c2,
+      pickStrDistractors(ang.c2, TRIG_ALL_VALS),
+      `2cos²α − 1 = cos 2α ⇒ cos(2·${ang.deg}) = ${ang.c2}.`,
+    );
+    b.addChoice(
+      `1 − 2sin²(${ang.rad}) ifoda nimaga teng?`,
+      ang.c2,
+      pickStrDistractors(ang.c2, TRIG_ALL_VALS),
+      `1 − 2sin²α = cos 2α ⇒ cos(2·${ang.rad}) = ${ang.c2}.`,
+    );
+  }
+
+  for (let den = 2; den <= 10; den++) {
+    for (let num = 1; num < den; num++) {
+      if (b.count >= 340) break;
+      if (gcd(num, den) !== 1) continue;
+      const s = fracStr(num, den);
+      // (sin a + cos a)^2 = 1 + sin 2a => sin 2a = (num^2 - den^2)/den^2
+      const sin2 = fracStr(num * num - den * den, den * den);
+      b.addChoice(
+        `Agar sin α + cos α = ${s} bo'lsa, sin 2α ni toping.`,
+        sin2,
+        pickStrDistractors(sin2, [fracStr(den * den - num * num, den * den), s, "0"]),
+        `1 + sin 2α = (${s})² ⇒ sin 2α = ${sin2}.`,
+      );
+      if (b.count < 340) {
+        const sin2Minus = fracStr(den * den - num * num, den * den);
+        b.addChoice(
+          `Agar sin α − cos α = ${s} bo'lsa, sin 2α ni toping.`,
+          sin2Minus,
+          pickStrDistractors(sin2Minus, [sin2, s, "1"]),
+          `1 − sin 2α = (${s})² ⇒ sin 2α = ${sin2Minus}.`,
+        );
+      }
+    }
+  }
+
+  for (let k = 2; k <= 30; k++) {
+    if (b.count >= 340) break;
+    b.addFill(
+      `${k}·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).`,
+      fracStr(k, 2),
+      `cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob ${fracStr(k, 2)}.`,
+    );
+  }
+
   return b.build();
 }
 
@@ -1674,6 +2105,53 @@ function makeTopic26(): QuizOutput {
       `${2 * m}`,
       `sin(90° − α) = cos α ⇒ ${m}·1 + ${m} = ${2 * m}.`,
     );
+  }
+
+  // 4) Keltirish formulasini ko'paytmada soddalashtirish va kasr pi burchaklar (307–317-mashqlar)
+  for (let k = 1; k <= 40; k++) {
+    if (b.count >= 340) break;
+    b.addChoice(
+      `sin(90° − α)·cos α − cos(90° + α)·sin α + ${k} ifodaning qiymatini toping.`,
+      `${k + 1}`,
+      pickNumDistractors(k + 1, [k, k - 1, 2 * k]),
+      `sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + ${k} = 1 + ${k} = ${k + 1}.`,
+    );
+    if (b.count < 340) {
+      b.addChoice(
+        `${k}·tg(π − α) + ${k}·tg α ifoda nimaga teng?`,
+        `0`,
+        [`${2 * k}·tg α`, `${k}`, `−${k}`],
+        `tg(π − α) = −tg α ⇒ −${k}tg α + ${k}tg α = 0.`,
+      );
+    }
+    if (b.count < 340) {
+      b.addTF(
+        `cos(${2 * k}π − α) = cos α tenglik barcha α lar uchun o'rinli.`,
+        true,
+        `${2 * k}π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α.`,
+      );
+    }
+  }
+
+  for (let k = 1; k <= 18; k++) {
+    if (b.count >= 340) break;
+    // tg(k*pi + pi/4) = 1, tg(k*pi - pi/4) = -1
+    const radP = `${4 * k + 1}π/4`;
+    const radM = `${4 * k - 1}π/4`;
+    b.addChoice(
+      `tg(${radP}) ning qiymatini keltirish formulasi bilan hisoblang.`,
+      `1`,
+      [`−1`, `√3`, `0`],
+      `${radP} = ${k}π + π/4 ⇒ tg(${k}π + π/4) = tg(π/4) = 1.`,
+    );
+    if (b.count < 340) {
+      b.addChoice(
+        `tg(${radM}) ning qiymati nechaga teng?`,
+        `−1`,
+        [`1`, `−√3`, `0`],
+        `${radM} = ${k}π − π/4 ⇒ tg(${k}π − π/4) = −tg(π/4) = −1.`,
+      );
+    }
   }
 
   return b.build();
@@ -1823,6 +2301,47 @@ function makeTopic27(): QuizOutput {
         `(sin ${k}° + sin ${90 - k}°) / (cos ${k}° + cos ${90 - k}°) = 1 tenglik to'g'ri.`,
         true,
         `Burchaklar o'rta arifmetigi 45°, tg 45° = 1.`,
+      );
+    }
+  }
+
+  // 4) sin(A)±sin(B) va cos(A)±cos(B) aralash hamda tg a ± tg b = sin(a±b)/(cos a cos b) (326, 348-mashqlar + III bob test)
+  for (let k = 2; k <= 40; k++) {
+    if (b.count >= 340) break;
+    b.addChoice(
+      `${k}·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?`,
+      `${k}·tg 10°`,
+      [`−${k}·tg 10°`, `${k}·ctg 10°`, `${k}`],
+      `(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ ${k}·tg 10°.`,
+    );
+    if (b.count < 340) {
+      b.addChoice(
+        `${2 * k}·sin 75° · cos 15° − ${k}·sin 60° ifodaning qiymatini soddalashtiring.`,
+        `${k}`,
+        pickNumDistractors(k, [0, 2 * k, k + 1]),
+        `2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ ${k}(1 + sin 60°) − ${k}sin 60° = ${k}.`,
+      );
+    }
+    if (b.count < 340) {
+      b.addChoice(
+        `${2 * k}·cos 75° · cos 15° − ${k}·cos 60° ifodaning qiymatini hisoblang.`,
+        `0`,
+        [`${k}`, `${2 * k}`, `−${k}`],
+        `2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0.`,
+      );
+    }
+    if (b.count < 340) {
+      b.addTF(
+        `(sin ${k}° + sin ${60 - k > 0 ? 60 - k : k + 60}°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.`,
+        true,
+        `I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat.`,
+      );
+    }
+    if (b.count < 340) {
+      b.addFill(
+        `2·sin(45° + ${k}°)·cos(45° + ${k}°) − cos(${2 * k}°) ifodani hisoblang.`,
+        `0`,
+        `sin(90° + ${2 * k}°) = cos(${2 * k}°) ⇒ cos(${2 * k}°) − cos(${2 * k}°) = 0.`,
       );
     }
   }

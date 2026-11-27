@@ -1,0 +1,3176 @@
+{
+  "id": "g9-uz-algebra-14-sistemalar-usullari",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "14-§. Tenglamalar sistemasini yechishning turli usullari",
+  "title": "14-§. Tenglamalar sistemasini yechishning turli usullari",
+  "source": "Algebra 9-sinf (2019), II bob, 14-§, 72–77-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "x² + y² = R² tenglamaning koordinata tekisligidagi grafigi nima?",
+      "options": [
+        "Markazi (0; 0), radiusi R bo'lgan aylana",
+        "To'g'ri chiziq",
+        "Giperbola",
+        "Parabola"
+      ],
+      "answer": 0,
+      "explain": "x² + y² = R² — markazi koordinata boshida, radiusi R ga teng aylana tenglamasi."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = a; x² + y² = b} simmetrik sistemani yechishda xy ni qaysi ayniyat orqali topish qulay?",
+      "options": [
+        "xy = ((x + y)² − (x² + y²)) / 2",
+        "xy = (x + y)² + x² + y²",
+        "xy = a − b",
+        "xy = √(a·b)"
+      ],
+      "answer": 0,
+      "explain": "(x + y)² = x² + y² + 2xy ayniyatidan 2xy = a² − b kelib chiqadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "Ikki ikkinchi darajali tenglama sistemasi 4 tagacha yechimga ega bo'lishi mumkin.",
+      "answer": true,
+      "explain": "Masalan, aylana va giperbola 4 nuqtada kesishishi mumkin."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − y² = 12 va x − y = 3 sistemadan x + y = 9 kelib chiqadi.",
+      "answer": false,
+      "explain": "(x − y)(x + y) = 12 dan x + y = 12 / 3 = 4 bo'ladi."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 8; x + y = 4} sistemadan x − y qiymatini toping.",
+      "answer": "2",
+      "explain": "(x − y)(x + y) = 8 ⇒ x − y = 8 / 4 = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 13; x − y = 1} sistemani (3; 2) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "3² + 2² = 13 va 3 − 2 = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 17; x − y = 3} sistemani (4; 1) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "4² + 1² = 17 va 4 − 1 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 12; x − y = 2} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(4; 2)",
+        "(5; 2)",
+        "(2; 4)",
+        "(4; 3)"
+      ],
+      "answer": 0,
+      "explain": "x + y = 12/2 = 6 va x − y = 2 ⇒ x = 4, y = 2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 7; x + y = 7} sistemadan x − y qiymatini toping.",
+      "answer": "1",
+      "explain": "(x − y)(x + y) = 7 ⇒ x − y = 7 / 7 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 24; x − y = 4} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(1; 5)",
+        "(6; 1)",
+        "(5; 2)",
+        "(5; 1)"
+      ],
+      "answer": 3,
+      "explain": "x + y = 24/4 = 6 va x − y = 4 ⇒ x = 5, y = 1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 21; x + y = 7} sistemadan x − y qiymatini toping.",
+      "answer": "3",
+      "explain": "(x − y)(x + y) = 21 ⇒ x − y = 21 / 7 = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 34; x − y = 2} sistemani (5; 3) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "5² + 3² = 34 va 5 − 3 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 9; x − y = 1} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(6; 4)",
+        "(5; 5)",
+        "(4; 5)",
+        "(5; 4)"
+      ],
+      "answer": 3,
+      "explain": "x + y = 9/1 = 9 va x − y = 1 ⇒ x = 5, y = 4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 35; x + y = 7} sistemadan x − y qiymatini toping.",
+      "answer": "5",
+      "explain": "(x − y)(x + y) = 35 ⇒ x − y = 35 / 7 = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 40; x − y = 4} sistemani (6; 2) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "6² + 2² = 40 va 6 − 2 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 27; x − y = 3} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(3; 6)",
+        "(7; 3)",
+        "(6; 3)",
+        "(6; 4)"
+      ],
+      "answer": 2,
+      "explain": "x + y = 27/3 = 9 va x − y = 3 ⇒ x = 6, y = 3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 20; x + y = 10} sistemadan x − y qiymatini toping.",
+      "answer": "2",
+      "explain": "(x − y)(x + y) = 20 ⇒ x − y = 20 / 10 = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 61; x − y = 1} sistemani (6; 5) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "6² + 5² = 61 va 6 − 5 = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 50; x − y = 6} sistemani (7; 1) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "7² + 1² = 50 va 7 − 1 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 45; x − y = 5} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(7; 3)",
+        "(8; 2)",
+        "(7; 2)",
+        "(2; 7)"
+      ],
+      "answer": 2,
+      "explain": "x + y = 45/5 = 9 va x − y = 5 ⇒ x = 7, y = 2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 40; x + y = 10} sistemadan x − y qiymatini toping.",
+      "answer": "4",
+      "explain": "(x − y)(x + y) = 40 ⇒ x − y = 40 / 10 = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 65; x − y = 3} sistemani (7; 4) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "7² + 4² = 65 va 7 − 4 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 24; x − y = 2} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(8; 5)",
+        "(5; 7)",
+        "(7; 6)",
+        "(7; 5)"
+      ],
+      "answer": 3,
+      "explain": "x + y = 24/2 = 12 va x − y = 2 ⇒ x = 7, y = 5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 13; x + y = 13} sistemadan x − y qiymatini toping.",
+      "answer": "1",
+      "explain": "(x − y)(x + y) = 13 ⇒ x − y = 13 / 13 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 63; x − y = 7} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(8; 1)",
+        "(8; 2)",
+        "(9; 1)",
+        "(1; 8)"
+      ],
+      "answer": 0,
+      "explain": "x + y = 63/7 = 9 va x − y = 7 ⇒ x = 8, y = 1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 60; x + y = 10} sistemadan x − y qiymatini toping.",
+      "answer": "6",
+      "explain": "(x − y)(x + y) = 60 ⇒ x − y = 60 / 10 = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 73; x − y = 5} sistemani (8; 3) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "8² + 3² = 73 va 8 − 3 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 48; x − y = 4} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(4; 8)",
+        "(9; 4)",
+        "(8; 5)",
+        "(8; 4)"
+      ],
+      "answer": 3,
+      "explain": "x + y = 48/4 = 12 va x − y = 4 ⇒ x = 8, y = 4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 39; x + y = 13} sistemadan x − y qiymatini toping.",
+      "answer": "3",
+      "explain": "(x − y)(x + y) = 39 ⇒ x − y = 39 / 13 = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 100; x − y = 2} sistemani (8; 6) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "8² + 6² = 100 va 8 − 6 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 15; x − y = 1} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(7; 8)",
+        "(8; 7)",
+        "(8; 8)",
+        "(9; 7)"
+      ],
+      "answer": 1,
+      "explain": "x + y = 15/1 = 15 va x − y = 1 ⇒ x = 8, y = 7."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 80; x + y = 10} sistemadan x − y qiymatini toping.",
+      "answer": "8",
+      "explain": "(x − y)(x + y) = 80 ⇒ x − y = 80 / 10 = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 85; x − y = 7} sistemani (9; 2) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "9² + 2² = 85 va 9 − 2 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 72; x − y = 6} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(3; 9)",
+        "(10; 3)",
+        "(9; 3)",
+        "(9; 4)"
+      ],
+      "answer": 2,
+      "explain": "x + y = 72/6 = 12 va x − y = 6 ⇒ x = 9, y = 3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 65; x + y = 13} sistemadan x − y qiymatini toping.",
+      "answer": "5",
+      "explain": "(x − y)(x + y) = 65 ⇒ x − y = 65 / 13 = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 106; x − y = 4} sistemani (9; 5) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "9² + 5² = 106 va 9 − 5 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 45; x − y = 3} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(9; 7)",
+        "(10; 6)",
+        "(9; 6)",
+        "(6; 9)"
+      ],
+      "answer": 2,
+      "explain": "x + y = 45/3 = 15 va x − y = 3 ⇒ x = 9, y = 6."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 32; x + y = 16} sistemadan x − y qiymatini toping.",
+      "answer": "2",
+      "explain": "(x − y)(x + y) = 32 ⇒ x − y = 32 / 16 = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 145; x − y = 1} sistemani (9; 8) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "9² + 8² = 145 va 9 − 8 = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 101; x − y = 9} sistemani (10; 1) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "10² + 1² = 101 va 10 − 1 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 96; x − y = 8} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(10; 3)",
+        "(2; 10)",
+        "(11; 2)",
+        "(10; 2)"
+      ],
+      "answer": 3,
+      "explain": "x + y = 96/8 = 12 va x − y = 8 ⇒ x = 10, y = 2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 91; x + y = 13} sistemadan x − y qiymatini toping.",
+      "answer": "7",
+      "explain": "(x − y)(x + y) = 91 ⇒ x − y = 91 / 13 = 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 116; x − y = 6} sistemani (10; 4) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "10² + 4² = 116 va 10 − 4 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 75; x − y = 5} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(10; 5)",
+        "(5; 10)",
+        "(10; 6)",
+        "(11; 5)"
+      ],
+      "answer": 0,
+      "explain": "x + y = 75/5 = 15 va x − y = 5 ⇒ x = 10, y = 5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 64; x + y = 16} sistemadan x − y qiymatini toping.",
+      "answer": "4",
+      "explain": "(x − y)(x + y) = 64 ⇒ x − y = 64 / 16 = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 149; x − y = 3} sistemani (10; 7) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "10² + 7² = 149 va 10 − 7 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 36; x − y = 2} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(8; 10)",
+        "(10; 9)",
+        "(11; 8)",
+        "(10; 8)"
+      ],
+      "answer": 3,
+      "explain": "x + y = 36/2 = 18 va x − y = 2 ⇒ x = 10, y = 8."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 19; x + y = 19} sistemadan x − y qiymatini toping.",
+      "answer": "1",
+      "explain": "(x − y)(x + y) = 19 ⇒ x − y = 19 / 19 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 120; x − y = 10} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(11; 1)",
+        "(1; 11)",
+        "(12; 1)",
+        "(11; 2)"
+      ],
+      "answer": 0,
+      "explain": "x + y = 120/10 = 12 va x − y = 10 ⇒ x = 11, y = 1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 117; x + y = 13} sistemadan x − y qiymatini toping.",
+      "answer": "9",
+      "explain": "(x − y)(x + y) = 117 ⇒ x − y = 117 / 13 = 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 130; x − y = 8} sistemani (11; 3) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "11² + 3² = 130 va 11 − 3 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 105; x − y = 7} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(12; 4)",
+        "(11; 4)",
+        "(4; 11)",
+        "(11; 5)"
+      ],
+      "answer": 1,
+      "explain": "x + y = 105/7 = 15 va x − y = 7 ⇒ x = 11, y = 4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 96; x + y = 16} sistemadan x − y qiymatini toping.",
+      "answer": "6",
+      "explain": "(x − y)(x + y) = 96 ⇒ x − y = 96 / 16 = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 157; x − y = 5} sistemani (11; 6) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "11² + 6² = 157 va 11 − 6 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 72; x − y = 4} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(11; 8)",
+        "(11; 7)",
+        "(12; 7)",
+        "(7; 11)"
+      ],
+      "answer": 1,
+      "explain": "x + y = 72/4 = 18 va x − y = 4 ⇒ x = 11, y = 7."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 57; x + y = 19} sistemadan x − y qiymatini toping.",
+      "answer": "3",
+      "explain": "(x − y)(x + y) = 57 ⇒ x − y = 57 / 19 = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 202; x − y = 2} sistemani (11; 9) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "11² + 9² = 202 va 11 − 9 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 21; x − y = 1} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(11; 10)",
+        "(12; 10)",
+        "(11; 11)",
+        "(10; 11)"
+      ],
+      "answer": 0,
+      "explain": "x + y = 21/1 = 21 va x − y = 1 ⇒ x = 11, y = 10."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 143; x + y = 13} sistemadan x − y qiymatini toping.",
+      "answer": "11",
+      "explain": "(x − y)(x + y) = 143 ⇒ x − y = 143 / 13 = 11."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 148; x − y = 10} sistemani (12; 2) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "12² + 2² = 148 va 12 − 2 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 135; x − y = 9} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(12; 4)",
+        "(12; 3)",
+        "(13; 3)",
+        "(3; 12)"
+      ],
+      "answer": 1,
+      "explain": "x + y = 135/9 = 15 va x − y = 9 ⇒ x = 12, y = 3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 128; x + y = 16} sistemadan x − y qiymatini toping.",
+      "answer": "8",
+      "explain": "(x − y)(x + y) = 128 ⇒ x − y = 128 / 16 = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 169; x − y = 7} sistemani (12; 5) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "12² + 5² = 169 va 12 − 5 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 108; x − y = 6} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(6; 12)",
+        "(12; 7)",
+        "(13; 6)",
+        "(12; 6)"
+      ],
+      "answer": 3,
+      "explain": "x + y = 108/6 = 18 va x − y = 6 ⇒ x = 12, y = 6."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 95; x + y = 19} sistemadan x − y qiymatini toping.",
+      "answer": "5",
+      "explain": "(x − y)(x + y) = 95 ⇒ x − y = 95 / 19 = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 208; x − y = 4} sistemani (12; 8) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "12² + 8² = 208 va 12 − 8 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 63; x − y = 3} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(12; 10)",
+        "(12; 9)",
+        "(9; 12)",
+        "(13; 9)"
+      ],
+      "answer": 1,
+      "explain": "x + y = 63/3 = 21 va x − y = 3 ⇒ x = 12, y = 9."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 44; x + y = 22} sistemadan x − y qiymatini toping.",
+      "answer": "2",
+      "explain": "(x − y)(x + y) = 44 ⇒ x − y = 44 / 22 = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 265; x − y = 1} sistemani (12; 11) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "12² + 11² = 265 va 12 − 11 = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 170; x − y = 12} sistemani (13; 1) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "13² + 1² = 170 va 13 − 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 165; x − y = 11} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(2; 13)",
+        "(13; 2)",
+        "(13; 3)",
+        "(14; 2)"
+      ],
+      "answer": 1,
+      "explain": "x + y = 165/11 = 15 va x − y = 11 ⇒ x = 13, y = 2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 160; x + y = 16} sistemadan x − y qiymatini toping.",
+      "answer": "10",
+      "explain": "(x − y)(x + y) = 160 ⇒ x − y = 160 / 16 = 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 185; x − y = 9} sistemani (13; 4) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "13² + 4² = 185 va 13 − 4 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 144; x − y = 8} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(13; 6)",
+        "(13; 5)",
+        "(5; 13)",
+        "(14; 5)"
+      ],
+      "answer": 1,
+      "explain": "x + y = 144/8 = 18 va x − y = 8 ⇒ x = 13, y = 5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 133; x + y = 19} sistemadan x − y qiymatini toping.",
+      "answer": "7",
+      "explain": "(x − y)(x + y) = 133 ⇒ x − y = 133 / 19 = 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 218; x − y = 6} sistemani (13; 7) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "13² + 7² = 218 va 13 − 7 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 105; x − y = 5} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(13; 8)",
+        "(14; 8)",
+        "(13; 9)",
+        "(8; 13)"
+      ],
+      "answer": 0,
+      "explain": "x + y = 105/5 = 21 va x − y = 5 ⇒ x = 13, y = 8."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 88; x + y = 22} sistemadan x − y qiymatini toping.",
+      "answer": "4",
+      "explain": "(x − y)(x + y) = 88 ⇒ x − y = 88 / 22 = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 269; x − y = 3} sistemani (13; 10) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "13² + 10² = 269 va 13 − 10 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 48; x − y = 2} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(11; 13)",
+        "(13; 11)",
+        "(14; 11)",
+        "(13; 12)"
+      ],
+      "answer": 1,
+      "explain": "x + y = 48/2 = 24 va x − y = 2 ⇒ x = 13, y = 11."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 25; x + y = 25} sistemadan x − y qiymatini toping.",
+      "answer": "1",
+      "explain": "(x − y)(x + y) = 25 ⇒ x − y = 25 / 25 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 195; x − y = 13} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(14; 1)",
+        "(14; 2)",
+        "(1; 14)",
+        "(15; 1)"
+      ],
+      "answer": 0,
+      "explain": "x + y = 195/13 = 15 va x − y = 13 ⇒ x = 14, y = 1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 192; x + y = 16} sistemadan x − y qiymatini toping.",
+      "answer": "12",
+      "explain": "(x − y)(x + y) = 192 ⇒ x − y = 192 / 16 = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 205; x − y = 11} sistemani (14; 3) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "14² + 3² = 205 va 14 − 3 = 11."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 180; x − y = 10} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(15; 4)",
+        "(14; 4)",
+        "(14; 5)",
+        "(4; 14)"
+      ],
+      "answer": 1,
+      "explain": "x + y = 180/10 = 18 va x − y = 10 ⇒ x = 14, y = 4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 171; x + y = 19} sistemadan x − y qiymatini toping.",
+      "answer": "9",
+      "explain": "(x − y)(x + y) = 171 ⇒ x − y = 171 / 19 = 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 232; x − y = 8} sistemani (14; 6) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "14² + 6² = 232 va 14 − 6 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 147; x − y = 7} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(7; 14)",
+        "(15; 7)",
+        "(14; 7)",
+        "(14; 8)"
+      ],
+      "answer": 2,
+      "explain": "x + y = 147/7 = 21 va x − y = 7 ⇒ x = 14, y = 7."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 132; x + y = 22} sistemadan x − y qiymatini toping.",
+      "answer": "6",
+      "explain": "(x − y)(x + y) = 132 ⇒ x − y = 132 / 22 = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 277; x − y = 5} sistemani (14; 9) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "14² + 9² = 277 va 14 − 9 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 96; x − y = 4} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(14; 10)",
+        "(15; 10)",
+        "(10; 14)",
+        "(14; 11)"
+      ],
+      "answer": 0,
+      "explain": "x + y = 96/4 = 24 va x − y = 4 ⇒ x = 14, y = 10."
+    },
+    {
+      "type": "fill",
+      "q": "{x² − y² = 75; x + y = 25} sistemadan x − y qiymatini toping.",
+      "answer": "3",
+      "explain": "(x − y)(x + y) = 75 ⇒ x − y = 75 / 25 = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "{x² + y² = 340; x − y = 2} sistemani (14; 12) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "14² + 12² = 340 va 14 − 12 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² − y² = 27; x − y = 1} sistemani yechib (x; y) juftlikni toping.",
+      "options": [
+        "(14; 14)",
+        "(13; 14)",
+        "(15; 13)",
+        "(14; 13)"
+      ],
+      "answer": 3,
+      "explain": "x + y = 27/1 = 27 va x − y = 1 ⇒ x = 14, y = 13."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri burchakli uchburchakning gipotenuzasi 5 sm, katetlari yig'indisi 7 sm. Uning yuzini (sm²) toping.",
+      "answer": "6",
+      "explain": "a² + b² = 25, a + b = 7 ⇒ katetlar 3 va 4. S = 3·4/2 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "To'g'ri to'rtburchakning diagonali 5 sm, yuzi 12 sm². Uning perimetri necha sm?",
+      "options": [
+        "7",
+        "10",
+        "14",
+        "18"
+      ],
+      "answer": 2,
+      "explain": "(a + b)² = a² + b² + 2ab = 25 + 24 = 49 ⇒ P = 2(7) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri burchakli uchburchakning gipotenuzasi 10 sm, katetlari yig'indisi 14 sm. Uning yuzini (sm²) toping.",
+      "answer": "24",
+      "explain": "a² + b² = 100, a + b = 14 ⇒ katetlar 6 va 8. S = 6·8/2 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "To'g'ri to'rtburchakning diagonali 10 sm, yuzi 48 sm². Uning perimetri necha sm?",
+      "options": [
+        "20",
+        "28",
+        "32",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "(a + b)² = a² + b² + 2ab = 100 + 96 = 196 ⇒ P = 2(14) = 28."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri burchakli uchburchakning gipotenuzasi 13 sm, katetlari yig'indisi 17 sm. Uning yuzini (sm²) toping.",
+      "answer": "30",
+      "explain": "a² + b² = 169, a + b = 17 ⇒ katetlar 5 va 12. S = 5·12/2 = 30."
+    },
+    {
+      "type": "choice",
+      "q": "To'g'ri to'rtburchakning diagonali 13 sm, yuzi 60 sm². Uning perimetri necha sm?",
+      "options": [
+        "26",
+        "17",
+        "34",
+        "38"
+      ],
+      "answer": 2,
+      "explain": "(a + b)² = a² + b² + 2ab = 169 + 120 = 289 ⇒ P = 2(17) = 34."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri burchakli uchburchakning gipotenuzasi 17 sm, katetlari yig'indisi 23 sm. Uning yuzini (sm²) toping.",
+      "answer": "60",
+      "explain": "a² + b² = 289, a + b = 23 ⇒ katetlar 8 va 15. S = 8·15/2 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "To'g'ri to'rtburchakning diagonali 17 sm, yuzi 120 sm². Uning perimetri necha sm?",
+      "options": [
+        "23",
+        "50",
+        "34",
+        "46"
+      ],
+      "answer": 3,
+      "explain": "(a + b)² = a² + b² + 2ab = 289 + 240 = 529 ⇒ P = 2(23) = 46."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri burchakli uchburchakning gipotenuzasi 15 sm, katetlari yig'indisi 21 sm. Uning yuzini (sm²) toping.",
+      "answer": "54",
+      "explain": "a² + b² = 225, a + b = 21 ⇒ katetlar 9 va 12. S = 9·12/2 = 54."
+    },
+    {
+      "type": "choice",
+      "q": "To'g'ri to'rtburchakning diagonali 15 sm, yuzi 108 sm². Uning perimetri necha sm?",
+      "options": [
+        "46",
+        "30",
+        "21",
+        "42"
+      ],
+      "answer": 3,
+      "explain": "(a + b)² = a² + b² + 2ab = 225 + 216 = 441 ⇒ P = 2(21) = 42."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri burchakli uchburchakning gipotenuzasi 25 sm, katetlari yig'indisi 31 sm. Uning yuzini (sm²) toping.",
+      "answer": "84",
+      "explain": "a² + b² = 625, a + b = 31 ⇒ katetlar 7 va 24. S = 7·24/2 = 84."
+    },
+    {
+      "type": "choice",
+      "q": "To'g'ri to'rtburchakning diagonali 25 sm, yuzi 168 sm². Uning perimetri necha sm?",
+      "options": [
+        "31",
+        "62",
+        "66",
+        "50"
+      ],
+      "answer": 1,
+      "explain": "(a + b)² = a² + b² + 2ab = 625 + 336 = 961 ⇒ P = 2(31) = 62."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri burchakli uchburchakning gipotenuzasi 20 sm, katetlari yig'indisi 28 sm. Uning yuzini (sm²) toping.",
+      "answer": "96",
+      "explain": "a² + b² = 400, a + b = 28 ⇒ katetlar 12 va 16. S = 12·16/2 = 96."
+    },
+    {
+      "type": "choice",
+      "q": "To'g'ri to'rtburchakning diagonali 20 sm, yuzi 192 sm². Uning perimetri necha sm?",
+      "options": [
+        "60",
+        "40",
+        "28",
+        "56"
+      ],
+      "answer": 3,
+      "explain": "(a + b)² = a² + b² + 2ab = 400 + 384 = 784 ⇒ P = 2(28) = 56."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri burchakli uchburchakning gipotenuzasi 26 sm, katetlari yig'indisi 34 sm. Uning yuzini (sm²) toping.",
+      "answer": "120",
+      "explain": "a² + b² = 676, a + b = 34 ⇒ katetlar 10 va 24. S = 10·24/2 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "To'g'ri to'rtburchakning diagonali 26 sm, yuzi 240 sm². Uning perimetri necha sm?",
+      "options": [
+        "52",
+        "72",
+        "34",
+        "68"
+      ],
+      "answer": 3,
+      "explain": "(a + b)² = a² + b² + 2ab = 676 + 480 = 1156 ⇒ P = 2(34) = 68."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri burchakli uchburchakning gipotenuzasi 25 sm, katetlari yig'indisi 35 sm. Uning yuzini (sm²) toping.",
+      "answer": "150",
+      "explain": "a² + b² = 625, a + b = 35 ⇒ katetlar 15 va 20. S = 15·20/2 = 150."
+    },
+    {
+      "type": "choice",
+      "q": "To'g'ri to'rtburchakning diagonali 25 sm, yuzi 300 sm². Uning perimetri necha sm?",
+      "options": [
+        "35",
+        "70",
+        "74",
+        "50"
+      ],
+      "answer": 1,
+      "explain": "(a + b)² = a² + b² + 2ab = 625 + 600 = 1225 ⇒ P = 2(35) = 70."
+    },
+    {
+      "type": "fill",
+      "q": "To'g'ri burchakli uchburchakning gipotenuzasi 41 sm, katetlari yig'indisi 49 sm. Uning yuzini (sm²) toping.",
+      "answer": "180",
+      "explain": "a² + b² = 1681, a + b = 49 ⇒ katetlar 9 va 40. S = 9·40/2 = 180."
+    },
+    {
+      "type": "choice",
+      "q": "To'g'ri to'rtburchakning diagonali 41 sm, yuzi 360 sm². Uning perimetri necha sm?",
+      "options": [
+        "98",
+        "82",
+        "102",
+        "49"
+      ],
+      "answer": 0,
+      "explain": "(a + b)² = a² + b² + 2ab = 1681 + 720 = 2401 ⇒ P = 2(49) = 98."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = -1; x² − y = 9} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(2; -5)",
+        "(2; 5)",
+        "(-2; -5)",
+        "(3; -5)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 8 ⇒ x = ±2; musbat x = 2, y = -5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 0; x² − y = 8} sistemadan y ning qiymatini toping.",
+      "answer": "-4",
+      "explain": "Ayirsak 2y = 0 − (8) = -8 ⇒ y = -4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 1; x² − y = 7} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(3; -3)",
+        "(2; 3)",
+        "(-2; -3)",
+        "(2; -3)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 8 ⇒ x = ±2; musbat x = 2, y = -3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 2; x² − y = 6} sistemadan y ning qiymatini toping.",
+      "answer": "-2",
+      "explain": "Ayirsak 2y = 2 − (6) = -4 ⇒ y = -2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 3; x² − y = 5} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-2; -1)",
+        "(2; 1)",
+        "(3; -1)",
+        "(2; -1)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 8 ⇒ x = ±2; musbat x = 2, y = -1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 4; x² − y = 4} sistemadan y ning qiymatini toping.",
+      "answer": "0",
+      "explain": "Ayirsak 2y = 4 − (4) = 0 ⇒ y = 0."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 5; x² − y = 3} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(3; 1)",
+        "(-2; 1)",
+        "(2; -1)",
+        "(2; 1)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 8 ⇒ x = ±2; musbat x = 2, y = 1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 6; x² − y = 2} sistemadan y ning qiymatini toping.",
+      "answer": "2",
+      "explain": "Ayirsak 2y = 6 − (2) = 4 ⇒ y = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 7; x² − y = 1} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(3; 3)",
+        "(-2; 3)",
+        "(2; -3)",
+        "(2; 3)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 8 ⇒ x = ±2; musbat x = 2, y = 3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 8; x² − y = 0} sistemadan y ning qiymatini toping.",
+      "answer": "4",
+      "explain": "Ayirsak 2y = 8 − (0) = 8 ⇒ y = 4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 9; x² − y = -1} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(2; 5)",
+        "(3; 5)",
+        "(2; -5)",
+        "(-2; 5)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 8 ⇒ x = ±2; musbat x = 2, y = 5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 10; x² − y = -2} sistemadan y ning qiymatini toping.",
+      "answer": "6",
+      "explain": "Ayirsak 2y = 10 − (-2) = 12 ⇒ y = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 11; x² − y = -3} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(2; 7)",
+        "(-2; 7)",
+        "(3; 7)",
+        "(2; -7)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 8 ⇒ x = ±2; musbat x = 2, y = 7."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 12; x² − y = -4} sistemadan y ning qiymatini toping.",
+      "answer": "8",
+      "explain": "Ayirsak 2y = 12 − (-4) = 16 ⇒ y = 8."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 13; x² − y = -5} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(2; -9)",
+        "(2; 9)",
+        "(-2; 9)",
+        "(3; 9)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 8 ⇒ x = ±2; musbat x = 2, y = 9."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 14; x² − y = -6} sistemadan y ning qiymatini toping.",
+      "answer": "10",
+      "explain": "Ayirsak 2y = 14 − (-6) = 20 ⇒ y = 10."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 4; x² − y = 14} sistemadan y ning qiymatini toping.",
+      "answer": "-5",
+      "explain": "Ayirsak 2y = 4 − (14) = -10 ⇒ y = -5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 5; x² − y = 13} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(3; -4)",
+        "(-3; -4)",
+        "(3; 4)",
+        "(4; -4)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 18 ⇒ x = ±3; musbat x = 3, y = -4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 6; x² − y = 12} sistemadan y ning qiymatini toping.",
+      "answer": "-3",
+      "explain": "Ayirsak 2y = 6 − (12) = -6 ⇒ y = -3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 7; x² − y = 11} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(3; 2)",
+        "(3; -2)",
+        "(-3; -2)",
+        "(4; -2)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 18 ⇒ x = ±3; musbat x = 3, y = -2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 8; x² − y = 10} sistemadan y ning qiymatini toping.",
+      "answer": "-1",
+      "explain": "Ayirsak 2y = 8 − (10) = -2 ⇒ y = -1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 10; x² − y = 8} sistemadan y ning qiymatini toping.",
+      "answer": "1",
+      "explain": "Ayirsak 2y = 10 − (8) = 2 ⇒ y = 1."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 11; x² − y = 7} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(4; 2)",
+        "(3; 2)",
+        "(3; -2)",
+        "(-3; 2)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 18 ⇒ x = ±3; musbat x = 3, y = 2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 12; x² − y = 6} sistemadan y ning qiymatini toping.",
+      "answer": "3",
+      "explain": "Ayirsak 2y = 12 − (6) = 6 ⇒ y = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 13; x² − y = 5} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(4; 4)",
+        "(3; 4)",
+        "(3; -4)",
+        "(-3; 4)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 18 ⇒ x = ±3; musbat x = 3, y = 4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 14; x² − y = 4} sistemadan y ning qiymatini toping.",
+      "answer": "5",
+      "explain": "Ayirsak 2y = 14 − (4) = 10 ⇒ y = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 15; x² − y = 3} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(4; 6)",
+        "(-3; 6)",
+        "(3; -6)",
+        "(3; 6)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 18 ⇒ x = ±3; musbat x = 3, y = 6."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 16; x² − y = 2} sistemadan y ning qiymatini toping.",
+      "answer": "7",
+      "explain": "Ayirsak 2y = 16 − (2) = 14 ⇒ y = 7."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 17; x² − y = 1} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(4; 8)",
+        "(-3; 8)",
+        "(3; -8)",
+        "(3; 8)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 18 ⇒ x = ±3; musbat x = 3, y = 8."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 18; x² − y = 0} sistemadan y ning qiymatini toping.",
+      "answer": "9",
+      "explain": "Ayirsak 2y = 18 − (0) = 18 ⇒ y = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 19; x² − y = -1} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(4; 10)",
+        "(-3; 10)",
+        "(3; -10)",
+        "(3; 10)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 18 ⇒ x = ±3; musbat x = 3, y = 10."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 11; x² − y = 21} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(5; -5)",
+        "(-4; -5)",
+        "(4; -5)",
+        "(4; 5)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 32 ⇒ x = ±4; musbat x = 4, y = -5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 12; x² − y = 20} sistemadan y ning qiymatini toping.",
+      "answer": "-4",
+      "explain": "Ayirsak 2y = 12 − (20) = -8 ⇒ y = -4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 13; x² − y = 19} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(5; -3)",
+        "(-4; -3)",
+        "(4; -3)",
+        "(4; 3)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 32 ⇒ x = ±4; musbat x = 4, y = -3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 14; x² − y = 18} sistemadan y ning qiymatini toping.",
+      "answer": "-2",
+      "explain": "Ayirsak 2y = 14 − (18) = -4 ⇒ y = -2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 15; x² − y = 17} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(4; -1)",
+        "(4; 1)",
+        "(5; -1)",
+        "(-4; -1)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 32 ⇒ x = ±4; musbat x = 4, y = -1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 16; x² − y = 16} sistemadan y ning qiymatini toping.",
+      "answer": "0",
+      "explain": "Ayirsak 2y = 16 − (16) = 0 ⇒ y = 0."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 17; x² − y = 15} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(4; -1)",
+        "(-4; 1)",
+        "(5; 1)",
+        "(4; 1)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 32 ⇒ x = ±4; musbat x = 4, y = 1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 18; x² − y = 14} sistemadan y ning qiymatini toping.",
+      "answer": "2",
+      "explain": "Ayirsak 2y = 18 − (14) = 4 ⇒ y = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 19; x² − y = 13} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(5; 3)",
+        "(4; -3)",
+        "(4; 3)",
+        "(-4; 3)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 32 ⇒ x = ±4; musbat x = 4, y = 3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 20; x² − y = 12} sistemadan y ning qiymatini toping.",
+      "answer": "4",
+      "explain": "Ayirsak 2y = 20 − (12) = 8 ⇒ y = 4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 21; x² − y = 11} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(4; -5)",
+        "(-4; 5)",
+        "(4; 5)",
+        "(5; 5)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 32 ⇒ x = ±4; musbat x = 4, y = 5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 22; x² − y = 10} sistemadan y ning qiymatini toping.",
+      "answer": "6",
+      "explain": "Ayirsak 2y = 22 − (10) = 12 ⇒ y = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 23; x² − y = 9} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-4; 7)",
+        "(5; 7)",
+        "(4; 7)",
+        "(4; -7)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 32 ⇒ x = ±4; musbat x = 4, y = 7."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 24; x² − y = 8} sistemadan y ning qiymatini toping.",
+      "answer": "8",
+      "explain": "Ayirsak 2y = 24 − (8) = 16 ⇒ y = 8."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 25; x² − y = 7} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(4; -9)",
+        "(4; 9)",
+        "(5; 9)",
+        "(-4; 9)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 32 ⇒ x = ±4; musbat x = 4, y = 9."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 26; x² − y = 6} sistemadan y ning qiymatini toping.",
+      "answer": "10",
+      "explain": "Ayirsak 2y = 26 − (6) = 20 ⇒ y = 10."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 20; x² − y = 30} sistemadan y ning qiymatini toping.",
+      "answer": "-5",
+      "explain": "Ayirsak 2y = 20 − (30) = -10 ⇒ y = -5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 21; x² − y = 29} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-5; -4)",
+        "(5; 4)",
+        "(5; -4)",
+        "(6; -4)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 50 ⇒ x = ±5; musbat x = 5, y = -4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 22; x² − y = 28} sistemadan y ning qiymatini toping.",
+      "answer": "-3",
+      "explain": "Ayirsak 2y = 22 − (28) = -6 ⇒ y = -3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 23; x² − y = 27} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(5; 2)",
+        "(6; -2)",
+        "(5; -2)",
+        "(-5; -2)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 50 ⇒ x = ±5; musbat x = 5, y = -2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 24; x² − y = 26} sistemadan y ning qiymatini toping.",
+      "answer": "-1",
+      "explain": "Ayirsak 2y = 24 − (26) = -2 ⇒ y = -1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 26; x² − y = 24} sistemadan y ning qiymatini toping.",
+      "answer": "1",
+      "explain": "Ayirsak 2y = 26 − (24) = 2 ⇒ y = 1."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 27; x² − y = 23} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(6; 2)",
+        "(5; 2)",
+        "(-5; 2)",
+        "(5; -2)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 50 ⇒ x = ±5; musbat x = 5, y = 2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 28; x² − y = 22} sistemadan y ning qiymatini toping.",
+      "answer": "3",
+      "explain": "Ayirsak 2y = 28 − (22) = 6 ⇒ y = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 29; x² − y = 21} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-5; 4)",
+        "(5; -4)",
+        "(5; 4)",
+        "(6; 4)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 50 ⇒ x = ±5; musbat x = 5, y = 4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 30; x² − y = 20} sistemadan y ning qiymatini toping.",
+      "answer": "5",
+      "explain": "Ayirsak 2y = 30 − (20) = 10 ⇒ y = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 31; x² − y = 19} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(5; 6)",
+        "(-5; 6)",
+        "(6; 6)",
+        "(5; -6)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 50 ⇒ x = ±5; musbat x = 5, y = 6."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 32; x² − y = 18} sistemadan y ning qiymatini toping.",
+      "answer": "7",
+      "explain": "Ayirsak 2y = 32 − (18) = 14 ⇒ y = 7."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 33; x² − y = 17} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(6; 8)",
+        "(5; 8)",
+        "(5; -8)",
+        "(-5; 8)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 50 ⇒ x = ±5; musbat x = 5, y = 8."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 34; x² − y = 16} sistemadan y ning qiymatini toping.",
+      "answer": "9",
+      "explain": "Ayirsak 2y = 34 − (16) = 18 ⇒ y = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 35; x² − y = 15} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-5; 10)",
+        "(5; -10)",
+        "(6; 10)",
+        "(5; 10)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 50 ⇒ x = ±5; musbat x = 5, y = 10."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 31; x² − y = 41} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(7; -5)",
+        "(6; 5)",
+        "(6; -5)",
+        "(-6; -5)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 72 ⇒ x = ±6; musbat x = 6, y = -5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 32; x² − y = 40} sistemadan y ning qiymatini toping.",
+      "answer": "-4",
+      "explain": "Ayirsak 2y = 32 − (40) = -8 ⇒ y = -4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 33; x² − y = 39} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(7; -3)",
+        "(-6; -3)",
+        "(6; -3)",
+        "(6; 3)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 72 ⇒ x = ±6; musbat x = 6, y = -3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 34; x² − y = 38} sistemadan y ning qiymatini toping.",
+      "answer": "-2",
+      "explain": "Ayirsak 2y = 34 − (38) = -4 ⇒ y = -2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 35; x² − y = 37} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(6; -1)",
+        "(6; 1)",
+        "(7; -1)",
+        "(-6; -1)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 72 ⇒ x = ±6; musbat x = 6, y = -1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 36; x² − y = 36} sistemadan y ning qiymatini toping.",
+      "answer": "0",
+      "explain": "Ayirsak 2y = 36 − (36) = 0 ⇒ y = 0."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 37; x² − y = 35} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-6; 1)",
+        "(6; -1)",
+        "(6; 1)",
+        "(7; 1)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 72 ⇒ x = ±6; musbat x = 6, y = 1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 38; x² − y = 34} sistemadan y ning qiymatini toping.",
+      "answer": "2",
+      "explain": "Ayirsak 2y = 38 − (34) = 4 ⇒ y = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 39; x² − y = 33} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-6; 3)",
+        "(6; -3)",
+        "(6; 3)",
+        "(7; 3)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 72 ⇒ x = ±6; musbat x = 6, y = 3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 40; x² − y = 32} sistemadan y ning qiymatini toping.",
+      "answer": "4",
+      "explain": "Ayirsak 2y = 40 − (32) = 8 ⇒ y = 4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 41; x² − y = 31} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(7; 5)",
+        "(6; 5)",
+        "(6; -5)",
+        "(-6; 5)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 72 ⇒ x = ±6; musbat x = 6, y = 5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 42; x² − y = 30} sistemadan y ning qiymatini toping.",
+      "answer": "6",
+      "explain": "Ayirsak 2y = 42 − (30) = 12 ⇒ y = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 43; x² − y = 29} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(6; 7)",
+        "(7; 7)",
+        "(-6; 7)",
+        "(6; -7)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 72 ⇒ x = ±6; musbat x = 6, y = 7."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 44; x² − y = 28} sistemadan y ning qiymatini toping.",
+      "answer": "8",
+      "explain": "Ayirsak 2y = 44 − (28) = 16 ⇒ y = 8."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 45; x² − y = 27} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(6; -9)",
+        "(7; 9)",
+        "(-6; 9)",
+        "(6; 9)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 72 ⇒ x = ±6; musbat x = 6, y = 9."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 46; x² − y = 26} sistemadan y ning qiymatini toping.",
+      "answer": "10",
+      "explain": "Ayirsak 2y = 46 − (26) = 20 ⇒ y = 10."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 44; x² − y = 54} sistemadan y ning qiymatini toping.",
+      "answer": "-5",
+      "explain": "Ayirsak 2y = 44 − (54) = -10 ⇒ y = -5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 45; x² − y = 53} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(7; -4)",
+        "(8; -4)",
+        "(7; 4)",
+        "(-7; -4)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 98 ⇒ x = ±7; musbat x = 7, y = -4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 46; x² − y = 52} sistemadan y ning qiymatini toping.",
+      "answer": "-3",
+      "explain": "Ayirsak 2y = 46 − (52) = -6 ⇒ y = -3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 47; x² − y = 51} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(7; -2)",
+        "(-7; -2)",
+        "(8; -2)",
+        "(7; 2)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 98 ⇒ x = ±7; musbat x = 7, y = -2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 48; x² − y = 50} sistemadan y ning qiymatini toping.",
+      "answer": "-1",
+      "explain": "Ayirsak 2y = 48 − (50) = -2 ⇒ y = -1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 50; x² − y = 48} sistemadan y ning qiymatini toping.",
+      "answer": "1",
+      "explain": "Ayirsak 2y = 50 − (48) = 2 ⇒ y = 1."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 51; x² − y = 47} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(7; 2)",
+        "(-7; 2)",
+        "(7; -2)",
+        "(8; 2)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 98 ⇒ x = ±7; musbat x = 7, y = 2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 52; x² − y = 46} sistemadan y ning qiymatini toping.",
+      "answer": "3",
+      "explain": "Ayirsak 2y = 52 − (46) = 6 ⇒ y = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 53; x² − y = 45} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(7; 4)",
+        "(8; 4)",
+        "(-7; 4)",
+        "(7; -4)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 98 ⇒ x = ±7; musbat x = 7, y = 4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 54; x² − y = 44} sistemadan y ning qiymatini toping.",
+      "answer": "5",
+      "explain": "Ayirsak 2y = 54 − (44) = 10 ⇒ y = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 55; x² − y = 43} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(7; -6)",
+        "(8; 6)",
+        "(7; 6)",
+        "(-7; 6)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 98 ⇒ x = ±7; musbat x = 7, y = 6."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 56; x² − y = 42} sistemadan y ning qiymatini toping.",
+      "answer": "7",
+      "explain": "Ayirsak 2y = 56 − (42) = 14 ⇒ y = 7."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 57; x² − y = 41} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(7; 8)",
+        "(-7; 8)",
+        "(7; -8)",
+        "(8; 8)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 98 ⇒ x = ±7; musbat x = 7, y = 8."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 58; x² − y = 40} sistemadan y ning qiymatini toping.",
+      "answer": "9",
+      "explain": "Ayirsak 2y = 58 − (40) = 18 ⇒ y = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 59; x² − y = 39} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(8; 10)",
+        "(7; 10)",
+        "(-7; 10)",
+        "(7; -10)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 98 ⇒ x = ±7; musbat x = 7, y = 10."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 59; x² − y = 69} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(8; -5)",
+        "(-8; -5)",
+        "(9; -5)",
+        "(8; 5)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 128 ⇒ x = ±8; musbat x = 8, y = -5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 60; x² − y = 68} sistemadan y ning qiymatini toping.",
+      "answer": "-4",
+      "explain": "Ayirsak 2y = 60 − (68) = -8 ⇒ y = -4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 61; x² − y = 67} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(9; -3)",
+        "(8; 3)",
+        "(8; -3)",
+        "(-8; -3)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 128 ⇒ x = ±8; musbat x = 8, y = -3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 62; x² − y = 66} sistemadan y ning qiymatini toping.",
+      "answer": "-2",
+      "explain": "Ayirsak 2y = 62 − (66) = -4 ⇒ y = -2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 63; x² − y = 65} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(9; -1)",
+        "(8; -1)",
+        "(8; 1)",
+        "(-8; -1)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 128 ⇒ x = ±8; musbat x = 8, y = -1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 64; x² − y = 64} sistemadan y ning qiymatini toping.",
+      "answer": "0",
+      "explain": "Ayirsak 2y = 64 − (64) = 0 ⇒ y = 0."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 65; x² − y = 63} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-8; 1)",
+        "(8; -1)",
+        "(9; 1)",
+        "(8; 1)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 128 ⇒ x = ±8; musbat x = 8, y = 1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 66; x² − y = 62} sistemadan y ning qiymatini toping.",
+      "answer": "2",
+      "explain": "Ayirsak 2y = 66 − (62) = 4 ⇒ y = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 67; x² − y = 61} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(8; 3)",
+        "(9; 3)",
+        "(8; -3)",
+        "(-8; 3)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 128 ⇒ x = ±8; musbat x = 8, y = 3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 68; x² − y = 60} sistemadan y ning qiymatini toping.",
+      "answer": "4",
+      "explain": "Ayirsak 2y = 68 − (60) = 8 ⇒ y = 4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 69; x² − y = 59} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-8; 5)",
+        "(8; 5)",
+        "(8; -5)",
+        "(9; 5)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 128 ⇒ x = ±8; musbat x = 8, y = 5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 70; x² − y = 58} sistemadan y ning qiymatini toping.",
+      "answer": "6",
+      "explain": "Ayirsak 2y = 70 − (58) = 12 ⇒ y = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 71; x² − y = 57} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(8; 7)",
+        "(-8; 7)",
+        "(9; 7)",
+        "(8; -7)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 128 ⇒ x = ±8; musbat x = 8, y = 7."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 72; x² − y = 56} sistemadan y ning qiymatini toping.",
+      "answer": "8",
+      "explain": "Ayirsak 2y = 72 − (56) = 16 ⇒ y = 8."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 73; x² − y = 55} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(9; 9)",
+        "(-8; 9)",
+        "(8; -9)",
+        "(8; 9)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 128 ⇒ x = ±8; musbat x = 8, y = 9."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 74; x² − y = 54} sistemadan y ning qiymatini toping.",
+      "answer": "10",
+      "explain": "Ayirsak 2y = 74 − (54) = 20 ⇒ y = 10."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 76; x² − y = 86} sistemadan y ning qiymatini toping.",
+      "answer": "-5",
+      "explain": "Ayirsak 2y = 76 − (86) = -10 ⇒ y = -5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 77; x² − y = 85} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-9; -4)",
+        "(9; -4)",
+        "(10; -4)",
+        "(9; 4)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 162 ⇒ x = ±9; musbat x = 9, y = -4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 78; x² − y = 84} sistemadan y ning qiymatini toping.",
+      "answer": "-3",
+      "explain": "Ayirsak 2y = 78 − (84) = -6 ⇒ y = -3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 79; x² − y = 83} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-9; -2)",
+        "(9; 2)",
+        "(10; -2)",
+        "(9; -2)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 162 ⇒ x = ±9; musbat x = 9, y = -2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 80; x² − y = 82} sistemadan y ning qiymatini toping.",
+      "answer": "-1",
+      "explain": "Ayirsak 2y = 80 − (82) = -2 ⇒ y = -1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 82; x² − y = 80} sistemadan y ning qiymatini toping.",
+      "answer": "1",
+      "explain": "Ayirsak 2y = 82 − (80) = 2 ⇒ y = 1."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 83; x² − y = 79} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-9; 2)",
+        "(9; -2)",
+        "(10; 2)",
+        "(9; 2)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 162 ⇒ x = ±9; musbat x = 9, y = 2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 84; x² − y = 78} sistemadan y ning qiymatini toping.",
+      "answer": "3",
+      "explain": "Ayirsak 2y = 84 − (78) = 6 ⇒ y = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 85; x² − y = 77} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(9; 4)",
+        "(9; -4)",
+        "(-9; 4)",
+        "(10; 4)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 162 ⇒ x = ±9; musbat x = 9, y = 4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 86; x² − y = 76} sistemadan y ning qiymatini toping.",
+      "answer": "5",
+      "explain": "Ayirsak 2y = 86 − (76) = 10 ⇒ y = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 87; x² − y = 75} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(9; 6)",
+        "(9; -6)",
+        "(10; 6)",
+        "(-9; 6)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 162 ⇒ x = ±9; musbat x = 9, y = 6."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 88; x² − y = 74} sistemadan y ning qiymatini toping.",
+      "answer": "7",
+      "explain": "Ayirsak 2y = 88 − (74) = 14 ⇒ y = 7."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 89; x² − y = 73} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-9; 8)",
+        "(9; -8)",
+        "(9; 8)",
+        "(10; 8)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 162 ⇒ x = ±9; musbat x = 9, y = 8."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 90; x² − y = 72} sistemadan y ning qiymatini toping.",
+      "answer": "9",
+      "explain": "Ayirsak 2y = 90 − (72) = 18 ⇒ y = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 91; x² − y = 71} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(9; 10)",
+        "(-9; 10)",
+        "(10; 10)",
+        "(9; -10)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 162 ⇒ x = ±9; musbat x = 9, y = 10."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 95; x² − y = 105} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-10; -5)",
+        "(10; -5)",
+        "(11; -5)",
+        "(10; 5)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 200 ⇒ x = ±10; musbat x = 10, y = -5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 96; x² − y = 104} sistemadan y ning qiymatini toping.",
+      "answer": "-4",
+      "explain": "Ayirsak 2y = 96 − (104) = -8 ⇒ y = -4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 97; x² − y = 103} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(10; 3)",
+        "(10; -3)",
+        "(11; -3)",
+        "(-10; -3)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 200 ⇒ x = ±10; musbat x = 10, y = -3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 98; x² − y = 102} sistemadan y ning qiymatini toping.",
+      "answer": "-2",
+      "explain": "Ayirsak 2y = 98 − (102) = -4 ⇒ y = -2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 99; x² − y = 101} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-10; -1)",
+        "(10; 1)",
+        "(10; -1)",
+        "(11; -1)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 200 ⇒ x = ±10; musbat x = 10, y = -1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 100; x² − y = 100} sistemadan y ning qiymatini toping.",
+      "answer": "0",
+      "explain": "Ayirsak 2y = 100 − (100) = 0 ⇒ y = 0."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 101; x² − y = 99} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(10; -1)",
+        "(-10; 1)",
+        "(10; 1)",
+        "(11; 1)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 200 ⇒ x = ±10; musbat x = 10, y = 1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 102; x² − y = 98} sistemadan y ning qiymatini toping.",
+      "answer": "2",
+      "explain": "Ayirsak 2y = 102 − (98) = 4 ⇒ y = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 103; x² − y = 97} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(11; 3)",
+        "(10; -3)",
+        "(-10; 3)",
+        "(10; 3)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 200 ⇒ x = ±10; musbat x = 10, y = 3."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 104; x² − y = 96} sistemadan y ning qiymatini toping.",
+      "answer": "4",
+      "explain": "Ayirsak 2y = 104 − (96) = 8 ⇒ y = 4."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 105; x² − y = 95} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(10; -5)",
+        "(-10; 5)",
+        "(10; 5)",
+        "(11; 5)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 200 ⇒ x = ±10; musbat x = 10, y = 5."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 106; x² − y = 94} sistemadan y ning qiymatini toping.",
+      "answer": "6",
+      "explain": "Ayirsak 2y = 106 − (94) = 12 ⇒ y = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 107; x² − y = 93} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-10; 7)",
+        "(10; 7)",
+        "(11; 7)",
+        "(10; -7)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 200 ⇒ x = ±10; musbat x = 10, y = 7."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 108; x² − y = 92} sistemadan y ning qiymatini toping.",
+      "answer": "8",
+      "explain": "Ayirsak 2y = 108 − (92) = 16 ⇒ y = 8."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 109; x² − y = 91} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(11; 9)",
+        "(10; 9)",
+        "(10; -9)",
+        "(-10; 9)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 200 ⇒ x = ±10; musbat x = 10, y = 9."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 110; x² − y = 90} sistemadan y ning qiymatini toping.",
+      "answer": "10",
+      "explain": "Ayirsak 2y = 110 − (90) = 20 ⇒ y = 10."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 116; x² − y = 126} sistemadan y ning qiymatini toping.",
+      "answer": "-5",
+      "explain": "Ayirsak 2y = 116 − (126) = -10 ⇒ y = -5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 117; x² − y = 125} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(11; 4)",
+        "(12; -4)",
+        "(-11; -4)",
+        "(11; -4)"
+      ],
+      "answer": 3,
+      "explain": "Qo'shsak 2x² = 242 ⇒ x = ±11; musbat x = 11, y = -4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 118; x² − y = 124} sistemadan y ning qiymatini toping.",
+      "answer": "-3",
+      "explain": "Ayirsak 2y = 118 − (124) = -6 ⇒ y = -3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 119; x² − y = 123} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(11; 2)",
+        "(-11; -2)",
+        "(11; -2)",
+        "(12; -2)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 242 ⇒ x = ±11; musbat x = 11, y = -2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 120; x² − y = 122} sistemadan y ning qiymatini toping.",
+      "answer": "-1",
+      "explain": "Ayirsak 2y = 120 − (122) = -2 ⇒ y = -1."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 122; x² − y = 120} sistemadan y ning qiymatini toping.",
+      "answer": "1",
+      "explain": "Ayirsak 2y = 122 − (120) = 2 ⇒ y = 1."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 123; x² − y = 119} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(11; 2)",
+        "(11; -2)",
+        "(12; 2)",
+        "(-11; 2)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 242 ⇒ x = ±11; musbat x = 11, y = 2."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 124; x² − y = 118} sistemadan y ning qiymatini toping.",
+      "answer": "3",
+      "explain": "Ayirsak 2y = 124 − (118) = 6 ⇒ y = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 125; x² − y = 117} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(11; 4)",
+        "(12; 4)",
+        "(-11; 4)",
+        "(11; -4)"
+      ],
+      "answer": 0,
+      "explain": "Qo'shsak 2x² = 242 ⇒ x = ±11; musbat x = 11, y = 4."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 126; x² − y = 116} sistemadan y ning qiymatini toping.",
+      "answer": "5",
+      "explain": "Ayirsak 2y = 126 − (116) = 10 ⇒ y = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 127; x² − y = 115} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(-11; 6)",
+        "(11; -6)",
+        "(11; 6)",
+        "(12; 6)"
+      ],
+      "answer": 2,
+      "explain": "Qo'shsak 2x² = 242 ⇒ x = ±11; musbat x = 11, y = 6."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 128; x² − y = 114} sistemadan y ning qiymatini toping.",
+      "answer": "7",
+      "explain": "Ayirsak 2y = 128 − (114) = 14 ⇒ y = 7."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 129; x² − y = 113} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(11; -8)",
+        "(11; 8)",
+        "(-11; 8)",
+        "(12; 8)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 242 ⇒ x = ±11; musbat x = 11, y = 8."
+    },
+    {
+      "type": "fill",
+      "q": "{x² + y = 130; x² − y = 112} sistemadan y ning qiymatini toping.",
+      "answer": "9",
+      "explain": "Ayirsak 2y = 130 − (112) = 18 ⇒ y = 9."
+    },
+    {
+      "type": "choice",
+      "q": "{x² + y = 131; x² − y = 111} sistemaning musbat x li yechimini toping.",
+      "options": [
+        "(11; -10)",
+        "(11; 10)",
+        "(-11; 10)",
+        "(12; 10)"
+      ],
+      "answer": 1,
+      "explain": "Qo'shsak 2x² = 242 ⇒ x = ±11; musbat x = 11, y = 10."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 1 ta kam, raqamlari ko'paytmasi esa 2 ga teng. Shu sonni toping.",
+      "options": [
+        "12",
+        "3",
+        "21",
+        "23"
+      ],
+      "answer": 0,
+      "explain": "1 · 2 = 2 va 2 − 1 = 1, demak son 12."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 2 ta kam, raqamlari ko'paytmasi esa 3 ga teng. Shu sonni toping.",
+      "options": [
+        "31",
+        "4",
+        "13",
+        "24"
+      ],
+      "answer": 2,
+      "explain": "1 · 3 = 3 va 3 − 1 = 2, demak son 13."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 3 ta kam, raqamlari ko'paytmasi esa 4 ga teng. Shu sonni toping.",
+      "options": [
+        "5",
+        "14",
+        "41",
+        "25"
+      ],
+      "answer": 1,
+      "explain": "1 · 4 = 4 va 4 − 1 = 3, demak son 14."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 4 ta kam, raqamlari ko'paytmasi esa 5 ga teng. Shu sonni toping.",
+      "options": [
+        "51",
+        "6",
+        "15",
+        "26"
+      ],
+      "answer": 2,
+      "explain": "1 · 5 = 5 va 5 − 1 = 4, demak son 15."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 5 ta kam, raqamlari ko'paytmasi esa 6 ga teng. Shu sonni toping.",
+      "options": [
+        "16",
+        "61",
+        "27",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "1 · 6 = 6 va 6 − 1 = 5, demak son 16."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 6 ta kam, raqamlari ko'paytmasi esa 7 ga teng. Shu sonni toping.",
+      "options": [
+        "17",
+        "71",
+        "8",
+        "28"
+      ],
+      "answer": 0,
+      "explain": "1 · 7 = 7 va 7 − 1 = 6, demak son 17."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 7 ta kam, raqamlari ko'paytmasi esa 8 ga teng. Shu sonni toping.",
+      "options": [
+        "18",
+        "29",
+        "9",
+        "81"
+      ],
+      "answer": 0,
+      "explain": "1 · 8 = 8 va 8 − 1 = 7, demak son 18."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 8 ta kam, raqamlari ko'paytmasi esa 9 ga teng. Shu sonni toping.",
+      "options": [
+        "19",
+        "30",
+        "10",
+        "91"
+      ],
+      "answer": 0,
+      "explain": "1 · 9 = 9 va 9 − 1 = 8, demak son 19."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 1 ta kam, raqamlari ko'paytmasi esa 6 ga teng. Shu sonni toping.",
+      "options": [
+        "23",
+        "34",
+        "32",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "2 · 3 = 6 va 3 − 2 = 1, demak son 23."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 2 ta kam, raqamlari ko'paytmasi esa 8 ga teng. Shu sonni toping.",
+      "options": [
+        "42",
+        "15",
+        "24",
+        "35"
+      ],
+      "answer": 2,
+      "explain": "2 · 4 = 8 va 4 − 2 = 2, demak son 24."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 3 ta kam, raqamlari ko'paytmasi esa 10 ga teng. Shu sonni toping.",
+      "options": [
+        "25",
+        "16",
+        "36",
+        "52"
+      ],
+      "answer": 0,
+      "explain": "2 · 5 = 10 va 5 − 2 = 3, demak son 25."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 4 ta kam, raqamlari ko'paytmasi esa 12 ga teng. Shu sonni toping.",
+      "options": [
+        "37",
+        "26",
+        "17",
+        "62"
+      ],
+      "answer": 1,
+      "explain": "2 · 6 = 12 va 6 − 2 = 4, demak son 26."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 5 ta kam, raqamlari ko'paytmasi esa 14 ga teng. Shu sonni toping.",
+      "options": [
+        "38",
+        "18",
+        "27",
+        "72"
+      ],
+      "answer": 2,
+      "explain": "2 · 7 = 14 va 7 − 2 = 5, demak son 27."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 6 ta kam, raqamlari ko'paytmasi esa 16 ga teng. Shu sonni toping.",
+      "options": [
+        "28",
+        "19",
+        "39",
+        "82"
+      ],
+      "answer": 0,
+      "explain": "2 · 8 = 16 va 8 − 2 = 6, demak son 28."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 7 ta kam, raqamlari ko'paytmasi esa 18 ga teng. Shu sonni toping.",
+      "options": [
+        "20",
+        "40",
+        "92",
+        "29"
+      ],
+      "answer": 3,
+      "explain": "2 · 9 = 18 va 9 − 2 = 7, demak son 29."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 1 ta kam, raqamlari ko'paytmasi esa 12 ga teng. Shu sonni toping.",
+      "options": [
+        "25",
+        "45",
+        "34",
+        "43"
+      ],
+      "answer": 2,
+      "explain": "3 · 4 = 12 va 4 − 3 = 1, demak son 34."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 2 ta kam, raqamlari ko'paytmasi esa 15 ga teng. Shu sonni toping.",
+      "options": [
+        "35",
+        "26",
+        "53",
+        "46"
+      ],
+      "answer": 0,
+      "explain": "3 · 5 = 15 va 5 − 3 = 2, demak son 35."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 3 ta kam, raqamlari ko'paytmasi esa 18 ga teng. Shu sonni toping.",
+      "options": [
+        "47",
+        "27",
+        "36",
+        "63"
+      ],
+      "answer": 2,
+      "explain": "3 · 6 = 18 va 6 − 3 = 3, demak son 36."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 4 ta kam, raqamlari ko'paytmasi esa 21 ga teng. Shu sonni toping.",
+      "options": [
+        "28",
+        "73",
+        "37",
+        "48"
+      ],
+      "answer": 2,
+      "explain": "3 · 7 = 21 va 7 − 3 = 4, demak son 37."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 5 ta kam, raqamlari ko'paytmasi esa 24 ga teng. Shu sonni toping.",
+      "options": [
+        "38",
+        "29",
+        "49",
+        "83"
+      ],
+      "answer": 0,
+      "explain": "3 · 8 = 24 va 8 − 3 = 5, demak son 38."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 6 ta kam, raqamlari ko'paytmasi esa 27 ga teng. Shu sonni toping.",
+      "options": [
+        "30",
+        "39",
+        "50",
+        "93"
+      ],
+      "answer": 1,
+      "explain": "3 · 9 = 27 va 9 − 3 = 6, demak son 39."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 1 ta kam, raqamlari ko'paytmasi esa 20 ga teng. Shu sonni toping.",
+      "options": [
+        "36",
+        "56",
+        "45",
+        "54"
+      ],
+      "answer": 2,
+      "explain": "4 · 5 = 20 va 5 − 4 = 1, demak son 45."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 2 ta kam, raqamlari ko'paytmasi esa 24 ga teng. Shu sonni toping.",
+      "options": [
+        "37",
+        "57",
+        "64",
+        "46"
+      ],
+      "answer": 3,
+      "explain": "4 · 6 = 24 va 6 − 4 = 2, demak son 46."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 3 ta kam, raqamlari ko'paytmasi esa 28 ga teng. Shu sonni toping.",
+      "options": [
+        "74",
+        "58",
+        "47",
+        "38"
+      ],
+      "answer": 2,
+      "explain": "4 · 7 = 28 va 7 − 4 = 3, demak son 47."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 4 ta kam, raqamlari ko'paytmasi esa 32 ga teng. Shu sonni toping.",
+      "options": [
+        "59",
+        "39",
+        "84",
+        "48"
+      ],
+      "answer": 3,
+      "explain": "4 · 8 = 32 va 8 − 4 = 4, demak son 48."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 5 ta kam, raqamlari ko'paytmasi esa 36 ga teng. Shu sonni toping.",
+      "options": [
+        "40",
+        "60",
+        "49",
+        "94"
+      ],
+      "answer": 2,
+      "explain": "4 · 9 = 36 va 9 − 4 = 5, demak son 49."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 1 ta kam, raqamlari ko'paytmasi esa 30 ga teng. Shu sonni toping.",
+      "options": [
+        "47",
+        "67",
+        "56",
+        "65"
+      ],
+      "answer": 2,
+      "explain": "5 · 6 = 30 va 6 − 5 = 1, demak son 56."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 2 ta kam, raqamlari ko'paytmasi esa 35 ga teng. Shu sonni toping.",
+      "options": [
+        "68",
+        "75",
+        "57",
+        "48"
+      ],
+      "answer": 2,
+      "explain": "5 · 7 = 35 va 7 − 5 = 2, demak son 57."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 3 ta kam, raqamlari ko'paytmasi esa 40 ga teng. Shu sonni toping.",
+      "options": [
+        "85",
+        "69",
+        "58",
+        "49"
+      ],
+      "answer": 2,
+      "explain": "5 · 8 = 40 va 8 − 5 = 3, demak son 58."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 4 ta kam, raqamlari ko'paytmasi esa 45 ga teng. Shu sonni toping.",
+      "options": [
+        "95",
+        "70",
+        "50",
+        "59"
+      ],
+      "answer": 3,
+      "explain": "5 · 9 = 45 va 9 − 5 = 4, demak son 59."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 1 ta kam, raqamlari ko'paytmasi esa 42 ga teng. Shu sonni toping.",
+      "options": [
+        "58",
+        "78",
+        "76",
+        "67"
+      ],
+      "answer": 3,
+      "explain": "6 · 7 = 42 va 7 − 6 = 1, demak son 67."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 2 ta kam, raqamlari ko'paytmasi esa 48 ga teng. Shu sonni toping.",
+      "options": [
+        "79",
+        "86",
+        "68",
+        "59"
+      ],
+      "answer": 2,
+      "explain": "6 · 8 = 48 va 8 − 6 = 2, demak son 68."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 3 ta kam, raqamlari ko'paytmasi esa 54 ga teng. Shu sonni toping.",
+      "options": [
+        "69",
+        "96",
+        "60",
+        "80"
+      ],
+      "answer": 0,
+      "explain": "6 · 9 = 54 va 9 − 6 = 3, demak son 69."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 1 ta kam, raqamlari ko'paytmasi esa 56 ga teng. Shu sonni toping.",
+      "options": [
+        "78",
+        "69",
+        "87",
+        "89"
+      ],
+      "answer": 0,
+      "explain": "7 · 8 = 56 va 8 − 7 = 1, demak son 78."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 2 ta kam, raqamlari ko'paytmasi esa 63 ga teng. Shu sonni toping.",
+      "options": [
+        "79",
+        "90",
+        "97",
+        "70"
+      ],
+      "answer": 0,
+      "explain": "7 · 9 = 63 va 9 − 7 = 2, demak son 79."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali sonning o'nliklar raqami birliklaridan 1 ta kam, raqamlari ko'paytmasi esa 72 ga teng. Shu sonni toping.",
+      "options": [
+        "98",
+        "89",
+        "100",
+        "80"
+      ],
+      "answer": 1,
+      "explain": "8 · 9 = 72 va 9 − 8 = 1, demak son 89."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 7; x − y = 1} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "7",
+        "3",
+        "1",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "(x − y)² + 3xy = 7/1 = 7 ⇒ 3xy = 6 ⇒ xy = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 3/2; xy = 2} sistemani (2; 1) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/2 + 1/1 = 3/2 va 2·1 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 26; x − y = 2} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "3",
+        "2",
+        "13",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "(x − y)² + 3xy = 26/2 = 13 ⇒ 3xy = 9 ⇒ xy = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 4/3; xy = 3} sistemani (3; 1) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/3 + 1/1 = 4/3 va 3·1 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 19; x − y = 1} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "19",
+        "7",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "(x − y)² + 3xy = 19/1 = 19 ⇒ 3xy = 18 ⇒ xy = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 5/6; xy = 6} sistemani (3; 2) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/3 + 1/2 = 5/6 va 3·2 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 63; x − y = 3} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "21"
+      ],
+      "answer": 0,
+      "explain": "(x − y)² + 3xy = 63/3 = 21 ⇒ 3xy = 12 ⇒ xy = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 5/4; xy = 4} sistemani (4; 1) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/4 + 1/1 = 5/4 va 4·1 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 56; x − y = 2} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "9",
+        "8",
+        "28",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "(x − y)² + 3xy = 56/2 = 28 ⇒ 3xy = 24 ⇒ xy = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 3/4; xy = 8} sistemani (4; 2) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/4 + 1/2 = 3/4 va 4·2 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 37; x − y = 1} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "13",
+        "37",
+        "7",
+        "12"
+      ],
+      "answer": 3,
+      "explain": "(x − y)² + 3xy = 37/1 = 37 ⇒ 3xy = 36 ⇒ xy = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 7/12; xy = 12} sistemani (4; 3) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/4 + 1/3 = 7/12 va 4·3 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 124; x − y = 4} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "31"
+      ],
+      "answer": 2,
+      "explain": "(x − y)² + 3xy = 124/4 = 31 ⇒ 3xy = 15 ⇒ xy = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 6/5; xy = 5} sistemani (5; 1) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/5 + 1/1 = 6/5 va 5·1 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 117; x − y = 3} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "10",
+        "7",
+        "11",
+        "39"
+      ],
+      "answer": 0,
+      "explain": "(x − y)² + 3xy = 117/3 = 39 ⇒ 3xy = 30 ⇒ xy = 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 7/10; xy = 10} sistemani (5; 2) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/5 + 1/2 = 7/10 va 5·2 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 98; x − y = 2} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "15",
+        "8",
+        "16",
+        "49"
+      ],
+      "answer": 0,
+      "explain": "(x − y)² + 3xy = 98/2 = 49 ⇒ 3xy = 45 ⇒ xy = 15."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 8/15; xy = 15} sistemani (5; 3) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/5 + 1/3 = 8/15 va 5·3 = 15."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 61; x − y = 1} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "61",
+        "9",
+        "21",
+        "20"
+      ],
+      "answer": 3,
+      "explain": "(x − y)² + 3xy = 61/1 = 61 ⇒ 3xy = 60 ⇒ xy = 20."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 9/20; xy = 20} sistemani (5; 4) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/5 + 1/4 = 9/20 va 5·4 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 215; x − y = 5} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "6",
+        "5",
+        "43",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "(x − y)² + 3xy = 215/5 = 43 ⇒ 3xy = 18 ⇒ xy = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 7/6; xy = 6} sistemani (6; 1) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/6 + 1/1 = 7/6 va 6·1 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 208; x − y = 4} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "12",
+        "52",
+        "13",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "(x − y)² + 3xy = 208/4 = 52 ⇒ 3xy = 36 ⇒ xy = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 2/3; xy = 12} sistemani (6; 2) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/6 + 1/2 = 2/3 va 6·2 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 189; x − y = 3} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "19",
+        "63",
+        "18",
+        "9"
+      ],
+      "answer": 2,
+      "explain": "(x − y)² + 3xy = 189/3 = 63 ⇒ 3xy = 54 ⇒ xy = 18."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 1/2; xy = 18} sistemani (6; 3) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/6 + 1/3 = 1/2 va 6·3 = 18."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 152; x − y = 2} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "25",
+        "10",
+        "76",
+        "24"
+      ],
+      "answer": 3,
+      "explain": "(x − y)² + 3xy = 152/2 = 76 ⇒ 3xy = 72 ⇒ xy = 24."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 5/12; xy = 24} sistemani (6; 4) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/6 + 1/4 = 5/12 va 6·4 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 91; x − y = 1} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "30",
+        "31",
+        "11",
+        "91"
+      ],
+      "answer": 0,
+      "explain": "(x − y)² + 3xy = 91/1 = 91 ⇒ 3xy = 90 ⇒ xy = 30."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 11/30; xy = 30} sistemani (6; 5) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/6 + 1/5 = 11/30 va 6·5 = 30."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 342; x − y = 6} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "7",
+        "57",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "(x − y)² + 3xy = 342/6 = 57 ⇒ 3xy = 21 ⇒ xy = 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 8/7; xy = 7} sistemani (7; 1) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/7 + 1/1 = 8/7 va 7·1 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 335; x − y = 5} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "9",
+        "14",
+        "15",
+        "67"
+      ],
+      "answer": 1,
+      "explain": "(x − y)² + 3xy = 335/5 = 67 ⇒ 3xy = 42 ⇒ xy = 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "{1/x + 1/y = 9/14; xy = 14} sistemani (7; 2) juftlik qanoatlantiradi.",
+      "answer": true,
+      "explain": "1/7 + 1/2 = 9/14 va 7·2 = 14."
+    },
+    {
+      "type": "choice",
+      "q": "{x³ − y³ = 316; x − y = 4} sistemadan xy ko'paytmani toping.",
+      "options": [
+        "10",
+        "79",
+        "22",
+        "21"
+      ],
+      "answer": 3,
+      "explain": "(x − y)² + 3xy = 316/4 = 79 ⇒ 3xy = 63 ⇒ xy = 21."
+    }
+  ],
+  "cards": [
+    [
+      "Qo'shish",
+      "Tenglamalarni hadlab qo'shish yoki ayirish usuli"
+    ],
+    [
+      "Almashtirish",
+      "u = x + y va v = xy yangi o'zgaruvchilar kiritish"
+    ],
+    [
+      "Ko'paytuvchilar",
+      "Tenglamaning bir tomonini nolga teng ko'paytma qilish"
+    ],
+    [
+      "Simmetriya",
+      "x va y almashsa ham ko'rinishi saqlanuvchi sistema"
+    ],
+    [
+      "Gipotenuza",
+      "To'g'ri burchakli uchburchakning eng katta tomoni"
+    ],
+    [
+      "Katet",
+      "To'g'ri burchak hosil qiluvchi tomonlar"
+    ],
+    [
+      "Aylana",
+      "x² + y² = R² ko'rinishidagi tenglama grafigi"
+    ],
+    [
+      "Pifagor",
+      "a² + b² = c² teoremasi"
+    ],
+    [
+      "Harakat",
+      "v = s/t bog'lanishli matnli masalalar"
+    ],
+    [
+      "Hamkorlik",
+      "Birgalikda ish bajarish unumdorlik masalalari"
+    ],
+    [
+      "x² + y² = a",
+      "Markazi (0; 0), radiusi √a bo'lgan aylana"
+    ],
+    [
+      "x² − y² = (x−y)(x+y)",
+      "Sistemani soddalashtirish usuli"
+    ],
+    [
+      "(x+y)² = x²+2xy+y²",
+      "Simmetrik sistemalarda asosiy ayniyat"
+    ],
+    [
+      "(x−y)² = x²−2xy+y²",
+      "Ayirmani kvadrat orqali topish"
+    ],
+    [
+      "4 ta yechim",
+      "Ikki ikkinchi darajali tenglama sistemasida max yechimlar"
+    ],
+    [
+      "Ish unumdorligi",
+      "1/t₁ + 1/t₂ = 1/T formula"
+    ],
+    [
+      "O'rtacha tezlik",
+      "Daryo oqimi bo'ylab v+u va qarshi v−u"
+    ],
+    [
+      "Diagonal",
+      "To'g'ri to'rtburchakda d² = a² + b²"
+    ],
+    [
+      "Ikki xonali son",
+      "10a + b ko'rinishida yozilishi"
+    ],
+    [
+      "Raqamlar yig'indisi",
+      "a + b tenglama sharti"
+    ],
+    [
+      "To'la kvadrat",
+      "x² + 2xy + y² ni (x + y)² ga yig'ish"
+    ],
+    [
+      "Nolinchi ko'paytma",
+      "(x − a)(y − b) = 0 bo'lishi"
+    ],
+    [
+      "Radius",
+      "x² + y² = R² tenglamadagi R soni"
+    ],
+    [
+      "Kvadratlar yig'indisi",
+      "x² + y² qiymati har doim ≥ 0"
+    ]
+  ]
+}

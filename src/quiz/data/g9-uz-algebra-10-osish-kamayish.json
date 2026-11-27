@@ -1,0 +1,3850 @@
+{
+  "id": "g9-uz-algebra-10-osish-kamayish",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "10-§. Funksiyaning o'sishi va kamayishi",
+  "title": "10-§. Funksiyaning o'sishi va kamayishi",
+  "source": "Algebra 9-sinf (2019), I bob, 10-§, 41–46-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Agar oraliqdagi har qanday x₂ > x₁ uchun f(x₂) > f(x₁) bajarilsa, funksiya bu oraliqda qanday bo'ladi?",
+      "options": [
+        "Juft",
+        "O'zgarmas",
+        "Kamayuvchi",
+        "O'suvchi"
+      ],
+      "answer": 3,
+      "explain": "Katta argumentga katta qiymat mos kelsa, funksiya o'suvchidir."
+    },
+    {
+      "type": "choice",
+      "q": "y = −4x + 7 chiziqli funksiya barcha haqiqiy sonlarda qanday xossaga ega?",
+      "options": [
+        "Kamayuvchi",
+        "O'suvchi",
+        "Juft",
+        "O'zgarmas"
+      ],
+      "answer": 0,
+      "explain": "k = −4 < 0 bo'lgani uchun chiziqli funksiya barcha R da kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √x funksiya [0; +∞) aniqlanish sohasida o'suvchidir.",
+      "answer": true,
+      "explain": "x₂ > x₁ ≥ 0 da √x₂ > √x₁ bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 6/x funksiya butun son o'qida kamayadi.",
+      "answer": false,
+      "explain": "x = 0 nuqta aniqlanish sohasiga kirmaydi: f(−1) = −6 < f(1) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 48x − 195 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[-8; +∞)",
+        "(−∞; -8]",
+        "(0; +∞)",
+        "(−∞; 8]"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -8, a = -3 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 42x − 149 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-7; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -7]",
+        "[7; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = -7, a = -3 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 36x − 109 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[-6; +∞)",
+        "(−∞; -6]",
+        "(0; +∞)",
+        "(−∞; 6]"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -6, a = -3 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 30x − 75 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-5; +∞)",
+        "[5; +∞)",
+        "(−∞; -5]",
+        "(−∞; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = -5, a = -3 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 24x − 52 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; 4]",
+        "[-4; +∞)",
+        "(−∞; -4]",
+        "(0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -4, a = -3 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 18x − 30 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-3; +∞)",
+        "(−∞; -3]",
+        "[3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = -3, a = -3 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 12x − 14 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[-2; +∞)",
+        "(−∞; 2]",
+        "(−∞; -2]",
+        "(0; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -2, a = -3 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 6x − 4 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-1; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -1]",
+        "[1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = -1, a = -3 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 6x − 2 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[1; +∞)",
+        "(−∞; 1]",
+        "[-1; +∞)",
+        "(−∞; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = 1, a = -3 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 12x − 10 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -2]",
+        "[2; +∞)",
+        "(−∞; 2]",
+        "(0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = 2, a = -3 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 18x − 24 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[3; +∞)",
+        "[-3; +∞)",
+        "(−∞; 3]",
+        "(−∞; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = 3, a = -3 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 24x − 44 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[4; +∞)",
+        "(0; +∞)",
+        "(−∞; 4]",
+        "(−∞; -4]"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 4, a = -3 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 30x − 75 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; 5]",
+        "[5; +∞)",
+        "(−∞; +∞)",
+        "[-5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi x₀ = 5, a = -3 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 36x − 107 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -6]",
+        "[6; +∞)",
+        "(0; +∞)",
+        "(−∞; 6]"
+      ],
+      "answer": 1,
+      "explain": "x₀ = 6, a = -3 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 42x − 145 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-7; +∞)",
+        "[7; +∞)",
+        "(−∞; 7]",
+        "(−∞; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = 7, a = -3 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 48x − 189 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; 8]",
+        "[8; +∞)",
+        "(0; +∞)",
+        "(−∞; -8]"
+      ],
+      "answer": 1,
+      "explain": "x₀ = 8, a = -3 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 32x − 131 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[8; +∞)",
+        "[-8; +∞)",
+        "(−∞; -8]",
+        "(−∞; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = -8, a = -2 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 28x − 100 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; 7]",
+        "[-7; +∞)",
+        "(−∞; -7]",
+        "(0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -7, a = -2 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 24x − 73 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[6; +∞)",
+        "(−∞; +∞)",
+        "[-6; +∞)",
+        "(−∞; -6]"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = -6, a = -2 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 20x − 50 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -5]",
+        "(0; +∞)",
+        "(−∞; 5]",
+        "[-5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -5, a = -2 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 16x − 36 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; -4]",
+        "[-4; +∞)",
+        "[4; +∞)",
+        "(−∞; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi x₀ = -4, a = -2 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 12x − 21 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -3]",
+        "[-3; +∞)",
+        "(0; +∞)",
+        "(−∞; 3]"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -3, a = -2 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 8x − 10 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; -2]",
+        "[2; +∞)",
+        "[-2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = -2, a = -2 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 4x − 3 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[-1; +∞)",
+        "(0; +∞)",
+        "(−∞; 1]",
+        "(−∞; -1]"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -1, a = -2 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 4x − 1 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -1]",
+        "(0; +∞)",
+        "[1; +∞)",
+        "(−∞; 1]"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 1, a = -2 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 8x − 6 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-2; +∞)",
+        "(−∞; 2]",
+        "[2; +∞)",
+        "(−∞; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = 2, a = -2 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 12x − 15 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "(−∞; 3]",
+        "(−∞; -3]",
+        "[3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 3, a = -2 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 16x − 28 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-4; +∞)",
+        "(−∞; 4]",
+        "[4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = 4, a = -2 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 20x − 50 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[5; +∞)",
+        "(−∞; -5]",
+        "(−∞; 5]",
+        "(0; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 5, a = -2 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 24x − 71 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-6; +∞)",
+        "[6; +∞)",
+        "(−∞; 6]"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = 6, a = -2 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 28x − 96 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[7; +∞)",
+        "(−∞; -7]",
+        "(−∞; 7]",
+        "(0; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 7, a = -2 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 32x − 125 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[8; +∞)",
+        "[-8; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 8]"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = 8, a = -2 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 16x − 67 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "(−∞; -8]",
+        "[-8; +∞)",
+        "(−∞; 8]"
+      ],
+      "answer": 2,
+      "explain": "x₀ = -8, a = -1 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 14x − 51 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[7; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -7]",
+        "[-7; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = -7, a = -1 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 12x − 37 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "(−∞; 6]",
+        "(−∞; -6]",
+        "[-6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -6, a = -1 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 10x − 25 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[5; +∞)",
+        "[-5; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -5]"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = -5, a = -1 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 8x − 20 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "[-4; +∞)",
+        "(−∞; 4]",
+        "(−∞; -4]"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -4, a = -1 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 6x − 12 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-3; +∞)",
+        "[3; +∞)",
+        "(−∞; -3]"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = -3, a = -1 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 4x − 6 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; 2]",
+        "(−∞; -2]",
+        "(0; +∞)",
+        "[-2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -2, a = -1 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 2x − 2 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-1; +∞)",
+        "(−∞; -1]",
+        "[1; +∞)",
+        "(−∞; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = -1, a = -1 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² + 2x funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-1; +∞)",
+        "[1; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 1]"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = 1, a = -1 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² + 4x − 2 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "[2; +∞)",
+        "(−∞; -2]",
+        "(−∞; 2]"
+      ],
+      "answer": 1,
+      "explain": "x₀ = 2, a = -1 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² + 6x − 6 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; 3]",
+        "[-3; +∞)",
+        "[3; +∞)",
+        "(−∞; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi x₀ = 3, a = -1 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² + 8x − 12 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[4; +∞)",
+        "(−∞; 4]",
+        "(0; +∞)",
+        "(−∞; -4]"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 4, a = -1 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² + 10x − 25 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-5; +∞)",
+        "[5; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 5]"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = 5, a = -1 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² + 12x − 35 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[6; +∞)",
+        "(−∞; 6]",
+        "(0; +∞)",
+        "(−∞; -6]"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 6, a = -1 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² + 14x − 47 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[7; +∞)",
+        "(−∞; 7]",
+        "[-7; +∞)",
+        "(−∞; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = 7, a = -1 < 0 ⇒ (−∞; x₀] da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² + 16x − 61 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "[8; +∞)",
+        "(−∞; -8]",
+        "(−∞; 8]"
+      ],
+      "answer": 1,
+      "explain": "x₀ = 8, a = -1 < 0 ⇒ [x₀; +∞) da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 16x + 61 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; 8]",
+        "(−∞; -8]",
+        "[-8; +∞)",
+        "(0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -8, a = 1 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 14x + 47 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; -7]",
+        "[-7; +∞)",
+        "(−∞; +∞)",
+        "[7; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = -7, a = 1 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 12x + 35 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "(−∞; -6]",
+        "[-6; +∞)",
+        "(−∞; 6]"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -6, a = 1 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 10x + 25 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-5; +∞)",
+        "(−∞; -5]",
+        "[5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = -5, a = 1 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 12 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; 4]",
+        "(0; +∞)",
+        "[-4; +∞)",
+        "(−∞; -4]"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -4, a = 1 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 6 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-3; +∞)",
+        "[3; +∞)",
+        "(−∞; -3]",
+        "(−∞; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi x₀ = -3, a = 1 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 2 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -2]",
+        "[-2; +∞)",
+        "(−∞; 2]",
+        "(0; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -2, a = 1 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[1; +∞)",
+        "[-1; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -1]"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = -1, a = 1 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x + 2 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-1; +∞)",
+        "[1; +∞)",
+        "(−∞; 1]"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = 1, a = 1 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 6 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[2; +∞)",
+        "(−∞; -2]",
+        "(−∞; 2]",
+        "(0; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 2, a = 1 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 12 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-3; +∞)",
+        "(−∞; +∞)",
+        "[3; +∞)",
+        "(−∞; 3]"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = 3, a = 1 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 20 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -4]",
+        "[4; +∞)",
+        "(−∞; 4]",
+        "(0; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 4, a = 1 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 10x + 25 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-5; +∞)",
+        "[5; +∞)",
+        "(−∞; 5]"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = 5, a = 1 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 12x + 37 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -6]",
+        "[6; +∞)",
+        "(−∞; 6]",
+        "(0; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 6, a = 1 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 14x + 51 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; 7]",
+        "[-7; +∞)",
+        "(−∞; +∞)",
+        "[7; +∞)"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = 7, a = 1 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 16x + 67 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -8]",
+        "(0; +∞)",
+        "(−∞; 8]",
+        "[8; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 8, a = 1 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² + 32x + 125 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[8; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -8]",
+        "[-8; +∞)"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = -8, a = 2 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² + 28x + 96 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[-7; +∞)",
+        "(−∞; 7]",
+        "(0; +∞)",
+        "(−∞; -7]"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -7, a = 2 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² + 24x + 71 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; -6]",
+        "[6; +∞)",
+        "(−∞; +∞)",
+        "[-6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = -6, a = 2 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² + 20x + 50 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -5]",
+        "[-5; +∞)",
+        "(−∞; 5]",
+        "(0; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -5, a = 2 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² + 16x + 28 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; -4]",
+        "(−∞; +∞)",
+        "[-4; +∞)",
+        "[4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = -4, a = 2 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² + 12x + 15 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[-3; +∞)",
+        "(−∞; -3]",
+        "(0; +∞)",
+        "(−∞; 3]"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -3, a = 2 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² + 8x + 6 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-2; +∞)",
+        "[2; +∞)",
+        "(−∞; -2]"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = -2, a = 2 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² + 4x + 1 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "[-1; +∞)",
+        "(−∞; 1]",
+        "(−∞; -1]"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -1, a = 2 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² − 4x + 3 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; 1]",
+        "(−∞; -1]",
+        "[1; +∞)",
+        "(0; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 1, a = 2 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² − 8x + 10 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; 2]",
+        "[2; +∞)",
+        "(−∞; +∞)",
+        "[-2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = 2, a = 2 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² − 12x + 21 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[3; +∞)",
+        "(−∞; 3]",
+        "(−∞; -3]",
+        "(0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = 3, a = 2 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² − 16x + 36 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-4; +∞)",
+        "[4; +∞)",
+        "(−∞; 4]"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = 4, a = 2 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² − 20x + 50 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "[5; +∞)",
+        "(−∞; -5]",
+        "(−∞; 5]"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 5, a = 2 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² − 24x + 73 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-6; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 6]",
+        "[6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = 6, a = 2 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² − 28x + 100 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -7]",
+        "[7; +∞)",
+        "(−∞; 7]",
+        "(0; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 7, a = 2 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2x² − 32x + 131 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-8; +∞)",
+        "(−∞; +∞)",
+        "[8; +∞)",
+        "(−∞; 8]"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = 8, a = 2 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² + 48x + 189 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "(−∞; 8]",
+        "(−∞; -8]",
+        "[-8; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = -8, a = 3 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² + 42x + 145 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; -7]",
+        "[-7; +∞)",
+        "[7; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = -7, a = 3 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² + 36x + 107 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -6]",
+        "(0; +∞)",
+        "(−∞; 6]",
+        "[-6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -6, a = 3 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² + 30x + 75 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; -5]",
+        "[-5; +∞)",
+        "(−∞; +∞)",
+        "[5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi x₀ = -5, a = 3 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² + 24x + 44 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[-4; +∞)",
+        "(−∞; 4]",
+        "(−∞; -4]",
+        "(0; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = -4, a = 3 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² + 18x + 24 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-3; +∞)",
+        "[3; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -3]"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi x₀ = -3, a = 3 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² + 12x + 10 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "[-2; +∞)",
+        "(−∞; -2]",
+        "(−∞; 2]",
+        "(0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -2, a = 3 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² + 6x + 2 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[-1; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -1]",
+        "[1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi x₀ = -1, a = 3 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² − 6x + 4 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; 1]",
+        "[1; +∞)",
+        "[-1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi x₀ = 1, a = 3 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² − 12x + 14 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "(−∞; 2]",
+        "(−∞; -2]",
+        "[2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = 2, a = 3 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² − 18x + 30 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-3; +∞)",
+        "(−∞; 3]",
+        "[3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi x₀ = 3, a = 3 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² − 24x + 52 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(0; +∞)",
+        "(−∞; -4]",
+        "[4; +∞)",
+        "(−∞; 4]"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 4, a = 3 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² − 30x + 75 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[5; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 5]",
+        "[-5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi x₀ = 5, a = 3 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² − 36x + 109 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; 6]",
+        "[6; +∞)",
+        "(0; +∞)",
+        "(−∞; -6]"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 6, a = 3 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² − 42x + 149 funksiyaning o'sish oralig'ini toping.",
+      "options": [
+        "[7; +∞)",
+        "(−∞; +∞)",
+        "[-7; +∞)",
+        "(−∞; 7]"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi x₀ = 7, a = 3 > 0 ⇒ [x₀; +∞) da o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3x² − 48x + 195 funksiyaning kamayish oralig'ini toping.",
+      "options": [
+        "(−∞; -8]",
+        "[8; +∞)",
+        "(0; +∞)",
+        "(−∞; 8]"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 8, a = 3 > 0 ⇒ (−∞; x₀] da kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −15x funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -15 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -15/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'zgarmas",
+        "Kamayuvchi",
+        "O'suvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 2,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −14x − 6 funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -14 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -14/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "O'suvchi",
+        "O'zgarmas",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 1,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −13x − 3 funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -13 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -13/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'zgarmas",
+        "O'suvchi",
+        "Kamayuvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 1,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −12x funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -12 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -12/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "Avval o'sib, keyin kamayadi",
+        "O'zgarmas",
+        "O'suvchi"
+      ],
+      "answer": 3,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −11x − 6 funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -11 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -11/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'zgarmas",
+        "Kamayuvchi",
+        "O'suvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 2,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −10x − 3 funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -10 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -10/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'zgarmas",
+        "O'suvchi",
+        "Kamayuvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 1,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −9x funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -9 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -9/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "O'zgarmas",
+        "O'suvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 2,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −8x − 6 funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -8 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -8/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'zgarmas",
+        "Avval o'sib, keyin kamayadi",
+        "O'suvchi",
+        "Kamayuvchi"
+      ],
+      "answer": 2,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −7x − 3 funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -7 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -7/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'zgarmas",
+        "O'suvchi",
+        "Kamayuvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 1,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −6x funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -6 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -6/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Avval o'sib, keyin kamayadi",
+        "O'suvchi",
+        "Kamayuvchi",
+        "O'zgarmas"
+      ],
+      "answer": 1,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −5x − 6 funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -5 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -5/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "O'suvchi",
+        "Avval o'sib, keyin kamayadi",
+        "O'zgarmas"
+      ],
+      "answer": 1,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −4x − 3 funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -4 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -4/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "O'zgarmas",
+        "Avval o'sib, keyin kamayadi",
+        "O'suvchi"
+      ],
+      "answer": 3,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -3 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -3/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "O'zgarmas",
+        "O'suvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 2,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x − 6 funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -2 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -2/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Avval o'sib, keyin kamayadi",
+        "Kamayuvchi",
+        "O'zgarmas",
+        "O'suvchi"
+      ],
+      "answer": 3,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −x − 3 funksiya (−∞; +∞) da kamayuvchi.",
+      "answer": true,
+      "explain": "k = -1 < 0 bo'lgani uchun kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = -1/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Avval o'sib, keyin kamayadi",
+        "O'suvchi",
+        "O'zgarmas",
+        "Kamayuvchi"
+      ],
+      "answer": 1,
+      "explain": "y = k/x da k < 0 ⇒ o'sadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x + 3 funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 1 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "O'zgarmas",
+        "Avval o'sib, keyin kamayadi",
+        "O'suvchi"
+      ],
+      "answer": 0,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 2x + 6 funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 2 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 2/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'zgarmas",
+        "O'suvchi",
+        "Kamayuvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 2,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 3x funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 3 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 3/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'suvchi",
+        "Kamayuvchi",
+        "O'zgarmas",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 1,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 4x + 3 funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 4 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 4/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'suvchi",
+        "Avval o'sib, keyin kamayadi",
+        "O'zgarmas",
+        "Kamayuvchi"
+      ],
+      "answer": 3,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 5x + 6 funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 5 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 5/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'zgarmas",
+        "Kamayuvchi",
+        "O'suvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 1,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 6x funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 6 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 6/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'zgarmas",
+        "Kamayuvchi",
+        "O'suvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 1,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 7x + 3 funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 7 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 7/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Avval o'sib, keyin kamayadi",
+        "O'zgarmas",
+        "O'suvchi",
+        "Kamayuvchi"
+      ],
+      "answer": 3,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 8x + 6 funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 8 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 8/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "Avval o'sib, keyin kamayadi",
+        "O'zgarmas",
+        "O'suvchi"
+      ],
+      "answer": 0,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 9x funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 9 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 9/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Avval o'sib, keyin kamayadi",
+        "O'zgarmas",
+        "Kamayuvchi",
+        "O'suvchi"
+      ],
+      "answer": 2,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 10x + 3 funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 10 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 10/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "Avval o'sib, keyin kamayadi",
+        "O'suvchi",
+        "O'zgarmas"
+      ],
+      "answer": 0,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 11x + 6 funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 11 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 11/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "O'zgarmas",
+        "O'suvchi",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 0,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 12x funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 12 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 12/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Avval o'sib, keyin kamayadi",
+        "O'zgarmas",
+        "Kamayuvchi",
+        "O'suvchi"
+      ],
+      "answer": 2,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 13x + 3 funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 13 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 13/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "O'suvchi",
+        "Avval o'sib, keyin kamayadi",
+        "O'zgarmas",
+        "Kamayuvchi"
+      ],
+      "answer": 3,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 14x + 6 funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 14 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 14/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Avval o'sib, keyin kamayadi",
+        "O'zgarmas",
+        "Kamayuvchi",
+        "O'suvchi"
+      ],
+      "answer": 2,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 15x funksiya (−∞; +∞) da o'suvchi.",
+      "answer": true,
+      "explain": "k = 15 > 0 bo'lgani uchun o'sadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = 15/x funksiya (0; +∞) oraliqda qanday bo'ladi?",
+      "options": [
+        "Kamayuvchi",
+        "O'suvchi",
+        "O'zgarmas",
+        "Avval o'sib, keyin kamayadi"
+      ],
+      "answer": 0,
+      "explain": "y = k/x da k > 0 ⇒ kamayadi."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² uchun f(-4) va f(-2) qiymatlarni taqqoslang.",
+      "options": [
+        "f(-4) < f(-2)",
+        "Taqqoslab bo'lmaydi",
+        "f(-4) = f(-2)",
+        "f(-4) > f(-2)"
+      ],
+      "answer": 0,
+      "explain": "-2 > -4 ≥ -5 bo'lib, funksiya [-5; +∞) da o'sadi, demak f(-4) < f(-2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² uchun f(-3) va f(-1) qiymatlarni taqqoslang.",
+      "options": [
+        "f(-3) > f(-1)",
+        "f(-3) = f(-1)",
+        "f(-3) < f(-1)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "-1 > -3 ≥ -5 bo'lib, funksiya [-5; +∞) da o'sadi, demak f(-3) < f(-1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² uchun f(-2) va f(0) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-2) = f(0)",
+        "f(-2) > f(0)",
+        "f(-2) < f(0)"
+      ],
+      "answer": 3,
+      "explain": "0 > -2 ≥ -5 bo'lib, funksiya [-5; +∞) da o'sadi, demak f(-2) < f(0)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² uchun f(-1) va f(1) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-1) > f(1)",
+        "f(-1) = f(1)",
+        "f(-1) < f(1)"
+      ],
+      "answer": 3,
+      "explain": "1 > -1 ≥ -5 bo'lib, funksiya [-5; +∞) da o'sadi, demak f(-1) < f(1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² uchun f(0) va f(2) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(0) = f(2)",
+        "f(0) < f(2)",
+        "f(0) > f(2)"
+      ],
+      "answer": 2,
+      "explain": "2 > 0 ≥ -5 bo'lib, funksiya [-5; +∞) da o'sadi, demak f(0) < f(2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² uchun f(1) va f(3) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(1) < f(3)",
+        "f(1) = f(3)",
+        "f(1) > f(3)"
+      ],
+      "answer": 1,
+      "explain": "3 > 1 ≥ -5 bo'lib, funksiya [-5; +∞) da o'sadi, demak f(1) < f(3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² uchun f(2) va f(4) qiymatlarni taqqoslang.",
+      "options": [
+        "f(2) = f(4)",
+        "f(2) < f(4)",
+        "f(2) > f(4)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "4 > 2 ≥ -5 bo'lib, funksiya [-5; +∞) da o'sadi, demak f(2) < f(4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² uchun f(3) va f(5) qiymatlarni taqqoslang.",
+      "options": [
+        "f(3) > f(5)",
+        "Taqqoslab bo'lmaydi",
+        "f(3) < f(5)",
+        "f(3) = f(5)"
+      ],
+      "answer": 2,
+      "explain": "5 > 3 ≥ -5 bo'lib, funksiya [-5; +∞) da o'sadi, demak f(3) < f(5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² uchun f(-3) va f(-1) qiymatlarni taqqoslang.",
+      "options": [
+        "f(-3) = f(-1)",
+        "Taqqoslab bo'lmaydi",
+        "f(-3) > f(-1)",
+        "f(-3) < f(-1)"
+      ],
+      "answer": 3,
+      "explain": "-1 > -3 ≥ -4 bo'lib, funksiya [-4; +∞) da o'sadi, demak f(-3) < f(-1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² uchun f(-2) va f(0) qiymatlarni taqqoslang.",
+      "options": [
+        "f(-2) = f(0)",
+        "f(-2) < f(0)",
+        "Taqqoslab bo'lmaydi",
+        "f(-2) > f(0)"
+      ],
+      "answer": 1,
+      "explain": "0 > -2 ≥ -4 bo'lib, funksiya [-4; +∞) da o'sadi, demak f(-2) < f(0)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² uchun f(-1) va f(1) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-1) > f(1)",
+        "f(-1) < f(1)",
+        "f(-1) = f(1)"
+      ],
+      "answer": 2,
+      "explain": "1 > -1 ≥ -4 bo'lib, funksiya [-4; +∞) da o'sadi, demak f(-1) < f(1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² uchun f(0) va f(2) qiymatlarni taqqoslang.",
+      "options": [
+        "f(0) = f(2)",
+        "Taqqoslab bo'lmaydi",
+        "f(0) < f(2)",
+        "f(0) > f(2)"
+      ],
+      "answer": 2,
+      "explain": "2 > 0 ≥ -4 bo'lib, funksiya [-4; +∞) da o'sadi, demak f(0) < f(2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² uchun f(1) va f(3) qiymatlarni taqqoslang.",
+      "options": [
+        "f(1) < f(3)",
+        "f(1) > f(3)",
+        "f(1) = f(3)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "3 > 1 ≥ -4 bo'lib, funksiya [-4; +∞) da o'sadi, demak f(1) < f(3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² uchun f(2) va f(4) qiymatlarni taqqoslang.",
+      "options": [
+        "f(2) > f(4)",
+        "f(2) = f(4)",
+        "f(2) < f(4)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "4 > 2 ≥ -4 bo'lib, funksiya [-4; +∞) da o'sadi, demak f(2) < f(4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² uchun f(3) va f(5) qiymatlarni taqqoslang.",
+      "options": [
+        "f(3) > f(5)",
+        "Taqqoslab bo'lmaydi",
+        "f(3) = f(5)",
+        "f(3) < f(5)"
+      ],
+      "answer": 3,
+      "explain": "5 > 3 ≥ -4 bo'lib, funksiya [-4; +∞) da o'sadi, demak f(3) < f(5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² uchun f(4) va f(6) qiymatlarni taqqoslang.",
+      "options": [
+        "f(4) < f(6)",
+        "Taqqoslab bo'lmaydi",
+        "f(4) > f(6)",
+        "f(4) = f(6)"
+      ],
+      "answer": 0,
+      "explain": "6 > 4 ≥ -4 bo'lib, funksiya [-4; +∞) da o'sadi, demak f(4) < f(6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² uchun f(-2) va f(0) qiymatlarni taqqoslang.",
+      "options": [
+        "f(-2) < f(0)",
+        "f(-2) = f(0)",
+        "Taqqoslab bo'lmaydi",
+        "f(-2) > f(0)"
+      ],
+      "answer": 0,
+      "explain": "0 > -2 ≥ -3 bo'lib, funksiya [-3; +∞) da o'sadi, demak f(-2) < f(0)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² uchun f(-1) va f(1) qiymatlarni taqqoslang.",
+      "options": [
+        "f(-1) > f(1)",
+        "f(-1) < f(1)",
+        "f(-1) = f(1)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "1 > -1 ≥ -3 bo'lib, funksiya [-3; +∞) da o'sadi, demak f(-1) < f(1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² uchun f(0) va f(2) qiymatlarni taqqoslang.",
+      "options": [
+        "f(0) < f(2)",
+        "f(0) = f(2)",
+        "f(0) > f(2)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "2 > 0 ≥ -3 bo'lib, funksiya [-3; +∞) da o'sadi, demak f(0) < f(2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² uchun f(1) va f(3) qiymatlarni taqqoslang.",
+      "options": [
+        "f(1) > f(3)",
+        "Taqqoslab bo'lmaydi",
+        "f(1) = f(3)",
+        "f(1) < f(3)"
+      ],
+      "answer": 3,
+      "explain": "3 > 1 ≥ -3 bo'lib, funksiya [-3; +∞) da o'sadi, demak f(1) < f(3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² uchun f(2) va f(4) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(2) > f(4)",
+        "f(2) < f(4)",
+        "f(2) = f(4)"
+      ],
+      "answer": 2,
+      "explain": "4 > 2 ≥ -3 bo'lib, funksiya [-3; +∞) da o'sadi, demak f(2) < f(4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² uchun f(3) va f(5) qiymatlarni taqqoslang.",
+      "options": [
+        "f(3) = f(5)",
+        "Taqqoslab bo'lmaydi",
+        "f(3) < f(5)",
+        "f(3) > f(5)"
+      ],
+      "answer": 2,
+      "explain": "5 > 3 ≥ -3 bo'lib, funksiya [-3; +∞) da o'sadi, demak f(3) < f(5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² uchun f(4) va f(6) qiymatlarni taqqoslang.",
+      "options": [
+        "f(4) > f(6)",
+        "f(4) = f(6)",
+        "f(4) < f(6)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "6 > 4 ≥ -3 bo'lib, funksiya [-3; +∞) da o'sadi, demak f(4) < f(6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² uchun f(5) va f(7) qiymatlarni taqqoslang.",
+      "options": [
+        "f(5) = f(7)",
+        "Taqqoslab bo'lmaydi",
+        "f(5) > f(7)",
+        "f(5) < f(7)"
+      ],
+      "answer": 3,
+      "explain": "7 > 5 ≥ -3 bo'lib, funksiya [-3; +∞) da o'sadi, demak f(5) < f(7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² uchun f(-1) va f(1) qiymatlarni taqqoslang.",
+      "options": [
+        "f(-1) > f(1)",
+        "f(-1) = f(1)",
+        "Taqqoslab bo'lmaydi",
+        "f(-1) < f(1)"
+      ],
+      "answer": 3,
+      "explain": "1 > -1 ≥ -2 bo'lib, funksiya [-2; +∞) da o'sadi, demak f(-1) < f(1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² uchun f(0) va f(2) qiymatlarni taqqoslang.",
+      "options": [
+        "f(0) > f(2)",
+        "Taqqoslab bo'lmaydi",
+        "f(0) < f(2)",
+        "f(0) = f(2)"
+      ],
+      "answer": 2,
+      "explain": "2 > 0 ≥ -2 bo'lib, funksiya [-2; +∞) da o'sadi, demak f(0) < f(2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² uchun f(1) va f(3) qiymatlarni taqqoslang.",
+      "options": [
+        "f(1) < f(3)",
+        "f(1) > f(3)",
+        "Taqqoslab bo'lmaydi",
+        "f(1) = f(3)"
+      ],
+      "answer": 0,
+      "explain": "3 > 1 ≥ -2 bo'lib, funksiya [-2; +∞) da o'sadi, demak f(1) < f(3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² uchun f(2) va f(4) qiymatlarni taqqoslang.",
+      "options": [
+        "f(2) < f(4)",
+        "f(2) > f(4)",
+        "Taqqoslab bo'lmaydi",
+        "f(2) = f(4)"
+      ],
+      "answer": 0,
+      "explain": "4 > 2 ≥ -2 bo'lib, funksiya [-2; +∞) da o'sadi, demak f(2) < f(4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² uchun f(3) va f(5) qiymatlarni taqqoslang.",
+      "options": [
+        "f(3) > f(5)",
+        "f(3) = f(5)",
+        "f(3) < f(5)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "5 > 3 ≥ -2 bo'lib, funksiya [-2; +∞) da o'sadi, demak f(3) < f(5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² uchun f(4) va f(6) qiymatlarni taqqoslang.",
+      "options": [
+        "f(4) = f(6)",
+        "f(4) < f(6)",
+        "Taqqoslab bo'lmaydi",
+        "f(4) > f(6)"
+      ],
+      "answer": 1,
+      "explain": "6 > 4 ≥ -2 bo'lib, funksiya [-2; +∞) da o'sadi, demak f(4) < f(6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² uchun f(5) va f(7) qiymatlarni taqqoslang.",
+      "options": [
+        "f(5) = f(7)",
+        "f(5) < f(7)",
+        "Taqqoslab bo'lmaydi",
+        "f(5) > f(7)"
+      ],
+      "answer": 1,
+      "explain": "7 > 5 ≥ -2 bo'lib, funksiya [-2; +∞) da o'sadi, demak f(5) < f(7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² uchun f(6) va f(8) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(6) = f(8)",
+        "f(6) < f(8)",
+        "f(6) > f(8)"
+      ],
+      "answer": 2,
+      "explain": "8 > 6 ≥ -2 bo'lib, funksiya [-2; +∞) da o'sadi, demak f(6) < f(8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² uchun f(0) va f(2) qiymatlarni taqqoslang.",
+      "options": [
+        "f(0) > f(2)",
+        "f(0) < f(2)",
+        "Taqqoslab bo'lmaydi",
+        "f(0) = f(2)"
+      ],
+      "answer": 1,
+      "explain": "2 > 0 ≥ -1 bo'lib, funksiya [-1; +∞) da o'sadi, demak f(0) < f(2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² uchun f(1) va f(3) qiymatlarni taqqoslang.",
+      "options": [
+        "f(1) > f(3)",
+        "Taqqoslab bo'lmaydi",
+        "f(1) = f(3)",
+        "f(1) < f(3)"
+      ],
+      "answer": 3,
+      "explain": "3 > 1 ≥ -1 bo'lib, funksiya [-1; +∞) da o'sadi, demak f(1) < f(3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² uchun f(2) va f(4) qiymatlarni taqqoslang.",
+      "options": [
+        "f(2) = f(4)",
+        "f(2) > f(4)",
+        "Taqqoslab bo'lmaydi",
+        "f(2) < f(4)"
+      ],
+      "answer": 3,
+      "explain": "4 > 2 ≥ -1 bo'lib, funksiya [-1; +∞) da o'sadi, demak f(2) < f(4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² uchun f(3) va f(5) qiymatlarni taqqoslang.",
+      "options": [
+        "f(3) > f(5)",
+        "f(3) < f(5)",
+        "f(3) = f(5)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "5 > 3 ≥ -1 bo'lib, funksiya [-1; +∞) da o'sadi, demak f(3) < f(5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² uchun f(4) va f(6) qiymatlarni taqqoslang.",
+      "options": [
+        "f(4) = f(6)",
+        "f(4) < f(6)",
+        "Taqqoslab bo'lmaydi",
+        "f(4) > f(6)"
+      ],
+      "answer": 1,
+      "explain": "6 > 4 ≥ -1 bo'lib, funksiya [-1; +∞) da o'sadi, demak f(4) < f(6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² uchun f(5) va f(7) qiymatlarni taqqoslang.",
+      "options": [
+        "f(5) < f(7)",
+        "f(5) = f(7)",
+        "Taqqoslab bo'lmaydi",
+        "f(5) > f(7)"
+      ],
+      "answer": 0,
+      "explain": "7 > 5 ≥ -1 bo'lib, funksiya [-1; +∞) da o'sadi, demak f(5) < f(7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² uchun f(6) va f(8) qiymatlarni taqqoslang.",
+      "options": [
+        "f(6) = f(8)",
+        "f(6) > f(8)",
+        "f(6) < f(8)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "8 > 6 ≥ -1 bo'lib, funksiya [-1; +∞) da o'sadi, demak f(6) < f(8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² uchun f(7) va f(9) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(7) = f(9)",
+        "f(7) > f(9)",
+        "f(7) < f(9)"
+      ],
+      "answer": 3,
+      "explain": "9 > 7 ≥ -1 bo'lib, funksiya [-1; +∞) da o'sadi, demak f(7) < f(9)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² uchun f(1) va f(3) qiymatlarni taqqoslang.",
+      "options": [
+        "f(1) > f(3)",
+        "f(1) = f(3)",
+        "Taqqoslab bo'lmaydi",
+        "f(1) < f(3)"
+      ],
+      "answer": 3,
+      "explain": "3 > 1 ≥ 0 bo'lib, funksiya [0; +∞) da o'sadi, demak f(1) < f(3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² uchun f(2) va f(4) qiymatlarni taqqoslang.",
+      "options": [
+        "f(2) = f(4)",
+        "f(2) > f(4)",
+        "Taqqoslab bo'lmaydi",
+        "f(2) < f(4)"
+      ],
+      "answer": 3,
+      "explain": "4 > 2 ≥ 0 bo'lib, funksiya [0; +∞) da o'sadi, demak f(2) < f(4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² uchun f(3) va f(5) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(3) = f(5)",
+        "f(3) < f(5)",
+        "f(3) > f(5)"
+      ],
+      "answer": 2,
+      "explain": "5 > 3 ≥ 0 bo'lib, funksiya [0; +∞) da o'sadi, demak f(3) < f(5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² uchun f(4) va f(6) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(4) = f(6)",
+        "f(4) > f(6)",
+        "f(4) < f(6)"
+      ],
+      "answer": 3,
+      "explain": "6 > 4 ≥ 0 bo'lib, funksiya [0; +∞) da o'sadi, demak f(4) < f(6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² uchun f(5) va f(7) qiymatlarni taqqoslang.",
+      "options": [
+        "f(5) = f(7)",
+        "f(5) < f(7)",
+        "f(5) > f(7)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "7 > 5 ≥ 0 bo'lib, funksiya [0; +∞) da o'sadi, demak f(5) < f(7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² uchun f(6) va f(8) qiymatlarni taqqoslang.",
+      "options": [
+        "f(6) = f(8)",
+        "Taqqoslab bo'lmaydi",
+        "f(6) > f(8)",
+        "f(6) < f(8)"
+      ],
+      "answer": 3,
+      "explain": "8 > 6 ≥ 0 bo'lib, funksiya [0; +∞) da o'sadi, demak f(6) < f(8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² uchun f(7) va f(9) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(7) < f(9)",
+        "f(7) > f(9)",
+        "f(7) = f(9)"
+      ],
+      "answer": 1,
+      "explain": "9 > 7 ≥ 0 bo'lib, funksiya [0; +∞) da o'sadi, demak f(7) < f(9)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² uchun f(8) va f(10) qiymatlarni taqqoslang.",
+      "options": [
+        "f(8) > f(10)",
+        "f(8) < f(10)",
+        "Taqqoslab bo'lmaydi",
+        "f(8) = f(10)"
+      ],
+      "answer": 1,
+      "explain": "10 > 8 ≥ 0 bo'lib, funksiya [0; +∞) da o'sadi, demak f(8) < f(10)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² uchun f(2) va f(4) qiymatlarni taqqoslang.",
+      "options": [
+        "f(2) > f(4)",
+        "f(2) = f(4)",
+        "f(2) < f(4)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "4 > 2 ≥ 1 bo'lib, funksiya [1; +∞) da o'sadi, demak f(2) < f(4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² uchun f(3) va f(5) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(3) = f(5)",
+        "f(3) < f(5)",
+        "f(3) > f(5)"
+      ],
+      "answer": 2,
+      "explain": "5 > 3 ≥ 1 bo'lib, funksiya [1; +∞) da o'sadi, demak f(3) < f(5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² uchun f(4) va f(6) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(4) < f(6)",
+        "f(4) > f(6)",
+        "f(4) = f(6)"
+      ],
+      "answer": 1,
+      "explain": "6 > 4 ≥ 1 bo'lib, funksiya [1; +∞) da o'sadi, demak f(4) < f(6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² uchun f(5) va f(7) qiymatlarni taqqoslang.",
+      "options": [
+        "f(5) < f(7)",
+        "f(5) = f(7)",
+        "f(5) > f(7)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "7 > 5 ≥ 1 bo'lib, funksiya [1; +∞) da o'sadi, demak f(5) < f(7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² uchun f(6) va f(8) qiymatlarni taqqoslang.",
+      "options": [
+        "f(6) > f(8)",
+        "Taqqoslab bo'lmaydi",
+        "f(6) = f(8)",
+        "f(6) < f(8)"
+      ],
+      "answer": 3,
+      "explain": "8 > 6 ≥ 1 bo'lib, funksiya [1; +∞) da o'sadi, demak f(6) < f(8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² uchun f(7) va f(9) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(7) < f(9)",
+        "f(7) > f(9)",
+        "f(7) = f(9)"
+      ],
+      "answer": 1,
+      "explain": "9 > 7 ≥ 1 bo'lib, funksiya [1; +∞) da o'sadi, demak f(7) < f(9)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² uchun f(8) va f(10) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(8) > f(10)",
+        "f(8) < f(10)",
+        "f(8) = f(10)"
+      ],
+      "answer": 2,
+      "explain": "10 > 8 ≥ 1 bo'lib, funksiya [1; +∞) da o'sadi, demak f(8) < f(10)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² uchun f(9) va f(11) qiymatlarni taqqoslang.",
+      "options": [
+        "f(9) > f(11)",
+        "f(9) < f(11)",
+        "Taqqoslab bo'lmaydi",
+        "f(9) = f(11)"
+      ],
+      "answer": 1,
+      "explain": "11 > 9 ≥ 1 bo'lib, funksiya [1; +∞) da o'sadi, demak f(9) < f(11)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² uchun f(3) va f(5) qiymatlarni taqqoslang.",
+      "options": [
+        "f(3) < f(5)",
+        "f(3) = f(5)",
+        "f(3) > f(5)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "5 > 3 ≥ 2 bo'lib, funksiya [2; +∞) da o'sadi, demak f(3) < f(5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² uchun f(4) va f(6) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(4) > f(6)",
+        "f(4) = f(6)",
+        "f(4) < f(6)"
+      ],
+      "answer": 3,
+      "explain": "6 > 4 ≥ 2 bo'lib, funksiya [2; +∞) da o'sadi, demak f(4) < f(6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² uchun f(5) va f(7) qiymatlarni taqqoslang.",
+      "options": [
+        "f(5) > f(7)",
+        "f(5) < f(7)",
+        "f(5) = f(7)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "7 > 5 ≥ 2 bo'lib, funksiya [2; +∞) da o'sadi, demak f(5) < f(7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² uchun f(6) va f(8) qiymatlarni taqqoslang.",
+      "options": [
+        "f(6) > f(8)",
+        "f(6) = f(8)",
+        "f(6) < f(8)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "8 > 6 ≥ 2 bo'lib, funksiya [2; +∞) da o'sadi, demak f(6) < f(8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² uchun f(7) va f(9) qiymatlarni taqqoslang.",
+      "options": [
+        "f(7) = f(9)",
+        "f(7) < f(9)",
+        "Taqqoslab bo'lmaydi",
+        "f(7) > f(9)"
+      ],
+      "answer": 1,
+      "explain": "9 > 7 ≥ 2 bo'lib, funksiya [2; +∞) da o'sadi, demak f(7) < f(9)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² uchun f(8) va f(10) qiymatlarni taqqoslang.",
+      "options": [
+        "f(8) > f(10)",
+        "f(8) = f(10)",
+        "Taqqoslab bo'lmaydi",
+        "f(8) < f(10)"
+      ],
+      "answer": 3,
+      "explain": "10 > 8 ≥ 2 bo'lib, funksiya [2; +∞) da o'sadi, demak f(8) < f(10)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² uchun f(9) va f(11) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(9) < f(11)",
+        "f(9) = f(11)",
+        "f(9) > f(11)"
+      ],
+      "answer": 1,
+      "explain": "11 > 9 ≥ 2 bo'lib, funksiya [2; +∞) da o'sadi, demak f(9) < f(11)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² uchun f(10) va f(12) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(10) > f(12)",
+        "f(10) < f(12)",
+        "f(10) = f(12)"
+      ],
+      "answer": 2,
+      "explain": "12 > 10 ≥ 2 bo'lib, funksiya [2; +∞) da o'sadi, demak f(10) < f(12)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² uchun f(4) va f(6) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(4) = f(6)",
+        "f(4) > f(6)",
+        "f(4) < f(6)"
+      ],
+      "answer": 3,
+      "explain": "6 > 4 ≥ 3 bo'lib, funksiya [3; +∞) da o'sadi, demak f(4) < f(6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² uchun f(5) va f(7) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(5) < f(7)",
+        "f(5) > f(7)",
+        "f(5) = f(7)"
+      ],
+      "answer": 1,
+      "explain": "7 > 5 ≥ 3 bo'lib, funksiya [3; +∞) da o'sadi, demak f(5) < f(7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² uchun f(6) va f(8) qiymatlarni taqqoslang.",
+      "options": [
+        "f(6) < f(8)",
+        "f(6) > f(8)",
+        "f(6) = f(8)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "8 > 6 ≥ 3 bo'lib, funksiya [3; +∞) da o'sadi, demak f(6) < f(8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² uchun f(7) va f(9) qiymatlarni taqqoslang.",
+      "options": [
+        "f(7) < f(9)",
+        "f(7) > f(9)",
+        "Taqqoslab bo'lmaydi",
+        "f(7) = f(9)"
+      ],
+      "answer": 0,
+      "explain": "9 > 7 ≥ 3 bo'lib, funksiya [3; +∞) da o'sadi, demak f(7) < f(9)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² uchun f(8) va f(10) qiymatlarni taqqoslang.",
+      "options": [
+        "f(8) > f(10)",
+        "Taqqoslab bo'lmaydi",
+        "f(8) < f(10)",
+        "f(8) = f(10)"
+      ],
+      "answer": 2,
+      "explain": "10 > 8 ≥ 3 bo'lib, funksiya [3; +∞) da o'sadi, demak f(8) < f(10)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² uchun f(9) va f(11) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(9) < f(11)",
+        "f(9) = f(11)",
+        "f(9) > f(11)"
+      ],
+      "answer": 1,
+      "explain": "11 > 9 ≥ 3 bo'lib, funksiya [3; +∞) da o'sadi, demak f(9) < f(11)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² uchun f(10) va f(12) qiymatlarni taqqoslang.",
+      "options": [
+        "f(10) > f(12)",
+        "f(10) = f(12)",
+        "f(10) < f(12)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "12 > 10 ≥ 3 bo'lib, funksiya [3; +∞) da o'sadi, demak f(10) < f(12)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² uchun f(11) va f(13) qiymatlarni taqqoslang.",
+      "options": [
+        "f(11) < f(13)",
+        "f(11) = f(13)",
+        "Taqqoslab bo'lmaydi",
+        "f(11) > f(13)"
+      ],
+      "answer": 0,
+      "explain": "13 > 11 ≥ 3 bo'lib, funksiya [3; +∞) da o'sadi, demak f(11) < f(13)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² uchun f(5) va f(7) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(5) > f(7)",
+        "f(5) < f(7)",
+        "f(5) = f(7)"
+      ],
+      "answer": 2,
+      "explain": "7 > 5 ≥ 4 bo'lib, funksiya [4; +∞) da o'sadi, demak f(5) < f(7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² uchun f(6) va f(8) qiymatlarni taqqoslang.",
+      "options": [
+        "f(6) = f(8)",
+        "f(6) > f(8)",
+        "f(6) < f(8)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "8 > 6 ≥ 4 bo'lib, funksiya [4; +∞) da o'sadi, demak f(6) < f(8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² uchun f(7) va f(9) qiymatlarni taqqoslang.",
+      "options": [
+        "f(7) > f(9)",
+        "Taqqoslab bo'lmaydi",
+        "f(7) < f(9)",
+        "f(7) = f(9)"
+      ],
+      "answer": 2,
+      "explain": "9 > 7 ≥ 4 bo'lib, funksiya [4; +∞) da o'sadi, demak f(7) < f(9)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² uchun f(8) va f(10) qiymatlarni taqqoslang.",
+      "options": [
+        "f(8) < f(10)",
+        "f(8) > f(10)",
+        "f(8) = f(10)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "10 > 8 ≥ 4 bo'lib, funksiya [4; +∞) da o'sadi, demak f(8) < f(10)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² uchun f(9) va f(11) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(9) > f(11)",
+        "f(9) = f(11)",
+        "f(9) < f(11)"
+      ],
+      "answer": 3,
+      "explain": "11 > 9 ≥ 4 bo'lib, funksiya [4; +∞) da o'sadi, demak f(9) < f(11)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² uchun f(10) va f(12) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(10) > f(12)",
+        "f(10) = f(12)",
+        "f(10) < f(12)"
+      ],
+      "answer": 3,
+      "explain": "12 > 10 ≥ 4 bo'lib, funksiya [4; +∞) da o'sadi, demak f(10) < f(12)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² uchun f(11) va f(13) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(11) < f(13)",
+        "f(11) > f(13)",
+        "f(11) = f(13)"
+      ],
+      "answer": 1,
+      "explain": "13 > 11 ≥ 4 bo'lib, funksiya [4; +∞) da o'sadi, demak f(11) < f(13)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² uchun f(12) va f(14) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(12) > f(14)",
+        "f(12) < f(14)",
+        "f(12) = f(14)"
+      ],
+      "answer": 2,
+      "explain": "14 > 12 ≥ 4 bo'lib, funksiya [4; +∞) da o'sadi, demak f(12) < f(14)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² uchun f(6) va f(8) qiymatlarni taqqoslang.",
+      "options": [
+        "f(6) < f(8)",
+        "f(6) = f(8)",
+        "Taqqoslab bo'lmaydi",
+        "f(6) > f(8)"
+      ],
+      "answer": 0,
+      "explain": "8 > 6 ≥ 5 bo'lib, funksiya [5; +∞) da o'sadi, demak f(6) < f(8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² uchun f(7) va f(9) qiymatlarni taqqoslang.",
+      "options": [
+        "f(7) = f(9)",
+        "f(7) < f(9)",
+        "f(7) > f(9)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "9 > 7 ≥ 5 bo'lib, funksiya [5; +∞) da o'sadi, demak f(7) < f(9)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² uchun f(8) va f(10) qiymatlarni taqqoslang.",
+      "options": [
+        "f(8) > f(10)",
+        "f(8) < f(10)",
+        "f(8) = f(10)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "10 > 8 ≥ 5 bo'lib, funksiya [5; +∞) da o'sadi, demak f(8) < f(10)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² uchun f(9) va f(11) qiymatlarni taqqoslang.",
+      "options": [
+        "f(9) > f(11)",
+        "f(9) = f(11)",
+        "Taqqoslab bo'lmaydi",
+        "f(9) < f(11)"
+      ],
+      "answer": 3,
+      "explain": "11 > 9 ≥ 5 bo'lib, funksiya [5; +∞) da o'sadi, demak f(9) < f(11)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² uchun f(10) va f(12) qiymatlarni taqqoslang.",
+      "options": [
+        "f(10) < f(12)",
+        "f(10) > f(12)",
+        "f(10) = f(12)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "12 > 10 ≥ 5 bo'lib, funksiya [5; +∞) da o'sadi, demak f(10) < f(12)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² uchun f(11) va f(13) qiymatlarni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(11) < f(13)",
+        "f(11) > f(13)",
+        "f(11) = f(13)"
+      ],
+      "answer": 1,
+      "explain": "13 > 11 ≥ 5 bo'lib, funksiya [5; +∞) da o'sadi, demak f(11) < f(13)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² uchun f(12) va f(14) qiymatlarni taqqoslang.",
+      "options": [
+        "f(12) > f(14)",
+        "f(12) < f(14)",
+        "Taqqoslab bo'lmaydi",
+        "f(12) = f(14)"
+      ],
+      "answer": 1,
+      "explain": "14 > 12 ≥ 5 bo'lib, funksiya [5; +∞) da o'sadi, demak f(12) < f(14)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² uchun f(13) va f(15) qiymatlarni taqqoslang.",
+      "options": [
+        "f(13) > f(15)",
+        "f(13) = f(15)",
+        "Taqqoslab bo'lmaydi",
+        "f(13) < f(15)"
+      ],
+      "answer": 3,
+      "explain": "15 > 13 ≥ 5 bo'lib, funksiya [5; +∞) da o'sadi, demak f(13) < f(15)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² funksiya (−∞; -5] da kamayuvchi bo'lsa, f(-8) va f(-6) ni taqqoslang.",
+      "options": [
+        "f(-8) < f(-6)",
+        "Taqqoslab bo'lmaydi",
+        "f(-8) = f(-6)",
+        "f(-8) > f(-6)"
+      ],
+      "answer": 3,
+      "explain": "-8 < -6 ≤ -5 da funksiya kamayuvchi bo'lgani uchun f(-8) > f(-6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² funksiya (−∞; -5] da kamayuvchi bo'lsa, f(-9) va f(-7) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-9) = f(-7)",
+        "f(-9) < f(-7)",
+        "f(-9) > f(-7)"
+      ],
+      "answer": 3,
+      "explain": "-9 < -7 ≤ -5 da funksiya kamayuvchi bo'lgani uchun f(-9) > f(-7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² funksiya (−∞; -5] da kamayuvchi bo'lsa, f(-10) va f(-8) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-10) = f(-8)",
+        "f(-10) < f(-8)",
+        "f(-10) > f(-8)"
+      ],
+      "answer": 3,
+      "explain": "-10 < -8 ≤ -5 da funksiya kamayuvchi bo'lgani uchun f(-10) > f(-8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² funksiya (−∞; -5] da kamayuvchi bo'lsa, f(-11) va f(-9) ni taqqoslang.",
+      "options": [
+        "f(-11) = f(-9)",
+        "f(-11) > f(-9)",
+        "Taqqoslab bo'lmaydi",
+        "f(-11) < f(-9)"
+      ],
+      "answer": 1,
+      "explain": "-11 < -9 ≤ -5 da funksiya kamayuvchi bo'lgani uchun f(-11) > f(-9)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² funksiya (−∞; -5] da kamayuvchi bo'lsa, f(-12) va f(-10) ni taqqoslang.",
+      "options": [
+        "f(-12) < f(-10)",
+        "Taqqoslab bo'lmaydi",
+        "f(-12) > f(-10)",
+        "f(-12) = f(-10)"
+      ],
+      "answer": 2,
+      "explain": "-12 < -10 ≤ -5 da funksiya kamayuvchi bo'lgani uchun f(-12) > f(-10)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 5)² funksiya (−∞; -5] da kamayuvchi bo'lsa, f(-13) va f(-11) ni taqqoslang.",
+      "options": [
+        "f(-13) > f(-11)",
+        "Taqqoslab bo'lmaydi",
+        "f(-13) = f(-11)",
+        "f(-13) < f(-11)"
+      ],
+      "answer": 0,
+      "explain": "-13 < -11 ≤ -5 da funksiya kamayuvchi bo'lgani uchun f(-13) > f(-11)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² funksiya (−∞; -4] da kamayuvchi bo'lsa, f(-7) va f(-5) ni taqqoslang.",
+      "options": [
+        "f(-7) < f(-5)",
+        "f(-7) = f(-5)",
+        "f(-7) > f(-5)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "-7 < -5 ≤ -4 da funksiya kamayuvchi bo'lgani uchun f(-7) > f(-5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² funksiya (−∞; -4] da kamayuvchi bo'lsa, f(-8) va f(-6) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-8) < f(-6)",
+        "f(-8) = f(-6)",
+        "f(-8) > f(-6)"
+      ],
+      "answer": 3,
+      "explain": "-8 < -6 ≤ -4 da funksiya kamayuvchi bo'lgani uchun f(-8) > f(-6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² funksiya (−∞; -4] da kamayuvchi bo'lsa, f(-9) va f(-7) ni taqqoslang.",
+      "options": [
+        "f(-9) > f(-7)",
+        "Taqqoslab bo'lmaydi",
+        "f(-9) = f(-7)",
+        "f(-9) < f(-7)"
+      ],
+      "answer": 0,
+      "explain": "-9 < -7 ≤ -4 da funksiya kamayuvchi bo'lgani uchun f(-9) > f(-7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² funksiya (−∞; -4] da kamayuvchi bo'lsa, f(-10) va f(-8) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-10) > f(-8)",
+        "f(-10) = f(-8)",
+        "f(-10) < f(-8)"
+      ],
+      "answer": 1,
+      "explain": "-10 < -8 ≤ -4 da funksiya kamayuvchi bo'lgani uchun f(-10) > f(-8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² funksiya (−∞; -4] da kamayuvchi bo'lsa, f(-11) va f(-9) ni taqqoslang.",
+      "options": [
+        "f(-11) = f(-9)",
+        "f(-11) < f(-9)",
+        "f(-11) > f(-9)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "-11 < -9 ≤ -4 da funksiya kamayuvchi bo'lgani uchun f(-11) > f(-9)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 4)² funksiya (−∞; -4] da kamayuvchi bo'lsa, f(-12) va f(-10) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-12) = f(-10)",
+        "f(-12) > f(-10)",
+        "f(-12) < f(-10)"
+      ],
+      "answer": 2,
+      "explain": "-12 < -10 ≤ -4 da funksiya kamayuvchi bo'lgani uchun f(-12) > f(-10)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² funksiya (−∞; -3] da kamayuvchi bo'lsa, f(-6) va f(-4) ni taqqoslang.",
+      "options": [
+        "f(-6) > f(-4)",
+        "f(-6) < f(-4)",
+        "Taqqoslab bo'lmaydi",
+        "f(-6) = f(-4)"
+      ],
+      "answer": 0,
+      "explain": "-6 < -4 ≤ -3 da funksiya kamayuvchi bo'lgani uchun f(-6) > f(-4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² funksiya (−∞; -3] da kamayuvchi bo'lsa, f(-7) va f(-5) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-7) > f(-5)",
+        "f(-7) < f(-5)",
+        "f(-7) = f(-5)"
+      ],
+      "answer": 1,
+      "explain": "-7 < -5 ≤ -3 da funksiya kamayuvchi bo'lgani uchun f(-7) > f(-5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² funksiya (−∞; -3] da kamayuvchi bo'lsa, f(-8) va f(-6) ni taqqoslang.",
+      "options": [
+        "f(-8) > f(-6)",
+        "f(-8) = f(-6)",
+        "f(-8) < f(-6)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "-8 < -6 ≤ -3 da funksiya kamayuvchi bo'lgani uchun f(-8) > f(-6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² funksiya (−∞; -3] da kamayuvchi bo'lsa, f(-9) va f(-7) ni taqqoslang.",
+      "options": [
+        "f(-9) < f(-7)",
+        "f(-9) > f(-7)",
+        "f(-9) = f(-7)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "-9 < -7 ≤ -3 da funksiya kamayuvchi bo'lgani uchun f(-9) > f(-7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² funksiya (−∞; -3] da kamayuvchi bo'lsa, f(-10) va f(-8) ni taqqoslang.",
+      "options": [
+        "f(-10) > f(-8)",
+        "f(-10) < f(-8)",
+        "f(-10) = f(-8)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "-10 < -8 ≤ -3 da funksiya kamayuvchi bo'lgani uchun f(-10) > f(-8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 3)² funksiya (−∞; -3] da kamayuvchi bo'lsa, f(-11) va f(-9) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-11) = f(-9)",
+        "f(-11) < f(-9)",
+        "f(-11) > f(-9)"
+      ],
+      "answer": 3,
+      "explain": "-11 < -9 ≤ -3 da funksiya kamayuvchi bo'lgani uchun f(-11) > f(-9)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² funksiya (−∞; -2] da kamayuvchi bo'lsa, f(-5) va f(-3) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-5) > f(-3)",
+        "f(-5) < f(-3)",
+        "f(-5) = f(-3)"
+      ],
+      "answer": 1,
+      "explain": "-5 < -3 ≤ -2 da funksiya kamayuvchi bo'lgani uchun f(-5) > f(-3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² funksiya (−∞; -2] da kamayuvchi bo'lsa, f(-6) va f(-4) ni taqqoslang.",
+      "options": [
+        "f(-6) > f(-4)",
+        "Taqqoslab bo'lmaydi",
+        "f(-6) < f(-4)",
+        "f(-6) = f(-4)"
+      ],
+      "answer": 0,
+      "explain": "-6 < -4 ≤ -2 da funksiya kamayuvchi bo'lgani uchun f(-6) > f(-4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² funksiya (−∞; -2] da kamayuvchi bo'lsa, f(-7) va f(-5) ni taqqoslang.",
+      "options": [
+        "f(-7) > f(-5)",
+        "f(-7) < f(-5)",
+        "f(-7) = f(-5)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "-7 < -5 ≤ -2 da funksiya kamayuvchi bo'lgani uchun f(-7) > f(-5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² funksiya (−∞; -2] da kamayuvchi bo'lsa, f(-8) va f(-6) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-8) > f(-6)",
+        "f(-8) = f(-6)",
+        "f(-8) < f(-6)"
+      ],
+      "answer": 1,
+      "explain": "-8 < -6 ≤ -2 da funksiya kamayuvchi bo'lgani uchun f(-8) > f(-6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² funksiya (−∞; -2] da kamayuvchi bo'lsa, f(-9) va f(-7) ni taqqoslang.",
+      "options": [
+        "f(-9) > f(-7)",
+        "f(-9) = f(-7)",
+        "Taqqoslab bo'lmaydi",
+        "f(-9) < f(-7)"
+      ],
+      "answer": 0,
+      "explain": "-9 < -7 ≤ -2 da funksiya kamayuvchi bo'lgani uchun f(-9) > f(-7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 2)² funksiya (−∞; -2] da kamayuvchi bo'lsa, f(-10) va f(-8) ni taqqoslang.",
+      "options": [
+        "f(-10) = f(-8)",
+        "Taqqoslab bo'lmaydi",
+        "f(-10) < f(-8)",
+        "f(-10) > f(-8)"
+      ],
+      "answer": 3,
+      "explain": "-10 < -8 ≤ -2 da funksiya kamayuvchi bo'lgani uchun f(-10) > f(-8)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² funksiya (−∞; -1] da kamayuvchi bo'lsa, f(-4) va f(-2) ni taqqoslang.",
+      "options": [
+        "f(-4) > f(-2)",
+        "f(-4) = f(-2)",
+        "f(-4) < f(-2)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "-4 < -2 ≤ -1 da funksiya kamayuvchi bo'lgani uchun f(-4) > f(-2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² funksiya (−∞; -1] da kamayuvchi bo'lsa, f(-5) va f(-3) ni taqqoslang.",
+      "options": [
+        "f(-5) < f(-3)",
+        "f(-5) = f(-3)",
+        "f(-5) > f(-3)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "-5 < -3 ≤ -1 da funksiya kamayuvchi bo'lgani uchun f(-5) > f(-3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² funksiya (−∞; -1] da kamayuvchi bo'lsa, f(-6) va f(-4) ni taqqoslang.",
+      "options": [
+        "f(-6) = f(-4)",
+        "f(-6) > f(-4)",
+        "Taqqoslab bo'lmaydi",
+        "f(-6) < f(-4)"
+      ],
+      "answer": 1,
+      "explain": "-6 < -4 ≤ -1 da funksiya kamayuvchi bo'lgani uchun f(-6) > f(-4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² funksiya (−∞; -1] da kamayuvchi bo'lsa, f(-7) va f(-5) ni taqqoslang.",
+      "options": [
+        "f(-7) > f(-5)",
+        "f(-7) < f(-5)",
+        "Taqqoslab bo'lmaydi",
+        "f(-7) = f(-5)"
+      ],
+      "answer": 0,
+      "explain": "-7 < -5 ≤ -1 da funksiya kamayuvchi bo'lgani uchun f(-7) > f(-5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² funksiya (−∞; -1] da kamayuvchi bo'lsa, f(-8) va f(-6) ni taqqoslang.",
+      "options": [
+        "f(-8) = f(-6)",
+        "Taqqoslab bo'lmaydi",
+        "f(-8) > f(-6)",
+        "f(-8) < f(-6)"
+      ],
+      "answer": 2,
+      "explain": "-8 < -6 ≤ -1 da funksiya kamayuvchi bo'lgani uchun f(-8) > f(-6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x + 1)² funksiya (−∞; -1] da kamayuvchi bo'lsa, f(-9) va f(-7) ni taqqoslang.",
+      "options": [
+        "f(-9) < f(-7)",
+        "f(-9) = f(-7)",
+        "f(-9) > f(-7)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "-9 < -7 ≤ -1 da funksiya kamayuvchi bo'lgani uchun f(-9) > f(-7)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² funksiya (−∞; 0] da kamayuvchi bo'lsa, f(-3) va f(-1) ni taqqoslang.",
+      "options": [
+        "f(-3) < f(-1)",
+        "f(-3) = f(-1)",
+        "Taqqoslab bo'lmaydi",
+        "f(-3) > f(-1)"
+      ],
+      "answer": 3,
+      "explain": "-3 < -1 ≤ 0 da funksiya kamayuvchi bo'lgani uchun f(-3) > f(-1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² funksiya (−∞; 0] da kamayuvchi bo'lsa, f(-4) va f(-2) ni taqqoslang.",
+      "options": [
+        "f(-4) > f(-2)",
+        "f(-4) = f(-2)",
+        "f(-4) < f(-2)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "-4 < -2 ≤ 0 da funksiya kamayuvchi bo'lgani uchun f(-4) > f(-2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² funksiya (−∞; 0] da kamayuvchi bo'lsa, f(-5) va f(-3) ni taqqoslang.",
+      "options": [
+        "f(-5) > f(-3)",
+        "Taqqoslab bo'lmaydi",
+        "f(-5) < f(-3)",
+        "f(-5) = f(-3)"
+      ],
+      "answer": 0,
+      "explain": "-5 < -3 ≤ 0 da funksiya kamayuvchi bo'lgani uchun f(-5) > f(-3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² funksiya (−∞; 0] da kamayuvchi bo'lsa, f(-6) va f(-4) ni taqqoslang.",
+      "options": [
+        "f(-6) = f(-4)",
+        "f(-6) > f(-4)",
+        "f(-6) < f(-4)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "-6 < -4 ≤ 0 da funksiya kamayuvchi bo'lgani uchun f(-6) > f(-4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² funksiya (−∞; 0] da kamayuvchi bo'lsa, f(-7) va f(-5) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-7) = f(-5)",
+        "f(-7) < f(-5)",
+        "f(-7) > f(-5)"
+      ],
+      "answer": 3,
+      "explain": "-7 < -5 ≤ 0 da funksiya kamayuvchi bo'lgani uchun f(-7) > f(-5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = x² funksiya (−∞; 0] da kamayuvchi bo'lsa, f(-8) va f(-6) ni taqqoslang.",
+      "options": [
+        "f(-8) = f(-6)",
+        "f(-8) > f(-6)",
+        "f(-8) < f(-6)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "-8 < -6 ≤ 0 da funksiya kamayuvchi bo'lgani uchun f(-8) > f(-6)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² funksiya (−∞; 1] da kamayuvchi bo'lsa, f(-2) va f(0) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-2) < f(0)",
+        "f(-2) = f(0)",
+        "f(-2) > f(0)"
+      ],
+      "answer": 3,
+      "explain": "-2 < 0 ≤ 1 da funksiya kamayuvchi bo'lgani uchun f(-2) > f(0)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² funksiya (−∞; 1] da kamayuvchi bo'lsa, f(-3) va f(-1) ni taqqoslang.",
+      "options": [
+        "f(-3) < f(-1)",
+        "Taqqoslab bo'lmaydi",
+        "f(-3) = f(-1)",
+        "f(-3) > f(-1)"
+      ],
+      "answer": 3,
+      "explain": "-3 < -1 ≤ 1 da funksiya kamayuvchi bo'lgani uchun f(-3) > f(-1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² funksiya (−∞; 1] da kamayuvchi bo'lsa, f(-4) va f(-2) ni taqqoslang.",
+      "options": [
+        "f(-4) < f(-2)",
+        "Taqqoslab bo'lmaydi",
+        "f(-4) > f(-2)",
+        "f(-4) = f(-2)"
+      ],
+      "answer": 2,
+      "explain": "-4 < -2 ≤ 1 da funksiya kamayuvchi bo'lgani uchun f(-4) > f(-2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² funksiya (−∞; 1] da kamayuvchi bo'lsa, f(-5) va f(-3) ni taqqoslang.",
+      "options": [
+        "f(-5) > f(-3)",
+        "f(-5) = f(-3)",
+        "Taqqoslab bo'lmaydi",
+        "f(-5) < f(-3)"
+      ],
+      "answer": 0,
+      "explain": "-5 < -3 ≤ 1 da funksiya kamayuvchi bo'lgani uchun f(-5) > f(-3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² funksiya (−∞; 1] da kamayuvchi bo'lsa, f(-6) va f(-4) ni taqqoslang.",
+      "options": [
+        "f(-6) = f(-4)",
+        "Taqqoslab bo'lmaydi",
+        "f(-6) < f(-4)",
+        "f(-6) > f(-4)"
+      ],
+      "answer": 3,
+      "explain": "-6 < -4 ≤ 1 da funksiya kamayuvchi bo'lgani uchun f(-6) > f(-4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 1)² funksiya (−∞; 1] da kamayuvchi bo'lsa, f(-7) va f(-5) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-7) > f(-5)",
+        "f(-7) = f(-5)",
+        "f(-7) < f(-5)"
+      ],
+      "answer": 1,
+      "explain": "-7 < -5 ≤ 1 da funksiya kamayuvchi bo'lgani uchun f(-7) > f(-5)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² funksiya (−∞; 2] da kamayuvchi bo'lsa, f(-1) va f(1) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-1) = f(1)",
+        "f(-1) < f(1)",
+        "f(-1) > f(1)"
+      ],
+      "answer": 3,
+      "explain": "-1 < 1 ≤ 2 da funksiya kamayuvchi bo'lgani uchun f(-1) > f(1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² funksiya (−∞; 2] da kamayuvchi bo'lsa, f(-2) va f(0) ni taqqoslang.",
+      "options": [
+        "f(-2) < f(0)",
+        "f(-2) > f(0)",
+        "Taqqoslab bo'lmaydi",
+        "f(-2) = f(0)"
+      ],
+      "answer": 1,
+      "explain": "-2 < 0 ≤ 2 da funksiya kamayuvchi bo'lgani uchun f(-2) > f(0)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² funksiya (−∞; 2] da kamayuvchi bo'lsa, f(-3) va f(-1) ni taqqoslang.",
+      "options": [
+        "f(-3) > f(-1)",
+        "f(-3) = f(-1)",
+        "Taqqoslab bo'lmaydi",
+        "f(-3) < f(-1)"
+      ],
+      "answer": 0,
+      "explain": "-3 < -1 ≤ 2 da funksiya kamayuvchi bo'lgani uchun f(-3) > f(-1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² funksiya (−∞; 2] da kamayuvchi bo'lsa, f(-4) va f(-2) ni taqqoslang.",
+      "options": [
+        "f(-4) > f(-2)",
+        "f(-4) < f(-2)",
+        "Taqqoslab bo'lmaydi",
+        "f(-4) = f(-2)"
+      ],
+      "answer": 0,
+      "explain": "-4 < -2 ≤ 2 da funksiya kamayuvchi bo'lgani uchun f(-4) > f(-2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² funksiya (−∞; 2] da kamayuvchi bo'lsa, f(-5) va f(-3) ni taqqoslang.",
+      "options": [
+        "f(-5) = f(-3)",
+        "Taqqoslab bo'lmaydi",
+        "f(-5) > f(-3)",
+        "f(-5) < f(-3)"
+      ],
+      "answer": 2,
+      "explain": "-5 < -3 ≤ 2 da funksiya kamayuvchi bo'lgani uchun f(-5) > f(-3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 2)² funksiya (−∞; 2] da kamayuvchi bo'lsa, f(-6) va f(-4) ni taqqoslang.",
+      "options": [
+        "f(-6) > f(-4)",
+        "f(-6) = f(-4)",
+        "Taqqoslab bo'lmaydi",
+        "f(-6) < f(-4)"
+      ],
+      "answer": 0,
+      "explain": "-6 < -4 ≤ 2 da funksiya kamayuvchi bo'lgani uchun f(-6) > f(-4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² funksiya (−∞; 3] da kamayuvchi bo'lsa, f(0) va f(2) ni taqqoslang.",
+      "options": [
+        "f(0) > f(2)",
+        "f(0) < f(2)",
+        "Taqqoslab bo'lmaydi",
+        "f(0) = f(2)"
+      ],
+      "answer": 0,
+      "explain": "0 < 2 ≤ 3 da funksiya kamayuvchi bo'lgani uchun f(0) > f(2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² funksiya (−∞; 3] da kamayuvchi bo'lsa, f(-1) va f(1) ni taqqoslang.",
+      "options": [
+        "f(-1) = f(1)",
+        "f(-1) > f(1)",
+        "Taqqoslab bo'lmaydi",
+        "f(-1) < f(1)"
+      ],
+      "answer": 1,
+      "explain": "-1 < 1 ≤ 3 da funksiya kamayuvchi bo'lgani uchun f(-1) > f(1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² funksiya (−∞; 3] da kamayuvchi bo'lsa, f(-2) va f(0) ni taqqoslang.",
+      "options": [
+        "f(-2) < f(0)",
+        "Taqqoslab bo'lmaydi",
+        "f(-2) > f(0)",
+        "f(-2) = f(0)"
+      ],
+      "answer": 2,
+      "explain": "-2 < 0 ≤ 3 da funksiya kamayuvchi bo'lgani uchun f(-2) > f(0)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² funksiya (−∞; 3] da kamayuvchi bo'lsa, f(-3) va f(-1) ni taqqoslang.",
+      "options": [
+        "f(-3) > f(-1)",
+        "f(-3) < f(-1)",
+        "f(-3) = f(-1)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "-3 < -1 ≤ 3 da funksiya kamayuvchi bo'lgani uchun f(-3) > f(-1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² funksiya (−∞; 3] da kamayuvchi bo'lsa, f(-4) va f(-2) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-4) < f(-2)",
+        "f(-4) > f(-2)",
+        "f(-4) = f(-2)"
+      ],
+      "answer": 2,
+      "explain": "-4 < -2 ≤ 3 da funksiya kamayuvchi bo'lgani uchun f(-4) > f(-2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 3)² funksiya (−∞; 3] da kamayuvchi bo'lsa, f(-5) va f(-3) ni taqqoslang.",
+      "options": [
+        "f(-5) < f(-3)",
+        "f(-5) = f(-3)",
+        "Taqqoslab bo'lmaydi",
+        "f(-5) > f(-3)"
+      ],
+      "answer": 3,
+      "explain": "-5 < -3 ≤ 3 da funksiya kamayuvchi bo'lgani uchun f(-5) > f(-3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² funksiya (−∞; 4] da kamayuvchi bo'lsa, f(1) va f(3) ni taqqoslang.",
+      "options": [
+        "f(1) = f(3)",
+        "f(1) > f(3)",
+        "Taqqoslab bo'lmaydi",
+        "f(1) < f(3)"
+      ],
+      "answer": 1,
+      "explain": "1 < 3 ≤ 4 da funksiya kamayuvchi bo'lgani uchun f(1) > f(3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² funksiya (−∞; 4] da kamayuvchi bo'lsa, f(0) va f(2) ni taqqoslang.",
+      "options": [
+        "f(0) = f(2)",
+        "f(0) > f(2)",
+        "Taqqoslab bo'lmaydi",
+        "f(0) < f(2)"
+      ],
+      "answer": 1,
+      "explain": "0 < 2 ≤ 4 da funksiya kamayuvchi bo'lgani uchun f(0) > f(2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² funksiya (−∞; 4] da kamayuvchi bo'lsa, f(-1) va f(1) ni taqqoslang.",
+      "options": [
+        "f(-1) = f(1)",
+        "f(-1) > f(1)",
+        "f(-1) < f(1)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "-1 < 1 ≤ 4 da funksiya kamayuvchi bo'lgani uchun f(-1) > f(1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² funksiya (−∞; 4] da kamayuvchi bo'lsa, f(-2) va f(0) ni taqqoslang.",
+      "options": [
+        "f(-2) < f(0)",
+        "Taqqoslab bo'lmaydi",
+        "f(-2) = f(0)",
+        "f(-2) > f(0)"
+      ],
+      "answer": 3,
+      "explain": "-2 < 0 ≤ 4 da funksiya kamayuvchi bo'lgani uchun f(-2) > f(0)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² funksiya (−∞; 4] da kamayuvchi bo'lsa, f(-3) va f(-1) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-3) = f(-1)",
+        "f(-3) < f(-1)",
+        "f(-3) > f(-1)"
+      ],
+      "answer": 3,
+      "explain": "-3 < -1 ≤ 4 da funksiya kamayuvchi bo'lgani uchun f(-3) > f(-1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 4)² funksiya (−∞; 4] da kamayuvchi bo'lsa, f(-4) va f(-2) ni taqqoslang.",
+      "options": [
+        "f(-4) < f(-2)",
+        "f(-4) > f(-2)",
+        "f(-4) = f(-2)",
+        "Taqqoslab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "-4 < -2 ≤ 4 da funksiya kamayuvchi bo'lgani uchun f(-4) > f(-2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² funksiya (−∞; 5] da kamayuvchi bo'lsa, f(2) va f(4) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(2) = f(4)",
+        "f(2) < f(4)",
+        "f(2) > f(4)"
+      ],
+      "answer": 3,
+      "explain": "2 < 4 ≤ 5 da funksiya kamayuvchi bo'lgani uchun f(2) > f(4)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² funksiya (−∞; 5] da kamayuvchi bo'lsa, f(1) va f(3) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(1) > f(3)",
+        "f(1) < f(3)",
+        "f(1) = f(3)"
+      ],
+      "answer": 1,
+      "explain": "1 < 3 ≤ 5 da funksiya kamayuvchi bo'lgani uchun f(1) > f(3)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² funksiya (−∞; 5] da kamayuvchi bo'lsa, f(0) va f(2) ni taqqoslang.",
+      "options": [
+        "f(0) < f(2)",
+        "Taqqoslab bo'lmaydi",
+        "f(0) = f(2)",
+        "f(0) > f(2)"
+      ],
+      "answer": 3,
+      "explain": "0 < 2 ≤ 5 da funksiya kamayuvchi bo'lgani uchun f(0) > f(2)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² funksiya (−∞; 5] da kamayuvchi bo'lsa, f(-1) va f(1) ni taqqoslang.",
+      "options": [
+        "Taqqoslab bo'lmaydi",
+        "f(-1) > f(1)",
+        "f(-1) < f(1)",
+        "f(-1) = f(1)"
+      ],
+      "answer": 1,
+      "explain": "-1 < 1 ≤ 5 da funksiya kamayuvchi bo'lgani uchun f(-1) > f(1)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² funksiya (−∞; 5] da kamayuvchi bo'lsa, f(-2) va f(0) ni taqqoslang.",
+      "options": [
+        "f(-2) > f(0)",
+        "f(-2) < f(0)",
+        "Taqqoslab bo'lmaydi",
+        "f(-2) = f(0)"
+      ],
+      "answer": 0,
+      "explain": "-2 < 0 ≤ 5 da funksiya kamayuvchi bo'lgani uchun f(-2) > f(0)."
+    },
+    {
+      "type": "choice",
+      "q": "f(x) = (x − 5)² funksiya (−∞; 5] da kamayuvchi bo'lsa, f(-3) va f(-1) ni taqqoslang.",
+      "options": [
+        "f(-3) > f(-1)",
+        "f(-3) < f(-1)",
+        "Taqqoslab bo'lmaydi",
+        "f(-3) = f(-1)"
+      ],
+      "answer": 0,
+      "explain": "-3 < -1 ≤ 5 da funksiya kamayuvchi bo'lgani uchun f(-3) > f(-1)."
+    },
+    {
+      "type": "fill",
+      "q": "x^(2/3) = 4 (x > 0) tenglamaning ildizini toping.",
+      "answer": "8",
+      "explain": "x = (4)^(3/2) = (2^2)^(3/2) = 2^3 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/4) = 8 (x > 0) tenglamaning ildizini toping.",
+      "answer": "16",
+      "explain": "x = (8)^(4/3) = (2^3)^(4/3) = 2^4 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/2) = 8 (x > 0) tenglamaning ildizini toping.",
+      "answer": "4",
+      "explain": "x = (8)^(2/3) = (2^3)^(2/3) = 2^2 = 4."
+    },
+    {
+      "type": "fill",
+      "q": "x^(4/3) = 16 (x > 0) tenglamaning ildizini toping.",
+      "answer": "8",
+      "explain": "x = (16)^(3/4) = (2^4)^(3/4) = 2^3 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "x^(2/3) = 9 (x > 0) tenglamaning ildizini toping.",
+      "answer": "27",
+      "explain": "x = (9)^(3/2) = (3^2)^(3/2) = 3^3 = 27."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/4) = 27 (x > 0) tenglamaning ildizini toping.",
+      "answer": "81",
+      "explain": "x = (27)^(4/3) = (3^3)^(4/3) = 3^4 = 81."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/2) = 27 (x > 0) tenglamaning ildizini toping.",
+      "answer": "9",
+      "explain": "x = (27)^(2/3) = (3^3)^(2/3) = 3^2 = 9."
+    },
+    {
+      "type": "fill",
+      "q": "x^(4/3) = 81 (x > 0) tenglamaning ildizini toping.",
+      "answer": "27",
+      "explain": "x = (81)^(3/4) = (3^4)^(3/4) = 3^3 = 27."
+    },
+    {
+      "type": "fill",
+      "q": "x^(2/3) = 16 (x > 0) tenglamaning ildizini toping.",
+      "answer": "64",
+      "explain": "x = (16)^(3/2) = (4^2)^(3/2) = 4^3 = 64."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/4) = 64 (x > 0) tenglamaning ildizini toping.",
+      "answer": "256",
+      "explain": "x = (64)^(4/3) = (4^3)^(4/3) = 4^4 = 256."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/2) = 64 (x > 0) tenglamaning ildizini toping.",
+      "answer": "16",
+      "explain": "x = (64)^(2/3) = (4^3)^(2/3) = 4^2 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "x^(4/3) = 256 (x > 0) tenglamaning ildizini toping.",
+      "answer": "64",
+      "explain": "x = (256)^(3/4) = (4^4)^(3/4) = 4^3 = 64."
+    },
+    {
+      "type": "fill",
+      "q": "x^(2/3) = 25 (x > 0) tenglamaning ildizini toping.",
+      "answer": "125",
+      "explain": "x = (25)^(3/2) = (5^2)^(3/2) = 5^3 = 125."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/4) = 125 (x > 0) tenglamaning ildizini toping.",
+      "answer": "625",
+      "explain": "x = (125)^(4/3) = (5^3)^(4/3) = 5^4 = 625."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/2) = 125 (x > 0) tenglamaning ildizini toping.",
+      "answer": "25",
+      "explain": "x = (125)^(2/3) = (5^3)^(2/3) = 5^2 = 25."
+    },
+    {
+      "type": "fill",
+      "q": "x^(4/3) = 625 (x > 0) tenglamaning ildizini toping.",
+      "answer": "125",
+      "explain": "x = (625)^(3/4) = (5^4)^(3/4) = 5^3 = 125."
+    },
+    {
+      "type": "fill",
+      "q": "x^(2/3) = 36 (x > 0) tenglamaning ildizini toping.",
+      "answer": "216",
+      "explain": "x = (36)^(3/2) = (6^2)^(3/2) = 6^3 = 216."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/4) = 216 (x > 0) tenglamaning ildizini toping.",
+      "answer": "1296",
+      "explain": "x = (216)^(4/3) = (6^3)^(4/3) = 6^4 = 1296."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/2) = 216 (x > 0) tenglamaning ildizini toping.",
+      "answer": "36",
+      "explain": "x = (216)^(2/3) = (6^3)^(2/3) = 6^2 = 36."
+    },
+    {
+      "type": "fill",
+      "q": "x^(4/3) = 1296 (x > 0) tenglamaning ildizini toping.",
+      "answer": "216",
+      "explain": "x = (1296)^(3/4) = (6^4)^(3/4) = 6^3 = 216."
+    },
+    {
+      "type": "fill",
+      "q": "x^(2/3) = 49 (x > 0) tenglamaning ildizini toping.",
+      "answer": "343",
+      "explain": "x = (49)^(3/2) = (7^2)^(3/2) = 7^3 = 343."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/4) = 343 (x > 0) tenglamaning ildizini toping.",
+      "answer": "2401",
+      "explain": "x = (343)^(4/3) = (7^3)^(4/3) = 7^4 = 2401."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/2) = 343 (x > 0) tenglamaning ildizini toping.",
+      "answer": "49",
+      "explain": "x = (343)^(2/3) = (7^3)^(2/3) = 7^2 = 49."
+    },
+    {
+      "type": "fill",
+      "q": "x^(4/3) = 2401 (x > 0) tenglamaning ildizini toping.",
+      "answer": "343",
+      "explain": "x = (2401)^(3/4) = (7^4)^(3/4) = 7^3 = 343."
+    },
+    {
+      "type": "fill",
+      "q": "x^(2/3) = 64 (x > 0) tenglamaning ildizini toping.",
+      "answer": "512",
+      "explain": "x = (64)^(3/2) = (8^2)^(3/2) = 8^3 = 512."
+    },
+    {
+      "type": "fill",
+      "q": "x^(3/4) = 512 (x > 0) tenglamaning ildizini toping.",
+      "answer": "4096",
+      "explain": "x = (512)^(4/3) = (8^3)^(4/3) = 8^4 = 4096."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Monoton",
+      "Faqat o'suvchi yoki faqat kamayuvchi funksiya"
+    ],
+    [
+      "Giperbola",
+      "y = k/x teskari proporsionallik grafigi"
+    ],
+    [
+      "O'suvchi",
+      "x₂ > x₁ da f(x₂) > f(x₁) xossasi"
+    ],
+    [
+      "Kamayuvchi",
+      "x₂ > x₁ da f(x₂) < f(x₁) xossasi"
+    ],
+    [
+      "Chiziqli k>0",
+      "y = kx + b funksiya (−∞; +∞) da o'sadi"
+    ],
+    [
+      "Chiziqli k<0",
+      "y = kx + b funksiya (−∞; +∞) da kamayadi"
+    ],
+    [
+      "y = √x",
+      "[0; +∞) da o'suvchi funksiya"
+    ],
+    [
+      "y = x³",
+      "(−∞; +∞) da o'suvchi kub parabola"
+    ],
+    [
+      "y = −x³",
+      "(−∞; +∞) da kamayuvchi funksiya"
+    ],
+    [
+      "y = k/x (k>0)",
+      "(−∞; 0) va (0; +∞) da kamayadi"
+    ],
+    [
+      "y = k/x (k<0)",
+      "(−∞; 0) va (0; +∞) da o'sadi"
+    ],
+    [
+      "Parabola a>0",
+      "(−∞; x₀] da kamayib, [x₀; +∞) da o'sadi"
+    ],
+    [
+      "Parabola a<0",
+      "(−∞; x₀] da o'sib, [x₀; +∞) da kamayadi"
+    ],
+    [
+      "Taqqoslash",
+      "O'sish oralig'ida katta x ga katta y mos"
+    ]
+  ]
+}

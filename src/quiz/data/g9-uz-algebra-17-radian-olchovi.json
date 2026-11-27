@@ -1,0 +1,3368 @@
+{
+  "id": "g9-uz-algebra-17-radian-olchovi",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "17-§. Burchakning radian o'lchovi",
+  "title": "17-§. Burchakning radian o'lchovi",
+  "source": "Algebra 9-sinf (2019), III bob, 17-§, 93–97-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "1 radian taxminan necha gradusga teng?",
+      "options": [
+        "57°18'",
+        "45°",
+        "90°",
+        "60°"
+      ],
+      "answer": 0,
+      "explain": "180° / π ≈ 57,2958° ≈ 57°18'."
+    },
+    {
+      "type": "choice",
+      "q": "π radian necha gradusga teng?",
+      "options": [
+        "270°",
+        "90°",
+        "360°",
+        "180°"
+      ],
+      "answer": 3,
+      "explain": "Yoyiq burchak 180° = π radian."
+    },
+    {
+      "type": "choice",
+      "q": "Markaziy burchagi α (radianda), radiusi R bo'lgan aylana yoyi uzunligi qaysi formula bilan topiladi?",
+      "options": [
+        "l = α·R",
+        "l = α·R²/2",
+        "l = α/R",
+        "l = 2πR/α"
+      ],
+      "answer": 0,
+      "explain": "Yoy uzunligi l = α·R."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R va markaziy burchagi α (radianda) bo'lgan doira sektori yuzi formulasi qaysi?",
+      "options": [
+        "S = α·R",
+        "S = 2α·R²",
+        "S = α·R² / 2",
+        "S = πR²/α"
+      ],
+      "answer": 2,
+      "explain": "Doira sektori yuzi S = ½·α·R²."
+    },
+    {
+      "type": "truefalse",
+      "q": "180° li burchakning radian o'lchovi π ga teng.",
+      "answer": true,
+      "explain": "π rad = 180°."
+    },
+    {
+      "type": "truefalse",
+      "q": "3π/2 radian 135° ga teng.",
+      "answer": false,
+      "explain": "3·180°/2 = 270°."
+    },
+    {
+      "type": "fill",
+      "q": "π/6 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "30",
+      "explain": "π/6 = 30°."
+    },
+    {
+      "type": "choice",
+      "q": "45° burchakning radian o'lchovini toping.",
+      "options": [
+        "2π/4",
+        "1/8π",
+        "π/5",
+        "π/4"
+      ],
+      "answer": 3,
+      "explain": "45° · π / 180° = π/4."
+    },
+    {
+      "type": "choice",
+      "q": "π/3 radian necha gradusga teng?",
+      "options": [
+        "45°",
+        "75°",
+        "60°",
+        "120°"
+      ],
+      "answer": 2,
+      "explain": "π/3 · 180° / π = 60°."
+    },
+    {
+      "type": "fill",
+      "q": "5π/12 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "75",
+      "explain": "5π/12 = 75°."
+    },
+    {
+      "type": "choice",
+      "q": "90° burchakning radian o'lchovini toping.",
+      "options": [
+        "1/4π",
+        "π/3",
+        "2π/2",
+        "π/2"
+      ],
+      "answer": 3,
+      "explain": "90° · π / 180° = π/2."
+    },
+    {
+      "type": "choice",
+      "q": "7π/12 radian necha gradusga teng?",
+      "options": [
+        "120°",
+        "90°",
+        "210°",
+        "105°"
+      ],
+      "answer": 3,
+      "explain": "7π/12 · 180° / π = 105°."
+    },
+    {
+      "type": "fill",
+      "q": "2π/3 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "120",
+      "explain": "2π/3 = 120°."
+    },
+    {
+      "type": "choice",
+      "q": "135° burchakning radian o'lchovini toping.",
+      "options": [
+        "3/8π",
+        "3π/4",
+        "π/5",
+        "4π/4"
+      ],
+      "answer": 1,
+      "explain": "135° · π / 180° = 3π/4."
+    },
+    {
+      "type": "choice",
+      "q": "5π/6 radian necha gradusga teng?",
+      "options": [
+        "165°",
+        "300°",
+        "150°",
+        "135°"
+      ],
+      "answer": 2,
+      "explain": "5π/6 · 180° / π = 150°."
+    },
+    {
+      "type": "fill",
+      "q": "11π/12 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "165",
+      "explain": "11π/12 = 165°."
+    },
+    {
+      "type": "choice",
+      "q": "180° burchakning radian o'lchovini toping.",
+      "options": [
+        "π",
+        "2π/1",
+        "π/2",
+        "1/2π"
+      ],
+      "answer": 0,
+      "explain": "180° · π / 180° = π."
+    },
+    {
+      "type": "choice",
+      "q": "13π/12 radian necha gradusga teng?",
+      "options": [
+        "195°",
+        "210°",
+        "390°",
+        "180°"
+      ],
+      "answer": 0,
+      "explain": "13π/12 · 180° / π = 195°."
+    },
+    {
+      "type": "fill",
+      "q": "7π/6 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "210",
+      "explain": "7π/6 = 210°."
+    },
+    {
+      "type": "choice",
+      "q": "225° burchakning radian o'lchovini toping.",
+      "options": [
+        "5/8π",
+        "5π/4",
+        "6π/4",
+        "π/5"
+      ],
+      "answer": 1,
+      "explain": "225° · π / 180° = 5π/4."
+    },
+    {
+      "type": "choice",
+      "q": "4π/3 radian necha gradusga teng?",
+      "options": [
+        "240°",
+        "255°",
+        "225°",
+        "480°"
+      ],
+      "answer": 0,
+      "explain": "4π/3 · 180° / π = 240°."
+    },
+    {
+      "type": "fill",
+      "q": "17π/12 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "255",
+      "explain": "17π/12 = 255°."
+    },
+    {
+      "type": "choice",
+      "q": "270° burchakning radian o'lchovini toping.",
+      "options": [
+        "4π/2",
+        "π/3",
+        "3/4π",
+        "3π/2"
+      ],
+      "answer": 3,
+      "explain": "270° · π / 180° = 3π/2."
+    },
+    {
+      "type": "choice",
+      "q": "19π/12 radian necha gradusga teng?",
+      "options": [
+        "570°",
+        "285°",
+        "300°",
+        "270°"
+      ],
+      "answer": 1,
+      "explain": "19π/12 · 180° / π = 285°."
+    },
+    {
+      "type": "fill",
+      "q": "5π/3 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "300",
+      "explain": "5π/3 = 300°."
+    },
+    {
+      "type": "choice",
+      "q": "315° burchakning radian o'lchovini toping.",
+      "options": [
+        "π/5",
+        "7/8π",
+        "8π/4",
+        "7π/4"
+      ],
+      "answer": 3,
+      "explain": "315° · π / 180° = 7π/4."
+    },
+    {
+      "type": "choice",
+      "q": "11π/6 radian necha gradusga teng?",
+      "options": [
+        "660°",
+        "330°",
+        "315°",
+        "345°"
+      ],
+      "answer": 1,
+      "explain": "11π/6 · 180° / π = 330°."
+    },
+    {
+      "type": "fill",
+      "q": "23π/12 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "345",
+      "explain": "23π/12 = 345°."
+    },
+    {
+      "type": "choice",
+      "q": "360° burchakning radian o'lchovini toping.",
+      "options": [
+        "2π",
+        "1π",
+        "π/2",
+        "3π/1"
+      ],
+      "answer": 0,
+      "explain": "360° · π / 180° = 2π."
+    },
+    {
+      "type": "choice",
+      "q": "25π/12 radian necha gradusga teng?",
+      "options": [
+        "375°",
+        "390°",
+        "750°",
+        "360°"
+      ],
+      "answer": 0,
+      "explain": "25π/12 · 180° / π = 375°."
+    },
+    {
+      "type": "fill",
+      "q": "13π/6 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "390",
+      "explain": "13π/6 = 390°."
+    },
+    {
+      "type": "choice",
+      "q": "405° burchakning radian o'lchovini toping.",
+      "options": [
+        "9/8π",
+        "π/5",
+        "10π/4",
+        "9π/4"
+      ],
+      "answer": 3,
+      "explain": "405° · π / 180° = 9π/4."
+    },
+    {
+      "type": "choice",
+      "q": "7π/3 radian necha gradusga teng?",
+      "options": [
+        "405°",
+        "420°",
+        "840°",
+        "435°"
+      ],
+      "answer": 1,
+      "explain": "7π/3 · 180° / π = 420°."
+    },
+    {
+      "type": "fill",
+      "q": "29π/12 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "435",
+      "explain": "29π/12 = 435°."
+    },
+    {
+      "type": "choice",
+      "q": "450° burchakning radian o'lchovini toping.",
+      "options": [
+        "5/4π",
+        "π/3",
+        "6π/2",
+        "5π/2"
+      ],
+      "answer": 3,
+      "explain": "450° · π / 180° = 5π/2."
+    },
+    {
+      "type": "choice",
+      "q": "31π/12 radian necha gradusga teng?",
+      "options": [
+        "480°",
+        "450°",
+        "930°",
+        "465°"
+      ],
+      "answer": 3,
+      "explain": "31π/12 · 180° / π = 465°."
+    },
+    {
+      "type": "fill",
+      "q": "8π/3 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "480",
+      "explain": "8π/3 = 480°."
+    },
+    {
+      "type": "choice",
+      "q": "495° burchakning radian o'lchovini toping.",
+      "options": [
+        "11π/4",
+        "11/8π",
+        "12π/4",
+        "π/5"
+      ],
+      "answer": 0,
+      "explain": "495° · π / 180° = 11π/4."
+    },
+    {
+      "type": "choice",
+      "q": "17π/6 radian necha gradusga teng?",
+      "options": [
+        "495°",
+        "525°",
+        "1020°",
+        "510°"
+      ],
+      "answer": 3,
+      "explain": "17π/6 · 180° / π = 510°."
+    },
+    {
+      "type": "fill",
+      "q": "35π/12 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "525",
+      "explain": "35π/12 = 525°."
+    },
+    {
+      "type": "choice",
+      "q": "540° burchakning radian o'lchovini toping.",
+      "options": [
+        "π/2",
+        "4π/1",
+        "3π",
+        "3/2π"
+      ],
+      "answer": 2,
+      "explain": "540° · π / 180° = 3π."
+    },
+    {
+      "type": "choice",
+      "q": "37π/12 radian necha gradusga teng?",
+      "options": [
+        "570°",
+        "555°",
+        "1110°",
+        "540°"
+      ],
+      "answer": 1,
+      "explain": "37π/12 · 180° / π = 555°."
+    },
+    {
+      "type": "fill",
+      "q": "19π/6 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "570",
+      "explain": "19π/6 = 570°."
+    },
+    {
+      "type": "choice",
+      "q": "585° burchakning radian o'lchovini toping.",
+      "options": [
+        "π/5",
+        "13/8π",
+        "14π/4",
+        "13π/4"
+      ],
+      "answer": 3,
+      "explain": "585° · π / 180° = 13π/4."
+    },
+    {
+      "type": "choice",
+      "q": "10π/3 radian necha gradusga teng?",
+      "options": [
+        "615°",
+        "1200°",
+        "600°",
+        "585°"
+      ],
+      "answer": 2,
+      "explain": "10π/3 · 180° / π = 600°."
+    },
+    {
+      "type": "fill",
+      "q": "41π/12 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "615",
+      "explain": "41π/12 = 615°."
+    },
+    {
+      "type": "choice",
+      "q": "630° burchakning radian o'lchovini toping.",
+      "options": [
+        "8π/2",
+        "7π/2",
+        "7/4π",
+        "π/3"
+      ],
+      "answer": 1,
+      "explain": "630° · π / 180° = 7π/2."
+    },
+    {
+      "type": "choice",
+      "q": "43π/12 radian necha gradusga teng?",
+      "options": [
+        "1290°",
+        "645°",
+        "630°",
+        "660°"
+      ],
+      "answer": 1,
+      "explain": "43π/12 · 180° / π = 645°."
+    },
+    {
+      "type": "fill",
+      "q": "11π/3 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "660",
+      "explain": "11π/3 = 660°."
+    },
+    {
+      "type": "choice",
+      "q": "675° burchakning radian o'lchovini toping.",
+      "options": [
+        "15π/4",
+        "15/8π",
+        "16π/4",
+        "π/5"
+      ],
+      "answer": 0,
+      "explain": "675° · π / 180° = 15π/4."
+    },
+    {
+      "type": "choice",
+      "q": "23π/6 radian necha gradusga teng?",
+      "options": [
+        "675°",
+        "690°",
+        "705°",
+        "1380°"
+      ],
+      "answer": 1,
+      "explain": "23π/6 · 180° / π = 690°."
+    },
+    {
+      "type": "fill",
+      "q": "47π/12 radian necha gradus bo'lishini son bilan yozing (belgisiz).",
+      "answer": "705",
+      "explain": "47π/12 = 705°."
+    },
+    {
+      "type": "choice",
+      "q": "720° burchakning radian o'lchovini toping.",
+      "options": [
+        "2π",
+        "4π",
+        "5π/1",
+        "π/2"
+      ],
+      "answer": 1,
+      "explain": "720° · π / 180° = 4π."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 18 sm va markaziy burchagi π/6 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "28π sm²",
+        "18π sm²",
+        "27π sm²",
+        "54π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (π/6 · 18²) / 2 = 27π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 12 sm va markaziy burchagi π/4 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "12π sm²",
+        "19π sm²",
+        "18π sm²",
+        "36π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (π/4 · 12²) / 2 = 18π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 16 sm va markaziy burchagi π/4 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "64π sm²",
+        "32π sm²",
+        "16π sm²",
+        "33π sm²"
+      ],
+      "answer": 1,
+      "explain": "S = α·R²/2 = (π/4 · 16²) / 2 = 32π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 12 sm va markaziy burchagi π/3 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "24π sm²",
+        "12π sm²",
+        "48π sm²",
+        "25π sm²"
+      ],
+      "answer": 0,
+      "explain": "S = α·R²/2 = (π/3 · 12²) / 2 = 24π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 18 sm va markaziy burchagi π/3 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "108π sm²",
+        "55π sm²",
+        "54π sm²",
+        "18π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (π/3 · 18²) / 2 = 54π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 6 sm va markaziy burchagi π/2 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "6π sm²",
+        "9π sm²",
+        "10π sm²",
+        "18π sm²"
+      ],
+      "answer": 1,
+      "explain": "S = α·R²/2 = (π/2 · 6²) / 2 = 9π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 8 sm va markaziy burchagi π/2 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "32π sm²",
+        "17π sm²",
+        "8π sm²",
+        "16π sm²"
+      ],
+      "answer": 3,
+      "explain": "S = α·R²/2 = (π/2 · 8²) / 2 = 16π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 10 sm va markaziy burchagi π/2 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "26π sm²",
+        "50π sm²",
+        "25π sm²",
+        "10π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (π/2 · 10²) / 2 = 25π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 12 sm va markaziy burchagi π/2 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "72π sm²",
+        "12π sm²",
+        "36π sm²",
+        "37π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (π/2 · 12²) / 2 = 36π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 14 sm va markaziy burchagi π/2 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "50π sm²",
+        "98π sm²",
+        "14π sm²",
+        "49π sm²"
+      ],
+      "answer": 3,
+      "explain": "S = α·R²/2 = (π/2 · 14²) / 2 = 49π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 16 sm va markaziy burchagi π/2 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "64π sm²",
+        "16π sm²",
+        "128π sm²",
+        "65π sm²"
+      ],
+      "answer": 0,
+      "explain": "S = α·R²/2 = (π/2 · 16²) / 2 = 64π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 18 sm va markaziy burchagi π/2 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "82π sm²",
+        "162π sm²",
+        "18π sm²",
+        "81π sm²"
+      ],
+      "answer": 3,
+      "explain": "S = α·R²/2 = (π/2 · 18²) / 2 = 81π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 2 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "2π sm",
+        "1π sm",
+        "4/3π sm",
+        "4π sm"
+      ],
+      "answer": 2,
+      "explain": "l = α·R = 2π/3 · 2 = 4/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 3 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "3/2π sm",
+        "3π sm",
+        "6π sm",
+        "2π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 2π/3 · 3 = 2π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 4 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "8π sm",
+        "8/3π sm",
+        "4π sm",
+        "2π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 2π/3 · 4 = 8/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 5 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "10π sm",
+        "10/3π sm",
+        "5π sm",
+        "5/2π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 2π/3 · 5 = 10/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 6 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "4π sm",
+        "12π sm",
+        "6π sm",
+        "3π sm"
+      ],
+      "answer": 0,
+      "explain": "l = α·R = 2π/3 · 6 = 4π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 6 sm va markaziy burchagi 2π/3 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "6π sm²",
+        "12π sm²",
+        "13π sm²",
+        "24π sm²"
+      ],
+      "answer": 1,
+      "explain": "S = α·R²/2 = (2π/3 · 6²) / 2 = 12π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 7 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "14/3π sm",
+        "7/2π sm",
+        "7π sm",
+        "14π sm"
+      ],
+      "answer": 0,
+      "explain": "l = α·R = 2π/3 · 7 = 14/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 8 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "8π sm",
+        "16/3π sm",
+        "16π sm",
+        "4π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 2π/3 · 8 = 16/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 9 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "6π sm",
+        "9/2π sm",
+        "9π sm",
+        "18π sm"
+      ],
+      "answer": 0,
+      "explain": "l = α·R = 2π/3 · 9 = 6π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 9 sm va markaziy burchagi 2π/3 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "27π sm²",
+        "54π sm²",
+        "28π sm²",
+        "9π sm²"
+      ],
+      "answer": 0,
+      "explain": "S = α·R²/2 = (2π/3 · 9²) / 2 = 27π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 10 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "20π sm",
+        "10π sm",
+        "20/3π sm",
+        "5π sm"
+      ],
+      "answer": 2,
+      "explain": "l = α·R = 2π/3 · 10 = 20/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 11 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "11/2π sm",
+        "22π sm",
+        "11π sm",
+        "22/3π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 2π/3 · 11 = 22/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 12 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "24π sm",
+        "8π sm",
+        "6π sm",
+        "12π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 2π/3 · 12 = 8π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 12 sm va markaziy burchagi 2π/3 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "96π sm²",
+        "12π sm²",
+        "48π sm²",
+        "49π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (2π/3 · 12²) / 2 = 48π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 13 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "26π sm",
+        "13/2π sm",
+        "26/3π sm",
+        "13π sm"
+      ],
+      "answer": 2,
+      "explain": "l = α·R = 2π/3 · 13 = 26/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 14 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "7π sm",
+        "28π sm",
+        "14π sm",
+        "28/3π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 2π/3 · 14 = 28/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 15 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "15/2π sm",
+        "10π sm",
+        "15π sm",
+        "30π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 2π/3 · 15 = 10π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 15 sm va markaziy burchagi 2π/3 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "15π sm²",
+        "76π sm²",
+        "150π sm²",
+        "75π sm²"
+      ],
+      "answer": 3,
+      "explain": "S = α·R²/2 = (2π/3 · 15²) / 2 = 75π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 16 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "16π sm",
+        "32/3π sm",
+        "8π sm",
+        "32π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 2π/3 · 16 = 32/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 17 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "17π sm",
+        "34/3π sm",
+        "34π sm",
+        "17/2π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 2π/3 · 17 = 34/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 18 sm, markaziy burchagi α = 2π/3 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "36π sm",
+        "12π sm",
+        "18π sm",
+        "9π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 2π/3 · 18 = 12π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 18 sm va markaziy burchagi 2π/3 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "18π sm²",
+        "108π sm²",
+        "109π sm²",
+        "216π sm²"
+      ],
+      "answer": 1,
+      "explain": "S = α·R²/2 = (2π/3 · 18²) / 2 = 108π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 2 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "2π sm",
+        "6π sm",
+        "6/5π sm",
+        "3/2π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 3π/4 · 2 = 3/2π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 3 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "9/5π sm",
+        "9/4π sm",
+        "9π sm",
+        "3π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 3π/4 · 3 = 9/4π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 4 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "12π sm",
+        "4π sm",
+        "12/5π sm",
+        "3π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 3π/4 · 4 = 3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 4 sm va markaziy burchagi 3π/4 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "4π sm²",
+        "12π sm²",
+        "6π sm²",
+        "7π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (3π/4 · 4²) / 2 = 6π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 5 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "15π sm",
+        "5π sm",
+        "15/4π sm",
+        "3π sm"
+      ],
+      "answer": 2,
+      "explain": "l = α·R = 3π/4 · 5 = 15/4π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 6 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "18π sm",
+        "9/2π sm",
+        "18/5π sm",
+        "6π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 3π/4 · 6 = 9/2π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 7 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "7π sm",
+        "21/5π sm",
+        "21π sm",
+        "21/4π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 3π/4 · 7 = 21/4π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 8 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "8π sm",
+        "6π sm",
+        "24π sm",
+        "24/5π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 3π/4 · 8 = 6π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 8 sm va markaziy burchagi 3π/4 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "48π sm²",
+        "24π sm²",
+        "25π sm²",
+        "8π sm²"
+      ],
+      "answer": 1,
+      "explain": "S = α·R²/2 = (3π/4 · 8²) / 2 = 24π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 9 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "27/4π sm",
+        "27/5π sm",
+        "27π sm",
+        "9π sm"
+      ],
+      "answer": 0,
+      "explain": "l = α·R = 3π/4 · 9 = 27/4π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 10 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "30π sm",
+        "10π sm",
+        "6π sm",
+        "15/2π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 3π/4 · 10 = 15/2π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 11 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "11π sm",
+        "33π sm",
+        "33/4π sm",
+        "33/5π sm"
+      ],
+      "answer": 2,
+      "explain": "l = α·R = 3π/4 · 11 = 33/4π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 12 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "36/5π sm",
+        "36π sm",
+        "9π sm",
+        "12π sm"
+      ],
+      "answer": 2,
+      "explain": "l = α·R = 3π/4 · 12 = 9π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 12 sm va markaziy burchagi 3π/4 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "108π sm²",
+        "12π sm²",
+        "54π sm²",
+        "55π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (3π/4 · 12²) / 2 = 54π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 13 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "39/4π sm",
+        "13π sm",
+        "39/5π sm",
+        "39π sm"
+      ],
+      "answer": 0,
+      "explain": "l = α·R = 3π/4 · 13 = 39/4π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 14 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "21/2π sm",
+        "42/5π sm",
+        "14π sm",
+        "42π sm"
+      ],
+      "answer": 0,
+      "explain": "l = α·R = 3π/4 · 14 = 21/2π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 15 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "15π sm",
+        "9π sm",
+        "45π sm",
+        "45/4π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 3π/4 · 15 = 45/4π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 16 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "16π sm",
+        "48/5π sm",
+        "12π sm",
+        "48π sm"
+      ],
+      "answer": 2,
+      "explain": "l = α·R = 3π/4 · 16 = 12π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 16 sm va markaziy burchagi 3π/4 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "97π sm²",
+        "96π sm²",
+        "192π sm²",
+        "16π sm²"
+      ],
+      "answer": 1,
+      "explain": "S = α·R²/2 = (3π/4 · 16²) / 2 = 96π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 17 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "51π sm",
+        "51/4π sm",
+        "17π sm",
+        "51/5π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 3π/4 · 17 = 51/4π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 18 sm, markaziy burchagi α = 3π/4 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "18π sm",
+        "54π sm",
+        "27/2π sm",
+        "54/5π sm"
+      ],
+      "answer": 2,
+      "explain": "l = α·R = 3π/4 · 18 = 27/2π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 2 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "10π sm",
+        "10/7π sm",
+        "2π sm",
+        "5/3π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 5π/6 · 2 = 5/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 3 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "15π sm",
+        "3π sm",
+        "15/7π sm",
+        "5/2π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 5π/6 · 3 = 5/2π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 4 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "20π sm",
+        "10/3π sm",
+        "20/7π sm",
+        "4π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 5π/6 · 4 = 10/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 5 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "25/7π sm",
+        "25π sm",
+        "25/6π sm",
+        "5π sm"
+      ],
+      "answer": 2,
+      "explain": "l = α·R = 5π/6 · 5 = 25/6π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 6 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "30/7π sm",
+        "5π sm",
+        "30π sm",
+        "6π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 5π/6 · 6 = 5π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 6 sm va markaziy burchagi 5π/6 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "30π sm²",
+        "15π sm²",
+        "6π sm²",
+        "16π sm²"
+      ],
+      "answer": 1,
+      "explain": "S = α·R²/2 = (5π/6 · 6²) / 2 = 15π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 7 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "35/6π sm",
+        "35π sm",
+        "5π sm",
+        "7π sm"
+      ],
+      "answer": 0,
+      "explain": "l = α·R = 5π/6 · 7 = 35/6π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 8 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "8π sm",
+        "40/7π sm",
+        "40π sm",
+        "20/3π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 5π/6 · 8 = 20/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 9 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "45/7π sm",
+        "45π sm",
+        "9π sm",
+        "15/2π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 5π/6 · 9 = 15/2π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 10 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "50π sm",
+        "25/3π sm",
+        "50/7π sm",
+        "10π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 5π/6 · 10 = 25/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 11 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "11π sm",
+        "55π sm",
+        "55/7π sm",
+        "55/6π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 5π/6 · 11 = 55/6π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 12 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "60/7π sm",
+        "10π sm",
+        "12π sm",
+        "60π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 5π/6 · 12 = 10π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 12 sm va markaziy burchagi 5π/6 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "61π sm²",
+        "60π sm²",
+        "12π sm²",
+        "120π sm²"
+      ],
+      "answer": 1,
+      "explain": "S = α·R²/2 = (5π/6 · 12²) / 2 = 60π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 13 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "13π sm",
+        "65/6π sm",
+        "65π sm",
+        "65/7π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 5π/6 · 13 = 65/6π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 14 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "35/3π sm",
+        "70π sm",
+        "14π sm",
+        "10π sm"
+      ],
+      "answer": 0,
+      "explain": "l = α·R = 5π/6 · 14 = 35/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 15 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "75π sm",
+        "15π sm",
+        "75/7π sm",
+        "25/2π sm"
+      ],
+      "answer": 3,
+      "explain": "l = α·R = 5π/6 · 15 = 25/2π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 16 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "16π sm",
+        "40/3π sm",
+        "80/7π sm",
+        "80π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 5π/6 · 16 = 40/3π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 17 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "85/7π sm",
+        "85/6π sm",
+        "85π sm",
+        "17π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 5π/6 · 17 = 85/6π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi R = 18 sm, markaziy burchagi α = 5π/6 bo'lgan yoy uzunligini toping.",
+      "options": [
+        "18π sm",
+        "15π sm",
+        "90/7π sm",
+        "90π sm"
+      ],
+      "answer": 1,
+      "explain": "l = α·R = 5π/6 · 18 = 15π sm."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 18 sm va markaziy burchagi 5π/6 bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "270π sm²",
+        "18π sm²",
+        "135π sm²",
+        "136π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (5π/6 · 18²) / 2 = 135π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 4 sm va markaziy burchagi π bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "16π sm²",
+        "4π sm²",
+        "8π sm²",
+        "9π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (π · 4²) / 2 = 8π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 6 sm va markaziy burchagi π bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "36π sm²",
+        "6π sm²",
+        "18π sm²",
+        "19π sm²"
+      ],
+      "answer": 2,
+      "explain": "S = α·R²/2 = (π · 6²) / 2 = 18π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 8 sm va markaziy burchagi π bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "32π sm²",
+        "33π sm²",
+        "64π sm²",
+        "8π sm²"
+      ],
+      "answer": 0,
+      "explain": "S = α·R²/2 = (π · 8²) / 2 = 32π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 10 sm va markaziy burchagi π bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "50π sm²",
+        "100π sm²",
+        "51π sm²",
+        "10π sm²"
+      ],
+      "answer": 0,
+      "explain": "S = α·R²/2 = (π · 10²) / 2 = 50π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 12 sm va markaziy burchagi π bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "12π sm²",
+        "73π sm²",
+        "144π sm²",
+        "72π sm²"
+      ],
+      "answer": 3,
+      "explain": "S = α·R²/2 = (π · 12²) / 2 = 72π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 14 sm va markaziy burchagi π bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "98π sm²",
+        "99π sm²",
+        "196π sm²",
+        "14π sm²"
+      ],
+      "answer": 0,
+      "explain": "S = α·R²/2 = (π · 14²) / 2 = 98π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 16 sm va markaziy burchagi π bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "16π sm²",
+        "128π sm²",
+        "256π sm²",
+        "129π sm²"
+      ],
+      "answer": 1,
+      "explain": "S = α·R²/2 = (π · 16²) / 2 = 128π sm²."
+    },
+    {
+      "type": "choice",
+      "q": "Radiusi 18 sm va markaziy burchagi π bo'lgan doira sektori yuzi nechaga teng?",
+      "options": [
+        "163π sm²",
+        "162π sm²",
+        "18π sm²",
+        "324π sm²"
+      ],
+      "answer": 1,
+      "explain": "S = α·R²/2 = (π · 18²) / 2 = 162π sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 3 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "6",
+      "explain": "l = α·R = 2 · 3 = 6 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 4 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "8",
+      "explain": "l = α·R = 2 · 4 = 8 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 5 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "10",
+      "explain": "l = α·R = 2 · 5 = 10 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 6 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "12",
+      "explain": "l = α·R = 2 · 6 = 12 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 7 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "14",
+      "explain": "l = α·R = 2 · 7 = 14 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 8 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "16",
+      "explain": "l = α·R = 2 · 8 = 16 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 9 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "18",
+      "explain": "l = α·R = 2 · 9 = 18 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 10 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "20",
+      "explain": "l = α·R = 2 · 10 = 20 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 11 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "22",
+      "explain": "l = α·R = 2 · 11 = 22 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 12 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "24",
+      "explain": "l = α·R = 2 · 12 = 24 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 13 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "26",
+      "explain": "l = α·R = 2 · 13 = 26 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 14 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "28",
+      "explain": "l = α·R = 2 · 14 = 28 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 15 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "30",
+      "explain": "l = α·R = 2 · 15 = 30 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 16 sm va markaziy burchagi 2 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "32",
+      "explain": "l = α·R = 2 · 16 = 32 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 3 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "9",
+      "explain": "l = α·R = 3 · 3 = 9 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 4 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "12",
+      "explain": "l = α·R = 3 · 4 = 12 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 5 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "15",
+      "explain": "l = α·R = 3 · 5 = 15 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 6 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "18",
+      "explain": "l = α·R = 3 · 6 = 18 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 7 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "21",
+      "explain": "l = α·R = 3 · 7 = 21 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 8 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "24",
+      "explain": "l = α·R = 3 · 8 = 24 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 9 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "27",
+      "explain": "l = α·R = 3 · 9 = 27 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 10 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "30",
+      "explain": "l = α·R = 3 · 10 = 30 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 11 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "33",
+      "explain": "l = α·R = 3 · 11 = 33 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 12 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "36",
+      "explain": "l = α·R = 3 · 12 = 36 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 13 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "39",
+      "explain": "l = α·R = 3 · 13 = 39 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 14 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "42",
+      "explain": "l = α·R = 3 · 14 = 42 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 15 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "45",
+      "explain": "l = α·R = 3 · 15 = 45 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 16 sm va markaziy burchagi 3 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "48",
+      "explain": "l = α·R = 3 · 16 = 48 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 3 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "12",
+      "explain": "l = α·R = 4 · 3 = 12 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 4 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "16",
+      "explain": "l = α·R = 4 · 4 = 16 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 5 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "20",
+      "explain": "l = α·R = 4 · 5 = 20 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 6 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "24",
+      "explain": "l = α·R = 4 · 6 = 24 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 7 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "28",
+      "explain": "l = α·R = 4 · 7 = 28 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 8 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "32",
+      "explain": "l = α·R = 4 · 8 = 32 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 9 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "36",
+      "explain": "l = α·R = 4 · 9 = 36 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 10 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "40",
+      "explain": "l = α·R = 4 · 10 = 40 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 11 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "44",
+      "explain": "l = α·R = 4 · 11 = 44 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 12 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "48",
+      "explain": "l = α·R = 4 · 12 = 48 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 13 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "52",
+      "explain": "l = α·R = 4 · 13 = 52 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 14 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "56",
+      "explain": "l = α·R = 4 · 14 = 56 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 15 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "60",
+      "explain": "l = α·R = 4 · 15 = 60 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 16 sm va markaziy burchagi 4 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "64",
+      "explain": "l = α·R = 4 · 16 = 64 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 3 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "15",
+      "explain": "l = α·R = 5 · 3 = 15 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 4 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "20",
+      "explain": "l = α·R = 5 · 4 = 20 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 5 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "25",
+      "explain": "l = α·R = 5 · 5 = 25 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 6 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "30",
+      "explain": "l = α·R = 5 · 6 = 30 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 7 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "35",
+      "explain": "l = α·R = 5 · 7 = 35 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 8 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "40",
+      "explain": "l = α·R = 5 · 8 = 40 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 9 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "45",
+      "explain": "l = α·R = 5 · 9 = 45 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 10 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "50",
+      "explain": "l = α·R = 5 · 10 = 50 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 11 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "55",
+      "explain": "l = α·R = 5 · 11 = 55 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 12 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "60",
+      "explain": "l = α·R = 5 · 12 = 60 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 13 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "65",
+      "explain": "l = α·R = 5 · 13 = 65 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 14 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "70",
+      "explain": "l = α·R = 5 · 14 = 70 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 15 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "75",
+      "explain": "l = α·R = 5 · 15 = 75 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 16 sm va markaziy burchagi 5 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "80",
+      "explain": "l = α·R = 5 · 16 = 80 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 3 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "18",
+      "explain": "l = α·R = 6 · 3 = 18 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 4 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "24",
+      "explain": "l = α·R = 6 · 4 = 24 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 5 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "30",
+      "explain": "l = α·R = 6 · 5 = 30 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 6 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "36",
+      "explain": "l = α·R = 6 · 6 = 36 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 7 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "42",
+      "explain": "l = α·R = 6 · 7 = 42 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 8 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "48",
+      "explain": "l = α·R = 6 · 8 = 48 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 9 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "54",
+      "explain": "l = α·R = 6 · 9 = 54 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 10 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "60",
+      "explain": "l = α·R = 6 · 10 = 60 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 11 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "66",
+      "explain": "l = α·R = 6 · 11 = 66 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 12 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "72",
+      "explain": "l = α·R = 6 · 12 = 72 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 13 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "78",
+      "explain": "l = α·R = 6 · 13 = 78 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 14 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "84",
+      "explain": "l = α·R = 6 · 14 = 84 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 15 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "90",
+      "explain": "l = α·R = 6 · 15 = 90 sm."
+    },
+    {
+      "type": "fill",
+      "q": "Radiusi 16 sm va markaziy burchagi 6 radian bo'lgan aylana yoyi uzunligini (sm) toping.",
+      "answer": "96",
+      "explain": "l = α·R = 6 · 16 = 96 sm."
+    },
+    {
+      "type": "choice",
+      "q": "-15° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−π/13",
+        "−π/12",
+        "π/12",
+        "−2π/12"
+      ],
+      "answer": 1,
+      "explain": "-15° · π / 180° = −π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−π/12 radian -15° burchakka teng.",
+      "answer": true,
+      "explain": "(−π/12) · 180°/π = -15°."
+    },
+    {
+      "type": "choice",
+      "q": "-30° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−π/7",
+        "−2π/6",
+        "π/6",
+        "−π/6"
+      ],
+      "answer": 3,
+      "explain": "-30° · π / 180° = −π/6."
+    },
+    {
+      "type": "truefalse",
+      "q": "−π/6 radian -30° burchakka teng.",
+      "answer": true,
+      "explain": "(−π/6) · 180°/π = -30°."
+    },
+    {
+      "type": "choice",
+      "q": "-45° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "π/4",
+        "−π/5",
+        "−π/4",
+        "−2π/4"
+      ],
+      "answer": 2,
+      "explain": "-45° · π / 180° = −π/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "−π/4 radian -45° burchakka teng.",
+      "answer": true,
+      "explain": "(−π/4) · 180°/π = -45°."
+    },
+    {
+      "type": "choice",
+      "q": "-60° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−2π/3",
+        "π/3",
+        "−π/3",
+        "−π/4"
+      ],
+      "answer": 2,
+      "explain": "-60° · π / 180° = −π/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "−π/3 radian -60° burchakka teng.",
+      "answer": true,
+      "explain": "(−π/3) · 180°/π = -60°."
+    },
+    {
+      "type": "choice",
+      "q": "-75° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−π/13",
+        "−6π/12",
+        "−5π/12",
+        "5π/12"
+      ],
+      "answer": 2,
+      "explain": "-75° · π / 180° = −5π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−5π/12 radian -75° burchakka teng.",
+      "answer": true,
+      "explain": "(−5π/12) · 180°/π = -75°."
+    },
+    {
+      "type": "choice",
+      "q": "-90° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−π/3",
+        "π/2",
+        "−π/2",
+        "−2π/2"
+      ],
+      "answer": 2,
+      "explain": "-90° · π / 180° = −π/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "−π/2 radian -90° burchakka teng.",
+      "answer": true,
+      "explain": "(−π/2) · 180°/π = -90°."
+    },
+    {
+      "type": "choice",
+      "q": "-105° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−π/13",
+        "−8π/12",
+        "−7π/12",
+        "7π/12"
+      ],
+      "answer": 2,
+      "explain": "-105° · π / 180° = −7π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−7π/12 radian -105° burchakka teng.",
+      "answer": true,
+      "explain": "(−7π/12) · 180°/π = -105°."
+    },
+    {
+      "type": "choice",
+      "q": "-120° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−3π/3",
+        "2π/3",
+        "−π/4",
+        "−2π/3"
+      ],
+      "answer": 3,
+      "explain": "-120° · π / 180° = −2π/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "−2π/3 radian -120° burchakka teng.",
+      "answer": true,
+      "explain": "(−2π/3) · 180°/π = -120°."
+    },
+    {
+      "type": "choice",
+      "q": "-135° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−3π/4",
+        "−4π/4",
+        "3π/4",
+        "−π/5"
+      ],
+      "answer": 0,
+      "explain": "-135° · π / 180° = −3π/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "−3π/4 radian -135° burchakka teng.",
+      "answer": true,
+      "explain": "(−3π/4) · 180°/π = -135°."
+    },
+    {
+      "type": "choice",
+      "q": "-150° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "5π/6",
+        "−π/7",
+        "−6π/6",
+        "−5π/6"
+      ],
+      "answer": 3,
+      "explain": "-150° · π / 180° = −5π/6."
+    },
+    {
+      "type": "truefalse",
+      "q": "−5π/6 radian -150° burchakka teng.",
+      "answer": true,
+      "explain": "(−5π/6) · 180°/π = -150°."
+    },
+    {
+      "type": "choice",
+      "q": "-165° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "11π/12",
+        "−12π/12",
+        "−π/13",
+        "−11π/12"
+      ],
+      "answer": 3,
+      "explain": "-165° · π / 180° = −11π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−11π/12 radian -165° burchakka teng.",
+      "answer": true,
+      "explain": "(−11π/12) · 180°/π = -165°."
+    },
+    {
+      "type": "choice",
+      "q": "-180° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−2π/1",
+        "−π",
+        "π",
+        "−π/2"
+      ],
+      "answer": 1,
+      "explain": "-180° · π / 180° = −π."
+    },
+    {
+      "type": "truefalse",
+      "q": "−π radian -180° burchakka teng.",
+      "answer": true,
+      "explain": "(−π) · 180°/π = -180°."
+    },
+    {
+      "type": "choice",
+      "q": "-195° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−13π/12",
+        "13π/12",
+        "−π/13",
+        "−14π/12"
+      ],
+      "answer": 0,
+      "explain": "-195° · π / 180° = −13π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−13π/12 radian -195° burchakka teng.",
+      "answer": true,
+      "explain": "(−13π/12) · 180°/π = -195°."
+    },
+    {
+      "type": "choice",
+      "q": "-210° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "7π/6",
+        "−7π/6",
+        "−8π/6",
+        "−π/7"
+      ],
+      "answer": 1,
+      "explain": "-210° · π / 180° = −7π/6."
+    },
+    {
+      "type": "truefalse",
+      "q": "−7π/6 radian -210° burchakka teng.",
+      "answer": true,
+      "explain": "(−7π/6) · 180°/π = -210°."
+    },
+    {
+      "type": "choice",
+      "q": "-225° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "5π/4",
+        "−π/5",
+        "−5π/4",
+        "−6π/4"
+      ],
+      "answer": 2,
+      "explain": "-225° · π / 180° = −5π/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "−5π/4 radian -225° burchakka teng.",
+      "answer": true,
+      "explain": "(−5π/4) · 180°/π = -225°."
+    },
+    {
+      "type": "choice",
+      "q": "-240° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−4π/3",
+        "4π/3",
+        "−5π/3",
+        "−π/4"
+      ],
+      "answer": 0,
+      "explain": "-240° · π / 180° = −4π/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "−4π/3 radian -240° burchakka teng.",
+      "answer": true,
+      "explain": "(−4π/3) · 180°/π = -240°."
+    },
+    {
+      "type": "choice",
+      "q": "-255° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−18π/12",
+        "−π/13",
+        "17π/12",
+        "−17π/12"
+      ],
+      "answer": 3,
+      "explain": "-255° · π / 180° = −17π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−17π/12 radian -255° burchakka teng.",
+      "answer": true,
+      "explain": "(−17π/12) · 180°/π = -255°."
+    },
+    {
+      "type": "choice",
+      "q": "-270° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−4π/2",
+        "−3π/2",
+        "3π/2",
+        "−π/3"
+      ],
+      "answer": 1,
+      "explain": "-270° · π / 180° = −3π/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "−3π/2 radian -270° burchakka teng.",
+      "answer": true,
+      "explain": "(−3π/2) · 180°/π = -270°."
+    },
+    {
+      "type": "choice",
+      "q": "-285° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−19π/12",
+        "19π/12",
+        "−20π/12",
+        "−π/13"
+      ],
+      "answer": 0,
+      "explain": "-285° · π / 180° = −19π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−19π/12 radian -285° burchakka teng.",
+      "answer": true,
+      "explain": "(−19π/12) · 180°/π = -285°."
+    },
+    {
+      "type": "choice",
+      "q": "-300° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "5π/3",
+        "−5π/3",
+        "−6π/3",
+        "−π/4"
+      ],
+      "answer": 1,
+      "explain": "-300° · π / 180° = −5π/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "−5π/3 radian -300° burchakka teng.",
+      "answer": true,
+      "explain": "(−5π/3) · 180°/π = -300°."
+    },
+    {
+      "type": "choice",
+      "q": "-315° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−π/5",
+        "−7π/4",
+        "7π/4",
+        "−8π/4"
+      ],
+      "answer": 1,
+      "explain": "-315° · π / 180° = −7π/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "−7π/4 radian -315° burchakka teng.",
+      "answer": true,
+      "explain": "(−7π/4) · 180°/π = -315°."
+    },
+    {
+      "type": "choice",
+      "q": "-330° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−11π/6",
+        "−π/7",
+        "11π/6",
+        "−12π/6"
+      ],
+      "answer": 0,
+      "explain": "-330° · π / 180° = −11π/6."
+    },
+    {
+      "type": "truefalse",
+      "q": "−11π/6 radian -330° burchakka teng.",
+      "answer": true,
+      "explain": "(−11π/6) · 180°/π = -330°."
+    },
+    {
+      "type": "choice",
+      "q": "-345° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "23π/12",
+        "−π/13",
+        "−23π/12",
+        "−24π/12"
+      ],
+      "answer": 2,
+      "explain": "-345° · π / 180° = −23π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−23π/12 radian -345° burchakka teng.",
+      "answer": true,
+      "explain": "(−23π/12) · 180°/π = -345°."
+    },
+    {
+      "type": "choice",
+      "q": "-360° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "2π",
+        "−3π/1",
+        "−2π",
+        "−π/2"
+      ],
+      "answer": 2,
+      "explain": "-360° · π / 180° = −2π."
+    },
+    {
+      "type": "truefalse",
+      "q": "−2π radian -360° burchakka teng.",
+      "answer": true,
+      "explain": "(−2π) · 180°/π = -360°."
+    },
+    {
+      "type": "choice",
+      "q": "-375° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−26π/12",
+        "25π/12",
+        "−π/13",
+        "−25π/12"
+      ],
+      "answer": 3,
+      "explain": "-375° · π / 180° = −25π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−25π/12 radian -375° burchakka teng.",
+      "answer": true,
+      "explain": "(−25π/12) · 180°/π = -375°."
+    },
+    {
+      "type": "choice",
+      "q": "-390° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−13π/6",
+        "−π/7",
+        "−14π/6",
+        "13π/6"
+      ],
+      "answer": 0,
+      "explain": "-390° · π / 180° = −13π/6."
+    },
+    {
+      "type": "truefalse",
+      "q": "−13π/6 radian -390° burchakka teng.",
+      "answer": true,
+      "explain": "(−13π/6) · 180°/π = -390°."
+    },
+    {
+      "type": "choice",
+      "q": "-405° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−9π/4",
+        "9π/4",
+        "−π/5",
+        "−10π/4"
+      ],
+      "answer": 0,
+      "explain": "-405° · π / 180° = −9π/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "−9π/4 radian -405° burchakka teng.",
+      "answer": true,
+      "explain": "(−9π/4) · 180°/π = -405°."
+    },
+    {
+      "type": "choice",
+      "q": "-420° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−π/4",
+        "−8π/3",
+        "−7π/3",
+        "7π/3"
+      ],
+      "answer": 2,
+      "explain": "-420° · π / 180° = −7π/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "−7π/3 radian -420° burchakka teng.",
+      "answer": true,
+      "explain": "(−7π/3) · 180°/π = -420°."
+    },
+    {
+      "type": "choice",
+      "q": "-435° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−29π/12",
+        "−30π/12",
+        "29π/12",
+        "−π/13"
+      ],
+      "answer": 0,
+      "explain": "-435° · π / 180° = −29π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−29π/12 radian -435° burchakka teng.",
+      "answer": true,
+      "explain": "(−29π/12) · 180°/π = -435°."
+    },
+    {
+      "type": "choice",
+      "q": "-450° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−5π/2",
+        "−π/3",
+        "5π/2",
+        "−6π/2"
+      ],
+      "answer": 0,
+      "explain": "-450° · π / 180° = −5π/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "−5π/2 radian -450° burchakka teng.",
+      "answer": true,
+      "explain": "(−5π/2) · 180°/π = -450°."
+    },
+    {
+      "type": "choice",
+      "q": "-465° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−π/13",
+        "−32π/12",
+        "−31π/12",
+        "31π/12"
+      ],
+      "answer": 2,
+      "explain": "-465° · π / 180° = −31π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−31π/12 radian -465° burchakka teng.",
+      "answer": true,
+      "explain": "(−31π/12) · 180°/π = -465°."
+    },
+    {
+      "type": "choice",
+      "q": "-480° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−8π/3",
+        "−9π/3",
+        "−π/4",
+        "8π/3"
+      ],
+      "answer": 0,
+      "explain": "-480° · π / 180° = −8π/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "−8π/3 radian -480° burchakka teng.",
+      "answer": true,
+      "explain": "(−8π/3) · 180°/π = -480°."
+    },
+    {
+      "type": "choice",
+      "q": "-495° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−11π/4",
+        "−π/5",
+        "11π/4",
+        "−12π/4"
+      ],
+      "answer": 0,
+      "explain": "-495° · π / 180° = −11π/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "−11π/4 radian -495° burchakka teng.",
+      "answer": true,
+      "explain": "(−11π/4) · 180°/π = -495°."
+    },
+    {
+      "type": "choice",
+      "q": "-510° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−17π/6",
+        "−18π/6",
+        "17π/6",
+        "−π/7"
+      ],
+      "answer": 0,
+      "explain": "-510° · π / 180° = −17π/6."
+    },
+    {
+      "type": "truefalse",
+      "q": "−17π/6 radian -510° burchakka teng.",
+      "answer": true,
+      "explain": "(−17π/6) · 180°/π = -510°."
+    },
+    {
+      "type": "choice",
+      "q": "-525° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "35π/12",
+        "−35π/12",
+        "−36π/12",
+        "−π/13"
+      ],
+      "answer": 1,
+      "explain": "-525° · π / 180° = −35π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−35π/12 radian -525° burchakka teng.",
+      "answer": true,
+      "explain": "(−35π/12) · 180°/π = -525°."
+    },
+    {
+      "type": "choice",
+      "q": "-540° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−π/2",
+        "−4π/1",
+        "−3π",
+        "3π"
+      ],
+      "answer": 2,
+      "explain": "-540° · π / 180° = −3π."
+    },
+    {
+      "type": "truefalse",
+      "q": "−3π radian -540° burchakka teng.",
+      "answer": true,
+      "explain": "(−3π) · 180°/π = -540°."
+    },
+    {
+      "type": "choice",
+      "q": "-555° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−π/13",
+        "37π/12",
+        "−38π/12",
+        "−37π/12"
+      ],
+      "answer": 3,
+      "explain": "-555° · π / 180° = −37π/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "−37π/12 radian -555° burchakka teng.",
+      "answer": true,
+      "explain": "(−37π/12) · 180°/π = -555°."
+    },
+    {
+      "type": "choice",
+      "q": "-570° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−19π/6",
+        "−20π/6",
+        "19π/6",
+        "−π/7"
+      ],
+      "answer": 0,
+      "explain": "-570° · π / 180° = −19π/6."
+    },
+    {
+      "type": "truefalse",
+      "q": "−19π/6 radian -570° burchakka teng.",
+      "answer": true,
+      "explain": "(−19π/6) · 180°/π = -570°."
+    },
+    {
+      "type": "choice",
+      "q": "-585° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−14π/4",
+        "−π/5",
+        "13π/4",
+        "−13π/4"
+      ],
+      "answer": 3,
+      "explain": "-585° · π / 180° = −13π/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "−13π/4 radian -585° burchakka teng.",
+      "answer": true,
+      "explain": "(−13π/4) · 180°/π = -585°."
+    },
+    {
+      "type": "choice",
+      "q": "-600° manfiy burchakning radian o'lchovini toping.",
+      "options": [
+        "−11π/3",
+        "10π/3",
+        "−10π/3",
+        "−π/4"
+      ],
+      "answer": 2,
+      "explain": "-600° · π / 180° = −10π/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "−10π/3 radian -600° burchakka teng.",
+      "answer": true,
+      "explain": "(−10π/3) · 180°/π = -600°."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 4-burchakning ichki burchagi necha radian?",
+      "options": [
+        "2π",
+        "π/4",
+        "1/2π",
+        "π/2"
+      ],
+      "answer": 3,
+      "explain": "Ichki burchak (n − 2)π/n = (4 − 2)π/4 = π/2."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 4-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "π/2",
+        "4π",
+        "1/2π",
+        "π/4"
+      ],
+      "answer": 2,
+      "explain": "Tashqi burchak 2π / 4 = 1/2π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 5-burchakning ichki burchagi necha radian?",
+      "options": [
+        "2/5π",
+        "π/5",
+        "3π/5",
+        "3π"
+      ],
+      "answer": 2,
+      "explain": "Ichki burchak (n − 2)π/n = (5 − 2)π/5 = 3π/5."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 5-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "3π/5",
+        "π/5",
+        "2/5π",
+        "5π"
+      ],
+      "answer": 2,
+      "explain": "Tashqi burchak 2π / 5 = 2/5π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 6-burchakning ichki burchagi necha radian?",
+      "options": [
+        "π/6",
+        "4π",
+        "2π/3",
+        "1/3π"
+      ],
+      "answer": 2,
+      "explain": "Ichki burchak (n − 2)π/n = (6 − 2)π/6 = 2π/3."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 6-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "6π",
+        "2π/3",
+        "1/3π",
+        "π/6"
+      ],
+      "answer": 2,
+      "explain": "Tashqi burchak 2π / 6 = 1/3π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 8-burchakning ichki burchagi necha radian?",
+      "options": [
+        "6π",
+        "3π/4",
+        "1/4π",
+        "π/8"
+      ],
+      "answer": 1,
+      "explain": "Ichki burchak (n − 2)π/n = (8 − 2)π/8 = 3π/4."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 8-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "8π",
+        "1/4π",
+        "3π/4",
+        "π/8"
+      ],
+      "answer": 1,
+      "explain": "Tashqi burchak 2π / 8 = 1/4π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 9-burchakning ichki burchagi necha radian?",
+      "options": [
+        "2/9π",
+        "7π/9",
+        "7π",
+        "π/9"
+      ],
+      "answer": 1,
+      "explain": "Ichki burchak (n − 2)π/n = (9 − 2)π/9 = 7π/9."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 9-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "9π",
+        "7π/9",
+        "2/9π",
+        "π/9"
+      ],
+      "answer": 2,
+      "explain": "Tashqi burchak 2π / 9 = 2/9π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 10-burchakning ichki burchagi necha radian?",
+      "options": [
+        "π/10",
+        "4π/5",
+        "1/5π",
+        "8π"
+      ],
+      "answer": 1,
+      "explain": "Ichki burchak (n − 2)π/n = (10 − 2)π/10 = 4π/5."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 10-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "π/10",
+        "4π/5",
+        "10π",
+        "1/5π"
+      ],
+      "answer": 3,
+      "explain": "Tashqi burchak 2π / 10 = 1/5π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 12-burchakning ichki burchagi necha radian?",
+      "options": [
+        "1/6π",
+        "5π/6",
+        "10π",
+        "π/12"
+      ],
+      "answer": 1,
+      "explain": "Ichki burchak (n − 2)π/n = (12 − 2)π/12 = 5π/6."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 12-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "1/6π",
+        "5π/6",
+        "12π",
+        "π/12"
+      ],
+      "answer": 0,
+      "explain": "Tashqi burchak 2π / 12 = 1/6π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 15-burchakning ichki burchagi necha radian?",
+      "options": [
+        "13π",
+        "2/15π",
+        "13π/15",
+        "π/15"
+      ],
+      "answer": 2,
+      "explain": "Ichki burchak (n − 2)π/n = (15 − 2)π/15 = 13π/15."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 15-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "2/15π",
+        "π/15",
+        "15π",
+        "13π/15"
+      ],
+      "answer": 0,
+      "explain": "Tashqi burchak 2π / 15 = 2/15π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 18-burchakning ichki burchagi necha radian?",
+      "options": [
+        "π/18",
+        "1/9π",
+        "8π/9",
+        "16π"
+      ],
+      "answer": 2,
+      "explain": "Ichki burchak (n − 2)π/n = (18 − 2)π/18 = 8π/9."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 18-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "18π",
+        "π/18",
+        "8π/9",
+        "1/9π"
+      ],
+      "answer": 3,
+      "explain": "Tashqi burchak 2π / 18 = 1/9π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 20-burchakning ichki burchagi necha radian?",
+      "options": [
+        "1/10π",
+        "π/20",
+        "9π/10",
+        "18π"
+      ],
+      "answer": 2,
+      "explain": "Ichki burchak (n − 2)π/n = (20 − 2)π/20 = 9π/10."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 20-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "1/10π",
+        "π/20",
+        "20π",
+        "9π/10"
+      ],
+      "answer": 0,
+      "explain": "Tashqi burchak 2π / 20 = 1/10π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 24-burchakning ichki burchagi necha radian?",
+      "options": [
+        "22π",
+        "11π/12",
+        "1/12π",
+        "π/24"
+      ],
+      "answer": 1,
+      "explain": "Ichki burchak (n − 2)π/n = (24 − 2)π/24 = 11π/12."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 24-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "1/12π",
+        "24π",
+        "π/24",
+        "11π/12"
+      ],
+      "answer": 0,
+      "explain": "Tashqi burchak 2π / 24 = 1/12π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 30-burchakning ichki burchagi necha radian?",
+      "options": [
+        "π/30",
+        "14π/15",
+        "28π",
+        "1/15π"
+      ],
+      "answer": 1,
+      "explain": "Ichki burchak (n − 2)π/n = (30 − 2)π/30 = 14π/15."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 30-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "30π",
+        "14π/15",
+        "1/15π",
+        "π/30"
+      ],
+      "answer": 2,
+      "explain": "Tashqi burchak 2π / 30 = 1/15π."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 36-burchakning ichki burchagi necha radian?",
+      "options": [
+        "π/36",
+        "1/18π",
+        "17π/18",
+        "34π"
+      ],
+      "answer": 2,
+      "explain": "Ichki burchak (n − 2)π/n = (36 − 2)π/36 = 17π/18."
+    },
+    {
+      "type": "choice",
+      "q": "Muntazam 36-burchakning tashqi burchagi radian o'lchovida nimaga teng?",
+      "options": [
+        "36π",
+        "1/18π",
+        "17π/18",
+        "π/36"
+      ],
+      "answer": 1,
+      "explain": "Tashqi burchak 2π / 36 = 1/18π."
+    },
+    {
+      "type": "choice",
+      "q": "Soatning minut mili 5 minut davomida necha radian burchakka buriladi?",
+      "options": [
+        "1/12π",
+        "1/6π",
+        "2π",
+        "1/3π"
+      ],
+      "answer": 1,
+      "explain": "60 minutda 2π rad ⇒ 5 minutda 2π·5/60 = 1/6π."
+    },
+    {
+      "type": "choice",
+      "q": "Soatning minut mili 10 minut davomida necha radian burchakka buriladi?",
+      "options": [
+        "2π",
+        "1/6π",
+        "2/3π",
+        "1/3π"
+      ],
+      "answer": 3,
+      "explain": "60 minutda 2π rad ⇒ 10 minutda 2π·10/60 = 1/3π."
+    },
+    {
+      "type": "choice",
+      "q": "Soatning minut mili 15 minut davomida necha radian burchakka buriladi?",
+      "options": [
+        "1/2π",
+        "1π",
+        "2π",
+        "1/4π"
+      ],
+      "answer": 0,
+      "explain": "60 minutda 2π rad ⇒ 15 minutda 2π·15/60 = 1/2π."
+    },
+    {
+      "type": "choice",
+      "q": "Soatning minut mili 20 minut davomida necha radian burchakka buriladi?",
+      "options": [
+        "1/3π",
+        "4/3π",
+        "2/3π",
+        "2π"
+      ],
+      "answer": 2,
+      "explain": "60 minutda 2π rad ⇒ 20 minutda 2π·20/60 = 2/3π."
+    },
+    {
+      "type": "choice",
+      "q": "Soatning minut mili 25 minut davomida necha radian burchakka buriladi?",
+      "options": [
+        "5/3π",
+        "5/6π",
+        "2π",
+        "5/12π"
+      ],
+      "answer": 1,
+      "explain": "60 minutda 2π rad ⇒ 25 minutda 2π·25/60 = 5/6π."
+    },
+    {
+      "type": "choice",
+      "q": "Soatning minut mili 35 minut davomida necha radian burchakka buriladi?",
+      "options": [
+        "7/3π",
+        "7/12π",
+        "7/6π",
+        "2π"
+      ],
+      "answer": 2,
+      "explain": "60 minutda 2π rad ⇒ 35 minutda 2π·35/60 = 7/6π."
+    },
+    {
+      "type": "choice",
+      "q": "Soatning minut mili 40 minut davomida necha radian burchakka buriladi?",
+      "options": [
+        "2/3π",
+        "8/3π",
+        "4/3π",
+        "2π"
+      ],
+      "answer": 2,
+      "explain": "60 minutda 2π rad ⇒ 40 minutda 2π·40/60 = 4/3π."
+    },
+    {
+      "type": "choice",
+      "q": "Soatning minut mili 45 minut davomida necha radian burchakka buriladi?",
+      "options": [
+        "2π",
+        "3π",
+        "3/4π",
+        "3/2π"
+      ],
+      "answer": 3,
+      "explain": "60 minutda 2π rad ⇒ 45 minutda 2π·45/60 = 3/2π."
+    },
+    {
+      "type": "choice",
+      "q": "Soatning minut mili 50 minut davomida necha radian burchakka buriladi?",
+      "options": [
+        "2π",
+        "5/6π",
+        "10/3π",
+        "5/3π"
+      ],
+      "answer": 3,
+      "explain": "60 minutda 2π rad ⇒ 50 minutda 2π·50/60 = 5/3π."
+    },
+    {
+      "type": "choice",
+      "q": "Soatning minut mili 55 minut davomida necha radian burchakka buriladi?",
+      "options": [
+        "11/3π",
+        "11/6π",
+        "2π",
+        "11/12π"
+      ],
+      "answer": 1,
+      "explain": "60 minutda 2π rad ⇒ 55 minutda 2π·55/60 = 11/6π."
+    },
+    {
+      "type": "choice",
+      "q": "10° burchakni radianlarda ifodalang.",
+      "options": [
+        "10π",
+        "π/18",
+        "18π",
+        "π/3"
+      ],
+      "answer": 2,
+      "explain": "10° · π / 180° = 18π."
+    },
+    {
+      "type": "fill",
+      "q": "Yoy uzunligi l = 6 sm, markaziy burchagi 1 radian bo'lgan aylana radiusini (sm) toping.",
+      "answer": "6",
+      "explain": "R = l / α = 6 / 1 = 6 sm."
+    },
+    {
+      "type": "choice",
+      "q": "20° burchakni radianlarda ifodalang.",
+      "options": [
+        "π/4",
+        "1π/9",
+        "20π",
+        "π/18"
+      ],
+      "answer": 1,
+      "explain": "20° · π / 180° = 1π/9."
+    },
+    {
+      "type": "fill",
+      "q": "Yoy uzunligi l = 12 sm, markaziy burchagi 2 radian bo'lgan aylana radiusini (sm) toping.",
+      "answer": "6",
+      "explain": "R = l / α = 12 / 2 = 6 sm."
+    },
+    {
+      "type": "choice",
+      "q": "40° burchakni radianlarda ifodalang.",
+      "options": [
+        "π/18",
+        "40π",
+        "2π/9",
+        "π/6"
+      ],
+      "answer": 2,
+      "explain": "40° · π / 180° = 2π/9."
+    },
+    {
+      "type": "fill",
+      "q": "Yoy uzunligi l = 24 sm, markaziy burchagi 4 radian bo'lgan aylana radiusini (sm) toping.",
+      "answer": "6",
+      "explain": "R = l / α = 24 / 4 = 6 sm."
+    },
+    {
+      "type": "choice",
+      "q": "50° burchakni radianlarda ifodalang.",
+      "options": [
+        "50π",
+        "58π",
+        "π/18",
+        "π/7"
+      ],
+      "answer": 1,
+      "explain": "50° · π / 180° = 58π."
+    },
+    {
+      "type": "fill",
+      "q": "Yoy uzunligi l = 30 sm, markaziy burchagi 5 radian bo'lgan aylana radiusini (sm) toping.",
+      "answer": "6",
+      "explain": "R = l / α = 30 / 5 = 6 sm."
+    },
+    {
+      "type": "choice",
+      "q": "70° burchakni radianlarda ifodalang.",
+      "options": [
+        "70π",
+        "78π",
+        "π/9",
+        "π/18"
+      ],
+      "answer": 1,
+      "explain": "70° · π / 180° = 78π."
+    },
+    {
+      "type": "fill",
+      "q": "Yoy uzunligi l = 42 sm, markaziy burchagi 7 radian bo'lgan aylana radiusini (sm) toping.",
+      "answer": "6",
+      "explain": "R = l / α = 42 / 7 = 6 sm."
+    },
+    {
+      "type": "choice",
+      "q": "80° burchakni radianlarda ifodalang.",
+      "options": [
+        "π/10",
+        "π/18",
+        "4π/9",
+        "80π"
+      ],
+      "answer": 2,
+      "explain": "80° · π / 180° = 4π/9."
+    },
+    {
+      "type": "fill",
+      "q": "Yoy uzunligi l = 48 sm, markaziy burchagi 8 radian bo'lgan aylana radiusini (sm) toping.",
+      "answer": "6",
+      "explain": "R = l / α = 48 / 8 = 6 sm."
+    },
+    {
+      "type": "choice",
+      "q": "100° burchakni radianlarda ifodalang.",
+      "options": [
+        "100π",
+        "π/12",
+        "5π/9",
+        "π/18"
+      ],
+      "answer": 2,
+      "explain": "100° · π / 180° = 5π/9."
+    },
+    {
+      "type": "fill",
+      "q": "Yoy uzunligi l = 60 sm, markaziy burchagi 10 radian bo'lgan aylana radiusini (sm) toping.",
+      "answer": "6",
+      "explain": "R = l / α = 60 / 10 = 6 sm."
+    },
+    {
+      "type": "choice",
+      "q": "110° burchakni radianlarda ifodalang.",
+      "options": [
+        "π/13",
+        "π/18",
+        "110π",
+        "118π"
+      ],
+      "answer": 3,
+      "explain": "110° · π / 180° = 118π."
+    },
+    {
+      "type": "fill",
+      "q": "Yoy uzunligi l = 66 sm, markaziy burchagi 11 radian bo'lgan aylana radiusini (sm) toping.",
+      "answer": "6",
+      "explain": "R = l / α = 66 / 11 = 6 sm."
+    },
+    {
+      "type": "choice",
+      "q": "130° burchakni radianlarda ifodalang.",
+      "options": [
+        "138π",
+        "130π",
+        "π/15",
+        "π/18"
+      ],
+      "answer": 0,
+      "explain": "130° · π / 180° = 138π."
+    },
+    {
+      "type": "fill",
+      "q": "Yoy uzunligi l = 78 sm, markaziy burchagi 13 radian bo'lgan aylana radiusini (sm) toping.",
+      "answer": "6",
+      "explain": "R = l / α = 78 / 13 = 6 sm."
+    }
+  ],
+  "cards": [
+    [
+      "Radian",
+      "Yoy uzunligi radiusga teng markaziy burchak"
+    ],
+    [
+      "Sinus",
+      "Burilgan nuqtaning ordinatasi (y koordinatasi)"
+    ],
+    [
+      "Kosinus",
+      "Burilgan nuqtaning abssissasi (x koordinatasi)"
+    ],
+    [
+      "Tangens",
+      "Sinusning kosinusga nisbati (sin α / cos α)"
+    ],
+    [
+      "Kotangens",
+      "Kosinusning sinusga nisbati (cos α / sin α)"
+    ],
+    [
+      "Ayniyat",
+      "O'zgaruvchining barcha ruxsatli qiymatlarida to'g'ri tenglik"
+    ],
+    [
+      "Birlik",
+      "Radiusi R = 1 bo'lgan markaziy aylana"
+    ],
+    [
+      "Chorak",
+      "Koordinata tekisligining to'rtdan bir qismi"
+    ],
+    [
+      "Davr",
+      "Trigonometrik funksiyalar qiymati takrorlanuvchi burchak"
+    ],
+    [
+      "Keltirish",
+      "Katta burchakni o'tkir burchak orqali ifodalash"
+    ],
+    [
+      "Gradus",
+      "To'liq aylananing 1/360 qismi"
+    ],
+    [
+      "Sektor",
+      "Ikki radius va yoy bilan chegaralangan doira bo'lagi"
+    ],
+    [
+      "Yoy",
+      "l = α·R formula bilan topiladigan aylana qismi"
+    ],
+    [
+      "1 radian",
+      "Taxminan 57°18' (57,3°) ga teng burchak"
+    ],
+    [
+      "π radian",
+      "180° yoyiq burchakka teng"
+    ],
+    [
+      "2π radian",
+      "360° to'liq aylanish burchagi"
+    ],
+    [
+      "π/2 radian",
+      "90° to'g'ri burchak"
+    ],
+    [
+      "π/3 radian",
+      "60° burchakning radian o'lchovi"
+    ],
+    [
+      "π/4 radian",
+      "45° burchakning radian o'lchovi"
+    ],
+    [
+      "π/6 radian",
+      "30° burchakning radian o'lchovi"
+    ],
+    [
+      "Gradusdan radianga",
+      "α_rad = α° · π / 180°"
+    ],
+    [
+      "Radiandan gradusga",
+      "α° = α_rad · 180° / π"
+    ],
+    [
+      "Sektor yuzi",
+      "S = α·R² / 2 (α radianda)"
+    ],
+    [
+      "Yoy uzunligi",
+      "l = α·R (α radianda)"
+    ]
+  ]
+}

@@ -1,0 +1,3050 @@
+{
+  "id": "g9-uz-algebra-28-ketma-ketliklar",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "28-§. Sonli ketma-ketliklar",
+  "title": "28-§. Sonli ketma-ketliklar",
+  "source": "Algebra 9-sinf (2019), IV bob, 28-§, 150–153-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Sonli ketma-ketlikning ta'rifi qaysi?",
+      "options": [
+        "Ixtiyoriy tartibsiz sonlar to'plami",
+        "Kvadrat tenglamalar sistemasi",
+        "Faqat manfiy sonlar guruhi",
+        "Natural argumentli funksiya (n ∈ N ga mos aₙ sonlar)"
+      ],
+      "answer": 3,
+      "explain": "Ketma-ketlik — natural sonlar to'plami N da aniqlangan sonli funksiya."
+    },
+    {
+      "type": "choice",
+      "q": "Har bir hadi o'zidan oldingi ikki hadning yig'indisiga teng bo'lgan mashhur ketma-ketlik qaysi?",
+      "options": [
+        "Trigonometrik",
+        "Fibonachchi ketma-ketligi",
+        "Garmonik",
+        "Arifmetik"
+      ],
+      "answer": 1,
+      "explain": "1, 1, 2, 3, 5, 8, 13... — Fibonachchi ketma-ketligi (aₙ₊₂ = aₙ₊₁ + aₙ)."
+    },
+    {
+      "type": "truefalse",
+      "q": "Ketma-ketlik hadining n tartib raqami faqat natural son bo'lishi mumkin.",
+      "answer": true,
+      "explain": "Hadlar n = 1, 2, 3, ... natural sonlar bilan raqamlanadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar barcha n ∈ N uchun aₙ₊₁ < aₙ bo'lsa, ketma-ketlik o'suvchi deyiladi.",
+      "answer": false,
+      "explain": "aₙ₊₁ < aₙ bo'lsa ketma-ketlik kamayuvchi bo'ladi."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 2n − 5 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "22",
+        "15",
+        "13",
+        "17"
+      ],
+      "answer": 1,
+      "explain": "n = 10 qo'yganda 2·10 + (-5) = 15."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 2n − 4 formula bilan berilgan ketma-ketlikning 9-hadini toping.",
+      "answer": "14",
+      "explain": "a_9 = 2·9 + (-4) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 2n − 3 ketma-ketlikning nechanchi hadi 13 ga teng?",
+      "answer": "8",
+      "explain": "2n + (-3) = 13 ⇒ 2n = 16 ⇒ n = 8."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 2n − 2 ketma-ketlikning a_7 hadi nimaga teng?",
+      "options": [
+        "16",
+        "12",
+        "14",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "n = 7 qo'yganda 2·7 + (-2) = 12."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 2n − 1 formula bilan berilgan ketma-ketlikning 6-hadini toping.",
+      "answer": "11",
+      "explain": "a_6 = 2·6 + (-1) = 11."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 2n + 0 ketma-ketlikning nechanchi hadi 10 ga teng?",
+      "answer": "5",
+      "explain": "2n + (0) = 10 ⇒ 2n = 10 ⇒ n = 5."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 2n + 1 formula bilan berilgan ketma-ketlikning 6-hadini toping.",
+      "answer": "13",
+      "explain": "a_6 = 2·6 + (1) = 13."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 2n + 2 ketma-ketlikning a_7 hadi nimaga teng?",
+      "options": [
+        "16",
+        "14",
+        "18",
+        "15"
+      ],
+      "answer": 0,
+      "explain": "n = 7 qo'yganda 2·7 + (2) = 16."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 2n + 3 ketma-ketlikning nechanchi hadi 19 ga teng?",
+      "answer": "8",
+      "explain": "2n + (3) = 19 ⇒ 2n = 16 ⇒ n = 8."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 2n + 4 formula bilan berilgan ketma-ketlikning 9-hadini toping.",
+      "answer": "22",
+      "explain": "a_9 = 2·9 + (4) = 22."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 2n + 5 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "22",
+        "25",
+        "23",
+        "27"
+      ],
+      "answer": 1,
+      "explain": "n = 10 qo'yganda 2·10 + (5) = 25."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 2n + 6 ketma-ketlikning nechanchi hadi 28 ga teng?",
+      "answer": "11",
+      "explain": "2n + (6) = 28 ⇒ 2n = 22 ⇒ n = 11."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 2n + 7 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "31",
+      "explain": "a_12 = 2·12 + (7) = 31."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 2n + 8 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "16",
+        "8",
+        "12",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "n = 3 qo'yganda 2·3 + (8) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 2n + 9 ketma-ketlikning nechanchi hadi 17 ga teng?",
+      "answer": "4",
+      "explain": "2n + (9) = 17 ⇒ 2n = 8 ⇒ n = 4."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 3n − 5 ketma-ketlikning nechanchi hadi 28 ga teng?",
+      "answer": "11",
+      "explain": "3n + (-5) = 28 ⇒ 3n = 33 ⇒ n = 11."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 3n − 4 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "29",
+        "26",
+        "23",
+        "33"
+      ],
+      "answer": 1,
+      "explain": "n = 10 qo'yganda 3·10 + (-4) = 26."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 3n − 3 formula bilan berilgan ketma-ketlikning 9-hadini toping.",
+      "answer": "24",
+      "explain": "a_9 = 3·9 + (-3) = 24."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 3n − 2 ketma-ketlikning nechanchi hadi 22 ga teng?",
+      "answer": "8",
+      "explain": "3n + (-2) = 22 ⇒ 3n = 24 ⇒ n = 8."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 3n − 1 ketma-ketlikning a_7 hadi nimaga teng?",
+      "options": [
+        "17",
+        "24",
+        "20",
+        "23"
+      ],
+      "answer": 2,
+      "explain": "n = 7 qo'yganda 3·7 + (-1) = 20."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 3n + 0 formula bilan berilgan ketma-ketlikning 6-hadini toping.",
+      "answer": "18",
+      "explain": "a_6 = 3·6 + (0) = 18."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 3n + 1 ketma-ketlikning a_7 hadi nimaga teng?",
+      "options": [
+        "25",
+        "22",
+        "24",
+        "19"
+      ],
+      "answer": 1,
+      "explain": "n = 7 qo'yganda 3·7 + (1) = 22."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 3n + 2 ketma-ketlikning nechanchi hadi 26 ga teng?",
+      "answer": "8",
+      "explain": "3n + (2) = 26 ⇒ 3n = 24 ⇒ n = 8."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 3n + 3 formula bilan berilgan ketma-ketlikning 9-hadini toping.",
+      "answer": "30",
+      "explain": "a_9 = 3·9 + (3) = 30."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 3n + 4 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "34",
+        "33",
+        "37",
+        "31"
+      ],
+      "answer": 0,
+      "explain": "n = 10 qo'yganda 3·10 + (4) = 34."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 3n + 5 ketma-ketlikning nechanchi hadi 38 ga teng?",
+      "answer": "11",
+      "explain": "3n + (5) = 38 ⇒ 3n = 33 ⇒ n = 11."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 3n + 6 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "42",
+      "explain": "a_12 = 3·12 + (6) = 42."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 3n + 7 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "19",
+        "13",
+        "12",
+        "16"
+      ],
+      "answer": 3,
+      "explain": "n = 3 qo'yganda 3·3 + (7) = 16."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 3n + 8 ketma-ketlikning nechanchi hadi 20 ga teng?",
+      "answer": "4",
+      "explain": "3n + (8) = 20 ⇒ 3n = 12 ⇒ n = 4."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 3n + 9 formula bilan berilgan ketma-ketlikning 5-hadini toping.",
+      "answer": "24",
+      "explain": "a_5 = 3·5 + (9) = 24."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 4n − 5 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "43",
+      "explain": "a_12 = 4·12 + (-5) = 43."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 4n − 4 ketma-ketlikning nechanchi hadi 40 ga teng?",
+      "answer": "11",
+      "explain": "4n + (-4) = 40 ⇒ 4n = 44 ⇒ n = 11."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 4n − 3 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "37",
+        "41",
+        "44",
+        "33"
+      ],
+      "answer": 0,
+      "explain": "n = 10 qo'yganda 4·10 + (-3) = 37."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 4n − 2 formula bilan berilgan ketma-ketlikning 9-hadini toping.",
+      "answer": "34",
+      "explain": "a_9 = 4·9 + (-2) = 34."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 4n − 1 ketma-ketlikning nechanchi hadi 31 ga teng?",
+      "answer": "8",
+      "explain": "4n + (-1) = 31 ⇒ 4n = 32 ⇒ n = 8."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 4n + 0 ketma-ketlikning a_7 hadi nimaga teng?",
+      "options": [
+        "27",
+        "28",
+        "32",
+        "24"
+      ],
+      "answer": 1,
+      "explain": "n = 7 qo'yganda 4·7 + (0) = 28."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 4n + 1 ketma-ketlikning nechanchi hadi 33 ga teng?",
+      "answer": "8",
+      "explain": "4n + (1) = 33 ⇒ 4n = 32 ⇒ n = 8."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 4n + 2 formula bilan berilgan ketma-ketlikning 9-hadini toping.",
+      "answer": "38",
+      "explain": "a_9 = 4·9 + (2) = 38."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 4n + 3 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "43",
+        "47",
+        "39",
+        "44"
+      ],
+      "answer": 0,
+      "explain": "n = 10 qo'yganda 4·10 + (3) = 43."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 4n + 4 ketma-ketlikning nechanchi hadi 48 ga teng?",
+      "answer": "11",
+      "explain": "4n + (4) = 48 ⇒ 4n = 44 ⇒ n = 11."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 4n + 5 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "53",
+      "explain": "a_12 = 4·12 + (5) = 53."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 4n + 6 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "14",
+        "18",
+        "22",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "n = 3 qo'yganda 4·3 + (6) = 18."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 4n + 7 ketma-ketlikning nechanchi hadi 23 ga teng?",
+      "answer": "4",
+      "explain": "4n + (7) = 23 ⇒ 4n = 16 ⇒ n = 4."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 4n + 8 formula bilan berilgan ketma-ketlikning 5-hadini toping.",
+      "answer": "28",
+      "explain": "a_5 = 4·5 + (8) = 28."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 4n + 9 ketma-ketlikning a_6 hadi nimaga teng?",
+      "options": [
+        "29",
+        "28",
+        "33",
+        "37"
+      ],
+      "answer": 2,
+      "explain": "n = 6 qo'yganda 4·6 + (9) = 33."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 5n − 5 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "15",
+        "5",
+        "20",
+        "10"
+      ],
+      "answer": 3,
+      "explain": "n = 3 qo'yganda 5·3 + (-5) = 10."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 5n − 4 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "56",
+      "explain": "a_12 = 5·12 + (-4) = 56."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 5n − 3 ketma-ketlikning nechanchi hadi 52 ga teng?",
+      "answer": "11",
+      "explain": "5n + (-3) = 52 ⇒ 5n = 55 ⇒ n = 11."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 5n − 2 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "48",
+        "55",
+        "53",
+        "43"
+      ],
+      "answer": 0,
+      "explain": "n = 10 qo'yganda 5·10 + (-2) = 48."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 5n − 1 formula bilan berilgan ketma-ketlikning 9-hadini toping.",
+      "answer": "44",
+      "explain": "a_9 = 5·9 + (-1) = 44."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 5n + 0 ketma-ketlikning nechanchi hadi 40 ga teng?",
+      "answer": "8",
+      "explain": "5n + (0) = 40 ⇒ 5n = 40 ⇒ n = 8."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 5n + 1 formula bilan berilgan ketma-ketlikning 9-hadini toping.",
+      "answer": "46",
+      "explain": "a_9 = 5·9 + (1) = 46."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 5n + 2 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "52",
+        "57",
+        "55",
+        "47"
+      ],
+      "answer": 0,
+      "explain": "n = 10 qo'yganda 5·10 + (2) = 52."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 5n + 3 ketma-ketlikning nechanchi hadi 58 ga teng?",
+      "answer": "11",
+      "explain": "5n + (3) = 58 ⇒ 5n = 55 ⇒ n = 11."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 5n + 4 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "64",
+      "explain": "a_12 = 5·12 + (4) = 64."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 5n + 5 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "15",
+        "25",
+        "20",
+        "19"
+      ],
+      "answer": 2,
+      "explain": "n = 3 qo'yganda 5·3 + (5) = 20."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 5n + 6 ketma-ketlikning nechanchi hadi 26 ga teng?",
+      "answer": "4",
+      "explain": "5n + (6) = 26 ⇒ 5n = 20 ⇒ n = 4."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 5n + 7 formula bilan berilgan ketma-ketlikning 5-hadini toping.",
+      "answer": "32",
+      "explain": "a_5 = 5·5 + (7) = 32."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 5n + 8 ketma-ketlikning a_6 hadi nimaga teng?",
+      "options": [
+        "38",
+        "43",
+        "35",
+        "33"
+      ],
+      "answer": 0,
+      "explain": "n = 6 qo'yganda 5·6 + (8) = 38."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 5n + 9 ketma-ketlikning nechanchi hadi 44 ga teng?",
+      "answer": "7",
+      "explain": "5n + (9) = 44 ⇒ 5n = 35 ⇒ n = 7."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 6n − 5 ketma-ketlikning nechanchi hadi 19 ga teng?",
+      "answer": "4",
+      "explain": "6n + (-5) = 19 ⇒ 6n = 24 ⇒ n = 4."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 6n − 4 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "8",
+        "20",
+        "24",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "n = 3 qo'yganda 6·3 + (-4) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 6n − 3 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "69",
+      "explain": "a_12 = 6·12 + (-3) = 69."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 6n − 2 ketma-ketlikning nechanchi hadi 64 ga teng?",
+      "answer": "11",
+      "explain": "6n + (-2) = 64 ⇒ 6n = 66 ⇒ n = 11."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 6n − 1 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "59",
+        "53",
+        "65",
+        "66"
+      ],
+      "answer": 0,
+      "explain": "n = 10 qo'yganda 6·10 + (-1) = 59."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 6n + 0 formula bilan berilgan ketma-ketlikning 9-hadini toping.",
+      "answer": "54",
+      "explain": "a_9 = 6·9 + (0) = 54."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 6n + 1 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "61",
+        "66",
+        "55",
+        "67"
+      ],
+      "answer": 0,
+      "explain": "n = 10 qo'yganda 6·10 + (1) = 61."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 6n + 2 ketma-ketlikning nechanchi hadi 68 ga teng?",
+      "answer": "11",
+      "explain": "6n + (2) = 68 ⇒ 6n = 66 ⇒ n = 11."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 6n + 3 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "75",
+      "explain": "a_12 = 6·12 + (3) = 75."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 6n + 4 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "24",
+        "22",
+        "16",
+        "28"
+      ],
+      "answer": 1,
+      "explain": "n = 3 qo'yganda 6·3 + (4) = 22."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 6n + 5 ketma-ketlikning nechanchi hadi 29 ga teng?",
+      "answer": "4",
+      "explain": "6n + (5) = 29 ⇒ 6n = 24 ⇒ n = 4."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 6n + 6 formula bilan berilgan ketma-ketlikning 5-hadini toping.",
+      "answer": "36",
+      "explain": "a_5 = 6·5 + (6) = 36."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 6n + 7 ketma-ketlikning a_6 hadi nimaga teng?",
+      "options": [
+        "49",
+        "37",
+        "42",
+        "43"
+      ],
+      "answer": 3,
+      "explain": "n = 6 qo'yganda 6·6 + (7) = 43."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 6n + 8 ketma-ketlikning nechanchi hadi 50 ga teng?",
+      "answer": "7",
+      "explain": "6n + (8) = 50 ⇒ 6n = 42 ⇒ n = 7."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 6n + 9 formula bilan berilgan ketma-ketlikning 8-hadini toping.",
+      "answer": "57",
+      "explain": "a_8 = 6·8 + (9) = 57."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 7n − 5 formula bilan berilgan ketma-ketlikning 5-hadini toping.",
+      "answer": "30",
+      "explain": "a_5 = 7·5 + (-5) = 30."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 7n − 4 ketma-ketlikning nechanchi hadi 24 ga teng?",
+      "answer": "4",
+      "explain": "7n + (-4) = 24 ⇒ 7n = 28 ⇒ n = 4."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 7n − 3 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "28",
+        "18",
+        "11",
+        "25"
+      ],
+      "answer": 1,
+      "explain": "n = 3 qo'yganda 7·3 + (-3) = 18."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 7n − 2 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "82",
+      "explain": "a_12 = 7·12 + (-2) = 82."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 7n − 1 ketma-ketlikning nechanchi hadi 76 ga teng?",
+      "answer": "11",
+      "explain": "7n + (-1) = 76 ⇒ 7n = 77 ⇒ n = 11."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 7n + 0 ketma-ketlikning a_10 hadi nimaga teng?",
+      "options": [
+        "70",
+        "69",
+        "63",
+        "77"
+      ],
+      "answer": 0,
+      "explain": "n = 10 qo'yganda 7·10 + (0) = 70."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 7n + 1 ketma-ketlikning nechanchi hadi 78 ga teng?",
+      "answer": "11",
+      "explain": "7n + (1) = 78 ⇒ 7n = 77 ⇒ n = 11."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 7n + 2 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "86",
+      "explain": "a_12 = 7·12 + (2) = 86."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 7n + 3 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "31",
+        "24",
+        "28",
+        "17"
+      ],
+      "answer": 1,
+      "explain": "n = 3 qo'yganda 7·3 + (3) = 24."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 7n + 4 ketma-ketlikning nechanchi hadi 32 ga teng?",
+      "answer": "4",
+      "explain": "7n + (4) = 32 ⇒ 7n = 28 ⇒ n = 4."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 7n + 5 formula bilan berilgan ketma-ketlikning 5-hadini toping.",
+      "answer": "40",
+      "explain": "a_5 = 7·5 + (5) = 40."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 7n + 6 ketma-ketlikning a_6 hadi nimaga teng?",
+      "options": [
+        "55",
+        "49",
+        "41",
+        "48"
+      ],
+      "answer": 3,
+      "explain": "n = 6 qo'yganda 7·6 + (6) = 48."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 7n + 7 ketma-ketlikning nechanchi hadi 56 ga teng?",
+      "answer": "7",
+      "explain": "7n + (7) = 56 ⇒ 7n = 49 ⇒ n = 7."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 7n + 8 formula bilan berilgan ketma-ketlikning 8-hadini toping.",
+      "answer": "64",
+      "explain": "a_8 = 7·8 + (8) = 64."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 7n + 9 ketma-ketlikning a_9 hadi nimaga teng?",
+      "options": [
+        "79",
+        "70",
+        "65",
+        "72"
+      ],
+      "answer": 3,
+      "explain": "n = 9 qo'yganda 7·9 + (9) = 72."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 8n − 5 ketma-ketlikning a_6 hadi nimaga teng?",
+      "options": [
+        "51",
+        "43",
+        "35",
+        "56"
+      ],
+      "answer": 1,
+      "explain": "n = 6 qo'yganda 8·6 + (-5) = 43."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 8n − 4 formula bilan berilgan ketma-ketlikning 5-hadini toping.",
+      "answer": "36",
+      "explain": "a_5 = 8·5 + (-4) = 36."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 8n − 3 ketma-ketlikning nechanchi hadi 29 ga teng?",
+      "answer": "4",
+      "explain": "8n + (-3) = 29 ⇒ 8n = 32 ⇒ n = 4."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 8n − 2 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "14",
+        "22",
+        "32",
+        "30"
+      ],
+      "answer": 1,
+      "explain": "n = 3 qo'yganda 8·3 + (-2) = 22."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 8n − 1 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "95",
+      "explain": "a_12 = 8·12 + (-1) = 95."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 8n + 0 ketma-ketlikning nechanchi hadi 88 ga teng?",
+      "answer": "11",
+      "explain": "8n + (0) = 88 ⇒ 8n = 88 ⇒ n = 11."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 8n + 1 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "97",
+      "explain": "a_12 = 8·12 + (1) = 97."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 8n + 2 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "18",
+        "34",
+        "26",
+        "32"
+      ],
+      "answer": 2,
+      "explain": "n = 3 qo'yganda 8·3 + (2) = 26."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 8n + 3 ketma-ketlikning nechanchi hadi 35 ga teng?",
+      "answer": "4",
+      "explain": "8n + (3) = 35 ⇒ 8n = 32 ⇒ n = 4."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 8n + 4 formula bilan berilgan ketma-ketlikning 5-hadini toping.",
+      "answer": "44",
+      "explain": "a_5 = 8·5 + (4) = 44."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 8n + 5 ketma-ketlikning a_6 hadi nimaga teng?",
+      "options": [
+        "45",
+        "56",
+        "53",
+        "61"
+      ],
+      "answer": 2,
+      "explain": "n = 6 qo'yganda 8·6 + (5) = 53."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 8n + 6 ketma-ketlikning nechanchi hadi 62 ga teng?",
+      "answer": "7",
+      "explain": "8n + (6) = 62 ⇒ 8n = 56 ⇒ n = 7."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 8n + 7 formula bilan berilgan ketma-ketlikning 8-hadini toping.",
+      "answer": "71",
+      "explain": "a_8 = 8·8 + (7) = 71."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 8n + 8 ketma-ketlikning a_9 hadi nimaga teng?",
+      "options": [
+        "72",
+        "79",
+        "88",
+        "80"
+      ],
+      "answer": 3,
+      "explain": "n = 9 qo'yganda 8·9 + (8) = 80."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 8n + 9 ketma-ketlikning nechanchi hadi 89 ga teng?",
+      "answer": "10",
+      "explain": "8n + (9) = 89 ⇒ 8n = 80 ⇒ n = 10."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 9n − 5 ketma-ketlikning nechanchi hadi 58 ga teng?",
+      "answer": "7",
+      "explain": "9n + (-5) = 58 ⇒ 9n = 63 ⇒ n = 7."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 9n − 4 ketma-ketlikning a_6 hadi nimaga teng?",
+      "options": [
+        "63",
+        "59",
+        "50",
+        "41"
+      ],
+      "answer": 2,
+      "explain": "n = 6 qo'yganda 9·6 + (-4) = 50."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 9n − 3 formula bilan berilgan ketma-ketlikning 5-hadini toping.",
+      "answer": "42",
+      "explain": "a_5 = 9·5 + (-3) = 42."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 9n − 2 ketma-ketlikning nechanchi hadi 34 ga teng?",
+      "answer": "4",
+      "explain": "9n + (-2) = 34 ⇒ 9n = 36 ⇒ n = 4."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 9n − 1 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "17",
+        "26",
+        "36",
+        "35"
+      ],
+      "answer": 1,
+      "explain": "n = 3 qo'yganda 9·3 + (-1) = 26."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 9n + 0 formula bilan berilgan ketma-ketlikning 12-hadini toping.",
+      "answer": "108",
+      "explain": "a_12 = 9·12 + (0) = 108."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 9n + 1 ketma-ketlikning a_3 hadi nimaga teng?",
+      "options": [
+        "28",
+        "36",
+        "19",
+        "37"
+      ],
+      "answer": 0,
+      "explain": "n = 3 qo'yganda 9·3 + (1) = 28."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 9n + 2 ketma-ketlikning nechanchi hadi 38 ga teng?",
+      "answer": "4",
+      "explain": "9n + (2) = 38 ⇒ 9n = 36 ⇒ n = 4."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 9n + 3 formula bilan berilgan ketma-ketlikning 5-hadini toping.",
+      "answer": "48",
+      "explain": "a_5 = 9·5 + (3) = 48."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 9n + 4 ketma-ketlikning a_6 hadi nimaga teng?",
+      "options": [
+        "58",
+        "49",
+        "63",
+        "67"
+      ],
+      "answer": 0,
+      "explain": "n = 6 qo'yganda 9·6 + (4) = 58."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 9n + 5 ketma-ketlikning nechanchi hadi 68 ga teng?",
+      "answer": "7",
+      "explain": "9n + (5) = 68 ⇒ 9n = 63 ⇒ n = 7."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 9n + 6 formula bilan berilgan ketma-ketlikning 8-hadini toping.",
+      "answer": "78",
+      "explain": "a_8 = 9·8 + (6) = 78."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = 9n + 7 ketma-ketlikning a_9 hadi nimaga teng?",
+      "options": [
+        "79",
+        "90",
+        "97",
+        "88"
+      ],
+      "answer": 3,
+      "explain": "n = 9 qo'yganda 9·9 + (7) = 88."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 9n + 8 ketma-ketlikning nechanchi hadi 98 ga teng?",
+      "answer": "10",
+      "explain": "9n + (8) = 98 ⇒ 9n = 90 ⇒ n = 10."
+    },
+    {
+      "type": "fill",
+      "q": "aₙ = 9n + 9 formula bilan berilgan ketma-ketlikning 11-hadini toping.",
+      "answer": "108",
+      "explain": "a_11 = 9·11 + (9) = 108."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 6 ketma-ketlikning 2-hadi nechaga teng?",
+      "options": [
+        "0",
+        "-2",
+        "-3",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "2² + (-6) = -2."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 6 ketma-ketlikning 3-hadi 3 ga teng.",
+      "answer": true,
+      "explain": "n = 3 da 3² + (-6) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 6 ketma-ketlikning 4-hadi nechaga teng?",
+      "options": [
+        "12",
+        "10",
+        "19",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "4² + (-6) = 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 6 ketma-ketlikning 5-hadi 19 ga teng.",
+      "answer": true,
+      "explain": "n = 5 da 5² + (-6) = 19."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 6 ketma-ketlikning 6-hadi nechaga teng?",
+      "options": [
+        "6",
+        "32",
+        "43",
+        "30"
+      ],
+      "answer": 3,
+      "explain": "6² + (-6) = 30."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 6 ketma-ketlikning 7-hadi 43 ga teng.",
+      "answer": true,
+      "explain": "n = 7 da 7² + (-6) = 43."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 6 ketma-ketlikning 8-hadi nechaga teng?",
+      "options": [
+        "10",
+        "75",
+        "60",
+        "58"
+      ],
+      "answer": 3,
+      "explain": "8² + (-6) = 58."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 6 ketma-ketlikning 9-hadi 75 ga teng.",
+      "answer": true,
+      "explain": "n = 9 da 9² + (-6) = 75."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 5 ketma-ketlikning 2-hadi -1 ga teng.",
+      "answer": true,
+      "explain": "n = 2 da 2² + (-5) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 5 ketma-ketlikning 3-hadi nechaga teng?",
+      "options": [
+        "6",
+        "11",
+        "1",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "3² + (-5) = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 5 ketma-ketlikning 4-hadi 11 ga teng.",
+      "answer": true,
+      "explain": "n = 4 da 4² + (-5) = 11."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 5 ketma-ketlikning 5-hadi nechaga teng?",
+      "options": [
+        "22",
+        "20",
+        "5",
+        "31"
+      ],
+      "answer": 1,
+      "explain": "5² + (-5) = 20."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 5 ketma-ketlikning 6-hadi 31 ga teng.",
+      "answer": true,
+      "explain": "n = 6 da 6² + (-5) = 31."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 5 ketma-ketlikning 7-hadi nechaga teng?",
+      "options": [
+        "46",
+        "59",
+        "9",
+        "44"
+      ],
+      "answer": 3,
+      "explain": "7² + (-5) = 44."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 5 ketma-ketlikning 8-hadi 59 ga teng.",
+      "answer": true,
+      "explain": "n = 8 da 8² + (-5) = 59."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 5 ketma-ketlikning 9-hadi nechaga teng?",
+      "options": [
+        "95",
+        "13",
+        "78",
+        "76"
+      ],
+      "answer": 3,
+      "explain": "9² + (-5) = 76."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 4 ketma-ketlikning 2-hadi nechaga teng?",
+      "options": [
+        "5",
+        "2",
+        "-1",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2² + (-4) = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 4 ketma-ketlikning 3-hadi 5 ga teng.",
+      "answer": true,
+      "explain": "n = 3 da 3² + (-4) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 4 ketma-ketlikning 4-hadi nechaga teng?",
+      "options": [
+        "21",
+        "4",
+        "12",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "4² + (-4) = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 4 ketma-ketlikning 5-hadi 21 ga teng.",
+      "answer": true,
+      "explain": "n = 5 da 5² + (-4) = 21."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 4 ketma-ketlikning 6-hadi nechaga teng?",
+      "options": [
+        "34",
+        "45",
+        "8",
+        "32"
+      ],
+      "answer": 3,
+      "explain": "6² + (-4) = 32."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 4 ketma-ketlikning 7-hadi 45 ga teng.",
+      "answer": true,
+      "explain": "n = 7 da 7² + (-4) = 45."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 4 ketma-ketlikning 8-hadi nechaga teng?",
+      "options": [
+        "77",
+        "62",
+        "12",
+        "60"
+      ],
+      "answer": 3,
+      "explain": "8² + (-4) = 60."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 4 ketma-ketlikning 9-hadi 77 ga teng.",
+      "answer": true,
+      "explain": "n = 9 da 9² + (-4) = 77."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 3 ketma-ketlikning 2-hadi 1 ga teng.",
+      "answer": true,
+      "explain": "n = 2 da 2² + (-3) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 3 ketma-ketlikning 3-hadi nechaga teng?",
+      "options": [
+        "13",
+        "3",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "3² + (-3) = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 3 ketma-ketlikning 4-hadi 13 ga teng.",
+      "answer": true,
+      "explain": "n = 4 da 4² + (-3) = 13."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 3 ketma-ketlikning 5-hadi nechaga teng?",
+      "options": [
+        "33",
+        "24",
+        "7",
+        "22"
+      ],
+      "answer": 3,
+      "explain": "5² + (-3) = 22."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 3 ketma-ketlikning 6-hadi 33 ga teng.",
+      "answer": true,
+      "explain": "n = 6 da 6² + (-3) = 33."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 3 ketma-ketlikning 7-hadi nechaga teng?",
+      "options": [
+        "11",
+        "48",
+        "46",
+        "61"
+      ],
+      "answer": 2,
+      "explain": "7² + (-3) = 46."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 3 ketma-ketlikning 8-hadi 61 ga teng.",
+      "answer": true,
+      "explain": "n = 8 da 8² + (-3) = 61."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 3 ketma-ketlikning 9-hadi nechaga teng?",
+      "options": [
+        "15",
+        "78",
+        "97",
+        "80"
+      ],
+      "answer": 1,
+      "explain": "9² + (-3) = 78."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 2 ketma-ketlikning 2-hadi nechaga teng?",
+      "options": [
+        "2",
+        "4",
+        "7",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "2² + (-2) = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 2 ketma-ketlikning 3-hadi 7 ga teng.",
+      "answer": true,
+      "explain": "n = 3 da 3² + (-2) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 2 ketma-ketlikning 4-hadi nechaga teng?",
+      "options": [
+        "23",
+        "6",
+        "16",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "4² + (-2) = 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 2 ketma-ketlikning 5-hadi 23 ga teng.",
+      "answer": true,
+      "explain": "n = 5 da 5² + (-2) = 23."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 2 ketma-ketlikning 6-hadi nechaga teng?",
+      "options": [
+        "34",
+        "10",
+        "47",
+        "36"
+      ],
+      "answer": 0,
+      "explain": "6² + (-2) = 34."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 2 ketma-ketlikning 7-hadi 47 ga teng.",
+      "answer": true,
+      "explain": "n = 7 da 7² + (-2) = 47."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 2 ketma-ketlikning 8-hadi nechaga teng?",
+      "options": [
+        "14",
+        "79",
+        "62",
+        "64"
+      ],
+      "answer": 2,
+      "explain": "8² + (-2) = 62."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 2 ketma-ketlikning 9-hadi 79 ga teng.",
+      "answer": true,
+      "explain": "n = 9 da 9² + (-2) = 79."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 1 ketma-ketlikning 2-hadi 3 ga teng.",
+      "answer": true,
+      "explain": "n = 2 da 2² + (-1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 1 ketma-ketlikning 3-hadi nechaga teng?",
+      "options": [
+        "15",
+        "10",
+        "8",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "3² + (-1) = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 1 ketma-ketlikning 4-hadi 15 ga teng.",
+      "answer": true,
+      "explain": "n = 4 da 4² + (-1) = 15."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 1 ketma-ketlikning 5-hadi nechaga teng?",
+      "options": [
+        "9",
+        "24",
+        "35",
+        "26"
+      ],
+      "answer": 1,
+      "explain": "5² + (-1) = 24."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 1 ketma-ketlikning 6-hadi 35 ga teng.",
+      "answer": true,
+      "explain": "n = 6 da 6² + (-1) = 35."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 1 ketma-ketlikning 7-hadi nechaga teng?",
+      "options": [
+        "13",
+        "50",
+        "48",
+        "63"
+      ],
+      "answer": 2,
+      "explain": "7² + (-1) = 48."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² − 1 ketma-ketlikning 8-hadi 63 ga teng.",
+      "answer": true,
+      "explain": "n = 8 da 8² + (-1) = 63."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² − 1 ketma-ketlikning 9-hadi nechaga teng?",
+      "options": [
+        "17",
+        "80",
+        "82",
+        "99"
+      ],
+      "answer": 1,
+      "explain": "9² + (-1) = 80."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² ketma-ketlikning 2-hadi nechaga teng?",
+      "options": [
+        "9",
+        "6",
+        "4",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "2² + (0) = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² ketma-ketlikning 3-hadi 9 ga teng.",
+      "answer": true,
+      "explain": "n = 3 da 3² + (0) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² ketma-ketlikning 4-hadi nechaga teng?",
+      "options": [
+        "18",
+        "25",
+        "16",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "4² + (0) = 16."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² ketma-ketlikning 5-hadi 25 ga teng.",
+      "answer": true,
+      "explain": "n = 5 da 5² + (0) = 25."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² ketma-ketlikning 6-hadi nechaga teng?",
+      "options": [
+        "38",
+        "36",
+        "12",
+        "49"
+      ],
+      "answer": 1,
+      "explain": "6² + (0) = 36."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² ketma-ketlikning 7-hadi 49 ga teng.",
+      "answer": true,
+      "explain": "n = 7 da 7² + (0) = 49."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² ketma-ketlikning 8-hadi nechaga teng?",
+      "options": [
+        "66",
+        "16",
+        "64",
+        "81"
+      ],
+      "answer": 2,
+      "explain": "8² + (0) = 64."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² ketma-ketlikning 9-hadi 81 ga teng.",
+      "answer": true,
+      "explain": "n = 9 da 9² + (0) = 81."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 1 ketma-ketlikning 2-hadi 5 ga teng.",
+      "answer": true,
+      "explain": "n = 2 da 2² + (1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 1 ketma-ketlikning 3-hadi nechaga teng?",
+      "options": [
+        "7",
+        "10",
+        "12",
+        "17"
+      ],
+      "answer": 1,
+      "explain": "3² + (1) = 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 1 ketma-ketlikning 4-hadi 17 ga teng.",
+      "answer": true,
+      "explain": "n = 4 da 4² + (1) = 17."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 1 ketma-ketlikning 5-hadi nechaga teng?",
+      "options": [
+        "28",
+        "11",
+        "37",
+        "26"
+      ],
+      "answer": 3,
+      "explain": "5² + (1) = 26."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 1 ketma-ketlikning 6-hadi 37 ga teng.",
+      "answer": true,
+      "explain": "n = 6 da 6² + (1) = 37."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 1 ketma-ketlikning 7-hadi nechaga teng?",
+      "options": [
+        "50",
+        "52",
+        "65",
+        "15"
+      ],
+      "answer": 0,
+      "explain": "7² + (1) = 50."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 1 ketma-ketlikning 8-hadi 65 ga teng.",
+      "answer": true,
+      "explain": "n = 8 da 8² + (1) = 65."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 1 ketma-ketlikning 9-hadi nechaga teng?",
+      "options": [
+        "84",
+        "101",
+        "19",
+        "82"
+      ],
+      "answer": 3,
+      "explain": "9² + (1) = 82."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 2 ketma-ketlikning 2-hadi nechaga teng?",
+      "options": [
+        "5",
+        "6",
+        "11",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "2² + (2) = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 2 ketma-ketlikning 3-hadi 11 ga teng.",
+      "answer": true,
+      "explain": "n = 3 da 3² + (2) = 11."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 2 ketma-ketlikning 4-hadi nechaga teng?",
+      "options": [
+        "27",
+        "20",
+        "18",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "4² + (2) = 18."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 2 ketma-ketlikning 5-hadi 27 ga teng.",
+      "answer": true,
+      "explain": "n = 5 da 5² + (2) = 27."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 2 ketma-ketlikning 6-hadi nechaga teng?",
+      "options": [
+        "51",
+        "40",
+        "38",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "6² + (2) = 38."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 2 ketma-ketlikning 7-hadi 51 ga teng.",
+      "answer": true,
+      "explain": "n = 7 da 7² + (2) = 51."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 2 ketma-ketlikning 8-hadi nechaga teng?",
+      "options": [
+        "66",
+        "83",
+        "68",
+        "18"
+      ],
+      "answer": 0,
+      "explain": "8² + (2) = 66."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 2 ketma-ketlikning 9-hadi 83 ga teng.",
+      "answer": true,
+      "explain": "n = 9 da 9² + (2) = 83."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 3 ketma-ketlikning 2-hadi 7 ga teng.",
+      "answer": true,
+      "explain": "n = 2 da 2² + (3) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 3 ketma-ketlikning 3-hadi nechaga teng?",
+      "options": [
+        "14",
+        "19",
+        "12",
+        "9"
+      ],
+      "answer": 2,
+      "explain": "3² + (3) = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 3 ketma-ketlikning 4-hadi 19 ga teng.",
+      "answer": true,
+      "explain": "n = 4 da 4² + (3) = 19."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 3 ketma-ketlikning 5-hadi nechaga teng?",
+      "options": [
+        "28",
+        "30",
+        "39",
+        "13"
+      ],
+      "answer": 0,
+      "explain": "5² + (3) = 28."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 3 ketma-ketlikning 6-hadi 39 ga teng.",
+      "answer": true,
+      "explain": "n = 6 da 6² + (3) = 39."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 3 ketma-ketlikning 7-hadi nechaga teng?",
+      "options": [
+        "67",
+        "52",
+        "54",
+        "17"
+      ],
+      "answer": 1,
+      "explain": "7² + (3) = 52."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 3 ketma-ketlikning 8-hadi 67 ga teng.",
+      "answer": true,
+      "explain": "n = 8 da 8² + (3) = 67."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 3 ketma-ketlikning 9-hadi nechaga teng?",
+      "options": [
+        "103",
+        "86",
+        "84",
+        "21"
+      ],
+      "answer": 2,
+      "explain": "9² + (3) = 84."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 4 ketma-ketlikning 2-hadi nechaga teng?",
+      "options": [
+        "7",
+        "13",
+        "8",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "2² + (4) = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 4 ketma-ketlikning 3-hadi 13 ga teng.",
+      "answer": true,
+      "explain": "n = 3 da 3² + (4) = 13."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 4 ketma-ketlikning 4-hadi nechaga teng?",
+      "options": [
+        "22",
+        "20",
+        "29",
+        "12"
+      ],
+      "answer": 1,
+      "explain": "4² + (4) = 20."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 4 ketma-ketlikning 5-hadi 29 ga teng.",
+      "answer": true,
+      "explain": "n = 5 da 5² + (4) = 29."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 4 ketma-ketlikning 6-hadi nechaga teng?",
+      "options": [
+        "16",
+        "53",
+        "42",
+        "40"
+      ],
+      "answer": 3,
+      "explain": "6² + (4) = 40."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 4 ketma-ketlikning 7-hadi 53 ga teng.",
+      "answer": true,
+      "explain": "n = 7 da 7² + (4) = 53."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 4 ketma-ketlikning 8-hadi nechaga teng?",
+      "options": [
+        "70",
+        "68",
+        "85",
+        "20"
+      ],
+      "answer": 1,
+      "explain": "8² + (4) = 68."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 4 ketma-ketlikning 9-hadi 85 ga teng.",
+      "answer": true,
+      "explain": "n = 9 da 9² + (4) = 85."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 5 ketma-ketlikning 2-hadi 9 ga teng.",
+      "answer": true,
+      "explain": "n = 2 da 2² + (5) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 5 ketma-ketlikning 3-hadi nechaga teng?",
+      "options": [
+        "21",
+        "14",
+        "11",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "3² + (5) = 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 5 ketma-ketlikning 4-hadi 21 ga teng.",
+      "answer": true,
+      "explain": "n = 4 da 4² + (5) = 21."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 5 ketma-ketlikning 5-hadi nechaga teng?",
+      "options": [
+        "32",
+        "15",
+        "30",
+        "41"
+      ],
+      "answer": 2,
+      "explain": "5² + (5) = 30."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 5 ketma-ketlikning 6-hadi 41 ga teng.",
+      "answer": true,
+      "explain": "n = 6 da 6² + (5) = 41."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 5 ketma-ketlikning 7-hadi nechaga teng?",
+      "options": [
+        "54",
+        "19",
+        "56",
+        "69"
+      ],
+      "answer": 0,
+      "explain": "7² + (5) = 54."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 5 ketma-ketlikning 8-hadi 69 ga teng.",
+      "answer": true,
+      "explain": "n = 8 da 8² + (5) = 69."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 5 ketma-ketlikning 9-hadi nechaga teng?",
+      "options": [
+        "88",
+        "86",
+        "105",
+        "23"
+      ],
+      "answer": 1,
+      "explain": "9² + (5) = 86."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 6 ketma-ketlikning 2-hadi nechaga teng?",
+      "options": [
+        "10",
+        "9",
+        "12",
+        "15"
+      ],
+      "answer": 0,
+      "explain": "2² + (6) = 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 6 ketma-ketlikning 3-hadi 15 ga teng.",
+      "answer": true,
+      "explain": "n = 3 da 3² + (6) = 15."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 6 ketma-ketlikning 4-hadi nechaga teng?",
+      "options": [
+        "31",
+        "14",
+        "24",
+        "22"
+      ],
+      "answer": 3,
+      "explain": "4² + (6) = 22."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 6 ketma-ketlikning 5-hadi 31 ga teng.",
+      "answer": true,
+      "explain": "n = 5 da 5² + (6) = 31."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 6 ketma-ketlikning 6-hadi nechaga teng?",
+      "options": [
+        "55",
+        "42",
+        "18",
+        "44"
+      ],
+      "answer": 1,
+      "explain": "6² + (6) = 42."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 6 ketma-ketlikning 7-hadi 55 ga teng.",
+      "answer": true,
+      "explain": "n = 7 da 7² + (6) = 55."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 6 ketma-ketlikning 8-hadi nechaga teng?",
+      "options": [
+        "22",
+        "70",
+        "87",
+        "72"
+      ],
+      "answer": 1,
+      "explain": "8² + (6) = 70."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 6 ketma-ketlikning 9-hadi 87 ga teng.",
+      "answer": true,
+      "explain": "n = 9 da 9² + (6) = 87."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 7 ketma-ketlikning 2-hadi 11 ga teng.",
+      "answer": true,
+      "explain": "n = 2 da 2² + (7) = 11."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 7 ketma-ketlikning 3-hadi nechaga teng?",
+      "options": [
+        "13",
+        "23",
+        "18",
+        "16"
+      ],
+      "answer": 3,
+      "explain": "3² + (7) = 16."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 7 ketma-ketlikning 4-hadi 23 ga teng.",
+      "answer": true,
+      "explain": "n = 4 da 4² + (7) = 23."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 7 ketma-ketlikning 5-hadi nechaga teng?",
+      "options": [
+        "34",
+        "17",
+        "43",
+        "32"
+      ],
+      "answer": 3,
+      "explain": "5² + (7) = 32."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 7 ketma-ketlikning 6-hadi 43 ga teng.",
+      "answer": true,
+      "explain": "n = 6 da 6² + (7) = 43."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 7 ketma-ketlikning 7-hadi nechaga teng?",
+      "options": [
+        "56",
+        "58",
+        "21",
+        "71"
+      ],
+      "answer": 0,
+      "explain": "7² + (7) = 56."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 7 ketma-ketlikning 8-hadi 71 ga teng.",
+      "answer": true,
+      "explain": "n = 8 da 8² + (7) = 71."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 7 ketma-ketlikning 9-hadi nechaga teng?",
+      "options": [
+        "88",
+        "90",
+        "25",
+        "107"
+      ],
+      "answer": 0,
+      "explain": "9² + (7) = 88."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 8 ketma-ketlikning 2-hadi nechaga teng?",
+      "options": [
+        "11",
+        "17",
+        "12",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "2² + (8) = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 8 ketma-ketlikning 3-hadi 17 ga teng.",
+      "answer": true,
+      "explain": "n = 3 da 3² + (8) = 17."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 8 ketma-ketlikning 4-hadi nechaga teng?",
+      "options": [
+        "26",
+        "33",
+        "24",
+        "16"
+      ],
+      "answer": 2,
+      "explain": "4² + (8) = 24."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 8 ketma-ketlikning 5-hadi 33 ga teng.",
+      "answer": true,
+      "explain": "n = 5 da 5² + (8) = 33."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 8 ketma-ketlikning 6-hadi nechaga teng?",
+      "options": [
+        "46",
+        "57",
+        "20",
+        "44"
+      ],
+      "answer": 3,
+      "explain": "6² + (8) = 44."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 8 ketma-ketlikning 7-hadi 57 ga teng.",
+      "answer": true,
+      "explain": "n = 7 da 7² + (8) = 57."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 8 ketma-ketlikning 8-hadi nechaga teng?",
+      "options": [
+        "74",
+        "24",
+        "89",
+        "72"
+      ],
+      "answer": 3,
+      "explain": "8² + (8) = 72."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 8 ketma-ketlikning 9-hadi 89 ga teng.",
+      "answer": true,
+      "explain": "n = 9 da 9² + (8) = 89."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 9 ketma-ketlikning 2-hadi 13 ga teng.",
+      "answer": true,
+      "explain": "n = 2 da 2² + (9) = 13."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 9 ketma-ketlikning 3-hadi nechaga teng?",
+      "options": [
+        "15",
+        "18",
+        "25",
+        "20"
+      ],
+      "answer": 1,
+      "explain": "3² + (9) = 18."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 9 ketma-ketlikning 4-hadi 25 ga teng.",
+      "answer": true,
+      "explain": "n = 4 da 4² + (9) = 25."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 9 ketma-ketlikning 5-hadi nechaga teng?",
+      "options": [
+        "34",
+        "36",
+        "19",
+        "45"
+      ],
+      "answer": 0,
+      "explain": "5² + (9) = 34."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 9 ketma-ketlikning 6-hadi 45 ga teng.",
+      "answer": true,
+      "explain": "n = 6 da 6² + (9) = 45."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 9 ketma-ketlikning 7-hadi nechaga teng?",
+      "options": [
+        "60",
+        "23",
+        "73",
+        "58"
+      ],
+      "answer": 3,
+      "explain": "7² + (9) = 58."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 9 ketma-ketlikning 8-hadi 73 ga teng.",
+      "answer": true,
+      "explain": "n = 8 da 8² + (9) = 73."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 9 ketma-ketlikning 9-hadi nechaga teng?",
+      "options": [
+        "109",
+        "90",
+        "92",
+        "27"
+      ],
+      "answer": 1,
+      "explain": "9² + (9) = 90."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 10 ketma-ketlikning 2-hadi nechaga teng?",
+      "options": [
+        "19",
+        "14",
+        "13",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "2² + (10) = 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 10 ketma-ketlikning 3-hadi 19 ga teng.",
+      "answer": true,
+      "explain": "n = 3 da 3² + (10) = 19."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 10 ketma-ketlikning 4-hadi nechaga teng?",
+      "options": [
+        "28",
+        "35",
+        "26",
+        "18"
+      ],
+      "answer": 2,
+      "explain": "4² + (10) = 26."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 10 ketma-ketlikning 5-hadi 35 ga teng.",
+      "answer": true,
+      "explain": "n = 5 da 5² + (10) = 35."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 10 ketma-ketlikning 6-hadi nechaga teng?",
+      "options": [
+        "22",
+        "48",
+        "59",
+        "46"
+      ],
+      "answer": 3,
+      "explain": "6² + (10) = 46."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 10 ketma-ketlikning 7-hadi 59 ga teng.",
+      "answer": true,
+      "explain": "n = 7 da 7² + (10) = 59."
+    },
+    {
+      "type": "choice",
+      "q": "aₙ = n² + 10 ketma-ketlikning 8-hadi nechaga teng?",
+      "options": [
+        "76",
+        "91",
+        "26",
+        "74"
+      ],
+      "answer": 3,
+      "explain": "8² + (10) = 74."
+    },
+    {
+      "type": "truefalse",
+      "q": "aₙ = n² + 10 ketma-ketlikning 9-hadi 91 ga teng.",
+      "answer": true,
+      "explain": "n = 9 da 9² + (10) = 91."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 2aₙ − 3 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "-5",
+        "-1",
+        "-3",
+        "-6"
+      ],
+      "answer": 0,
+      "explain": "a₂ = 2·1 + (-3) = -1; a₃ = 2·-1 + (-3) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 2aₙ − 2 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "0",
+      "explain": "a₂ = 2·1 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 2aₙ − 1 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "0",
+        "1",
+        "3",
+        "-2"
+      ],
+      "answer": 1,
+      "explain": "a₂ = 2·1 + (-1) = 1; a₃ = 2·1 + (-1) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 2aₙ + 0 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "2",
+      "explain": "a₂ = 2·1 + (0) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 2aₙ + 1 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "6",
+        "3",
+        "9",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 2·1 + (1) = 3; a₃ = 2·3 + (1) = 7."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 2aₙ + 2 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "4",
+      "explain": "a₂ = 2·1 + (2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 2aₙ + 3 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "5",
+        "15",
+        "12",
+        "13"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 2·1 + (3) = 5; a₃ = 2·5 + (3) = 13."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 2aₙ + 4 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "6",
+      "explain": "a₂ = 2·1 + (4) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 2aₙ + 5 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "19",
+        "7",
+        "21",
+        "18"
+      ],
+      "answer": 0,
+      "explain": "a₂ = 2·1 + (5) = 7; a₃ = 2·7 + (5) = 19."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 3aₙ − 3 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "0",
+      "explain": "a₂ = 3·1 + (-3) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 3aₙ − 2 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "4",
+        "3",
+        "1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "a₂ = 3·1 + (-2) = 1; a₃ = 3·1 + (-2) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 3aₙ − 1 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "2",
+      "explain": "a₂ = 3·1 + (-1) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 3aₙ + 0 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "8",
+        "9",
+        "12",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "a₂ = 3·1 + (0) = 3; a₃ = 3·3 + (0) = 9."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 3aₙ + 1 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "4",
+      "explain": "a₂ = 3·1 + (1) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 3aₙ + 2 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "16",
+        "5",
+        "17",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "a₂ = 3·1 + (2) = 5; a₃ = 3·5 + (2) = 17."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 3aₙ + 3 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "6",
+      "explain": "a₂ = 3·1 + (3) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 3aₙ + 4 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "28",
+        "25",
+        "24",
+        "7"
+      ],
+      "answer": 1,
+      "explain": "a₂ = 3·1 + (4) = 7; a₃ = 3·7 + (4) = 25."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 3aₙ + 5 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "8",
+      "explain": "a₂ = 3·1 + (5) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 4aₙ − 3 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "5",
+        "0",
+        "3",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 4·1 + (-3) = 1; a₃ = 4·1 + (-3) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 4aₙ − 2 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "2",
+      "explain": "a₂ = 4·1 + (-2) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 4aₙ − 1 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "10",
+        "15",
+        "11",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "a₂ = 4·1 + (-1) = 3; a₃ = 4·3 + (-1) = 11."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 4aₙ + 0 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "4",
+      "explain": "a₂ = 4·1 + (0) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 4aₙ + 1 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "20",
+        "21",
+        "5",
+        "25"
+      ],
+      "answer": 1,
+      "explain": "a₂ = 4·1 + (1) = 5; a₃ = 4·5 + (1) = 21."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 4aₙ + 2 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "6",
+      "explain": "a₂ = 4·1 + (2) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 4aₙ + 3 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "7",
+        "30",
+        "31",
+        "35"
+      ],
+      "answer": 2,
+      "explain": "a₂ = 4·1 + (3) = 7; a₃ = 4·7 + (3) = 31."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, aₙ₊₁ = 4aₙ + 4 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "8",
+      "explain": "a₂ = 4·1 + (4) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, aₙ₊₁ = 4aₙ + 5 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "9",
+        "41",
+        "45",
+        "40"
+      ],
+      "answer": 1,
+      "explain": "a₂ = 4·1 + (5) = 9; a₃ = 4·9 + (5) = 41."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 2aₙ − 3 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "1",
+      "explain": "a₂ = 2·2 + (-3) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 2aₙ − 2 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "1",
+        "4",
+        "2",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "a₂ = 2·2 + (-2) = 2; a₃ = 2·2 + (-2) = 2."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 2aₙ − 1 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "3",
+      "explain": "a₂ = 2·2 + (-1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 2aₙ + 0 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "7",
+        "8",
+        "4",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "a₂ = 2·2 + (0) = 4; a₃ = 2·4 + (0) = 8."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 2aₙ + 1 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "5",
+      "explain": "a₂ = 2·2 + (1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 2aₙ + 2 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "16",
+        "13",
+        "6",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 2·2 + (2) = 6; a₃ = 2·6 + (2) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 2aₙ + 3 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "7",
+      "explain": "a₂ = 2·2 + (3) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 2aₙ + 4 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "22",
+        "8",
+        "20",
+        "19"
+      ],
+      "answer": 2,
+      "explain": "a₂ = 2·2 + (4) = 8; a₃ = 2·8 + (4) = 20."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 2aₙ + 5 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "9",
+      "explain": "a₂ = 2·2 + (5) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 3aₙ − 3 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "5",
+        "3",
+        "9",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 3·2 + (-3) = 3; a₃ = 3·3 + (-3) = 6."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 3aₙ − 2 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "4",
+      "explain": "a₂ = 3·2 + (-2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 3aₙ − 1 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "5",
+        "13",
+        "17",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 3·2 + (-1) = 5; a₃ = 3·5 + (-1) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 3aₙ + 0 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "6",
+      "explain": "a₂ = 3·2 + (0) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 3aₙ + 1 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "22",
+        "21",
+        "7",
+        "25"
+      ],
+      "answer": 0,
+      "explain": "a₂ = 3·2 + (1) = 7; a₃ = 3·7 + (1) = 22."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 3aₙ + 2 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "8",
+      "explain": "a₂ = 3·2 + (2) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 3aₙ + 3 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "33",
+        "30",
+        "9",
+        "29"
+      ],
+      "answer": 1,
+      "explain": "a₂ = 3·2 + (3) = 9; a₃ = 3·9 + (3) = 30."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 3aₙ + 4 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "10",
+      "explain": "a₂ = 3·2 + (4) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 3aₙ + 5 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "11",
+        "41",
+        "37",
+        "38"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 3·2 + (5) = 11; a₃ = 3·11 + (5) = 38."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 4aₙ − 3 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "5",
+      "explain": "a₂ = 4·2 + (-3) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 4aₙ − 2 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "6",
+        "22",
+        "21",
+        "26"
+      ],
+      "answer": 1,
+      "explain": "a₂ = 4·2 + (-2) = 6; a₃ = 4·6 + (-2) = 22."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 4aₙ − 1 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "7",
+      "explain": "a₂ = 4·2 + (-1) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 4aₙ + 0 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "36",
+        "31",
+        "8",
+        "32"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 4·2 + (0) = 8; a₃ = 4·8 + (0) = 32."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 4aₙ + 1 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "9",
+      "explain": "a₂ = 4·2 + (1) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 4aₙ + 2 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "10",
+        "46",
+        "41",
+        "42"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 4·2 + (2) = 10; a₃ = 4·10 + (2) = 42."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 4aₙ + 3 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "11",
+      "explain": "a₂ = 4·2 + (3) = 11."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, aₙ₊₁ = 4aₙ + 4 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "56",
+        "12",
+        "51",
+        "52"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 4·2 + (4) = 12; a₃ = 4·12 + (4) = 52."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, aₙ₊₁ = 4aₙ + 5 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "13",
+      "explain": "a₂ = 4·2 + (5) = 13."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 2aₙ − 3 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "3",
+        "0",
+        "2",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "a₂ = 2·3 + (-3) = 3; a₃ = 2·3 + (-3) = 3."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 2aₙ − 2 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "4",
+      "explain": "a₂ = 2·3 + (-2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 2aₙ − 1 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "9",
+        "5",
+        "8",
+        "11"
+      ],
+      "answer": 0,
+      "explain": "a₂ = 2·3 + (-1) = 5; a₃ = 2·5 + (-1) = 9."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 2aₙ + 0 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "6",
+      "explain": "a₂ = 2·3 + (0) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 2aₙ + 1 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "7",
+        "15",
+        "17",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "a₂ = 2·3 + (1) = 7; a₃ = 2·7 + (1) = 15."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 2aₙ + 2 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "8",
+      "explain": "a₂ = 2·3 + (2) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 2aₙ + 3 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "9",
+        "23",
+        "21",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "a₂ = 2·3 + (3) = 9; a₃ = 2·9 + (3) = 21."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 2aₙ + 4 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "10",
+      "explain": "a₂ = 2·3 + (4) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 2aₙ + 5 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "27",
+        "26",
+        "29",
+        "11"
+      ],
+      "answer": 0,
+      "explain": "a₂ = 2·3 + (5) = 11; a₃ = 2·11 + (5) = 27."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 3aₙ − 3 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "6",
+      "explain": "a₂ = 3·3 + (-3) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 3aₙ − 2 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "18",
+        "22",
+        "19",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "a₂ = 3·3 + (-2) = 7; a₃ = 3·7 + (-2) = 19."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 3aₙ − 1 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "8",
+      "explain": "a₂ = 3·3 + (-1) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 3aₙ + 0 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "26",
+        "30",
+        "9",
+        "27"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 3·3 + (0) = 9; a₃ = 3·9 + (0) = 27."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 3aₙ + 1 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "10",
+      "explain": "a₂ = 3·3 + (1) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 3aₙ + 2 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "35",
+        "11",
+        "34",
+        "38"
+      ],
+      "answer": 0,
+      "explain": "a₂ = 3·3 + (2) = 11; a₃ = 3·11 + (2) = 35."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 3aₙ + 3 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "12",
+      "explain": "a₂ = 3·3 + (3) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 3aₙ + 4 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "42",
+        "46",
+        "43",
+        "13"
+      ],
+      "answer": 2,
+      "explain": "a₂ = 3·3 + (4) = 13; a₃ = 3·13 + (4) = 43."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 3aₙ + 5 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "14",
+      "explain": "a₂ = 3·3 + (5) = 14."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 4aₙ − 3 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "32",
+        "37",
+        "9",
+        "33"
+      ],
+      "answer": 3,
+      "explain": "a₂ = 4·3 + (-3) = 9; a₃ = 4·9 + (-3) = 33."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 4aₙ − 2 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "10",
+      "explain": "a₂ = 4·3 + (-2) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 4aₙ − 1 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "43",
+        "11",
+        "42",
+        "47"
+      ],
+      "answer": 0,
+      "explain": "a₂ = 4·3 + (-1) = 11; a₃ = 4·11 + (-1) = 43."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 4aₙ + 0 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "12",
+      "explain": "a₂ = 4·3 + (0) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 4aₙ + 1 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "52",
+        "13",
+        "53",
+        "57"
+      ],
+      "answer": 2,
+      "explain": "a₂ = 4·3 + (1) = 13; a₃ = 4·13 + (1) = 53."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 4aₙ + 2 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "14",
+      "explain": "a₂ = 4·3 + (2) = 14."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, aₙ₊₁ = 4aₙ + 3 rekurrent ketma-ketlikning uchinchi hadi (a₃) ni toping.",
+      "options": [
+        "15",
+        "63",
+        "62",
+        "67"
+      ],
+      "answer": 1,
+      "explain": "a₂ = 4·3 + (3) = 15; a₃ = 4·15 + (3) = 63."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, aₙ₊₁ = 4aₙ + 4 ketma-ketlikning ikkinchi hadi (a₂) ni toping.",
+      "answer": "16",
+      "explain": "a₂ = 4·3 + (4) = 16."
+    }
+  ],
+  "cards": [
+    [
+      "Ketma",
+      "Natural sonlarga mos sonlar tartibi (a₁, a₂, ...)"
+    ],
+    [
+      "Tartib",
+      "Hadning ketma-ketlikdagi o'rni (n ∈ N)"
+    ],
+    [
+      "Umumiy",
+      "aₙ = f(n) ko'rinishidagi formula"
+    ],
+    [
+      "Rekurrent",
+      "Keyingi hadni oldingilar orqali berish usuli"
+    ],
+    [
+      "Fibonachchi",
+      "Har bir hadi oldingi ikki had yig'indisi bo'lgan ketma-ketlik"
+    ],
+    [
+      "Cheksiz",
+      "Hadlari tugamaydigan ketma-ketlik"
+    ],
+    [
+      "Chekli",
+      "Ma'lum n ta haddan iborat ketma-ketlik"
+    ],
+    [
+      "Monoton",
+      "Faqat o'suvchi yoki faqat kamayuvchi ketma-ketlik"
+    ],
+    [
+      "O'suvchi",
+      "aₙ₊₁ > aₙ shartini bajaruvchi ketma-ketlik"
+    ],
+    [
+      "Kamayuvchi",
+      "aₙ₊₁ < aₙ shartini bajaruvchi ketma-ketlik"
+    ],
+    [
+      "aₙ belgisi",
+      "Ketma-ketlikning n-hadi"
+    ],
+    [
+      "Analitik usul",
+      "Umumiy had formulasi orqali berish"
+    ],
+    [
+      "So'z bilan",
+      "Masalan: tub sonlar ketma-ketligi"
+    ],
+    [
+      "aₙ = n²",
+      "Natural sonlar kvadratlari: 1, 4, 9, 16..."
+    ],
+    [
+      "aₙ = 2n",
+      "Juft natural sonlar ketma-ketligi"
+    ],
+    [
+      "aₙ = 2n − 1",
+      "Toq natural sonlar ketma-ketligi"
+    ],
+    [
+      "aₙ = (−1)ⁿ",
+      "Ishora almashinuvchi −1, 1, −1, 1..."
+    ],
+    [
+      "Fibonachchi sonlari",
+      "1, 1, 2, 3, 5, 8, 13, 21, 34..."
+    ],
+    [
+      "Chegaralangan",
+      "Barcha hadlari |aₙ| ≤ M shartini qanoatlantiradi"
+    ],
+    [
+      "a₁",
+      "Ketma-ketlikning birinchi hadi"
+    ],
+    [
+      "n indeks",
+      "Faqat natural son qiymatlarini qabul qiladi (1, 2, 3...)"
+    ],
+    [
+      "O'zgarmas",
+      "Barcha hadlari teng bo'lgan ketma-ketlik"
+    ],
+    [
+      "Natural sonlar",
+      "1, 2, 3, 4, 5, ... cheksiz ketma-ketligi"
+    ],
+    [
+      "Juft hadlar",
+      "Indeksi 2, 4, 6, ... bo'lgan hadlar"
+    ]
+  ]
+}

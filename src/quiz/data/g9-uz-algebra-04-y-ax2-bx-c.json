@@ -1,0 +1,3562 @@
+{
+  "id": "g9-uz-algebra-04-y-ax2-bx-c",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "4-§. y = ax² + bx + c funksiya",
+  "title": "4-§. y = ax² + bx + c funksiya",
+  "source": "Algebra 9-sinf (2019), I bob, 4-§, 14–18-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "y = ax² + bx + c parabola uchining x₀ abssissasi qaysi formula bilan topiladi?",
+      "options": [
+        "x₀ = −b / (2a)",
+        "x₀ = −c / (2a)",
+        "x₀ = −b / a",
+        "x₀ = b / (2a)"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchining abssissasi x₀ = −b / (2a)."
+    },
+    {
+      "type": "choice",
+      "q": "y = ax² + bx + c funksiyaning grafigi Oy o'qini qaysi nuqtada kesib o'tadi?",
+      "options": [
+        "(0; c)",
+        "(−b/(2a); 0)",
+        "(0; b)",
+        "(c; 0)"
+      ],
+      "answer": 0,
+      "explain": "x = 0 qo'yilganda y = c chiqadi, demak nuqta (0; c)."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = a(x − m)² + n parabolaning uchi (m; n) nuqtada bo'ladi.",
+      "answer": true,
+      "explain": "Kanonik shakldagi (m; n) nuqta parabolaning uchi hisoblanadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 6x + 5 parabolaning simmetriya o'qi x = −3 to'g'ri chizig'idir.",
+      "answer": false,
+      "explain": "x₀ = −(−6)/(2·1) = 3, demak simmetriya o'qi x = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 30x − 80 parabola Oy o'qini (0; -80) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -80."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 30x − 79 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-5",
+        "4",
+        "-2",
+        "-4"
+      ],
+      "answer": 3,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-5) = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 30x − 78 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-5",
+      "explain": "x₀ = −b/(2a) = −(-30)/-6 = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 30x − 77 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; 2)",
+        "(5; -2)",
+        "(-5; -2)",
+        "(-2; -5)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = −(-30)/(2·-3) = -5, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 30x − 76 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; -1]",
+        "[-1; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -1)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (-5; -1), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 30x − 75 parabola Oy o'qini (0; -75) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -75."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 30x − 74 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[1; +∞)",
+        "(−∞; 1)",
+        "(−∞; 1]",
+        "(−∞; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (-5; 1), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 30x − 73 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; 2)",
+        "(5; 2)",
+        "(-5; -2)",
+        "(2; -5)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(-30)/(2·-3) = -5, y₀ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 30x − 72 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-5",
+      "explain": "x₀ = −b/(2a) = −(-30)/-6 = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 30x − 71 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "4",
+        "-4",
+        "6",
+        "-5"
+      ],
+      "answer": 0,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-5) = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 30x − 70 parabola Oy o'qini (0; -70) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -70."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 24x − 53 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-4",
+        "-5",
+        "5",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-4) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 24x − 52 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-4",
+      "explain": "x₀ = −b/(2a) = −(-24)/-6 = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 24x − 51 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-4; 3)",
+        "(-4; -3)",
+        "(-3; -4)",
+        "(4; -3)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(-24)/(2·-3) = -4, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 24x − 50 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[-2; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -2]",
+        "(−∞; -2)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (-4; -2), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 24x − 49 parabola Oy o'qini (0; -49) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -49."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 24x − 48 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-48",
+        "0",
+        "-4",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-4) = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 24x − 47 parabola Oy o'qini (0; -47) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -47."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 24x − 46 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[2; +∞)",
+        "(−∞; 2)",
+        "(−∞; 2]",
+        "(−∞; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (-4; 2), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 24x − 45 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-4; -3)",
+        "(4; 3)",
+        "(-4; 3)",
+        "(3; -4)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = −(-24)/(2·-3) = -4, y₀ = 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 24x − 44 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-4",
+      "explain": "x₀ = −b/(2a) = −(-24)/-6 = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 24x − 43 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "5",
+        "-5",
+        "-4",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-4) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 18x − 32 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-3",
+      "explain": "x₀ = −b/(2a) = −(-18)/-6 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 18x − 31 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-4; -3)",
+        "(-3; -4)",
+        "(-3; 4)",
+        "(3; -4)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(-18)/(2·-3) = -3, y₀ = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 18x − 30 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[-3; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -3]",
+        "(−∞; -3)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (-3; -3), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 18x − 29 parabola Oy o'qini (0; -29) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -29."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 18x − 28 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-3",
+        "-28",
+        "1",
+        "-1"
+      ],
+      "answer": 3,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-3) = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 18x − 27 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-3",
+      "explain": "x₀ = −b/(2a) = −(-18)/-6 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 18x − 26 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-1",
+        "3",
+        "-3",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-3) = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 18x − 25 parabola Oy o'qini (0; -25) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -25."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 18x − 24 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 3]",
+        "(−∞; +∞)",
+        "(−∞; 3)",
+        "[3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (-3; 3), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 18x − 23 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(4; -3)",
+        "(-3; 4)",
+        "(-3; -4)",
+        "(3; 4)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(-18)/(2·-3) = -3, y₀ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 18x − 22 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-3",
+      "explain": "x₀ = −b/(2a) = −(-18)/-6 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 12x − 17 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; -5)",
+        "(-2; -5)",
+        "(-5; -2)",
+        "(-2; 5)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(-12)/(2·-3) = -2, y₀ = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 12x − 16 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; -4)",
+        "[-4; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -4]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-2; -4), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 12x − 15 parabola Oy o'qini (0; -15) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -15."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 12x − 14 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-2",
+        "2",
+        "-14",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-2) = -2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 12x − 13 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-2",
+      "explain": "x₀ = −b/(2a) = −(-12)/-6 = -2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 12x − 11 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-2",
+      "explain": "x₀ = −b/(2a) = −(-12)/-6 = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 12x − 10 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "2",
+        "-10",
+        "-2",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-2) = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 12x − 9 parabola Oy o'qini (0; -9) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -9."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 12x − 8 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; 4]",
+        "[4; +∞)",
+        "(−∞; 4)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (-2; 4), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 12x − 7 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; -2)",
+        "(-2; -5)",
+        "(-2; 5)",
+        "(2; 5)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = −(-12)/(2·-3) = -2, y₀ = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 6x − 8 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; -5)",
+        "(−∞; +∞)",
+        "[-5; +∞)",
+        "(−∞; -5]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-1; -5), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 6x − 7 parabola Oy o'qini (0; -7) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 6x − 6 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-1",
+        "3",
+        "-3",
+        "-6"
+      ],
+      "answer": 2,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-1) = -3."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 6x − 5 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-1",
+      "explain": "x₀ = −b/(2a) = −(-6)/-6 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 6x − 3 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 0)",
+        "[0; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 0]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-1; 0), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 6x − 2 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(1; 1)",
+        "(1; -1)",
+        "(-1; -1)",
+        "(-1; 1)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = −(-6)/(2·-3) = -1, y₀ = 1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 6x − 1 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-1",
+      "explain": "x₀ = −b/(2a) = −(-6)/-6 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 6x funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-3",
+        "5",
+        "3",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(-1) = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 6x + 1 parabola Oy o'qini (0; 1) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 6x + 2 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 5)",
+        "(−∞; +∞)",
+        "[5; +∞)",
+        "(−∞; 5]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-1; 5), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² − 5 parabola Oy o'qini (0; -5) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 4 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-4",
+        "4",
+        "-2",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(0) = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² − 3 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "0",
+      "explain": "x₀ = −b/(2a) = −(0)/-6 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² − 1 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; -1]",
+        "(−∞; -1)",
+        "[-1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (0; -1), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² parabola Oy o'qini (0; 0) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 1 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[1; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 1]",
+        "(−∞; 1)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (0; 1), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 3 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "0",
+      "explain": "x₀ = −b/(2a) = −(0)/-6 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 4 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-4",
+        "4",
+        "0",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(0) = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 5 parabola Oy o'qini (0; 5) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 6x − 8 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; -5)",
+        "[-5; +∞)",
+        "(−∞; -5]",
+        "(−∞; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (1; -5), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 6x − 7 parabola Oy o'qini (0; -7) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 6x − 6 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "3",
+        "-3",
+        "1",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(1) = -3."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 6x − 5 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "1",
+      "explain": "x₀ = −b/(2a) = −(6)/-6 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 6x − 4 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(1; -1)",
+        "(-1; 1)",
+        "(1; 1)",
+        "(-1; -1)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(6)/(2·-3) = 1, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 6x − 3 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; 0]",
+        "(−∞; 0)",
+        "[0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (1; 0), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 6x − 1 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "1",
+      "explain": "x₀ = −b/(2a) = −(6)/-6 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 6x funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-3",
+        "3",
+        "1",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(1) = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 6x + 1 parabola Oy o'qini (0; 1) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 6x + 2 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 5]",
+        "(−∞; +∞)",
+        "(−∞; 5)",
+        "[5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (1; 5), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 12x − 17 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; 2)",
+        "(2; -5)",
+        "(2; 5)",
+        "(-2; -5)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(12)/(2·-3) = 2, y₀ = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 12x − 16 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-4; +∞)",
+        "(−∞; -4)",
+        "(−∞; -4]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (2; -4), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 12x − 15 parabola Oy o'qini (0; -15) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -15."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 12x − 14 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-14",
+        "0",
+        "-2",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(2) = -2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 12x − 13 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "2",
+      "explain": "x₀ = −b/(2a) = −(12)/-6 = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 12x − 11 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "2",
+      "explain": "x₀ = −b/(2a) = −(12)/-6 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 12x − 10 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "2",
+        "-2",
+        "4",
+        "-10"
+      ],
+      "answer": 0,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(2) = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 12x − 9 parabola Oy o'qini (0; -9) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -9."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 12x − 8 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[4; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 4]",
+        "(−∞; 4)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (2; 4), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 12x − 7 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-2; 5)",
+        "(2; 5)",
+        "(2; -5)",
+        "(5; 2)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(12)/(2·-3) = 2, y₀ = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 18x − 32 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "3",
+      "explain": "x₀ = −b/(2a) = −(18)/-6 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 18x − 31 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(3; 4)",
+        "(-3; -4)",
+        "(-4; 3)",
+        "(3; -4)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = −(18)/(2·-3) = 3, y₀ = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 18x − 30 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[-3; +∞)",
+        "(−∞; -3]",
+        "(−∞; +∞)",
+        "(−∞; -3)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (3; -3), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 18x − 29 parabola Oy o'qini (0; -29) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -29."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 18x − 28 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-1",
+        "3",
+        "1",
+        "-28"
+      ],
+      "answer": 0,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(3) = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 18x − 27 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "3",
+      "explain": "x₀ = −b/(2a) = −(18)/-6 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 18x − 26 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-26",
+        "3",
+        "1",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(3) = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 18x − 25 parabola Oy o'qini (0; -25) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -25."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 18x − 24 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 3]",
+        "[3; +∞)",
+        "(−∞; 3)",
+        "(−∞; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (3; 3), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 18x − 23 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(4; 3)",
+        "(3; 4)",
+        "(3; -4)",
+        "(-3; 4)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(18)/(2·-3) = 3, y₀ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 18x − 22 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "3",
+      "explain": "x₀ = −b/(2a) = −(18)/-6 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 24x − 53 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "4",
+        "5",
+        "-5",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(4) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 24x − 52 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "4",
+      "explain": "x₀ = −b/(2a) = −(24)/-6 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 24x − 51 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-4; -3)",
+        "(4; -3)",
+        "(4; 3)",
+        "(-3; 4)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(24)/(2·-3) = 4, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 24x − 50 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; -2]",
+        "(−∞; -2)",
+        "[-2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (4; -2), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 24x − 49 parabola Oy o'qini (0; -49) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -49."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 24x − 48 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-48",
+        "2",
+        "0",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(4) = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 24x − 47 parabola Oy o'qini (0; -47) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -47."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 24x − 46 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 2]",
+        "(−∞; 2)",
+        "[2; +∞)",
+        "(−∞; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (4; 2), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 24x − 45 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(4; -3)",
+        "(4; 3)",
+        "(3; 4)",
+        "(-4; 3)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(24)/(2·-3) = 4, y₀ = 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 24x − 44 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "4",
+      "explain": "x₀ = −b/(2a) = −(24)/-6 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 24x − 43 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "5",
+        "4",
+        "-5",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(4) = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 30x − 80 parabola Oy o'qini (0; -80) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -80."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 30x − 79 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-2",
+        "-4",
+        "4",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(5) = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 30x − 78 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "5",
+      "explain": "x₀ = −b/(2a) = −(30)/-6 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 30x − 77 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; -2)",
+        "(-5; -2)",
+        "(-2; 5)",
+        "(5; 2)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(30)/(2·-3) = 5, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 30x − 76 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[-1; +∞)",
+        "(−∞; -1]",
+        "(−∞; +∞)",
+        "(−∞; -1)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (5; -1), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 30x − 75 parabola Oy o'qini (0; -75) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -75."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 30x − 74 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[1; +∞)",
+        "(−∞; 1]",
+        "(−∞; +∞)",
+        "(−∞; 1)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (5; 1), a = -3 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 30x − 73 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; 2)",
+        "(2; 5)",
+        "(5; -2)",
+        "(-5; 2)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(30)/(2·-3) = 5, y₀ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −3x² + 30x − 72 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "5",
+      "explain": "x₀ = −b/(2a) = −(30)/-6 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −3x² + 30x − 71 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "6",
+        "-4",
+        "5",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "a = -3 < 0 bo'lgani uchun y_max = y(5) = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −3x² + 30x − 70 parabola Oy o'qini (0; -70) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -70."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 20x − 55 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-5",
+        "5",
+        "-55",
+        "-3"
+      ],
+      "answer": 0,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-5) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 20x − 54 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-5",
+      "explain": "x₀ = −b/(2a) = −(-20)/-4 = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 20x − 53 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; -3)",
+        "(-5; 3)",
+        "(5; -3)",
+        "(-3; -5)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(-20)/(2·-2) = -5, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 20x − 52 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-2; +∞)",
+        "(−∞; -2)",
+        "(−∞; -2]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-5; -2), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 20x − 51 parabola Oy o'qini (0; -51) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -51."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 20x − 50 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-50",
+        "2",
+        "0",
+        "-5"
+      ],
+      "answer": 2,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-5) = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 20x − 49 parabola Oy o'qini (0; -49) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -49."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 20x − 48 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 2]",
+        "(−∞; 2)",
+        "[2; +∞)",
+        "(−∞; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (-5; 2), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 20x − 47 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; 3)",
+        "(3; -5)",
+        "(5; 3)",
+        "(-5; -3)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(-20)/(2·-2) = -5, y₀ = 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 20x − 46 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-5",
+      "explain": "x₀ = −b/(2a) = −(-20)/-4 = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 20x − 45 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-45",
+        "7",
+        "5",
+        "-5"
+      ],
+      "answer": 2,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-5) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 16x − 37 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-4",
+      "explain": "x₀ = −b/(2a) = −(-16)/-4 = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 16x − 35 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[-3; +∞)",
+        "(−∞; -3)",
+        "(−∞; +∞)",
+        "(−∞; -3]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-4; -3), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 16x − 34 parabola Oy o'qini (0; -34) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -34."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 16x − 33 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "1",
+        "-1",
+        "-33",
+        "-4"
+      ],
+      "answer": 1,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-4) = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 16x − 32 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-4",
+      "explain": "x₀ = −b/(2a) = −(-16)/-4 = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 16x − 31 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-4",
+        "-1",
+        "3",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-4) = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 16x − 30 parabola Oy o'qini (0; -30) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -30."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 16x − 29 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 3]",
+        "(−∞; 3)",
+        "[3; +∞)",
+        "(−∞; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (-4; 3), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 16x − 28 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-4; 4)",
+        "(-4; -4)",
+        "(4; 4)",
+        "(4; -4)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(-16)/(2·-2) = -4, y₀ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 16x − 27 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-4",
+      "explain": "x₀ = −b/(2a) = −(-16)/-4 = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 12x − 23 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; -3)",
+        "(3; -5)",
+        "(-3; -5)",
+        "(-3; 5)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = −(-12)/(2·-2) = -3, y₀ = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 12x − 22 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[-4; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -4)",
+        "(−∞; -4]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-3; -4), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 12x − 21 parabola Oy o'qini (0; -21) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -21."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 12x − 20 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-2",
+        "0",
+        "2",
+        "-3"
+      ],
+      "answer": 0,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-3) = -2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 12x − 19 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-3",
+      "explain": "x₀ = −b/(2a) = −(-12)/-4 = -3."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 12x − 17 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-3",
+      "explain": "x₀ = −b/(2a) = −(-12)/-4 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 12x − 16 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-3",
+        "2",
+        "-2",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-3) = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 12x − 15 parabola Oy o'qini (0; -15) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -15."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 12x − 14 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 4)",
+        "[4; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 4]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-3; 4), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 12x − 13 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; 5)",
+        "(-3; -5)",
+        "(3; 5)",
+        "(5; -3)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(-12)/(2·-2) = -3, y₀ = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 8x − 13 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[-5; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -5)",
+        "(−∞; -5]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-2; -5), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 8x − 12 parabola Oy o'qini (0; -12) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -12."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 8x − 11 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-3",
+        "3",
+        "-2",
+        "-1"
+      ],
+      "answer": 0,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-2) = -3."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 8x − 10 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-2",
+      "explain": "x₀ = −b/(2a) = −(-8)/-4 = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 8x − 9 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-2; -1)",
+        "(-1; -2)",
+        "(2; -1)",
+        "(-2; 1)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(-8)/(2·-2) = -2, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 8x − 8 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[0; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 0)",
+        "(−∞; 0]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-2; 0), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 8x − 7 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(1; -2)",
+        "(-2; 1)",
+        "(-2; -1)",
+        "(2; 1)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(-8)/(2·-2) = -2, y₀ = 1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 8x − 6 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-2",
+      "explain": "x₀ = −b/(2a) = −(-8)/-4 = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 8x − 5 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "5",
+        "3",
+        "-3",
+        "-2"
+      ],
+      "answer": 1,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-2) = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 8x − 4 parabola Oy o'qini (0; -4) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 8x − 3 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[5; +∞)",
+        "(−∞; 5]",
+        "(−∞; +∞)",
+        "(−∞; 5)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (-2; 5), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 4x − 7 parabola Oy o'qini (0; -7) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 4x − 6 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-4",
+        "4",
+        "-2",
+        "-1"
+      ],
+      "answer": 0,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-1) = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 4x − 5 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-1",
+      "explain": "x₀ = −b/(2a) = −(-4)/-4 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 4x − 4 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(1; -2)",
+        "(-1; -2)",
+        "(-2; -1)",
+        "(-1; 2)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(-4)/(2·-2) = -1, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 4x − 3 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[-1; +∞)",
+        "(−∞; +∞)",
+        "(−∞; -1]",
+        "(−∞; -1)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (-1; -1), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 4x − 2 parabola Oy o'qini (0; -2) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 4x − 1 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 1)",
+        "[1; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 1]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (-1; 1), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 4x parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-1; -2)",
+        "(1; 2)",
+        "(2; -1)",
+        "(-1; 2)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = −(-4)/(2·-2) = -1, y₀ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 4x + 1 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-1",
+      "explain": "x₀ = −b/(2a) = −(-4)/-4 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 4x + 2 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-4",
+        "4",
+        "6",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(-1) = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 4x + 3 parabola Oy o'qini (0; 3) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 5 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-5",
+        "-3",
+        "5",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(0) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² − 4 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "0",
+      "explain": "x₀ = −b/(2a) = −(0)/-4 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² − 2 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; -2)",
+        "(−∞; -2]",
+        "[-2; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (0; -2), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² − 1 parabola Oy o'qini (0; -1) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-1",
+        "0",
+        "-3",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(0) = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 1 parabola Oy o'qini (0; 1) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 2 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[2; +∞)",
+        "(−∞; 2]",
+        "(−∞; 2)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (0; 2), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 4 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "0",
+      "explain": "x₀ = −b/(2a) = −(0)/-4 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 5 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "0",
+        "-5",
+        "7",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(0) = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 4x − 7 parabola Oy o'qini (0; -7) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 4x − 6 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-2",
+        "1",
+        "-4",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(1) = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 4x − 5 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "1",
+      "explain": "x₀ = −b/(2a) = −(4)/-4 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 4x − 4 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-1; -2)",
+        "(1; -2)",
+        "(-2; 1)",
+        "(1; 2)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(4)/(2·-2) = 1, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 4x − 3 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; -1]",
+        "(−∞; -1)",
+        "[-1; +∞)",
+        "(−∞; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (1; -1), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 4x − 2 parabola Oy o'qini (0; -2) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 4x − 1 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; 1)",
+        "(−∞; 1]",
+        "[1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (1; 1), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 4x parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; 1)",
+        "(1; -2)",
+        "(-1; 2)",
+        "(1; 2)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = −(4)/(2·-2) = 1, y₀ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 4x + 1 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "1",
+      "explain": "x₀ = −b/(2a) = −(4)/-4 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 4x + 2 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "1",
+        "-4",
+        "6",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(1) = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 4x + 3 parabola Oy o'qini (0; 3) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 8x − 13 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-5; +∞)",
+        "(−∞; -5]",
+        "(−∞; -5)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (2; -5), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 8x − 12 parabola Oy o'qini (0; -12) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -12."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 8x − 11 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "3",
+        "-1",
+        "-3",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(2) = -3."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 8x − 10 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "2",
+      "explain": "x₀ = −b/(2a) = −(8)/-4 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 8x − 9 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; 1)",
+        "(-2; -1)",
+        "(-1; 2)",
+        "(2; -1)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = −(8)/(2·-2) = 2, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 8x − 8 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 0)",
+        "[0; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 0]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (2; 0), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 8x − 7 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; 1)",
+        "(-2; 1)",
+        "(2; -1)",
+        "(1; 2)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(8)/(2·-2) = 2, y₀ = 1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 8x − 6 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "2",
+      "explain": "x₀ = −b/(2a) = −(8)/-4 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 8x − 5 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "5",
+        "3",
+        "-3",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(2) = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 8x − 4 parabola Oy o'qini (0; -4) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 8x − 3 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 5]",
+        "(−∞; +∞)",
+        "(−∞; 5)",
+        "[5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (2; 5), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 12x − 23 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(3; 5)",
+        "(-3; -5)",
+        "(-5; 3)",
+        "(3; -5)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = −(12)/(2·-2) = 3, y₀ = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 12x − 22 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; -4]",
+        "[-4; +∞)",
+        "(−∞; -4)",
+        "(−∞; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (3; -4), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 12x − 21 parabola Oy o'qini (0; -21) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -21."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 12x − 20 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "2",
+        "0",
+        "-2",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(3) = -2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 12x − 19 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "3",
+      "explain": "x₀ = −b/(2a) = −(12)/-4 = 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 12x − 17 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "3",
+      "explain": "x₀ = −b/(2a) = −(12)/-4 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 12x − 16 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "4",
+        "-2",
+        "2",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(3) = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 12x − 15 parabola Oy o'qini (0; -15) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -15."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 12x − 14 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; 4]",
+        "(−∞; 4)",
+        "[4; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (3; 4), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 12x − 13 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(3; 5)",
+        "(5; 3)",
+        "(-3; 5)",
+        "(3; -5)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(12)/(2·-2) = 3, y₀ = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 16x − 37 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "4",
+      "explain": "x₀ = −b/(2a) = −(16)/-4 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 16x − 36 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-4; 4)",
+        "(-4; -4)",
+        "(4; 4)",
+        "(4; -4)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = −(16)/(2·-2) = 4, y₀ = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 16x − 35 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; -3)",
+        "(−∞; -3]",
+        "[-3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (4; -3), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 16x − 34 parabola Oy o'qini (0; -34) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -34."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 16x − 33 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-1",
+        "4",
+        "1",
+        "-33"
+      ],
+      "answer": 0,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(4) = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 16x − 32 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "4",
+      "explain": "x₀ = −b/(2a) = −(16)/-4 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 16x − 31 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-1",
+        "1",
+        "4",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(4) = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 16x − 30 parabola Oy o'qini (0; -30) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -30."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 16x − 29 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 3)",
+        "[3; +∞)",
+        "(−∞; +∞)",
+        "(−∞; 3]"
+      ],
+      "answer": 3,
+      "explain": "Uchi (4; 3), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 16x − 27 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "4",
+      "explain": "x₀ = −b/(2a) = −(16)/-4 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 20x − 55 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "5",
+        "-3",
+        "-55",
+        "-5"
+      ],
+      "answer": 3,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(5) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 20x − 54 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "5",
+      "explain": "x₀ = −b/(2a) = −(20)/-4 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 20x − 53 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; -3)",
+        "(5; 3)",
+        "(-3; 5)",
+        "(-5; -3)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = −(20)/(2·-2) = 5, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 20x − 52 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "[-2; +∞)",
+        "(−∞; -2]",
+        "(−∞; -2)",
+        "(−∞; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (5; -2), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 20x − 51 parabola Oy o'qini (0; -51) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -51."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 20x − 50 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-50",
+        "0",
+        "2",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(5) = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −2x² + 20x − 49 parabola Oy o'qini (0; -49) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -49."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 20x − 48 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "(−∞; 2]",
+        "(−∞; 2)",
+        "[2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Uchi (5; 2), a = -2 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 20x − 47 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; -3)",
+        "(-5; 3)",
+        "(5; 3)",
+        "(3; 5)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = −(20)/(2·-2) = 5, y₀ = 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = −2x² + 20x − 46 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "5",
+      "explain": "x₀ = −b/(2a) = −(20)/-4 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −2x² + 20x − 45 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "7",
+        "5",
+        "-5",
+        "-45"
+      ],
+      "answer": 1,
+      "explain": "a = -2 < 0 bo'lgani uchun y_max = y(5) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 10x − 30 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-5",
+      "explain": "x₀ = −b/(2a) = −(-10)/-2 = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 10x − 29 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; -4)",
+        "(-5; -4)",
+        "(-4; -5)",
+        "(-5; 4)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(-10)/(2·-1) = -5, y₀ = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 10x − 28 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; +∞)",
+        "[-3; +∞)",
+        "(−∞; -3]",
+        "(−∞; -3)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (-5; -3), a = -1 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −x² − 10x − 27 parabola Oy o'qini (0; -27) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -27."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 10x − 26 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-26",
+        "-1",
+        "1",
+        "-5"
+      ],
+      "answer": 1,
+      "explain": "a = -1 < 0 bo'lgani uchun y_max = y(-5) = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 10x − 25 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-5",
+      "explain": "x₀ = −b/(2a) = −(-10)/-2 = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 10x − 24 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "-5",
+        "1",
+        "-1",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "a = -1 < 0 bo'lgani uchun y_max = y(-5) = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −x² − 10x − 23 parabola Oy o'qini (0; -23) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -23."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 10x − 22 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; 3)",
+        "[3; +∞)",
+        "(−∞; 3]",
+        "(−∞; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Uchi (-5; 3), a = -1 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 10x − 21 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; 4)",
+        "(-5; -4)",
+        "(-5; 4)",
+        "(4; -5)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = −(-10)/(2·-1) = -5, y₀ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 10x − 20 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-5",
+      "explain": "x₀ = −b/(2a) = −(-10)/-2 = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 8x − 21 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(4; -5)",
+        "(-4; -5)",
+        "(-5; -4)",
+        "(-4; 5)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = −(-8)/(2·-1) = -4, y₀ = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 8x − 20 funksiyaning qiymatlar sohasi E(y) ni toping.",
+      "options": [
+        "(−∞; -4]",
+        "(−∞; +∞)",
+        "[-4; +∞)",
+        "(−∞; -4)"
+      ],
+      "answer": 0,
+      "explain": "Uchi (-4; -4), a = -1 < 0 ⇒ E(y) = (−∞; n]."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −x² − 8x − 19 parabola Oy o'qini (0; -19) nuqtada kesadi.",
+      "answer": true,
+      "explain": "x = 0 qo'ysak y(0) = -19."
+    },
+    {
+      "type": "choice",
+      "q": "y = −x² − 8x − 18 funksiyaning eng katta qiymatini toping.",
+      "options": [
+        "0",
+        "2",
+        "-4",
+        "-2"
+      ],
+      "answer": 3,
+      "explain": "a = -1 < 0 bo'lgani uchun y_max = y(-4) = -2."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 8x − 17 parabolaning simmetriya o'qi x = x₀ bo'lsa, x₀ ni toping.",
+      "answer": "-4",
+      "explain": "x₀ = −b/(2a) = −(-8)/-2 = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² − 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 16x + 58",
+        "y = x² + 16x − 6",
+        "y = x² + 16x + 58",
+        "y = x² − 8x + 58"
+      ],
+      "answer": 2,
+      "explain": "(x + 8)² − 6 = x² + 16x + 58."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² − 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 16x + 59",
+        "y = x² − 8x + 59",
+        "y = x² + 16x − 5",
+        "y = x² − 16x + 59"
+      ],
+      "answer": 0,
+      "explain": "(x + 8)² − 5 = x² + 16x + 59."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² − 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 16x + 60",
+        "y = x² − 8x + 60",
+        "y = x² + 16x − 4",
+        "y = x² − 16x + 60"
+      ],
+      "answer": 0,
+      "explain": "(x + 8)² − 4 = x² + 16x + 60."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² − 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 16x + 61",
+        "y = x² − 8x + 61",
+        "y = x² − 16x + 61",
+        "y = x² + 16x − 3"
+      ],
+      "answer": 0,
+      "explain": "(x + 8)² − 3 = x² + 16x + 61."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² − 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 8x + 62",
+        "y = x² + 16x + 62",
+        "y = x² + 16x − 2",
+        "y = x² − 16x + 62"
+      ],
+      "answer": 1,
+      "explain": "(x + 8)² − 2 = x² + 16x + 62."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² − 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 16x + 63",
+        "y = x² − 8x + 63",
+        "y = x² + 16x − 1",
+        "y = x² − 16x + 63"
+      ],
+      "answer": 0,
+      "explain": "(x + 8)² − 1 = x² + 16x + 63."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 16x + 64",
+        "y = x² + 16x",
+        "y = x² − 16x + 64",
+        "y = x² − 8x + 64"
+      ],
+      "answer": 0,
+      "explain": "(x + 8)² = x² + 16x + 64."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² + 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 16x + 1",
+        "y = x² − 16x + 65",
+        "y = x² − 8x + 65",
+        "y = x² + 16x + 65"
+      ],
+      "answer": 3,
+      "explain": "(x + 8)² + 1 = x² + 16x + 65."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² + 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 8x + 66",
+        "y = x² + 16x + 66",
+        "y = x² − 16x + 66",
+        "y = x² + 16x + 2"
+      ],
+      "answer": 1,
+      "explain": "(x + 8)² + 2 = x² + 16x + 66."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² + 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 16x + 67",
+        "y = x² + 16x + 3",
+        "y = x² + 16x + 67",
+        "y = x² − 8x + 67"
+      ],
+      "answer": 2,
+      "explain": "(x + 8)² + 3 = x² + 16x + 67."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² + 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 16x + 4",
+        "y = x² + 16x + 68",
+        "y = x² − 16x + 68",
+        "y = x² − 8x + 68"
+      ],
+      "answer": 1,
+      "explain": "(x + 8)² + 4 = x² + 16x + 68."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² + 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 16x + 69",
+        "y = x² − 16x + 69",
+        "y = x² − 8x + 69",
+        "y = x² + 16x + 5"
+      ],
+      "answer": 0,
+      "explain": "(x + 8)² + 5 = x² + 16x + 69."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 8)² + 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 16x + 70",
+        "y = x² − 8x + 70",
+        "y = x² − 16x + 70",
+        "y = x² + 16x + 6"
+      ],
+      "answer": 0,
+      "explain": "(x + 8)² + 6 = x² + 16x + 70."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² − 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 14x + 43",
+        "y = x² − 7x + 43",
+        "y = x² + 14x − 6",
+        "y = x² + 14x + 43"
+      ],
+      "answer": 3,
+      "explain": "(x + 7)² − 6 = x² + 14x + 43."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² − 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 14x + 44",
+        "y = x² + 14x − 5",
+        "y = x² − 7x + 44",
+        "y = x² + 14x + 44"
+      ],
+      "answer": 3,
+      "explain": "(x + 7)² − 5 = x² + 14x + 44."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² − 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 14x + 45",
+        "y = x² − 14x + 45",
+        "y = x² − 7x + 45",
+        "y = x² + 14x − 4"
+      ],
+      "answer": 0,
+      "explain": "(x + 7)² − 4 = x² + 14x + 45."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² − 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 14x + 46",
+        "y = x² − 7x + 46",
+        "y = x² + 14x − 3",
+        "y = x² − 14x + 46"
+      ],
+      "answer": 0,
+      "explain": "(x + 7)² − 3 = x² + 14x + 46."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² − 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 7x + 47",
+        "y = x² + 14x + 47",
+        "y = x² + 14x − 2",
+        "y = x² − 14x + 47"
+      ],
+      "answer": 1,
+      "explain": "(x + 7)² − 2 = x² + 14x + 47."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² − 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 14x + 48",
+        "y = x² − 14x + 48",
+        "y = x² + 14x − 1",
+        "y = x² − 7x + 48"
+      ],
+      "answer": 0,
+      "explain": "(x + 7)² − 1 = x² + 14x + 48."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 14x",
+        "y = x² + 14x + 49",
+        "y = x² − 14x + 49",
+        "y = x² − 7x + 49"
+      ],
+      "answer": 1,
+      "explain": "(x + 7)² = x² + 14x + 49."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² + 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 14x + 1",
+        "y = x² − 14x + 50",
+        "y = x² − 7x + 50",
+        "y = x² + 14x + 50"
+      ],
+      "answer": 3,
+      "explain": "(x + 7)² + 1 = x² + 14x + 50."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² + 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 14x + 51",
+        "y = x² − 7x + 51",
+        "y = x² − 14x + 51",
+        "y = x² + 14x + 2"
+      ],
+      "answer": 0,
+      "explain": "(x + 7)² + 2 = x² + 14x + 51."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² + 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 14x + 3",
+        "y = x² − 14x + 52",
+        "y = x² − 7x + 52",
+        "y = x² + 14x + 52"
+      ],
+      "answer": 3,
+      "explain": "(x + 7)² + 3 = x² + 14x + 52."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² + 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 14x + 53",
+        "y = x² − 7x + 53",
+        "y = x² − 14x + 53",
+        "y = x² + 14x + 4"
+      ],
+      "answer": 0,
+      "explain": "(x + 7)² + 4 = x² + 14x + 53."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² + 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 7x + 54",
+        "y = x² + 14x + 5",
+        "y = x² + 14x + 54",
+        "y = x² − 14x + 54"
+      ],
+      "answer": 2,
+      "explain": "(x + 7)² + 5 = x² + 14x + 54."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 7)² + 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 14x + 55",
+        "y = x² + 14x + 6",
+        "y = x² + 14x + 55",
+        "y = x² − 7x + 55"
+      ],
+      "answer": 2,
+      "explain": "(x + 7)² + 6 = x² + 14x + 55."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² − 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 12x + 30",
+        "y = x² + 12x − 6",
+        "y = x² − 12x + 30",
+        "y = x² − 6x + 30"
+      ],
+      "answer": 0,
+      "explain": "(x + 6)² − 6 = x² + 12x + 30."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² − 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 6x + 31",
+        "y = x² − 12x + 31",
+        "y = x² + 12x + 31",
+        "y = x² + 12x − 5"
+      ],
+      "answer": 2,
+      "explain": "(x + 6)² − 5 = x² + 12x + 31."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² − 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 12x + 32",
+        "y = x² + 12x − 4",
+        "y = x² − 6x + 32",
+        "y = x² − 12x + 32"
+      ],
+      "answer": 0,
+      "explain": "(x + 6)² − 4 = x² + 12x + 32."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² − 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 12x + 33",
+        "y = x² + 12x − 3",
+        "y = x² − 12x + 33",
+        "y = x² − 6x + 33"
+      ],
+      "answer": 0,
+      "explain": "(x + 6)² − 3 = x² + 12x + 33."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² − 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 12x − 2",
+        "y = x² + 12x + 34",
+        "y = x² − 12x + 34",
+        "y = x² − 6x + 34"
+      ],
+      "answer": 1,
+      "explain": "(x + 6)² − 2 = x² + 12x + 34."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² − 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 12x − 1",
+        "y = x² + 12x + 35",
+        "y = x² − 6x + 35",
+        "y = x² − 12x + 35"
+      ],
+      "answer": 1,
+      "explain": "(x + 6)² − 1 = x² + 12x + 35."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 6x + 36",
+        "y = x² − 12x + 36",
+        "y = x² + 12x",
+        "y = x² + 12x + 36"
+      ],
+      "answer": 3,
+      "explain": "(x + 6)² = x² + 12x + 36."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² + 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 6x + 37",
+        "y = x² − 12x + 37",
+        "y = x² + 12x + 1",
+        "y = x² + 12x + 37"
+      ],
+      "answer": 3,
+      "explain": "(x + 6)² + 1 = x² + 12x + 37."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² + 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 12x + 38",
+        "y = x² − 6x + 38",
+        "y = x² + 12x + 2",
+        "y = x² + 12x + 38"
+      ],
+      "answer": 3,
+      "explain": "(x + 6)² + 2 = x² + 12x + 38."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² + 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 12x + 39",
+        "y = x² + 12x + 3",
+        "y = x² + 12x + 39",
+        "y = x² − 6x + 39"
+      ],
+      "answer": 2,
+      "explain": "(x + 6)² + 3 = x² + 12x + 39."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² + 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 6x + 40",
+        "y = x² + 12x + 4",
+        "y = x² − 12x + 40",
+        "y = x² + 12x + 40"
+      ],
+      "answer": 3,
+      "explain": "(x + 6)² + 4 = x² + 12x + 40."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² + 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 6x + 41",
+        "y = x² + 12x + 5",
+        "y = x² − 12x + 41",
+        "y = x² + 12x + 41"
+      ],
+      "answer": 3,
+      "explain": "(x + 6)² + 5 = x² + 12x + 41."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 6)² + 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 12x + 6",
+        "y = x² − 6x + 42",
+        "y = x² + 12x + 42",
+        "y = x² − 12x + 42"
+      ],
+      "answer": 2,
+      "explain": "(x + 6)² + 6 = x² + 12x + 42."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² − 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 10x + 19",
+        "y = x² − 5x + 19",
+        "y = x² + 10x − 6",
+        "y = x² − 10x + 19"
+      ],
+      "answer": 0,
+      "explain": "(x + 5)² − 6 = x² + 10x + 19."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² − 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 10x + 20",
+        "y = x² − 5x + 20",
+        "y = x² + 10x − 5",
+        "y = x² − 10x + 20"
+      ],
+      "answer": 0,
+      "explain": "(x + 5)² − 5 = x² + 10x + 20."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² − 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 10x + 21",
+        "y = x² + 10x − 4",
+        "y = x² − 5x + 21",
+        "y = x² − 10x + 21"
+      ],
+      "answer": 0,
+      "explain": "(x + 5)² − 4 = x² + 10x + 21."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² − 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 10x + 22",
+        "y = x² + 10x − 3",
+        "y = x² + 10x + 22",
+        "y = x² − 5x + 22"
+      ],
+      "answer": 2,
+      "explain": "(x + 5)² − 3 = x² + 10x + 22."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² − 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 10x + 23",
+        "y = x² + 10x + 23",
+        "y = x² + 10x − 2",
+        "y = x² − 5x + 23"
+      ],
+      "answer": 1,
+      "explain": "(x + 5)² − 2 = x² + 10x + 23."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² − 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 10x + 24",
+        "y = x² − 5x + 24",
+        "y = x² + 10x − 1",
+        "y = x² + 10x + 24"
+      ],
+      "answer": 3,
+      "explain": "(x + 5)² − 1 = x² + 10x + 24."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 10x + 25",
+        "y = x² + 10x + 25",
+        "y = x² − 5x + 25",
+        "y = x² + 10x"
+      ],
+      "answer": 1,
+      "explain": "(x + 5)² = x² + 10x + 25."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² + 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 10x + 26",
+        "y = x² − 5x + 26",
+        "y = x² + 10x + 1",
+        "y = x² − 10x + 26"
+      ],
+      "answer": 0,
+      "explain": "(x + 5)² + 1 = x² + 10x + 26."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² + 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 10x + 27",
+        "y = x² − 5x + 27",
+        "y = x² − 10x + 27",
+        "y = x² + 10x + 2"
+      ],
+      "answer": 0,
+      "explain": "(x + 5)² + 2 = x² + 10x + 27."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² + 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 10x + 28",
+        "y = x² + 10x + 3",
+        "y = x² − 10x + 28",
+        "y = x² − 5x + 28"
+      ],
+      "answer": 0,
+      "explain": "(x + 5)² + 3 = x² + 10x + 28."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² + 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 10x + 4",
+        "y = x² + 10x + 29",
+        "y = x² − 10x + 29",
+        "y = x² − 5x + 29"
+      ],
+      "answer": 1,
+      "explain": "(x + 5)² + 4 = x² + 10x + 29."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² + 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 10x + 30",
+        "y = x² − 5x + 30",
+        "y = x² + 10x + 5",
+        "y = x² + 10x + 30"
+      ],
+      "answer": 3,
+      "explain": "(x + 5)² + 5 = x² + 10x + 30."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 5)² + 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 10x + 31",
+        "y = x² + 10x + 31",
+        "y = x² − 5x + 31",
+        "y = x² + 10x + 6"
+      ],
+      "answer": 1,
+      "explain": "(x + 5)² + 6 = x² + 10x + 31."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² − 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 4x + 10",
+        "y = x² − 8x + 10",
+        "y = x² + 8x + 10",
+        "y = x² + 8x − 6"
+      ],
+      "answer": 2,
+      "explain": "(x + 4)² − 6 = x² + 8x + 10."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² − 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 8x + 11",
+        "y = x² + 8x + 11",
+        "y = x² + 8x − 5",
+        "y = x² − 4x + 11"
+      ],
+      "answer": 1,
+      "explain": "(x + 4)² − 5 = x² + 8x + 11."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² − 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 4x + 12",
+        "y = x² + 8x − 4",
+        "y = x² − 8x + 12",
+        "y = x² + 8x + 12"
+      ],
+      "answer": 3,
+      "explain": "(x + 4)² − 4 = x² + 8x + 12."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² − 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 8x − 3",
+        "y = x² + 8x + 13",
+        "y = x² − 4x + 13",
+        "y = x² − 8x + 13"
+      ],
+      "answer": 1,
+      "explain": "(x + 4)² − 3 = x² + 8x + 13."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² − 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 8x + 14",
+        "y = x² + 8x − 2",
+        "y = x² − 8x + 14",
+        "y = x² − 4x + 14"
+      ],
+      "answer": 0,
+      "explain": "(x + 4)² − 2 = x² + 8x + 14."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² − 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 4x + 15",
+        "y = x² + 8x − 1",
+        "y = x² + 8x + 15",
+        "y = x² − 8x + 15"
+      ],
+      "answer": 2,
+      "explain": "(x + 4)² − 1 = x² + 8x + 15."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 8x",
+        "y = x² + 8x + 16",
+        "y = x² − 4x + 16",
+        "y = x² − 8x + 16"
+      ],
+      "answer": 1,
+      "explain": "(x + 4)² = x² + 8x + 16."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² + 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 8x + 17",
+        "y = x² + 8x + 17",
+        "y = x² − 4x + 17",
+        "y = x² + 8x + 1"
+      ],
+      "answer": 1,
+      "explain": "(x + 4)² + 1 = x² + 8x + 17."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² + 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 8x + 18",
+        "y = x² − 4x + 18",
+        "y = x² + 8x + 2",
+        "y = x² + 8x + 18"
+      ],
+      "answer": 3,
+      "explain": "(x + 4)² + 2 = x² + 8x + 18."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² + 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 8x + 19",
+        "y = x² − 8x + 19",
+        "y = x² − 4x + 19",
+        "y = x² + 8x + 3"
+      ],
+      "answer": 0,
+      "explain": "(x + 4)² + 3 = x² + 8x + 19."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² + 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 4x + 20",
+        "y = x² − 8x + 20",
+        "y = x² + 8x + 20",
+        "y = x² + 8x + 4"
+      ],
+      "answer": 2,
+      "explain": "(x + 4)² + 4 = x² + 8x + 20."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² + 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 4x + 21",
+        "y = x² + 8x + 5",
+        "y = x² + 8x + 21",
+        "y = x² − 8x + 21"
+      ],
+      "answer": 2,
+      "explain": "(x + 4)² + 5 = x² + 8x + 21."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 4)² + 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 8x + 22",
+        "y = x² − 4x + 22",
+        "y = x² − 8x + 22",
+        "y = x² + 8x + 6"
+      ],
+      "answer": 0,
+      "explain": "(x + 4)² + 6 = x² + 8x + 22."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² − 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 6x + 3",
+        "y = x² + 6x + 3",
+        "y = x² − 3x + 3",
+        "y = x² + 6x − 6"
+      ],
+      "answer": 1,
+      "explain": "(x + 3)² − 6 = x² + 6x + 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² − 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 6x − 5",
+        "y = x² − 3x + 4",
+        "y = x² − 6x + 4",
+        "y = x² + 6x + 4"
+      ],
+      "answer": 3,
+      "explain": "(x + 3)² − 5 = x² + 6x + 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² − 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 3x + 5",
+        "y = x² + 6x + 5",
+        "y = x² − 6x + 5",
+        "y = x² + 6x − 4"
+      ],
+      "answer": 1,
+      "explain": "(x + 3)² − 4 = x² + 6x + 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² − 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 6x + 6",
+        "y = x² − 3x + 6",
+        "y = x² − 6x + 6",
+        "y = x² + 6x − 3"
+      ],
+      "answer": 0,
+      "explain": "(x + 3)² − 3 = x² + 6x + 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² − 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 3x + 7",
+        "y = x² − 6x + 7",
+        "y = x² + 6x − 2",
+        "y = x² + 6x + 7"
+      ],
+      "answer": 3,
+      "explain": "(x + 3)² − 2 = x² + 6x + 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² − 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 6x + 8",
+        "y = x² + 6x − 1",
+        "y = x² − 6x + 8",
+        "y = x² − 3x + 8"
+      ],
+      "answer": 0,
+      "explain": "(x + 3)² − 1 = x² + 6x + 8."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 6x + 9",
+        "y = x² − 3x + 9",
+        "y = x² + 6x + 9",
+        "y = x² + 6x"
+      ],
+      "answer": 2,
+      "explain": "(x + 3)² = x² + 6x + 9."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² + 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 3x + 10",
+        "y = x² + 6x + 10",
+        "y = x² + 6x + 1",
+        "y = x² − 6x + 10"
+      ],
+      "answer": 1,
+      "explain": "(x + 3)² + 1 = x² + 6x + 10."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² + 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 6x + 2",
+        "y = x² − 6x + 11",
+        "y = x² + 6x + 11",
+        "y = x² − 3x + 11"
+      ],
+      "answer": 2,
+      "explain": "(x + 3)² + 2 = x² + 6x + 11."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² + 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 6x + 3",
+        "y = x² − 6x + 12",
+        "y = x² − 3x + 12",
+        "y = x² + 6x + 12"
+      ],
+      "answer": 3,
+      "explain": "(x + 3)² + 3 = x² + 6x + 12."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² + 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 6x + 13",
+        "y = x² − 3x + 13",
+        "y = x² + 6x + 4",
+        "y = x² + 6x + 13"
+      ],
+      "answer": 3,
+      "explain": "(x + 3)² + 4 = x² + 6x + 13."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² + 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 6x + 14",
+        "y = x² − 3x + 14",
+        "y = x² − 6x + 14",
+        "y = x² + 6x + 5"
+      ],
+      "answer": 0,
+      "explain": "(x + 3)² + 5 = x² + 6x + 14."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 3)² + 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 6x + 15",
+        "y = x² + 6x + 6",
+        "y = x² + 6x + 15",
+        "y = x² − 3x + 15"
+      ],
+      "answer": 2,
+      "explain": "(x + 3)² + 6 = x² + 6x + 15."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² − 6 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 4x − 2",
+        "y = x² + 4x − 2",
+        "y = x² − 2x − 2",
+        "y = x² + 4x − 6"
+      ],
+      "answer": 1,
+      "explain": "(x + 2)² − 6 = x² + 4x − 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² − 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 4x − 5",
+        "y = x² − 4x − 1",
+        "y = x² − 2x − 1",
+        "y = x² + 4x − 1"
+      ],
+      "answer": 3,
+      "explain": "(x + 2)² − 5 = x² + 4x − 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² − 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 4x",
+        "y = x² + 4x",
+        "y = x² + 4x − 4",
+        "y = x² − 2x"
+      ],
+      "answer": 1,
+      "explain": "(x + 2)² − 4 = x² + 4x ."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² − 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 2x + 1",
+        "y = x² + 4x + 1",
+        "y = x² − 4x + 1",
+        "y = x² + 4x − 3"
+      ],
+      "answer": 1,
+      "explain": "(x + 2)² − 3 = x² + 4x + 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² − 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 4x − 2",
+        "y = x² − 2x + 2",
+        "y = x² + 4x + 2",
+        "y = x² − 4x + 2"
+      ],
+      "answer": 2,
+      "explain": "(x + 2)² − 2 = x² + 4x + 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² − 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 2x + 3",
+        "y = x² − 4x + 3",
+        "y = x² + 4x − 1",
+        "y = x² + 4x + 3"
+      ],
+      "answer": 3,
+      "explain": "(x + 2)² − 1 = x² + 4x + 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 4x + 4",
+        "y = x² + 4x",
+        "y = x² + 4x + 4",
+        "y = x² − 2x + 4"
+      ],
+      "answer": 2,
+      "explain": "(x + 2)² = x² + 4x + 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² + 1 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 4x + 5",
+        "y = x² − 2x + 5",
+        "y = x² − 4x + 5",
+        "y = x² + 4x + 1"
+      ],
+      "answer": 0,
+      "explain": "(x + 2)² + 1 = x² + 4x + 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² + 2 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 2x + 6",
+        "y = x² + 4x + 2",
+        "y = x² + 4x + 6",
+        "y = x² − 4x + 6"
+      ],
+      "answer": 2,
+      "explain": "(x + 2)² + 2 = x² + 4x + 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² + 3 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 4x + 7",
+        "y = x² + 4x + 7",
+        "y = x² − 2x + 7",
+        "y = x² + 4x + 3"
+      ],
+      "answer": 1,
+      "explain": "(x + 2)² + 3 = x² + 4x + 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² + 4 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² + 4x + 4",
+        "y = x² − 4x + 8",
+        "y = x² − 2x + 8",
+        "y = x² + 4x + 8"
+      ],
+      "answer": 3,
+      "explain": "(x + 2)² + 4 = x² + 4x + 8."
+    },
+    {
+      "type": "choice",
+      "q": "y = (x + 2)² + 5 funksiyani y = ax² + bx + c ko'rinishida yozing.",
+      "options": [
+        "y = x² − 2x + 9",
+        "y = x² + 4x + 5",
+        "y = x² − 4x + 9",
+        "y = x² + 4x + 9"
+      ],
+      "answer": 3,
+      "explain": "(x + 2)² + 5 = x² + 4x + 9."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Abssissa",
+      "Parabola uchining birinchi koordinatasi x₀"
+    ],
+    [
+      "Ordinata",
+      "Parabola uchining ikkinchi koordinatasi y₀"
+    ],
+    [
+      "Siljish",
+      "Parabolani o'qlar bo'ylab parallel ko'chirish"
+    ],
+    [
+      "Kanonik",
+      "a(x − m)² + n ko'rinishidagi yozuv"
+    ],
+    [
+      "Parabola uchi x₀",
+      "x₀ = −b / (2a)"
+    ],
+    [
+      "Parabola uchi y₀",
+      "y₀ = ax₀² + bx₀ + c"
+    ],
+    [
+      "Simmetriya o'qi",
+      "x = −b / (2a) to'g'ri chizig'i"
+    ],
+    [
+      "Oy kesishish nuqtasi",
+      "(0; c) nuqtada kesishadi"
+    ],
+    [
+      "y = a(x−m)² + n",
+      "Uchi (m; n) nuqtada joylashgan"
+    ],
+    [
+      "To'la kvadrat ajratish",
+      "ax² + bx + c = a(x − x₀)² + y₀"
+    ],
+    [
+      "Eng kichik (a > 0)",
+      "y_min = y₀ qiymatga x = x₀ da erishadi"
+    ],
+    [
+      "Eng katta (a < 0)",
+      "y_max = y₀ qiymatga x = x₀ da erishadi"
+    ],
+    [
+      "Ildizlar o'rtasi",
+      "x₀ = (x₁ + x₂) / 2"
+    ],
+    [
+      "Diskriminant va uch",
+      "y₀ = −D / (4a)"
+    ]
+  ]
+}

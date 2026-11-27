@@ -1,0 +1,3518 @@
+{
+  "id": "g9-uz-algebra-25-ikkilangan-burchak",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "25-§. Ikkilangan burchakning sinusi va kosinusi",
+  "title": "25-§. Ikkilangan burchakning sinusi va kosinusi",
+  "source": "Algebra 9-sinf (2019), III bob, 25-§, 126–129-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "sin 2α formulasi qaysi?",
+      "options": [
+        "2 sin α + cos α",
+        "2 sin α cos α",
+        "sin²α + cos²α",
+        "cos²α − sin²α"
+      ],
+      "answer": 1,
+      "explain": "Qo'shish formulasida β = α qo'ysak sin(α + α) = 2 sin α cos α chiqadi."
+    },
+    {
+      "type": "choice",
+      "q": "Quyidagilardan qaysi biri cos 2α ga teng EMAS?",
+      "options": [
+        "cos²α + sin²α",
+        "cos²α − sin²α",
+        "2cos²α − 1",
+        "1 − 2sin²α"
+      ],
+      "answer": 0,
+      "explain": "cos²α + sin²α = 1, bu cos 2α emas."
+    },
+    {
+      "type": "choice",
+      "q": "tg 2α ning formulasi qaysi?",
+      "options": [
+        "(1 − tg²α) / (2 tg α)",
+        "2 tg α / (1 + tg²α)",
+        "tg²α − 1",
+        "2 tg α / (1 − tg²α)"
+      ],
+      "answer": 3,
+      "explain": "tg(α + α) = (tg α + tg α)/(1 − tg α · tg α)."
+    },
+    {
+      "type": "truefalse",
+      "q": "1 − cos 2α = 2 sin²α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "cos 2α = 1 − 2 sin²α dan 1 − cos 2α = 2 sin²α."
+    },
+    {
+      "type": "choice",
+      "q": "2 sin(π/12) cos(π/12) ifodaning qiymatini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "sin(2·π/12) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos²(π/12) − sin²(π/12) ifodaning qiymati nechaga teng?",
+      "options": [
+        "1",
+        "−1",
+        "√3/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "cos(2·π/12) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "2 sin(π/8) cos(π/8) ifodaning qiymatini toping.",
+      "options": [
+        "0",
+        "√2/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "sin(2·π/8) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos²(π/8) − sin²(π/8) ifodaning qiymati nechaga teng?",
+      "options": [
+        "1",
+        "√2/2",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "cos(2·π/8) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "2 sin(π/6) cos(π/6) ifodaning qiymatini toping.",
+      "options": [
+        "√3/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "sin(2·π/6) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos²(π/6) − sin²(π/6) ifodaning qiymati nechaga teng?",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(2·π/6) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "2 sin(π/4) cos(π/4) ifodaning qiymatini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "sin(2·π/4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "cos²(π/4) − sin²(π/4) ifodaning qiymati nechaga teng?",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "cos(2·π/4) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "2 sin(π/3) cos(π/3) ifodaning qiymatini toping.",
+      "options": [
+        "0",
+        "√3/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "sin(2·π/3) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos²(π/3) − sin²(π/3) ifodaning qiymati nechaga teng?",
+      "options": [
+        "1",
+        "−1/2",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "cos(2·π/3) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "2 sin(5π/12) cos(5π/12) ifodaning qiymatini toping.",
+      "options": [
+        "0",
+        "1/2",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "sin(2·5π/12) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos²(5π/12) − sin²(5π/12) ifodaning qiymati nechaga teng?",
+      "options": [
+        "1",
+        "−1",
+        "0",
+        "−√3/2"
+      ],
+      "answer": 3,
+      "explain": "cos(2·5π/12) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "2 sin(π/2) cos(π/2) ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "1/2",
+        "−1",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "sin(2·π/2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos²(π/2) − sin²(π/2) ifodaning qiymati nechaga teng?",
+      "options": [
+        "1/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(2·π/2) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/3 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "8/9",
+        "7/9",
+        "1/3",
+        "-7/9"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/3)² = 7/9."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/3 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-7/9",
+        "7/9",
+        "1",
+        "1/9"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/3)² − 1 = -7/9."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 2/3 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "5/9",
+        "1/9",
+        "-1/9",
+        "2/3"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(2/3)² = 1/9."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 2/3 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1/9",
+        "-1/9",
+        "1",
+        "4/9"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(2/3)² − 1 = -1/9."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/4 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1/4",
+        "-7/8",
+        "15/16",
+        "7/8"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/4)² = 7/8."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/4 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1/16",
+        "-7/8",
+        "7/8",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/4)² − 1 = -7/8."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 3/4 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "3/4",
+        "7/16",
+        "-1/8",
+        "1/8"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(3/4)² = -1/8."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 3/4 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "9/16",
+        "1",
+        "-1/8",
+        "1/8"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(3/4)² − 1 = 1/8."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/5 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "24/25",
+        "-23/25",
+        "23/25",
+        "1/5"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/5)² = 23/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/5 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-23/25",
+        "1",
+        "23/25",
+        "1/25"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/5)² − 1 = -23/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 2/5 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "21/25",
+        "17/25",
+        "2/5",
+        "-17/25"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(2/5)² = 17/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 2/5 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "4/25",
+        "1",
+        "-17/25",
+        "17/25"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(2/5)² − 1 = -17/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 3/5 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "16/25",
+        "-7/25",
+        "3/5",
+        "7/25"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(3/5)² = 7/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 3/5 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "7/25",
+        "-7/25",
+        "1",
+        "9/25"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(3/5)² − 1 = -7/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 4/5 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "4/5",
+        "7/25",
+        "9/25",
+        "-7/25"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(4/5)² = -7/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 4/5 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "16/25",
+        "-7/25",
+        "7/25"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(4/5)² − 1 = 7/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/6 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "35/36",
+        "-17/18",
+        "17/18",
+        "1/6"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/6)² = 17/18."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/6 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-17/18",
+        "1",
+        "17/18",
+        "1/36"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/6)² − 1 = -17/18."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 5/6 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "11/36",
+        "5/6",
+        "7/18",
+        "-7/18"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(5/6)² = -7/18."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 5/6 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-7/18",
+        "25/36",
+        "7/18",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(5/6)² − 1 = 7/18."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1/7",
+        "48/49",
+        "47/49",
+        "-47/49"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/7)² = 47/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1/49",
+        "1",
+        "47/49",
+        "-47/49"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/7)² − 1 = -47/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 2/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "45/49",
+        "-41/49",
+        "2/7",
+        "41/49"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(2/7)² = 41/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 2/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "4/49",
+        "-41/49",
+        "1",
+        "41/49"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(2/7)² − 1 = -41/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 3/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "31/49",
+        "40/49",
+        "3/7",
+        "-31/49"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(3/7)² = 31/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 3/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "31/49",
+        "9/49",
+        "-31/49"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(3/7)² − 1 = -31/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 4/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "33/49",
+        "-17/49",
+        "17/49",
+        "4/7"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(4/7)² = 17/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 4/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "17/49",
+        "16/49",
+        "1",
+        "-17/49"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(4/7)² − 1 = -17/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 5/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1/49",
+        "5/7",
+        "-1/49",
+        "24/49"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(5/7)² = -1/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 5/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-1/49",
+        "25/49",
+        "1/49",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(5/7)² − 1 = 1/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 6/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "13/49",
+        "23/49",
+        "-23/49",
+        "6/7"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(6/7)² = -23/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 6/7 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-23/49",
+        "36/49",
+        "23/49",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(6/7)² − 1 = 23/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/8 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "31/32",
+        "-31/32",
+        "63/64",
+        "1/8"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/8)² = 31/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/8 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "31/32",
+        "1/64",
+        "-31/32"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/8)² − 1 = -31/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 3/8 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-23/32",
+        "23/32",
+        "3/8",
+        "55/64"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(3/8)² = 23/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 3/8 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "9/64",
+        "1",
+        "-23/32",
+        "23/32"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(3/8)² − 1 = -23/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 5/8 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "39/64",
+        "5/8",
+        "-7/32",
+        "7/32"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(5/8)² = 7/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 5/8 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "-7/32",
+        "25/64",
+        "7/32"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(5/8)² − 1 = -7/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 7/8 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-17/32",
+        "7/8",
+        "17/32",
+        "15/64"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(7/8)² = -17/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 7/8 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "17/32",
+        "-17/32",
+        "49/64",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(7/8)² − 1 = 17/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-79/81",
+        "1/9",
+        "80/81",
+        "79/81"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/9)² = 79/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "1/81",
+        "-79/81",
+        "79/81"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/9)² − 1 = -79/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 2/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-73/81",
+        "73/81",
+        "77/81",
+        "2/9"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(2/9)² = 73/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 2/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "-73/81",
+        "4/81",
+        "73/81"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(2/9)² − 1 = -73/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 4/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "4/9",
+        "-49/81",
+        "49/81",
+        "65/81"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(4/9)² = 49/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 4/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "16/81",
+        "-49/81",
+        "49/81",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(4/9)² − 1 = -49/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 5/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "5/9",
+        "-31/81",
+        "56/81",
+        "31/81"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(5/9)² = 31/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 5/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "25/81",
+        "-31/81",
+        "1",
+        "31/81"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(5/9)² − 1 = -31/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 7/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "7/9",
+        "32/81",
+        "17/81",
+        "-17/81"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(7/9)² = -17/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 7/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-17/81",
+        "1",
+        "17/81",
+        "49/81"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(7/9)² − 1 = 17/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 8/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "8/9",
+        "47/81",
+        "17/81",
+        "-47/81"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(8/9)² = -47/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 8/9 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "-47/81",
+        "47/81",
+        "64/81"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(8/9)² − 1 = 47/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/10 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1/10",
+        "-49/50",
+        "99/100",
+        "49/50"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/10)² = 49/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/10 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-49/50",
+        "49/50",
+        "1",
+        "1/100"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/10)² − 1 = -49/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 3/10 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-41/50",
+        "3/10",
+        "41/50",
+        "91/100"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(3/10)² = 41/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 3/10 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "41/50",
+        "1",
+        "-41/50",
+        "9/100"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(3/10)² − 1 = -41/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 7/10 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1/50",
+        "51/100",
+        "-1/50",
+        "7/10"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(7/10)² = 1/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 7/10 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-1/50",
+        "1",
+        "1/50",
+        "49/100"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(7/10)² − 1 = -1/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 9/10 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "9/10",
+        "31/50",
+        "-31/50",
+        "19/100"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(9/10)² = -31/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 9/10 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "81/100",
+        "1",
+        "-31/50",
+        "31/50"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(9/10)² − 1 = 31/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "120/121",
+        "-119/121",
+        "119/121",
+        "1/11"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/11)² = 119/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1/121",
+        "119/121",
+        "1",
+        "-119/121"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/11)² − 1 = -119/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 2/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-113/121",
+        "117/121",
+        "113/121",
+        "2/11"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(2/11)² = 113/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 2/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "4/121",
+        "113/121",
+        "-113/121",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(2/11)² − 1 = -113/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 3/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-103/121",
+        "3/11",
+        "112/121",
+        "103/121"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(3/11)² = 103/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 3/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "103/121",
+        "1",
+        "-103/121",
+        "9/121"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(3/11)² − 1 = -103/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 4/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "4/11",
+        "89/121",
+        "-89/121",
+        "105/121"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(4/11)² = 89/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 4/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "89/121",
+        "1",
+        "16/121",
+        "-89/121"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(4/11)² − 1 = -89/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 5/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-71/121",
+        "71/121",
+        "5/11",
+        "96/121"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(5/11)² = 71/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 5/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "71/121",
+        "-71/121",
+        "1",
+        "25/121"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(5/11)² − 1 = -71/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 6/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "85/121",
+        "6/11",
+        "-49/121",
+        "49/121"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(6/11)² = 49/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 6/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-49/121",
+        "36/121",
+        "49/121",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(6/11)² − 1 = -49/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 7/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "72/121",
+        "-23/121",
+        "23/121",
+        "7/11"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(7/11)² = 23/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 7/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-23/121",
+        "23/121",
+        "1",
+        "49/121"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(7/11)² − 1 = -23/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 8/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "57/121",
+        "7/121",
+        "-7/121",
+        "8/11"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(8/11)² = -7/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 8/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-7/121",
+        "7/121",
+        "1",
+        "64/121"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(8/11)² − 1 = 7/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 9/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "40/121",
+        "41/121",
+        "9/11",
+        "-41/121"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(9/11)² = -41/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 9/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "81/121",
+        "-41/121",
+        "41/121",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(9/11)² − 1 = 41/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 10/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-79/121",
+        "21/121",
+        "79/121",
+        "10/11"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(10/11)² = -79/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 10/11 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-79/121",
+        "1",
+        "79/121",
+        "100/121"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(10/11)² − 1 = 79/121."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/12 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "143/144",
+        "-71/72",
+        "1/12",
+        "71/72"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/12)² = 71/72."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/12 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1/144",
+        "71/72",
+        "-71/72",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/12)² − 1 = -71/72."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 5/12 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-47/72",
+        "5/12",
+        "47/72",
+        "119/144"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(5/12)² = 47/72."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 5/12 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "47/72",
+        "25/144",
+        "-47/72"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(5/12)² − 1 = -47/72."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 7/12 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "7/12",
+        "-23/72",
+        "23/72",
+        "95/144"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(7/12)² = 23/72."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 7/12 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "49/144",
+        "-23/72",
+        "23/72"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(7/12)² − 1 = -23/72."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 11/12 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "49/72",
+        "11/12",
+        "-49/72",
+        "23/144"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(11/12)² = -49/72."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 11/12 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "49/72",
+        "-49/72",
+        "121/144"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(11/12)² − 1 = 49/72."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 1/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "167/169",
+        "-167/169",
+        "1/13",
+        "168/169"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(1/13)² = 167/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 1/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "167/169",
+        "1",
+        "-167/169",
+        "1/169"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(1/13)² − 1 = -167/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 2/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "2/13",
+        "161/169",
+        "-161/169",
+        "165/169"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(2/13)² = 161/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 2/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "161/169",
+        "-161/169",
+        "4/169"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(2/13)² − 1 = -161/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 3/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "3/13",
+        "160/169",
+        "151/169",
+        "-151/169"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(3/13)² = 151/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 3/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-151/169",
+        "1",
+        "151/169",
+        "9/169"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(3/13)² − 1 = -151/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 4/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "4/13",
+        "137/169",
+        "153/169",
+        "-137/169"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(4/13)² = 137/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 4/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "-137/169",
+        "137/169",
+        "16/169"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(4/13)² − 1 = -137/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 5/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "144/169",
+        "119/169",
+        "-119/169",
+        "5/13"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(5/13)² = 119/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 5/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "25/169",
+        "-119/169",
+        "119/169",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(5/13)² − 1 = -119/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 6/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "-97/169",
+        "133/169",
+        "6/13",
+        "97/169"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(6/13)² = 97/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 6/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "97/169",
+        "36/169",
+        "-97/169"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(6/13)² − 1 = -97/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 7/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "7/13",
+        "120/169",
+        "71/169",
+        "-71/169"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(7/13)² = 71/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 7/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "71/169",
+        "49/169",
+        "1",
+        "-71/169"
+      ],
+      "answer": 3,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(7/13)² − 1 = -71/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 8/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "105/169",
+        "41/169",
+        "-41/169",
+        "8/13"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(8/13)² = 41/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 8/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "-41/169",
+        "64/169",
+        "41/169"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(8/13)² − 1 = -41/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 9/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "88/169",
+        "-7/169",
+        "7/169",
+        "9/13"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(9/13)² = 7/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 9/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "-7/169",
+        "7/169",
+        "81/169"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(9/13)² − 1 = -7/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 10/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "69/169",
+        "-31/169",
+        "31/169",
+        "10/13"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(10/13)² = -31/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 10/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "31/169",
+        "100/169",
+        "-31/169",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(10/13)² − 1 = 31/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 11/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "11/13",
+        "-73/169",
+        "48/169",
+        "73/169"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(11/13)² = -73/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 11/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "121/169",
+        "1",
+        "73/169",
+        "-73/169"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(11/13)² − 1 = 73/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α = 12/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "25/169",
+        "-119/169",
+        "119/169",
+        "12/13"
+      ],
+      "answer": 1,
+      "explain": "cos 2α = 1 − 2sin²α = 1 − 2·(12/13)² = -119/169."
+    },
+    {
+      "type": "choice",
+      "q": "Agar cos α = 12/13 bo'lsa, cos 2α qiymatini toping.",
+      "options": [
+        "1",
+        "-119/169",
+        "119/169",
+        "144/169"
+      ],
+      "answer": 2,
+      "explain": "cos 2α = 2cos²α − 1 = 2·(12/13)² − 1 = 119/169."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α burchak uchun sin α = 3/5 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "6/5",
+        "24/25",
+        "12/25",
+        "4/5"
+      ],
+      "answer": 1,
+      "explain": "cos α = 4/5 ⇒ sin 2α = 2·(3/5)·(4/5) = 24/25."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α burchak uchun sin α = 4/5 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "8/5",
+        "24/25",
+        "12/25",
+        "3/5"
+      ],
+      "answer": 1,
+      "explain": "cos α = 3/5 ⇒ sin 2α = 2·(4/5)·(3/5) = 24/25."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α burchak uchun sin α = 5/13 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "10/13",
+        "120/169",
+        "12/13",
+        "60/169"
+      ],
+      "answer": 1,
+      "explain": "cos α = 12/13 ⇒ sin 2α = 2·(5/13)·(12/13) = 120/169."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α burchak uchun sin α = 12/13 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "24/13",
+        "60/169",
+        "5/13",
+        "120/169"
+      ],
+      "answer": 3,
+      "explain": "cos α = 5/13 ⇒ sin 2α = 2·(12/13)·(5/13) = 120/169."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α burchak uchun sin α = 8/17 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "120/289",
+        "15/17",
+        "240/289",
+        "16/17"
+      ],
+      "answer": 2,
+      "explain": "cos α = 15/17 ⇒ sin 2α = 2·(8/17)·(15/17) = 240/289."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α burchak uchun sin α = 15/17 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "30/17",
+        "8/17",
+        "120/289",
+        "240/289"
+      ],
+      "answer": 3,
+      "explain": "cos α = 8/17 ⇒ sin 2α = 2·(15/17)·(8/17) = 240/289."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α burchak uchun sin α = 7/25 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "14/25",
+        "168/625",
+        "24/25",
+        "336/625"
+      ],
+      "answer": 3,
+      "explain": "cos α = 24/25 ⇒ sin 2α = 2·(7/25)·(24/25) = 336/625."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α burchak uchun sin α = 24/25 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "48/25",
+        "336/625",
+        "7/25",
+        "168/625"
+      ],
+      "answer": 1,
+      "explain": "cos α = 7/25 ⇒ sin 2α = 2·(24/25)·(7/25) = 336/625."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α burchak uchun sin α = 9/41 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "360/1681",
+        "40/41",
+        "720/1681",
+        "18/41"
+      ],
+      "answer": 2,
+      "explain": "cos α = 40/41 ⇒ sin 2α = 2·(9/41)·(40/41) = 720/1681."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α burchak uchun sin α = 40/41 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "9/41",
+        "360/1681",
+        "80/41",
+        "720/1681"
+      ],
+      "answer": 3,
+      "explain": "cos α = 9/41 ⇒ sin 2α = 2·(40/41)·(9/41) = 720/1681."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/2 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "2/3",
+        "4/5",
+        "1",
+        "4/3"
+      ],
+      "answer": 3,
+      "explain": "tg 2α = (2/2) / (1 − 1/4) = 4/3."
+    },
+    {
+      "type": "fill",
+      "q": "8 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "2",
+      "explain": "8 · ½ sin 30° = 4 · ½ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/3 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "3/8",
+        "2/3",
+        "3/4",
+        "3/5"
+      ],
+      "answer": 2,
+      "explain": "tg 2α = (2/3) / (1 − 1/9) = 3/4."
+    },
+    {
+      "type": "fill",
+      "q": "12 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "3",
+      "explain": "12 · ½ sin 30° = 6 · ½ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/4 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "8/15",
+        "8/17",
+        "4/15",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "tg 2α = (2/4) / (1 − 1/16) = 8/15."
+    },
+    {
+      "type": "fill",
+      "q": "16 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "4",
+      "explain": "16 · ½ sin 30° = 8 · ½ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/5 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "5/13",
+        "2/5",
+        "5/12",
+        "5/24"
+      ],
+      "answer": 2,
+      "explain": "tg 2α = (2/5) / (1 − 1/25) = 5/12."
+    },
+    {
+      "type": "fill",
+      "q": "20 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "5",
+      "explain": "20 · ½ sin 30° = 10 · ½ = 5."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/6 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "12/35",
+        "12/37",
+        "6/35",
+        "1/3"
+      ],
+      "answer": 0,
+      "explain": "tg 2α = (2/6) / (1 − 1/36) = 12/35."
+    },
+    {
+      "type": "fill",
+      "q": "24 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "6",
+      "explain": "24 · ½ sin 30° = 12 · ½ = 6."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/7 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "2/7",
+        "7/24",
+        "7/25",
+        "7/48"
+      ],
+      "answer": 1,
+      "explain": "tg 2α = (2/7) / (1 − 1/49) = 7/24."
+    },
+    {
+      "type": "fill",
+      "q": "28 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "7",
+      "explain": "28 · ½ sin 30° = 14 · ½ = 7."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/8 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "1/4",
+        "16/63",
+        "16/65",
+        "8/63"
+      ],
+      "answer": 1,
+      "explain": "tg 2α = (2/8) / (1 − 1/64) = 16/63."
+    },
+    {
+      "type": "fill",
+      "q": "32 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "8",
+      "explain": "32 · ½ sin 30° = 16 · ½ = 8."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/9 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "9/80",
+        "9/41",
+        "9/40",
+        "2/9"
+      ],
+      "answer": 2,
+      "explain": "tg 2α = (2/9) / (1 − 1/81) = 9/40."
+    },
+    {
+      "type": "fill",
+      "q": "36 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "9",
+      "explain": "36 · ½ sin 30° = 18 · ½ = 9."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/10 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "1/5",
+        "20/101",
+        "20/99",
+        "10/99"
+      ],
+      "answer": 2,
+      "explain": "tg 2α = (2/10) / (1 − 1/100) = 20/99."
+    },
+    {
+      "type": "fill",
+      "q": "40 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "10",
+      "explain": "40 · ½ sin 30° = 20 · ½ = 10."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/11 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "2/11",
+        "11/120",
+        "11/61",
+        "11/60"
+      ],
+      "answer": 3,
+      "explain": "tg 2α = (2/11) / (1 − 1/121) = 11/60."
+    },
+    {
+      "type": "fill",
+      "q": "44 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "11",
+      "explain": "44 · ½ sin 30° = 22 · ½ = 11."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/12 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "24/143",
+        "12/143",
+        "1/6",
+        "24/145"
+      ],
+      "answer": 0,
+      "explain": "tg 2α = (2/12) / (1 − 1/144) = 24/143."
+    },
+    {
+      "type": "fill",
+      "q": "48 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "12",
+      "explain": "48 · ½ sin 30° = 24 · ½ = 12."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/13 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "13/85",
+        "13/84",
+        "13/168",
+        "2/13"
+      ],
+      "answer": 1,
+      "explain": "tg 2α = (2/13) / (1 − 1/169) = 13/84."
+    },
+    {
+      "type": "fill",
+      "q": "52 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "13",
+      "explain": "52 · ½ sin 30° = 26 · ½ = 13."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/14 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "14/195",
+        "28/197",
+        "28/195",
+        "1/7"
+      ],
+      "answer": 2,
+      "explain": "tg 2α = (2/14) / (1 − 1/196) = 28/195."
+    },
+    {
+      "type": "fill",
+      "q": "56 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "14",
+      "explain": "56 · ½ sin 30° = 28 · ½ = 14."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/15 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "2/15",
+        "15/224",
+        "15/113",
+        "15/112"
+      ],
+      "answer": 3,
+      "explain": "tg 2α = (2/15) / (1 − 1/225) = 15/112."
+    },
+    {
+      "type": "fill",
+      "q": "60 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "15",
+      "explain": "60 · ½ sin 30° = 30 · ½ = 15."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/16 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "32/255",
+        "16/255",
+        "1/8",
+        "32/257"
+      ],
+      "answer": 0,
+      "explain": "tg 2α = (2/16) / (1 − 1/256) = 32/255."
+    },
+    {
+      "type": "fill",
+      "q": "64 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "16",
+      "explain": "64 · ½ sin 30° = 32 · ½ = 16."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/17 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "17/288",
+        "2/17",
+        "17/144",
+        "17/145"
+      ],
+      "answer": 2,
+      "explain": "tg 2α = (2/17) / (1 − 1/289) = 17/144."
+    },
+    {
+      "type": "fill",
+      "q": "68 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "17",
+      "explain": "68 · ½ sin 30° = 34 · ½ = 17."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/18 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "36/325",
+        "18/323",
+        "36/323",
+        "1/9"
+      ],
+      "answer": 2,
+      "explain": "tg 2α = (2/18) / (1 − 1/324) = 36/323."
+    },
+    {
+      "type": "fill",
+      "q": "72 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "18",
+      "explain": "72 · ½ sin 30° = 36 · ½ = 18."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/19 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "19/180",
+        "19/181",
+        "2/19",
+        "19/360"
+      ],
+      "answer": 0,
+      "explain": "tg 2α = (2/19) / (1 − 1/361) = 19/180."
+    },
+    {
+      "type": "fill",
+      "q": "76 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "19",
+      "explain": "76 · ½ sin 30° = 38 · ½ = 19."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/20 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "40/401",
+        "20/399",
+        "1/10",
+        "40/399"
+      ],
+      "answer": 3,
+      "explain": "tg 2α = (2/20) / (1 − 1/400) = 40/399."
+    },
+    {
+      "type": "fill",
+      "q": "80 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "20",
+      "explain": "80 · ½ sin 30° = 40 · ½ = 20."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/21 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "21/440",
+        "21/221",
+        "21/220",
+        "2/21"
+      ],
+      "answer": 2,
+      "explain": "tg 2α = (2/21) / (1 − 1/441) = 21/220."
+    },
+    {
+      "type": "fill",
+      "q": "84 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "21",
+      "explain": "84 · ½ sin 30° = 42 · ½ = 21."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/22 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "44/483",
+        "1/11",
+        "22/483",
+        "44/485"
+      ],
+      "answer": 0,
+      "explain": "tg 2α = (2/22) / (1 − 1/484) = 44/483."
+    },
+    {
+      "type": "fill",
+      "q": "88 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "22",
+      "explain": "88 · ½ sin 30° = 44 · ½ = 22."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/23 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "2/23",
+        "23/264",
+        "23/528",
+        "23/265"
+      ],
+      "answer": 1,
+      "explain": "tg 2α = (2/23) / (1 − 1/529) = 23/264."
+    },
+    {
+      "type": "fill",
+      "q": "92 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "23",
+      "explain": "92 · ½ sin 30° = 46 · ½ = 23."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/24 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "48/577",
+        "24/575",
+        "1/12",
+        "48/575"
+      ],
+      "answer": 3,
+      "explain": "tg 2α = (2/24) / (1 − 1/576) = 48/575."
+    },
+    {
+      "type": "fill",
+      "q": "96 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "24",
+      "explain": "96 · ½ sin 30° = 48 · ½ = 24."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 1/25 bo'lganda tg 2α nimaga teng?",
+      "options": [
+        "25/312",
+        "25/313",
+        "2/25",
+        "25/624"
+      ],
+      "answer": 0,
+      "explain": "tg 2α = (2/25) / (1 − 1/625) = 25/312."
+    },
+    {
+      "type": "fill",
+      "q": "100 · sin 15° · cos 15° ifodaning qiymatini hisoblang.",
+      "answer": "25",
+      "explain": "100 · ½ sin 30° = 50 · ½ = 25."
+    },
+    {
+      "type": "truefalse",
+      "q": "2 sin²α + 1 cos 2α = 1 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "4 sin²α + 2 cos 2α = 2 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "6 sin²α + 3 cos 2α = 3 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "8 sin²α + 4 cos 2α = 4 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "10 sin²α + 5 cos 2α = 5 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "12 sin²α + 6 cos 2α = 6 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "14 sin²α + 7 cos 2α = 7 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "16 sin²α + 8 cos 2α = 8 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "18 sin²α + 9 cos 2α = 9 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "20 sin²α + 10 cos 2α = 10 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "22 sin²α + 11 cos 2α = 11 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "24 sin²α + 12 cos 2α = 12 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "26 sin²α + 13 cos 2α = 13 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "28 sin²α + 14 cos 2α = 14 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "30 sin²α + 15 cos 2α = 15 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "32 sin²α + 16 cos 2α = 16 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "34 sin²α + 17 cos 2α = 17 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "36 sin²α + 18 cos 2α = 18 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "38 sin²α + 19 cos 2α = 19 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "40 sin²α + 20 cos 2α = 20 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "42 sin²α + 21 cos 2α = 21 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "44 sin²α + 22 cos 2α = 22 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "46 sin²α + 23 cos 2α = 23 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "48 sin²α + 24 cos 2α = 24 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "50 sin²α + 25 cos 2α = 25 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "52 sin²α + 26 cos 2α = 26 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "54 sin²α + 27 cos 2α = 27 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "56 sin²α + 28 cos 2α = 28 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "58 sin²α + 29 cos 2α = 29 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "60 sin²α + 30 cos 2α = 30 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "62 sin²α + 31 cos 2α = 31 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "64 sin²α + 32 cos 2α = 32 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "66 sin²α + 33 cos 2α = 33 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "68 sin²α + 34 cos 2α = 34 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "70 sin²α + 35 cos 2α = 35 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "72 sin²α + 36 cos 2α = 36 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "74 sin²α + 37 cos 2α = 37 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "76 sin²α + 38 cos 2α = 38 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "78 sin²α + 39 cos 2α = 39 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "truefalse",
+      "q": "80 sin²α + 40 cos 2α = 40 tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "2m sin²α + m(1 − 2sin²α) = m."
+    },
+    {
+      "type": "choice",
+      "q": "2cos²(15°) − 1 ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "1",
+        "√3/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "2cos²α − 1 = cos 2α ⇒ cos(2·15°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "1 − 2sin²(π/12) ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "√3/2"
+      ],
+      "answer": 3,
+      "explain": "1 − 2sin²α = cos 2α ⇒ cos(2·π/12) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "2cos²(22,5°) − 1 ifodaning qiymatini hisoblang.",
+      "options": [
+        "−1",
+        "0",
+        "√2/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "2cos²α − 1 = cos 2α ⇒ cos(2·22,5°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "1 − 2sin²(π/8) ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "√2/2"
+      ],
+      "answer": 3,
+      "explain": "1 − 2sin²α = cos 2α ⇒ cos(2·π/8) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "2cos²(30°) − 1 ifodaning qiymatini hisoblang.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "2cos²α − 1 = cos 2α ⇒ cos(2·30°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "1 − 2sin²(π/6) ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−1",
+        "1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1 − 2sin²α = cos 2α ⇒ cos(2·π/6) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "2cos²(45°) − 1 ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "−1",
+        "1/2",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "2cos²α − 1 = cos 2α ⇒ cos(2·45°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "1 − 2sin²(π/4) ifoda nimaga teng?",
+      "options": [
+        "1/2",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1 − 2sin²α = cos 2α ⇒ cos(2·π/4) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "2cos²(60°) − 1 ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "−1",
+        "−1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "2cos²α − 1 = cos 2α ⇒ cos(2·60°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "1 − 2sin²(π/3) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−1/2"
+      ],
+      "answer": 3,
+      "explain": "1 − 2sin²α = cos 2α ⇒ cos(2·π/3) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "2cos²(75°) − 1 ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "−√3/2"
+      ],
+      "answer": 3,
+      "explain": "2cos²α − 1 = cos 2α ⇒ cos(2·75°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "1 − 2sin²(5π/12) ifoda nimaga teng?",
+      "options": [
+        "−√3/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "1 − 2sin²α = cos 2α ⇒ cos(2·5π/12) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/2 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "0",
+        "-3/4",
+        "1/2",
+        "3/4"
+      ],
+      "answer": 1,
+      "explain": "1 + sin 2α = (1/2)² ⇒ sin 2α = -3/4."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/2 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "3/4",
+        "-3/4",
+        "1/2",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1 − sin 2α = (1/2)² ⇒ sin 2α = 3/4."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/3 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-8/9",
+        "8/9",
+        "1/3",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "1 + sin 2α = (1/3)² ⇒ sin 2α = -8/9."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/3 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-8/9",
+        "1/3",
+        "1",
+        "8/9"
+      ],
+      "answer": 3,
+      "explain": "1 − sin 2α = (1/3)² ⇒ sin 2α = 8/9."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 2/3 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "5/9",
+        "2/3",
+        "0",
+        "-5/9"
+      ],
+      "answer": 3,
+      "explain": "1 + sin 2α = (2/3)² ⇒ sin 2α = -5/9."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 2/3 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-5/9",
+        "1",
+        "5/9",
+        "2/3"
+      ],
+      "answer": 2,
+      "explain": "1 − sin 2α = (2/3)² ⇒ sin 2α = 5/9."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/4 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "1/4",
+        "-15/16",
+        "15/16",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "1 + sin 2α = (1/4)² ⇒ sin 2α = -15/16."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/4 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-15/16",
+        "1/4",
+        "1",
+        "15/16"
+      ],
+      "answer": 3,
+      "explain": "1 − sin 2α = (1/4)² ⇒ sin 2α = 15/16."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 3/4 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "3/4",
+        "0",
+        "-7/16",
+        "7/16"
+      ],
+      "answer": 2,
+      "explain": "1 + sin 2α = (3/4)² ⇒ sin 2α = -7/16."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 3/4 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-7/16",
+        "7/16",
+        "1",
+        "3/4"
+      ],
+      "answer": 1,
+      "explain": "1 − sin 2α = (3/4)² ⇒ sin 2α = 7/16."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/5 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "0",
+        "-24/25",
+        "24/25",
+        "1/5"
+      ],
+      "answer": 1,
+      "explain": "1 + sin 2α = (1/5)² ⇒ sin 2α = -24/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/5 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-24/25",
+        "1",
+        "1/5",
+        "24/25"
+      ],
+      "answer": 3,
+      "explain": "1 − sin 2α = (1/5)² ⇒ sin 2α = 24/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 2/5 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "2/5",
+        "0",
+        "-21/25",
+        "21/25"
+      ],
+      "answer": 2,
+      "explain": "1 + sin 2α = (2/5)² ⇒ sin 2α = -21/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 2/5 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-21/25",
+        "1",
+        "2/5",
+        "21/25"
+      ],
+      "answer": 3,
+      "explain": "1 − sin 2α = (2/5)² ⇒ sin 2α = 21/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 3/5 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-16/25",
+        "16/25",
+        "0",
+        "3/5"
+      ],
+      "answer": 0,
+      "explain": "1 + sin 2α = (3/5)² ⇒ sin 2α = -16/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 3/5 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "16/25",
+        "3/5",
+        "-16/25",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1 − sin 2α = (3/5)² ⇒ sin 2α = 16/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 4/5 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "9/25",
+        "0",
+        "-9/25",
+        "4/5"
+      ],
+      "answer": 2,
+      "explain": "1 + sin 2α = (4/5)² ⇒ sin 2α = -9/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 4/5 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "4/5",
+        "9/25",
+        "1",
+        "-9/25"
+      ],
+      "answer": 1,
+      "explain": "1 − sin 2α = (4/5)² ⇒ sin 2α = 9/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/6 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-35/36",
+        "0",
+        "35/36",
+        "1/6"
+      ],
+      "answer": 0,
+      "explain": "1 + sin 2α = (1/6)² ⇒ sin 2α = -35/36."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/6 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "1",
+        "-35/36",
+        "1/6",
+        "35/36"
+      ],
+      "answer": 3,
+      "explain": "1 − sin 2α = (1/6)² ⇒ sin 2α = 35/36."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 5/6 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "5/6",
+        "0",
+        "11/36",
+        "-11/36"
+      ],
+      "answer": 3,
+      "explain": "1 + sin 2α = (5/6)² ⇒ sin 2α = -11/36."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 5/6 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "5/6",
+        "11/36",
+        "-11/36",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1 − sin 2α = (5/6)² ⇒ sin 2α = 11/36."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "48/49",
+        "-48/49",
+        "0",
+        "1/7"
+      ],
+      "answer": 1,
+      "explain": "1 + sin 2α = (1/7)² ⇒ sin 2α = -48/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "1",
+        "1/7",
+        "48/49",
+        "-48/49"
+      ],
+      "answer": 2,
+      "explain": "1 − sin 2α = (1/7)² ⇒ sin 2α = 48/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 2/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "0",
+        "45/49",
+        "2/7",
+        "-45/49"
+      ],
+      "answer": 3,
+      "explain": "1 + sin 2α = (2/7)² ⇒ sin 2α = -45/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 2/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "2/7",
+        "1",
+        "45/49",
+        "-45/49"
+      ],
+      "answer": 2,
+      "explain": "1 − sin 2α = (2/7)² ⇒ sin 2α = 45/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 3/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "40/49",
+        "-40/49",
+        "3/7",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "1 + sin 2α = (3/7)² ⇒ sin 2α = -40/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 3/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "3/7",
+        "40/49",
+        "-40/49",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1 − sin 2α = (3/7)² ⇒ sin 2α = 40/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 4/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "33/49",
+        "4/7",
+        "0",
+        "-33/49"
+      ],
+      "answer": 3,
+      "explain": "1 + sin 2α = (4/7)² ⇒ sin 2α = -33/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 4/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-33/49",
+        "33/49",
+        "4/7",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1 − sin 2α = (4/7)² ⇒ sin 2α = 33/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 5/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-24/49",
+        "5/7",
+        "0",
+        "24/49"
+      ],
+      "answer": 0,
+      "explain": "1 + sin 2α = (5/7)² ⇒ sin 2α = -24/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 5/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "5/7",
+        "24/49",
+        "-24/49",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1 − sin 2α = (5/7)² ⇒ sin 2α = 24/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 6/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "13/49",
+        "-13/49",
+        "0",
+        "6/7"
+      ],
+      "answer": 1,
+      "explain": "1 + sin 2α = (6/7)² ⇒ sin 2α = -13/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 6/7 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "13/49",
+        "1",
+        "-13/49",
+        "6/7"
+      ],
+      "answer": 0,
+      "explain": "1 − sin 2α = (6/7)² ⇒ sin 2α = 13/49."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/8 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "1/8",
+        "0",
+        "-63/64",
+        "63/64"
+      ],
+      "answer": 2,
+      "explain": "1 + sin 2α = (1/8)² ⇒ sin 2α = -63/64."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/8 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "1",
+        "1/8",
+        "-63/64",
+        "63/64"
+      ],
+      "answer": 3,
+      "explain": "1 − sin 2α = (1/8)² ⇒ sin 2α = 63/64."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 3/8 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-55/64",
+        "3/8",
+        "0",
+        "55/64"
+      ],
+      "answer": 0,
+      "explain": "1 + sin 2α = (3/8)² ⇒ sin 2α = -55/64."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 3/8 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "3/8",
+        "55/64",
+        "-55/64",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1 − sin 2α = (3/8)² ⇒ sin 2α = 55/64."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 5/8 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "5/8",
+        "-39/64",
+        "0",
+        "39/64"
+      ],
+      "answer": 1,
+      "explain": "1 + sin 2α = (5/8)² ⇒ sin 2α = -39/64."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 5/8 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "39/64",
+        "5/8",
+        "1",
+        "-39/64"
+      ],
+      "answer": 0,
+      "explain": "1 − sin 2α = (5/8)² ⇒ sin 2α = 39/64."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 7/8 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "7/8",
+        "15/64",
+        "0",
+        "-15/64"
+      ],
+      "answer": 3,
+      "explain": "1 + sin 2α = (7/8)² ⇒ sin 2α = -15/64."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 7/8 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "15/64",
+        "-15/64",
+        "1",
+        "7/8"
+      ],
+      "answer": 0,
+      "explain": "1 − sin 2α = (7/8)² ⇒ sin 2α = 15/64."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-80/81",
+        "1/9",
+        "0",
+        "80/81"
+      ],
+      "answer": 0,
+      "explain": "1 + sin 2α = (1/9)² ⇒ sin 2α = -80/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "1",
+        "80/81",
+        "-80/81",
+        "1/9"
+      ],
+      "answer": 1,
+      "explain": "1 − sin 2α = (1/9)² ⇒ sin 2α = 80/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 2/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-77/81",
+        "77/81",
+        "2/9",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "1 + sin 2α = (2/9)² ⇒ sin 2α = -77/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 2/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "1",
+        "2/9",
+        "77/81",
+        "-77/81"
+      ],
+      "answer": 2,
+      "explain": "1 − sin 2α = (2/9)² ⇒ sin 2α = 77/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 4/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-65/81",
+        "65/81",
+        "4/9",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "1 + sin 2α = (4/9)² ⇒ sin 2α = -65/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 4/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-65/81",
+        "4/9",
+        "65/81",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1 − sin 2α = (4/9)² ⇒ sin 2α = 65/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 5/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "56/81",
+        "5/9",
+        "-56/81",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "1 + sin 2α = (5/9)² ⇒ sin 2α = -56/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 5/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-56/81",
+        "56/81",
+        "5/9",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1 − sin 2α = (5/9)² ⇒ sin 2α = 56/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 7/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "32/81",
+        "-32/81",
+        "7/9",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "1 + sin 2α = (7/9)² ⇒ sin 2α = -32/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 7/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "32/81",
+        "-32/81",
+        "7/9",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1 − sin 2α = (7/9)² ⇒ sin 2α = 32/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 8/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "8/9",
+        "0",
+        "17/81",
+        "-17/81"
+      ],
+      "answer": 3,
+      "explain": "1 + sin 2α = (8/9)² ⇒ sin 2α = -17/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 8/9 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-17/81",
+        "17/81",
+        "1",
+        "8/9"
+      ],
+      "answer": 1,
+      "explain": "1 − sin 2α = (8/9)² ⇒ sin 2α = 17/81."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/10 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "99/100",
+        "-99/100",
+        "1/10",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "1 + sin 2α = (1/10)² ⇒ sin 2α = -99/100."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/10 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "99/100",
+        "1/10",
+        "1",
+        "-99/100"
+      ],
+      "answer": 0,
+      "explain": "1 − sin 2α = (1/10)² ⇒ sin 2α = 99/100."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 3/10 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-91/100",
+        "91/100",
+        "0",
+        "3/10"
+      ],
+      "answer": 0,
+      "explain": "1 + sin 2α = (3/10)² ⇒ sin 2α = -91/100."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 3/10 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "1",
+        "3/10",
+        "91/100",
+        "-91/100"
+      ],
+      "answer": 2,
+      "explain": "1 − sin 2α = (3/10)² ⇒ sin 2α = 91/100."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 7/10 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "7/10",
+        "-51/100",
+        "0",
+        "51/100"
+      ],
+      "answer": 1,
+      "explain": "1 + sin 2α = (7/10)² ⇒ sin 2α = -51/100."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 7/10 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "51/100",
+        "7/10",
+        "-51/100",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1 − sin 2α = (7/10)² ⇒ sin 2α = 51/100."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 9/10 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "-19/100",
+        "9/10",
+        "0",
+        "19/100"
+      ],
+      "answer": 0,
+      "explain": "1 + sin 2α = (9/10)² ⇒ sin 2α = -19/100."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 9/10 bo'lsa, sin 2α ni toping.",
+      "options": [
+        "1",
+        "-19/100",
+        "9/10",
+        "19/100"
+      ],
+      "answer": 3,
+      "explain": "1 − sin 2α = (9/10)² ⇒ sin 2α = 19/100."
+    },
+    {
+      "type": "fill",
+      "q": "2·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "1",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 1."
+    },
+    {
+      "type": "fill",
+      "q": "3·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "3/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 3/2."
+    },
+    {
+      "type": "fill",
+      "q": "4·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 2."
+    },
+    {
+      "type": "fill",
+      "q": "5·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "5/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 5/2."
+    },
+    {
+      "type": "fill",
+      "q": "6·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "3",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 3."
+    },
+    {
+      "type": "fill",
+      "q": "7·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "7/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 7/2."
+    },
+    {
+      "type": "fill",
+      "q": "8·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "4",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 4."
+    },
+    {
+      "type": "fill",
+      "q": "9·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "9/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 9/2."
+    },
+    {
+      "type": "fill",
+      "q": "10·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "5",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 5."
+    },
+    {
+      "type": "fill",
+      "q": "11·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "11/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 11/2."
+    },
+    {
+      "type": "fill",
+      "q": "12·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "6",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 6."
+    },
+    {
+      "type": "fill",
+      "q": "13·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "13/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 13/2."
+    },
+    {
+      "type": "fill",
+      "q": "14·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "7",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 7."
+    },
+    {
+      "type": "fill",
+      "q": "15·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "15/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 15/2."
+    },
+    {
+      "type": "fill",
+      "q": "16·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "8",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 8."
+    },
+    {
+      "type": "fill",
+      "q": "17·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "17/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 17/2."
+    },
+    {
+      "type": "fill",
+      "q": "18·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "9",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 9."
+    },
+    {
+      "type": "fill",
+      "q": "19·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "19/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 19/2."
+    },
+    {
+      "type": "fill",
+      "q": "20·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "10",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 10."
+    },
+    {
+      "type": "fill",
+      "q": "21·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "21/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 21/2."
+    },
+    {
+      "type": "fill",
+      "q": "22·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "11",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 11."
+    },
+    {
+      "type": "fill",
+      "q": "23·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "23/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 23/2."
+    },
+    {
+      "type": "fill",
+      "q": "24·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "12",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 12."
+    },
+    {
+      "type": "fill",
+      "q": "25·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "25/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 25/2."
+    },
+    {
+      "type": "fill",
+      "q": "26·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "13",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 13."
+    },
+    {
+      "type": "fill",
+      "q": "27·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "27/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 27/2."
+    },
+    {
+      "type": "fill",
+      "q": "28·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "14",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 14."
+    },
+    {
+      "type": "fill",
+      "q": "29·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "29/2",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 29/2."
+    },
+    {
+      "type": "fill",
+      "q": "30·(cos²(π/8) − sin²(π/8))² ifodaning qiymatini kasrda yozing (masalan: 3/2).",
+      "answer": "15",
+      "explain": "cos(π/4) = √2/2; kvadrati 1/2 ⇒ javob 15."
+    }
+  ],
+  "cards": [
+    [
+      "Radian",
+      "Yoy uzunligi radiusga teng markaziy burchak"
+    ],
+    [
+      "Sinus",
+      "Burilgan nuqtaning ordinatasi (y koordinatasi)"
+    ],
+    [
+      "Kosinus",
+      "Burilgan nuqtaning abssissasi (x koordinatasi)"
+    ],
+    [
+      "Tangens",
+      "Sinusning kosinusga nisbati (sin α / cos α)"
+    ],
+    [
+      "Kotangens",
+      "Kosinusning sinusga nisbati (cos α / sin α)"
+    ],
+    [
+      "Ayniyat",
+      "O'zgaruvchining barcha ruxsatli qiymatlarida to'g'ri tenglik"
+    ],
+    [
+      "Birlik",
+      "Radiusi R = 1 bo'lgan markaziy aylana"
+    ],
+    [
+      "Chorak",
+      "Koordinata tekisligining to'rtdan bir qismi"
+    ],
+    [
+      "Davr",
+      "Trigonometrik funksiyalar qiymati takrorlanuvchi burchak"
+    ],
+    [
+      "Keltirish",
+      "Katta burchakni o'tkir burchak orqali ifodalash"
+    ],
+    [
+      "Ikkilangan",
+      "2α burchakli trigonometrik funksiya formulalari"
+    ],
+    [
+      "Pasaytirish",
+      "sin²α va cos²α darajasini pasaytirish"
+    ],
+    [
+      "sin 2α",
+      "2 sin α cos α ga teng"
+    ],
+    [
+      "cos 2α (1)",
+      "cos²α − sin²α ga teng"
+    ],
+    [
+      "cos 2α (2)",
+      "2cos²α − 1 ga teng"
+    ],
+    [
+      "cos 2α (3)",
+      "1 − 2sin²α ga teng"
+    ],
+    [
+      "tg 2α",
+      "2 tg α / (1 − tg²α)"
+    ],
+    [
+      "1 − cos 2α",
+      "2 sin²α ga teng"
+    ],
+    [
+      "1 + cos 2α",
+      "2 cos²α ga teng"
+    ],
+    [
+      "2sin 15° cos 15°",
+      "sin 30° = 1/2 ga teng"
+    ],
+    [
+      "cos²15° − sin²15°",
+      "cos 30° = √3 / 2 ga teng"
+    ],
+    [
+      "sin α cos α",
+      "½ · sin 2α ga teng"
+    ],
+    [
+      "cos²α − sin²α",
+      "cos 2α formulasi"
+    ],
+    [
+      "cos α − cos²(α/2)",
+      "Yarim burchakka o'tishda ishlatiladi"
+    ]
+  ]
+}

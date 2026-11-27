@@ -1,0 +1,3136 @@
+{
+  "id": "g9-uz-algebra-12-daraja-tengsizlik-tenglama",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "12-§. Daraja qatnashgan tengsizlik va tenglamalar",
+  "title": "12-§. Daraja qatnashgan tengsizlik va tenglamalar (I bob yakuni)",
+  "source": "Algebra 9-sinf (2019), I bob, 12-§, 51–67-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "ax⁴ + bx² + c = 0 (a ≠ 0) bikvadrat tenglamani yechish uchun qanday belgilash kiritiladi?",
+      "options": [
+        "x⁴ = t",
+        "x² = −t",
+        "x = t²",
+        "x² = t (t ≥ 0)"
+      ],
+      "answer": 3,
+      "explain": "x² = t belgilash bikvadrat tenglamani at² + bt + c = 0 kvadrat tenglamaga keltiradi."
+    },
+    {
+      "type": "choice",
+      "q": "I bob tarixiy ma'lumotida Abu Rayhon Beruniy doira yuzi uchun qaysi taqribiy formulani ishlatgani keltiriladi?",
+      "options": [
+        "S = 3r²",
+        "S = 4r²",
+        "S = 5r²",
+        "S = 2r²"
+      ],
+      "answer": 0,
+      "explain": "Darslikda Beruniy qadimiy taqribiy S = 3r² (π ≈ 3) va aniq hisoblashlarni solishtirgani bayon etilgan."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁵ = −32 tenglamaning haqiqiy ildizi x = −2 ga teng.",
+      "answer": true,
+      "explain": "(−2)⁵ = −32."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ = −16 tenglama ikkita haqiqiy ildizga ega.",
+      "answer": false,
+      "explain": "Juft daraja x⁴ ≥ 0, shuning uchun manfiy songa teng bo'la olmaydi."
+    },
+    {
+      "type": "fill",
+      "q": "x⁴ − 5x² + 4 = 0 bikvadrat tenglamaning nechta haqiqiy ildizi bor?",
+      "answer": "4",
+      "explain": "x² = 1 va x² = 4 dan x = ±1, ±2 — jami 4 ta ildiz."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 5x² + 4 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 5t + 4 = 0 ildizlari manfiy (−1, −4), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 10x² + 9 = 0 bikvadrat tenglamaning eng katta ildizini toping.",
+      "options": [
+        "9",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "t₁ = 1, t₂ = 9 ⇒ eng katta ildiz √9 = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 10x² + 9 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 10t + 9 = 0 ildizlari manfiy (−1, −9), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 17x² + 16 = 0 bikvadrat tenglamaning barcha haqiqiy ildizlarini ko'rsating.",
+      "options": [
+        "±1; 4",
+        "1; 4",
+        "±1; ±4",
+        "±1; ±16"
+      ],
+      "answer": 2,
+      "explain": "x² = 1 ⇒ ±1, x² = 16 ⇒ ±4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 17x² + 16 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 17t + 16 = 0 ildizlari manfiy (−1, −16), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "fill",
+      "q": "x⁴ − 26x² + 25 = 0 bikvadrat tenglamaning nechta haqiqiy ildizi bor?",
+      "answer": "4",
+      "explain": "x² = 1 va x² = 25 dan x = ±1, ±5 — jami 4 ta ildiz."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 26x² + 25 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 26t + 25 = 0 ildizlari manfiy (−1, −25), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 37x² + 36 = 0 bikvadrat tenglamaning eng katta ildizini toping.",
+      "options": [
+        "1",
+        "7",
+        "36",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "t₁ = 1, t₂ = 36 ⇒ eng katta ildiz √36 = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 37x² + 36 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 37t + 36 = 0 ildizlari manfiy (−1, −36), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 50x² + 49 = 0 bikvadrat tenglamaning barcha haqiqiy ildizlarini ko'rsating.",
+      "options": [
+        "1; 7",
+        "±1; 7",
+        "±1; ±49",
+        "±1; ±7"
+      ],
+      "answer": 3,
+      "explain": "x² = 1 ⇒ ±1, x² = 49 ⇒ ±7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 50x² + 49 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 50t + 49 = 0 ildizlari manfiy (−1, −49), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "fill",
+      "q": "x⁴ − 65x² + 64 = 0 bikvadrat tenglamaning nechta haqiqiy ildizi bor?",
+      "answer": "4",
+      "explain": "x² = 1 va x² = 64 dan x = ±1, ±8 — jami 4 ta ildiz."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 65x² + 64 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 65t + 64 = 0 ildizlari manfiy (−1, −64), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 13x² + 36 = 0 bikvadrat tenglamaning barcha haqiqiy ildizlarini ko'rsating.",
+      "options": [
+        "±4; ±9",
+        "2; 3",
+        "±2; 3",
+        "±2; ±3"
+      ],
+      "answer": 3,
+      "explain": "x² = 4 ⇒ ±2, x² = 9 ⇒ ±3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 13x² + 36 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 13t + 36 = 0 ildizlari manfiy (−4, −9), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "fill",
+      "q": "x⁴ − 20x² + 64 = 0 bikvadrat tenglamaning nechta haqiqiy ildizi bor?",
+      "answer": "4",
+      "explain": "x² = 4 va x² = 16 dan x = ±2, ±4 — jami 4 ta ildiz."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 20x² + 64 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 20t + 64 = 0 ildizlari manfiy (−4, −16), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 29x² + 100 = 0 bikvadrat tenglamaning eng katta ildizini toping.",
+      "options": [
+        "2",
+        "6",
+        "5",
+        "25"
+      ],
+      "answer": 2,
+      "explain": "t₁ = 4, t₂ = 25 ⇒ eng katta ildiz √25 = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 29x² + 100 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 29t + 100 = 0 ildizlari manfiy (−4, −25), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 40x² + 144 = 0 bikvadrat tenglamaning barcha haqiqiy ildizlarini ko'rsating.",
+      "options": [
+        "±2; ±6",
+        "±2; 6",
+        "2; 6",
+        "±4; ±36"
+      ],
+      "answer": 0,
+      "explain": "x² = 4 ⇒ ±2, x² = 36 ⇒ ±6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 40x² + 144 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 40t + 144 = 0 ildizlari manfiy (−4, −36), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "fill",
+      "q": "x⁴ − 53x² + 196 = 0 bikvadrat tenglamaning nechta haqiqiy ildizi bor?",
+      "answer": "4",
+      "explain": "x² = 4 va x² = 49 dan x = ±2, ±7 — jami 4 ta ildiz."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 53x² + 196 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 53t + 196 = 0 ildizlari manfiy (−4, −49), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 68x² + 256 = 0 bikvadrat tenglamaning eng katta ildizini toping.",
+      "options": [
+        "9",
+        "64",
+        "2",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "t₁ = 4, t₂ = 64 ⇒ eng katta ildiz √64 = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 68x² + 256 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 68t + 256 = 0 ildizlari manfiy (−4, −64), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 25x² + 144 = 0 bikvadrat tenglamaning eng katta ildizini toping.",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "16"
+      ],
+      "answer": 2,
+      "explain": "t₁ = 9, t₂ = 16 ⇒ eng katta ildiz √16 = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 25x² + 144 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 25t + 144 = 0 ildizlari manfiy (−9, −16), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 34x² + 225 = 0 bikvadrat tenglamaning barcha haqiqiy ildizlarini ko'rsating.",
+      "options": [
+        "±9; ±25",
+        "3; 5",
+        "±3; 5",
+        "±3; ±5"
+      ],
+      "answer": 3,
+      "explain": "x² = 9 ⇒ ±3, x² = 25 ⇒ ±5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 34x² + 225 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 34t + 225 = 0 ildizlari manfiy (−9, −25), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "fill",
+      "q": "x⁴ − 45x² + 324 = 0 bikvadrat tenglamaning nechta haqiqiy ildizi bor?",
+      "answer": "4",
+      "explain": "x² = 9 va x² = 36 dan x = ±3, ±6 — jami 4 ta ildiz."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 45x² + 324 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 45t + 324 = 0 ildizlari manfiy (−9, −36), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 58x² + 441 = 0 bikvadrat tenglamaning eng katta ildizini toping.",
+      "options": [
+        "8",
+        "3",
+        "7",
+        "49"
+      ],
+      "answer": 2,
+      "explain": "t₁ = 9, t₂ = 49 ⇒ eng katta ildiz √49 = 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 58x² + 441 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 58t + 441 = 0 ildizlari manfiy (−9, −49), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 73x² + 576 = 0 bikvadrat tenglamaning barcha haqiqiy ildizlarini ko'rsating.",
+      "options": [
+        "±3; 8",
+        "3; 8",
+        "±3; ±8",
+        "±9; ±64"
+      ],
+      "answer": 2,
+      "explain": "x² = 9 ⇒ ±3, x² = 64 ⇒ ±8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 73x² + 576 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 73t + 576 = 0 ildizlari manfiy (−9, −64), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "fill",
+      "q": "x⁴ − 41x² + 400 = 0 bikvadrat tenglamaning nechta haqiqiy ildizi bor?",
+      "answer": "4",
+      "explain": "x² = 16 va x² = 25 dan x = ±4, ±5 — jami 4 ta ildiz."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 41x² + 400 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 41t + 400 = 0 ildizlari manfiy (−16, −25), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 52x² + 576 = 0 bikvadrat tenglamaning eng katta ildizini toping.",
+      "options": [
+        "7",
+        "6",
+        "36",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "t₁ = 16, t₂ = 36 ⇒ eng katta ildiz √36 = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 52x² + 576 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 52t + 576 = 0 ildizlari manfiy (−16, −36), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 65x² + 784 = 0 bikvadrat tenglamaning barcha haqiqiy ildizlarini ko'rsating.",
+      "options": [
+        "±16; ±49",
+        "4; 7",
+        "±4; ±7",
+        "±4; 7"
+      ],
+      "answer": 2,
+      "explain": "x² = 16 ⇒ ±4, x² = 49 ⇒ ±7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 65x² + 784 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 65t + 784 = 0 ildizlari manfiy (−16, −49), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "fill",
+      "q": "x⁴ − 80x² + 1024 = 0 bikvadrat tenglamaning nechta haqiqiy ildizi bor?",
+      "answer": "4",
+      "explain": "x² = 16 va x² = 64 dan x = ±4, ±8 — jami 4 ta ildiz."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 80x² + 1024 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 80t + 1024 = 0 ildizlari manfiy (−16, −64), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 61x² + 900 = 0 bikvadrat tenglamaning barcha haqiqiy ildizlarini ko'rsating.",
+      "options": [
+        "±5; 6",
+        "5; 6",
+        "±25; ±36",
+        "±5; ±6"
+      ],
+      "answer": 3,
+      "explain": "x² = 25 ⇒ ±5, x² = 36 ⇒ ±6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 61x² + 900 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 61t + 900 = 0 ildizlari manfiy (−25, −36), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "fill",
+      "q": "x⁴ − 74x² + 1225 = 0 bikvadrat tenglamaning nechta haqiqiy ildizi bor?",
+      "answer": "4",
+      "explain": "x² = 25 va x² = 49 dan x = ±5, ±7 — jami 4 ta ildiz."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 74x² + 1225 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 74t + 1225 = 0 ildizlari manfiy (−25, −49), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 89x² + 1600 = 0 bikvadrat tenglamaning eng katta ildizini toping.",
+      "options": [
+        "8",
+        "5",
+        "64",
+        "9"
+      ],
+      "answer": 0,
+      "explain": "t₁ = 25, t₂ = 64 ⇒ eng katta ildiz √64 = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 89x² + 1600 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 89t + 1600 = 0 ildizlari manfiy (−25, −64), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 85x² + 1764 = 0 bikvadrat tenglamaning eng katta ildizini toping.",
+      "options": [
+        "6",
+        "49",
+        "8",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "t₁ = 36, t₂ = 49 ⇒ eng katta ildiz √49 = 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 85x² + 1764 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 85t + 1764 = 0 ildizlari manfiy (−36, −49), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ − 100x² + 2304 = 0 bikvadrat tenglamaning barcha haqiqiy ildizlarini ko'rsating.",
+      "options": [
+        "±6; ±8",
+        "±6; 8",
+        "±36; ±64",
+        "6; 8"
+      ],
+      "answer": 0,
+      "explain": "x² = 36 ⇒ ±6, x² = 64 ⇒ ±8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x⁴ + 100x² + 2304 = 0 bikvadrat tenglama 4 ta ildizga ega.",
+      "answer": false,
+      "explain": "t² + 100t + 2304 = 0 ildizlari manfiy (−36, −64), demak x² = t da haqiqiy ildiz yo'q."
+    },
+    {
+      "type": "fill",
+      "q": "x^3 = -64 tenglamaning haqiqiy ildizini toping.",
+      "answer": "-4",
+      "explain": "(-4)^3 = -64."
+    },
+    {
+      "type": "fill",
+      "q": "x^3 = -27 tenglamaning haqiqiy ildizini toping.",
+      "answer": "-3",
+      "explain": "(-3)^3 = -27."
+    },
+    {
+      "type": "fill",
+      "q": "x^3 = -8 tenglamaning haqiqiy ildizini toping.",
+      "answer": "-2",
+      "explain": "(-2)^3 = -8."
+    },
+    {
+      "type": "fill",
+      "q": "x^3 = -1 tenglamaning haqiqiy ildizini toping.",
+      "answer": "-1",
+      "explain": "(-1)^3 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "x^3 = 1 tenglamaning haqiqiy ildizini toping.",
+      "answer": "1",
+      "explain": "(1)^3 = 1."
+    },
+    {
+      "type": "fill",
+      "q": "x^3 = 8 tenglamaning haqiqiy ildizini toping.",
+      "answer": "2",
+      "explain": "(2)^3 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "x^3 = 27 tenglamaning haqiqiy ildizini toping.",
+      "answer": "3",
+      "explain": "(3)^3 = 27."
+    },
+    {
+      "type": "fill",
+      "q": "x^3 = 64 tenglamaning haqiqiy ildizini toping.",
+      "answer": "4",
+      "explain": "(4)^3 = 64."
+    },
+    {
+      "type": "fill",
+      "q": "x^3 = 125 tenglamaning haqiqiy ildizini toping.",
+      "answer": "5",
+      "explain": "(5)^3 = 125."
+    },
+    {
+      "type": "choice",
+      "q": "x^4 = 1 tenglamaning haqiqiy ildizlari qaysilar?",
+      "options": [
+        "−1 va 1",
+        "Faqat 1",
+        "Faqat −1",
+        "Ildizi yo'q"
+      ],
+      "answer": 0,
+      "explain": "Juft 4-darajali ildiz ±1."
+    },
+    {
+      "type": "choice",
+      "q": "x^4 = 16 tenglamaning haqiqiy ildizlari qaysilar?",
+      "options": [
+        "−2 va 2",
+        "Ildizi yo'q",
+        "Faqat 2",
+        "Faqat −2"
+      ],
+      "answer": 0,
+      "explain": "Juft 4-darajali ildiz ±2."
+    },
+    {
+      "type": "choice",
+      "q": "x^4 = 81 tenglamaning haqiqiy ildizlari qaysilar?",
+      "options": [
+        "−3 va 3",
+        "Faqat −3",
+        "Ildizi yo'q",
+        "Faqat 3"
+      ],
+      "answer": 0,
+      "explain": "Juft 4-darajali ildiz ±3."
+    },
+    {
+      "type": "choice",
+      "q": "x^4 = 256 tenglamaning haqiqiy ildizlari qaysilar?",
+      "options": [
+        "−4 va 4",
+        "Faqat 4",
+        "Ildizi yo'q",
+        "Faqat −4"
+      ],
+      "answer": 0,
+      "explain": "Juft 4-darajali ildiz ±4."
+    },
+    {
+      "type": "choice",
+      "q": "x^4 = 625 tenglamaning haqiqiy ildizlari qaysilar?",
+      "options": [
+        "Faqat −5",
+        "Faqat 5",
+        "Ildizi yo'q",
+        "−5 va 5"
+      ],
+      "answer": 3,
+      "explain": "Juft 4-darajali ildiz ±5."
+    },
+    {
+      "type": "fill",
+      "q": "x^5 = -1024 tenglamaning haqiqiy ildizini toping.",
+      "answer": "-4",
+      "explain": "(-4)^5 = -1024."
+    },
+    {
+      "type": "fill",
+      "q": "x^5 = -243 tenglamaning haqiqiy ildizini toping.",
+      "answer": "-3",
+      "explain": "(-3)^5 = -243."
+    },
+    {
+      "type": "fill",
+      "q": "x^5 = -32 tenglamaning haqiqiy ildizini toping.",
+      "answer": "-2",
+      "explain": "(-2)^5 = -32."
+    },
+    {
+      "type": "fill",
+      "q": "x^5 = -1 tenglamaning haqiqiy ildizini toping.",
+      "answer": "-1",
+      "explain": "(-1)^5 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "x^5 = 1 tenglamaning haqiqiy ildizini toping.",
+      "answer": "1",
+      "explain": "(1)^5 = 1."
+    },
+    {
+      "type": "fill",
+      "q": "x^5 = 32 tenglamaning haqiqiy ildizini toping.",
+      "answer": "2",
+      "explain": "(2)^5 = 32."
+    },
+    {
+      "type": "fill",
+      "q": "x^5 = 243 tenglamaning haqiqiy ildizini toping.",
+      "answer": "3",
+      "explain": "(3)^5 = 243."
+    },
+    {
+      "type": "fill",
+      "q": "x^5 = 1024 tenglamaning haqiqiy ildizini toping.",
+      "answer": "4",
+      "explain": "(4)^5 = 1024."
+    },
+    {
+      "type": "fill",
+      "q": "x^5 = 3125 tenglamaning haqiqiy ildizini toping.",
+      "answer": "5",
+      "explain": "(5)^5 = 3125."
+    },
+    {
+      "type": "choice",
+      "q": "x^6 = 1 tenglamaning haqiqiy ildizlari qaysilar?",
+      "options": [
+        "Ildizi yo'q",
+        "Faqat 1",
+        "−1 va 1",
+        "Faqat −1"
+      ],
+      "answer": 2,
+      "explain": "Juft 6-darajali ildiz ±1."
+    },
+    {
+      "type": "choice",
+      "q": "x^6 = 64 tenglamaning haqiqiy ildizlari qaysilar?",
+      "options": [
+        "Faqat −2",
+        "−2 va 2",
+        "Faqat 2",
+        "Ildizi yo'q"
+      ],
+      "answer": 1,
+      "explain": "Juft 6-darajali ildiz ±2."
+    },
+    {
+      "type": "choice",
+      "q": "x^6 = 729 tenglamaning haqiqiy ildizlari qaysilar?",
+      "options": [
+        "−3 va 3",
+        "Faqat 3",
+        "Faqat −3",
+        "Ildizi yo'q"
+      ],
+      "answer": 0,
+      "explain": "Juft 6-darajali ildiz ±3."
+    },
+    {
+      "type": "choice",
+      "q": "x^6 = 4096 tenglamaning haqiqiy ildizlari qaysilar?",
+      "options": [
+        "−4 va 4",
+        "Ildizi yo'q",
+        "Faqat 4",
+        "Faqat −4"
+      ],
+      "answer": 0,
+      "explain": "Juft 6-darajali ildiz ±4."
+    },
+    {
+      "type": "choice",
+      "q": "x^6 = 15625 tenglamaning haqiqiy ildizlari qaysilar?",
+      "options": [
+        "Ildizi yo'q",
+        "Faqat −5",
+        "Faqat 5",
+        "−5 va 5"
+      ],
+      "answer": 3,
+      "explain": "Juft 6-darajali ildiz ±5."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 1 tengsizlikning yechimini toping.",
+      "options": [
+        "[1; +∞)",
+        "(−∞; 1)",
+        "(−1; 1)",
+        "(1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 1³ ⇔ x > 1."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 1 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "1",
+        "5",
+        "2",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "−1 ≤ x ≤ 1 kesmada 3 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −1 tengsizlikning yechimi (−∞; −1) oraliqdir.",
+      "answer": true,
+      "explain": "(−1)³ = −1 va y = x³ o'suvchi bo'lgani uchun x < −1."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 8 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 2)",
+        "(−2; 2)",
+        "[2; +∞)",
+        "(2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 2³ ⇔ x > 2."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 16 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "2",
+        "5",
+        "4",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "−2 ≤ x ≤ 2 kesmada 5 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −8 tengsizlikning yechimi (−∞; −2) oraliqdir.",
+      "answer": true,
+      "explain": "(−2)³ = −8 va y = x³ o'suvchi bo'lgani uchun x < −2."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 27 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 3)",
+        "[3; +∞)",
+        "(−3; 3)",
+        "(3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 3³ ⇔ x > 3."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 81 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "6",
+        "5",
+        "3",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "−3 ≤ x ≤ 3 kesmada 7 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −27 tengsizlikning yechimi (−∞; −3) oraliqdir.",
+      "answer": true,
+      "explain": "(−3)³ = −27 va y = x³ o'suvchi bo'lgani uchun x < −3."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 64 tengsizlikning yechimini toping.",
+      "options": [
+        "(4; +∞)",
+        "[4; +∞)",
+        "(−∞; 4)",
+        "(−4; 4)"
+      ],
+      "answer": 0,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 4³ ⇔ x > 4."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 256 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "4",
+        "8",
+        "9",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "−4 ≤ x ≤ 4 kesmada 9 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −64 tengsizlikning yechimi (−∞; −4) oraliqdir.",
+      "answer": true,
+      "explain": "(−4)³ = −64 va y = x³ o'suvchi bo'lgani uchun x < −4."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 125 tengsizlikning yechimini toping.",
+      "options": [
+        "[5; +∞)",
+        "(−5; 5)",
+        "(5; +∞)",
+        "(−∞; 5)"
+      ],
+      "answer": 2,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 5³ ⇔ x > 5."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 625 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "9",
+        "5",
+        "11",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "−5 ≤ x ≤ 5 kesmada 11 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −125 tengsizlikning yechimi (−∞; −5) oraliqdir.",
+      "answer": true,
+      "explain": "(−5)³ = −125 va y = x³ o'suvchi bo'lgani uchun x < −5."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 216 tengsizlikning yechimini toping.",
+      "options": [
+        "(−6; 6)",
+        "[6; +∞)",
+        "(−∞; 6)",
+        "(6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 6³ ⇔ x > 6."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 1296 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "13",
+        "11",
+        "12",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "−6 ≤ x ≤ 6 kesmada 13 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −216 tengsizlikning yechimi (−∞; −6) oraliqdir.",
+      "answer": true,
+      "explain": "(−6)³ = −216 va y = x³ o'suvchi bo'lgani uchun x < −6."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 343 tengsizlikning yechimini toping.",
+      "options": [
+        "(−7; 7)",
+        "(7; +∞)",
+        "[7; +∞)",
+        "(−∞; 7)"
+      ],
+      "answer": 1,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 7³ ⇔ x > 7."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 2401 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "7",
+        "15",
+        "14",
+        "13"
+      ],
+      "answer": 1,
+      "explain": "−7 ≤ x ≤ 7 kesmada 15 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −343 tengsizlikning yechimi (−∞; −7) oraliqdir.",
+      "answer": true,
+      "explain": "(−7)³ = −343 va y = x³ o'suvchi bo'lgani uchun x < −7."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 512 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 8)",
+        "(−8; 8)",
+        "[8; +∞)",
+        "(8; +∞)"
+      ],
+      "answer": 3,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 8³ ⇔ x > 8."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 4096 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "8",
+        "17",
+        "16",
+        "15"
+      ],
+      "answer": 1,
+      "explain": "−8 ≤ x ≤ 8 kesmada 17 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −512 tengsizlikning yechimi (−∞; −8) oraliqdir.",
+      "answer": true,
+      "explain": "(−8)³ = −512 va y = x³ o'suvchi bo'lgani uchun x < −8."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 729 tengsizlikning yechimini toping.",
+      "options": [
+        "[9; +∞)",
+        "(−9; 9)",
+        "(9; +∞)",
+        "(−∞; 9)"
+      ],
+      "answer": 2,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 9³ ⇔ x > 9."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 6561 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "19",
+        "17",
+        "18",
+        "9"
+      ],
+      "answer": 0,
+      "explain": "−9 ≤ x ≤ 9 kesmada 19 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −729 tengsizlikning yechimi (−∞; −9) oraliqdir.",
+      "answer": true,
+      "explain": "(−9)³ = −729 va y = x³ o'suvchi bo'lgani uchun x < −9."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 1000 tengsizlikning yechimini toping.",
+      "options": [
+        "[10; +∞)",
+        "(−10; 10)",
+        "(−∞; 10)",
+        "(10; +∞)"
+      ],
+      "answer": 3,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 10³ ⇔ x > 10."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 10000 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "21",
+        "20",
+        "19",
+        "10"
+      ],
+      "answer": 0,
+      "explain": "−10 ≤ x ≤ 10 kesmada 21 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −1000 tengsizlikning yechimi (−∞; −10) oraliqdir.",
+      "answer": true,
+      "explain": "(−10)³ = −1000 va y = x³ o'suvchi bo'lgani uchun x < −10."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 1331 tengsizlikning yechimini toping.",
+      "options": [
+        "(11; +∞)",
+        "(−11; 11)",
+        "(−∞; 11)",
+        "[11; +∞)"
+      ],
+      "answer": 0,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 11³ ⇔ x > 11."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 14641 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "11",
+        "23",
+        "22",
+        "21"
+      ],
+      "answer": 1,
+      "explain": "−11 ≤ x ≤ 11 kesmada 23 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −1331 tengsizlikning yechimi (−∞; −11) oraliqdir.",
+      "answer": true,
+      "explain": "(−11)³ = −1331 va y = x³ o'suvchi bo'lgani uchun x < −11."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 1728 tengsizlikning yechimini toping.",
+      "options": [
+        "[12; +∞)",
+        "(12; +∞)",
+        "(−12; 12)",
+        "(−∞; 12)"
+      ],
+      "answer": 1,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 12³ ⇔ x > 12."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 20736 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "23",
+        "24",
+        "12",
+        "25"
+      ],
+      "answer": 3,
+      "explain": "−12 ≤ x ≤ 12 kesmada 25 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −1728 tengsizlikning yechimi (−∞; −12) oraliqdir.",
+      "answer": true,
+      "explain": "(−12)³ = −1728 va y = x³ o'suvchi bo'lgani uchun x < −12."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 2197 tengsizlikning yechimini toping.",
+      "options": [
+        "[13; +∞)",
+        "(13; +∞)",
+        "(−∞; 13)",
+        "(−13; 13)"
+      ],
+      "answer": 1,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 13³ ⇔ x > 13."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 28561 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "25",
+        "26",
+        "27",
+        "13"
+      ],
+      "answer": 2,
+      "explain": "−13 ≤ x ≤ 13 kesmada 27 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −2197 tengsizlikning yechimi (−∞; −13) oraliqdir.",
+      "answer": true,
+      "explain": "(−13)³ = −2197 va y = x³ o'suvchi bo'lgani uchun x < −13."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 2744 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 14)",
+        "[14; +∞)",
+        "(−14; 14)",
+        "(14; +∞)"
+      ],
+      "answer": 3,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 14³ ⇔ x > 14."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 38416 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "29",
+        "14",
+        "28",
+        "27"
+      ],
+      "answer": 0,
+      "explain": "−14 ≤ x ≤ 14 kesmada 29 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −2744 tengsizlikning yechimi (−∞; −14) oraliqdir.",
+      "answer": true,
+      "explain": "(−14)³ = −2744 va y = x³ o'suvchi bo'lgani uchun x < −14."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 3375 tengsizlikning yechimini toping.",
+      "options": [
+        "[15; +∞)",
+        "(−∞; 15)",
+        "(−15; 15)",
+        "(15; +∞)"
+      ],
+      "answer": 3,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 15³ ⇔ x > 15."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 50625 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "15",
+        "31",
+        "29",
+        "30"
+      ],
+      "answer": 1,
+      "explain": "−15 ≤ x ≤ 15 kesmada 31 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −3375 tengsizlikning yechimi (−∞; −15) oraliqdir.",
+      "answer": true,
+      "explain": "(−15)³ = −3375 va y = x³ o'suvchi bo'lgani uchun x < −15."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 4096 tengsizlikning yechimini toping.",
+      "options": [
+        "(16; +∞)",
+        "(−16; 16)",
+        "(−∞; 16)",
+        "[16; +∞)"
+      ],
+      "answer": 0,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 16³ ⇔ x > 16."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 65536 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "31",
+        "16",
+        "33",
+        "32"
+      ],
+      "answer": 2,
+      "explain": "−16 ≤ x ≤ 16 kesmada 33 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −4096 tengsizlikning yechimi (−∞; −16) oraliqdir.",
+      "answer": true,
+      "explain": "(−16)³ = −4096 va y = x³ o'suvchi bo'lgani uchun x < −16."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 4913 tengsizlikning yechimini toping.",
+      "options": [
+        "(−17; 17)",
+        "(17; +∞)",
+        "[17; +∞)",
+        "(−∞; 17)"
+      ],
+      "answer": 1,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 17³ ⇔ x > 17."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 83521 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "33",
+        "17",
+        "35",
+        "34"
+      ],
+      "answer": 2,
+      "explain": "−17 ≤ x ≤ 17 kesmada 35 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −4913 tengsizlikning yechimi (−∞; −17) oraliqdir.",
+      "answer": true,
+      "explain": "(−17)³ = −4913 va y = x³ o'suvchi bo'lgani uchun x < −17."
+    },
+    {
+      "type": "choice",
+      "q": "x³ > 5832 tengsizlikning yechimini toping.",
+      "options": [
+        "[18; +∞)",
+        "(18; +∞)",
+        "(−∞; 18)",
+        "(−18; 18)"
+      ],
+      "answer": 1,
+      "explain": "y = x³ o'suvchi bo'lgani uchun x³ > 18³ ⇔ x > 18."
+    },
+    {
+      "type": "choice",
+      "q": "x⁴ ≤ 104976 tengsizlikning nechta butun yechimi bor?",
+      "options": [
+        "36",
+        "18",
+        "37",
+        "35"
+      ],
+      "answer": 2,
+      "explain": "−18 ≤ x ≤ 18 kesmada 37 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x³ < −5832 tengsizlikning yechimi (−∞; −18) oraliqdir.",
+      "answer": true,
+      "explain": "(−18)³ = −5832 va y = x³ o'suvchi bo'lgani uchun x < −18."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 2 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "12",
+      "explain": "S = 3 · 2² = 3 · 4 = 12 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 3 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "27",
+      "explain": "S = 3 · 3² = 3 · 9 = 27 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 4 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "48",
+      "explain": "S = 3 · 4² = 3 · 16 = 48 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 5 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "75",
+      "explain": "S = 3 · 5² = 3 · 25 = 75 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 6 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "108",
+      "explain": "S = 3 · 6² = 3 · 36 = 108 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 7 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "147",
+      "explain": "S = 3 · 7² = 3 · 49 = 147 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 8 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "192",
+      "explain": "S = 3 · 8² = 3 · 64 = 192 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 9 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "243",
+      "explain": "S = 3 · 9² = 3 · 81 = 243 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 10 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "300",
+      "explain": "S = 3 · 10² = 3 · 100 = 300 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 11 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "363",
+      "explain": "S = 3 · 11² = 3 · 121 = 363 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 12 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "432",
+      "explain": "S = 3 · 12² = 3 · 144 = 432 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 13 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "507",
+      "explain": "S = 3 · 13² = 3 · 169 = 507 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 14 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "588",
+      "explain": "S = 3 · 14² = 3 · 196 = 588 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 15 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "675",
+      "explain": "S = 3 · 15² = 3 · 225 = 675 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 16 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "768",
+      "explain": "S = 3 · 16² = 3 · 256 = 768 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 17 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "867",
+      "explain": "S = 3 · 17² = 3 · 289 = 867 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 18 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "972",
+      "explain": "S = 3 · 18² = 3 · 324 = 972 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 19 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "1083",
+      "explain": "S = 3 · 19² = 3 · 361 = 1083 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 20 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "1200",
+      "explain": "S = 3 · 20² = 3 · 400 = 1200 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 21 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "1323",
+      "explain": "S = 3 · 21² = 3 · 441 = 1323 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 22 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "1452",
+      "explain": "S = 3 · 22² = 3 · 484 = 1452 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 23 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "1587",
+      "explain": "S = 3 · 23² = 3 · 529 = 1587 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 24 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "1728",
+      "explain": "S = 3 · 24² = 3 · 576 = 1728 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Beruniyning taqribiy S = 3r² formulasiga ko'ra radiusi r = 25 sm bo'lgan doira yuzini (sm²) toping.",
+      "answer": "1875",
+      "explain": "S = 3 · 25² = 3 · 625 = 1875 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 7) = 2 irratsional tenglamaning ildizini toping.",
+      "answer": "-3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 7 = 4 ⇒ 1x = -3 ⇒ x = -3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 6) = 2 tenglama ildizi nechaga teng?",
+      "options": [
+        "-2",
+        "-3",
+        "-1",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "x + 6 = 4 ⇒ x = -2."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 5) = 2 irratsional tenglamaning ildizini toping.",
+      "answer": "-1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 5 = 4 ⇒ 1x = -1 ⇒ x = -1."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) = 2 tenglama ildizi nechaga teng?",
+      "options": [
+        "-1",
+        "4",
+        "1",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "x + 4 = 4 ⇒ x = 0."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 3) = 2 irratsional tenglamaning ildizini toping.",
+      "answer": "1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 3 = 4 ⇒ 1x = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) = 2 tenglama ildizi nechaga teng?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "x + 2 = 4 ⇒ x = 2."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 1) = 2 irratsional tenglamaning ildizini toping.",
+      "answer": "3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 1 = 4 ⇒ 1x = 3 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x) = 2 tenglama ildizi nechaga teng?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "x = 4 ⇒ x = 4."
+    },
+    {
+      "type": "fill",
+      "q": "√(x − 1) = 2 irratsional tenglamaning ildizini toping.",
+      "answer": "5",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x − 1 = 4 ⇒ 1x = 5 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "√(x − 2) = 2 tenglama ildizi nechaga teng?",
+      "options": [
+        "7",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "x − 2 = 4 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 12) = 3 tenglama ildizi nechaga teng?",
+      "options": [
+        "-3",
+        "-4",
+        "-2",
+        "9"
+      ],
+      "answer": 0,
+      "explain": "x + 12 = 9 ⇒ x = -3."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 11) = 3 irratsional tenglamaning ildizini toping.",
+      "answer": "-2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 11 = 9 ⇒ 1x = -2 ⇒ x = -2."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 10) = 3 tenglama ildizi nechaga teng?",
+      "options": [
+        "-1",
+        "-2",
+        "0",
+        "9"
+      ],
+      "answer": 0,
+      "explain": "x + 10 = 9 ⇒ x = -1."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 9) = 3 irratsional tenglamaning ildizini toping.",
+      "answer": "0",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 9 = 9 ⇒ 1x = 0 ⇒ x = 0."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 8) = 3 tenglama ildizi nechaga teng?",
+      "options": [
+        "0",
+        "1",
+        "9",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "x + 8 = 9 ⇒ x = 1."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 7) = 3 irratsional tenglamaning ildizini toping.",
+      "answer": "2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 7 = 9 ⇒ 1x = 2 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 6) = 3 tenglama ildizi nechaga teng?",
+      "options": [
+        "9",
+        "3",
+        "2",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "x + 6 = 9 ⇒ x = 3."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 5) = 3 irratsional tenglamaning ildizini toping.",
+      "answer": "4",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 5 = 9 ⇒ 1x = 4 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) = 3 tenglama ildizi nechaga teng?",
+      "options": [
+        "9",
+        "6",
+        "4",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "x + 4 = 9 ⇒ x = 5."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 3) = 3 irratsional tenglamaning ildizini toping.",
+      "answer": "6",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 3 = 9 ⇒ 1x = 6 ⇒ x = 6."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 19) = 4 irratsional tenglamaning ildizini toping.",
+      "answer": "-3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 19 = 16 ⇒ 1x = -3 ⇒ x = -3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 18) = 4 tenglama ildizi nechaga teng?",
+      "options": [
+        "16",
+        "-2",
+        "-1",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "x + 18 = 16 ⇒ x = -2."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 17) = 4 irratsional tenglamaning ildizini toping.",
+      "answer": "-1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 17 = 16 ⇒ 1x = -1 ⇒ x = -1."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 16) = 4 tenglama ildizi nechaga teng?",
+      "options": [
+        "16",
+        "1",
+        "0",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "x + 16 = 16 ⇒ x = 0."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 15) = 4 irratsional tenglamaning ildizini toping.",
+      "answer": "1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 15 = 16 ⇒ 1x = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 14) = 4 tenglama ildizi nechaga teng?",
+      "options": [
+        "3",
+        "16",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "x + 14 = 16 ⇒ x = 2."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 13) = 4 irratsional tenglamaning ildizini toping.",
+      "answer": "3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 13 = 16 ⇒ 1x = 3 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 12) = 4 tenglama ildizi nechaga teng?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "x + 12 = 16 ⇒ x = 4."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 11) = 4 irratsional tenglamaning ildizini toping.",
+      "answer": "5",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 11 = 16 ⇒ 1x = 5 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 10) = 4 tenglama ildizi nechaga teng?",
+      "options": [
+        "5",
+        "16",
+        "6",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "x + 10 = 16 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 28) = 5 tenglama ildizi nechaga teng?",
+      "options": [
+        "-4",
+        "-3",
+        "25",
+        "-2"
+      ],
+      "answer": 1,
+      "explain": "x + 28 = 25 ⇒ x = -3."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 27) = 5 irratsional tenglamaning ildizini toping.",
+      "answer": "-2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 27 = 25 ⇒ 1x = -2 ⇒ x = -2."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 26) = 5 tenglama ildizi nechaga teng?",
+      "options": [
+        "-2",
+        "0",
+        "-1",
+        "25"
+      ],
+      "answer": 2,
+      "explain": "x + 26 = 25 ⇒ x = -1."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 25) = 5 irratsional tenglamaning ildizini toping.",
+      "answer": "0",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 25 = 25 ⇒ 1x = 0 ⇒ x = 0."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 24) = 5 tenglama ildizi nechaga teng?",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "25"
+      ],
+      "answer": 0,
+      "explain": "x + 24 = 25 ⇒ x = 1."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 23) = 5 irratsional tenglamaning ildizini toping.",
+      "answer": "2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 23 = 25 ⇒ 1x = 2 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 22) = 5 tenglama ildizi nechaga teng?",
+      "options": [
+        "25",
+        "4",
+        "3",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "x + 22 = 25 ⇒ x = 3."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 21) = 5 irratsional tenglamaning ildizini toping.",
+      "answer": "4",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 21 = 25 ⇒ 1x = 4 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 20) = 5 tenglama ildizi nechaga teng?",
+      "options": [
+        "25",
+        "4",
+        "6",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "x + 20 = 25 ⇒ x = 5."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 19) = 5 irratsional tenglamaning ildizini toping.",
+      "answer": "6",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 19 = 25 ⇒ 1x = 6 ⇒ x = 6."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 39) = 6 irratsional tenglamaning ildizini toping.",
+      "answer": "-3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 39 = 36 ⇒ 1x = -3 ⇒ x = -3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 38) = 6 tenglama ildizi nechaga teng?",
+      "options": [
+        "-3",
+        "-2",
+        "36",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "x + 38 = 36 ⇒ x = -2."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 37) = 6 irratsional tenglamaning ildizini toping.",
+      "answer": "-1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 37 = 36 ⇒ 1x = -1 ⇒ x = -1."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 36) = 6 tenglama ildizi nechaga teng?",
+      "options": [
+        "36",
+        "0",
+        "1",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "x + 36 = 36 ⇒ x = 0."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 35) = 6 irratsional tenglamaning ildizini toping.",
+      "answer": "1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 35 = 36 ⇒ 1x = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 34) = 6 tenglama ildizi nechaga teng?",
+      "options": [
+        "36",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "x + 34 = 36 ⇒ x = 2."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 33) = 6 irratsional tenglamaning ildizini toping.",
+      "answer": "3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 33 = 36 ⇒ 1x = 3 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 32) = 6 tenglama ildizi nechaga teng?",
+      "options": [
+        "3",
+        "4",
+        "36",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "x + 32 = 36 ⇒ x = 4."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 31) = 6 irratsional tenglamaning ildizini toping.",
+      "answer": "5",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 31 = 36 ⇒ 1x = 5 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 30) = 6 tenglama ildizi nechaga teng?",
+      "options": [
+        "6",
+        "7",
+        "36",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "x + 30 = 36 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 52) = 7 tenglama ildizi nechaga teng?",
+      "options": [
+        "-4",
+        "-3",
+        "-2",
+        "49"
+      ],
+      "answer": 1,
+      "explain": "x + 52 = 49 ⇒ x = -3."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 51) = 7 irratsional tenglamaning ildizini toping.",
+      "answer": "-2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 51 = 49 ⇒ 1x = -2 ⇒ x = -2."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 50) = 7 tenglama ildizi nechaga teng?",
+      "options": [
+        "0",
+        "49",
+        "-2",
+        "-1"
+      ],
+      "answer": 3,
+      "explain": "x + 50 = 49 ⇒ x = -1."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 49) = 7 irratsional tenglamaning ildizini toping.",
+      "answer": "0",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 49 = 49 ⇒ 1x = 0 ⇒ x = 0."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 48) = 7 tenglama ildizi nechaga teng?",
+      "options": [
+        "49",
+        "2",
+        "1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "x + 48 = 49 ⇒ x = 1."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 47) = 7 irratsional tenglamaning ildizini toping.",
+      "answer": "2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 47 = 49 ⇒ 1x = 2 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 46) = 7 tenglama ildizi nechaga teng?",
+      "options": [
+        "4",
+        "2",
+        "49",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "x + 46 = 49 ⇒ x = 3."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 45) = 7 irratsional tenglamaning ildizini toping.",
+      "answer": "4",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 45 = 49 ⇒ 1x = 4 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 44) = 7 tenglama ildizi nechaga teng?",
+      "options": [
+        "6",
+        "4",
+        "49",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "x + 44 = 49 ⇒ x = 5."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 43) = 7 irratsional tenglamaning ildizini toping.",
+      "answer": "6",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 43 = 49 ⇒ 1x = 6 ⇒ x = 6."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 67) = 8 irratsional tenglamaning ildizini toping.",
+      "answer": "-3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 67 = 64 ⇒ 1x = -3 ⇒ x = -3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 66) = 8 tenglama ildizi nechaga teng?",
+      "options": [
+        "-1",
+        "-3",
+        "64",
+        "-2"
+      ],
+      "answer": 3,
+      "explain": "x + 66 = 64 ⇒ x = -2."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 65) = 8 irratsional tenglamaning ildizini toping.",
+      "answer": "-1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 65 = 64 ⇒ 1x = -1 ⇒ x = -1."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 64) = 8 tenglama ildizi nechaga teng?",
+      "options": [
+        "64",
+        "1",
+        "-1",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "x + 64 = 64 ⇒ x = 0."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 63) = 8 irratsional tenglamaning ildizini toping.",
+      "answer": "1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 63 = 64 ⇒ 1x = 1 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 62) = 8 tenglama ildizi nechaga teng?",
+      "options": [
+        "1",
+        "2",
+        "64",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "x + 62 = 64 ⇒ x = 2."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 61) = 8 irratsional tenglamaning ildizini toping.",
+      "answer": "3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 61 = 64 ⇒ 1x = 3 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 60) = 8 tenglama ildizi nechaga teng?",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "64"
+      ],
+      "answer": 1,
+      "explain": "x + 60 = 64 ⇒ x = 4."
+    },
+    {
+      "type": "fill",
+      "q": "√(x + 59) = 8 irratsional tenglamaning ildizini toping.",
+      "answer": "5",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak x + 59 = 64 ⇒ 1x = 5 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 58) = 8 tenglama ildizi nechaga teng?",
+      "options": [
+        "6",
+        "64",
+        "5",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "x + 58 = 64 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 10) = 2 tenglama ildizi nechaga teng?",
+      "options": [
+        "-2",
+        "4",
+        "-4",
+        "-3"
+      ],
+      "answer": 3,
+      "explain": "2x + 10 = 4 ⇒ x = -3."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 8) = 2 irratsional tenglamaning ildizini toping.",
+      "answer": "-2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 8 = 4 ⇒ 2x = -4 ⇒ x = -2."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 6) = 2 tenglama ildizi nechaga teng?",
+      "options": [
+        "4",
+        "-1",
+        "0",
+        "-2"
+      ],
+      "answer": 1,
+      "explain": "2x + 6 = 4 ⇒ x = -1."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 4) = 2 irratsional tenglamaning ildizini toping.",
+      "answer": "0",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 4 = 4 ⇒ 2x = 0 ⇒ x = 0."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 2) = 2 tenglama ildizi nechaga teng?",
+      "options": [
+        "0",
+        "4",
+        "1",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "2x + 2 = 4 ⇒ x = 1."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x) = 2 irratsional tenglamaning ildizini toping.",
+      "answer": "2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x = 4 ⇒ 2x = 4 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x − 2) = 2 tenglama ildizi nechaga teng?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "2x − 2 = 4 ⇒ x = 3."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x − 4) = 2 irratsional tenglamaning ildizini toping.",
+      "answer": "4",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x − 4 = 4 ⇒ 2x = 8 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x − 6) = 2 tenglama ildizi nechaga teng?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "2x − 6 = 4 ⇒ x = 5."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x − 8) = 2 irratsional tenglamaning ildizini toping.",
+      "answer": "6",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x − 8 = 4 ⇒ 2x = 12 ⇒ x = 6."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 15) = 3 irratsional tenglamaning ildizini toping.",
+      "answer": "-3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 15 = 9 ⇒ 2x = -6 ⇒ x = -3."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 13) = 3 tenglama ildizi nechaga teng?",
+      "options": [
+        "-1",
+        "9",
+        "-2",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "2x + 13 = 9 ⇒ x = -2."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 11) = 3 irratsional tenglamaning ildizini toping.",
+      "answer": "-1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 11 = 9 ⇒ 2x = -2 ⇒ x = -1."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 9) = 3 tenglama ildizi nechaga teng?",
+      "options": [
+        "0",
+        "-1",
+        "9",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "2x + 9 = 9 ⇒ x = 0."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 7) = 3 irratsional tenglamaning ildizini toping.",
+      "answer": "1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 7 = 9 ⇒ 2x = 2 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 5) = 3 tenglama ildizi nechaga teng?",
+      "options": [
+        "9",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "2x + 5 = 9 ⇒ x = 2."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 3) = 3 irratsional tenglamaning ildizini toping.",
+      "answer": "3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 3 = 9 ⇒ 2x = 6 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 1) = 3 tenglama ildizi nechaga teng?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "9"
+      ],
+      "answer": 0,
+      "explain": "2x + 1 = 9 ⇒ x = 4."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x − 1) = 3 irratsional tenglamaning ildizini toping.",
+      "answer": "5",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x − 1 = 9 ⇒ 2x = 10 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x − 3) = 3 tenglama ildizi nechaga teng?",
+      "options": [
+        "9",
+        "7",
+        "5",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "2x − 3 = 9 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 22) = 4 tenglama ildizi nechaga teng?",
+      "options": [
+        "-4",
+        "-2",
+        "16",
+        "-3"
+      ],
+      "answer": 3,
+      "explain": "2x + 22 = 16 ⇒ x = -3."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 20) = 4 irratsional tenglamaning ildizini toping.",
+      "answer": "-2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 20 = 16 ⇒ 2x = -4 ⇒ x = -2."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 18) = 4 tenglama ildizi nechaga teng?",
+      "options": [
+        "0",
+        "16",
+        "-1",
+        "-2"
+      ],
+      "answer": 2,
+      "explain": "2x + 18 = 16 ⇒ x = -1."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 16) = 4 irratsional tenglamaning ildizini toping.",
+      "answer": "0",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 16 = 16 ⇒ 2x = 0 ⇒ x = 0."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 14) = 4 tenglama ildizi nechaga teng?",
+      "options": [
+        "16",
+        "1",
+        "2",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "2x + 14 = 16 ⇒ x = 1."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 12) = 4 irratsional tenglamaning ildizini toping.",
+      "answer": "2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 12 = 16 ⇒ 2x = 4 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 10) = 4 tenglama ildizi nechaga teng?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "16"
+      ],
+      "answer": 0,
+      "explain": "2x + 10 = 16 ⇒ x = 3."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 8) = 4 irratsional tenglamaning ildizini toping.",
+      "answer": "4",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 8 = 16 ⇒ 2x = 8 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 6) = 4 tenglama ildizi nechaga teng?",
+      "options": [
+        "5",
+        "6",
+        "16",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "2x + 6 = 16 ⇒ x = 5."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 4) = 4 irratsional tenglamaning ildizini toping.",
+      "answer": "6",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 4 = 16 ⇒ 2x = 12 ⇒ x = 6."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 31) = 5 irratsional tenglamaning ildizini toping.",
+      "answer": "-3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 31 = 25 ⇒ 2x = -6 ⇒ x = -3."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 29) = 5 tenglama ildizi nechaga teng?",
+      "options": [
+        "-1",
+        "-3",
+        "-2",
+        "25"
+      ],
+      "answer": 2,
+      "explain": "2x + 29 = 25 ⇒ x = -2."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 27) = 5 irratsional tenglamaning ildizini toping.",
+      "answer": "-1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 27 = 25 ⇒ 2x = -2 ⇒ x = -1."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 25) = 5 tenglama ildizi nechaga teng?",
+      "options": [
+        "0",
+        "1",
+        "25",
+        "-1"
+      ],
+      "answer": 0,
+      "explain": "2x + 25 = 25 ⇒ x = 0."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 23) = 5 irratsional tenglamaning ildizini toping.",
+      "answer": "1",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 23 = 25 ⇒ 2x = 2 ⇒ x = 1."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 21) = 5 tenglama ildizi nechaga teng?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "25"
+      ],
+      "answer": 1,
+      "explain": "2x + 21 = 25 ⇒ x = 2."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 19) = 5 irratsional tenglamaning ildizini toping.",
+      "answer": "3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 19 = 25 ⇒ 2x = 6 ⇒ x = 3."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 17) = 5 tenglama ildizi nechaga teng?",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "25"
+      ],
+      "answer": 2,
+      "explain": "2x + 17 = 25 ⇒ x = 4."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 15) = 5 irratsional tenglamaning ildizini toping.",
+      "answer": "5",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 15 = 25 ⇒ 2x = 10 ⇒ x = 5."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 13) = 5 tenglama ildizi nechaga teng?",
+      "options": [
+        "25",
+        "7",
+        "5",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "2x + 13 = 25 ⇒ x = 6."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 42) = 6 tenglama ildizi nechaga teng?",
+      "options": [
+        "-3",
+        "-4",
+        "-2",
+        "36"
+      ],
+      "answer": 0,
+      "explain": "2x + 42 = 36 ⇒ x = -3."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 40) = 6 irratsional tenglamaning ildizini toping.",
+      "answer": "-2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 40 = 36 ⇒ 2x = -4 ⇒ x = -2."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 38) = 6 tenglama ildizi nechaga teng?",
+      "options": [
+        "36",
+        "-2",
+        "-1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "2x + 38 = 36 ⇒ x = -1."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 36) = 6 irratsional tenglamaning ildizini toping.",
+      "answer": "0",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 36 = 36 ⇒ 2x = 0 ⇒ x = 0."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 34) = 6 tenglama ildizi nechaga teng?",
+      "options": [
+        "1",
+        "2",
+        "36",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "2x + 34 = 36 ⇒ x = 1."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 32) = 6 irratsional tenglamaning ildizini toping.",
+      "answer": "2",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 32 = 36 ⇒ 2x = 4 ⇒ x = 2."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 30) = 6 tenglama ildizi nechaga teng?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "36"
+      ],
+      "answer": 0,
+      "explain": "2x + 30 = 36 ⇒ x = 3."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 28) = 6 irratsional tenglamaning ildizini toping.",
+      "answer": "4",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 28 = 36 ⇒ 2x = 8 ⇒ x = 4."
+    },
+    {
+      "type": "choice",
+      "q": "√(2x + 26) = 6 tenglama ildizi nechaga teng?",
+      "options": [
+        "36",
+        "6",
+        "5",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "2x + 26 = 36 ⇒ x = 5."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 24) = 6 irratsional tenglamaning ildizini toping.",
+      "answer": "6",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 24 = 36 ⇒ 2x = 12 ⇒ x = 6."
+    },
+    {
+      "type": "fill",
+      "q": "√(2x + 55) = 7 irratsional tenglamaning ildizini toping.",
+      "answer": "-3",
+      "explain": "Ikkala tomonni kvadratga ko'tarsak 2x + 55 = 49 ⇒ 2x = -6 ⇒ x = -3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) > 1 irratsional tengsizlikni yeching.",
+      "options": [
+        "[-4; -3)",
+        "[-3; +∞)",
+        "(-3; +∞)",
+        "(-4; -3)"
+      ],
+      "answer": 2,
+      "explain": "x + 4 > 1² ⇒ x > -3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) < 1 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "(-4; -3)",
+        "[-3; +∞)",
+        "[-4; -3)",
+        "(−∞; -3)"
+      ],
+      "answer": 2,
+      "explain": "0 ≤ x + 4 < 1² ⇒ -4 ≤ x < -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 4) = −1 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) > 2 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-4; 0)",
+        "[0; +∞)",
+        "(0; +∞)",
+        "[-4; 0)"
+      ],
+      "answer": 2,
+      "explain": "x + 4 > 2² ⇒ x > 0."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) < 2 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "(-4; 0)",
+        "[0; +∞)",
+        "[-4; 0)",
+        "(−∞; 0)"
+      ],
+      "answer": 2,
+      "explain": "0 ≤ x + 4 < 2² ⇒ -4 ≤ x < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 4) = −2 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) > 3 irratsional tengsizlikni yeching.",
+      "options": [
+        "[-4; 5)",
+        "(-4; 5)",
+        "(5; +∞)",
+        "[5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x + 4 > 3² ⇒ x > 5."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) < 3 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 5)",
+        "(-4; 5)",
+        "[-4; 5)",
+        "[5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "0 ≤ x + 4 < 3² ⇒ -4 ≤ x < 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 4) = −3 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) > 4 irratsional tengsizlikni yeching.",
+      "options": [
+        "(12; +∞)",
+        "(-4; 12)",
+        "[-4; 12)",
+        "[12; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x + 4 > 4² ⇒ x > 12."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) < 4 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "[-4; 12)",
+        "(−∞; 12)",
+        "[12; +∞)",
+        "(-4; 12)"
+      ],
+      "answer": 0,
+      "explain": "0 ≤ x + 4 < 4² ⇒ -4 ≤ x < 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 4) = −4 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) > 5 irratsional tengsizlikni yeching.",
+      "options": [
+        "[-4; 21)",
+        "(21; +∞)",
+        "(-4; 21)",
+        "[21; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x + 4 > 5² ⇒ x > 21."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 4) < 5 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "[21; +∞)",
+        "(-4; 21)",
+        "[-4; 21)",
+        "(−∞; 21)"
+      ],
+      "answer": 2,
+      "explain": "0 ≤ x + 4 < 5² ⇒ -4 ≤ x < 21."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 4) = −5 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 3) > 1 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-2; +∞)",
+        "[-3; -2)",
+        "[-2; +∞)",
+        "(-3; -2)"
+      ],
+      "answer": 0,
+      "explain": "x + 3 > 1² ⇒ x > -2."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 3) < 1 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "(-3; -2)",
+        "(−∞; -2)",
+        "[-2; +∞)",
+        "[-3; -2)"
+      ],
+      "answer": 3,
+      "explain": "0 ≤ x + 3 < 1² ⇒ -3 ≤ x < -2."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 3) = −1 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 3) > 2 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-3; 1)",
+        "(1; +∞)",
+        "[-3; 1)",
+        "[1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x + 3 > 2² ⇒ x > 1."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 3) < 2 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "[-3; 1)",
+        "(−∞; 1)",
+        "[1; +∞)",
+        "(-3; 1)"
+      ],
+      "answer": 0,
+      "explain": "0 ≤ x + 3 < 2² ⇒ -3 ≤ x < 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 3) = −2 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 3) > 3 irratsional tengsizlikni yeching.",
+      "options": [
+        "(6; +∞)",
+        "[-3; 6)",
+        "(-3; 6)",
+        "[6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x + 3 > 3² ⇒ x > 6."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 3) < 3 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "[-3; 6)",
+        "(-3; 6)",
+        "(−∞; 6)",
+        "[6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "0 ≤ x + 3 < 3² ⇒ -3 ≤ x < 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 3) = −3 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 3) > 4 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-3; 13)",
+        "[13; +∞)",
+        "(13; +∞)",
+        "[-3; 13)"
+      ],
+      "answer": 2,
+      "explain": "x + 3 > 4² ⇒ x > 13."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 3) < 4 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "[13; +∞)",
+        "(−∞; 13)",
+        "[-3; 13)",
+        "(-3; 13)"
+      ],
+      "answer": 2,
+      "explain": "0 ≤ x + 3 < 4² ⇒ -3 ≤ x < 13."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 3) = −4 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 3) > 5 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-3; 22)",
+        "[22; +∞)",
+        "[-3; 22)",
+        "(22; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x + 3 > 5² ⇒ x > 22."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 3) < 5 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "(-3; 22)",
+        "[22; +∞)",
+        "[-3; 22)",
+        "(−∞; 22)"
+      ],
+      "answer": 2,
+      "explain": "0 ≤ x + 3 < 5² ⇒ -3 ≤ x < 22."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 3) = −5 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) > 1 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-2; -1)",
+        "[-2; -1)",
+        "(-1; +∞)",
+        "[-1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x + 2 > 1² ⇒ x > -1."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) < 1 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "[-2; -1)",
+        "(−∞; -1)",
+        "[-1; +∞)",
+        "(-2; -1)"
+      ],
+      "answer": 0,
+      "explain": "0 ≤ x + 2 < 1² ⇒ -2 ≤ x < -1."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 2) = −1 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) > 2 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-2; 2)",
+        "(2; +∞)",
+        "[2; +∞)",
+        "[-2; 2)"
+      ],
+      "answer": 1,
+      "explain": "x + 2 > 2² ⇒ x > 2."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) < 2 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "[-2; 2)",
+        "[2; +∞)",
+        "(-2; 2)",
+        "(−∞; 2)"
+      ],
+      "answer": 0,
+      "explain": "0 ≤ x + 2 < 2² ⇒ -2 ≤ x < 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 2) = −2 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) > 3 irratsional tengsizlikni yeching.",
+      "options": [
+        "[-2; 7)",
+        "(7; +∞)",
+        "(-2; 7)",
+        "[7; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x + 2 > 3² ⇒ x > 7."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) < 3 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 7)",
+        "[7; +∞)",
+        "(-2; 7)",
+        "[-2; 7)"
+      ],
+      "answer": 3,
+      "explain": "0 ≤ x + 2 < 3² ⇒ -2 ≤ x < 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 2) = −3 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) > 4 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-2; 14)",
+        "[14; +∞)",
+        "(14; +∞)",
+        "[-2; 14)"
+      ],
+      "answer": 2,
+      "explain": "x + 2 > 4² ⇒ x > 14."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) < 4 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 14)",
+        "(-2; 14)",
+        "[-2; 14)",
+        "[14; +∞)"
+      ],
+      "answer": 2,
+      "explain": "0 ≤ x + 2 < 4² ⇒ -2 ≤ x < 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 2) = −4 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) > 5 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-2; 23)",
+        "(23; +∞)",
+        "[23; +∞)",
+        "[-2; 23)"
+      ],
+      "answer": 1,
+      "explain": "x + 2 > 5² ⇒ x > 23."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 2) < 5 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "[23; +∞)",
+        "[-2; 23)",
+        "(−∞; 23)",
+        "(-2; 23)"
+      ],
+      "answer": 1,
+      "explain": "0 ≤ x + 2 < 5² ⇒ -2 ≤ x < 23."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 2) = −5 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 1) > 1 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-1; 0)",
+        "[-1; 0)",
+        "[0; +∞)",
+        "(0; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x + 1 > 1² ⇒ x > 0."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 1) < 1 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "[0; +∞)",
+        "(-1; 0)",
+        "(−∞; 0)",
+        "[-1; 0)"
+      ],
+      "answer": 3,
+      "explain": "0 ≤ x + 1 < 1² ⇒ -1 ≤ x < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 1) = −1 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 1) > 2 irratsional tengsizlikni yeching.",
+      "options": [
+        "[-1; 3)",
+        "[3; +∞)",
+        "(-1; 3)",
+        "(3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x + 1 > 2² ⇒ x > 3."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 1) < 2 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "[-1; 3)",
+        "[3; +∞)",
+        "(−∞; 3)",
+        "(-1; 3)"
+      ],
+      "answer": 0,
+      "explain": "0 ≤ x + 1 < 2² ⇒ -1 ≤ x < 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 1) = −2 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 1) > 3 irratsional tengsizlikni yeching.",
+      "options": [
+        "[8; +∞)",
+        "(8; +∞)",
+        "[-1; 8)",
+        "(-1; 8)"
+      ],
+      "answer": 1,
+      "explain": "x + 1 > 3² ⇒ x > 8."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 1) < 3 irratsional tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 8)",
+        "[-1; 8)",
+        "(-1; 8)",
+        "[8; +∞)"
+      ],
+      "answer": 1,
+      "explain": "0 ≤ x + 1 < 3² ⇒ -1 ≤ x < 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "√(x + 1) = −3 irratsional tenglama haqiqiy ildizga ega emas.",
+      "answer": true,
+      "explain": "Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "√(x + 1) > 4 irratsional tengsizlikni yeching.",
+      "options": [
+        "(-1; 15)",
+        "(15; +∞)",
+        "[15; +∞)",
+        "[-1; 15)"
+      ],
+      "answer": 1,
+      "explain": "x + 1 > 4² ⇒ x > 15."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Bikvadrat",
+      "ax⁴ + bx² + c = 0 ko'rinishidagi tenglama"
+    ],
+    [
+      "Beruniy",
+      "Doira yuzini S = 3r² taqribiy olgan alloma"
+    ],
+    [
+      "Daraja",
+      "O'zgaruvchi ko'rsatkichi n > 2 bo'lgan had"
+    ],
+    [
+      "Arifmetik",
+      "n-darajali nomanfiy ildiz"
+    ],
+    [
+      "x³ = a tenglama",
+      "Har qanday a ∈ R da yagona yechim x = ∛a"
+    ],
+    [
+      "x²ⁿ = a (a>0)",
+      "Ikkita ildizga ega: x = ±²ⁿ√a"
+    ],
+    [
+      "x²ⁿ = a (a<0)",
+      "Haqiqiy yechimga ega emas"
+    ],
+    [
+      "x² = t almashtirish",
+      "Bikvadrat tenglamani kvadratga keltirish usuli"
+    ],
+    [
+      "|x| < a (a>0)",
+      "−a < x < a qo'sh tengsizlik"
+    ],
+    [
+      "|x| > a (a>0)",
+      "(−∞; −a) ∪ (a; +∞) oraliqlar"
+    ],
+    [
+      "I bob testlari",
+      "Kvadrat funksiya, tengsizlik va xossalari"
+    ],
+    [
+      "(aⁿ)ᵐ = aⁿᵐ",
+      "Darajani darajaga ko'tarish qoidasi"
+    ],
+    [
+      "x³ > a³",
+      "x > a tengsizlikka teng kuchli"
+    ],
+    [
+      "Kub parabola",
+      "y = x³ funksiyaning grafigi"
+    ]
+  ]
+}

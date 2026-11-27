@@ -1,0 +1,3440 @@
+{
+  "id": "g9-uz-algebra-22-trigonometrik-ayniyatlar",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "22-§. Trigonometrik ayniyatlar",
+  "title": "22-§. Trigonometrik ayniyatlar",
+  "source": "Algebra 9-sinf (2019), III bob, 22-§, 117–119-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "sin⁴α − cos⁴α ifodani soddalashtiring.",
+      "options": [
+        "1",
+        "2sin²α",
+        "sin²α + cos²α",
+        "sin²α − cos²α"
+      ],
+      "answer": 3,
+      "explain": "(sin²α − cos²α)(sin²α + cos²α) = (sin²α − cos²α)·1."
+    },
+    {
+      "type": "choice",
+      "q": "(sin α + cos α)² + (sin α − cos α)² ifoda nimaga teng?",
+      "options": [
+        "2",
+        "4sin α cos α",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "(1 + 2sin α cos α) + (1 − 2sin α cos α) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "(1 − cos α)(1 + cos α) ifoda qaysi funksiyaga aynan teng?",
+      "options": [
+        "sin²α",
+        "1",
+        "cos²α",
+        "tg²α"
+      ],
+      "answer": 0,
+      "explain": "1 − cos²α = sin²α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg α · cos α = sin α tenglik cos α ≠ 0 bo'lgan barcha burchaklar uchun ayniyatdir.",
+      "answer": true,
+      "explain": "(sin α / cos α) · cos α = sin α."
+    },
+    {
+      "type": "fill",
+      "q": "2sin²α + 2cos²α ifodaning qiymatini hisoblang.",
+      "answer": "2",
+      "explain": "2(sin²α + cos²α) = 2·1 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "2 − 2sin²α ifoda nimaga teng?",
+      "options": [
+        "2tg²α",
+        "2cos²α",
+        "2sin²α",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "2(1 − sin²α) = 2cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "2tg α · cos α − 2sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "2",
+        "−2",
+        "22sin α"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 2sin α − 2sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "3sin²α + 3cos²α ifodaning qiymatini hisoblang.",
+      "answer": "3",
+      "explain": "3(sin²α + cos²α) = 3·1 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "3 − 3sin²α ifoda nimaga teng?",
+      "options": [
+        "3tg²α",
+        "3",
+        "3cos²α",
+        "3sin²α"
+      ],
+      "answer": 2,
+      "explain": "3(1 − sin²α) = 3cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "3tg α · cos α − 3sin α ifodani soddalashtiring.",
+      "options": [
+        "3",
+        "0",
+        "−3",
+        "23sin α"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 3sin α − 3sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "4sin²α + 4cos²α ifodaning qiymatini hisoblang.",
+      "answer": "4",
+      "explain": "4(sin²α + cos²α) = 4·1 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "4 − 4sin²α ifoda nimaga teng?",
+      "options": [
+        "4sin²α",
+        "4cos²α",
+        "4tg²α",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "4(1 − sin²α) = 4cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "4tg α · cos α − 4sin α ifodani soddalashtiring.",
+      "options": [
+        "−4",
+        "4",
+        "0",
+        "24sin α"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 4sin α − 4sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "5sin²α + 5cos²α ifodaning qiymatini hisoblang.",
+      "answer": "5",
+      "explain": "5(sin²α + cos²α) = 5·1 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "5 − 5sin²α ifoda nimaga teng?",
+      "options": [
+        "5sin²α",
+        "5cos²α",
+        "5",
+        "5tg²α"
+      ],
+      "answer": 1,
+      "explain": "5(1 − sin²α) = 5cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "5tg α · cos α − 5sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "5",
+        "−5",
+        "25sin α"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 5sin α − 5sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "6sin²α + 6cos²α ifodaning qiymatini hisoblang.",
+      "answer": "6",
+      "explain": "6(sin²α + cos²α) = 6·1 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "6 − 6sin²α ifoda nimaga teng?",
+      "options": [
+        "6",
+        "6tg²α",
+        "6cos²α",
+        "6sin²α"
+      ],
+      "answer": 2,
+      "explain": "6(1 − sin²α) = 6cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "6tg α · cos α − 6sin α ifodani soddalashtiring.",
+      "options": [
+        "−6",
+        "0",
+        "6",
+        "26sin α"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 6sin α − 6sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "7sin²α + 7cos²α ifodaning qiymatini hisoblang.",
+      "answer": "7",
+      "explain": "7(sin²α + cos²α) = 7·1 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "7 − 7sin²α ifoda nimaga teng?",
+      "options": [
+        "7sin²α",
+        "7tg²α",
+        "7",
+        "7cos²α"
+      ],
+      "answer": 3,
+      "explain": "7(1 − sin²α) = 7cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "7tg α · cos α − 7sin α ifodani soddalashtiring.",
+      "options": [
+        "7",
+        "−7",
+        "0",
+        "27sin α"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 7sin α − 7sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "8sin²α + 8cos²α ifodaning qiymatini hisoblang.",
+      "answer": "8",
+      "explain": "8(sin²α + cos²α) = 8·1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "8 − 8sin²α ifoda nimaga teng?",
+      "options": [
+        "8cos²α",
+        "8sin²α",
+        "8tg²α",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "8(1 − sin²α) = 8cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "8tg α · cos α − 8sin α ifodani soddalashtiring.",
+      "options": [
+        "8",
+        "0",
+        "−8",
+        "28sin α"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 8sin α − 8sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "9sin²α + 9cos²α ifodaning qiymatini hisoblang.",
+      "answer": "9",
+      "explain": "9(sin²α + cos²α) = 9·1 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "9 − 9sin²α ifoda nimaga teng?",
+      "options": [
+        "9",
+        "9cos²α",
+        "9sin²α",
+        "9tg²α"
+      ],
+      "answer": 1,
+      "explain": "9(1 − sin²α) = 9cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "9tg α · cos α − 9sin α ifodani soddalashtiring.",
+      "options": [
+        "9",
+        "0",
+        "29sin α",
+        "−9"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 9sin α − 9sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "10sin²α + 10cos²α ifodaning qiymatini hisoblang.",
+      "answer": "10",
+      "explain": "10(sin²α + cos²α) = 10·1 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "10 − 10sin²α ifoda nimaga teng?",
+      "options": [
+        "10sin²α",
+        "10cos²α",
+        "10",
+        "10tg²α"
+      ],
+      "answer": 1,
+      "explain": "10(1 − sin²α) = 10cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "10tg α · cos α − 10sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "210sin α",
+        "10",
+        "−10"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 10sin α − 10sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "11sin²α + 11cos²α ifodaning qiymatini hisoblang.",
+      "answer": "11",
+      "explain": "11(sin²α + cos²α) = 11·1 = 11."
+    },
+    {
+      "type": "choice",
+      "q": "11 − 11sin²α ifoda nimaga teng?",
+      "options": [
+        "11cos²α",
+        "11sin²α",
+        "11",
+        "11tg²α"
+      ],
+      "answer": 0,
+      "explain": "11(1 − sin²α) = 11cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "11tg α · cos α − 11sin α ifodani soddalashtiring.",
+      "options": [
+        "11",
+        "0",
+        "−11",
+        "211sin α"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 11sin α − 11sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "12sin²α + 12cos²α ifodaning qiymatini hisoblang.",
+      "answer": "12",
+      "explain": "12(sin²α + cos²α) = 12·1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "12 − 12sin²α ifoda nimaga teng?",
+      "options": [
+        "12tg²α",
+        "12cos²α",
+        "12",
+        "12sin²α"
+      ],
+      "answer": 1,
+      "explain": "12(1 − sin²α) = 12cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "12tg α · cos α − 12sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "12",
+        "212sin α",
+        "−12"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 12sin α − 12sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "13sin²α + 13cos²α ifodaning qiymatini hisoblang.",
+      "answer": "13",
+      "explain": "13(sin²α + cos²α) = 13·1 = 13."
+    },
+    {
+      "type": "choice",
+      "q": "13 − 13sin²α ifoda nimaga teng?",
+      "options": [
+        "13cos²α",
+        "13",
+        "13sin²α",
+        "13tg²α"
+      ],
+      "answer": 0,
+      "explain": "13(1 − sin²α) = 13cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "13tg α · cos α − 13sin α ifodani soddalashtiring.",
+      "options": [
+        "13",
+        "213sin α",
+        "−13",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 13sin α − 13sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "14sin²α + 14cos²α ifodaning qiymatini hisoblang.",
+      "answer": "14",
+      "explain": "14(sin²α + cos²α) = 14·1 = 14."
+    },
+    {
+      "type": "choice",
+      "q": "14 − 14sin²α ifoda nimaga teng?",
+      "options": [
+        "14cos²α",
+        "14",
+        "14tg²α",
+        "14sin²α"
+      ],
+      "answer": 0,
+      "explain": "14(1 − sin²α) = 14cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "14tg α · cos α − 14sin α ifodani soddalashtiring.",
+      "options": [
+        "14",
+        "−14",
+        "0",
+        "214sin α"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 14sin α − 14sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "15sin²α + 15cos²α ifodaning qiymatini hisoblang.",
+      "answer": "15",
+      "explain": "15(sin²α + cos²α) = 15·1 = 15."
+    },
+    {
+      "type": "choice",
+      "q": "15 − 15sin²α ifoda nimaga teng?",
+      "options": [
+        "15tg²α",
+        "15cos²α",
+        "15",
+        "15sin²α"
+      ],
+      "answer": 1,
+      "explain": "15(1 − sin²α) = 15cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "15tg α · cos α − 15sin α ifodani soddalashtiring.",
+      "options": [
+        "−15",
+        "0",
+        "15",
+        "215sin α"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 15sin α − 15sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "16sin²α + 16cos²α ifodaning qiymatini hisoblang.",
+      "answer": "16",
+      "explain": "16(sin²α + cos²α) = 16·1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "16 − 16sin²α ifoda nimaga teng?",
+      "options": [
+        "16tg²α",
+        "16",
+        "16sin²α",
+        "16cos²α"
+      ],
+      "answer": 3,
+      "explain": "16(1 − sin²α) = 16cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "16tg α · cos α − 16sin α ifodani soddalashtiring.",
+      "options": [
+        "16",
+        "0",
+        "−16",
+        "216sin α"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 16sin α − 16sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "17sin²α + 17cos²α ifodaning qiymatini hisoblang.",
+      "answer": "17",
+      "explain": "17(sin²α + cos²α) = 17·1 = 17."
+    },
+    {
+      "type": "choice",
+      "q": "17 − 17sin²α ifoda nimaga teng?",
+      "options": [
+        "17tg²α",
+        "17sin²α",
+        "17",
+        "17cos²α"
+      ],
+      "answer": 3,
+      "explain": "17(1 − sin²α) = 17cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "17tg α · cos α − 17sin α ifodani soddalashtiring.",
+      "options": [
+        "17",
+        "0",
+        "217sin α",
+        "−17"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 17sin α − 17sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "18sin²α + 18cos²α ifodaning qiymatini hisoblang.",
+      "answer": "18",
+      "explain": "18(sin²α + cos²α) = 18·1 = 18."
+    },
+    {
+      "type": "choice",
+      "q": "18 − 18sin²α ifoda nimaga teng?",
+      "options": [
+        "18cos²α",
+        "18",
+        "18sin²α",
+        "18tg²α"
+      ],
+      "answer": 0,
+      "explain": "18(1 − sin²α) = 18cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "18tg α · cos α − 18sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "−18",
+        "18",
+        "218sin α"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 18sin α − 18sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "19sin²α + 19cos²α ifodaning qiymatini hisoblang.",
+      "answer": "19",
+      "explain": "19(sin²α + cos²α) = 19·1 = 19."
+    },
+    {
+      "type": "choice",
+      "q": "19 − 19sin²α ifoda nimaga teng?",
+      "options": [
+        "19cos²α",
+        "19tg²α",
+        "19sin²α",
+        "19"
+      ],
+      "answer": 0,
+      "explain": "19(1 − sin²α) = 19cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "19tg α · cos α − 19sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "219sin α",
+        "19",
+        "−19"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 19sin α − 19sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "20sin²α + 20cos²α ifodaning qiymatini hisoblang.",
+      "answer": "20",
+      "explain": "20(sin²α + cos²α) = 20·1 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "20 − 20sin²α ifoda nimaga teng?",
+      "options": [
+        "20",
+        "20sin²α",
+        "20tg²α",
+        "20cos²α"
+      ],
+      "answer": 3,
+      "explain": "20(1 − sin²α) = 20cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "20tg α · cos α − 20sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "−20",
+        "20",
+        "220sin α"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 20sin α − 20sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "21sin²α + 21cos²α ifodaning qiymatini hisoblang.",
+      "answer": "21",
+      "explain": "21(sin²α + cos²α) = 21·1 = 21."
+    },
+    {
+      "type": "choice",
+      "q": "21 − 21sin²α ifoda nimaga teng?",
+      "options": [
+        "21sin²α",
+        "21tg²α",
+        "21cos²α",
+        "21"
+      ],
+      "answer": 2,
+      "explain": "21(1 − sin²α) = 21cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "21tg α · cos α − 21sin α ifodani soddalashtiring.",
+      "options": [
+        "221sin α",
+        "−21",
+        "21",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 21sin α − 21sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "22sin²α + 22cos²α ifodaning qiymatini hisoblang.",
+      "answer": "22",
+      "explain": "22(sin²α + cos²α) = 22·1 = 22."
+    },
+    {
+      "type": "choice",
+      "q": "22 − 22sin²α ifoda nimaga teng?",
+      "options": [
+        "22",
+        "22cos²α",
+        "22tg²α",
+        "22sin²α"
+      ],
+      "answer": 1,
+      "explain": "22(1 − sin²α) = 22cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "22tg α · cos α − 22sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "22",
+        "222sin α",
+        "−22"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 22sin α − 22sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "23sin²α + 23cos²α ifodaning qiymatini hisoblang.",
+      "answer": "23",
+      "explain": "23(sin²α + cos²α) = 23·1 = 23."
+    },
+    {
+      "type": "choice",
+      "q": "23 − 23sin²α ifoda nimaga teng?",
+      "options": [
+        "23",
+        "23sin²α",
+        "23cos²α",
+        "23tg²α"
+      ],
+      "answer": 2,
+      "explain": "23(1 − sin²α) = 23cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "23tg α · cos α − 23sin α ifodani soddalashtiring.",
+      "options": [
+        "23",
+        "−23",
+        "223sin α",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 23sin α − 23sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "24sin²α + 24cos²α ifodaning qiymatini hisoblang.",
+      "answer": "24",
+      "explain": "24(sin²α + cos²α) = 24·1 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "24 − 24sin²α ifoda nimaga teng?",
+      "options": [
+        "24cos²α",
+        "24",
+        "24tg²α",
+        "24sin²α"
+      ],
+      "answer": 0,
+      "explain": "24(1 − sin²α) = 24cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "24tg α · cos α − 24sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "224sin α",
+        "24",
+        "−24"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 24sin α − 24sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "25sin²α + 25cos²α ifodaning qiymatini hisoblang.",
+      "answer": "25",
+      "explain": "25(sin²α + cos²α) = 25·1 = 25."
+    },
+    {
+      "type": "choice",
+      "q": "25 − 25sin²α ifoda nimaga teng?",
+      "options": [
+        "25tg²α",
+        "25sin²α",
+        "25cos²α",
+        "25"
+      ],
+      "answer": 2,
+      "explain": "25(1 − sin²α) = 25cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "25tg α · cos α − 25sin α ifodani soddalashtiring.",
+      "options": [
+        "225sin α",
+        "−25",
+        "25",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 25sin α − 25sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "26sin²α + 26cos²α ifodaning qiymatini hisoblang.",
+      "answer": "26",
+      "explain": "26(sin²α + cos²α) = 26·1 = 26."
+    },
+    {
+      "type": "choice",
+      "q": "26 − 26sin²α ifoda nimaga teng?",
+      "options": [
+        "26",
+        "26cos²α",
+        "26sin²α",
+        "26tg²α"
+      ],
+      "answer": 1,
+      "explain": "26(1 − sin²α) = 26cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "26tg α · cos α − 26sin α ifodani soddalashtiring.",
+      "options": [
+        "226sin α",
+        "−26",
+        "0",
+        "26"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 26sin α − 26sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "27sin²α + 27cos²α ifodaning qiymatini hisoblang.",
+      "answer": "27",
+      "explain": "27(sin²α + cos²α) = 27·1 = 27."
+    },
+    {
+      "type": "choice",
+      "q": "27 − 27sin²α ifoda nimaga teng?",
+      "options": [
+        "27",
+        "27sin²α",
+        "27tg²α",
+        "27cos²α"
+      ],
+      "answer": 3,
+      "explain": "27(1 − sin²α) = 27cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "27tg α · cos α − 27sin α ifodani soddalashtiring.",
+      "options": [
+        "27",
+        "227sin α",
+        "−27",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 27sin α − 27sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "28sin²α + 28cos²α ifodaning qiymatini hisoblang.",
+      "answer": "28",
+      "explain": "28(sin²α + cos²α) = 28·1 = 28."
+    },
+    {
+      "type": "choice",
+      "q": "28 − 28sin²α ifoda nimaga teng?",
+      "options": [
+        "28sin²α",
+        "28cos²α",
+        "28tg²α",
+        "28"
+      ],
+      "answer": 1,
+      "explain": "28(1 − sin²α) = 28cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "28tg α · cos α − 28sin α ifodani soddalashtiring.",
+      "options": [
+        "−28",
+        "28",
+        "228sin α",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 28sin α − 28sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "29sin²α + 29cos²α ifodaning qiymatini hisoblang.",
+      "answer": "29",
+      "explain": "29(sin²α + cos²α) = 29·1 = 29."
+    },
+    {
+      "type": "choice",
+      "q": "29 − 29sin²α ifoda nimaga teng?",
+      "options": [
+        "29cos²α",
+        "29",
+        "29sin²α",
+        "29tg²α"
+      ],
+      "answer": 0,
+      "explain": "29(1 − sin²α) = 29cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "29tg α · cos α − 29sin α ifodani soddalashtiring.",
+      "options": [
+        "29",
+        "229sin α",
+        "−29",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 29sin α − 29sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "30sin²α + 30cos²α ifodaning qiymatini hisoblang.",
+      "answer": "30",
+      "explain": "30(sin²α + cos²α) = 30·1 = 30."
+    },
+    {
+      "type": "choice",
+      "q": "30 − 30sin²α ifoda nimaga teng?",
+      "options": [
+        "30cos²α",
+        "30",
+        "30sin²α",
+        "30tg²α"
+      ],
+      "answer": 0,
+      "explain": "30(1 − sin²α) = 30cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "30tg α · cos α − 30sin α ifodani soddalashtiring.",
+      "options": [
+        "230sin α",
+        "0",
+        "−30",
+        "30"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 30sin α − 30sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "31sin²α + 31cos²α ifodaning qiymatini hisoblang.",
+      "answer": "31",
+      "explain": "31(sin²α + cos²α) = 31·1 = 31."
+    },
+    {
+      "type": "choice",
+      "q": "31 − 31sin²α ifoda nimaga teng?",
+      "options": [
+        "31sin²α",
+        "31cos²α",
+        "31tg²α",
+        "31"
+      ],
+      "answer": 1,
+      "explain": "31(1 − sin²α) = 31cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "31tg α · cos α − 31sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "31",
+        "−31",
+        "231sin α"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 31sin α − 31sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "32sin²α + 32cos²α ifodaning qiymatini hisoblang.",
+      "answer": "32",
+      "explain": "32(sin²α + cos²α) = 32·1 = 32."
+    },
+    {
+      "type": "choice",
+      "q": "32 − 32sin²α ifoda nimaga teng?",
+      "options": [
+        "32cos²α",
+        "32tg²α",
+        "32",
+        "32sin²α"
+      ],
+      "answer": 0,
+      "explain": "32(1 − sin²α) = 32cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "32tg α · cos α − 32sin α ifodani soddalashtiring.",
+      "options": [
+        "32",
+        "232sin α",
+        "−32",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 32sin α − 32sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "33sin²α + 33cos²α ifodaning qiymatini hisoblang.",
+      "answer": "33",
+      "explain": "33(sin²α + cos²α) = 33·1 = 33."
+    },
+    {
+      "type": "choice",
+      "q": "33 − 33sin²α ifoda nimaga teng?",
+      "options": [
+        "33sin²α",
+        "33cos²α",
+        "33",
+        "33tg²α"
+      ],
+      "answer": 1,
+      "explain": "33(1 − sin²α) = 33cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "33tg α · cos α − 33sin α ifodani soddalashtiring.",
+      "options": [
+        "33",
+        "233sin α",
+        "0",
+        "−33"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 33sin α − 33sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "34sin²α + 34cos²α ifodaning qiymatini hisoblang.",
+      "answer": "34",
+      "explain": "34(sin²α + cos²α) = 34·1 = 34."
+    },
+    {
+      "type": "choice",
+      "q": "34 − 34sin²α ifoda nimaga teng?",
+      "options": [
+        "34tg²α",
+        "34sin²α",
+        "34",
+        "34cos²α"
+      ],
+      "answer": 3,
+      "explain": "34(1 − sin²α) = 34cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "34tg α · cos α − 34sin α ifodani soddalashtiring.",
+      "options": [
+        "34",
+        "−34",
+        "234sin α",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 34sin α − 34sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "35sin²α + 35cos²α ifodaning qiymatini hisoblang.",
+      "answer": "35",
+      "explain": "35(sin²α + cos²α) = 35·1 = 35."
+    },
+    {
+      "type": "choice",
+      "q": "35 − 35sin²α ifoda nimaga teng?",
+      "options": [
+        "35",
+        "35tg²α",
+        "35sin²α",
+        "35cos²α"
+      ],
+      "answer": 3,
+      "explain": "35(1 − sin²α) = 35cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "35tg α · cos α − 35sin α ifodani soddalashtiring.",
+      "options": [
+        "35",
+        "235sin α",
+        "−35",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 35sin α − 35sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "36sin²α + 36cos²α ifodaning qiymatini hisoblang.",
+      "answer": "36",
+      "explain": "36(sin²α + cos²α) = 36·1 = 36."
+    },
+    {
+      "type": "choice",
+      "q": "36 − 36sin²α ifoda nimaga teng?",
+      "options": [
+        "36sin²α",
+        "36cos²α",
+        "36tg²α",
+        "36"
+      ],
+      "answer": 1,
+      "explain": "36(1 − sin²α) = 36cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "36tg α · cos α − 36sin α ifodani soddalashtiring.",
+      "options": [
+        "236sin α",
+        "−36",
+        "0",
+        "36"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 36sin α − 36sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "37sin²α + 37cos²α ifodaning qiymatini hisoblang.",
+      "answer": "37",
+      "explain": "37(sin²α + cos²α) = 37·1 = 37."
+    },
+    {
+      "type": "choice",
+      "q": "37 − 37sin²α ifoda nimaga teng?",
+      "options": [
+        "37",
+        "37tg²α",
+        "37cos²α",
+        "37sin²α"
+      ],
+      "answer": 2,
+      "explain": "37(1 − sin²α) = 37cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "37tg α · cos α − 37sin α ifodani soddalashtiring.",
+      "options": [
+        "237sin α",
+        "37",
+        "0",
+        "−37"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 37sin α − 37sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "38sin²α + 38cos²α ifodaning qiymatini hisoblang.",
+      "answer": "38",
+      "explain": "38(sin²α + cos²α) = 38·1 = 38."
+    },
+    {
+      "type": "choice",
+      "q": "38 − 38sin²α ifoda nimaga teng?",
+      "options": [
+        "38sin²α",
+        "38cos²α",
+        "38tg²α",
+        "38"
+      ],
+      "answer": 1,
+      "explain": "38(1 − sin²α) = 38cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "38tg α · cos α − 38sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "−38",
+        "238sin α",
+        "38"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 38sin α − 38sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "39sin²α + 39cos²α ifodaning qiymatini hisoblang.",
+      "answer": "39",
+      "explain": "39(sin²α + cos²α) = 39·1 = 39."
+    },
+    {
+      "type": "choice",
+      "q": "39 − 39sin²α ifoda nimaga teng?",
+      "options": [
+        "39cos²α",
+        "39",
+        "39tg²α",
+        "39sin²α"
+      ],
+      "answer": 0,
+      "explain": "39(1 − sin²α) = 39cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "39tg α · cos α − 39sin α ifodani soddalashtiring.",
+      "options": [
+        "−39",
+        "239sin α",
+        "39",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 39sin α − 39sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "40sin²α + 40cos²α ifodaning qiymatini hisoblang.",
+      "answer": "40",
+      "explain": "40(sin²α + cos²α) = 40·1 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "40 − 40sin²α ifoda nimaga teng?",
+      "options": [
+        "40tg²α",
+        "40cos²α",
+        "40sin²α",
+        "40"
+      ],
+      "answer": 1,
+      "explain": "40(1 − sin²α) = 40cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "40tg α · cos α − 40sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "−40",
+        "40",
+        "240sin α"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 40sin α − 40sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "41sin²α + 41cos²α ifodaning qiymatini hisoblang.",
+      "answer": "41",
+      "explain": "41(sin²α + cos²α) = 41·1 = 41."
+    },
+    {
+      "type": "choice",
+      "q": "41 − 41sin²α ifoda nimaga teng?",
+      "options": [
+        "41",
+        "41sin²α",
+        "41cos²α",
+        "41tg²α"
+      ],
+      "answer": 2,
+      "explain": "41(1 − sin²α) = 41cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "41tg α · cos α − 41sin α ifodani soddalashtiring.",
+      "options": [
+        "−41",
+        "241sin α",
+        "0",
+        "41"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 41sin α − 41sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "42sin²α + 42cos²α ifodaning qiymatini hisoblang.",
+      "answer": "42",
+      "explain": "42(sin²α + cos²α) = 42·1 = 42."
+    },
+    {
+      "type": "choice",
+      "q": "42 − 42sin²α ifoda nimaga teng?",
+      "options": [
+        "42cos²α",
+        "42",
+        "42sin²α",
+        "42tg²α"
+      ],
+      "answer": 0,
+      "explain": "42(1 − sin²α) = 42cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "42tg α · cos α − 42sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "242sin α",
+        "−42",
+        "42"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 42sin α − 42sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "43sin²α + 43cos²α ifodaning qiymatini hisoblang.",
+      "answer": "43",
+      "explain": "43(sin²α + cos²α) = 43·1 = 43."
+    },
+    {
+      "type": "choice",
+      "q": "43 − 43sin²α ifoda nimaga teng?",
+      "options": [
+        "43cos²α",
+        "43tg²α",
+        "43sin²α",
+        "43"
+      ],
+      "answer": 0,
+      "explain": "43(1 − sin²α) = 43cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "43tg α · cos α − 43sin α ifodani soddalashtiring.",
+      "options": [
+        "−43",
+        "43",
+        "0",
+        "243sin α"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 43sin α − 43sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "44sin²α + 44cos²α ifodaning qiymatini hisoblang.",
+      "answer": "44",
+      "explain": "44(sin²α + cos²α) = 44·1 = 44."
+    },
+    {
+      "type": "choice",
+      "q": "44 − 44sin²α ifoda nimaga teng?",
+      "options": [
+        "44cos²α",
+        "44",
+        "44sin²α",
+        "44tg²α"
+      ],
+      "answer": 0,
+      "explain": "44(1 − sin²α) = 44cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "44tg α · cos α − 44sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "244sin α",
+        "44",
+        "−44"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 44sin α − 44sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "45sin²α + 45cos²α ifodaning qiymatini hisoblang.",
+      "answer": "45",
+      "explain": "45(sin²α + cos²α) = 45·1 = 45."
+    },
+    {
+      "type": "choice",
+      "q": "45 − 45sin²α ifoda nimaga teng?",
+      "options": [
+        "45cos²α",
+        "45tg²α",
+        "45",
+        "45sin²α"
+      ],
+      "answer": 0,
+      "explain": "45(1 − sin²α) = 45cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "45tg α · cos α − 45sin α ifodani soddalashtiring.",
+      "options": [
+        "45",
+        "245sin α",
+        "0",
+        "−45"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 45sin α − 45sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "46sin²α + 46cos²α ifodaning qiymatini hisoblang.",
+      "answer": "46",
+      "explain": "46(sin²α + cos²α) = 46·1 = 46."
+    },
+    {
+      "type": "choice",
+      "q": "46 − 46sin²α ifoda nimaga teng?",
+      "options": [
+        "46tg²α",
+        "46cos²α",
+        "46sin²α",
+        "46"
+      ],
+      "answer": 1,
+      "explain": "46(1 − sin²α) = 46cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "46tg α · cos α − 46sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "246sin α",
+        "46",
+        "−46"
+      ],
+      "answer": 0,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 46sin α − 46sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "47sin²α + 47cos²α ifodaning qiymatini hisoblang.",
+      "answer": "47",
+      "explain": "47(sin²α + cos²α) = 47·1 = 47."
+    },
+    {
+      "type": "choice",
+      "q": "47 − 47sin²α ifoda nimaga teng?",
+      "options": [
+        "47tg²α",
+        "47sin²α",
+        "47",
+        "47cos²α"
+      ],
+      "answer": 3,
+      "explain": "47(1 − sin²α) = 47cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "47tg α · cos α − 47sin α ifodani soddalashtiring.",
+      "options": [
+        "47",
+        "247sin α",
+        "−47",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 47sin α − 47sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "48sin²α + 48cos²α ifodaning qiymatini hisoblang.",
+      "answer": "48",
+      "explain": "48(sin²α + cos²α) = 48·1 = 48."
+    },
+    {
+      "type": "choice",
+      "q": "48 − 48sin²α ifoda nimaga teng?",
+      "options": [
+        "48sin²α",
+        "48tg²α",
+        "48",
+        "48cos²α"
+      ],
+      "answer": 3,
+      "explain": "48(1 − sin²α) = 48cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "48tg α · cos α − 48sin α ifodani soddalashtiring.",
+      "options": [
+        "48",
+        "0",
+        "248sin α",
+        "−48"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 48sin α − 48sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "49sin²α + 49cos²α ifodaning qiymatini hisoblang.",
+      "answer": "49",
+      "explain": "49(sin²α + cos²α) = 49·1 = 49."
+    },
+    {
+      "type": "choice",
+      "q": "49 − 49sin²α ifoda nimaga teng?",
+      "options": [
+        "49sin²α",
+        "49cos²α",
+        "49",
+        "49tg²α"
+      ],
+      "answer": 1,
+      "explain": "49(1 − sin²α) = 49cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "49tg α · cos α − 49sin α ifodani soddalashtiring.",
+      "options": [
+        "−49",
+        "249sin α",
+        "0",
+        "49"
+      ],
+      "answer": 2,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 49sin α − 49sin α = 0."
+    },
+    {
+      "type": "fill",
+      "q": "50sin²α + 50cos²α ifodaning qiymatini hisoblang.",
+      "answer": "50",
+      "explain": "50(sin²α + cos²α) = 50·1 = 50."
+    },
+    {
+      "type": "choice",
+      "q": "50 − 50sin²α ifoda nimaga teng?",
+      "options": [
+        "50sin²α",
+        "50",
+        "50cos²α",
+        "50tg²α"
+      ],
+      "answer": 2,
+      "explain": "50(1 − sin²α) = 50cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "50tg α · cos α − 50sin α ifodani soddalashtiring.",
+      "options": [
+        "50",
+        "0",
+        "250sin α",
+        "−50"
+      ],
+      "answer": 1,
+      "explain": "tg α · cos α = sin α bo'lgani uchun 50sin α − 50sin α = 0."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/2 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "−1/2",
+        "1/4",
+        "1/2",
+        "-3/8"
+      ],
+      "answer": 3,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (1/2)² − 1, demak sin α cos α = -3/8."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 1/2 tenglik bajarilganda sin α · cos α = -3/8 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((1/2)² − 1)/2 = -3/8."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/3 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "-4/9",
+        "1/4",
+        "−1/2",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (1/3)² − 1, demak sin α cos α = -4/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 1/3 tenglik bajarilganda sin α · cos α = -4/9 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((1/3)² − 1)/2 = -4/9."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 2/3 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "-5/18",
+        "1/4",
+        "1/2",
+        "−1/2"
+      ],
+      "answer": 0,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (2/3)² − 1, demak sin α cos α = -5/18."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 2/3 tenglik bajarilganda sin α · cos α = -5/18 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((2/3)² − 1)/2 = -5/18."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/4 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "-15/32",
+        "1/4",
+        "1/2",
+        "−1/2"
+      ],
+      "answer": 0,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (1/4)² − 1, demak sin α cos α = -15/32."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 1/4 tenglik bajarilganda sin α · cos α = -15/32 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((1/4)² − 1)/2 = -15/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 3/4 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/4",
+        "-7/32",
+        "1/2",
+        "−1/2"
+      ],
+      "answer": 1,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (3/4)² − 1, demak sin α cos α = -7/32."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 3/4 tenglik bajarilganda sin α · cos α = -7/32 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((3/4)² − 1)/2 = -7/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1/5 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/2",
+        "−1/2",
+        "-12/25",
+        "1/4"
+      ],
+      "answer": 2,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (1/5)² − 1, demak sin α cos α = -12/25."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 1/5 tenglik bajarilganda sin α · cos α = -12/25 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((1/5)² − 1)/2 = -12/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 3/5 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "-8/25",
+        "−1/2",
+        "1/4",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (3/5)² − 1, demak sin α cos α = -8/25."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 3/5 tenglik bajarilganda sin α · cos α = -8/25 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((3/5)² − 1)/2 = -8/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 4/5 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "-9/50",
+        "1/2",
+        "1/4",
+        "−1/2"
+      ],
+      "answer": 0,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (4/5)² − 1, demak sin α cos α = -9/50."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 4/5 tenglik bajarilganda sin α · cos α = -9/50 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((4/5)² − 1)/2 = -9/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 6/5 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "11/50",
+        "1/2",
+        "−1/2",
+        "1/4"
+      ],
+      "answer": 0,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (6/5)² − 1, demak sin α cos α = 11/50."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 6/5 tenglik bajarilganda sin α · cos α = 11/50 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((6/5)² − 1)/2 = 11/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 7/5 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "12/25",
+        "1/4",
+        "−1/2",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (7/5)² − 1, demak sin α cos α = 12/25."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 7/5 tenglik bajarilganda sin α · cos α = 12/25 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((7/5)² − 1)/2 = 12/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 0 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/2",
+        "1/4",
+        "−1/2",
+        "-1/2"
+      ],
+      "answer": 3,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (0)² − 1, demak sin α cos α = -1/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 0 tenglik bajarilganda sin α · cos α = -1/2 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((0)² − 1)/2 = -1/2."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α + cos α = 1 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/4",
+        "0",
+        "1/2",
+        "−1/2"
+      ],
+      "answer": 1,
+      "explain": "(sin α + cos α)² = 1 + 2sin α cos α dan 2sin α cos α = (1)² − 1, demak sin α cos α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α + cos α = 1 tenglik bajarilganda sin α · cos α = 0 bo'ladi.",
+      "answer": true,
+      "explain": "Kvadratga ko'tarish orqali sin α cos α = ((1)² − 1)/2 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "2·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "(1 − sin α)(1 + sin α) + sin²α = 1 tenglik barcha α lar uchun ayniyatdir.",
+      "answer": true,
+      "explain": "(1 − sin²α) + sin²α = cos²α + sin²α = 1."
+    },
+    {
+      "type": "choice",
+      "q": "3·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 3."
+    },
+    {
+      "type": "choice",
+      "q": "4·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "4",
+        "5",
+        "8",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 4."
+    },
+    {
+      "type": "choice",
+      "q": "5·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "10",
+        "5",
+        "0",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 5."
+    },
+    {
+      "type": "choice",
+      "q": "6·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "12",
+        "1",
+        "7",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 6."
+    },
+    {
+      "type": "choice",
+      "q": "7·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "7",
+        "6",
+        "0",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 7."
+    },
+    {
+      "type": "choice",
+      "q": "8·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "1",
+        "9",
+        "16",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 8."
+    },
+    {
+      "type": "choice",
+      "q": "9·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "0",
+        "8",
+        "18",
+        "9"
+      ],
+      "answer": 3,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 9."
+    },
+    {
+      "type": "choice",
+      "q": "10·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "20",
+        "1",
+        "11",
+        "10"
+      ],
+      "answer": 3,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 10."
+    },
+    {
+      "type": "choice",
+      "q": "11·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "22",
+        "10",
+        "0",
+        "11"
+      ],
+      "answer": 3,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 11."
+    },
+    {
+      "type": "choice",
+      "q": "12·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "13",
+        "1",
+        "24",
+        "12"
+      ],
+      "answer": 3,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 12."
+    },
+    {
+      "type": "choice",
+      "q": "13·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "13",
+        "0",
+        "12",
+        "26"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 13."
+    },
+    {
+      "type": "choice",
+      "q": "14·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "15",
+        "1",
+        "14",
+        "28"
+      ],
+      "answer": 2,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 14."
+    },
+    {
+      "type": "choice",
+      "q": "15·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "15",
+        "14",
+        "0",
+        "30"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 15."
+    },
+    {
+      "type": "choice",
+      "q": "16·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "16",
+        "17",
+        "32",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 16."
+    },
+    {
+      "type": "choice",
+      "q": "17·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "17",
+        "16",
+        "34",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 17."
+    },
+    {
+      "type": "choice",
+      "q": "18·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "19",
+        "18",
+        "36",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 18."
+    },
+    {
+      "type": "choice",
+      "q": "19·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "0",
+        "18",
+        "38",
+        "19"
+      ],
+      "answer": 3,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 19."
+    },
+    {
+      "type": "choice",
+      "q": "20·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "40",
+        "1",
+        "20",
+        "21"
+      ],
+      "answer": 2,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 20."
+    },
+    {
+      "type": "choice",
+      "q": "21·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "21",
+        "0",
+        "20",
+        "42"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 21."
+    },
+    {
+      "type": "choice",
+      "q": "22·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "22",
+        "1",
+        "44",
+        "23"
+      ],
+      "answer": 0,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 22."
+    },
+    {
+      "type": "choice",
+      "q": "23·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "23",
+        "46",
+        "22",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 23."
+    },
+    {
+      "type": "choice",
+      "q": "24·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "1",
+        "24",
+        "25",
+        "48"
+      ],
+      "answer": 1,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 24."
+    },
+    {
+      "type": "choice",
+      "q": "25·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "0",
+        "50",
+        "25",
+        "24"
+      ],
+      "answer": 2,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 25."
+    },
+    {
+      "type": "choice",
+      "q": "26·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "1",
+        "52",
+        "27",
+        "26"
+      ],
+      "answer": 3,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 26."
+    },
+    {
+      "type": "choice",
+      "q": "27·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "27",
+        "26",
+        "0",
+        "54"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 27."
+    },
+    {
+      "type": "choice",
+      "q": "28·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "56",
+        "28",
+        "1",
+        "29"
+      ],
+      "answer": 1,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 28."
+    },
+    {
+      "type": "choice",
+      "q": "29·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "29",
+        "0",
+        "28",
+        "58"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 29."
+    },
+    {
+      "type": "choice",
+      "q": "30·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "60",
+        "31",
+        "1",
+        "30"
+      ],
+      "answer": 3,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 30."
+    },
+    {
+      "type": "choice",
+      "q": "31·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "62",
+        "31",
+        "30",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 31."
+    },
+    {
+      "type": "choice",
+      "q": "32·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "64",
+        "1",
+        "32",
+        "33"
+      ],
+      "answer": 2,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 32."
+    },
+    {
+      "type": "choice",
+      "q": "33·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "66",
+        "0",
+        "33",
+        "32"
+      ],
+      "answer": 2,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 33."
+    },
+    {
+      "type": "choice",
+      "q": "34·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "35",
+        "1",
+        "34",
+        "68"
+      ],
+      "answer": 2,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 34."
+    },
+    {
+      "type": "choice",
+      "q": "35·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "34",
+        "70",
+        "0",
+        "35"
+      ],
+      "answer": 3,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 35."
+    },
+    {
+      "type": "choice",
+      "q": "36·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "72",
+        "1",
+        "36",
+        "37"
+      ],
+      "answer": 2,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 36."
+    },
+    {
+      "type": "choice",
+      "q": "37·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "37",
+        "0",
+        "74",
+        "36"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 37."
+    },
+    {
+      "type": "choice",
+      "q": "38·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "39",
+        "76",
+        "1",
+        "38"
+      ],
+      "answer": 3,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 38."
+    },
+    {
+      "type": "choice",
+      "q": "39·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "38",
+        "78",
+        "39",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 39."
+    },
+    {
+      "type": "choice",
+      "q": "40·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "80",
+        "40",
+        "41",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 40."
+    },
+    {
+      "type": "choice",
+      "q": "41·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "40",
+        "0",
+        "41",
+        "82"
+      ],
+      "answer": 2,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 41."
+    },
+    {
+      "type": "choice",
+      "q": "42·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "1",
+        "42",
+        "84",
+        "43"
+      ],
+      "answer": 1,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 42."
+    },
+    {
+      "type": "choice",
+      "q": "43·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "86",
+        "42",
+        "0",
+        "43"
+      ],
+      "answer": 3,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 43."
+    },
+    {
+      "type": "choice",
+      "q": "44·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "45",
+        "1",
+        "44",
+        "88"
+      ],
+      "answer": 2,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 44."
+    },
+    {
+      "type": "choice",
+      "q": "45·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "45",
+        "0",
+        "44",
+        "90"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 45."
+    },
+    {
+      "type": "choice",
+      "q": "46·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "47",
+        "1",
+        "92",
+        "46"
+      ],
+      "answer": 3,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 46."
+    },
+    {
+      "type": "choice",
+      "q": "47·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "94",
+        "47",
+        "0",
+        "46"
+      ],
+      "answer": 1,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 47."
+    },
+    {
+      "type": "choice",
+      "q": "48·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "96",
+        "48",
+        "1",
+        "49"
+      ],
+      "answer": 1,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 48."
+    },
+    {
+      "type": "choice",
+      "q": "49·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "49",
+        "98",
+        "48",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 49."
+    },
+    {
+      "type": "choice",
+      "q": "50·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "100",
+        "50",
+        "1",
+        "51"
+      ],
+      "answer": 1,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 50."
+    },
+    {
+      "type": "choice",
+      "q": "51·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "0",
+        "51",
+        "102",
+        "50"
+      ],
+      "answer": 1,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 51."
+    },
+    {
+      "type": "choice",
+      "q": "52·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "104",
+        "53",
+        "1",
+        "52"
+      ],
+      "answer": 3,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 52."
+    },
+    {
+      "type": "choice",
+      "q": "53·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "53",
+        "0",
+        "52",
+        "106"
+      ],
+      "answer": 0,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 53."
+    },
+    {
+      "type": "choice",
+      "q": "54·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "54",
+        "55",
+        "1",
+        "108"
+      ],
+      "answer": 0,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 54."
+    },
+    {
+      "type": "choice",
+      "q": "55·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "110",
+        "55",
+        "54",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 55."
+    },
+    {
+      "type": "choice",
+      "q": "56·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "56",
+        "57",
+        "1",
+        "112"
+      ],
+      "answer": 0,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 56."
+    },
+    {
+      "type": "choice",
+      "q": "57·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "0",
+        "57",
+        "114",
+        "56"
+      ],
+      "answer": 1,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 57."
+    },
+    {
+      "type": "choice",
+      "q": "58·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "58",
+        "116",
+        "59",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 58."
+    },
+    {
+      "type": "choice",
+      "q": "59·(1 + ctg²α)·sin²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "0",
+        "59",
+        "118",
+        "58"
+      ],
+      "answer": 1,
+      "explain": "(1 + ctg²α)·sin²α = (1/sin²α)·sin²α = 1 ⇒ javob 59."
+    },
+    {
+      "type": "choice",
+      "q": "60·(1 + tg²α)·cos²α ifodaning qiymatini toping (cos α ≠ 0).",
+      "options": [
+        "61",
+        "60",
+        "120",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "(1 + tg²α)·cos²α = (1/cos²α)·cos²α = 1 ⇒ javob 60."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/2 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/4",
+        "3/8",
+        "1/2",
+        "−1/2"
+      ],
+      "answer": 1,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (1/2)²)/2 = 3/8."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/3 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "4/9",
+        "−1/2",
+        "1/4",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (1/3)²)/2 = 4/9."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 2/3 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "−1/2",
+        "5/18",
+        "1/4",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (2/3)²)/2 = 5/18."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/4 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/2",
+        "−1/2",
+        "15/32",
+        "1/4"
+      ],
+      "answer": 2,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (1/4)²)/2 = 15/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 3/4 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/4",
+        "7/32",
+        "1/2",
+        "−1/2"
+      ],
+      "answer": 1,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (3/4)²)/2 = 7/32."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1/5 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/2",
+        "−1/2",
+        "12/25",
+        "1/4"
+      ],
+      "answer": 2,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (1/5)²)/2 = 12/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 3/5 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/4",
+        "−1/2",
+        "8/25",
+        "1/2"
+      ],
+      "answer": 2,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (3/5)²)/2 = 8/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 4/5 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "9/50",
+        "1/4",
+        "1/2",
+        "−1/2"
+      ],
+      "answer": 0,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (4/5)²)/2 = 9/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 6/5 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/4",
+        "1/2",
+        "−1/2",
+        "-11/50"
+      ],
+      "answer": 3,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (6/5)²)/2 = -11/50."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 7/5 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/4",
+        "−1/2",
+        "1/2",
+        "-12/25"
+      ],
+      "answer": 3,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (7/5)²)/2 = -12/25."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 0 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "−1/2",
+        "1/2",
+        "0",
+        "1/4"
+      ],
+      "answer": 1,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (0)²)/2 = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "Agar sin α − cos α = 1 bo'lsa, sin α · cos α qiymatini toping.",
+      "options": [
+        "1/4",
+        "1/2",
+        "0",
+        "−1/2"
+      ],
+      "answer": 2,
+      "explain": "(sin α − cos α)² = 1 − 2sin α cos α ⇒ sin α cos α = (1 − (1)²)/2 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 2 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "2",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 2² ⇒ javob 2."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 2 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "2",
+        "0",
+        "4",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 2² − 4 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "2·(sin⁴α − cos⁴α + cos²α) = 2·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 3 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "7",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 3² ⇒ javob 7."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 3 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "9",
+        "13",
+        "5",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 3² − 4 = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "3·(sin⁴α − cos⁴α + cos²α) = 3·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 4 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "14",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 4² ⇒ javob 14."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 4 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "12",
+        "16",
+        "20",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 4² − 4 = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "4·(sin⁴α − cos⁴α + cos²α) = 4·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 5 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "23",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 5² ⇒ javob 23."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 5 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "29",
+        "25",
+        "21",
+        "23"
+      ],
+      "answer": 2,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 5² − 4 = 21."
+    },
+    {
+      "type": "truefalse",
+      "q": "5·(sin⁴α − cos⁴α + cos²α) = 5·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 6 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "34",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 6² ⇒ javob 34."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 6 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "34",
+        "32",
+        "40",
+        "36"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 6² − 4 = 32."
+    },
+    {
+      "type": "truefalse",
+      "q": "6·(sin⁴α − cos⁴α + cos²α) = 6·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 7 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "47",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 7² ⇒ javob 47."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 7 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "45",
+        "53",
+        "47",
+        "49"
+      ],
+      "answer": 0,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 7² − 4 = 45."
+    },
+    {
+      "type": "truefalse",
+      "q": "7·(sin⁴α − cos⁴α + cos²α) = 7·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 8 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "62",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 8² ⇒ javob 62."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 8 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "60",
+        "68",
+        "62",
+        "64"
+      ],
+      "answer": 0,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 8² − 4 = 60."
+    },
+    {
+      "type": "truefalse",
+      "q": "8·(sin⁴α − cos⁴α + cos²α) = 8·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 9 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "79",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 9² ⇒ javob 79."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 9 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "77",
+        "79",
+        "81",
+        "85"
+      ],
+      "answer": 0,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 9² − 4 = 77."
+    },
+    {
+      "type": "truefalse",
+      "q": "9·(sin⁴α − cos⁴α + cos²α) = 9·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 10 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "98",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 10² ⇒ javob 98."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 10 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "96",
+        "104",
+        "98",
+        "100"
+      ],
+      "answer": 0,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 10² − 4 = 96."
+    },
+    {
+      "type": "truefalse",
+      "q": "10·(sin⁴α − cos⁴α + cos²α) = 10·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 11 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "119",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 11² ⇒ javob 119."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 11 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "125",
+        "119",
+        "117",
+        "121"
+      ],
+      "answer": 2,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 11² − 4 = 117."
+    },
+    {
+      "type": "truefalse",
+      "q": "11·(sin⁴α − cos⁴α + cos²α) = 11·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 12 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "142",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 12² ⇒ javob 142."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 12 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "144",
+        "140",
+        "148",
+        "142"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 12² − 4 = 140."
+    },
+    {
+      "type": "truefalse",
+      "q": "12·(sin⁴α − cos⁴α + cos²α) = 12·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 13 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "167",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 13² ⇒ javob 167."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 13 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "167",
+        "173",
+        "165",
+        "169"
+      ],
+      "answer": 2,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 13² − 4 = 165."
+    },
+    {
+      "type": "truefalse",
+      "q": "13·(sin⁴α − cos⁴α + cos²α) = 13·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 14 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "194",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 14² ⇒ javob 194."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 14 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "200",
+        "196",
+        "192",
+        "194"
+      ],
+      "answer": 2,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 14² − 4 = 192."
+    },
+    {
+      "type": "truefalse",
+      "q": "14·(sin⁴α − cos⁴α + cos²α) = 14·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 15 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "223",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 15² ⇒ javob 223."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 15 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "229",
+        "223",
+        "225",
+        "221"
+      ],
+      "answer": 3,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 15² − 4 = 221."
+    },
+    {
+      "type": "truefalse",
+      "q": "15·(sin⁴α − cos⁴α + cos²α) = 15·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 16 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "254",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 16² ⇒ javob 254."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 16 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "260",
+        "252",
+        "256",
+        "254"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 16² − 4 = 252."
+    },
+    {
+      "type": "truefalse",
+      "q": "16·(sin⁴α − cos⁴α + cos²α) = 16·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 17 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "287",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 17² ⇒ javob 287."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 17 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "285",
+        "289",
+        "287",
+        "293"
+      ],
+      "answer": 0,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 17² − 4 = 285."
+    },
+    {
+      "type": "truefalse",
+      "q": "17·(sin⁴α − cos⁴α + cos²α) = 17·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 18 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "322",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 18² ⇒ javob 322."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 18 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "322",
+        "320",
+        "328",
+        "324"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 18² − 4 = 320."
+    },
+    {
+      "type": "truefalse",
+      "q": "18·(sin⁴α − cos⁴α + cos²α) = 18·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 19 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "359",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 19² ⇒ javob 359."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 19 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "365",
+        "359",
+        "361",
+        "357"
+      ],
+      "answer": 3,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 19² − 4 = 357."
+    },
+    {
+      "type": "truefalse",
+      "q": "19·(sin⁴α − cos⁴α + cos²α) = 19·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 20 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "398",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 20² ⇒ javob 398."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 20 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "404",
+        "396",
+        "400",
+        "398"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 20² − 4 = 396."
+    },
+    {
+      "type": "truefalse",
+      "q": "20·(sin⁴α − cos⁴α + cos²α) = 20·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 21 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "439",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 21² ⇒ javob 439."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 21 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "437",
+        "441",
+        "439",
+        "445"
+      ],
+      "answer": 0,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 21² − 4 = 437."
+    },
+    {
+      "type": "truefalse",
+      "q": "21·(sin⁴α − cos⁴α + cos²α) = 21·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 22 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "482",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 22² ⇒ javob 482."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 22 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "484",
+        "480",
+        "482",
+        "488"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 22² − 4 = 480."
+    },
+    {
+      "type": "truefalse",
+      "q": "22·(sin⁴α − cos⁴α + cos²α) = 22·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 23 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "527",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 23² ⇒ javob 527."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 23 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "527",
+        "525",
+        "533",
+        "529"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 23² − 4 = 525."
+    },
+    {
+      "type": "truefalse",
+      "q": "23·(sin⁴α − cos⁴α + cos²α) = 23·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 24 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "574",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 24² ⇒ javob 574."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 24 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "576",
+        "580",
+        "574",
+        "572"
+      ],
+      "answer": 3,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 24² − 4 = 572."
+    },
+    {
+      "type": "truefalse",
+      "q": "24·(sin⁴α − cos⁴α + cos²α) = 24·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 25 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "623",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 25² ⇒ javob 623."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 25 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "625",
+        "629",
+        "621",
+        "623"
+      ],
+      "answer": 2,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 25² − 4 = 621."
+    },
+    {
+      "type": "truefalse",
+      "q": "25·(sin⁴α − cos⁴α + cos²α) = 25·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 26 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "674",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 26² ⇒ javob 674."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 26 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "676",
+        "672",
+        "674",
+        "680"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 26² − 4 = 672."
+    },
+    {
+      "type": "truefalse",
+      "q": "26·(sin⁴α − cos⁴α + cos²α) = 26·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 27 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "727",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 27² ⇒ javob 727."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 27 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "725",
+        "727",
+        "733",
+        "729"
+      ],
+      "answer": 0,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 27² − 4 = 725."
+    },
+    {
+      "type": "truefalse",
+      "q": "27·(sin⁴α − cos⁴α + cos²α) = 27·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 28 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "782",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 28² ⇒ javob 782."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 28 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "780",
+        "784",
+        "782",
+        "788"
+      ],
+      "answer": 0,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 28² − 4 = 780."
+    },
+    {
+      "type": "truefalse",
+      "q": "28·(sin⁴α − cos⁴α + cos²α) = 28·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 29 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "839",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 29² ⇒ javob 839."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 29 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "841",
+        "845",
+        "837",
+        "839"
+      ],
+      "answer": 2,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 29² − 4 = 837."
+    },
+    {
+      "type": "truefalse",
+      "q": "29·(sin⁴α − cos⁴α + cos²α) = 29·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 30 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "898",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 30² ⇒ javob 898."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 30 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "900",
+        "898",
+        "896",
+        "904"
+      ],
+      "answer": 2,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 30² − 4 = 896."
+    },
+    {
+      "type": "truefalse",
+      "q": "30·(sin⁴α − cos⁴α + cos²α) = 30·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 31 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "959",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 31² ⇒ javob 959."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 31 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "965",
+        "957",
+        "961",
+        "959"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 31² − 4 = 957."
+    },
+    {
+      "type": "truefalse",
+      "q": "31·(sin⁴α − cos⁴α + cos²α) = 31·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    },
+    {
+      "type": "fill",
+      "q": "tg α + ctg α = 32 bo'lsa, tg²α + ctg²α ning qiymatini toping.",
+      "answer": "1022",
+      "explain": "(tg α + ctg α)² = tg²α + 2·tg α·ctg α + ctg²α = tg²α + ctg²α + 2 = 32² ⇒ javob 1022."
+    },
+    {
+      "type": "choice",
+      "q": "tg α + ctg α = 32 bo'lganda (tg α − ctg α)² nimaga teng?",
+      "options": [
+        "1022",
+        "1020",
+        "1028",
+        "1024"
+      ],
+      "answer": 1,
+      "explain": "(tg α − ctg α)² = (tg α + ctg α)² − 4·tg α·ctg α = 32² − 4 = 1020."
+    },
+    {
+      "type": "truefalse",
+      "q": "32·(sin⁴α − cos⁴α + cos²α) = 32·sin²α tenglik ayniyatdir.",
+      "answer": true,
+      "explain": "sin⁴α − cos⁴α = sin²α − cos²α; unga cos²α qo'shsak sin²α qoladi."
+    }
+  ],
+  "cards": [
+    [
+      "Radian",
+      "Yoy uzunligi radiusga teng markaziy burchak"
+    ],
+    [
+      "Sinus",
+      "Burilgan nuqtaning ordinatasi (y koordinatasi)"
+    ],
+    [
+      "Kosinus",
+      "Burilgan nuqtaning abssissasi (x koordinatasi)"
+    ],
+    [
+      "Tangens",
+      "Sinusning kosinusga nisbati (sin α / cos α)"
+    ],
+    [
+      "Kotangens",
+      "Kosinusning sinusga nisbati (cos α / sin α)"
+    ],
+    [
+      "Ayniyat",
+      "O'zgaruvchining barcha ruxsatli qiymatlarida to'g'ri tenglik"
+    ],
+    [
+      "Birlik",
+      "Radiusi R = 1 bo'lgan markaziy aylana"
+    ],
+    [
+      "Chorak",
+      "Koordinata tekisligining to'rtdan bir qismi"
+    ],
+    [
+      "Davr",
+      "Trigonometrik funksiyalar qiymati takrorlanuvchi burchak"
+    ],
+    [
+      "Keltirish",
+      "Katta burchakni o'tkir burchak orqali ifodalash"
+    ],
+    [
+      "Soddalashtirish",
+      "Murakkab ifodani qisqa shaklga keltirish"
+    ],
+    [
+      "Isbotlash",
+      "Chap tomonni o'ng tomonga teng ekanini ko'rsatish"
+    ],
+    [
+      "Ko'paytma",
+      "sin⁴α − cos⁴α ni (sin²α−cos²α)(sin²α+cos²α) ga ajratish"
+    ],
+    [
+      "Yig'indi",
+      "(sin α + cos α)² = 1 + 2sin α cos α"
+    ],
+    [
+      "(sin α−cos α)²",
+      "1 − 2sin α cos α ga teng"
+    ],
+    [
+      "1 − sin²α",
+      "cos²α ga aynan teng"
+    ],
+    [
+      "1 − cos²α",
+      "sin²α ga aynan teng"
+    ],
+    [
+      "sin²α / (1−cos α)",
+      "1 + cos α ga teng (cos α ≠ 1)"
+    ],
+    [
+      "tg α · cos α",
+      "sin α ga teng ayniyat"
+    ],
+    [
+      "ctg α · sin α",
+      "cos α ga teng ayniyat"
+    ],
+    [
+      "1/(1+tg²α)",
+      "cos²α ga teng ifoda"
+    ],
+    [
+      "1/(1+ctg²α)",
+      "sin²α ga teng ifoda"
+    ],
+    [
+      "sin⁴α + cos⁴α",
+      "1 − 2sin²α cos²α ga teng"
+    ],
+    [
+      "(1−sin α)(1+sin α)",
+      "cos²α ga teng"
+    ]
+  ]
+}

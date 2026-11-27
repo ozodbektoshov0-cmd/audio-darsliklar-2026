@@ -1,0 +1,3434 @@
+{
+  "id": "g9-uz-algebra-23-manfiy-burchaklar",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "23-§. α va −α burchaklarning sinusi, kosinusi, tangensi",
+  "title": "23-§. α va −α burchaklarning sinusi, kosinusi, tangensi",
+  "source": "Algebra 9-sinf (2019), III bob, 23-§, 120–121-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Trigonometrik funksiyalardan qaysi biri juft funksiya hisoblanadi?",
+      "options": [
+        "tg α",
+        "sin α",
+        "ctg α",
+        "cos α"
+      ],
+      "answer": 3,
+      "explain": "cos(−α) = cos α bo'lgani uchun kosinus juft, qolgan uchtasi toq funksiyalardir."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−α) ifoda nimaga teng?",
+      "options": [
+        "cos α",
+        "sin α",
+        "−cos α",
+        "−sin α"
+      ],
+      "answer": 3,
+      "explain": "Sinus toq funksiya: sin(−α) = −sin α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−α) = −tg α ayniyat tangens aniqlangan barcha burchaklar uchun o'rinli.",
+      "answer": true,
+      "explain": "tg(−α) = sin(−α)/cos(−α) = −sin α / cos α = −tg α."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(−45°) = −√2/2 ga teng.",
+      "answer": false,
+      "explain": "Kosinus juft funksiya: cos(−45°) = cos 45° = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−π/6) nimaga teng (−30°)?",
+      "options": [
+        "0",
+        "1",
+        "−1/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "sin(−π/6) = −sin(π/6) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−π/6) nimaga teng (−30°)?",
+      "options": [
+        "0",
+        "√3/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "cos(−π/6) = cos(π/6) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−π/6) ning qiymatini toping.",
+      "options": [
+        "1",
+        "−√3/3",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "tg(−π/6) = −tg(π/6) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−π/6) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "−√3"
+      ],
+      "answer": 3,
+      "explain": "ctg(−π/6) = −ctg(π/6) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−π/4) nimaga teng (−45°)?",
+      "options": [
+        "−√2/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "sin(−π/4) = −sin(π/4) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−π/4) nimaga teng (−45°)?",
+      "options": [
+        "−1",
+        "1",
+        "√2/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "cos(−π/4) = cos(π/4) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−π/4) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "1/2"
+      ],
+      "answer": 2,
+      "explain": "tg(−π/4) = −tg(π/4) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−π/4) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1/2",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "ctg(−π/4) = −ctg(π/4) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−π/3) nimaga teng (−60°)?",
+      "options": [
+        "−1",
+        "0",
+        "−√3/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "sin(−π/3) = −sin(π/3) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−π/3) nimaga teng (−60°)?",
+      "options": [
+        "1/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "cos(−π/3) = cos(π/3) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−π/3) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "−√3"
+      ],
+      "answer": 3,
+      "explain": "tg(−π/3) = −tg(π/3) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−π/3) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "−√3/3",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "ctg(−π/3) = −ctg(π/3) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−π/2) nimaga teng (−90°)?",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "−1"
+      ],
+      "answer": 3,
+      "explain": "sin(−π/2) = −sin(π/2) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−π/2) nimaga teng (−90°)?",
+      "options": [
+        "1",
+        "0",
+        "1/2",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "cos(−π/2) = cos(π/2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−π/2) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "ctg(−π/2) = −ctg(π/2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−2π/3) nimaga teng (−120°)?",
+      "options": [
+        "−√3/2",
+        "1",
+        "−1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "sin(−2π/3) = −sin(2π/3) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−2π/3) nimaga teng (−120°)?",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "−1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(−2π/3) = cos(2π/3) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−2π/3) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "0",
+        "√3",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "tg(−2π/3) = −tg(2π/3) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−2π/3) ning qiymatini toping.",
+      "options": [
+        "0",
+        "√3/3",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "ctg(−2π/3) = −ctg(2π/3) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−3π/4) nimaga teng (−135°)?",
+      "options": [
+        "−1",
+        "−√2/2",
+        "0",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "sin(−3π/4) = −sin(3π/4) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−3π/4) nimaga teng (−135°)?",
+      "options": [
+        "0",
+        "−1",
+        "−√2/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(−3π/4) = cos(3π/4) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−3π/4) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "tg(−3π/4) = −tg(3π/4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−3π/4) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "ctg(−3π/4) = −ctg(3π/4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−5π/6) nimaga teng (−150°)?",
+      "options": [
+        "−1/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "sin(−5π/6) = −sin(5π/6) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−5π/6) nimaga teng (−150°)?",
+      "options": [
+        "−√3/2",
+        "1",
+        "−1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "cos(−5π/6) = cos(5π/6) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−5π/6) ning qiymatini toping.",
+      "options": [
+        "0",
+        "√3/3",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "tg(−5π/6) = −tg(5π/6) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−5π/6) ning qiymatini toping.",
+      "options": [
+        "√3",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "ctg(−5π/6) = −ctg(5π/6) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−π) nimaga teng (−180°)?",
+      "options": [
+        "−1",
+        "1",
+        "1/2",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "sin(−π) = −sin(π) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−π) nimaga teng (−180°)?",
+      "options": [
+        "1",
+        "−1",
+        "0",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "cos(−π) = cos(π) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−π) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "−1",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg(−π) = −tg(π) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−7π/6) nimaga teng (−210°)?",
+      "options": [
+        "0",
+        "1/2",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "sin(−7π/6) = −sin(7π/6) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−7π/6) nimaga teng (−210°)?",
+      "options": [
+        "0",
+        "−1",
+        "−√3/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(−7π/6) = cos(7π/6) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−7π/6) ning qiymatini toping.",
+      "options": [
+        "1",
+        "−√3/3",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "tg(−7π/6) = −tg(7π/6) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−7π/6) ning qiymatini toping.",
+      "options": [
+        "−√3",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "ctg(−7π/6) = −ctg(7π/6) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−5π/4) nimaga teng (−225°)?",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "√2/2"
+      ],
+      "answer": 3,
+      "explain": "sin(−5π/4) = −sin(5π/4) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−5π/4) nimaga teng (−225°)?",
+      "options": [
+        "0",
+        "−1",
+        "−√2/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(−5π/4) = cos(5π/4) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−5π/4) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "1/2",
+        "−1"
+      ],
+      "answer": 3,
+      "explain": "tg(−5π/4) = −tg(5π/4) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−5π/4) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "ctg(−5π/4) = −ctg(5π/4) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−4π/3) nimaga teng (−240°)?",
+      "options": [
+        "−1",
+        "0",
+        "√3/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "sin(−4π/3) = −sin(4π/3) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−4π/3) nimaga teng (−240°)?",
+      "options": [
+        "1",
+        "−1/2",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "cos(−4π/3) = cos(4π/3) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−4π/3) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−√3",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "tg(−4π/3) = −tg(4π/3) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−4π/3) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−√3/3"
+      ],
+      "answer": 3,
+      "explain": "ctg(−4π/3) = −ctg(4π/3) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−3π/2) nimaga teng (−270°)?",
+      "options": [
+        "0",
+        "1/2",
+        "−1",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "sin(−3π/2) = −sin(3π/2) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−3π/2) nimaga teng (−270°)?",
+      "options": [
+        "1/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "cos(−3π/2) = cos(3π/2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−3π/2) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "ctg(−3π/2) = −ctg(3π/2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−5π/3) nimaga teng (−300°)?",
+      "options": [
+        "√3/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "sin(−5π/3) = −sin(5π/3) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−5π/3) nimaga teng (−300°)?",
+      "options": [
+        "−1",
+        "0",
+        "1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(−5π/3) = cos(5π/3) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−5π/3) ning qiymatini toping.",
+      "options": [
+        "√3",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "tg(−5π/3) = −tg(5π/3) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−5π/3) ning qiymatini toping.",
+      "options": [
+        "√3/3",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "ctg(−5π/3) = −ctg(5π/3) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−7π/4) nimaga teng (−315°)?",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "√2/2"
+      ],
+      "answer": 3,
+      "explain": "sin(−7π/4) = −sin(7π/4) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−7π/4) nimaga teng (−315°)?",
+      "options": [
+        "0",
+        "1",
+        "√2/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "cos(−7π/4) = cos(7π/4) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−7π/4) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "tg(−7π/4) = −tg(7π/4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−7π/4) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "ctg(−7π/4) = −ctg(7π/4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−11π/6) nimaga teng (−330°)?",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "sin(−11π/6) = −sin(11π/6) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−11π/6) nimaga teng (−330°)?",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "√3/2"
+      ],
+      "answer": 3,
+      "explain": "cos(−11π/6) = cos(11π/6) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−11π/6) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "√3/3",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "tg(−11π/6) = −tg(11π/6) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(−11π/6) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "0",
+        "√3",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "ctg(−11π/6) = −ctg(11π/6) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(−2π) nimaga teng (−360°)?",
+      "options": [
+        "−1",
+        "1/2",
+        "1",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "sin(−2π) = −sin(2π) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(−2π) nimaga teng (−360°)?",
+      "options": [
+        "−1",
+        "1/2",
+        "0",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "cos(−2π) = cos(2π) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "tg(−2π) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "tg(−2π) = −tg(2π) = 0."
+    },
+    {
+      "type": "fill",
+      "q": "4·cos(−π/3) + 2·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 4·(1/2) + 2·(−1) = 2 − 2 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(−30°) + 2·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −2 + 1 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "6·cos(−π/3) + 3·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 6·(1/2) + 3·(−1) = 3 − 3 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "6·sin(−30°) + 4·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −3 + 2 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "8·cos(−π/3) + 4·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 8·(1/2) + 4·(−1) = 4 − 4 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "8·sin(−30°) + 6·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −4 + 3 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "10·cos(−π/3) + 5·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 10·(1/2) + 5·(−1) = 5 − 5 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "10·sin(−30°) + 8·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −5 + 4 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "12·cos(−π/3) + 6·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 12·(1/2) + 6·(−1) = 6 − 6 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "12·sin(−30°) + 10·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −6 + 5 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "14·cos(−π/3) + 7·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 14·(1/2) + 7·(−1) = 7 − 7 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "14·sin(−30°) + 12·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −7 + 6 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "16·cos(−π/3) + 8·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 16·(1/2) + 8·(−1) = 8 − 8 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "16·sin(−30°) + 14·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −8 + 7 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "18·cos(−π/3) + 9·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 18·(1/2) + 9·(−1) = 9 − 9 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "18·sin(−30°) + 16·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −9 + 8 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "20·cos(−π/3) + 10·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 20·(1/2) + 10·(−1) = 10 − 10 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "20·sin(−30°) + 18·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −10 + 9 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "22·cos(−π/3) + 11·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 22·(1/2) + 11·(−1) = 11 − 11 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "22·sin(−30°) + 20·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −11 + 10 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "24·cos(−π/3) + 12·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 24·(1/2) + 12·(−1) = 12 − 12 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "24·sin(−30°) + 22·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −12 + 11 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "26·cos(−π/3) + 13·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 26·(1/2) + 13·(−1) = 13 − 13 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "26·sin(−30°) + 24·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −13 + 12 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "28·cos(−π/3) + 14·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 28·(1/2) + 14·(−1) = 14 − 14 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "28·sin(−30°) + 26·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −14 + 13 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "30·cos(−π/3) + 15·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 30·(1/2) + 15·(−1) = 15 − 15 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "30·sin(−30°) + 28·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −15 + 14 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "32·cos(−π/3) + 16·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 32·(1/2) + 16·(−1) = 16 − 16 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "32·sin(−30°) + 30·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −16 + 15 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "34·cos(−π/3) + 17·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 34·(1/2) + 17·(−1) = 17 − 17 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "34·sin(−30°) + 32·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −17 + 16 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "36·cos(−π/3) + 18·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 36·(1/2) + 18·(−1) = 18 − 18 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "36·sin(−30°) + 34·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −18 + 17 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "38·cos(−π/3) + 19·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 38·(1/2) + 19·(−1) = 19 − 19 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "38·sin(−30°) + 36·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −19 + 18 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "40·cos(−π/3) + 20·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 40·(1/2) + 20·(−1) = 20 − 20 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "40·sin(−30°) + 38·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −20 + 19 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "42·cos(−π/3) + 21·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 42·(1/2) + 21·(−1) = 21 − 21 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "42·sin(−30°) + 40·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −21 + 20 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "44·cos(−π/3) + 22·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 44·(1/2) + 22·(−1) = 22 − 22 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "44·sin(−30°) + 42·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −22 + 21 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "46·cos(−π/3) + 23·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 46·(1/2) + 23·(−1) = 23 − 23 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "46·sin(−30°) + 44·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −23 + 22 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "48·cos(−π/3) + 24·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 48·(1/2) + 24·(−1) = 24 − 24 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "48·sin(−30°) + 46·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −24 + 23 = -1."
+    },
+    {
+      "type": "fill",
+      "q": "50·cos(−π/3) + 25·sin(−π/2) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "cos(−π/3) = 1/2, sin(−π/2) = −1 ⇒ 50·(1/2) + 25·(−1) = 25 − 25 = 0."
+    },
+    {
+      "type": "fill",
+      "q": "50·sin(−30°) + 48·cos(−60°) ifodani hisoblang.",
+      "answer": "-1",
+      "explain": "sin(−30°) = −1/2, cos(−60°) = 1/2 ⇒ −25 + 24 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "1sin(−α) + 4sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "−3sin α",
+        "5sin α",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −1sin α + 4sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "1cos(−α) + 1cos α ifoda nimaga teng?",
+      "options": [
+        "−2cos α",
+        "2cos α",
+        "1cos α",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 1cos α + 1cos α = 2cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−1°) + tg(1°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−1°) = −tg(1°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "2sin(−α) + 5sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "3sin α",
+        "7sin α",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "sin(−α) = −sin α ⇒ −2sin α + 5sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "2cos(−α) + 2cos α ifoda nimaga teng?",
+      "options": [
+        "−4cos α",
+        "4cos α",
+        "0",
+        "2cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 2cos α + 2cos α = 4cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−2°) + tg(2°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−2°) = −tg(2°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "3sin(−α) + 6sin α ifodani soddalashtiring.",
+      "options": [
+        "3sin α",
+        "−3sin α",
+        "0",
+        "9sin α"
+      ],
+      "answer": 0,
+      "explain": "sin(−α) = −sin α ⇒ −3sin α + 6sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "3cos(−α) + 3cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−6cos α",
+        "6cos α",
+        "3cos α"
+      ],
+      "answer": 2,
+      "explain": "cos(−α) = cos α bo'lgani uchun 3cos α + 3cos α = 6cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−3°) + tg(3°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−3°) = −tg(3°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "4sin(−α) + 7sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "3sin α",
+        "−3sin α",
+        "11sin α"
+      ],
+      "answer": 1,
+      "explain": "sin(−α) = −sin α ⇒ −4sin α + 7sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "4cos(−α) + 4cos α ifoda nimaga teng?",
+      "options": [
+        "−8cos α",
+        "8cos α",
+        "0",
+        "4cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 4cos α + 4cos α = 8cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−4°) + tg(4°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−4°) = −tg(4°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "5sin(−α) + 8sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "13sin α",
+        "3sin α",
+        "−3sin α"
+      ],
+      "answer": 2,
+      "explain": "sin(−α) = −sin α ⇒ −5sin α + 8sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "5cos(−α) + 5cos α ifoda nimaga teng?",
+      "options": [
+        "10cos α",
+        "0",
+        "5cos α",
+        "−10cos α"
+      ],
+      "answer": 0,
+      "explain": "cos(−α) = cos α bo'lgani uchun 5cos α + 5cos α = 10cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−5°) + tg(5°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−5°) = −tg(5°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "6sin(−α) + 9sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "0",
+        "3sin α",
+        "15sin α"
+      ],
+      "answer": 2,
+      "explain": "sin(−α) = −sin α ⇒ −6sin α + 9sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "6cos(−α) + 6cos α ifoda nimaga teng?",
+      "options": [
+        "−12cos α",
+        "6cos α",
+        "0",
+        "12cos α"
+      ],
+      "answer": 3,
+      "explain": "cos(−α) = cos α bo'lgani uchun 6cos α + 6cos α = 12cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−6°) + tg(6°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−6°) = −tg(6°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "7sin(−α) + 10sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "0",
+        "17sin α",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −7sin α + 10sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "7cos(−α) + 7cos α ifoda nimaga teng?",
+      "options": [
+        "−14cos α",
+        "7cos α",
+        "14cos α",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "cos(−α) = cos α bo'lgani uchun 7cos α + 7cos α = 14cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−7°) + tg(7°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−7°) = −tg(7°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "8sin(−α) + 11sin α ifodani soddalashtiring.",
+      "options": [
+        "3sin α",
+        "19sin α",
+        "−3sin α",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "sin(−α) = −sin α ⇒ −8sin α + 11sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "8cos(−α) + 8cos α ifoda nimaga teng?",
+      "options": [
+        "−16cos α",
+        "16cos α",
+        "8cos α",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 8cos α + 8cos α = 16cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−8°) + tg(8°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−8°) = −tg(8°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "9sin(−α) + 12sin α ifodani soddalashtiring.",
+      "options": [
+        "21sin α",
+        "−3sin α",
+        "3sin α",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "sin(−α) = −sin α ⇒ −9sin α + 12sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "9cos(−α) + 9cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "9cos α",
+        "−18cos α",
+        "18cos α"
+      ],
+      "answer": 3,
+      "explain": "cos(−α) = cos α bo'lgani uchun 9cos α + 9cos α = 18cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−9°) + tg(9°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−9°) = −tg(9°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "10sin(−α) + 13sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "3sin α",
+        "−3sin α",
+        "23sin α"
+      ],
+      "answer": 1,
+      "explain": "sin(−α) = −sin α ⇒ −10sin α + 13sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "10cos(−α) + 10cos α ifoda nimaga teng?",
+      "options": [
+        "10cos α",
+        "−20cos α",
+        "20cos α",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "cos(−α) = cos α bo'lgani uchun 10cos α + 10cos α = 20cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−10°) + tg(10°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−10°) = −tg(10°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "11sin(−α) + 14sin α ifodani soddalashtiring.",
+      "options": [
+        "25sin α",
+        "3sin α",
+        "0",
+        "−3sin α"
+      ],
+      "answer": 1,
+      "explain": "sin(−α) = −sin α ⇒ −11sin α + 14sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "11cos(−α) + 11cos α ifoda nimaga teng?",
+      "options": [
+        "−22cos α",
+        "22cos α",
+        "0",
+        "11cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 11cos α + 11cos α = 22cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−11°) + tg(11°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−11°) = −tg(11°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "12sin(−α) + 15sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "27sin α",
+        "3sin α",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "sin(−α) = −sin α ⇒ −12sin α + 15sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "12cos(−α) + 12cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "24cos α",
+        "12cos α",
+        "−24cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 12cos α + 12cos α = 24cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−12°) + tg(12°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−12°) = −tg(12°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "13sin(−α) + 16sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "−3sin α",
+        "29sin α",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −13sin α + 16sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "13cos(−α) + 13cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−26cos α",
+        "13cos α",
+        "26cos α"
+      ],
+      "answer": 3,
+      "explain": "cos(−α) = cos α bo'lgani uchun 13cos α + 13cos α = 26cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−13°) + tg(13°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−13°) = −tg(13°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "14sin(−α) + 17sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "0",
+        "3sin α",
+        "31sin α"
+      ],
+      "answer": 2,
+      "explain": "sin(−α) = −sin α ⇒ −14sin α + 17sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "14cos(−α) + 14cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "28cos α",
+        "14cos α",
+        "−28cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 14cos α + 14cos α = 28cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−14°) + tg(14°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−14°) = −tg(14°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "15sin(−α) + 18sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "0",
+        "3sin α",
+        "33sin α"
+      ],
+      "answer": 2,
+      "explain": "sin(−α) = −sin α ⇒ −15sin α + 18sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "15cos(−α) + 15cos α ifoda nimaga teng?",
+      "options": [
+        "15cos α",
+        "0",
+        "30cos α",
+        "−30cos α"
+      ],
+      "answer": 2,
+      "explain": "cos(−α) = cos α bo'lgani uchun 15cos α + 15cos α = 30cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−15°) + tg(15°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−15°) = −tg(15°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "16sin(−α) + 19sin α ifodani soddalashtiring.",
+      "options": [
+        "3sin α",
+        "35sin α",
+        "0",
+        "−3sin α"
+      ],
+      "answer": 0,
+      "explain": "sin(−α) = −sin α ⇒ −16sin α + 19sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "16cos(−α) + 16cos α ifoda nimaga teng?",
+      "options": [
+        "32cos α",
+        "16cos α",
+        "0",
+        "−32cos α"
+      ],
+      "answer": 0,
+      "explain": "cos(−α) = cos α bo'lgani uchun 16cos α + 16cos α = 32cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−16°) + tg(16°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−16°) = −tg(16°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "17sin(−α) + 20sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "−3sin α",
+        "3sin α",
+        "37sin α"
+      ],
+      "answer": 2,
+      "explain": "sin(−α) = −sin α ⇒ −17sin α + 20sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "17cos(−α) + 17cos α ifoda nimaga teng?",
+      "options": [
+        "17cos α",
+        "34cos α",
+        "0",
+        "−34cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 17cos α + 17cos α = 34cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−17°) + tg(17°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−17°) = −tg(17°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "18sin(−α) + 21sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "3sin α",
+        "−3sin α",
+        "39sin α"
+      ],
+      "answer": 1,
+      "explain": "sin(−α) = −sin α ⇒ −18sin α + 21sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "18cos(−α) + 18cos α ifoda nimaga teng?",
+      "options": [
+        "18cos α",
+        "36cos α",
+        "0",
+        "−36cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 18cos α + 18cos α = 36cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−18°) + tg(18°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−18°) = −tg(18°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "19sin(−α) + 22sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "3sin α",
+        "41sin α",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "sin(−α) = −sin α ⇒ −19sin α + 22sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "19cos(−α) + 19cos α ifoda nimaga teng?",
+      "options": [
+        "19cos α",
+        "38cos α",
+        "0",
+        "−38cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 19cos α + 19cos α = 38cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−19°) + tg(19°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−19°) = −tg(19°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "20sin(−α) + 23sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "3sin α",
+        "0",
+        "43sin α"
+      ],
+      "answer": 1,
+      "explain": "sin(−α) = −sin α ⇒ −20sin α + 23sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "20cos(−α) + 20cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "40cos α",
+        "−40cos α",
+        "20cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 20cos α + 20cos α = 40cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−20°) + tg(20°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−20°) = −tg(20°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "21sin(−α) + 24sin α ifodani soddalashtiring.",
+      "options": [
+        "45sin α",
+        "−3sin α",
+        "0",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −21sin α + 24sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "21cos(−α) + 21cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−42cos α",
+        "21cos α",
+        "42cos α"
+      ],
+      "answer": 3,
+      "explain": "cos(−α) = cos α bo'lgani uchun 21cos α + 21cos α = 42cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−21°) + tg(21°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−21°) = −tg(21°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "22sin(−α) + 25sin α ifodani soddalashtiring.",
+      "options": [
+        "3sin α",
+        "−3sin α",
+        "0",
+        "47sin α"
+      ],
+      "answer": 0,
+      "explain": "sin(−α) = −sin α ⇒ −22sin α + 25sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "22cos(−α) + 22cos α ifoda nimaga teng?",
+      "options": [
+        "−44cos α",
+        "44cos α",
+        "0",
+        "22cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 22cos α + 22cos α = 44cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−22°) + tg(22°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−22°) = −tg(22°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "23sin(−α) + 26sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "−3sin α",
+        "3sin α",
+        "49sin α"
+      ],
+      "answer": 2,
+      "explain": "sin(−α) = −sin α ⇒ −23sin α + 26sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "23cos(−α) + 23cos α ifoda nimaga teng?",
+      "options": [
+        "23cos α",
+        "46cos α",
+        "0",
+        "−46cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 23cos α + 23cos α = 46cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−23°) + tg(23°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−23°) = −tg(23°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "24sin(−α) + 27sin α ifodani soddalashtiring.",
+      "options": [
+        "3sin α",
+        "0",
+        "−3sin α",
+        "51sin α"
+      ],
+      "answer": 0,
+      "explain": "sin(−α) = −sin α ⇒ −24sin α + 27sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "24cos(−α) + 24cos α ifoda nimaga teng?",
+      "options": [
+        "24cos α",
+        "0",
+        "48cos α",
+        "−48cos α"
+      ],
+      "answer": 2,
+      "explain": "cos(−α) = cos α bo'lgani uchun 24cos α + 24cos α = 48cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−24°) + tg(24°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−24°) = −tg(24°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "25sin(−α) + 28sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "3sin α",
+        "0",
+        "53sin α"
+      ],
+      "answer": 1,
+      "explain": "sin(−α) = −sin α ⇒ −25sin α + 28sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "25cos(−α) + 25cos α ifoda nimaga teng?",
+      "options": [
+        "25cos α",
+        "−50cos α",
+        "0",
+        "50cos α"
+      ],
+      "answer": 3,
+      "explain": "cos(−α) = cos α bo'lgani uchun 25cos α + 25cos α = 50cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−25°) + tg(25°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−25°) = −tg(25°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "26sin(−α) + 29sin α ifodani soddalashtiring.",
+      "options": [
+        "3sin α",
+        "−3sin α",
+        "55sin α",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "sin(−α) = −sin α ⇒ −26sin α + 29sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "26cos(−α) + 26cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−52cos α",
+        "52cos α",
+        "26cos α"
+      ],
+      "answer": 2,
+      "explain": "cos(−α) = cos α bo'lgani uchun 26cos α + 26cos α = 52cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−26°) + tg(26°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−26°) = −tg(26°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "27sin(−α) + 30sin α ifodani soddalashtiring.",
+      "options": [
+        "57sin α",
+        "−3sin α",
+        "0",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −27sin α + 30sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "27cos(−α) + 27cos α ifoda nimaga teng?",
+      "options": [
+        "54cos α",
+        "0",
+        "27cos α",
+        "−54cos α"
+      ],
+      "answer": 0,
+      "explain": "cos(−α) = cos α bo'lgani uchun 27cos α + 27cos α = 54cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−27°) + tg(27°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−27°) = −tg(27°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "28sin(−α) + 31sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "59sin α",
+        "−3sin α",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −28sin α + 31sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "28cos(−α) + 28cos α ifoda nimaga teng?",
+      "options": [
+        "28cos α",
+        "56cos α",
+        "0",
+        "−56cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 28cos α + 28cos α = 56cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−28°) + tg(28°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−28°) = −tg(28°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "29sin(−α) + 32sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "61sin α",
+        "−3sin α",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −29sin α + 32sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "29cos(−α) + 29cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "29cos α",
+        "58cos α",
+        "−58cos α"
+      ],
+      "answer": 2,
+      "explain": "cos(−α) = cos α bo'lgani uchun 29cos α + 29cos α = 58cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−29°) + tg(29°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−29°) = −tg(29°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "30sin(−α) + 33sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "0",
+        "3sin α",
+        "63sin α"
+      ],
+      "answer": 2,
+      "explain": "sin(−α) = −sin α ⇒ −30sin α + 33sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "30cos(−α) + 30cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "60cos α",
+        "−60cos α",
+        "30cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 30cos α + 30cos α = 60cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−30°) + tg(30°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−30°) = −tg(30°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "31sin(−α) + 34sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "65sin α",
+        "−3sin α",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −31sin α + 34sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "31cos(−α) + 31cos α ifoda nimaga teng?",
+      "options": [
+        "−62cos α",
+        "62cos α",
+        "0",
+        "31cos α"
+      ],
+      "answer": 1,
+      "explain": "cos(−α) = cos α bo'lgani uchun 31cos α + 31cos α = 62cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−31°) + tg(31°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−31°) = −tg(31°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "32sin(−α) + 35sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "−3sin α",
+        "3sin α",
+        "67sin α"
+      ],
+      "answer": 2,
+      "explain": "sin(−α) = −sin α ⇒ −32sin α + 35sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "32cos(−α) + 32cos α ifoda nimaga teng?",
+      "options": [
+        "64cos α",
+        "−64cos α",
+        "0",
+        "32cos α"
+      ],
+      "answer": 0,
+      "explain": "cos(−α) = cos α bo'lgani uchun 32cos α + 32cos α = 64cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−32°) + tg(32°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−32°) = −tg(32°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "33sin(−α) + 36sin α ifodani soddalashtiring.",
+      "options": [
+        "3sin α",
+        "69sin α",
+        "−3sin α",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "sin(−α) = −sin α ⇒ −33sin α + 36sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "33cos(−α) + 33cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−66cos α",
+        "33cos α",
+        "66cos α"
+      ],
+      "answer": 3,
+      "explain": "cos(−α) = cos α bo'lgani uchun 33cos α + 33cos α = 66cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−33°) + tg(33°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−33°) = −tg(33°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "34sin(−α) + 37sin α ifodani soddalashtiring.",
+      "options": [
+        "−3sin α",
+        "71sin α",
+        "0",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −34sin α + 37sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "34cos(−α) + 34cos α ifoda nimaga teng?",
+      "options": [
+        "−68cos α",
+        "0",
+        "34cos α",
+        "68cos α"
+      ],
+      "answer": 3,
+      "explain": "cos(−α) = cos α bo'lgani uchun 34cos α + 34cos α = 68cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−34°) + tg(34°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−34°) = −tg(34°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "35sin(−α) + 38sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "73sin α",
+        "−3sin α",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −35sin α + 38sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "35cos(−α) + 35cos α ifoda nimaga teng?",
+      "options": [
+        "70cos α",
+        "−70cos α",
+        "35cos α",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "cos(−α) = cos α bo'lgani uchun 35cos α + 35cos α = 70cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−35°) + tg(35°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−35°) = −tg(35°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "36sin(−α) + 39sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "3sin α",
+        "75sin α",
+        "−3sin α"
+      ],
+      "answer": 1,
+      "explain": "sin(−α) = −sin α ⇒ −36sin α + 39sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "36cos(−α) + 36cos α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−72cos α",
+        "36cos α",
+        "72cos α"
+      ],
+      "answer": 3,
+      "explain": "cos(−α) = cos α bo'lgani uchun 36cos α + 36cos α = 72cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−36°) + tg(36°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−36°) = −tg(36°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "37sin(−α) + 40sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "−3sin α",
+        "77sin α",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −37sin α + 40sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "37cos(−α) + 37cos α ifoda nimaga teng?",
+      "options": [
+        "37cos α",
+        "−74cos α",
+        "0",
+        "74cos α"
+      ],
+      "answer": 3,
+      "explain": "cos(−α) = cos α bo'lgani uchun 37cos α + 37cos α = 74cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−37°) + tg(37°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−37°) = −tg(37°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "38sin(−α) + 41sin α ifodani soddalashtiring.",
+      "options": [
+        "0",
+        "3sin α",
+        "79sin α",
+        "−3sin α"
+      ],
+      "answer": 1,
+      "explain": "sin(−α) = −sin α ⇒ −38sin α + 41sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "38cos(−α) + 38cos α ifoda nimaga teng?",
+      "options": [
+        "38cos α",
+        "−76cos α",
+        "76cos α",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "cos(−α) = cos α bo'lgani uchun 38cos α + 38cos α = 76cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−38°) + tg(38°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−38°) = −tg(38°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "39sin(−α) + 42sin α ifodani soddalashtiring.",
+      "options": [
+        "3sin α",
+        "81sin α",
+        "0",
+        "−3sin α"
+      ],
+      "answer": 0,
+      "explain": "sin(−α) = −sin α ⇒ −39sin α + 42sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "39cos(−α) + 39cos α ifoda nimaga teng?",
+      "options": [
+        "78cos α",
+        "39cos α",
+        "−78cos α",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "cos(−α) = cos α bo'lgani uchun 39cos α + 39cos α = 78cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−39°) + tg(39°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−39°) = −tg(39°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "40sin(−α) + 43sin α ifodani soddalashtiring.",
+      "options": [
+        "83sin α",
+        "0",
+        "−3sin α",
+        "3sin α"
+      ],
+      "answer": 3,
+      "explain": "sin(−α) = −sin α ⇒ −40sin α + 43sin α = 3sin α."
+    },
+    {
+      "type": "choice",
+      "q": "40cos(−α) + 40cos α ifoda nimaga teng?",
+      "options": [
+        "80cos α",
+        "40cos α",
+        "−80cos α",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "cos(−α) = cos α bo'lgani uchun 40cos α + 40cos α = 80cos α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(−40°) + tg(40°) = 0 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "tg(−40°) = −tg(40°), shuning uchun yig'indisi 0."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 1 ifodaning qiymatini toping.",
+      "options": [
+        "2",
+        "1",
+        "4",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 1 = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 1·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "2·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "0",
+        "−2",
+        "2",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −2."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 2 ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "2",
+        "5",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 2 = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 2·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "3·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "3",
+        "1",
+        "−3",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −3."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 3 ifodaning qiymatini toping.",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 3 = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 3·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "4·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "4",
+        "−4",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −4."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 4 ifodaning qiymatini toping.",
+      "options": [
+        "5",
+        "1",
+        "4",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 4 = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 4·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "5·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "−5",
+        "5",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −5."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 5 ifodaning qiymatini toping.",
+      "options": [
+        "6",
+        "4",
+        "5",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 5 = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 5·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "6·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "6",
+        "−6",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −6."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 6 ifodaning qiymatini toping.",
+      "options": [
+        "7",
+        "1",
+        "6",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 6 = 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 6·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "7·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "7",
+        "−7",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −7."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 7 ifodaning qiymatini toping.",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 7 = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 7·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "8·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "−8",
+        "8",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −8."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 8 ifodaning qiymatini toping.",
+      "options": [
+        "8",
+        "7",
+        "1",
+        "9"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 8 = 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 8·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "9·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "−9",
+        "0",
+        "9"
+      ],
+      "answer": 1,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −9."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 9 ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "10",
+        "8",
+        "9"
+      ],
+      "answer": 1,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 9 = 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 9·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "10·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "0",
+        "1",
+        "−10",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −10."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 10 ifodaning qiymatini toping.",
+      "options": [
+        "9",
+        "10",
+        "1",
+        "11"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 10 = 11."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 10·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "11·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "0",
+        "11",
+        "−11"
+      ],
+      "answer": 3,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −11."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 11 ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "11",
+        "10",
+        "12"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 11 = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 11·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "12·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "0",
+        "−12",
+        "12"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −12."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 12 ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "11",
+        "13",
+        "12"
+      ],
+      "answer": 2,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 12 = 13."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 12·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "13·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "13",
+        "1",
+        "0",
+        "−13"
+      ],
+      "answer": 3,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −13."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 13 ifodaning qiymatini toping.",
+      "options": [
+        "13",
+        "1",
+        "12",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 13 = 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 13·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "14·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "14",
+        "1",
+        "0",
+        "−14"
+      ],
+      "answer": 3,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −14."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 14 ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "15",
+        "14",
+        "13"
+      ],
+      "answer": 1,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 14 = 15."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 14·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "15·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "−15",
+        "0",
+        "15"
+      ],
+      "answer": 1,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −15."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 15 ifodaning qiymatini toping.",
+      "options": [
+        "14",
+        "15",
+        "1",
+        "16"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 15 = 16."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 15·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "16·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "0",
+        "1",
+        "−16",
+        "16"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −16."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 16 ifodaning qiymatini toping.",
+      "options": [
+        "16",
+        "15",
+        "1",
+        "17"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 16 = 17."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 16·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "17·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "−17",
+        "17",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −17."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 17 ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "17",
+        "16",
+        "18"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 17 = 18."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 17·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "18·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "18",
+        "−18",
+        "0",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −18."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 18 ifodaning qiymatini toping.",
+      "options": [
+        "17",
+        "19",
+        "18",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 18 = 19."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 18·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "19·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "19",
+        "−19",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −19."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 19 ifodaning qiymatini toping.",
+      "options": [
+        "20",
+        "18",
+        "1",
+        "19"
+      ],
+      "answer": 0,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 19 = 20."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 19·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "20·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "−20",
+        "1",
+        "20",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −20."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 20 ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "20",
+        "21",
+        "19"
+      ],
+      "answer": 2,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 20 = 21."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 20·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "21·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "−21",
+        "1",
+        "21",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −21."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 21 ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "21",
+        "22",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 21 = 22."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 21·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "22·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "0",
+        "22",
+        "1",
+        "−22"
+      ],
+      "answer": 3,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −22."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 22 ifodaning qiymatini toping.",
+      "options": [
+        "23",
+        "22",
+        "21",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 22 = 23."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 22·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "23·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "−23",
+        "0",
+        "23",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −23."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 23 ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "23",
+        "24",
+        "22"
+      ],
+      "answer": 2,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 23 = 24."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 23·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "24·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "−24",
+        "0",
+        "24",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −24."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 24 ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "23",
+        "25",
+        "24"
+      ],
+      "answer": 2,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 24 = 25."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 24·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "25·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "25",
+        "0",
+        "−25",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −25."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 25 ifodaning qiymatini toping.",
+      "options": [
+        "25",
+        "24",
+        "1",
+        "26"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 25 = 26."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 25·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "26·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "0",
+        "26",
+        "−26",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −26."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 26 ifodaning qiymatini toping.",
+      "options": [
+        "27",
+        "26",
+        "25",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 26 = 27."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 26·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "27·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "27",
+        "−27",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −27."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 27 ifodaning qiymatini toping.",
+      "options": [
+        "26",
+        "27",
+        "1",
+        "28"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 27 = 28."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 27·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "28·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "−28",
+        "0",
+        "28"
+      ],
+      "answer": 1,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −28."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 28 ifodaning qiymatini toping.",
+      "options": [
+        "28",
+        "27",
+        "29",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 28 = 29."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 28·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "29·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "0",
+        "−29",
+        "29"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −29."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 29 ifodaning qiymatini toping.",
+      "options": [
+        "30",
+        "28",
+        "29",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 29 = 30."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 29·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "30·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "0",
+        "−30",
+        "1",
+        "30"
+      ],
+      "answer": 1,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −30."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 30 ifodaning qiymatini toping.",
+      "options": [
+        "30",
+        "29",
+        "31",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 30 = 31."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 30·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "31·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "−31",
+        "31",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −31."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 31 ifodaning qiymatini toping.",
+      "options": [
+        "30",
+        "32",
+        "31",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 31 = 32."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 31·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "32·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "32",
+        "−32",
+        "0",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −32."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 32 ifodaning qiymatini toping.",
+      "options": [
+        "33",
+        "32",
+        "1",
+        "31"
+      ],
+      "answer": 0,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 32 = 33."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 32·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "33·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "−33",
+        "0",
+        "33"
+      ],
+      "answer": 1,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −33."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 33 ifodaning qiymatini toping.",
+      "options": [
+        "32",
+        "34",
+        "1",
+        "33"
+      ],
+      "answer": 1,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 33 = 34."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 33·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "34·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "0",
+        "34",
+        "−34",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −34."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 34 ifodaning qiymatini toping.",
+      "options": [
+        "33",
+        "1",
+        "34",
+        "35"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 34 = 35."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 34·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "35·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "0",
+        "35",
+        "−35",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −35."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 35 ifodaning qiymatini toping.",
+      "options": [
+        "34",
+        "1",
+        "35",
+        "36"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 35 = 36."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 35·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "36·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "0",
+        "1",
+        "−36",
+        "36"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −36."
+    },
+    {
+      "type": "choice",
+      "q": "sin²(−α) + cos²(−α) + 36 ifodaning qiymatini toping.",
+      "options": [
+        "35",
+        "1",
+        "36",
+        "37"
+      ],
+      "answer": 3,
+      "explain": "(−sin α)² + (cos α)² = sin²α + cos²α = 1 ⇒ 1 + 36 = 37."
+    },
+    {
+      "type": "truefalse",
+      "q": "f(α) = 36·sin α · tg α funksiya juft funksiyadir.",
+      "answer": true,
+      "explain": "Ikki toq funksiya ko'paytmasi juft: (−sin α)(−tg α) = sin α · tg α."
+    },
+    {
+      "type": "choice",
+      "q": "37·tg(−α) · ctg α ifodani soddalashtiring (α ≠ πn/2).",
+      "options": [
+        "1",
+        "37",
+        "−37",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(−α) = −tg α va tg α · ctg α = 1 ⇒ javob −37."
+    }
+  ],
+  "cards": [
+    [
+      "Radian",
+      "Yoy uzunligi radiusga teng markaziy burchak"
+    ],
+    [
+      "Sinus",
+      "Burilgan nuqtaning ordinatasi (y koordinatasi)"
+    ],
+    [
+      "Kosinus",
+      "Burilgan nuqtaning abssissasi (x koordinatasi)"
+    ],
+    [
+      "Tangens",
+      "Sinusning kosinusga nisbati (sin α / cos α)"
+    ],
+    [
+      "Kotangens",
+      "Kosinusning sinusga nisbati (cos α / sin α)"
+    ],
+    [
+      "Ayniyat",
+      "O'zgaruvchining barcha ruxsatli qiymatlarida to'g'ri tenglik"
+    ],
+    [
+      "Birlik",
+      "Radiusi R = 1 bo'lgan markaziy aylana"
+    ],
+    [
+      "Chorak",
+      "Koordinata tekisligining to'rtdan bir qismi"
+    ],
+    [
+      "Davr",
+      "Trigonometrik funksiyalar qiymati takrorlanuvchi burchak"
+    ],
+    [
+      "Keltirish",
+      "Katta burchakni o'tkir burchak orqali ifodalash"
+    ],
+    [
+      "Juftlik",
+      "cos(−α) = cos α bo'lgani uchun kosinus juft"
+    ],
+    [
+      "Toqlik",
+      "sin(−α) = −sin α bo'lgani uchun sinus toq"
+    ],
+    [
+      "Simmetriya",
+      "α va −α nuqtalari Ox o'qiga simmetrik"
+    ],
+    [
+      "Manfiy",
+      "−α burchakda minusni saqlovchi sin, tg, ctg"
+    ],
+    [
+      "cos(−α) = cos α",
+      "Kosinus manfiy belgini yutadi (juft funksiya)"
+    ],
+    [
+      "sin(−α) = −sin α",
+      "Sinus minusni oldiga chiqaradi (toq funksiya)"
+    ],
+    [
+      "tg(−α) = −tg α",
+      "Tangens toq funksiya"
+    ],
+    [
+      "ctg(−α) = −ctg α",
+      "Kotangens toq funksiya"
+    ],
+    [
+      "sin(−30°)",
+      "−1/2 ga teng"
+    ],
+    [
+      "cos(−60°)",
+      "1/2 ga teng"
+    ],
+    [
+      "tg(−45°)",
+      "−1 ga teng"
+    ],
+    [
+      "cos(−π/3)",
+      "1/2 ga teng"
+    ],
+    [
+      "sin(−π/4)",
+      "−√2 / 2 ga teng"
+    ],
+    [
+      "tg(−π/3)",
+      "−√3 ga teng"
+    ]
+  ]
+}

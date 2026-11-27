@@ -1,0 +1,3188 @@
+{
+  "id": "g9-uz-algebra-27-yigindi-ayirma",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "27-§. Sinuslar va kosinuslar yig'indisi hamda ayirmasi",
+  "title": "27-§. Sinuslar va kosinuslar yig'indisi hamda ayirmasi (III bob yakuni)",
+  "source": "Algebra 9-sinf (2019), III bob, 27-§, 135–149-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "sin α + sin β yig'indini ko'paytmaga keltirish formulasi qaysi?",
+      "options": [
+        "−2 sin((α+β)/2) sin((α−β)/2)",
+        "2 cos((α+β)/2) cos((α−β)/2)",
+        "2 sin((α+β)/2) cos((α−β)/2)",
+        "2 sin((α−β)/2) cos((α+β)/2)"
+      ],
+      "answer": 2,
+      "explain": "sin α + sin β = 2 sin((α+β)/2) cos((α−β)/2)."
+    },
+    {
+      "type": "choice",
+      "q": "cos α − cos β ayirmani ko'paytmaga keltirish formulasi qaysi?",
+      "options": [
+        "2 sin((α+β)/2) sin((α−β)/2)",
+        "2 cos((α+β)/2) cos((α−β)/2)",
+        "2 sin((α−β)/2) cos((α+β)/2)",
+        "−2 sin((α+β)/2) sin((α−β)/2)"
+      ],
+      "answer": 3,
+      "explain": "cos α − cos β = −2 sin((α+β)/2) sin((α−β)/2)."
+    },
+    {
+      "type": "choice",
+      "q": "Abu Rayhon Beruniy trigonometriya yordamida Yer sharining radiusini taxminan necha km deb hisoblagan (darslik tarixiy ma'lumoti)?",
+      "options": [
+        "7450 km",
+        "6372,91 km",
+        "5120 km",
+        "3840 km"
+      ],
+      "answer": 1,
+      "explain": "Darslikdagi tarixiy ma'lumotga ko'ra Beruniy Yer radiusini ~6372,91 km deb topgan."
+    },
+    {
+      "type": "choice",
+      "q": "Samarqandda sin 1° qiymatini o'ta yuqori aniqlikda hisoblagan buyuk o'zbek astronomi kim?",
+      "options": [
+        "Mirzo Ulug'bek",
+        "Al-Farg'oniy",
+        "Al-Xorazmiy",
+        "Ibn Sino"
+      ],
+      "answer": 0,
+      "explain": "Mirzo Ulug'bek rasadxonasida sin 1° jadvallari 18 xonali aniqlikkacha tuzilgan."
+    },
+    {
+      "type": "choice",
+      "q": "π sonini verguldan keyin 16 xona aniqlikkacha hisoblagan alloma kim?",
+      "options": [
+        "Evklid",
+        "G'iyosiddin al-Koshiy",
+        "Arximed",
+        "Pifagor"
+      ],
+      "answer": 1,
+      "explain": "G'iyosiddin Jamshid al-Koshiy «Aylana haqida risola»sida π ni 16 xonagacha hisoblagan."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α + cos β = 2 cos((α+β)/2) cos((α−β)/2) formulasi o'rinlidir.",
+      "answer": true,
+      "explain": "Kosinuslar yig'indisining ko'paytma formulasi."
+    },
+    {
+      "type": "choice",
+      "q": "sin 75° − sin 15° ifodani hisoblang.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "√2/2"
+      ],
+      "answer": 3,
+      "explain": "2 sin 30° cos 45° = cos 45° = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos 75° − cos 15° ifodani hisoblang.",
+      "options": [
+        "1",
+        "−1",
+        "0",
+        "−√2/2"
+      ],
+      "answer": 3,
+      "explain": "−2 sin 45° sin 30° = −sin 45° = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos 90° + cos 30° ifodani hisoblang.",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "√3/2"
+      ],
+      "answer": 3,
+      "explain": "2 cos 60° cos 30° = 2·½·cos 30° = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin 90° − sin 30° ifodani hisoblang.",
+      "options": [
+        "0",
+        "−1",
+        "1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "2 sin 30° cos 60° = cos 60° = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos 90° − cos 30° ifodani hisoblang.",
+      "options": [
+        "−√3/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "−2 sin 60° sin 30° = −sin 60° = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos 105° + cos 15° ifodani hisoblang.",
+      "options": [
+        "1",
+        "√2/2",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "2 cos 60° cos 45° = 2·½·cos 45° = √2/2."
+    },
+    {
+      "type": "fill",
+      "q": "cos 120° + cos 60° ifodaning qiymatini toping.",
+      "answer": "0",
+      "explain": "2 cos 90° cos 30° = 0."
+    },
+    {
+      "type": "fill",
+      "q": "sin 120° − sin 60° ifodaning qiymatini toping.",
+      "answer": "0",
+      "explain": "2 sin 30° cos 90° = 0."
+    },
+    {
+      "type": "choice",
+      "q": "sin 120° − sin 60° ifodani hisoblang.",
+      "options": [
+        "1",
+        "1/2",
+        "−1",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 sin 30° cos 90° = cos 90° = 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos 120° − cos 60° ifodani hisoblang.",
+      "options": [
+        "1/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 3,
+      "explain": "−2 sin 90° sin 30° = −sin 90° = −1."
+    },
+    {
+      "type": "fill",
+      "q": "cos 135° + cos 45° ifodaning qiymatini toping.",
+      "answer": "0",
+      "explain": "2 cos 90° cos 45° = 0."
+    },
+    {
+      "type": "fill",
+      "q": "sin 135° − sin 45° ifodaning qiymatini toping.",
+      "answer": "0",
+      "explain": "2 sin 45° cos 90° = 0."
+    },
+    {
+      "type": "fill",
+      "q": "cos 150° + cos 30° ifodaning qiymatini toping.",
+      "answer": "0",
+      "explain": "2 cos 90° cos 60° = 0."
+    },
+    {
+      "type": "fill",
+      "q": "sin 150° − sin 30° ifodaning qiymatini toping.",
+      "answer": "0",
+      "explain": "2 sin 60° cos 90° = 0."
+    },
+    {
+      "type": "choice",
+      "q": "sin 150° − sin 90° ifodani hisoblang.",
+      "options": [
+        "1",
+        "−1",
+        "−1/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "2 sin 30° cos 120° = cos 120° = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos 150° − cos 90° ifodani hisoblang.",
+      "options": [
+        "−1",
+        "−√3/2",
+        "0",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "−2 sin 120° sin 30° = −sin 120° = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin 165° − sin 105° ifodani hisoblang.",
+      "options": [
+        "0",
+        "−√2/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "2 sin 30° cos 135° = cos 135° = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos 165° − cos 105° ifodani hisoblang.",
+      "options": [
+        "0",
+        "1",
+        "−√2/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "−2 sin 135° sin 30° = −sin 135° = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin 180° − sin 120° ifodani hisoblang.",
+      "options": [
+        "−1",
+        "−√3/2",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "2 sin 30° cos 150° = cos 150° = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos 180° − cos 120° ifodani hisoblang.",
+      "options": [
+        "0",
+        "1",
+        "−1/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "−2 sin 150° sin 30° = −sin 150° = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin 20° + sin 10° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "−2 sin 15° sin 5°",
+        "2 cos 15° cos 5°",
+        "2 sin 5° cos 15°",
+        "2 sin 15° cos 5°"
+      ],
+      "answer": 3,
+      "explain": "(c+a)/2 = 15°, (c−a)/2 = 5° ⇒ 2 sin 15° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 30° + sin 10° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 cos 20° cos 10°",
+        "2 sin 20° cos 10°",
+        "2 sin 10° cos 20°",
+        "−2 sin 20° sin 10°"
+      ],
+      "answer": 1,
+      "explain": "(c+a)/2 = 20°, (c−a)/2 = 10° ⇒ 2 sin 20° cos 10°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 40° + sin 10° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 cos 25° cos 15°",
+        "2 sin 15° cos 25°",
+        "2 sin 25° cos 15°",
+        "−2 sin 25° sin 15°"
+      ],
+      "answer": 2,
+      "explain": "(c+a)/2 = 25°, (c−a)/2 = 15° ⇒ 2 sin 25° cos 15°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 10° + sin 50°) / (cos 10° + cos 50°) nisbatning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "√3/3",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "Bu nisbat tg((10° + 50°)/2) = tg(30°) = √3/3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 50° + sin 10° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 cos 30° cos 20°",
+        "−2 sin 30° sin 20°",
+        "2 sin 20° cos 30°",
+        "2 sin 30° cos 20°"
+      ],
+      "answer": 3,
+      "explain": "(c+a)/2 = 30°, (c−a)/2 = 20° ⇒ 2 sin 30° cos 20°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 60° + sin 10° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 cos 35° cos 25°",
+        "−2 sin 35° sin 25°",
+        "2 sin 35° cos 25°",
+        "2 sin 25° cos 35°"
+      ],
+      "answer": 2,
+      "explain": "(c+a)/2 = 35°, (c−a)/2 = 25° ⇒ 2 sin 35° cos 25°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 70° + sin 10° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 cos 40° cos 30°",
+        "2 sin 40° cos 30°",
+        "2 sin 30° cos 40°",
+        "−2 sin 40° sin 30°"
+      ],
+      "answer": 1,
+      "explain": "(c+a)/2 = 40°, (c−a)/2 = 30° ⇒ 2 sin 40° cos 30°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 25° + sin 15° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "−2 sin 20° sin 5°",
+        "2 cos 20° cos 5°",
+        "2 sin 20° cos 5°",
+        "2 sin 5° cos 20°"
+      ],
+      "answer": 2,
+      "explain": "(c+a)/2 = 20°, (c−a)/2 = 5° ⇒ 2 sin 20° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 35° + sin 15° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "−2 sin 25° sin 10°",
+        "2 sin 10° cos 25°",
+        "2 cos 25° cos 10°",
+        "2 sin 25° cos 10°"
+      ],
+      "answer": 3,
+      "explain": "(c+a)/2 = 25°, (c−a)/2 = 10° ⇒ 2 sin 25° cos 10°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 15° + sin 45°) / (cos 15° + cos 45°) nisbatning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "√3/3"
+      ],
+      "answer": 3,
+      "explain": "Bu nisbat tg((15° + 45°)/2) = tg(30°) = √3/3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 45° + sin 15° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 30° cos 15°",
+        "2 sin 15° cos 30°",
+        "2 cos 30° cos 15°",
+        "−2 sin 30° sin 15°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 30°, (c−a)/2 = 15° ⇒ 2 sin 30° cos 15°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 55° + sin 15° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "−2 sin 35° sin 20°",
+        "2 cos 35° cos 20°",
+        "2 sin 20° cos 35°",
+        "2 sin 35° cos 20°"
+      ],
+      "answer": 3,
+      "explain": "(c+a)/2 = 35°, (c−a)/2 = 20° ⇒ 2 sin 35° cos 20°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 65° + sin 15° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "−2 sin 40° sin 25°",
+        "2 cos 40° cos 25°",
+        "2 sin 40° cos 25°",
+        "2 sin 25° cos 40°"
+      ],
+      "answer": 2,
+      "explain": "(c+a)/2 = 40°, (c−a)/2 = 25° ⇒ 2 sin 40° cos 25°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 30° + sin 20° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "−2 sin 25° sin 5°",
+        "2 sin 25° cos 5°",
+        "2 cos 25° cos 5°",
+        "2 sin 5° cos 25°"
+      ],
+      "answer": 1,
+      "explain": "(c+a)/2 = 25°, (c−a)/2 = 5° ⇒ 2 sin 25° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 20° + sin 40°) / (cos 20° + cos 40°) nisbatning qiymatini toping.",
+      "options": [
+        "0",
+        "√3/3",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "Bu nisbat tg((20° + 40°)/2) = tg(30°) = √3/3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 40° + sin 20° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 30° cos 10°",
+        "−2 sin 30° sin 10°",
+        "2 sin 10° cos 30°",
+        "2 cos 30° cos 10°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 30°, (c−a)/2 = 10° ⇒ 2 sin 30° cos 10°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 50° + sin 20° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 35° cos 15°",
+        "2 cos 35° cos 15°",
+        "2 sin 15° cos 35°",
+        "−2 sin 35° sin 15°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 35°, (c−a)/2 = 15° ⇒ 2 sin 35° cos 15°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 60° + sin 20° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 40° cos 20°",
+        "−2 sin 40° sin 20°",
+        "2 cos 40° cos 20°",
+        "2 sin 20° cos 40°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 40°, (c−a)/2 = 20° ⇒ 2 sin 40° cos 20°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 20° + sin 70°) / (cos 20° + cos 70°) nisbatning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "Bu nisbat tg((20° + 70°)/2) = tg(45°) = 1 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 70° + sin 20° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 25° cos 45°",
+        "2 cos 45° cos 25°",
+        "−2 sin 45° sin 25°",
+        "2 sin 45° cos 25°"
+      ],
+      "answer": 3,
+      "explain": "(c+a)/2 = 45°, (c−a)/2 = 25° ⇒ 2 sin 45° cos 25°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 25° + sin 35°) / (cos 25° + cos 35°) nisbatning qiymatini toping.",
+      "options": [
+        "√3/3",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "Bu nisbat tg((25° + 35°)/2) = tg(30°) = √3/3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 35° + sin 25° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 cos 30° cos 5°",
+        "2 sin 30° cos 5°",
+        "2 sin 5° cos 30°",
+        "−2 sin 30° sin 5°"
+      ],
+      "answer": 1,
+      "explain": "(c+a)/2 = 30°, (c−a)/2 = 5° ⇒ 2 sin 30° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 45° + sin 25° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 cos 35° cos 10°",
+        "−2 sin 35° sin 10°",
+        "2 sin 35° cos 10°",
+        "2 sin 10° cos 35°"
+      ],
+      "answer": 2,
+      "explain": "(c+a)/2 = 35°, (c−a)/2 = 10° ⇒ 2 sin 35° cos 10°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 55° + sin 25° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 cos 40° cos 15°",
+        "2 sin 15° cos 40°",
+        "−2 sin 40° sin 15°",
+        "2 sin 40° cos 15°"
+      ],
+      "answer": 3,
+      "explain": "(c+a)/2 = 40°, (c−a)/2 = 15° ⇒ 2 sin 40° cos 15°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 25° + sin 65°) / (cos 25° + cos 65°) nisbatning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "Bu nisbat tg((25° + 65°)/2) = tg(45°) = 1 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 65° + sin 25° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 45° cos 20°",
+        "2 sin 20° cos 45°",
+        "−2 sin 45° sin 20°",
+        "2 cos 45° cos 20°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 45°, (c−a)/2 = 20° ⇒ 2 sin 45° cos 20°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 40° + sin 30° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 35° cos 5°",
+        "2 cos 35° cos 5°",
+        "2 sin 5° cos 35°",
+        "−2 sin 35° sin 5°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 35°, (c−a)/2 = 5° ⇒ 2 sin 35° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 50° + sin 30° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 cos 40° cos 10°",
+        "2 sin 40° cos 10°",
+        "−2 sin 40° sin 10°",
+        "2 sin 10° cos 40°"
+      ],
+      "answer": 1,
+      "explain": "(c+a)/2 = 40°, (c−a)/2 = 10° ⇒ 2 sin 40° cos 10°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 30° + sin 60°) / (cos 30° + cos 60°) nisbatning qiymatini toping.",
+      "options": [
+        "0",
+        "1/2",
+        "−1",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "Bu nisbat tg((30° + 60°)/2) = tg(45°) = 1 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 60° + sin 30° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "−2 sin 45° sin 15°",
+        "2 cos 45° cos 15°",
+        "2 sin 45° cos 15°",
+        "2 sin 15° cos 45°"
+      ],
+      "answer": 2,
+      "explain": "(c+a)/2 = 45°, (c−a)/2 = 15° ⇒ 2 sin 45° cos 15°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 70° + sin 30° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 cos 50° cos 20°",
+        "2 sin 50° cos 20°",
+        "2 sin 20° cos 50°",
+        "−2 sin 50° sin 20°"
+      ],
+      "answer": 1,
+      "explain": "(c+a)/2 = 50°, (c−a)/2 = 20° ⇒ 2 sin 50° cos 20°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 35° + sin 25°) / (cos 35° + cos 25°) nisbatning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "√3/3",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "Bu nisbat tg((35° + 25°)/2) = tg(30°) = √3/3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 45° + sin 35° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 40° cos 5°",
+        "2 sin 5° cos 40°",
+        "2 cos 40° cos 5°",
+        "−2 sin 40° sin 5°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 40°, (c−a)/2 = 5° ⇒ 2 sin 40° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 35° + sin 55°) / (cos 35° + cos 55°) nisbatning qiymatini toping.",
+      "options": [
+        "1",
+        "1/2",
+        "−1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "Bu nisbat tg((35° + 55°)/2) = tg(45°) = 1 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 55° + sin 35° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 10° cos 45°",
+        "2 cos 45° cos 10°",
+        "2 sin 45° cos 10°",
+        "−2 sin 45° sin 10°"
+      ],
+      "answer": 2,
+      "explain": "(c+a)/2 = 45°, (c−a)/2 = 10° ⇒ 2 sin 45° cos 10°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 65° + sin 35° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 50° cos 15°",
+        "−2 sin 50° sin 15°",
+        "2 cos 50° cos 15°",
+        "2 sin 15° cos 50°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 50°, (c−a)/2 = 15° ⇒ 2 sin 50° cos 15°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 40° + sin 20°) / (cos 40° + cos 20°) nisbatning qiymatini toping.",
+      "options": [
+        "1",
+        "√3/3",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "Bu nisbat tg((40° + 20°)/2) = tg(30°) = √3/3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 40° + sin 50°) / (cos 40° + cos 50°) nisbatning qiymatini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "Bu nisbat tg((40° + 50°)/2) = tg(45°) = 1 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 50° + sin 40° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "−2 sin 45° sin 5°",
+        "2 cos 45° cos 5°",
+        "2 sin 5° cos 45°",
+        "2 sin 45° cos 5°"
+      ],
+      "answer": 3,
+      "explain": "(c+a)/2 = 45°, (c−a)/2 = 5° ⇒ 2 sin 45° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 60° + sin 40° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 50° cos 10°",
+        "2 sin 10° cos 50°",
+        "2 cos 50° cos 10°",
+        "−2 sin 50° sin 10°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 50°, (c−a)/2 = 10° ⇒ 2 sin 50° cos 10°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 70° + sin 40° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 55° cos 15°",
+        "−2 sin 55° sin 15°",
+        "2 sin 15° cos 55°",
+        "2 cos 55° cos 15°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 55°, (c−a)/2 = 15° ⇒ 2 sin 55° cos 15°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 45° + sin 15°) / (cos 45° + cos 15°) nisbatning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "√3/3"
+      ],
+      "answer": 3,
+      "explain": "Bu nisbat tg((45° + 15°)/2) = tg(30°) = √3/3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 55° + sin 45° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 50° cos 5°",
+        "−2 sin 50° sin 5°",
+        "2 sin 5° cos 50°",
+        "2 cos 50° cos 5°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 50°, (c−a)/2 = 5° ⇒ 2 sin 50° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "sin 65° + sin 45° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "−2 sin 55° sin 10°",
+        "2 sin 55° cos 10°",
+        "2 sin 10° cos 55°",
+        "2 cos 55° cos 10°"
+      ],
+      "answer": 1,
+      "explain": "(c+a)/2 = 55°, (c−a)/2 = 10° ⇒ 2 sin 55° cos 10°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 50° + sin 10°) / (cos 50° + cos 10°) nisbatning qiymatini toping.",
+      "options": [
+        "−1",
+        "0",
+        "√3/3",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Bu nisbat tg((50° + 10°)/2) = tg(30°) = √3/3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 50° + sin 40°) / (cos 50° + cos 40°) nisbatning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "1/2",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "Bu nisbat tg((50° + 40°)/2) = tg(45°) = 1 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 60° + sin 50° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "−2 sin 55° sin 5°",
+        "2 sin 55° cos 5°",
+        "2 cos 55° cos 5°",
+        "2 sin 5° cos 55°"
+      ],
+      "answer": 1,
+      "explain": "(c+a)/2 = 55°, (c−a)/2 = 5° ⇒ 2 sin 55° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 50° + sin 70°) / (cos 50° + cos 70°) nisbatning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "√3"
+      ],
+      "answer": 3,
+      "explain": "Bu nisbat tg((50° + 70°)/2) = tg(60°) = √3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 70° + sin 50° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 10° cos 60°",
+        "2 cos 60° cos 10°",
+        "−2 sin 60° sin 10°",
+        "2 sin 60° cos 10°"
+      ],
+      "answer": 3,
+      "explain": "(c+a)/2 = 60°, (c−a)/2 = 10° ⇒ 2 sin 60° cos 10°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 55° + sin 35°) / (cos 55° + cos 35°) nisbatning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "Bu nisbat tg((55° + 35°)/2) = tg(45°) = 1 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 55° + sin 65°) / (cos 55° + cos 65°) nisbatning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "√3",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "Bu nisbat tg((55° + 65°)/2) = tg(60°) = √3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 65° + sin 55° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 60° cos 5°",
+        "2 sin 5° cos 60°",
+        "−2 sin 60° sin 5°",
+        "2 cos 60° cos 5°"
+      ],
+      "answer": 0,
+      "explain": "(c+a)/2 = 60°, (c−a)/2 = 5° ⇒ 2 sin 60° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 60° + sin 30°) / (cos 60° + cos 30°) nisbatning qiymatini toping.",
+      "options": [
+        "1",
+        "−1",
+        "0",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "Bu nisbat tg((60° + 30°)/2) = tg(45°) = 1 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "sin 70° + sin 60° ifodani ko'paytma shaklida yozing.",
+      "options": [
+        "2 sin 5° cos 65°",
+        "−2 sin 65° sin 5°",
+        "2 cos 65° cos 5°",
+        "2 sin 65° cos 5°"
+      ],
+      "answer": 3,
+      "explain": "(c+a)/2 = 65°, (c−a)/2 = 5° ⇒ 2 sin 65° cos 5°."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 65° + sin 25°) / (cos 65° + cos 25°) nisbatning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "1/2",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "Bu nisbat tg((65° + 25°)/2) = tg(45°) = 1 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 65° + sin 55°) / (cos 65° + cos 55°) nisbatning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "√3",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "Bu nisbat tg((65° + 55°)/2) = tg(60°) = √3 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 70° + sin 20°) / (cos 70° + cos 20°) nisbatning qiymatini toping.",
+      "options": [
+        "1/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "Bu nisbat tg((70° + 20°)/2) = tg(45°) = 1 ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "(sin 70° + sin 50°) / (cos 70° + cos 50°) nisbatning qiymatini toping.",
+      "options": [
+        "−1",
+        "0",
+        "√3",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Bu nisbat tg((70° + 50°)/2) = tg(60°) = √3 ga teng."
+    },
+    {
+      "type": "fill",
+      "q": "2·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "2",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 2° + sin 88°) / (cos 2° + cos 88°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "3·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "3",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 3° + sin 87°) / (cos 3° + cos 87°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "4·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "4",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 4° + sin 86°) / (cos 4° + cos 86°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "5·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "5",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 5° + sin 85°) / (cos 5° + cos 85°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "6·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "6",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 6° + sin 84°) / (cos 6° + cos 84°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "7·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "7",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 7° + sin 83°) / (cos 7° + cos 83°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "8·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "8",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 8° + sin 82°) / (cos 8° + cos 82°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "9·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "9",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 9° + sin 81°) / (cos 9° + cos 81°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "10·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "10",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 10° + sin 80°) / (cos 10° + cos 80°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "11·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "11",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 11."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 11° + sin 79°) / (cos 11° + cos 79°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "12·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "12",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 12° + sin 78°) / (cos 12° + cos 78°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "13·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "13",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 13."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 13° + sin 77°) / (cos 13° + cos 77°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "14·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "14",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 14."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 14° + sin 76°) / (cos 14° + cos 76°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "15·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "15",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 15."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 15° + sin 75°) / (cos 15° + cos 75°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "16·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "16",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 16."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 16° + sin 74°) / (cos 16° + cos 74°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "17·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "17",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 17."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 17° + sin 73°) / (cos 17° + cos 73°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "18·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "18",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 18."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 18° + sin 72°) / (cos 18° + cos 72°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "19·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "19",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 19."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 19° + sin 71°) / (cos 19° + cos 71°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "20·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "20",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 20."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 20° + sin 70°) / (cos 20° + cos 70°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "21·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "21",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 21."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 21° + sin 69°) / (cos 21° + cos 69°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "22·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "22",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 22."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 22° + sin 68°) / (cos 22° + cos 68°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "23·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "23",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 23."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 23° + sin 67°) / (cos 23° + cos 67°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "24·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "24",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 24."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 24° + sin 66°) / (cos 24° + cos 66°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "25·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "25",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 25."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 25° + sin 65°) / (cos 25° + cos 65°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "26·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "26",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 26."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 26° + sin 64°) / (cos 26° + cos 64°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "27·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "27",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 27."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 27° + sin 63°) / (cos 27° + cos 63°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "28·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "28",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 28."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 28° + sin 62°) / (cos 28° + cos 62°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "29·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "29",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 29."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 29° + sin 61°) / (cos 29° + cos 61°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "30·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "30",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 30."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 30° + sin 60°) / (cos 30° + cos 60°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "31·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "31",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 31."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 31° + sin 59°) / (cos 31° + cos 59°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "32·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "32",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 32."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 32° + sin 58°) / (cos 32° + cos 58°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "33·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "33",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 33."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 33° + sin 57°) / (cos 33° + cos 57°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "34·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "34",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 34."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 34° + sin 56°) / (cos 34° + cos 56°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "35·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "35",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 35."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 35° + sin 55°) / (cos 35° + cos 55°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "36·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "36",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 36."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 36° + sin 54°) / (cos 36° + cos 54°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "37·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "37",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 37."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 37° + sin 53°) / (cos 37° + cos 53°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "38·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "38",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 38."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 38° + sin 52°) / (cos 38° + cos 52°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "39·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "39",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 39."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 39° + sin 51°) / (cos 39° + cos 51°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "40·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "40",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 40."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 40° + sin 50°) / (cos 40° + cos 50°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "41·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "41",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 41."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 41° + sin 49°) / (cos 41° + cos 49°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "42·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "42",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 42."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 42° + sin 48°) / (cos 42° + cos 48°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "43·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "43",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 43."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 43° + sin 47°) / (cos 43° + cos 47°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "44·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "44",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 44."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 44° + sin 46°) / (cos 44° + cos 46°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "45·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "45",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 45."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 45° + sin 45°) / (cos 45° + cos 45°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "46·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "46",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 46."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 46° + sin 44°) / (cos 46° + cos 44°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "47·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "47",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 47."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 47° + sin 43°) / (cos 47° + cos 43°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "48·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "48",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 48."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 48° + sin 42°) / (cos 48° + cos 42°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "49·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "49",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 49."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 49° + sin 41°) / (cos 49° + cos 41°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "fill",
+      "q": "50·(sin 50° + sin 40°) / (cos 50° + cos 40°) ifodaning qiymatini hisoblang.",
+      "answer": "50",
+      "explain": "(sin 50° + sin 40°)/(cos 50° + cos 40°) = tg 45° = 1 ⇒ javob 50."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 50° + sin 40°) / (cos 50° + cos 40°) = 1 tenglik to'g'ri.",
+      "answer": true,
+      "explain": "Burchaklar o'rta arifmetigi 45°, tg 45° = 1."
+    },
+    {
+      "type": "choice",
+      "q": "2·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "2·ctg 10°",
+        "2",
+        "−2·tg 10°",
+        "2·tg 10°"
+      ],
+      "answer": 3,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 2·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin 75° · cos 15° − 2·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "3",
+        "4",
+        "0",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 2(1 + sin 60°) − 2sin 60° = 2."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos 75° · cos 15° − 2·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "−2",
+        "4",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 2° + sin 58°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 2°)·cos(45° + 2°) − cos(4°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 4°) = cos(4°) ⇒ cos(4°) − cos(4°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "3·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−3·tg 10°",
+        "3·tg 10°",
+        "3",
+        "3·ctg 10°"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 3·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin 75° · cos 15° − 3·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "3",
+        "4",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 3(1 + sin 60°) − 3sin 60° = 3."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos 75° · cos 15° − 3·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "3",
+        "−3",
+        "0",
+        "6"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 3° + sin 57°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 3°)·cos(45° + 3°) − cos(6°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 6°) = cos(6°) ⇒ cos(6°) − cos(6°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−4·tg 10°",
+        "4·tg 10°",
+        "4",
+        "4·ctg 10°"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 4·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "8·sin 75° · cos 15° − 4·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "4",
+        "8",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 4(1 + sin 60°) − 4sin 60° = 4."
+    },
+    {
+      "type": "choice",
+      "q": "8·cos 75° · cos 15° − 4·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−4",
+        "0",
+        "8",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 4° + sin 56°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 4°)·cos(45° + 4°) − cos(8°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 8°) = cos(8°) ⇒ cos(8°) − cos(8°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "5·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "5",
+        "5·tg 10°",
+        "−5·tg 10°",
+        "5·ctg 10°"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 5·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "10·sin 75° · cos 15° − 5·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "5",
+        "6",
+        "0",
+        "10"
+      ],
+      "answer": 0,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 5(1 + sin 60°) − 5sin 60° = 5."
+    },
+    {
+      "type": "choice",
+      "q": "10·cos 75° · cos 15° − 5·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−5",
+        "5",
+        "10",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 5° + sin 55°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 5°)·cos(45° + 5°) − cos(10°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 10°) = cos(10°) ⇒ cos(10°) − cos(10°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "6·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "6·tg 10°",
+        "−6·tg 10°",
+        "6",
+        "6·ctg 10°"
+      ],
+      "answer": 0,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 6·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "12·sin 75° · cos 15° − 6·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "6",
+        "12",
+        "7",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 6(1 + sin 60°) − 6sin 60° = 6."
+    },
+    {
+      "type": "choice",
+      "q": "12·cos 75° · cos 15° − 6·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "6",
+        "12",
+        "0",
+        "−6"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 6° + sin 54°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 6°)·cos(45° + 6°) − cos(12°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 12°) = cos(12°) ⇒ cos(12°) − cos(12°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "7·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "7·ctg 10°",
+        "−7·tg 10°",
+        "7",
+        "7·tg 10°"
+      ],
+      "answer": 3,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 7·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "14·sin 75° · cos 15° − 7·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "14",
+        "7",
+        "8",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 7(1 + sin 60°) − 7sin 60° = 7."
+    },
+    {
+      "type": "choice",
+      "q": "14·cos 75° · cos 15° − 7·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "14",
+        "0",
+        "7",
+        "−7"
+      ],
+      "answer": 1,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 7° + sin 53°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 7°)·cos(45° + 7°) − cos(14°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 14°) = cos(14°) ⇒ cos(14°) − cos(14°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "8·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "8·tg 10°",
+        "8",
+        "−8·tg 10°",
+        "8·ctg 10°"
+      ],
+      "answer": 0,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 8·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "16·sin 75° · cos 15° − 8·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "16",
+        "0",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 8(1 + sin 60°) − 8sin 60° = 8."
+    },
+    {
+      "type": "choice",
+      "q": "16·cos 75° · cos 15° − 8·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "8",
+        "16",
+        "0",
+        "−8"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 8° + sin 52°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 8°)·cos(45° + 8°) − cos(16°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 16°) = cos(16°) ⇒ cos(16°) − cos(16°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "9·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−9·tg 10°",
+        "9·tg 10°",
+        "9·ctg 10°",
+        "9"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 9·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "18·sin 75° · cos 15° − 9·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "18",
+        "9",
+        "10",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 9(1 + sin 60°) − 9sin 60° = 9."
+    },
+    {
+      "type": "choice",
+      "q": "18·cos 75° · cos 15° − 9·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "9",
+        "18",
+        "−9"
+      ],
+      "answer": 0,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 9° + sin 51°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 9°)·cos(45° + 9°) − cos(18°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 18°) = cos(18°) ⇒ cos(18°) − cos(18°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "10·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "10·ctg 10°",
+        "10",
+        "10·tg 10°",
+        "−10·tg 10°"
+      ],
+      "answer": 2,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 10·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "20·sin 75° · cos 15° − 10·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "11",
+        "10",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 10(1 + sin 60°) − 10sin 60° = 10."
+    },
+    {
+      "type": "choice",
+      "q": "20·cos 75° · cos 15° − 10·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−10",
+        "10",
+        "0",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 10° + sin 50°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 10°)·cos(45° + 10°) − cos(20°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 20°) = cos(20°) ⇒ cos(20°) − cos(20°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "11·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−11·tg 10°",
+        "11·tg 10°",
+        "11",
+        "11·ctg 10°"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 11·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "22·sin 75° · cos 15° − 11·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "12",
+        "11",
+        "22"
+      ],
+      "answer": 2,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 11(1 + sin 60°) − 11sin 60° = 11."
+    },
+    {
+      "type": "choice",
+      "q": "22·cos 75° · cos 15° − 11·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−11",
+        "11",
+        "0",
+        "22"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 11° + sin 49°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 11°)·cos(45° + 11°) − cos(22°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 22°) = cos(22°) ⇒ cos(22°) − cos(22°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "12·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−12·tg 10°",
+        "12·tg 10°",
+        "12·ctg 10°",
+        "12"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 12·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "24·sin 75° · cos 15° − 12·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "24",
+        "13",
+        "12",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 12(1 + sin 60°) − 12sin 60° = 12."
+    },
+    {
+      "type": "choice",
+      "q": "24·cos 75° · cos 15° − 12·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−12",
+        "24",
+        "12",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 12° + sin 48°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 12°)·cos(45° + 12°) − cos(24°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 24°) = cos(24°) ⇒ cos(24°) − cos(24°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "13·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "13·ctg 10°",
+        "13·tg 10°",
+        "13",
+        "−13·tg 10°"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 13·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "26·sin 75° · cos 15° − 13·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "26",
+        "14",
+        "13",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 13(1 + sin 60°) − 13sin 60° = 13."
+    },
+    {
+      "type": "choice",
+      "q": "26·cos 75° · cos 15° − 13·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "13",
+        "26",
+        "−13",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 13° + sin 47°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 13°)·cos(45° + 13°) − cos(26°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 26°) = cos(26°) ⇒ cos(26°) − cos(26°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "14·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−14·tg 10°",
+        "14",
+        "14·ctg 10°",
+        "14·tg 10°"
+      ],
+      "answer": 3,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 14·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "28·sin 75° · cos 15° − 14·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "15",
+        "14",
+        "28"
+      ],
+      "answer": 2,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 14(1 + sin 60°) − 14sin 60° = 14."
+    },
+    {
+      "type": "choice",
+      "q": "28·cos 75° · cos 15° − 14·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "28",
+        "−14",
+        "14",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 14° + sin 46°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 14°)·cos(45° + 14°) − cos(28°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 28°) = cos(28°) ⇒ cos(28°) − cos(28°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "15·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "15·ctg 10°",
+        "−15·tg 10°",
+        "15",
+        "15·tg 10°"
+      ],
+      "answer": 3,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 15·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "30·sin 75° · cos 15° − 15·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "15",
+        "30",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 15(1 + sin 60°) − 15sin 60° = 15."
+    },
+    {
+      "type": "choice",
+      "q": "30·cos 75° · cos 15° − 15·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "30",
+        "−15",
+        "0",
+        "15"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 15° + sin 45°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 15°)·cos(45° + 15°) − cos(30°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 30°) = cos(30°) ⇒ cos(30°) − cos(30°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "16·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "16",
+        "16·ctg 10°",
+        "−16·tg 10°",
+        "16·tg 10°"
+      ],
+      "answer": 3,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 16·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "32·sin 75° · cos 15° − 16·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "16",
+        "0",
+        "17",
+        "32"
+      ],
+      "answer": 0,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 16(1 + sin 60°) − 16sin 60° = 16."
+    },
+    {
+      "type": "choice",
+      "q": "32·cos 75° · cos 15° − 16·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "16",
+        "32",
+        "−16",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 16° + sin 44°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 16°)·cos(45° + 16°) − cos(32°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 32°) = cos(32°) ⇒ cos(32°) − cos(32°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "17·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "17",
+        "17·tg 10°",
+        "17·ctg 10°",
+        "−17·tg 10°"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 17·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "34·sin 75° · cos 15° − 17·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "18",
+        "34",
+        "17",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 17(1 + sin 60°) − 17sin 60° = 17."
+    },
+    {
+      "type": "choice",
+      "q": "34·cos 75° · cos 15° − 17·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "34",
+        "−17",
+        "17"
+      ],
+      "answer": 0,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 17° + sin 43°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 17°)·cos(45° + 17°) − cos(34°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 34°) = cos(34°) ⇒ cos(34°) − cos(34°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "18·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "18·tg 10°",
+        "−18·tg 10°",
+        "18·ctg 10°",
+        "18"
+      ],
+      "answer": 0,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 18·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "36·sin 75° · cos 15° − 18·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "19",
+        "36",
+        "18"
+      ],
+      "answer": 3,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 18(1 + sin 60°) − 18sin 60° = 18."
+    },
+    {
+      "type": "choice",
+      "q": "36·cos 75° · cos 15° − 18·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "36",
+        "0",
+        "18",
+        "−18"
+      ],
+      "answer": 1,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 18° + sin 42°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 18°)·cos(45° + 18°) − cos(36°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 36°) = cos(36°) ⇒ cos(36°) − cos(36°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "19·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "19·tg 10°",
+        "−19·tg 10°",
+        "19·ctg 10°",
+        "19"
+      ],
+      "answer": 0,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 19·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "38·sin 75° · cos 15° − 19·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "19",
+        "20",
+        "38"
+      ],
+      "answer": 1,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 19(1 + sin 60°) − 19sin 60° = 19."
+    },
+    {
+      "type": "choice",
+      "q": "38·cos 75° · cos 15° − 19·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−19",
+        "19",
+        "0",
+        "38"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 19° + sin 41°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 19°)·cos(45° + 19°) − cos(38°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 38°) = cos(38°) ⇒ cos(38°) − cos(38°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "20·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−20·tg 10°",
+        "20",
+        "20·tg 10°",
+        "20·ctg 10°"
+      ],
+      "answer": 2,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 20·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "40·sin 75° · cos 15° − 20·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "20",
+        "0",
+        "40",
+        "21"
+      ],
+      "answer": 0,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 20(1 + sin 60°) − 20sin 60° = 20."
+    },
+    {
+      "type": "choice",
+      "q": "40·cos 75° · cos 15° − 20·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "20",
+        "−20",
+        "0",
+        "40"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 20° + sin 40°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 20°)·cos(45° + 20°) − cos(40°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 40°) = cos(40°) ⇒ cos(40°) − cos(40°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "21·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "21",
+        "21·ctg 10°",
+        "−21·tg 10°",
+        "21·tg 10°"
+      ],
+      "answer": 3,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 21·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "42·sin 75° · cos 15° − 21·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "21",
+        "42",
+        "22",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 21(1 + sin 60°) − 21sin 60° = 21."
+    },
+    {
+      "type": "choice",
+      "q": "42·cos 75° · cos 15° − 21·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "42",
+        "−21",
+        "21"
+      ],
+      "answer": 0,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 21° + sin 39°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 21°)·cos(45° + 21°) − cos(42°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 42°) = cos(42°) ⇒ cos(42°) − cos(42°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "22·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−22·tg 10°",
+        "22",
+        "22·tg 10°",
+        "22·ctg 10°"
+      ],
+      "answer": 2,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 22·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "44·sin 75° · cos 15° − 22·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "44",
+        "23",
+        "22"
+      ],
+      "answer": 3,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 22(1 + sin 60°) − 22sin 60° = 22."
+    },
+    {
+      "type": "choice",
+      "q": "44·cos 75° · cos 15° − 22·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "44",
+        "0",
+        "−22",
+        "22"
+      ],
+      "answer": 1,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 22° + sin 38°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 22°)·cos(45° + 22°) − cos(44°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 44°) = cos(44°) ⇒ cos(44°) − cos(44°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "23·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "23·ctg 10°",
+        "23·tg 10°",
+        "−23·tg 10°",
+        "23"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 23·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "46·sin 75° · cos 15° − 23·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "46",
+        "0",
+        "23",
+        "24"
+      ],
+      "answer": 2,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 23(1 + sin 60°) − 23sin 60° = 23."
+    },
+    {
+      "type": "choice",
+      "q": "46·cos 75° · cos 15° − 23·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "23",
+        "−23",
+        "46"
+      ],
+      "answer": 0,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 23° + sin 37°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 23°)·cos(45° + 23°) − cos(46°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 46°) = cos(46°) ⇒ cos(46°) − cos(46°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "24·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "24",
+        "24·tg 10°",
+        "24·ctg 10°",
+        "−24·tg 10°"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 24·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "48·sin 75° · cos 15° − 24·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "48",
+        "25",
+        "0",
+        "24"
+      ],
+      "answer": 3,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 24(1 + sin 60°) − 24sin 60° = 24."
+    },
+    {
+      "type": "choice",
+      "q": "48·cos 75° · cos 15° − 24·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "48",
+        "24",
+        "0",
+        "−24"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 24° + sin 36°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 24°)·cos(45° + 24°) − cos(48°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 48°) = cos(48°) ⇒ cos(48°) − cos(48°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "25·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "25",
+        "−25·tg 10°",
+        "25·tg 10°",
+        "25·ctg 10°"
+      ],
+      "answer": 2,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 25·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "50·sin 75° · cos 15° − 25·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "25",
+        "50",
+        "0",
+        "26"
+      ],
+      "answer": 0,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 25(1 + sin 60°) − 25sin 60° = 25."
+    },
+    {
+      "type": "choice",
+      "q": "50·cos 75° · cos 15° − 25·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−25",
+        "25",
+        "0",
+        "50"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 25° + sin 35°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 25°)·cos(45° + 25°) − cos(50°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 50°) = cos(50°) ⇒ cos(50°) − cos(50°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "26·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−26·tg 10°",
+        "26",
+        "26·ctg 10°",
+        "26·tg 10°"
+      ],
+      "answer": 3,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 26·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "52·sin 75° · cos 15° − 26·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "27",
+        "0",
+        "52",
+        "26"
+      ],
+      "answer": 3,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 26(1 + sin 60°) − 26sin 60° = 26."
+    },
+    {
+      "type": "choice",
+      "q": "52·cos 75° · cos 15° − 26·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "52",
+        "−26",
+        "26"
+      ],
+      "answer": 0,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 26° + sin 34°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 26°)·cos(45° + 26°) − cos(52°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 52°) = cos(52°) ⇒ cos(52°) − cos(52°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "27·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "27",
+        "27·ctg 10°",
+        "27·tg 10°",
+        "−27·tg 10°"
+      ],
+      "answer": 2,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 27·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "54·sin 75° · cos 15° − 27·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "54",
+        "28",
+        "27"
+      ],
+      "answer": 3,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 27(1 + sin 60°) − 27sin 60° = 27."
+    },
+    {
+      "type": "choice",
+      "q": "54·cos 75° · cos 15° − 27·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−27",
+        "54",
+        "0",
+        "27"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 27° + sin 33°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 27°)·cos(45° + 27°) − cos(54°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 54°) = cos(54°) ⇒ cos(54°) − cos(54°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "28·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "28",
+        "28·ctg 10°",
+        "28·tg 10°",
+        "−28·tg 10°"
+      ],
+      "answer": 2,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 28·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "56·sin 75° · cos 15° − 28·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "28",
+        "56",
+        "0",
+        "29"
+      ],
+      "answer": 0,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 28(1 + sin 60°) − 28sin 60° = 28."
+    },
+    {
+      "type": "choice",
+      "q": "56·cos 75° · cos 15° − 28·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−28",
+        "28",
+        "0",
+        "56"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 28° + sin 32°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 28°)·cos(45° + 28°) − cos(56°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 56°) = cos(56°) ⇒ cos(56°) − cos(56°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "29·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−29·tg 10°",
+        "29",
+        "29·ctg 10°",
+        "29·tg 10°"
+      ],
+      "answer": 3,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 29·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "58·sin 75° · cos 15° − 29·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "58",
+        "29",
+        "30"
+      ],
+      "answer": 2,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 29(1 + sin 60°) − 29sin 60° = 29."
+    },
+    {
+      "type": "choice",
+      "q": "58·cos 75° · cos 15° − 29·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−29",
+        "58",
+        "0",
+        "29"
+      ],
+      "answer": 2,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 29° + sin 31°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 29°)·cos(45° + 29°) − cos(58°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 58°) = cos(58°) ⇒ cos(58°) − cos(58°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "30·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "−30·tg 10°",
+        "30·tg 10°",
+        "30",
+        "30·ctg 10°"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 30·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "60·sin 75° · cos 15° − 30·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "30",
+        "60",
+        "0",
+        "31"
+      ],
+      "answer": 0,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 30(1 + sin 60°) − 30sin 60° = 30."
+    },
+    {
+      "type": "choice",
+      "q": "60·cos 75° · cos 15° − 30·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "60",
+        "30",
+        "−30",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 30° + sin 30°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 30°)·cos(45° + 30°) − cos(60°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 60°) = cos(60°) ⇒ cos(60°) − cos(60°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "31·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "31·ctg 10°",
+        "31·tg 10°",
+        "−31·tg 10°",
+        "31"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 31·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "62·sin 75° · cos 15° − 31·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "32",
+        "62",
+        "31"
+      ],
+      "answer": 3,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 31(1 + sin 60°) − 31sin 60° = 31."
+    },
+    {
+      "type": "choice",
+      "q": "62·cos 75° · cos 15° − 31·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "31",
+        "−31",
+        "62",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 31° + sin 29°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 31°)·cos(45° + 31°) − cos(62°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 62°) = cos(62°) ⇒ cos(62°) − cos(62°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "32·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "32·ctg 10°",
+        "32·tg 10°",
+        "−32·tg 10°",
+        "32"
+      ],
+      "answer": 1,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 32·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "64·sin 75° · cos 15° − 32·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "0",
+        "32",
+        "33",
+        "64"
+      ],
+      "answer": 1,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 32(1 + sin 60°) − 32sin 60° = 32."
+    },
+    {
+      "type": "choice",
+      "q": "64·cos 75° · cos 15° − 32·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "0",
+        "−32",
+        "32",
+        "64"
+      ],
+      "answer": 0,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "(sin 32° + sin 28°) ifodani ko'paytmaga keltirganda musbat qiymat chiqadi.",
+      "answer": true,
+      "explain": "I chorak burchaklari uchun sinuslar musbat, yig'indisi ham musbat."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(45° + 32°)·cos(45° + 32°) − cos(64°) ifodani hisoblang.",
+      "answer": "0",
+      "explain": "sin(90° + 64°) = cos(64°) ⇒ cos(64°) − cos(64°) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "33·(cos 20° − cos 40°) / (sin 20° + sin 40°) ifoda nimaga teng?",
+      "options": [
+        "33·tg 10°",
+        "33·ctg 10°",
+        "33",
+        "−33·tg 10°"
+      ],
+      "answer": 0,
+      "explain": "(2 sin 30° sin 10°) / (2 sin 30° cos 10°) = tg 10° ⇒ 33·tg 10°."
+    },
+    {
+      "type": "choice",
+      "q": "66·sin 75° · cos 15° − 33·sin 60° ifodaning qiymatini soddalashtiring.",
+      "options": [
+        "34",
+        "0",
+        "33",
+        "66"
+      ],
+      "answer": 2,
+      "explain": "2 sin 75° cos 15° = sin 90° + sin 60° = 1 + sin 60° ⇒ 33(1 + sin 60°) − 33sin 60° = 33."
+    },
+    {
+      "type": "choice",
+      "q": "66·cos 75° · cos 15° − 33·cos 60° ifodaning qiymatini hisoblang.",
+      "options": [
+        "−33",
+        "66",
+        "33",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 cos 75° cos 15° = cos 90° + cos 60° = cos 60° ⇒ ayirma 0."
+    }
+  ],
+  "cards": [
+    [
+      "Radian",
+      "Yoy uzunligi radiusga teng markaziy burchak"
+    ],
+    [
+      "Sinus",
+      "Burilgan nuqtaning ordinatasi (y koordinatasi)"
+    ],
+    [
+      "Kosinus",
+      "Burilgan nuqtaning abssissasi (x koordinatasi)"
+    ],
+    [
+      "Tangens",
+      "Sinusning kosinusga nisbati (sin α / cos α)"
+    ],
+    [
+      "Kotangens",
+      "Kosinusning sinusga nisbati (cos α / sin α)"
+    ],
+    [
+      "Ayniyat",
+      "O'zgaruvchining barcha ruxsatli qiymatlarida to'g'ri tenglik"
+    ],
+    [
+      "Birlik",
+      "Radiusi R = 1 bo'lgan markaziy aylana"
+    ],
+    [
+      "Chorak",
+      "Koordinata tekisligining to'rtdan bir qismi"
+    ],
+    [
+      "Davr",
+      "Trigonometrik funksiyalar qiymati takrorlanuvchi burchak"
+    ],
+    [
+      "Keltirish",
+      "Katta burchakni o'tkir burchak orqali ifodalash"
+    ],
+    [
+      "Beruniy",
+      "Yer radiusini 6372,91 km aniqlikda hisoblagan olim"
+    ],
+    [
+      "Ulug'bek",
+      "sin 1° ni 18 xona aniqlikkacha hisoblagan alloma"
+    ],
+    [
+      "Koshiy",
+      "π sonini 16 kasr xonasigacha aniqlagan alloma"
+    ],
+    [
+      "sin α + sin β",
+      "2 sin((α+β)/2) cos((α−β)/2)"
+    ],
+    [
+      "sin α − sin β",
+      "2 sin((α−β)/2) cos((α+β)/2)"
+    ],
+    [
+      "cos α + cos β",
+      "2 cos((α+β)/2) cos((α−β)/2)"
+    ],
+    [
+      "cos α − cos β",
+      "−2 sin((α+β)/2) sin((α−β)/2)"
+    ],
+    [
+      "sin 75° + sin 15°",
+      "2 sin 45° cos 30° = √6 / 2"
+    ],
+    [
+      "cos 75° + cos 15°",
+      "2 cos 45° cos 30° = √6 / 2"
+    ],
+    [
+      "cos 75° − cos 15°",
+      "−2 sin 45° sin 30° = −√2 / 2"
+    ],
+    [
+      "sin 75° − sin 15°",
+      "2 sin 30° cos 45° = √2 / 2"
+    ],
+    [
+      "sin α + cos α",
+      "√2 · sin(α + 45°) ga teng"
+    ],
+    [
+      "Zij jadvali",
+      "Ulug'bekning Samarqanddagi trigonometrik jadvallari"
+    ],
+    [
+      "III bob test",
+      "Trigonometriya asosiy formulalari yakuni"
+    ]
+  ]
+}

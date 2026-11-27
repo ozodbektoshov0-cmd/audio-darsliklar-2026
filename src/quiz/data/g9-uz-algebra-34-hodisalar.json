@@ -1,0 +1,3800 @@
+{
+  "id": "g9-uz-algebra-34-hodisalar",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "34-§. Hodisalar",
+  "title": "34-§. Hodisalar",
+  "source": "Algebra 9-sinf (2019), V bob, 34-§, 186–190-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Tajribada albatta ro'y beradigan hodisa qanday ataladi?",
+      "options": [
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa"
+      ],
+      "answer": 0,
+      "explain": "Har bir sinovda muqarrar sodir bo'ladigan hodisa muqarrar hodisa (Ω) deyiladi."
+    },
+    {
+      "type": "choice",
+      "q": "Tajribada hech qachon sodir bo'lmaydigan hodisa qanday nomlanadi?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa"
+      ],
+      "answer": 0,
+      "explain": "Bo'sh to'plam ∅ bilan belgilanadigan hodisa mumkin bo'lmagan hodisadir."
+    },
+    {
+      "type": "choice",
+      "q": "Bir tajribada bir vaqtda ro'y bera olmaydigan ikki hodisa qanday ataladi?",
+      "options": [
+        "Birgalikda bo'lmagan (uyg'unmas) hodisalar",
+        "Uyg'un hodisalar",
+        "Muqarrar hodisalar",
+        "Mustaqil hodisalar"
+      ],
+      "answer": 0,
+      "explain": "Ularning kesishmasi bo'sh to'plam bo'lsa, birgalikda bo'lmagan hodisalar deyiladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "O'yin kubigini (soqqani) bir marta tashlaganda 7 ochko tushishi mumkin bo'lmagan hodisadir.",
+      "answer": true,
+      "explain": "Kubik yoqlarida faqat 1 dan 6 gacha ochkolar bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "O'yin soqqasini bir marta tashlaganda 7 dan kichik natural ochko tushishi tasodifiy hodisadir.",
+      "answer": false,
+      "explain": "1, 2, 3, 4, 5, 6 barchasi 7 dan kichik, demak bu muqarrar hodisa."
+    },
+    {
+      "type": "fill",
+      "q": "Simmetrik tangani 1 marta ketma-ket tashlaganda nechta teng imkoniyatli elementar natija bo'ladi?",
+      "answer": "2",
+      "explain": "Har tashlashda 2 natija: 2^1 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "1 ta o'yin soqqasini birga tashlaganda jami nechta elementar natija bo'ladi?",
+      "options": [
+        "6",
+        "12",
+        "2",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "6^1 = 6 ta natija."
+    },
+    {
+      "type": "fill",
+      "q": "Simmetrik tangani 2 marta ketma-ket tashlaganda nechta teng imkoniyatli elementar natija bo'ladi?",
+      "answer": "4",
+      "explain": "Har tashlashda 2 natija: 2^2 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "2 ta o'yin soqqasini birga tashlaganda jami nechta elementar natija bo'ladi?",
+      "options": [
+        "72",
+        "4",
+        "36",
+        "12"
+      ],
+      "answer": 2,
+      "explain": "6^2 = 36 ta natija."
+    },
+    {
+      "type": "fill",
+      "q": "Simmetrik tangani 3 marta ketma-ket tashlaganda nechta teng imkoniyatli elementar natija bo'ladi?",
+      "answer": "8",
+      "explain": "Har tashlashda 2 natija: 2^3 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "3 ta o'yin soqqasini birga tashlaganda jami nechta elementar natija bo'ladi?",
+      "options": [
+        "18",
+        "216",
+        "8",
+        "432"
+      ],
+      "answer": 1,
+      "explain": "6^3 = 216 ta natija."
+    },
+    {
+      "type": "fill",
+      "q": "Simmetrik tangani 4 marta ketma-ket tashlaganda nechta teng imkoniyatli elementar natija bo'ladi?",
+      "answer": "16",
+      "explain": "Har tashlashda 2 natija: 2^4 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "4 ta o'yin soqqasini birga tashlaganda jami nechta elementar natija bo'ladi?",
+      "options": [
+        "1296",
+        "24",
+        "2592",
+        "16"
+      ],
+      "answer": 0,
+      "explain": "6^4 = 1296 ta natija."
+    },
+    {
+      "type": "fill",
+      "q": "Simmetrik tangani 5 marta ketma-ket tashlaganda nechta teng imkoniyatli elementar natija bo'ladi?",
+      "answer": "32",
+      "explain": "Har tashlashda 2 natija: 2^5 = 32."
+    },
+    {
+      "type": "fill",
+      "q": "Simmetrik tangani 6 marta ketma-ket tashlaganda nechta teng imkoniyatli elementar natija bo'ladi?",
+      "answer": "64",
+      "explain": "Har tashlashda 2 natija: 2^6 = 64."
+    },
+    {
+      "type": "fill",
+      "q": "Simmetrik tangani 7 marta ketma-ket tashlaganda nechta teng imkoniyatli elementar natija bo'ladi?",
+      "answer": "128",
+      "explain": "Har tashlashda 2 natija: 2^7 = 128."
+    },
+    {
+      "type": "fill",
+      "q": "Simmetrik tangani 8 marta ketma-ket tashlaganda nechta teng imkoniyatli elementar natija bo'ladi?",
+      "answer": "256",
+      "explain": "Har tashlashda 2 natija: 2^8 = 256."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 3 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Teng imkoniyatli hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 2,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 3 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Qarama-qarshi hodisa"
+      ],
+      "answer": 2,
+      "explain": "Barcha 3 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq va 5 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 4 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 4 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 2,
+      "explain": "Barcha 4 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq va 6 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Aniq hodisa"
+      ],
+      "answer": 2,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 5 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 5 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa"
+      ],
+      "answer": 1,
+      "explain": "Barcha 5 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq va 7 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Aniq hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 6 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Teng imkoniyatli hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 6 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 6 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq va 8 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Aniq hodisa"
+      ],
+      "answer": 2,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 7 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Teng imkoniyatli hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 7 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Barcha 7 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq va 9 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Aniq hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 2,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 8 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Teng imkoniyatli hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 8 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa"
+      ],
+      "answer": 0,
+      "explain": "Barcha 8 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq va 10 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Aniq hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 9 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 2,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 9 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 9 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq va 11 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 1,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 10 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 10 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 10 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq va 12 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 2,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 11 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 11 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Qarama-qarshi hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 1,
+      "explain": "Barcha 11 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 11 ta oq va 13 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Aniq hodisa"
+      ],
+      "answer": 2,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 12 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 12 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Qarama-qarshi hodisa"
+      ],
+      "answer": 2,
+      "explain": "Barcha 12 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 12 ta oq va 14 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 3,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 13 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 13 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 2,
+      "explain": "Barcha 13 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 13 ta oq va 15 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 1,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 14 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 14 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 14 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 14 ta oq va 16 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 1,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 15 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 15 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 0,
+      "explain": "Barcha 15 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 15 ta oq va 17 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 3,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 16 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Teng imkoniyatli hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 16 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 16 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 16 ta oq va 18 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 3,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 17 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 17 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 17 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 17 ta oq va 19 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Aniq hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 18 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 18 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa"
+      ],
+      "answer": 1,
+      "explain": "Barcha 18 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 18 ta oq va 20 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 2,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 19 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 19 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 2,
+      "explain": "Barcha 19 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 19 ta oq va 21 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Aniq hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 2,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 20 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 2,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 20 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Barcha 20 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 20 ta oq va 22 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Aniq hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 3,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 21 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 21 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Qarama-qarshi hodisa"
+      ],
+      "answer": 2,
+      "explain": "Barcha 21 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 21 ta oq va 23 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 3,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 22 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 22 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 1,
+      "explain": "Barcha 22 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 22 ta oq va 24 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 23 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 23 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 23 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 23 ta oq va 25 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Aniq hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 24 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 1,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 24 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 0,
+      "explain": "Barcha 24 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 24 ta oq va 26 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Aniq hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 25 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 25 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa"
+      ],
+      "answer": 0,
+      "explain": "Barcha 25 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 25 ta oq va 27 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 3,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 26 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa"
+      ],
+      "answer": 1,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 26 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 26 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 26 ta oq va 28 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 1,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 27 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 2,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 27 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 27 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 27 ta oq va 29 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 28 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Teng imkoniyatli hodisa"
+      ],
+      "answer": 2,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 28 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Qarama-qarshi hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Barcha 28 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 28 ta oq va 30 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 3,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 29 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 1,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 29 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 29 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 29 ta oq va 31 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 30 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 1,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 30 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Qarama-qarshi hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 30 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 30 ta oq va 32 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 1,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 31 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Teng imkoniyatli hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 31 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Qarama-qarshi hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Barcha 31 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 31 ta oq va 33 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 2,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 32 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 32 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Barcha 32 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 32 ta oq va 34 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 2,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 33 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Teng imkoniyatli hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 33 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 1,
+      "explain": "Barcha 33 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 33 ta oq va 35 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Aniq hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 34 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 34 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 34 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 34 ta oq va 36 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 35 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Teng imkoniyatli hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 0,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 35 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Qarama-qarshi hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 2,
+      "explain": "Barcha 35 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 35 ta oq va 37 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Aniq hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 36 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 2,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 36 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Qarama-qarshi hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Barcha 36 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 36 ta oq va 38 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Mumkin bo'lmagan hodisa",
+        "Aniq hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 3,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 37 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Teng imkoniyatli hodisa"
+      ],
+      "answer": 2,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 37 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 37 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 37 ta oq va 39 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Aniq hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 38 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Teng imkoniyatli hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 1,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 38 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa"
+      ],
+      "answer": 1,
+      "explain": "Barcha 38 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 38 ta oq va 40 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Aniq hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Tasodifiy hodisa"
+      ],
+      "answer": 3,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 39 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Teng imkoniyatli hodisa",
+        "Tasodifiy hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 3,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 39 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Qarama-qarshi hodisa",
+        "Muqarrar hodisa"
+      ],
+      "answer": 3,
+      "explain": "Barcha 39 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 39 ta oq va 41 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Aniq hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 40 ta oq shar bor. Tasodifiy olingan sharning qora bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Teng imkoniyatli hodisa"
+      ],
+      "answer": 1,
+      "explain": "Qutida qora shar umuman yo'q, shuning uchun bu mumkin bo'lmagan hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida faqat 40 ta ko'k shar bor. Olingan bitta sharning ko'k bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Mumkin bo'lmagan hodisa",
+        "Muqarrar hodisa",
+        "Qarama-qarshi hodisa"
+      ],
+      "answer": 2,
+      "explain": "Barcha 40 ta shar ko'k bo'lgani uchun har doim ko'k shar chiqadi — muqarrar hodisa."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 40 ta oq va 42 ta qizil shar bor. Olingan sharning oq bo'lishi qanday hodisa?",
+      "options": [
+        "Tasodifiy hodisa",
+        "Aniq hodisa",
+        "Muqarrar hodisa",
+        "Mumkin bo'lmagan hodisa"
+      ],
+      "answer": 0,
+      "explain": "Oq ham, qizil ham chiqishi mumkin, demak tasodifiy hodisa."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 2 ga teng bo'ladigan nechta natija bor?",
+      "answer": "1",
+      "explain": "1..6 juftliklar orasida i + j = 2 shartini 1 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 2 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "35",
+        "37",
+        "1",
+        "36"
+      ],
+      "answer": 0,
+      "explain": "Jami 36 natijadan 1 tasi yig'indisi 2, qolgan 35 tasi farqli."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 3 ga teng bo'ladigan nechta natija bor?",
+      "answer": "2",
+      "explain": "1..6 juftliklar orasida i + j = 3 shartini 2 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 3 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "36",
+        "34",
+        "33",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "Jami 36 natijadan 2 tasi yig'indisi 3, qolgan 34 tasi farqli."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 4 ga teng bo'ladigan nechta natija bor?",
+      "answer": "3",
+      "explain": "1..6 juftliklar orasida i + j = 4 shartini 3 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 4 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "35",
+        "36",
+        "3",
+        "33"
+      ],
+      "answer": 3,
+      "explain": "Jami 36 natijadan 3 tasi yig'indisi 4, qolgan 33 tasi farqli."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 5 ga teng bo'ladigan nechta natija bor?",
+      "answer": "4",
+      "explain": "1..6 juftliklar orasida i + j = 5 shartini 4 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 5 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "4",
+        "32",
+        "36",
+        "34"
+      ],
+      "answer": 1,
+      "explain": "Jami 36 natijadan 4 tasi yig'indisi 5, qolgan 32 tasi farqli."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 6 ga teng bo'ladigan nechta natija bor?",
+      "answer": "5",
+      "explain": "1..6 juftliklar orasida i + j = 6 shartini 5 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 6 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "33",
+        "31",
+        "5",
+        "36"
+      ],
+      "answer": 1,
+      "explain": "Jami 36 natijadan 5 tasi yig'indisi 6, qolgan 31 tasi farqli."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 7 ga teng bo'ladigan nechta natija bor?",
+      "answer": "6",
+      "explain": "1..6 juftliklar orasida i + j = 7 shartini 6 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 7 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "30",
+        "32",
+        "36",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "Jami 36 natijadan 6 tasi yig'indisi 7, qolgan 30 tasi farqli."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 8 ga teng bo'ladigan nechta natija bor?",
+      "answer": "5",
+      "explain": "1..6 juftliklar orasida i + j = 8 shartini 5 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 8 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "33",
+        "36",
+        "5",
+        "31"
+      ],
+      "answer": 3,
+      "explain": "Jami 36 natijadan 5 tasi yig'indisi 8, qolgan 31 tasi farqli."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 9 ga teng bo'ladigan nechta natija bor?",
+      "answer": "4",
+      "explain": "1..6 juftliklar orasida i + j = 9 shartini 4 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 9 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "4",
+        "34",
+        "32",
+        "36"
+      ],
+      "answer": 2,
+      "explain": "Jami 36 natijadan 4 tasi yig'indisi 9, qolgan 32 tasi farqli."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 10 ga teng bo'ladigan nechta natija bor?",
+      "answer": "3",
+      "explain": "1..6 juftliklar orasida i + j = 10 shartini 3 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 10 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "33",
+        "3",
+        "35",
+        "36"
+      ],
+      "answer": 0,
+      "explain": "Jami 36 natijadan 3 tasi yig'indisi 10, qolgan 33 tasi farqli."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 11 ga teng bo'ladigan nechta natija bor?",
+      "answer": "2",
+      "explain": "1..6 juftliklar orasida i + j = 11 shartini 2 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 11 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "34",
+        "36",
+        "2",
+        "33"
+      ],
+      "answer": 0,
+      "explain": "Jami 36 natijadan 2 tasi yig'indisi 11, qolgan 34 tasi farqli."
+    },
+    {
+      "type": "fill",
+      "q": "Ikkita o'yin soqqasi tashlanganda ochkolar yig'indisi 12 ga teng bo'ladigan nechta natija bor?",
+      "answer": "1",
+      "explain": "1..6 juftliklar orasida i + j = 12 shartini 1 ta juftlik qanoatlantiradi."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki kubik tashlanganda ochkolar yig'indisi 12 dan farqli chiqishi uchun nechta natija qulay?",
+      "options": [
+        "36",
+        "37",
+        "35",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Jami 36 natijadan 1 tasi yig'indisi 12, qolgan 35 tasi farqli."
+    },
+    {
+      "type": "truefalse",
+      "q": "«2 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 12 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "12",
+        "8",
+        "1",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "1..12 oralig'ida ⌊12/2⌋ = 6 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "O'yin soqqasini tashlaganda «juft son tushishi» va «toq son tushishi» birgalikda bo'lmagan hodisalardir.",
+      "answer": true,
+      "explain": "Bir son ham juft, ham toq bo'la olmaydi, shu sababli ular uyg'unmas."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 13 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "9",
+        "13",
+        "6",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1..13 oralig'ida ⌊13/2⌋ = 6 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«4 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 14 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "14",
+        "7",
+        "9",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1..14 oralig'ida ⌊14/2⌋ = 7 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 15 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "10",
+        "1",
+        "7",
+        "15"
+      ],
+      "answer": 2,
+      "explain": "1..15 oralig'ida ⌊15/2⌋ = 7 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«6 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "10",
+        "8",
+        "1",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "1..16 oralig'ida ⌊16/2⌋ = 8 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 17 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "8",
+        "11",
+        "17",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1..17 oralig'ida ⌊17/2⌋ = 8 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«8 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "18",
+        "1",
+        "11",
+        "9"
+      ],
+      "answer": 3,
+      "explain": "1..18 oralig'ida ⌊18/2⌋ = 9 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 19 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "12",
+        "19",
+        "9",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1..19 oralig'ida ⌊19/2⌋ = 9 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«10 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "12",
+        "10",
+        "20",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1..20 oralig'ida ⌊20/2⌋ = 10 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 21 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "1",
+        "13",
+        "21",
+        "10"
+      ],
+      "answer": 3,
+      "explain": "1..21 oralig'ida ⌊21/2⌋ = 10 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«12 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "1",
+        "13",
+        "22",
+        "11"
+      ],
+      "answer": 3,
+      "explain": "1..22 oralig'ida ⌊22/2⌋ = 11 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 23 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "14",
+        "1",
+        "11",
+        "23"
+      ],
+      "answer": 2,
+      "explain": "1..23 oralig'ida ⌊23/2⌋ = 11 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«14 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 24 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "24",
+        "14",
+        "12",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1..24 oralig'ida ⌊24/2⌋ = 12 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 25 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "12",
+        "15",
+        "25",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1..25 oralig'ida ⌊25/2⌋ = 12 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«16 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 26 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "13",
+        "26",
+        "1",
+        "15"
+      ],
+      "answer": 0,
+      "explain": "1..26 oralig'ida ⌊26/2⌋ = 13 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 27 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "13",
+        "16",
+        "27",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1..27 oralig'ida ⌊27/2⌋ = 13 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«18 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 28 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "14",
+        "28",
+        "1",
+        "16"
+      ],
+      "answer": 0,
+      "explain": "1..28 oralig'ida ⌊28/2⌋ = 14 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 29 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "29",
+        "1",
+        "17",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "1..29 oralig'ida ⌊29/2⌋ = 14 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«20 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 30 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "15",
+        "17",
+        "30",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1..30 oralig'ida ⌊30/2⌋ = 15 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 31 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "1",
+        "18",
+        "31",
+        "15"
+      ],
+      "answer": 3,
+      "explain": "1..31 oralig'ida ⌊31/2⌋ = 15 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«22 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 32 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "32",
+        "16",
+        "18",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1..32 oralig'ida ⌊32/2⌋ = 16 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 33 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "19",
+        "16",
+        "33",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1..33 oralig'ida ⌊33/2⌋ = 16 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«24 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 34 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "19",
+        "1",
+        "17",
+        "34"
+      ],
+      "answer": 2,
+      "explain": "1..34 oralig'ida ⌊34/2⌋ = 17 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 35 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "20",
+        "1",
+        "17",
+        "35"
+      ],
+      "answer": 2,
+      "explain": "1..35 oralig'ida ⌊35/2⌋ = 17 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«26 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 36 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "36",
+        "20",
+        "1",
+        "18"
+      ],
+      "answer": 3,
+      "explain": "1..36 oralig'ida ⌊36/2⌋ = 18 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 37 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "21",
+        "18",
+        "1",
+        "37"
+      ],
+      "answer": 1,
+      "explain": "1..37 oralig'ida ⌊37/2⌋ = 18 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«28 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 38 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "38",
+        "21",
+        "1",
+        "19"
+      ],
+      "answer": 3,
+      "explain": "1..38 oralig'ida ⌊38/2⌋ = 19 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 39 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "39",
+        "22",
+        "19",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1..39 oralig'ida ⌊39/2⌋ = 19 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«30 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 40 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "40",
+        "1",
+        "22",
+        "20"
+      ],
+      "answer": 3,
+      "explain": "1..40 oralig'ida ⌊40/2⌋ = 20 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 41 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "23",
+        "1",
+        "20",
+        "41"
+      ],
+      "answer": 2,
+      "explain": "1..41 oralig'ida ⌊41/2⌋ = 20 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«32 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 42 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "1",
+        "23",
+        "21",
+        "42"
+      ],
+      "answer": 2,
+      "explain": "1..42 oralig'ida ⌊42/2⌋ = 21 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 43 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "24",
+        "43",
+        "21",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1..43 oralig'ida ⌊43/2⌋ = 21 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«34 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 44 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "1",
+        "24",
+        "44",
+        "22"
+      ],
+      "answer": 3,
+      "explain": "1..44 oralig'ida ⌊44/2⌋ = 22 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 45 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "22",
+        "25",
+        "1",
+        "45"
+      ],
+      "answer": 0,
+      "explain": "1..45 oralig'ida ⌊45/2⌋ = 22 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«36 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 46 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "46",
+        "23",
+        "1",
+        "25"
+      ],
+      "answer": 1,
+      "explain": "1..46 oralig'ida ⌊46/2⌋ = 23 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 47 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "1",
+        "47",
+        "23",
+        "26"
+      ],
+      "answer": 2,
+      "explain": "1..47 oralig'ida ⌊47/2⌋ = 23 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«38 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 48 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "48",
+        "24",
+        "26",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1..48 oralig'ida ⌊48/2⌋ = 24 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 49 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "24",
+        "27",
+        "49",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1..49 oralig'ida ⌊49/2⌋ = 24 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«40 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 50 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "50",
+        "27",
+        "25",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1..50 oralig'ida ⌊50/2⌋ = 25 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 51 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "51",
+        "25",
+        "1",
+        "28"
+      ],
+      "answer": 1,
+      "explain": "1..51 oralig'ida ⌊51/2⌋ = 25 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«42 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 52 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "28",
+        "1",
+        "52",
+        "26"
+      ],
+      "answer": 3,
+      "explain": "1..52 oralig'ida ⌊52/2⌋ = 26 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 53 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "29",
+        "26",
+        "53",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1..53 oralig'ida ⌊53/2⌋ = 26 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«44 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 54 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "1",
+        "29",
+        "54",
+        "27"
+      ],
+      "answer": 3,
+      "explain": "1..54 oralig'ida ⌊54/2⌋ = 27 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 55 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "30",
+        "55",
+        "27",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1..55 oralig'ida ⌊55/2⌋ = 27 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«46 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 56 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "56",
+        "28",
+        "30",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1..56 oralig'ida ⌊56/2⌋ = 28 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 57 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "57",
+        "28",
+        "31",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1..57 oralig'ida ⌊57/2⌋ = 28 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«48 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 58 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "29",
+        "1",
+        "31",
+        "58"
+      ],
+      "answer": 0,
+      "explain": "1..58 oralig'ida ⌊58/2⌋ = 29 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 59 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "59",
+        "32",
+        "29",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1..59 oralig'ida ⌊59/2⌋ = 29 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«50 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 60 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "60",
+        "1",
+        "30",
+        "32"
+      ],
+      "answer": 2,
+      "explain": "1..60 oralig'ida ⌊60/2⌋ = 30 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 61 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "1",
+        "33",
+        "61",
+        "30"
+      ],
+      "answer": 3,
+      "explain": "1..61 oralig'ida ⌊61/2⌋ = 30 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«52 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 62 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "1",
+        "33",
+        "31",
+        "62"
+      ],
+      "answer": 2,
+      "explain": "1..62 oralig'ida ⌊62/2⌋ = 31 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 63 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "63",
+        "34",
+        "1",
+        "31"
+      ],
+      "answer": 3,
+      "explain": "1..63 oralig'ida ⌊63/2⌋ = 31 ta juft son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "«54 ta sinovdan kamida 1 ta omadli» hodisasiga qarama-qarshi hodisa «hech bir sinov omadli emas» dir.",
+      "answer": true,
+      "explain": "«Kamida bitta» ning inkori — «birortasi ham emas (0 ta)»."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 64 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "64",
+        "34",
+        "1",
+        "32"
+      ],
+      "answer": 3,
+      "explain": "1..64 oralig'ida ⌊64/2⌋ = 32 ta juft son bor."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 65 gacha raqamlangan kartochkalardan bittasi olindi. Uning juft raqamli bo'lishi uchun nechta qulay natija bor?",
+      "options": [
+        "1",
+        "65",
+        "35",
+        "32"
+      ],
+      "answer": 3,
+      "explain": "1..65 oralig'ida ⌊65/2⌋ = 32 ta juft son bor."
+    },
+    {
+      "type": "fill",
+      "q": "O'yin soqqasini bir marta tashlaganda 1 dan katta ochko tushishi hodisasiga nechta elementar natija qulay?",
+      "answer": "5",
+      "explain": "1 dan katta ochkolar: 5 ta (2, 3, 4, 5, 6)."
+    },
+    {
+      "type": "fill",
+      "q": "O'yin soqqasini tashlaganda 2 dan kichik ochko tushishiga nechta natija qulay?",
+      "answer": "1",
+      "explain": "2 dan kichik natural ochkolar 1 dan 1 gacha 1 ta."
+    },
+    {
+      "type": "fill",
+      "q": "O'yin soqqasini bir marta tashlaganda 2 dan katta ochko tushishi hodisasiga nechta elementar natija qulay?",
+      "answer": "4",
+      "explain": "2 dan katta ochkolar: 4 ta (3, 4, 5, 6)."
+    },
+    {
+      "type": "fill",
+      "q": "O'yin soqqasini tashlaganda 3 dan kichik ochko tushishiga nechta natija qulay?",
+      "answer": "2",
+      "explain": "3 dan kichik natural ochkolar 1 dan 2 gacha 2 ta."
+    },
+    {
+      "type": "fill",
+      "q": "O'yin soqqasini bir marta tashlaganda 3 dan katta ochko tushishi hodisasiga nechta elementar natija qulay?",
+      "answer": "3",
+      "explain": "3 dan katta ochkolar: 3 ta (4, 5, 6)."
+    },
+    {
+      "type": "fill",
+      "q": "O'yin soqqasini tashlaganda 4 dan kichik ochko tushishiga nechta natija qulay?",
+      "answer": "3",
+      "explain": "4 dan kichik natural ochkolar 1 dan 3 gacha 3 ta."
+    },
+    {
+      "type": "fill",
+      "q": "O'yin soqqasini bir marta tashlaganda 4 dan katta ochko tushishi hodisasiga nechta elementar natija qulay?",
+      "answer": "2",
+      "explain": "4 dan katta ochkolar: 2 ta (5, 6)."
+    },
+    {
+      "type": "fill",
+      "q": "O'yin soqqasini tashlaganda 5 dan kichik ochko tushishiga nechta natija qulay?",
+      "answer": "4",
+      "explain": "5 dan kichik natural ochkolar 1 dan 4 gacha 4 ta."
+    },
+    {
+      "type": "fill",
+      "q": "O'yin soqqasini bir marta tashlaganda 5 dan katta ochko tushishi hodisasiga nechta elementar natija qulay?",
+      "answer": "1",
+      "explain": "5 dan katta ochkolar: 1 ta (6)."
+    },
+    {
+      "type": "fill",
+      "q": "O'yin soqqasini tashlaganda 6 dan kichik ochko tushishiga nechta natija qulay?",
+      "answer": "5",
+      "explain": "6 dan kichik natural ochkolar 1 dan 5 gacha 5 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 15 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "3",
+        "6",
+        "5",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "1..15 oralig'ida 3 ga karrali sonlar ⌊15/3⌋ = 5 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 15 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "3",
+        "5",
+        "2",
+        "15"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊15/5⌋ = 3 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "5",
+        "3",
+        "11",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "1..16 oralig'ida 3 ga karrali sonlar ⌊16/3⌋ = 5 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "3",
+        "16",
+        "2",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊16/5⌋ = 3 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 17 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "12",
+        "6",
+        "3",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "1..17 oralig'ida 3 ga karrali sonlar ⌊17/3⌋ = 5 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 17 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "2",
+        "17",
+        "5",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "5 ga karrali sonlar ⌊17/5⌋ = 3 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "6",
+        "7",
+        "12",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "1..18 oralig'ida 3 ga karrali sonlar ⌊18/3⌋ = 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "18",
+        "3",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊18/5⌋ = 3 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 19 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "3",
+        "7",
+        "6",
+        "13"
+      ],
+      "answer": 2,
+      "explain": "1..19 oralig'ida 3 ga karrali sonlar ⌊19/3⌋ = 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 19 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "6",
+        "19",
+        "3",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "5 ga karrali sonlar ⌊19/5⌋ = 3 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "7",
+        "4",
+        "6",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "1..20 oralig'ida 3 ga karrali sonlar ⌊20/3⌋ = 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "3",
+        "20",
+        "6",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "5 ga karrali sonlar ⌊20/5⌋ = 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 21 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "7",
+        "4",
+        "8",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "1..21 oralig'ida 3 ga karrali sonlar ⌊21/3⌋ = 7 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 21 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "4",
+        "7",
+        "21",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊21/5⌋ = 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "7",
+        "15",
+        "4",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "1..22 oralig'ida 3 ga karrali sonlar ⌊22/3⌋ = 7 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "6",
+        "7",
+        "4",
+        "22"
+      ],
+      "answer": 2,
+      "explain": "5 ga karrali sonlar ⌊22/5⌋ = 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 23 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "4",
+        "8",
+        "7",
+        "16"
+      ],
+      "answer": 2,
+      "explain": "1..23 oralig'ida 3 ga karrali sonlar ⌊23/3⌋ = 7 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 23 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "23",
+        "7",
+        "6",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "5 ga karrali sonlar ⌊23/5⌋ = 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 24 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "9",
+        "16",
+        "4",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "1..24 oralig'ida 3 ga karrali sonlar ⌊24/3⌋ = 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 24 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "8",
+        "4",
+        "6",
+        "24"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊24/5⌋ = 4 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 25 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "5",
+        "9",
+        "8",
+        "17"
+      ],
+      "answer": 2,
+      "explain": "1..25 oralig'ida 3 ga karrali sonlar ⌊25/3⌋ = 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 25 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "7",
+        "5",
+        "25",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊25/5⌋ = 5 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 26 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "5",
+        "18",
+        "9",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "1..26 oralig'ida 3 ga karrali sonlar ⌊26/3⌋ = 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 26 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "5",
+        "26",
+        "7",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊26/5⌋ = 5 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 27 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "5",
+        "9",
+        "18",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "1..27 oralig'ida 3 ga karrali sonlar ⌊27/3⌋ = 9 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 27 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "9",
+        "7",
+        "27",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "5 ga karrali sonlar ⌊27/5⌋ = 5 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 28 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "5",
+        "19",
+        "9",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "1..28 oralig'ida 3 ga karrali sonlar ⌊28/3⌋ = 9 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 28 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "5",
+        "7",
+        "9",
+        "28"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊28/5⌋ = 5 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 29 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "5",
+        "20",
+        "10",
+        "9"
+      ],
+      "answer": 3,
+      "explain": "1..29 oralig'ida 3 ga karrali sonlar ⌊29/3⌋ = 9 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 29 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "5",
+        "9",
+        "29",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊29/5⌋ = 5 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 30 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "6",
+        "10",
+        "11",
+        "20"
+      ],
+      "answer": 1,
+      "explain": "1..30 oralig'ida 3 ga karrali sonlar ⌊30/3⌋ = 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 30 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "8",
+        "6",
+        "30",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊30/5⌋ = 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 31 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "11",
+        "21",
+        "6",
+        "10"
+      ],
+      "answer": 3,
+      "explain": "1..31 oralig'ida 3 ga karrali sonlar ⌊31/3⌋ = 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 31 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "8",
+        "31",
+        "6",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "5 ga karrali sonlar ⌊31/5⌋ = 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 32 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "6",
+        "11",
+        "10",
+        "22"
+      ],
+      "answer": 2,
+      "explain": "1..32 oralig'ida 3 ga karrali sonlar ⌊32/3⌋ = 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 32 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "8",
+        "32",
+        "6",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "5 ga karrali sonlar ⌊32/5⌋ = 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 33 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "22",
+        "6",
+        "11",
+        "12"
+      ],
+      "answer": 2,
+      "explain": "1..33 oralig'ida 3 ga karrali sonlar ⌊33/3⌋ = 11 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 33 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "6",
+        "33",
+        "8",
+        "11"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊33/5⌋ = 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 34 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "23",
+        "12",
+        "11",
+        "6"
+      ],
+      "answer": 2,
+      "explain": "1..34 oralig'ida 3 ga karrali sonlar ⌊34/3⌋ = 11 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 34 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "34",
+        "6",
+        "11",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊34/5⌋ = 6 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 35 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "7",
+        "24",
+        "12",
+        "11"
+      ],
+      "answer": 3,
+      "explain": "1..35 oralig'ida 3 ga karrali sonlar ⌊35/3⌋ = 11 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 35 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "35",
+        "11",
+        "9",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "5 ga karrali sonlar ⌊35/5⌋ = 7 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 36 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "7",
+        "24",
+        "12",
+        "13"
+      ],
+      "answer": 2,
+      "explain": "1..36 oralig'ida 3 ga karrali sonlar ⌊36/3⌋ = 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 36 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "7",
+        "9",
+        "36",
+        "12"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊36/5⌋ = 7 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 37 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "13",
+        "25",
+        "7",
+        "12"
+      ],
+      "answer": 3,
+      "explain": "1..37 oralig'ida 3 ga karrali sonlar ⌊37/3⌋ = 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 37 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "12",
+        "9",
+        "37",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "5 ga karrali sonlar ⌊37/5⌋ = 7 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 38 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "26",
+        "13",
+        "12",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "1..38 oralig'ida 3 ga karrali sonlar ⌊38/3⌋ = 12 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 38 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "9",
+        "12",
+        "38",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "5 ga karrali sonlar ⌊38/5⌋ = 7 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 39 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "13",
+        "26",
+        "7",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "1..39 oralig'ida 3 ga karrali sonlar ⌊39/3⌋ = 13 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 39 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "7",
+        "39",
+        "9",
+        "13"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊39/5⌋ = 7 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 40 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "13",
+        "14",
+        "8",
+        "27"
+      ],
+      "answer": 0,
+      "explain": "1..40 oralig'ida 3 ga karrali sonlar ⌊40/3⌋ = 13 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 40 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "8",
+        "10",
+        "13",
+        "40"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊40/5⌋ = 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 41 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "13",
+        "28",
+        "8",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "1..41 oralig'ida 3 ga karrali sonlar ⌊41/3⌋ = 13 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 41 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "13",
+        "8",
+        "41",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊41/5⌋ = 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 42 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "8",
+        "28",
+        "15",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "1..42 oralig'ida 3 ga karrali sonlar ⌊42/3⌋ = 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 42 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "10",
+        "8",
+        "42",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊42/5⌋ = 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 43 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "29",
+        "8",
+        "15",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "1..43 oralig'ida 3 ga karrali sonlar ⌊43/3⌋ = 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 43 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "43",
+        "8",
+        "10",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊43/5⌋ = 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 44 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "8",
+        "15",
+        "30",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "1..44 oralig'ida 3 ga karrali sonlar ⌊44/3⌋ = 14 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 44 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "14",
+        "8",
+        "44",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊44/5⌋ = 8 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 45 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "9",
+        "15",
+        "30",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "1..45 oralig'ida 3 ga karrali sonlar ⌊45/3⌋ = 15 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 45 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "15",
+        "9",
+        "45",
+        "11"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊45/5⌋ = 9 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 46 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "9",
+        "15",
+        "31",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "1..46 oralig'ida 3 ga karrali sonlar ⌊46/3⌋ = 15 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 46 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "11",
+        "9",
+        "15",
+        "46"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊46/5⌋ = 9 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 47 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "32",
+        "16",
+        "15",
+        "9"
+      ],
+      "answer": 2,
+      "explain": "1..47 oralig'ida 3 ga karrali sonlar ⌊47/3⌋ = 15 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 47 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "47",
+        "9",
+        "11",
+        "15"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊47/5⌋ = 9 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 48 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "16",
+        "17",
+        "9",
+        "32"
+      ],
+      "answer": 0,
+      "explain": "1..48 oralig'ida 3 ga karrali sonlar ⌊48/3⌋ = 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 48 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "48",
+        "16",
+        "9",
+        "11"
+      ],
+      "answer": 2,
+      "explain": "5 ga karrali sonlar ⌊48/5⌋ = 9 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 49 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "9",
+        "17",
+        "16",
+        "33"
+      ],
+      "answer": 2,
+      "explain": "1..49 oralig'ida 3 ga karrali sonlar ⌊49/3⌋ = 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 49 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "11",
+        "16",
+        "49",
+        "9"
+      ],
+      "answer": 3,
+      "explain": "5 ga karrali sonlar ⌊49/5⌋ = 9 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 50 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "10",
+        "17",
+        "34",
+        "16"
+      ],
+      "answer": 3,
+      "explain": "1..50 oralig'ida 3 ga karrali sonlar ⌊50/3⌋ = 16 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 50 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "16",
+        "10",
+        "50",
+        "12"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊50/5⌋ = 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 51 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "34",
+        "18",
+        "10",
+        "17"
+      ],
+      "answer": 3,
+      "explain": "1..51 oralig'ida 3 ga karrali sonlar ⌊51/3⌋ = 17 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 51 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "10",
+        "12",
+        "51",
+        "17"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊51/5⌋ = 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 52 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "35",
+        "10",
+        "17",
+        "18"
+      ],
+      "answer": 2,
+      "explain": "1..52 oralig'ida 3 ga karrali sonlar ⌊52/3⌋ = 17 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 52 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "52",
+        "10",
+        "12",
+        "17"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊52/5⌋ = 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 53 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "18",
+        "17",
+        "36",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "1..53 oralig'ida 3 ga karrali sonlar ⌊53/3⌋ = 17 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 53 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "53",
+        "12",
+        "10",
+        "17"
+      ],
+      "answer": 2,
+      "explain": "5 ga karrali sonlar ⌊53/5⌋ = 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 54 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "36",
+        "18",
+        "19",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "1..54 oralig'ida 3 ga karrali sonlar ⌊54/3⌋ = 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 54 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "10",
+        "12",
+        "54",
+        "18"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊54/5⌋ = 10 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 55 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "18",
+        "19",
+        "11",
+        "37"
+      ],
+      "answer": 0,
+      "explain": "1..55 oralig'ida 3 ga karrali sonlar ⌊55/3⌋ = 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 55 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "11",
+        "55",
+        "18",
+        "13"
+      ],
+      "answer": 0,
+      "explain": "5 ga karrali sonlar ⌊55/5⌋ = 11 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 56 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "19",
+        "11",
+        "38",
+        "18"
+      ],
+      "answer": 3,
+      "explain": "1..56 oralig'ida 3 ga karrali sonlar ⌊56/3⌋ = 18 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 56 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "18",
+        "56",
+        "13",
+        "11"
+      ],
+      "answer": 3,
+      "explain": "5 ga karrali sonlar ⌊56/5⌋ = 11 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 57 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "11",
+        "38",
+        "20",
+        "19"
+      ],
+      "answer": 3,
+      "explain": "1..57 oralig'ida 3 ga karrali sonlar ⌊57/3⌋ = 19 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 57 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "19",
+        "57",
+        "11",
+        "13"
+      ],
+      "answer": 2,
+      "explain": "5 ga karrali sonlar ⌊57/5⌋ = 11 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 58 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "19",
+        "11",
+        "20",
+        "39"
+      ],
+      "answer": 0,
+      "explain": "1..58 oralig'ida 3 ga karrali sonlar ⌊58/3⌋ = 19 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 58 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "19",
+        "58",
+        "11",
+        "13"
+      ],
+      "answer": 2,
+      "explain": "5 ga karrali sonlar ⌊58/5⌋ = 11 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 59 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "20",
+        "40",
+        "19",
+        "11"
+      ],
+      "answer": 2,
+      "explain": "1..59 oralig'ida 3 ga karrali sonlar ⌊59/3⌋ = 19 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 59 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "19",
+        "11",
+        "59",
+        "13"
+      ],
+      "answer": 1,
+      "explain": "5 ga karrali sonlar ⌊59/5⌋ = 11 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 60 gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "21",
+        "12",
+        "40",
+        "20"
+      ],
+      "answer": 3,
+      "explain": "1..60 oralig'ida 3 ga karrali sonlar ⌊60/3⌋ = 20 ta."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 60 gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?",
+      "options": [
+        "14",
+        "60",
+        "20",
+        "12"
+      ],
+      "answer": 3,
+      "explain": "5 ga karrali sonlar ⌊60/5⌋ = 12 ta."
+    }
+  ],
+  "cards": [
+    [
+      "Hodisa",
+      "Tajriba yoki kuzatishning mumkin bo'lgan natijasi"
+    ],
+    [
+      "Muqarrar",
+      "Tajribada har doim albatta yuz beradigan hodisa"
+    ],
+    [
+      "Tasodifiy",
+      "Yuz berishi ham, bermasligi ham mumkin hodisa"
+    ],
+    [
+      "Qaramaqarshi",
+      "A yuz bermaganda ro'y beruvchi Ā hodisa"
+    ],
+    [
+      "Tajriba",
+      "Tasodifiy natija kuzatiladigan sinov (masalan, tanga tashlash)"
+    ],
+    [
+      "Elementar",
+      "Boshqa maydaroq qismga bo'linmaydigan natija"
+    ],
+    [
+      "Uyg'unmas",
+      "Bir vaqtda ro'y bera olmaydigan hodisalar"
+    ],
+    [
+      "Birlashma",
+      "A yoki B hodisalardan kamida bittasining yuz berishi"
+    ],
+    [
+      "Kesishma",
+      "A va B hodisalarning birgalikda yuz berishi"
+    ],
+    [
+      "Fazo",
+      "Barcha elementar natijalar to'plami Ω"
+    ],
+    [
+      "Mumkin bo'lmagan",
+      "Hech qachon yuz bermaydigan ∅ hodisa"
+    ],
+    [
+      "Uyg'un hodisalar",
+      "Bir tajribada birga ro'y bera oladigan hodisalar"
+    ],
+    [
+      "Tanga tashlash",
+      "2 ta elementar natija: Gerb va Raqam"
+    ],
+    [
+      "O'yin soqqasi",
+      "6 ta elementar natija: 1, 2, 3, 4, 5, 6"
+    ],
+    [
+      "Ikki tanga",
+      "4 ta elementar natija: GG, GR, RG, RR"
+    ],
+    [
+      "Ikki soqqa",
+      "36 ta teng imkoniyatli natija juftligi"
+    ],
+    [
+      "Ā hodisasi",
+      "A hodisaga qarama-qarshi hodisa"
+    ],
+    [
+      "A ∪ Ā = Ω",
+      "Hodisa va uning qarama-qarshisi muqarrar hodisa"
+    ],
+    [
+      "A ∩ Ā = ∅",
+      "Qarama-qarshi hodisalar uyg'unmasdir"
+    ],
+    [
+      "To'la gruppa",
+      "Juft-jufti bilan uyg'unmas barcha natijalar"
+    ],
+    [
+      "Teng imkoniyatli",
+      "Birining chiqishi boshqasidan ustun bo'lmagan natijalar"
+    ],
+    [
+      "Kombinatorika",
+      "Elementar natijalar sonini sanash bo'limi"
+    ],
+    [
+      "Simmetrik kubik",
+      "Barcha 6 yog'i bir xil tushish imkoniyatli"
+    ],
+    [
+      "Natija soni",
+      "Tajribadagi jami mumkin bo'lgan oqibatlar"
+    ]
+  ]
+}

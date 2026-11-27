@@ -542,6 +542,47 @@ function makeTopic03(): QuizOutput {
     }
   }
 
+  // 4) y = (p/q)x^2 nuqtalari, y = ax^2 va chiziqli kesishish (20-mashq), s = at^2/2 (23-mashq)
+  const fracs: [number, number][] = [[1, 2], [1, 3], [1, 4], [2, 3], [3, 4], [-1, 2], [-1, 3], [-2, 3]];
+  for (const [fn, fd] of fracs) {
+    for (let m = 1; m <= 5; m++) {
+      if (b.count >= 340) break;
+      const x = fd * m;
+      const y = fn * fd * m * m;
+      b.addChoice(
+        `y = (${fracStr(fn, fd)})x² funksiyada x = ${x} bo'lganda y qiymatini toping.`,
+        `${y}`,
+        pickNumDistractors(y, [-y, fn * m, y + fd, y - fn]),
+        `y = (${fracStr(fn, fd)})·${x}² = (${fracStr(fn, fd)})·${x * x} = ${y}.`,
+      );
+    }
+  }
+
+  for (let acc = 2; acc <= 8; acc += 2) {
+    for (let t = 2; t <= 12; t++) {
+      if (b.count >= 340) break;
+      const s = (acc * t * t) / 2;
+      b.addFill(
+        `Jism s = at²/2 qonuni bo'yicha a = ${acc} m/s² tezlanish bilan harakatlanmoqda. t = ${t} s da bosib o'tgan yo'lini (m) toping.`,
+        `${s}`,
+        `s = (${acc}·${t}²)/2 = ${s} m.`,
+      );
+    }
+  }
+
+  for (let a = 1; a <= 4; a++) {
+    for (let x0 = 2; x0 <= 7; x0++) {
+      if (b.count >= 340) break;
+      const y0 = a * x0 * x0;
+      b.addChoice(
+        `y = ${a === 1 ? "" : a}x² parabola va y = ${y0} to'g'ri chiziq kesishish nuqtalari orasidagi masofani toping.`,
+        `${2 * x0}`,
+        pickNumDistractors(2 * x0, [x0, y0, 2 * x0 + 2]),
+        `Kesishish nuqtalari (−${x0}; ${y0}) va (${x0}; ${y0}), oraliq masofa ${x0} − (−${x0}) = ${2 * x0}.`,
+      );
+    }
+  }
+
   return b.build();
 }
 
@@ -748,6 +789,40 @@ function makeTopic05(): QuizOutput {
     }
   }
 
+  // 4) Balandlik formulasi h(t) = v0*t - 5t^2 va S_max = (S/2)^2 masalalari (35–46-mashqlar)
+  for (let tTop = 2; tTop <= 15; tTop++) {
+    for (let h0 = 0; h0 <= 15; h0 += 5) {
+      if (b.count >= 340) break;
+      const v0 = 10 * tTop;
+      const hMax = h0 + 5 * tTop * tTop;
+      const hExpr = h0 === 0 ? `h(t) = ${v0}t − 5t²` : `h(t) = ${h0} + ${v0}t − 5t²`;
+      b.addChoice(
+        `Jism ${hExpr} qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?`,
+        `${tTop}`,
+        pickNumDistractors(tTop, [2 * tTop, tTop + 2, Math.max(1, tTop - 1)]),
+        `Parabola uchi t₀ = −${v0}/(2·(−5)) = ${tTop} sekundda erishiladi.`,
+      );
+      if (b.count < 340) {
+        b.addFill(
+          `Yuqoriga otilgan tosh balandligi ${hExpr} (m) bo'lsa, eng katta balandlikni (m) toping.`,
+          `${hMax}`,
+          `t = ${tTop} s da h(${tTop}) = ${h0} + ${v0}·${tTop} − 5·${tTop}² = ${hMax} m.`,
+        );
+      }
+    }
+  }
+
+  for (let half = 3; half <= 30; half++) {
+    if (b.count >= 340) break;
+    const sum = 2 * half;
+    b.addChoice(
+      `Yig'indisi ${sum} ga teng ikki sonning ko'paytmasi eng ko'pi bilan nechaga teng bo'lishi mumkin?`,
+      `${half * half}`,
+      pickNumDistractors(half * half, [sum, half * (half + 1), half * half - 1]),
+      `x(${sum} − x) kvadrat funksiyaning eng katta qiymati x = ${half} da ${half}² = ${half * half}.`,
+    );
+  }
+
   return b.build();
 }
 
@@ -946,6 +1021,53 @@ function makeTopic07(): QuizOutput {
         );
       }
     }
+  }
+
+  // 3) D = 0 urinish holatlari: a*(x - m)^2 > 0, <= 0, < 0, >= 0 (58–69-mashqlar)
+  for (let aSign of [1, -1]) {
+    for (let m = -12; m <= 12; m++) {
+      if (b.count >= 340) break;
+      if (m === 0) continue;
+      const bCoef = -2 * aSign * m;
+      const cCoef = aSign * m * m;
+      const poly = polyQuad(aSign, bCoef, cCoef);
+      if (aSign > 0) {
+        b.addChoice(
+          `Grafik usulda ${poly} > 0 tengsizlikning yechimini toping.`,
+          `x ≠ ${m} barcha haqiqiy sonlar`,
+          [`Bo'sh to'plam ∅`, `(${m}; +∞)`, `x = ${m}`],
+          `(${fmtXShift(m)})² > 0 faqat x = ${m} urinish nuqtasidan tashqari barcha x larda bajariladi.`,
+        );
+        b.addChoice(
+          `Grafik usulda ${poly} ≤ 0 tengsizlikning yechimini toping.`,
+          `x = ${m}`,
+          [`Bo'sh to'plam ∅`, `(−∞; ${m}]`, `Barcha haqiqiy sonlar R`],
+          `Parabola uchi (${m}; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = ${m} da ≤ 0.`,
+        );
+      } else {
+        b.addChoice(
+          `Grafik usulda ${poly} ≥ 0 tengsizlikning yechimini toping.`,
+          `x = ${m}`,
+          [`Bo'sh to'plam ∅`, `x ≠ ${m}`, `[${m}; +∞)`],
+          `Shoxlari pastga qaragan parabola (${m}; 0) da urinadi, shuning uchun ≥ 0 faqat x = ${m} da.`,
+        );
+        b.addTF(
+          `${poly} < 0 tengsizlik x ≠ ${m} barcha haqiqiy sonlarda bajariladi.`,
+          true,
+          `−(${fmtXShift(m)})² < 0 faqat x = ${m} nuqtadan tashqari barcha x larda o'rinli.`,
+        );
+      }
+    }
+  }
+
+  for (let k = 1; k <= 35; k++) {
+    if (b.count >= 340) break;
+    b.addChoice(
+      `y = x² − ${2 * k}x + ${k * k + 3} parabola grafigi Ox o'qiga nisbatan qanday joylashgan?`,
+      `To'liq Ox o'qidan yuqorida`,
+      [`To'liq Ox o'qidan pastda`, `Ox o'qini 2 nuqtada kesadi`, `Ox o'qiga urinadi`],
+      `a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida.`,
+    );
   }
 
   return b.build();
@@ -1197,6 +1319,28 @@ function makeTopic09(): QuizOutput {
     }
   }
 
+  // 5) Kasr ildizosti y = √((x - a)/(x - c)) va juft ildizlar (84–86-mashqlar)
+  for (let a = -4; a <= 4; a++) {
+    for (let c = a + 1; c <= a + 6; c++) {
+      if (b.count >= 340) break;
+      const fa = a === 0 ? "x" : `x ${signedTerm(-a)}`;
+      const fc = c === 0 ? "x" : `x ${signedTerm(-c)}`;
+      b.addChoice(
+        `y = √((${fa})/(${fc})) funksiyaning aniqlanish sohasini toping.`,
+        `(−∞; ${a}] ∪ (${c}; +∞)`,
+        [`[${a}; ${c})`, `(−∞; ${a}) ∪ [${c}; +∞)`, `[${a}; ${c}]`],
+        `(${fa})/(${fc}) ≥ 0 va x ≠ ${c} ⇒ (−∞; ${a}] ∪ (${c}; +∞).`,
+      );
+      if (b.count < 340) {
+        b.addTF(
+          `y = ⁴√(${fa}) funksiyaning aniqlanish sohasi [${a}; +∞) oraliqdir.`,
+          true,
+          `4-darajali juft ildiz osti ${fa} ≥ 0 ⇒ x ≥ ${a}.`,
+        );
+      }
+    }
+  }
+
   return b.build();
 }
 
@@ -1294,6 +1438,46 @@ function makeTopic10(): QuizOutput {
         `${x2} > ${x1} ≥ ${m} bo'lib, funksiya [${m}; +∞) da o'sadi, demak f(${x1}) < f(${x2}).`,
       );
     }
+  }
+
+  // 4) Darajali funksiya y = x^(p/q) o'sish-kamayishi va kamayish oralig'ida taqqoslash (90–97-mashqlar)
+  for (let m = -5; m <= 5; m++) {
+    for (let d = 1; d <= 6; d++) {
+      if (b.count >= 340) break;
+      const x1 = m - d - 2;
+      const x2 = m - d;
+      const fn = m === 0 ? "f(x) = x²" : `f(x) = ${fmtXShift(m)}²`;
+      b.addChoice(
+        `${fn} funksiya (−∞; ${m}] da kamayuvchi bo'lsa, f(${x1}) va f(${x2}) ni taqqoslang.`,
+        `f(${x1}) > f(${x2})`,
+        [`f(${x1}) < f(${x2})`, `f(${x1}) = f(${x2})`, `Taqqoslab bo'lmaydi`],
+        `${x1} < ${x2} ≤ ${m} da funksiya kamayuvchi bo'lgani uchun f(${x1}) > f(${x2}).`,
+      );
+    }
+  }
+
+  for (let k = 2; k <= 12; k++) {
+    for (const [p, q] of [[2, 3], [3, 4], [3, 2], [4, 3]] as [number, number][]) {
+      if (b.count >= 340) break;
+      const rhs = Math.pow(k, p);
+      const ans = Math.pow(k, q);
+      b.addFill(
+        `x^(${p}/${q}) = ${rhs} (x > 0) tenglamaning ildizini toping.`,
+        `${ans}`,
+        `x = (${rhs})^(${q}/${p}) = (${k}^${p})^(${q}/${p}) = ${k}^${q} = ${ans}.`,
+      );
+    }
+  }
+
+  const expFracs: [number, number][] = [[1, 3], [2, 5], [3, 4], [5, 2], [-1, 2], [-2, 3], [-3, 4], [-5, 3]];
+  for (const [p, q] of expFracs) {
+    if (b.count >= 340) break;
+    const isPos = p > 0;
+    b.addTF(
+      `y = x^(${p}/${q}) funksiya (0; +∞) oraliqda ${isPos ? "o'suvchi" : "kamayuvchi"} funksiyadir.`,
+      true,
+      `Daraja ko'rsatkichi ${p}/${q} ${isPos ? "> 0 bo'lgani uchun (0; +∞) da o'sadi" : "< 0 bo'lgani uchun kamayadi"}.`,
+    );
   }
 
   return b.build();
@@ -1399,6 +1583,42 @@ function makeTopic11(): QuizOutput {
         [`(−${x}; ${y})`, `(${x}; −${y})`, `(−${y}; −${x})`],
         `Toq funksiya (0; 0) ga simmetrik: (−${x}; −${y}) nuqtadan ham o'tadi.`,
       );
+    }
+  }
+
+  // 4) Modul va kasrli funksiyalar juft-toqligi (98–109-mashqlar)
+  for (let k = 1; k <= 12; k++) {
+    for (let c = 1; c <= 5; c++) {
+      if (b.count >= 340) break;
+      b.addChoice(
+        `f(x) = ${k}|x| + ${c}x² funksiyaning juft-toqligini aniqlang.`,
+        "Juft",
+        ["Toq", "Na juft, na toq", "Aniqlanmagan"],
+        `|−x| = |x| va (−x)² = x², demak f(−x) = f(x) — juft funksiya.`,
+      );
+      if (b.count < 340) {
+        b.addChoice(
+          `f(x) = ${k}x·|x| + ${c}x funksiya qanday funksiya?`,
+          "Toq",
+          ["Juft", "Na juft, na toq", "O'zgarmas"],
+          `(−x)|−x| = −x|x| bo'lgani uchun f(−x) = −f(x) — toq funksiya.`,
+        );
+      }
+      if (b.count < 340) {
+        b.addChoice(
+          `f(x) = (${k}x² + ${c}) / x (x ≠ 0) funksiyaning turini toping.`,
+          "Toq",
+          ["Juft", "Na juft, na toq", "Musbat"],
+          `f(−x) = (${k}x² + ${c})/(−x) = −f(x) — toq funksiya.`,
+        );
+      }
+      if (b.count < 340) {
+        b.addTF(
+          `f(x) = ${k}x³ + ${c}|x| funksiya na juft, na toq funksiyadir.`,
+          true,
+          `f(−x) = −${k}x³ + ${c}|x|, bu f(x) ga ham, −f(x) ga ham teng emas.`,
+        );
+      }
     }
   }
 
@@ -1535,6 +1755,60 @@ function makeTopic12(): QuizOutput {
       `${s}`,
       `S = 3 · ${r}² = 3 · ${r * r} = ${s} sm².`,
     );
+  }
+
+  // 5) Irratsional tenglama va tengsizliklar: √(ax+b)=c, √(x-a)>b, √(x-a)<b (I bob sinovlari, 51–67-betlar)
+  for (let a = 1; a <= 5; a++) {
+    for (let c = 2; c <= 8; c++) {
+      for (let x0 = -3; x0 <= 6; x0++) {
+        if (b.count >= 285) break;
+        const bCoef = c * c - a * x0;
+        const expr = polyLinear(a, bCoef);
+        if ((a + c + Math.abs(x0)) % 2 === 0) {
+          b.addFill(
+            `√(${expr}) = ${c} irratsional tenglamaning ildizini toping.`,
+            `${x0}`,
+            `Ikkala tomonni kvadratga ko'tarsak ${expr} = ${c * c} ⇒ ${a}x = ${a * x0} ⇒ x = ${x0}.`,
+          );
+        } else {
+          b.addChoice(
+            `√(${expr}) = ${c} tenglama ildizi nechaga teng?`,
+            `${x0}`,
+            pickNumDistractors(x0, [x0 + 1, x0 - 1, c * c]),
+            `${expr} = ${c * c} ⇒ x = ${x0}.`,
+          );
+        }
+      }
+    }
+  }
+
+  for (let a = -4; a <= 6; a++) {
+    for (let rhs = 1; rhs <= 5; rhs++) {
+      if (b.count >= 340) break;
+      const expr = a === 0 ? "x" : `x ${signedTerm(-a)}`;
+      const bound = a + rhs * rhs;
+      b.addChoice(
+        `√(${expr}) > ${rhs} irratsional tengsizlikni yeching.`,
+        `(${bound}; +∞)`,
+        [`[${a}; ${bound})`, `[${bound}; +∞)`, `(${a}; ${bound})`],
+        `${expr} > ${rhs}² ⇒ x > ${bound}.`,
+      );
+      if (b.count < 340) {
+        b.addChoice(
+          `√(${expr}) < ${rhs} irratsional tengsizlikning yechimini toping.`,
+          `[${a}; ${bound})`,
+          [`(−∞; ${bound})`, `(${a}; ${bound})`, `[${bound}; +∞)`],
+          `0 ≤ ${expr} < ${rhs}² ⇒ ${a} ≤ x < ${bound}.`,
+        );
+      }
+      if (b.count < 340) {
+        b.addTF(
+          `√(${expr}) = −${rhs} irratsional tenglama haqiqiy ildizga ega emas.`,
+          true,
+          `Arifmetik kvadrat ildiz qiymati manfiy bo'la olmaydi.`,
+        );
+      }
+    }
   }
 
   return b.build();

@@ -1,0 +1,3488 @@
+{
+  "id": "g9-uz-algebra-21-munosabatlar",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "21-§. Ayni bir burchakning sin, cos va tg munosabatlari",
+  "title": "21-§. Ayni bir burchakning sin, cos va tg munosabatlari",
+  "source": "Algebra 9-sinf (2019), III bob, 21-§, 112–116-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Asosiy trigonometrik ayniyat qaysi javobda to'g'ri ko'rsatilgan?",
+      "options": [
+        "sin α + cos α = 1",
+        "sin²α + cos²α = 1",
+        "sin²α − cos²α = 1",
+        "tg²α + ctg²α = 1"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadagi nuqta uchun x² + y² = 1 dan sin²α + cos²α = 1 kelib chiqadi."
+    },
+    {
+      "type": "choice",
+      "q": "1 + tg²α ifoda nimaga teng (cos α ≠ 0)?",
+      "options": [
+        "1 / sin²α",
+        "1 / cos²α",
+        "sin²α",
+        "cos²α"
+      ],
+      "answer": 1,
+      "explain": "1 + sin²α/cos²α = (cos²α + sin²α)/cos²α = 1/cos²α."
+    },
+    {
+      "type": "choice",
+      "q": "1 + ctg²α ifoda nimaga teng (sin α ≠ 0)?",
+      "options": [
+        "1 / sin²α",
+        "tg²α",
+        "1 / cos²α",
+        "cos²α"
+      ],
+      "answer": 0,
+      "explain": "1 + cos²α/sin²α = 1/sin²α."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg α · ctg α = 1 ayniyat α ≠ πk/2 bo'lgan barcha burchaklar uchun o'rinli.",
+      "answer": true,
+      "explain": "(sin α / cos α) · (cos α / sin α) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 3/5 bo'lsa, cos α ni toping.",
+      "options": [
+        "4/5",
+        "3/5",
+        "3/4",
+        "-4/5"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (3/5)² = 16/25. I chorakda cos α = 4/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 4/5 bo'lsa, tg α ni toping.",
+      "options": [
+        "4/3",
+        "-3/4",
+        "3/5",
+        "3/4"
+      ],
+      "answer": 3,
+      "explain": "sin α = 3/5 ⇒ tg α = (3/5) / (4/5) = 3/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 3/4 (I chorak) bo'lsa, ctg α = 4/3 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 4/3."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 3/5 bo'lsa, cos α ni toping.",
+      "options": [
+        "-4/5",
+        "3/4",
+        "4/5",
+        "3/5"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (3/5)² = 16/25. II chorakda cos α = -4/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -4/5 bo'lsa, tg α ni toping.",
+      "options": [
+        "-3/4",
+        "3/5",
+        "3/4",
+        "-4/3"
+      ],
+      "answer": 0,
+      "explain": "sin α = 3/5 ⇒ tg α = (3/5) / (-4/5) = -3/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -3/4 (II chorak) bo'lsa, ctg α = -4/3 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -4/3."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -3/5 bo'lsa, cos α ni toping.",
+      "options": [
+        "3/4",
+        "4/5",
+        "-3/5",
+        "-4/5"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (-3/5)² = 16/25. III chorakda cos α = -4/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -4/5 bo'lsa, tg α ni toping.",
+      "options": [
+        "-3/4",
+        "4/3",
+        "-3/5",
+        "3/4"
+      ],
+      "answer": 3,
+      "explain": "sin α = -3/5 ⇒ tg α = (-3/5) / (-4/5) = 3/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 3/4 (III chorak) bo'lsa, ctg α = 4/3 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 4/3."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -3/5 bo'lsa, cos α ni toping.",
+      "options": [
+        "3/4",
+        "-4/5",
+        "4/5",
+        "-3/5"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (-3/5)² = 16/25. IV chorakda cos α = 4/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 4/5 bo'lsa, tg α ni toping.",
+      "options": [
+        "-3/4",
+        "-4/3",
+        "3/4",
+        "-3/5"
+      ],
+      "answer": 0,
+      "explain": "sin α = -3/5 ⇒ tg α = (-3/5) / (4/5) = -3/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -3/4 (IV chorak) bo'lsa, ctg α = -4/3 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -4/3."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 4/5 bo'lsa, cos α ni toping.",
+      "options": [
+        "4/3",
+        "3/5",
+        "4/5",
+        "-3/5"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (4/5)² = 9/25. I chorakda cos α = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 3/5 bo'lsa, tg α ni toping.",
+      "options": [
+        "4/3",
+        "3/4",
+        "4/5",
+        "-4/3"
+      ],
+      "answer": 0,
+      "explain": "sin α = 4/5 ⇒ tg α = (4/5) / (3/5) = 4/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 4/3 (I chorak) bo'lsa, ctg α = 3/4 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 3/4."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 4/5 bo'lsa, cos α ni toping.",
+      "options": [
+        "-3/5",
+        "4/3",
+        "4/5",
+        "3/5"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (4/5)² = 9/25. II chorakda cos α = -3/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -3/5 bo'lsa, tg α ni toping.",
+      "options": [
+        "-3/4",
+        "4/5",
+        "-4/3",
+        "4/3"
+      ],
+      "answer": 2,
+      "explain": "sin α = 4/5 ⇒ tg α = (4/5) / (-3/5) = -4/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -4/3 (II chorak) bo'lsa, ctg α = -3/4 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -3/4."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -4/5 bo'lsa, cos α ni toping.",
+      "options": [
+        "-3/5",
+        "4/3",
+        "3/5",
+        "-4/5"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (-4/5)² = 9/25. III chorakda cos α = -3/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -3/5 bo'lsa, tg α ni toping.",
+      "options": [
+        "-4/5",
+        "3/4",
+        "4/3",
+        "-4/3"
+      ],
+      "answer": 2,
+      "explain": "sin α = -4/5 ⇒ tg α = (-4/5) / (-3/5) = 4/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 4/3 (III chorak) bo'lsa, ctg α = 3/4 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 3/4."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -4/5 bo'lsa, cos α ni toping.",
+      "options": [
+        "-3/5",
+        "4/3",
+        "3/5",
+        "-4/5"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (-4/5)² = 9/25. IV chorakda cos α = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 3/5 bo'lsa, tg α ni toping.",
+      "options": [
+        "-3/4",
+        "4/3",
+        "-4/3",
+        "-4/5"
+      ],
+      "answer": 2,
+      "explain": "sin α = -4/5 ⇒ tg α = (-4/5) / (3/5) = -4/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -4/3 (IV chorak) bo'lsa, ctg α = -3/4 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -3/4."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 5/13 bo'lsa, cos α ni toping.",
+      "options": [
+        "-12/13",
+        "5/13",
+        "5/12",
+        "12/13"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (5/13)² = 144/169. I chorakda cos α = 12/13."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 12/13 bo'lsa, tg α ni toping.",
+      "options": [
+        "5/13",
+        "5/12",
+        "12/5",
+        "-5/12"
+      ],
+      "answer": 1,
+      "explain": "sin α = 5/13 ⇒ tg α = (5/13) / (12/13) = 5/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 5/12 (I chorak) bo'lsa, ctg α = 12/5 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 12/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 5/13 bo'lsa, cos α ni toping.",
+      "options": [
+        "-12/13",
+        "5/13",
+        "5/12",
+        "12/13"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (5/13)² = 144/169. II chorakda cos α = -12/13."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -12/13 bo'lsa, tg α ni toping.",
+      "options": [
+        "5/13",
+        "-5/12",
+        "-12/5",
+        "5/12"
+      ],
+      "answer": 1,
+      "explain": "sin α = 5/13 ⇒ tg α = (5/13) / (-12/13) = -5/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -5/12 (II chorak) bo'lsa, ctg α = -12/5 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -12/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -5/13 bo'lsa, cos α ni toping.",
+      "options": [
+        "-12/13",
+        "12/13",
+        "5/12",
+        "-5/13"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (-5/13)² = 144/169. III chorakda cos α = -12/13."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -12/13 bo'lsa, tg α ni toping.",
+      "options": [
+        "-5/12",
+        "-5/13",
+        "5/12",
+        "12/5"
+      ],
+      "answer": 2,
+      "explain": "sin α = -5/13 ⇒ tg α = (-5/13) / (-12/13) = 5/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 5/12 (III chorak) bo'lsa, ctg α = 12/5 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 12/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -5/13 bo'lsa, cos α ni toping.",
+      "options": [
+        "-12/13",
+        "12/13",
+        "5/12",
+        "-5/13"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-5/13)² = 144/169. IV chorakda cos α = 12/13."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 12/13 bo'lsa, tg α ni toping.",
+      "options": [
+        "-12/5",
+        "5/12",
+        "-5/12",
+        "-5/13"
+      ],
+      "answer": 2,
+      "explain": "sin α = -5/13 ⇒ tg α = (-5/13) / (12/13) = -5/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -5/12 (IV chorak) bo'lsa, ctg α = -12/5 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -12/5."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 12/13 bo'lsa, cos α ni toping.",
+      "options": [
+        "12/5",
+        "12/13",
+        "5/13",
+        "-5/13"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (12/13)² = 25/169. I chorakda cos α = 5/13."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 5/13 bo'lsa, tg α ni toping.",
+      "options": [
+        "12/13",
+        "5/12",
+        "-12/5",
+        "12/5"
+      ],
+      "answer": 3,
+      "explain": "sin α = 12/13 ⇒ tg α = (12/13) / (5/13) = 12/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 12/5 (I chorak) bo'lsa, ctg α = 5/12 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 5/12."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 12/13 bo'lsa, cos α ni toping.",
+      "options": [
+        "12/13",
+        "5/13",
+        "-5/13",
+        "12/5"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (12/13)² = 25/169. II chorakda cos α = -5/13."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -5/13 bo'lsa, tg α ni toping.",
+      "options": [
+        "12/13",
+        "-5/12",
+        "-12/5",
+        "12/5"
+      ],
+      "answer": 2,
+      "explain": "sin α = 12/13 ⇒ tg α = (12/13) / (-5/13) = -12/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -12/5 (II chorak) bo'lsa, ctg α = -5/12 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -5/12."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -12/13 bo'lsa, cos α ni toping.",
+      "options": [
+        "-12/13",
+        "-5/13",
+        "5/13",
+        "12/5"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-12/13)² = 25/169. III chorakda cos α = -5/13."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -5/13 bo'lsa, tg α ni toping.",
+      "options": [
+        "-12/13",
+        "5/12",
+        "12/5",
+        "-12/5"
+      ],
+      "answer": 2,
+      "explain": "sin α = -12/13 ⇒ tg α = (-12/13) / (-5/13) = 12/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 12/5 (III chorak) bo'lsa, ctg α = 5/12 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 5/12."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -12/13 bo'lsa, cos α ni toping.",
+      "options": [
+        "-5/13",
+        "-12/13",
+        "5/13",
+        "12/5"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (-12/13)² = 25/169. IV chorakda cos α = 5/13."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 5/13 bo'lsa, tg α ni toping.",
+      "options": [
+        "12/5",
+        "-12/5",
+        "-5/12",
+        "-12/13"
+      ],
+      "answer": 1,
+      "explain": "sin α = -12/13 ⇒ tg α = (-12/13) / (5/13) = -12/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -12/5 (IV chorak) bo'lsa, ctg α = -5/12 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -5/12."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 8/17 bo'lsa, cos α ni toping.",
+      "options": [
+        "-15/17",
+        "15/17",
+        "8/15",
+        "8/17"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (8/17)² = 225/289. I chorakda cos α = 15/17."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 15/17 bo'lsa, tg α ni toping.",
+      "options": [
+        "8/15",
+        "15/8",
+        "-8/15",
+        "8/17"
+      ],
+      "answer": 0,
+      "explain": "sin α = 8/17 ⇒ tg α = (8/17) / (15/17) = 8/15."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 8/15 (I chorak) bo'lsa, ctg α = 15/8 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 15/8."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 8/17 bo'lsa, cos α ni toping.",
+      "options": [
+        "-15/17",
+        "15/17",
+        "8/17",
+        "8/15"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (8/17)² = 225/289. II chorakda cos α = -15/17."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -15/17 bo'lsa, tg α ni toping.",
+      "options": [
+        "8/15",
+        "-8/15",
+        "-15/8",
+        "8/17"
+      ],
+      "answer": 1,
+      "explain": "sin α = 8/17 ⇒ tg α = (8/17) / (-15/17) = -8/15."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -8/15 (II chorak) bo'lsa, ctg α = -15/8 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -15/8."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -8/17 bo'lsa, cos α ni toping.",
+      "options": [
+        "-8/17",
+        "-15/17",
+        "15/17",
+        "8/15"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-8/17)² = 225/289. III chorakda cos α = -15/17."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -15/17 bo'lsa, tg α ni toping.",
+      "options": [
+        "-8/17",
+        "-8/15",
+        "15/8",
+        "8/15"
+      ],
+      "answer": 3,
+      "explain": "sin α = -8/17 ⇒ tg α = (-8/17) / (-15/17) = 8/15."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 8/15 (III chorak) bo'lsa, ctg α = 15/8 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 15/8."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -8/17 bo'lsa, cos α ni toping.",
+      "options": [
+        "8/15",
+        "15/17",
+        "-15/17",
+        "-8/17"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-8/17)² = 225/289. IV chorakda cos α = 15/17."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 15/17 bo'lsa, tg α ni toping.",
+      "options": [
+        "-15/8",
+        "-8/15",
+        "-8/17",
+        "8/15"
+      ],
+      "answer": 1,
+      "explain": "sin α = -8/17 ⇒ tg α = (-8/17) / (15/17) = -8/15."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -8/15 (IV chorak) bo'lsa, ctg α = -15/8 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -15/8."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 15/17 bo'lsa, cos α ni toping.",
+      "options": [
+        "15/8",
+        "15/17",
+        "-8/17",
+        "8/17"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (15/17)² = 64/289. I chorakda cos α = 8/17."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 8/17 bo'lsa, tg α ni toping.",
+      "options": [
+        "-15/8",
+        "15/17",
+        "15/8",
+        "8/15"
+      ],
+      "answer": 2,
+      "explain": "sin α = 15/17 ⇒ tg α = (15/17) / (8/17) = 15/8."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 15/8 (I chorak) bo'lsa, ctg α = 8/15 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 8/15."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 15/17 bo'lsa, cos α ni toping.",
+      "options": [
+        "8/17",
+        "15/17",
+        "-8/17",
+        "15/8"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (15/17)² = 64/289. II chorakda cos α = -8/17."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -8/17 bo'lsa, tg α ni toping.",
+      "options": [
+        "-8/15",
+        "15/8",
+        "-15/8",
+        "15/17"
+      ],
+      "answer": 2,
+      "explain": "sin α = 15/17 ⇒ tg α = (15/17) / (-8/17) = -15/8."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -15/8 (II chorak) bo'lsa, ctg α = -8/15 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -8/15."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -15/17 bo'lsa, cos α ni toping.",
+      "options": [
+        "-15/17",
+        "15/8",
+        "8/17",
+        "-8/17"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (-15/17)² = 64/289. III chorakda cos α = -8/17."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -8/17 bo'lsa, tg α ni toping.",
+      "options": [
+        "-15/17",
+        "15/8",
+        "8/15",
+        "-15/8"
+      ],
+      "answer": 1,
+      "explain": "sin α = -15/17 ⇒ tg α = (-15/17) / (-8/17) = 15/8."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 15/8 (III chorak) bo'lsa, ctg α = 8/15 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 8/15."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -15/17 bo'lsa, cos α ni toping.",
+      "options": [
+        "15/8",
+        "8/17",
+        "-8/17",
+        "-15/17"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-15/17)² = 64/289. IV chorakda cos α = 8/17."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 8/17 bo'lsa, tg α ni toping.",
+      "options": [
+        "-15/17",
+        "15/8",
+        "-8/15",
+        "-15/8"
+      ],
+      "answer": 3,
+      "explain": "sin α = -15/17 ⇒ tg α = (-15/17) / (8/17) = -15/8."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -15/8 (IV chorak) bo'lsa, ctg α = -8/15 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -8/15."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 7/25 bo'lsa, cos α ni toping.",
+      "options": [
+        "7/25",
+        "-24/25",
+        "7/24",
+        "24/25"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (7/25)² = 576/625. I chorakda cos α = 24/25."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 24/25 bo'lsa, tg α ni toping.",
+      "options": [
+        "7/24",
+        "7/25",
+        "24/7",
+        "-7/24"
+      ],
+      "answer": 0,
+      "explain": "sin α = 7/25 ⇒ tg α = (7/25) / (24/25) = 7/24."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 7/24 (I chorak) bo'lsa, ctg α = 24/7 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 24/7."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 7/25 bo'lsa, cos α ni toping.",
+      "options": [
+        "24/25",
+        "7/24",
+        "-24/25",
+        "7/25"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (7/25)² = 576/625. II chorakda cos α = -24/25."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -24/25 bo'lsa, tg α ni toping.",
+      "options": [
+        "7/24",
+        "7/25",
+        "-7/24",
+        "-24/7"
+      ],
+      "answer": 2,
+      "explain": "sin α = 7/25 ⇒ tg α = (7/25) / (-24/25) = -7/24."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -7/24 (II chorak) bo'lsa, ctg α = -24/7 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -24/7."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -7/25 bo'lsa, cos α ni toping.",
+      "options": [
+        "24/25",
+        "7/24",
+        "-24/25",
+        "-7/25"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (-7/25)² = 576/625. III chorakda cos α = -24/25."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -24/25 bo'lsa, tg α ni toping.",
+      "options": [
+        "24/7",
+        "-7/24",
+        "-7/25",
+        "7/24"
+      ],
+      "answer": 3,
+      "explain": "sin α = -7/25 ⇒ tg α = (-7/25) / (-24/25) = 7/24."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 7/24 (III chorak) bo'lsa, ctg α = 24/7 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 24/7."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -7/25 bo'lsa, cos α ni toping.",
+      "options": [
+        "-7/25",
+        "-24/25",
+        "7/24",
+        "24/25"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (-7/25)² = 576/625. IV chorakda cos α = 24/25."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 24/25 bo'lsa, tg α ni toping.",
+      "options": [
+        "-7/24",
+        "7/24",
+        "-7/25",
+        "-24/7"
+      ],
+      "answer": 0,
+      "explain": "sin α = -7/25 ⇒ tg α = (-7/25) / (24/25) = -7/24."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -7/24 (IV chorak) bo'lsa, ctg α = -24/7 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -24/7."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 24/25 bo'lsa, cos α ni toping.",
+      "options": [
+        "24/7",
+        "7/25",
+        "-7/25",
+        "24/25"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (24/25)² = 49/625. I chorakda cos α = 7/25."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 7/25 bo'lsa, tg α ni toping.",
+      "options": [
+        "7/24",
+        "-24/7",
+        "24/25",
+        "24/7"
+      ],
+      "answer": 3,
+      "explain": "sin α = 24/25 ⇒ tg α = (24/25) / (7/25) = 24/7."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 24/7 (I chorak) bo'lsa, ctg α = 7/24 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 7/24."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 24/25 bo'lsa, cos α ni toping.",
+      "options": [
+        "-7/25",
+        "7/25",
+        "24/25",
+        "24/7"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (24/25)² = 49/625. II chorakda cos α = -7/25."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -7/25 bo'lsa, tg α ni toping.",
+      "options": [
+        "-7/24",
+        "24/25",
+        "24/7",
+        "-24/7"
+      ],
+      "answer": 3,
+      "explain": "sin α = 24/25 ⇒ tg α = (24/25) / (-7/25) = -24/7."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -24/7 (II chorak) bo'lsa, ctg α = -7/24 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -7/24."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -24/25 bo'lsa, cos α ni toping.",
+      "options": [
+        "7/25",
+        "24/7",
+        "-7/25",
+        "-24/25"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (-24/25)² = 49/625. III chorakda cos α = -7/25."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -7/25 bo'lsa, tg α ni toping.",
+      "options": [
+        "-24/7",
+        "-24/25",
+        "7/24",
+        "24/7"
+      ],
+      "answer": 3,
+      "explain": "sin α = -24/25 ⇒ tg α = (-24/25) / (-7/25) = 24/7."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 24/7 (III chorak) bo'lsa, ctg α = 7/24 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 7/24."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -24/25 bo'lsa, cos α ni toping.",
+      "options": [
+        "-24/25",
+        "24/7",
+        "-7/25",
+        "7/25"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (-24/25)² = 49/625. IV chorakda cos α = 7/25."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 7/25 bo'lsa, tg α ni toping.",
+      "options": [
+        "24/7",
+        "-24/7",
+        "-7/24",
+        "-24/25"
+      ],
+      "answer": 1,
+      "explain": "sin α = -24/25 ⇒ tg α = (-24/25) / (7/25) = -24/7."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -24/7 (IV chorak) bo'lsa, ctg α = -7/24 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -7/24."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 9/41 bo'lsa, cos α ni toping.",
+      "options": [
+        "40/41",
+        "9/41",
+        "-40/41",
+        "9/40"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (9/41)² = 1600/1681. I chorakda cos α = 40/41."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 40/41 bo'lsa, tg α ni toping.",
+      "options": [
+        "40/9",
+        "9/40",
+        "-9/40",
+        "9/41"
+      ],
+      "answer": 1,
+      "explain": "sin α = 9/41 ⇒ tg α = (9/41) / (40/41) = 9/40."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 9/40 (I chorak) bo'lsa, ctg α = 40/9 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 40/9."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 9/41 bo'lsa, cos α ni toping.",
+      "options": [
+        "40/41",
+        "-40/41",
+        "9/41",
+        "9/40"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (9/41)² = 1600/1681. II chorakda cos α = -40/41."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -40/41 bo'lsa, tg α ni toping.",
+      "options": [
+        "9/41",
+        "9/40",
+        "-40/9",
+        "-9/40"
+      ],
+      "answer": 3,
+      "explain": "sin α = 9/41 ⇒ tg α = (9/41) / (-40/41) = -9/40."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -9/40 (II chorak) bo'lsa, ctg α = -40/9 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -40/9."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -9/41 bo'lsa, cos α ni toping.",
+      "options": [
+        "-9/41",
+        "-40/41",
+        "9/40",
+        "40/41"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-9/41)² = 1600/1681. III chorakda cos α = -40/41."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -40/41 bo'lsa, tg α ni toping.",
+      "options": [
+        "-9/40",
+        "-9/41",
+        "9/40",
+        "40/9"
+      ],
+      "answer": 2,
+      "explain": "sin α = -9/41 ⇒ tg α = (-9/41) / (-40/41) = 9/40."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 9/40 (III chorak) bo'lsa, ctg α = 40/9 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 40/9."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -9/41 bo'lsa, cos α ni toping.",
+      "options": [
+        "-9/41",
+        "40/41",
+        "9/40",
+        "-40/41"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-9/41)² = 1600/1681. IV chorakda cos α = 40/41."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 40/41 bo'lsa, tg α ni toping.",
+      "options": [
+        "-40/9",
+        "-9/40",
+        "-9/41",
+        "9/40"
+      ],
+      "answer": 1,
+      "explain": "sin α = -9/41 ⇒ tg α = (-9/41) / (40/41) = -9/40."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -9/40 (IV chorak) bo'lsa, ctg α = -40/9 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -40/9."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 40/41 bo'lsa, cos α ni toping.",
+      "options": [
+        "-9/41",
+        "40/9",
+        "40/41",
+        "9/41"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (40/41)² = 81/1681. I chorakda cos α = 9/41."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 9/41 bo'lsa, tg α ni toping.",
+      "options": [
+        "9/40",
+        "-40/9",
+        "40/9",
+        "40/41"
+      ],
+      "answer": 2,
+      "explain": "sin α = 40/41 ⇒ tg α = (40/41) / (9/41) = 40/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 40/9 (I chorak) bo'lsa, ctg α = 9/40 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 9/40."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 40/41 bo'lsa, cos α ni toping.",
+      "options": [
+        "-9/41",
+        "40/9",
+        "40/41",
+        "9/41"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (40/41)² = 81/1681. II chorakda cos α = -9/41."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -9/41 bo'lsa, tg α ni toping.",
+      "options": [
+        "-40/9",
+        "40/41",
+        "-9/40",
+        "40/9"
+      ],
+      "answer": 0,
+      "explain": "sin α = 40/41 ⇒ tg α = (40/41) / (-9/41) = -40/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -40/9 (II chorak) bo'lsa, ctg α = -9/40 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -9/40."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -40/41 bo'lsa, cos α ni toping.",
+      "options": [
+        "40/9",
+        "-40/41",
+        "-9/41",
+        "9/41"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (-40/41)² = 81/1681. III chorakda cos α = -9/41."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -9/41 bo'lsa, tg α ni toping.",
+      "options": [
+        "40/9",
+        "9/40",
+        "-40/9",
+        "-40/41"
+      ],
+      "answer": 0,
+      "explain": "sin α = -40/41 ⇒ tg α = (-40/41) / (-9/41) = 40/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 40/9 (III chorak) bo'lsa, ctg α = 9/40 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 9/40."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -40/41 bo'lsa, cos α ni toping.",
+      "options": [
+        "9/41",
+        "-40/41",
+        "-9/41",
+        "40/9"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (-40/41)² = 81/1681. IV chorakda cos α = 9/41."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 9/41 bo'lsa, tg α ni toping.",
+      "options": [
+        "-40/9",
+        "-40/41",
+        "40/9",
+        "-9/40"
+      ],
+      "answer": 0,
+      "explain": "sin α = -40/41 ⇒ tg α = (-40/41) / (9/41) = -40/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -40/9 (IV chorak) bo'lsa, ctg α = -9/40 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -9/40."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 11/61 bo'lsa, cos α ni toping.",
+      "options": [
+        "-60/61",
+        "11/60",
+        "11/61",
+        "60/61"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (11/61)² = 3600/3721. I chorakda cos α = 60/61."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 60/61 bo'lsa, tg α ni toping.",
+      "options": [
+        "11/61",
+        "11/60",
+        "60/11",
+        "-11/60"
+      ],
+      "answer": 1,
+      "explain": "sin α = 11/61 ⇒ tg α = (11/61) / (60/61) = 11/60."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 11/60 (I chorak) bo'lsa, ctg α = 60/11 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 60/11."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 11/61 bo'lsa, cos α ni toping.",
+      "options": [
+        "60/61",
+        "11/60",
+        "11/61",
+        "-60/61"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (11/61)² = 3600/3721. II chorakda cos α = -60/61."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -60/61 bo'lsa, tg α ni toping.",
+      "options": [
+        "-11/60",
+        "-60/11",
+        "11/61",
+        "11/60"
+      ],
+      "answer": 0,
+      "explain": "sin α = 11/61 ⇒ tg α = (11/61) / (-60/61) = -11/60."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -11/60 (II chorak) bo'lsa, ctg α = -60/11 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -60/11."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -11/61 bo'lsa, cos α ni toping.",
+      "options": [
+        "-60/61",
+        "11/60",
+        "-11/61",
+        "60/61"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (-11/61)² = 3600/3721. III chorakda cos α = -60/61."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -60/61 bo'lsa, tg α ni toping.",
+      "options": [
+        "60/11",
+        "-11/60",
+        "-11/61",
+        "11/60"
+      ],
+      "answer": 3,
+      "explain": "sin α = -11/61 ⇒ tg α = (-11/61) / (-60/61) = 11/60."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 11/60 (III chorak) bo'lsa, ctg α = 60/11 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 60/11."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -11/61 bo'lsa, cos α ni toping.",
+      "options": [
+        "-11/61",
+        "-60/61",
+        "11/60",
+        "60/61"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (-11/61)² = 3600/3721. IV chorakda cos α = 60/61."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 60/61 bo'lsa, tg α ni toping.",
+      "options": [
+        "-11/61",
+        "-60/11",
+        "-11/60",
+        "11/60"
+      ],
+      "answer": 2,
+      "explain": "sin α = -11/61 ⇒ tg α = (-11/61) / (60/61) = -11/60."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -11/60 (IV chorak) bo'lsa, ctg α = -60/11 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -60/11."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 60/61 bo'lsa, cos α ni toping.",
+      "options": [
+        "60/61",
+        "60/11",
+        "11/61",
+        "-11/61"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (60/61)² = 121/3721. I chorakda cos α = 11/61."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 11/61 bo'lsa, tg α ni toping.",
+      "options": [
+        "60/11",
+        "60/61",
+        "11/60",
+        "-60/11"
+      ],
+      "answer": 0,
+      "explain": "sin α = 60/61 ⇒ tg α = (60/61) / (11/61) = 60/11."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 60/11 (I chorak) bo'lsa, ctg α = 11/60 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 11/60."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 60/61 bo'lsa, cos α ni toping.",
+      "options": [
+        "11/61",
+        "-11/61",
+        "60/61",
+        "60/11"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (60/61)² = 121/3721. II chorakda cos α = -11/61."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -11/61 bo'lsa, tg α ni toping.",
+      "options": [
+        "-60/11",
+        "-11/60",
+        "60/61",
+        "60/11"
+      ],
+      "answer": 0,
+      "explain": "sin α = 60/61 ⇒ tg α = (60/61) / (-11/61) = -60/11."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -60/11 (II chorak) bo'lsa, ctg α = -11/60 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -11/60."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -60/61 bo'lsa, cos α ni toping.",
+      "options": [
+        "60/11",
+        "-11/61",
+        "11/61",
+        "-60/61"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-60/61)² = 121/3721. III chorakda cos α = -11/61."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -11/61 bo'lsa, tg α ni toping.",
+      "options": [
+        "-60/11",
+        "-60/61",
+        "60/11",
+        "11/60"
+      ],
+      "answer": 2,
+      "explain": "sin α = -60/61 ⇒ tg α = (-60/61) / (-11/61) = 60/11."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 60/11 (III chorak) bo'lsa, ctg α = 11/60 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 11/60."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -60/61 bo'lsa, cos α ni toping.",
+      "options": [
+        "-11/61",
+        "-60/61",
+        "60/11",
+        "11/61"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (-60/61)² = 121/3721. IV chorakda cos α = 11/61."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 11/61 bo'lsa, tg α ni toping.",
+      "options": [
+        "-11/60",
+        "-60/11",
+        "60/11",
+        "-60/61"
+      ],
+      "answer": 1,
+      "explain": "sin α = -60/61 ⇒ tg α = (-60/61) / (11/61) = -60/11."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -60/11 (IV chorak) bo'lsa, ctg α = -11/60 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -11/60."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 12/37 bo'lsa, cos α ni toping.",
+      "options": [
+        "12/35",
+        "-35/37",
+        "35/37",
+        "12/37"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (12/37)² = 1225/1369. I chorakda cos α = 35/37."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 35/37 bo'lsa, tg α ni toping.",
+      "options": [
+        "12/35",
+        "12/37",
+        "35/12",
+        "-12/35"
+      ],
+      "answer": 0,
+      "explain": "sin α = 12/37 ⇒ tg α = (12/37) / (35/37) = 12/35."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 12/35 (I chorak) bo'lsa, ctg α = 35/12 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 35/12."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 12/37 bo'lsa, cos α ni toping.",
+      "options": [
+        "35/37",
+        "-35/37",
+        "12/37",
+        "12/35"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (12/37)² = 1225/1369. II chorakda cos α = -35/37."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -35/37 bo'lsa, tg α ni toping.",
+      "options": [
+        "-12/35",
+        "12/37",
+        "-35/12",
+        "12/35"
+      ],
+      "answer": 0,
+      "explain": "sin α = 12/37 ⇒ tg α = (12/37) / (-35/37) = -12/35."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -12/35 (II chorak) bo'lsa, ctg α = -35/12 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -35/12."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -12/37 bo'lsa, cos α ni toping.",
+      "options": [
+        "-35/37",
+        "35/37",
+        "12/35",
+        "-12/37"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (-12/37)² = 1225/1369. III chorakda cos α = -35/37."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -35/37 bo'lsa, tg α ni toping.",
+      "options": [
+        "12/35",
+        "-12/35",
+        "35/12",
+        "-12/37"
+      ],
+      "answer": 0,
+      "explain": "sin α = -12/37 ⇒ tg α = (-12/37) / (-35/37) = 12/35."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 12/35 (III chorak) bo'lsa, ctg α = 35/12 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 35/12."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -12/37 bo'lsa, cos α ni toping.",
+      "options": [
+        "12/35",
+        "35/37",
+        "-12/37",
+        "-35/37"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-12/37)² = 1225/1369. IV chorakda cos α = 35/37."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 35/37 bo'lsa, tg α ni toping.",
+      "options": [
+        "-12/37",
+        "-12/35",
+        "-35/12",
+        "12/35"
+      ],
+      "answer": 1,
+      "explain": "sin α = -12/37 ⇒ tg α = (-12/37) / (35/37) = -12/35."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -12/35 (IV chorak) bo'lsa, ctg α = -35/12 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -35/12."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 35/37 bo'lsa, cos α ni toping.",
+      "options": [
+        "-12/37",
+        "12/37",
+        "35/37",
+        "35/12"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (35/37)² = 144/1369. I chorakda cos α = 12/37."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 12/37 bo'lsa, tg α ni toping.",
+      "options": [
+        "35/12",
+        "35/37",
+        "12/35",
+        "-35/12"
+      ],
+      "answer": 0,
+      "explain": "sin α = 35/37 ⇒ tg α = (35/37) / (12/37) = 35/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 35/12 (I chorak) bo'lsa, ctg α = 12/35 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 12/35."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 35/37 bo'lsa, cos α ni toping.",
+      "options": [
+        "35/37",
+        "35/12",
+        "12/37",
+        "-12/37"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (35/37)² = 144/1369. II chorakda cos α = -12/37."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -12/37 bo'lsa, tg α ni toping.",
+      "options": [
+        "35/12",
+        "-12/35",
+        "-35/12",
+        "35/37"
+      ],
+      "answer": 2,
+      "explain": "sin α = 35/37 ⇒ tg α = (35/37) / (-12/37) = -35/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -35/12 (II chorak) bo'lsa, ctg α = -12/35 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -12/35."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -35/37 bo'lsa, cos α ni toping.",
+      "options": [
+        "-12/37",
+        "-35/37",
+        "35/12",
+        "12/37"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (-35/37)² = 144/1369. III chorakda cos α = -12/37."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -12/37 bo'lsa, tg α ni toping.",
+      "options": [
+        "12/35",
+        "35/12",
+        "-35/12",
+        "-35/37"
+      ],
+      "answer": 1,
+      "explain": "sin α = -35/37 ⇒ tg α = (-35/37) / (-12/37) = 35/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 35/12 (III chorak) bo'lsa, ctg α = 12/35 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 12/35."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -35/37 bo'lsa, cos α ni toping.",
+      "options": [
+        "-12/37",
+        "12/37",
+        "35/12",
+        "-35/37"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-35/37)² = 144/1369. IV chorakda cos α = 12/37."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 12/37 bo'lsa, tg α ni toping.",
+      "options": [
+        "-12/35",
+        "35/12",
+        "-35/37",
+        "-35/12"
+      ],
+      "answer": 3,
+      "explain": "sin α = -35/37 ⇒ tg α = (-35/37) / (12/37) = -35/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -35/12 (IV chorak) bo'lsa, ctg α = -12/35 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -12/35."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 20/29 bo'lsa, cos α ni toping.",
+      "options": [
+        "20/21",
+        "20/29",
+        "21/29",
+        "-21/29"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (20/29)² = 441/841. I chorakda cos α = 21/29."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 21/29 bo'lsa, tg α ni toping.",
+      "options": [
+        "20/29",
+        "21/20",
+        "20/21",
+        "-20/21"
+      ],
+      "answer": 2,
+      "explain": "sin α = 20/29 ⇒ tg α = (20/29) / (21/29) = 20/21."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 20/21 (I chorak) bo'lsa, ctg α = 21/20 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 21/20."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 20/29 bo'lsa, cos α ni toping.",
+      "options": [
+        "20/29",
+        "20/21",
+        "21/29",
+        "-21/29"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (20/29)² = 441/841. II chorakda cos α = -21/29."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -21/29 bo'lsa, tg α ni toping.",
+      "options": [
+        "20/29",
+        "-21/20",
+        "-20/21",
+        "20/21"
+      ],
+      "answer": 2,
+      "explain": "sin α = 20/29 ⇒ tg α = (20/29) / (-21/29) = -20/21."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -20/21 (II chorak) bo'lsa, ctg α = -21/20 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -21/20."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -20/29 bo'lsa, cos α ni toping.",
+      "options": [
+        "-21/29",
+        "20/21",
+        "21/29",
+        "-20/29"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (-20/29)² = 441/841. III chorakda cos α = -21/29."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -21/29 bo'lsa, tg α ni toping.",
+      "options": [
+        "-20/21",
+        "21/20",
+        "-20/29",
+        "20/21"
+      ],
+      "answer": 3,
+      "explain": "sin α = -20/29 ⇒ tg α = (-20/29) / (-21/29) = 20/21."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 20/21 (III chorak) bo'lsa, ctg α = 21/20 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 21/20."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -20/29 bo'lsa, cos α ni toping.",
+      "options": [
+        "-21/29",
+        "21/29",
+        "-20/29",
+        "20/21"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-20/29)² = 441/841. IV chorakda cos α = 21/29."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 21/29 bo'lsa, tg α ni toping.",
+      "options": [
+        "-20/21",
+        "20/21",
+        "-20/29",
+        "-21/20"
+      ],
+      "answer": 0,
+      "explain": "sin α = -20/29 ⇒ tg α = (-20/29) / (21/29) = -20/21."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -20/21 (IV chorak) bo'lsa, ctg α = -21/20 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -21/20."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 21/29 bo'lsa, cos α ni toping.",
+      "options": [
+        "-20/29",
+        "20/29",
+        "21/29",
+        "21/20"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (21/29)² = 400/841. I chorakda cos α = 20/29."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 20/29 bo'lsa, tg α ni toping.",
+      "options": [
+        "20/21",
+        "-21/20",
+        "21/20",
+        "21/29"
+      ],
+      "answer": 2,
+      "explain": "sin α = 21/29 ⇒ tg α = (21/29) / (20/29) = 21/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 21/20 (I chorak) bo'lsa, ctg α = 20/21 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 20/21."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 21/29 bo'lsa, cos α ni toping.",
+      "options": [
+        "20/29",
+        "-20/29",
+        "21/20",
+        "21/29"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (21/29)² = 400/841. II chorakda cos α = -20/29."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -20/29 bo'lsa, tg α ni toping.",
+      "options": [
+        "-20/21",
+        "21/20",
+        "21/29",
+        "-21/20"
+      ],
+      "answer": 3,
+      "explain": "sin α = 21/29 ⇒ tg α = (21/29) / (-20/29) = -21/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -21/20 (II chorak) bo'lsa, ctg α = -20/21 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -20/21."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -21/29 bo'lsa, cos α ni toping.",
+      "options": [
+        "-21/29",
+        "21/20",
+        "20/29",
+        "-20/29"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (-21/29)² = 400/841. III chorakda cos α = -20/29."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -20/29 bo'lsa, tg α ni toping.",
+      "options": [
+        "-21/29",
+        "-21/20",
+        "21/20",
+        "20/21"
+      ],
+      "answer": 2,
+      "explain": "sin α = -21/29 ⇒ tg α = (-21/29) / (-20/29) = 21/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 21/20 (III chorak) bo'lsa, ctg α = 20/21 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 20/21."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -21/29 bo'lsa, cos α ni toping.",
+      "options": [
+        "-21/29",
+        "-20/29",
+        "20/29",
+        "21/20"
+      ],
+      "answer": 2,
+      "explain": "cos²α = 1 − (-21/29)² = 400/841. IV chorakda cos α = 20/29."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 20/29 bo'lsa, tg α ni toping.",
+      "options": [
+        "-21/29",
+        "21/20",
+        "-20/21",
+        "-21/20"
+      ],
+      "answer": 3,
+      "explain": "sin α = -21/29 ⇒ tg α = (-21/29) / (20/29) = -21/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -21/20 (IV chorak) bo'lsa, ctg α = -20/21 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -20/21."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 16/65 bo'lsa, cos α ni toping.",
+      "options": [
+        "16/65",
+        "63/65",
+        "-63/65",
+        "16/63"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (16/65)² = 3969/4225. I chorakda cos α = 63/65."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 63/65 bo'lsa, tg α ni toping.",
+      "options": [
+        "16/63",
+        "-16/63",
+        "63/16",
+        "16/65"
+      ],
+      "answer": 0,
+      "explain": "sin α = 16/65 ⇒ tg α = (16/65) / (63/65) = 16/63."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 16/63 (I chorak) bo'lsa, ctg α = 63/16 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 63/16."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 16/65 bo'lsa, cos α ni toping.",
+      "options": [
+        "-63/65",
+        "16/65",
+        "63/65",
+        "16/63"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (16/65)² = 3969/4225. II chorakda cos α = -63/65."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -63/65 bo'lsa, tg α ni toping.",
+      "options": [
+        "-63/16",
+        "16/65",
+        "16/63",
+        "-16/63"
+      ],
+      "answer": 3,
+      "explain": "sin α = 16/65 ⇒ tg α = (16/65) / (-63/65) = -16/63."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -16/63 (II chorak) bo'lsa, ctg α = -63/16 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -63/16."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -16/65 bo'lsa, cos α ni toping.",
+      "options": [
+        "63/65",
+        "-63/65",
+        "-16/65",
+        "16/63"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (-16/65)² = 3969/4225. III chorakda cos α = -63/65."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -63/65 bo'lsa, tg α ni toping.",
+      "options": [
+        "63/16",
+        "-16/65",
+        "16/63",
+        "-16/63"
+      ],
+      "answer": 2,
+      "explain": "sin α = -16/65 ⇒ tg α = (-16/65) / (-63/65) = 16/63."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 16/63 (III chorak) bo'lsa, ctg α = 63/16 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 63/16."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -16/65 bo'lsa, cos α ni toping.",
+      "options": [
+        "63/65",
+        "16/63",
+        "-63/65",
+        "-16/65"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (-16/65)² = 3969/4225. IV chorakda cos α = 63/65."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 63/65 bo'lsa, tg α ni toping.",
+      "options": [
+        "-16/63",
+        "16/63",
+        "-16/65",
+        "-63/16"
+      ],
+      "answer": 0,
+      "explain": "sin α = -16/65 ⇒ tg α = (-16/65) / (63/65) = -16/63."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -16/63 (IV chorak) bo'lsa, ctg α = -63/16 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -63/16."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va sin α = 63/65 bo'lsa, cos α ni toping.",
+      "options": [
+        "63/16",
+        "16/65",
+        "-16/65",
+        "63/65"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (63/65)² = 256/4225. I chorakda cos α = 16/65."
+    },
+    {
+      "type": "choice",
+      "q": "α — I chorak burchagi va cos α = 16/65 bo'lsa, tg α ni toping.",
+      "options": [
+        "63/16",
+        "16/63",
+        "63/65",
+        "-63/16"
+      ],
+      "answer": 0,
+      "explain": "sin α = 63/65 ⇒ tg α = (63/65) / (16/65) = 63/16."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 63/16 (I chorak) bo'lsa, ctg α = 16/63 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 16/63."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va sin α = 63/65 bo'lsa, cos α ni toping.",
+      "options": [
+        "63/16",
+        "-16/65",
+        "63/65",
+        "16/65"
+      ],
+      "answer": 1,
+      "explain": "cos²α = 1 − (63/65)² = 256/4225. II chorakda cos α = -16/65."
+    },
+    {
+      "type": "choice",
+      "q": "α — II chorak burchagi va cos α = -16/65 bo'lsa, tg α ni toping.",
+      "options": [
+        "-16/63",
+        "63/16",
+        "63/65",
+        "-63/16"
+      ],
+      "answer": 3,
+      "explain": "sin α = 63/65 ⇒ tg α = (63/65) / (-16/65) = -63/16."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -63/16 (II chorak) bo'lsa, ctg α = -16/63 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -16/63."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va sin α = -63/65 bo'lsa, cos α ni toping.",
+      "options": [
+        "-16/65",
+        "16/65",
+        "-63/65",
+        "63/16"
+      ],
+      "answer": 0,
+      "explain": "cos²α = 1 − (-63/65)² = 256/4225. III chorakda cos α = -16/65."
+    },
+    {
+      "type": "choice",
+      "q": "α — III chorak burchagi va cos α = -16/65 bo'lsa, tg α ni toping.",
+      "options": [
+        "16/63",
+        "-63/65",
+        "63/16",
+        "-63/16"
+      ],
+      "answer": 2,
+      "explain": "sin α = -63/65 ⇒ tg α = (-63/65) / (-16/65) = 63/16."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = 63/16 (III chorak) bo'lsa, ctg α = 16/63 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = 16/63."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va sin α = -63/65 bo'lsa, cos α ni toping.",
+      "options": [
+        "63/16",
+        "-16/65",
+        "-63/65",
+        "16/65"
+      ],
+      "answer": 3,
+      "explain": "cos²α = 1 − (-63/65)² = 256/4225. IV chorakda cos α = 16/65."
+    },
+    {
+      "type": "choice",
+      "q": "α — IV chorak burchagi va cos α = 16/65 bo'lsa, tg α ni toping.",
+      "options": [
+        "-63/65",
+        "-16/63",
+        "-63/16",
+        "63/16"
+      ],
+      "answer": 2,
+      "explain": "sin α = -63/65 ⇒ tg α = (-63/65) / (16/65) = -63/16."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar tg α = -63/16 (IV chorak) bo'lsa, ctg α = -16/63 ga teng.",
+      "answer": true,
+      "explain": "ctg α = 1 / tg α = -16/63."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 2 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/2",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "6"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 2² = 5."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 3 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/3",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "10",
+        "11",
+        "4",
+        "9"
+      ],
+      "answer": 0,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 3² = 10."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 4 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/4",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 4 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 4² = 17."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 5 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/5",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 5 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "27",
+        "6",
+        "25",
+        "26"
+      ],
+      "answer": 3,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 5² = 26."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 6 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/6",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 6 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "7",
+        "37",
+        "38",
+        "36"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 6² = 37."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 7 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/7",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 7 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "8",
+        "49",
+        "50",
+        "51"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 7² = 50."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 8 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/8",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/8."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 8 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "64",
+        "65",
+        "9",
+        "66"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 8² = 65."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 9 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/9",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/9."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 9 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "81",
+        "83",
+        "82",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 9² = 82."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 10 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/10",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/10."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 10 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "11",
+        "101",
+        "100",
+        "102"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 10² = 101."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 11 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/11",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/11."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 11 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "121",
+        "122",
+        "12",
+        "123"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 11² = 122."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 12 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/12",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/12."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 12 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "145",
+        "146",
+        "13",
+        "144"
+      ],
+      "answer": 0,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 12² = 145."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 13 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/13",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/13."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 13 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "171",
+        "169",
+        "14",
+        "170"
+      ],
+      "answer": 3,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 13² = 170."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 14 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/14",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/14."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 14 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "197",
+        "15",
+        "196",
+        "198"
+      ],
+      "answer": 0,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 14² = 197."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 15 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/15",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/15."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 15 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "226",
+        "225",
+        "227",
+        "16"
+      ],
+      "answer": 0,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 15² = 226."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 16 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/16",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/16."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 16 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "258",
+        "17",
+        "257",
+        "256"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 16² = 257."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 17 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/17",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/17."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 17 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "291",
+        "290",
+        "289",
+        "18"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 17² = 290."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 18 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/18",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/18."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 18 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "326",
+        "324",
+        "19",
+        "325"
+      ],
+      "answer": 3,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 18² = 325."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 19 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/19",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/19."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 19 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "20",
+        "362",
+        "361",
+        "363"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 19² = 362."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 20 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/20",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/20."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 20 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "21",
+        "402",
+        "401",
+        "400"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 20² = 401."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 21 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/21",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/21."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 21 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "441",
+        "443",
+        "442",
+        "22"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 21² = 442."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 22 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/22",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/22."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 22 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "486",
+        "484",
+        "485",
+        "23"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 22² = 485."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 23 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/23",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/23."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 23 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "531",
+        "529",
+        "530",
+        "24"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 23² = 530."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 24 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/24",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/24."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 24 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "578",
+        "576",
+        "25",
+        "577"
+      ],
+      "answer": 3,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 24² = 577."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 25 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/25",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/25."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 25 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "625",
+        "626",
+        "627",
+        "26"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 25² = 626."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 26 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/26",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/26."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 26 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "27",
+        "677",
+        "678",
+        "676"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 26² = 677."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 27 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/27",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/27."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 27 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "28",
+        "731",
+        "729",
+        "730"
+      ],
+      "answer": 3,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 27² = 730."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 28 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/28",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/28."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 28 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "785",
+        "786",
+        "29",
+        "784"
+      ],
+      "answer": 0,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 28² = 785."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 29 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/29",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/29."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 29 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "843",
+        "842",
+        "841",
+        "30"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 29² = 842."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 30 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/30",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/30."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 30 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "31",
+        "900",
+        "902",
+        "901"
+      ],
+      "answer": 3,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 30² = 901."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 31 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/31",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/31."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 31 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "963",
+        "962",
+        "961",
+        "32"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 31² = 962."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 32 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/32",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/32."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 32 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "1025",
+        "1024",
+        "33",
+        "1026"
+      ],
+      "answer": 0,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 32² = 1025."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 33 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/33",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/33."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 33 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "34",
+        "1090",
+        "1089",
+        "1091"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 33² = 1090."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 34 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/34",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/34."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 34 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "1156",
+        "1158",
+        "35",
+        "1157"
+      ],
+      "answer": 3,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 34² = 1157."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 35 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/35",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/35."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 35 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "1225",
+        "1227",
+        "36",
+        "1226"
+      ],
+      "answer": 3,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 35² = 1226."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 36 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/36",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/36."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 36 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "37",
+        "1297",
+        "1296",
+        "1298"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 36² = 1297."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 37 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/37",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/37."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 37 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "38",
+        "1369",
+        "1371",
+        "1370"
+      ],
+      "answer": 3,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 37² = 1370."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 38 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/38",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/38."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 38 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "1444",
+        "1445",
+        "39",
+        "1446"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 38² = 1445."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 39 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/39",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/39."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 39 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "1523",
+        "1521",
+        "1522",
+        "40"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 39² = 1522."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 40 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/40",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/40."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 40 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "1602",
+        "41",
+        "1601",
+        "1600"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 40² = 1601."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 41 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/41",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/41."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 41 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "1681",
+        "1683",
+        "1682",
+        "42"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 41² = 1682."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 42 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/42",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/42."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 42 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "1764",
+        "43",
+        "1765",
+        "1766"
+      ],
+      "answer": 2,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 42² = 1765."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 43 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/43",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/43."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 43 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "1850",
+        "44",
+        "1849",
+        "1851"
+      ],
+      "answer": 0,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 43² = 1850."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 44 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/44",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/44."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 44 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "1936",
+        "1938",
+        "45",
+        "1937"
+      ],
+      "answer": 3,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 44² = 1937."
+    },
+    {
+      "type": "fill",
+      "q": "tg α = 45 bo'lsa, ctg α ning qiymatini kasr ko'rinishida yozing.",
+      "answer": "1/45",
+      "explain": "tg α · ctg α = 1 dan ctg α = 1/45."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 45 bo'lganda 1 / cos²α qiymatini toping.",
+      "options": [
+        "2027",
+        "2026",
+        "2025",
+        "46"
+      ],
+      "answer": 1,
+      "explain": "1 / cos²α = 1 + tg²α = 1 + 45² = 2026."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (sin α + 3cos α) / (2sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "6/5",
+        "4/3",
+        "5/6"
+      ],
+      "answer": 0,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(2tg α + 1) = (1·2+3)/(2·2+1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (sin α + 3cos α) / (3sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "5/7",
+        "6/7",
+        "5/8",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(3tg α + 1) = (1·2+3)/(3·2+1) = 5/7."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (sin α + 3cos α) / (4sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "1/2",
+        "4/5",
+        "2/3",
+        "5/9"
+      ],
+      "answer": 3,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(4tg α + 1) = (1·2+3)/(4·2+1) = 5/9."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (2sin α + 3cos α) / (sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "8/3",
+        "5/2",
+        "7/3",
+        "7/4"
+      ],
+      "answer": 2,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (2tg α + 3)/(1tg α + 1) = (2·2+3)/(1·2+1) = 7/3."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (2sin α + 3cos α) / (2sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "8/5",
+        "7/6",
+        "7/5",
+        "5/3"
+      ],
+      "answer": 2,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (2tg α + 3)/(2tg α + 1) = (2·2+3)/(2·2+1) = 7/5."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (2sin α + 3cos α) / (3sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "5/4",
+        "8/7",
+        "1",
+        "7/8"
+      ],
+      "answer": 2,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (2tg α + 3)/(3tg α + 1) = (2·2+3)/(3·2+1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (2sin α + 3cos α) / (4sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "7/9",
+        "7/10",
+        "8/9",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (2tg α + 3)/(4tg α + 1) = (2·2+3)/(4·2+1) = 7/9."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (3sin α + 3cos α) / (3sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "9/8",
+        "3/2",
+        "10/7",
+        "9/7"
+      ],
+      "answer": 3,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (3tg α + 3)/(3tg α + 1) = (3·2+3)/(3·2+1) = 9/7."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (3sin α + 3cos α) / (4sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "10/9",
+        "1",
+        "9/10",
+        "6/5"
+      ],
+      "answer": 1,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (3tg α + 3)/(4tg α + 1) = (3·2+3)/(4·2+1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (4sin α + 3cos α) / (sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "7/2",
+        "11/3",
+        "11/4",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (4tg α + 3)/(1tg α + 1) = (4·2+3)/(1·2+1) = 11/3."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (4sin α + 3cos α) / (2sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "7/3",
+        "11/5",
+        "11/6",
+        "12/5"
+      ],
+      "answer": 1,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (4tg α + 3)/(2tg α + 1) = (4·2+3)/(2·2+1) = 11/5."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (4sin α + 3cos α) / (3sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "11/7",
+        "12/7",
+        "11/8",
+        "7/4"
+      ],
+      "answer": 0,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (4tg α + 3)/(3tg α + 1) = (4·2+3)/(3·2+1) = 11/7."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 2 bo'lsa, (4sin α + 3cos α) / (4sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "11/9",
+        "4/3",
+        "11/10",
+        "7/5"
+      ],
+      "answer": 0,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (4tg α + 3)/(4tg α + 1) = (4·2+3)/(4·2+1) = 11/9."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (sin α + 3cos α) / (sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "7/4",
+        "3/2",
+        "6/5",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(1tg α + 1) = (1·3+3)/(1·3+1) = 3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (sin α + 3cos α) / (2sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "4/3",
+        "6/7",
+        "1",
+        "3/4"
+      ],
+      "answer": 1,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(2tg α + 1) = (1·3+3)/(2·3+1) = 6/7."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (sin α + 3cos α) / (3sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "7/10",
+        "3/5",
+        "6/11"
+      ],
+      "answer": 2,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(3tg α + 1) = (1·3+3)/(3·3+1) = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (sin α + 3cos α) / (4sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "3/7",
+        "6/13",
+        "7/13",
+        "4/5"
+      ],
+      "answer": 1,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(4tg α + 1) = (1·3+3)/(4·3+1) = 6/13."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (2sin α + 3cos α) / (2sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "10/7",
+        "9/7",
+        "9/8",
+        "5/3"
+      ],
+      "answer": 1,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (2tg α + 3)/(2tg α + 1) = (2·3+3)/(2·3+1) = 9/7."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (2sin α + 3cos α) / (3sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "9/10",
+        "5/4",
+        "1",
+        "9/11"
+      ],
+      "answer": 0,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (2tg α + 3)/(3tg α + 1) = (2·3+3)/(3·3+1) = 9/10."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (2sin α + 3cos α) / (4sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "9/14",
+        "10/13",
+        "9/13"
+      ],
+      "answer": 3,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (2tg α + 3)/(4tg α + 1) = (2·3+3)/(4·3+1) = 9/13."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (3sin α + 3cos α) / (2sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "13/7",
+        "12/7",
+        "2",
+        "3/2"
+      ],
+      "answer": 1,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (3tg α + 3)/(2tg α + 1) = (3·3+3)/(2·3+1) = 12/7."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (3sin α + 3cos α) / (3sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "6/5",
+        "13/10",
+        "3/2",
+        "12/11"
+      ],
+      "answer": 0,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (3tg α + 3)/(3tg α + 1) = (3·3+3)/(3·3+1) = 6/5."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (3sin α + 3cos α) / (4sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "1",
+        "6/7",
+        "6/5",
+        "12/13"
+      ],
+      "answer": 3,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (3tg α + 3)/(4tg α + 1) = (3·3+3)/(4·3+1) = 12/13."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (4sin α + 3cos α) / (sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "3",
+        "15/4",
+        "4",
+        "7/2"
+      ],
+      "answer": 1,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (4tg α + 3)/(1tg α + 1) = (4·3+3)/(1·3+1) = 15/4."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (4sin α + 3cos α) / (2sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "16/7",
+        "15/8",
+        "15/7",
+        "7/3"
+      ],
+      "answer": 2,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (4tg α + 3)/(2tg α + 1) = (4·3+3)/(2·3+1) = 15/7."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (4sin α + 3cos α) / (3sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "3/2",
+        "7/4",
+        "15/11",
+        "8/5"
+      ],
+      "answer": 0,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (4tg α + 3)/(3tg α + 1) = (4·3+3)/(3·3+1) = 3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 3 bo'lsa, (4sin α + 3cos α) / (4sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "15/14",
+        "16/13",
+        "7/5",
+        "15/13"
+      ],
+      "answer": 3,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (4tg α + 3)/(4tg α + 1) = (4·3+3)/(4·3+1) = 15/13."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 4 bo'lsa, (sin α + 3cos α) / (sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "7/6",
+        "2",
+        "7/5",
+        "8/5"
+      ],
+      "answer": 2,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(1tg α + 1) = (1·4+3)/(1·4+1) = 7/5."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 4 bo'lsa, (sin α + 3cos α) / (2sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "4/3",
+        "7/9",
+        "7/10",
+        "8/9"
+      ],
+      "answer": 1,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(2tg α + 1) = (1·4+3)/(2·4+1) = 7/9."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 4 bo'lsa, (sin α + 3cos α) / (3sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "7/13",
+        "1/2",
+        "1",
+        "8/13"
+      ],
+      "answer": 0,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(3tg α + 1) = (1·4+3)/(3·4+1) = 7/13."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 4 bo'lsa, (sin α + 3cos α) / (4sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "7/18",
+        "4/5",
+        "8/17",
+        "7/17"
+      ],
+      "answer": 3,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (1tg α + 3)/(4tg α + 1) = (1·4+3)/(4·4+1) = 7/17."
+    },
+    {
+      "type": "choice",
+      "q": "tg α = 4 bo'lsa, (2sin α + 3cos α) / (sin α + cos α) ifodaning qiymatini toping.",
+      "options": [
+        "5/2",
+        "11/6",
+        "11/5",
+        "12/5"
+      ],
+      "answer": 2,
+      "explain": "Surat va maxrajni cos α ga bo'lamiz: (2tg α + 3)/(1tg α + 1) = (2·4+3)/(1·4+1) = 11/5."
+    }
+  ],
+  "cards": [
+    [
+      "Radian",
+      "Yoy uzunligi radiusga teng markaziy burchak"
+    ],
+    [
+      "Sinus",
+      "Burilgan nuqtaning ordinatasi (y koordinatasi)"
+    ],
+    [
+      "Kosinus",
+      "Burilgan nuqtaning abssissasi (x koordinatasi)"
+    ],
+    [
+      "Tangens",
+      "Sinusning kosinusga nisbati (sin α / cos α)"
+    ],
+    [
+      "Kotangens",
+      "Kosinusning sinusga nisbati (cos α / sin α)"
+    ],
+    [
+      "Ayniyat",
+      "O'zgaruvchining barcha ruxsatli qiymatlarida to'g'ri tenglik"
+    ],
+    [
+      "Birlik",
+      "Radiusi R = 1 bo'lgan markaziy aylana"
+    ],
+    [
+      "Chorak",
+      "Koordinata tekisligining to'rtdan bir qismi"
+    ],
+    [
+      "Davr",
+      "Trigonometrik funksiyalar qiymati takrorlanuvchi burchak"
+    ],
+    [
+      "Keltirish",
+      "Katta burchakni o'tkir burchak orqali ifodalash"
+    ],
+    [
+      "Teskari",
+      "tg α · ctg α = 1 bog'lanishi"
+    ],
+    [
+      "Pifagor",
+      "sin²α + cos²α = 1 asosiy ayniyati"
+    ],
+    [
+      "Sekans",
+      "1 + tg²α = 1 / cos²α formulasi"
+    ],
+    [
+      "Kosekans",
+      "1 + ctg²α = 1 / sin²α formulasi"
+    ],
+    [
+      "sin²α + cos²α = 1",
+      "Asosiy trigonometrik ayniyat"
+    ],
+    [
+      "sin α = ±√(1−cos²α)",
+      "Ishora chorakka qarab tanlanadi"
+    ],
+    [
+      "tg α = sin α / cos α",
+      "Tangensning asosiy ta'rifi"
+    ],
+    [
+      "ctg α = 1 / tg α",
+      "Tangens va kotangens bog'lanishi"
+    ],
+    [
+      "(3; 4; 5) uchlik",
+      "sin α = 3/5 ⇒ |cos α| = 4/5"
+    ],
+    [
+      "(5; 12; 13) uchlik",
+      "sin α = 5/13 ⇒ |cos α| = 12/13"
+    ],
+    [
+      "(8; 15; 17) uchlik",
+      "cos α = 8/17 ⇒ |sin α| = 15/17"
+    ],
+    [
+      "(7; 24; 25) uchlik",
+      "cos α = 7/25 ⇒ |sin α| = 24/25"
+    ],
+    [
+      "1 − sin²α",
+      "cos²α ga teng ifoda"
+    ],
+    [
+      "1 − cos²α",
+      "sin²α ga teng ifoda"
+    ]
+  ]
+}

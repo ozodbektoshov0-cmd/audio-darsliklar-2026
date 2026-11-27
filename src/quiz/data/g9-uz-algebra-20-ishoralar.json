@@ -1,0 +1,3748 @@
+{
+  "id": "g9-uz-algebra-20-ishoralar",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "20-§. Sinus, kosinus va tangensning ishoralari",
+  "title": "20-§. Sinus, kosinus va tangensning ishoralari",
+  "source": "Algebra 9-sinf (2019), III bob, 20-§, 109–112-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "sin α funksiyasi qaysi choraklarda musbat (+) ishoraga ega?",
+      "options": [
+        "I va II choraklarda",
+        "I va III choraklarda",
+        "II va III choraklarda",
+        "I va IV choraklarda"
+      ],
+      "answer": 0,
+      "explain": "sin α = y ordinata bo'lib, Ox o'qidan yuqorida (I va II choraklarda) musbat."
+    },
+    {
+      "type": "choice",
+      "q": "cos α funksiyasi qaysi choraklarda musbat (+) ishorali?",
+      "options": [
+        "II va III choraklarda",
+        "III va IV choraklarda",
+        "I va II choraklarda",
+        "I va IV choraklarda"
+      ],
+      "answer": 3,
+      "explain": "cos α = x abssissa Oy o'qidan o'ngda (I va IV choraklarda) musbat."
+    },
+    {
+      "type": "choice",
+      "q": "tg α va ctg α funksiyalari qaysi choraklarda musbat?",
+      "options": [
+        "III va IV choraklarda",
+        "I va III choraklarda",
+        "I va II choraklarda",
+        "II va IV choraklarda"
+      ],
+      "answer": 1,
+      "explain": "I da (+)/(+) = +, III da (−)/(−) = + bo'ladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar sin α < 0 va cos α > 0 bo'lsa, α burchak IV chorakda yotadi.",
+      "answer": true,
+      "explain": "y < 0 va x > 0 bo'lgan chorak — IV chorak."
+    },
+    {
+      "type": "truefalse",
+      "q": "2 radian burchakning kosinusi musbat.",
+      "answer": false,
+      "explain": "π/2 ≈ 1,57 < 2 < π ≈ 3,14 (II chorak) da cos 2 < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-350°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "-350° ≡ 10° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-338°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "-338° ≡ 22° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-326°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "-326° ≡ 34° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-314°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 1,
+      "explain": "-314° ≡ 46° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-302°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 0,
+      "explain": "-302° ≡ 58° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-290°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "-290° ≡ 70° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-278°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nolga teng (0)"
+      ],
+      "answer": 0,
+      "explain": "-278° ≡ 82° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-266°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "-266° ≡ 94° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-254°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "-254° ≡ 106° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-242°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "-242° ≡ 118° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-230°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "-230° ≡ 130° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-218°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "-218° ≡ 142° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-206°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "-206° ≡ 154° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-194°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)"
+      ],
+      "answer": 1,
+      "explain": "-194° ≡ 166° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-182°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "-182° ≡ 178° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-170°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "-170° ≡ 190° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-158°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "-158° ≡ 202° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-146°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)"
+      ],
+      "answer": 1,
+      "explain": "-146° ≡ 214° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-134°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 1,
+      "explain": "-134° ≡ 226° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-122°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "-122° ≡ 238° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-110°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "-110° ≡ 250° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-98°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 2,
+      "explain": "-98° ≡ 262° burchakda tg ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-86°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "-86° ≡ 274° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-74°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 2,
+      "explain": "-74° ≡ 286° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-62°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nolga teng (0)"
+      ],
+      "answer": 0,
+      "explain": "-62° ≡ 298° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-50°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "-50° ≡ 310° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-38°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "-38° ≡ 322° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-26°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "-26° ≡ 334° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-14°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 2,
+      "explain": "-14° ≡ 346° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(-2°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Musbat (+)"
+      ],
+      "answer": 0,
+      "explain": "-2° ≡ 358° burchakda tg ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(10°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "10° ≡ 10° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(22°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Manfiy (−)"
+      ],
+      "answer": 0,
+      "explain": "22° ≡ 22° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(34°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)"
+      ],
+      "answer": 1,
+      "explain": "34° ≡ 34° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(46°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 0,
+      "explain": "46° ≡ 46° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(58°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 0,
+      "explain": "58° ≡ 58° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(70°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "70° ≡ 70° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(82°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 0,
+      "explain": "82° ≡ 82° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(94°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "94° ≡ 94° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(106°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nolga teng (0)"
+      ],
+      "answer": 0,
+      "explain": "106° ≡ 106° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(118°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "118° ≡ 118° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(130°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nolga teng (0)"
+      ],
+      "answer": 0,
+      "explain": "130° ≡ 130° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(142°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 2,
+      "explain": "142° ≡ 142° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(154°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Musbat (+)"
+      ],
+      "answer": 1,
+      "explain": "154° ≡ 154° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(166°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "166° ≡ 166° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(178°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "178° ≡ 178° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(190°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "190° ≡ 190° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(202°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 2,
+      "explain": "202° ≡ 202° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(214°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "214° ≡ 214° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(226°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Manfiy (−)",
+        "Musbat (+)"
+      ],
+      "answer": 2,
+      "explain": "226° ≡ 226° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(238°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nolga teng (0)"
+      ],
+      "answer": 1,
+      "explain": "238° ≡ 238° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(250°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)"
+      ],
+      "answer": 1,
+      "explain": "250° ≡ 250° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(262°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "262° ≡ 262° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(274°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 1,
+      "explain": "274° ≡ 274° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(286°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nolga teng (0)"
+      ],
+      "answer": 0,
+      "explain": "286° ≡ 286° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(298°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "298° ≡ 298° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(310°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "310° ≡ 310° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(322°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Manfiy (−)"
+      ],
+      "answer": 0,
+      "explain": "322° ≡ 322° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(334°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nolga teng (0)"
+      ],
+      "answer": 1,
+      "explain": "334° ≡ 334° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(346°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "346° ≡ 346° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(358°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 2,
+      "explain": "358° ≡ 358° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(370°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nolga teng (0)"
+      ],
+      "answer": 2,
+      "explain": "370° ≡ 10° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(382°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nolga teng (0)"
+      ],
+      "answer": 2,
+      "explain": "382° ≡ 22° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(394°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 1,
+      "explain": "394° ≡ 34° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(406°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "406° ≡ 46° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(418°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nolga teng (0)"
+      ],
+      "answer": 1,
+      "explain": "418° ≡ 58° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(430°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Manfiy (−)"
+      ],
+      "answer": 0,
+      "explain": "430° ≡ 70° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(442°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Nolga teng (0)",
+        "Manfiy (−)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "442° ≡ 82° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(454°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "454° ≡ 94° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(466°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "466° ≡ 106° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(478°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "478° ≡ 118° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(490°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nolga teng (0)"
+      ],
+      "answer": 1,
+      "explain": "490° ≡ 130° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(502°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nolga teng (0)"
+      ],
+      "answer": 0,
+      "explain": "502° ≡ 142° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(514°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "514° ≡ 154° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(526°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "526° ≡ 166° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(538°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)"
+      ],
+      "answer": 1,
+      "explain": "538° ≡ 178° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(550°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nolga teng (0)"
+      ],
+      "answer": 1,
+      "explain": "550° ≡ 190° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(562°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Musbat (+)"
+      ],
+      "answer": 1,
+      "explain": "562° ≡ 202° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(574°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 2,
+      "explain": "574° ≡ 214° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(586°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "586° ≡ 226° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(598°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "598° ≡ 238° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(610°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 2,
+      "explain": "610° ≡ 250° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(622°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 2,
+      "explain": "622° ≡ 262° burchakda cos ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "cos(634°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "634° ≡ 274° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(646°) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "646° ≡ 286° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(658°) ning ishorasini aniqlang.",
+      "options": [
+        "Nolga teng (0)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 2,
+      "explain": "658° ≡ 298° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(670°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nolga teng (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "670° ≡ 310° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(682°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 1,
+      "explain": "682° ≡ 322° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(694°) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nolga teng (0)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "694° ≡ 334° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "cos(706°) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nolga teng (0)"
+      ],
+      "answer": 1,
+      "explain": "706° ≡ 346° burchakda cos ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1) sonining ishorasi qanday (1 radianda)?",
+      "options": [
+        "Aniqlanmagan",
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "1 rad ≈ 57°, shu sabab sin(1) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1) sonining ishorasini aniqlang (1 rad).",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "cos(1) qiymati musbat."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(1) (radianda) qiymati musbat ishorali.",
+      "answer": true,
+      "explain": "sin(1) va cos(1) ishoralari nisbati +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(2) sonining ishorasi qanday (2 radianda)?",
+      "options": [
+        "Aniqlanmagan",
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "2 rad ≈ 115°, shu sabab sin(2) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(2) sonining ishorasini aniqlang (2 rad).",
+      "options": [
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "cos(2) qiymati manfiy."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(2) (radianda) qiymati manfiy ishorali.",
+      "answer": true,
+      "explain": "sin(2) va cos(2) ishoralari nisbati −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(3) sonining ishorasi qanday (3 radianda)?",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "3 rad ≈ 172°, shu sabab sin(3) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(3) sonining ishorasini aniqlang (3 rad).",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nol (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "cos(3) qiymati manfiy."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(3) (radianda) qiymati manfiy ishorali.",
+      "answer": true,
+      "explain": "sin(3) va cos(3) ishoralari nisbati −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(4) sonining ishorasi qanday (4 radianda)?",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "4 rad ≈ 229°, shu sabab sin(4) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(4) sonining ishorasini aniqlang (4 rad).",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "cos(4) qiymati manfiy."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(4) (radianda) qiymati musbat ishorali.",
+      "answer": true,
+      "explain": "sin(4) va cos(4) ishoralari nisbati +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(5) sonining ishorasi qanday (5 radianda)?",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "5 rad ≈ 286°, shu sabab sin(5) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(5) sonining ishorasini aniqlang (5 rad).",
+      "options": [
+        "Nol (0)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 2,
+      "explain": "cos(5) qiymati musbat."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(5) (radianda) qiymati manfiy ishorali.",
+      "answer": true,
+      "explain": "sin(5) va cos(5) ishoralari nisbati −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(6) sonining ishorasi qanday (6 radianda)?",
+      "options": [
+        "Aniqlanmagan",
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "6 rad ≈ 344°, shu sabab sin(6) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(6) sonining ishorasini aniqlang (6 rad).",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "cos(6) qiymati musbat."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(6) (radianda) qiymati manfiy ishorali.",
+      "answer": true,
+      "explain": "sin(6) va cos(6) ishoralari nisbati −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(-1) sonining ishorasi qanday (-1 radianda)?",
+      "options": [
+        "Musbat (+)",
+        "Nol (0)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "-1 rad ≈ -57°, shu sabab sin(-1) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(-1) sonining ishorasini aniqlang (-1 rad).",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "cos(-1) qiymati musbat."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(-1) (radianda) qiymati manfiy ishorali.",
+      "answer": true,
+      "explain": "sin(-1) va cos(-1) ishoralari nisbati −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(-2) sonining ishorasi qanday (-2 radianda)?",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "-2 rad ≈ -115°, shu sabab sin(-2) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(-2) sonining ishorasini aniqlang (-2 rad).",
+      "options": [
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "cos(-2) qiymati manfiy."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(-2) (radianda) qiymati musbat ishorali.",
+      "answer": true,
+      "explain": "sin(-2) va cos(-2) ishoralari nisbati +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(-3) sonining ishorasi qanday (-3 radianda)?",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "-3 rad ≈ -172°, shu sabab sin(-3) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(-3) sonining ishorasini aniqlang (-3 rad).",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "cos(-3) qiymati manfiy."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(-3) (radianda) qiymati musbat ishorali.",
+      "answer": true,
+      "explain": "sin(-3) va cos(-3) ishoralari nisbati +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(-4) sonining ishorasi qanday (-4 radianda)?",
+      "options": [
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "-4 rad ≈ -229°, shu sabab sin(-4) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(-4) sonining ishorasini aniqlang (-4 rad).",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "cos(-4) qiymati manfiy."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(-4) (radianda) qiymati manfiy ishorali.",
+      "answer": true,
+      "explain": "sin(-4) va cos(-4) ishoralari nisbati −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(-5) sonining ishorasi qanday (-5 radianda)?",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "-5 rad ≈ -286°, shu sabab sin(-5) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(-5) sonining ishorasini aniqlang (-5 rad).",
+      "options": [
+        "Nol (0)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 2,
+      "explain": "cos(-5) qiymati musbat."
+    },
+    {
+      "type": "truefalse",
+      "q": "tg(-5) (radianda) qiymati musbat ishorali.",
+      "answer": true,
+      "explain": "sin(-5) va cos(-5) ishoralari nisbati +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(25°) · cos(25°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(25°) > 0, cos(25°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(25°) · cos(110°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "sin(25°) > 0, cos(110°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "fill",
+      "q": "sin α > 0 va cos α > 0 bo'lsa, α qaysi chorakda (Rim raqami: I, II, III, IV)?",
+      "answer": "I",
+      "explain": "Ishoralarga mos chorak — I."
+    },
+    {
+      "type": "choice",
+      "q": "sin(25°) · cos(205°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)"
+      ],
+      "answer": 1,
+      "explain": "sin(25°) > 0, cos(205°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(25°) · cos(310°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(25°) > 0, cos(310°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(25°) · cos(50°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)",
+        "Nol (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 1,
+      "explain": "sin(25°) > 0, cos(50°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(25°) · cos(140°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 0,
+      "explain": "sin(25°) > 0, cos(140°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(25°) · cos(235°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "sin(25°) > 0, cos(235°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(25°) · cos(330°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "sin(25°) > 0, cos(330°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(110°) · cos(25°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "sin(110°) > 0, cos(25°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "fill",
+      "q": "sin α > 0 va cos α < 0 bo'lsa, α qaysi chorakda (Rim raqami: I, II, III, IV)?",
+      "answer": "II",
+      "explain": "Ishoralarga mos chorak — II."
+    },
+    {
+      "type": "choice",
+      "q": "sin(110°) · cos(110°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 0,
+      "explain": "sin(110°) > 0, cos(110°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(110°) · cos(205°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "sin(110°) > 0, cos(205°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(110°) · cos(310°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "sin(110°) > 0, cos(310°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(110°) · cos(50°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(110°) > 0, cos(50°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(110°) · cos(140°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 1,
+      "explain": "sin(110°) > 0, cos(140°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(110°) · cos(235°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Musbat (+)",
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "sin(110°) > 0, cos(235°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(110°) · cos(330°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nol (0)",
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)"
+      ],
+      "answer": 0,
+      "explain": "sin(110°) > 0, cos(330°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(205°) · cos(25°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "sin(205°) < 0, cos(25°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "fill",
+      "q": "sin α < 0 va cos α < 0 bo'lsa, α qaysi chorakda (Rim raqami: I, II, III, IV)?",
+      "answer": "III",
+      "explain": "Ishoralarga mos chorak — III."
+    },
+    {
+      "type": "choice",
+      "q": "sin(205°) · cos(110°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(205°) < 0, cos(110°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(205°) · cos(205°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "sin(205°) < 0, cos(205°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(205°) · cos(310°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 1,
+      "explain": "sin(205°) < 0, cos(310°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(205°) · cos(50°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "sin(205°) < 0, cos(50°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(205°) · cos(140°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 0,
+      "explain": "sin(205°) < 0, cos(140°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(205°) · cos(235°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(205°) < 0, cos(235°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(205°) · cos(330°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Musbat (+)"
+      ],
+      "answer": 2,
+      "explain": "sin(205°) < 0, cos(330°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(310°) · cos(25°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "sin(310°) < 0, cos(25°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "fill",
+      "q": "sin α < 0 va cos α > 0 bo'lsa, α qaysi chorakda (Rim raqami: I, II, III, IV)?",
+      "answer": "IV",
+      "explain": "Ishoralarga mos chorak — IV."
+    },
+    {
+      "type": "choice",
+      "q": "sin(310°) · cos(110°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 2,
+      "explain": "sin(310°) < 0, cos(110°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(310°) · cos(205°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "sin(310°) < 0, cos(205°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(310°) · cos(310°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)",
+        "Nol (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "sin(310°) < 0, cos(310°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(310°) · cos(50°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "sin(310°) < 0, cos(50°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(310°) · cos(140°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "sin(310°) < 0, cos(140°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(310°) · cos(235°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(310°) < 0, cos(235°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(310°) · cos(330°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "sin(310°) < 0, cos(330°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(50°) · cos(25°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nol (0)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "sin(50°) > 0, cos(25°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(50°) · cos(110°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "sin(50°) > 0, cos(110°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(50°) · cos(205°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "sin(50°) > 0, cos(205°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(50°) · cos(310°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "sin(50°) > 0, cos(310°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(50°) · cos(50°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(50°) > 0, cos(50°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(50°) · cos(140°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "sin(50°) > 0, cos(140°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(50°) · cos(235°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "sin(50°) > 0, cos(235°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(50°) · cos(330°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "sin(50°) > 0, cos(330°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(140°) · cos(25°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "sin(140°) > 0, cos(25°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(140°) · cos(110°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "sin(140°) > 0, cos(110°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(140°) · cos(205°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nol (0)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 2,
+      "explain": "sin(140°) > 0, cos(205°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(140°) · cos(310°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "sin(140°) > 0, cos(310°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(140°) · cos(50°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(140°) > 0, cos(50°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(140°) · cos(140°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)",
+        "Nol (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "sin(140°) > 0, cos(140°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(140°) · cos(235°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "sin(140°) > 0, cos(235°) < 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(140°) · cos(330°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(140°) > 0, cos(330°) > 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(235°) · cos(25°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 0,
+      "explain": "sin(235°) < 0, cos(25°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(235°) · cos(110°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "sin(235°) < 0, cos(110°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(235°) · cos(205°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "sin(235°) < 0, cos(205°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(235°) · cos(310°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "sin(235°) < 0, cos(310°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(235°) · cos(50°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 1,
+      "explain": "sin(235°) < 0, cos(50°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(235°) · cos(140°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Nol (0)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "sin(235°) < 0, cos(140°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(235°) · cos(235°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 2,
+      "explain": "sin(235°) < 0, cos(235°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(235°) · cos(330°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "sin(235°) < 0, cos(330°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(330°) · cos(25°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "sin(330°) < 0, cos(25°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(330°) · cos(110°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(330°) < 0, cos(110°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(330°) · cos(205°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 0,
+      "explain": "sin(330°) < 0, cos(205°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(330°) · cos(310°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 1,
+      "explain": "sin(330°) < 0, cos(310°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(330°) · cos(50°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "sin(330°) < 0, cos(50°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(330°) · cos(140°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi"
+      ],
+      "answer": 1,
+      "explain": "sin(330°) < 0, cos(140°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(330°) · cos(235°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Aniqlab bo'lmaydi",
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "sin(330°) < 0, cos(235°) < 0 ⇒ ko'paytma +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(330°) · cos(330°) ko'paytmaning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlab bo'lmaydi",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "sin(330°) < 0, cos(330°) > 0 ⇒ ko'paytma −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/5) va cos(π/5) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "− va +",
+        "+ va −",
+        "+ va +"
+      ],
+      "answer": 3,
+      "explain": "π/5 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(π/5) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "π/5 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(2π/5) va cos(2π/5) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va +",
+        "+ va −",
+        "− va −"
+      ],
+      "answer": 0,
+      "explain": "2π/5 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(2π/5) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "2π/5 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(3π/5) va cos(3π/5) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va +",
+        "+ va −",
+        "− va −"
+      ],
+      "answer": 2,
+      "explain": "3π/5 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(3π/5) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "3π/5 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(4π/5) va cos(4π/5) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va +",
+        "− va −",
+        "+ va −"
+      ],
+      "answer": 3,
+      "explain": "4π/5 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(4π/5) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "4π/5 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(6π/5) va cos(6π/5) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "+ va +",
+        "− va +",
+        "+ va −"
+      ],
+      "answer": 0,
+      "explain": "6π/5 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(6π/5) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "6π/5 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(7π/5) va cos(7π/5) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va −",
+        "− va −",
+        "+ va +"
+      ],
+      "answer": 2,
+      "explain": "7π/5 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(7π/5) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "7π/5 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(8π/5) va cos(8π/5) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "+ va −",
+        "+ va +",
+        "− va +"
+      ],
+      "answer": 3,
+      "explain": "8π/5 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(8π/5) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "8π/5 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(9π/5) va cos(9π/5) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "+ va +",
+        "− va −",
+        "− va +"
+      ],
+      "answer": 3,
+      "explain": "9π/5 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(9π/5) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "9π/5 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/7) va cos(π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va −",
+        "+ va +",
+        "− va +"
+      ],
+      "answer": 2,
+      "explain": "π/7 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(π/7) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "π/7 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(2π/7) va cos(2π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va +",
+        "+ va −",
+        "− va −"
+      ],
+      "answer": 0,
+      "explain": "2π/7 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(2π/7) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "2π/7 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(3π/7) va cos(3π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "+ va +",
+        "− va +",
+        "− va −"
+      ],
+      "answer": 1,
+      "explain": "3π/7 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(3π/7) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "3π/7 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(4π/7) va cos(4π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va −",
+        "− va −",
+        "+ va +"
+      ],
+      "answer": 1,
+      "explain": "4π/7 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(4π/7) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "4π/7 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(5π/7) va cos(5π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va +",
+        "+ va −",
+        "− va −"
+      ],
+      "answer": 2,
+      "explain": "5π/7 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(5π/7) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "5π/7 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(6π/7) va cos(6π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "+ va +",
+        "− va +",
+        "+ va −"
+      ],
+      "answer": 3,
+      "explain": "6π/7 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(6π/7) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "6π/7 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(8π/7) va cos(8π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va +",
+        "− va −",
+        "+ va +"
+      ],
+      "answer": 2,
+      "explain": "8π/7 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(8π/7) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "8π/7 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(9π/7) va cos(9π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "− va −",
+        "+ va +",
+        "+ va −"
+      ],
+      "answer": 1,
+      "explain": "9π/7 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(9π/7) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "9π/7 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(10π/7) va cos(10π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "− va +",
+        "+ va +",
+        "+ va −"
+      ],
+      "answer": 0,
+      "explain": "10π/7 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(10π/7) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "10π/7 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(11π/7) va cos(11π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va −",
+        "+ va −",
+        "− va +"
+      ],
+      "answer": 3,
+      "explain": "11π/7 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(11π/7) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "11π/7 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(12π/7) va cos(12π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va −",
+        "+ va +",
+        "− va +"
+      ],
+      "answer": 3,
+      "explain": "12π/7 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(12π/7) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "12π/7 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(13π/7) va cos(13π/7) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va +",
+        "+ va −",
+        "− va −"
+      ],
+      "answer": 0,
+      "explain": "13π/7 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(13π/7) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "13π/7 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/8) va cos(π/8) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va +",
+        "− va −",
+        "+ va −"
+      ],
+      "answer": 0,
+      "explain": "π/8 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(π/8) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "π/8 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(3π/8) va cos(3π/8) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va +",
+        "− va −",
+        "+ va −"
+      ],
+      "answer": 1,
+      "explain": "3π/8 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(3π/8) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "3π/8 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(5π/8) va cos(5π/8) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va +",
+        "+ va −",
+        "− va −"
+      ],
+      "answer": 2,
+      "explain": "5π/8 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(5π/8) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "5π/8 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(7π/8) va cos(7π/8) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "+ va −",
+        "+ va +",
+        "− va +"
+      ],
+      "answer": 1,
+      "explain": "7π/8 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(7π/8) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "7π/8 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(9π/8) va cos(9π/8) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va +",
+        "− va −",
+        "+ va −"
+      ],
+      "answer": 2,
+      "explain": "9π/8 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(9π/8) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "9π/8 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(11π/8) va cos(11π/8) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va −",
+        "+ va +",
+        "− va +"
+      ],
+      "answer": 1,
+      "explain": "11π/8 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(11π/8) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "11π/8 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(13π/8) va cos(13π/8) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va +",
+        "− va −",
+        "+ va −"
+      ],
+      "answer": 1,
+      "explain": "13π/8 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(13π/8) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "13π/8 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(15π/8) va cos(15π/8) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va +",
+        "− va −",
+        "+ va −"
+      ],
+      "answer": 0,
+      "explain": "15π/8 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(15π/8) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "15π/8 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/9) va cos(π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "+ va −",
+        "+ va +",
+        "− va +"
+      ],
+      "answer": 2,
+      "explain": "π/9 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(π/9) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "π/9 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(2π/9) va cos(2π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "− va −",
+        "+ va +",
+        "+ va −"
+      ],
+      "answer": 2,
+      "explain": "2π/9 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(2π/9) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "2π/9 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(4π/9) va cos(4π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va −",
+        "− va −",
+        "+ va +"
+      ],
+      "answer": 3,
+      "explain": "4π/9 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(4π/9) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "4π/9 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(5π/9) va cos(5π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "− va +",
+        "+ va +",
+        "+ va −"
+      ],
+      "answer": 3,
+      "explain": "5π/9 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(5π/9) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "5π/9 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(7π/9) va cos(7π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "+ va −",
+        "− va +",
+        "− va −"
+      ],
+      "answer": 1,
+      "explain": "7π/9 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(7π/9) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "7π/9 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(8π/9) va cos(8π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va +",
+        "+ va −",
+        "− va −"
+      ],
+      "answer": 2,
+      "explain": "8π/9 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(8π/9) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "8π/9 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(10π/9) va cos(10π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va +",
+        "− va −",
+        "+ va +"
+      ],
+      "answer": 2,
+      "explain": "10π/9 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(10π/9) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "10π/9 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(11π/9) va cos(11π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va +",
+        "− va −",
+        "+ va −"
+      ],
+      "answer": 2,
+      "explain": "11π/9 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(11π/9) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "11π/9 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(13π/9) va cos(13π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "+ va +",
+        "− va +",
+        "+ va −"
+      ],
+      "answer": 0,
+      "explain": "13π/9 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(13π/9) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "13π/9 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(14π/9) va cos(14π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va −",
+        "− va −",
+        "+ va +"
+      ],
+      "answer": 0,
+      "explain": "14π/9 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(14π/9) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "14π/9 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(16π/9) va cos(16π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "+ va +",
+        "− va −",
+        "− va +"
+      ],
+      "answer": 3,
+      "explain": "16π/9 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(16π/9) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "16π/9 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(17π/9) va cos(17π/9) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "+ va +",
+        "− va −",
+        "− va +"
+      ],
+      "answer": 3,
+      "explain": "17π/9 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(17π/9) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "17π/9 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/10) va cos(π/10) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va −",
+        "+ va −",
+        "− va +"
+      ],
+      "answer": 0,
+      "explain": "π/10 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(π/10) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "π/10 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(3π/10) va cos(3π/10) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "+ va +",
+        "+ va −",
+        "− va −"
+      ],
+      "answer": 1,
+      "explain": "3π/10 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(3π/10) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "3π/10 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(7π/10) va cos(7π/10) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "− va +",
+        "+ va +",
+        "+ va −"
+      ],
+      "answer": 3,
+      "explain": "7π/10 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(7π/10) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "7π/10 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(9π/10) va cos(9π/10) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va −",
+        "− va +",
+        "+ va +"
+      ],
+      "answer": 0,
+      "explain": "9π/10 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(9π/10) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "9π/10 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(11π/10) va cos(11π/10) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "+ va −",
+        "− va +",
+        "+ va +"
+      ],
+      "answer": 0,
+      "explain": "11π/10 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(11π/10) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "11π/10 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(13π/10) va cos(13π/10) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va +",
+        "− va −",
+        "+ va −",
+        "+ va +"
+      ],
+      "answer": 1,
+      "explain": "13π/10 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(13π/10) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "13π/10 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(17π/10) va cos(17π/10) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va +",
+        "+ va +",
+        "− va −"
+      ],
+      "answer": 1,
+      "explain": "17π/10 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(17π/10) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "17π/10 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(19π/10) va cos(19π/10) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "− va −",
+        "− va +",
+        "+ va +",
+        "+ va −"
+      ],
+      "answer": 1,
+      "explain": "19π/10 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(19π/10) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "19π/10 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/12) va cos(π/12) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va −",
+        "− va +",
+        "+ va +"
+      ],
+      "answer": 3,
+      "explain": "π/12 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(π/12) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "π/12 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(5π/12) va cos(5π/12) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va +",
+        "+ va +",
+        "− va −"
+      ],
+      "answer": 2,
+      "explain": "5π/12 burchak 1-chorakda joylashgan, demak sin > 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(5π/12) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "5π/12 (1-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(7π/12) va cos(7π/12) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va −",
+        "+ va +",
+        "− va +"
+      ],
+      "answer": 0,
+      "explain": "7π/12 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(7π/12) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "7π/12 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(11π/12) va cos(11π/12) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va +",
+        "− va −",
+        "+ va −"
+      ],
+      "answer": 3,
+      "explain": "11π/12 burchak 2-chorakda joylashgan, demak sin > 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(11π/12) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "11π/12 (2-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(13π/12) va cos(13π/12) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va −",
+        "+ va −",
+        "− va +"
+      ],
+      "answer": 1,
+      "explain": "13π/12 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(13π/12) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "13π/12 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(17π/12) va cos(17π/12) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "− va −",
+        "− va +",
+        "+ va +"
+      ],
+      "answer": 1,
+      "explain": "17π/12 burchak 3-chorakda joylashgan, demak sin < 0, cos < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(17π/12) qiymati musbat (+) ishorali.",
+      "answer": true,
+      "explain": "17π/12 (3-chorak) da kotangens ishorasi +."
+    },
+    {
+      "type": "choice",
+      "q": "sin(19π/12) va cos(19π/12) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va −",
+        "+ va +",
+        "− va +",
+        "− va −"
+      ],
+      "answer": 2,
+      "explain": "19π/12 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(19π/12) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "19π/12 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "sin(23π/12) va cos(23π/12) larning ishoralari mos ravishda qanday?",
+      "options": [
+        "+ va +",
+        "− va +",
+        "− va −",
+        "+ va −"
+      ],
+      "answer": 1,
+      "explain": "23π/12 burchak 4-chorakda joylashgan, demak sin < 0, cos > 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg(23π/12) qiymati manfiy (−) ishorali.",
+      "answer": true,
+      "explain": "23π/12 (4-chorak) da kotangens ishorasi −."
+    },
+    {
+      "type": "choice",
+      "q": "tg(π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "π/11 burchak 1-chorakda joylashgan, shu sabab tg(π/11) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(2π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "2π/11 burchak 1-chorakda joylashgan, shu sabab tg(2π/11) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(3π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "3π/11 burchak 1-chorakda joylashgan, shu sabab tg(3π/11) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(4π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "4π/11 burchak 1-chorakda joylashgan, shu sabab tg(4π/11) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(5π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "5π/11 burchak 1-chorakda joylashgan, shu sabab tg(5π/11) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(6π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "6π/11 burchak 2-chorakda joylashgan, shu sabab tg(6π/11) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(7π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "7π/11 burchak 2-chorakda joylashgan, shu sabab tg(7π/11) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(8π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "8π/11 burchak 2-chorakda joylashgan, shu sabab tg(8π/11) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(9π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 0,
+      "explain": "9π/11 burchak 2-chorakda joylashgan, shu sabab tg(9π/11) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(10π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 0,
+      "explain": "10π/11 burchak 2-chorakda joylashgan, shu sabab tg(10π/11) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(12π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "12π/11 burchak 3-chorakda joylashgan, shu sabab tg(12π/11) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(13π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "13π/11 burchak 3-chorakda joylashgan, shu sabab tg(13π/11) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(14π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "14π/11 burchak 3-chorakda joylashgan, shu sabab tg(14π/11) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(15π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "15π/11 burchak 3-chorakda joylashgan, shu sabab tg(15π/11) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(16π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 2,
+      "explain": "16π/11 burchak 3-chorakda joylashgan, shu sabab tg(16π/11) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(17π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 2,
+      "explain": "17π/11 burchak 4-chorakda joylashgan, shu sabab tg(17π/11) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(18π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "18π/11 burchak 4-chorakda joylashgan, shu sabab tg(18π/11) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(19π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "19π/11 burchak 4-chorakda joylashgan, shu sabab tg(19π/11) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(20π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nol (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "20π/11 burchak 4-chorakda joylashgan, shu sabab tg(20π/11) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(21π/11) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "21π/11 burchak 4-chorakda joylashgan, shu sabab tg(21π/11) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "π/13 burchak 1-chorakda joylashgan, shu sabab tg(π/13) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(2π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 2,
+      "explain": "2π/13 burchak 1-chorakda joylashgan, shu sabab tg(2π/13) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(3π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nol (0)",
+        "Manfiy (−)"
+      ],
+      "answer": 0,
+      "explain": "3π/13 burchak 1-chorakda joylashgan, shu sabab tg(3π/13) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(4π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Nol (0)",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "4π/13 burchak 1-chorakda joylashgan, shu sabab tg(4π/13) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(5π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "5π/13 burchak 1-chorakda joylashgan, shu sabab tg(5π/13) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(6π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Nol (0)",
+        "Aniqlanmagan",
+        "Musbat (+)"
+      ],
+      "answer": 3,
+      "explain": "6π/13 burchak 1-chorakda joylashgan, shu sabab tg(6π/13) > 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(7π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Manfiy (−)"
+      ],
+      "answer": 3,
+      "explain": "7π/13 burchak 2-chorakda joylashgan, shu sabab tg(7π/13) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(8π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Aniqlanmagan",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 1,
+      "explain": "8π/13 burchak 2-chorakda joylashgan, shu sabab tg(8π/13) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(9π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Aniqlanmagan",
+        "Musbat (+)",
+        "Nol (0)"
+      ],
+      "answer": 0,
+      "explain": "9π/13 burchak 2-chorakda joylashgan, shu sabab tg(9π/13) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(10π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Nol (0)",
+        "Aniqlanmagan",
+        "Musbat (+)"
+      ],
+      "answer": 0,
+      "explain": "10π/13 burchak 2-chorakda joylashgan, shu sabab tg(10π/13) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(11π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "11π/13 burchak 2-chorakda joylashgan, shu sabab tg(11π/13) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(12π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Manfiy (−)",
+        "Musbat (+)",
+        "Nol (0)",
+        "Aniqlanmagan"
+      ],
+      "answer": 0,
+      "explain": "12π/13 burchak 2-chorakda joylashgan, shu sabab tg(12π/13) < 0."
+    },
+    {
+      "type": "choice",
+      "q": "tg(14π/13) ning ishorasini aniqlang.",
+      "options": [
+        "Nol (0)",
+        "Musbat (+)",
+        "Manfiy (−)",
+        "Aniqlanmagan"
+      ],
+      "answer": 1,
+      "explain": "14π/13 burchak 3-chorakda joylashgan, shu sabab tg(14π/13) > 0."
+    }
+  ],
+  "cards": [
+    [
+      "Radian",
+      "Yoy uzunligi radiusga teng markaziy burchak"
+    ],
+    [
+      "Sinus",
+      "Burilgan nuqtaning ordinatasi (y koordinatasi)"
+    ],
+    [
+      "Kosinus",
+      "Burilgan nuqtaning abssissasi (x koordinatasi)"
+    ],
+    [
+      "Tangens",
+      "Sinusning kosinusga nisbati (sin α / cos α)"
+    ],
+    [
+      "Kotangens",
+      "Kosinusning sinusga nisbati (cos α / sin α)"
+    ],
+    [
+      "Ayniyat",
+      "O'zgaruvchining barcha ruxsatli qiymatlarida to'g'ri tenglik"
+    ],
+    [
+      "Birlik",
+      "Radiusi R = 1 bo'lgan markaziy aylana"
+    ],
+    [
+      "Chorak",
+      "Koordinata tekisligining to'rtdan bir qismi"
+    ],
+    [
+      "Davr",
+      "Trigonometrik funksiyalar qiymati takrorlanuvchi burchak"
+    ],
+    [
+      "Keltirish",
+      "Katta burchakni o'tkir burchak orqali ifodalash"
+    ],
+    [
+      "Musbat",
+      "Noldan katta qiymat (+)"
+    ],
+    [
+      "Manfiy",
+      "Noldan kichik qiymat (−)"
+    ],
+    [
+      "Ko'paytma",
+      "Ikki funksiyaning birgalikdagi ishorasi"
+    ],
+    [
+      "sin α > 0",
+      "I va II choraklarda musbat"
+    ],
+    [
+      "sin α < 0",
+      "III va IV choraklarda manfiy"
+    ],
+    [
+      "cos α > 0",
+      "I va IV choraklarda musbat"
+    ],
+    [
+      "cos α < 0",
+      "II va III choraklarda manfiy"
+    ],
+    [
+      "tg α > 0",
+      "I va III choraklarda musbat"
+    ],
+    [
+      "tg α < 0",
+      "II va IV choraklarda manfiy"
+    ],
+    [
+      "ctg α > 0",
+      "I va III choraklarda musbat"
+    ],
+    [
+      "I chorak barchasi",
+      "sin > 0, cos > 0, tg > 0, ctg > 0"
+    ],
+    [
+      "sin 2 rad",
+      "2 rad ≈ 114,6° (II chorak) ⇒ musbat"
+    ],
+    [
+      "cos 2 rad",
+      "2 rad (II chorak) ⇒ manfiy"
+    ]
+  ]
+}

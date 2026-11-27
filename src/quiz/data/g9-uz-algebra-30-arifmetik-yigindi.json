@@ -1,0 +1,3488 @@
+{
+  "id": "g9-uz-algebra-30-arifmetik-yigindi",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "30-§. Arifmetik progressiya dastlabki n ta hadining yig'indisi",
+  "title": "30-§. Arifmetik progressiya dastlabki n ta hadining yig'indisi",
+  "source": "Algebra 9-sinf (2019), IV bob, 30-§, 158–161-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadining yig'indisi Sₙ qaysi formula bilan topiladi?",
+      "options": [
+        "Sₙ = (a₁ + aₙ)·n / 2",
+        "Sₙ = (a₁ − aₙ)·n / 2",
+        "Sₙ = (2a₁ + nd)·n",
+        "Sₙ = (a₁ + aₙ)·n"
+      ],
+      "answer": 0,
+      "explain": "Dastlabki n ta had yig'indisi birinchi va oxirgi hadlar o'rtachasini n ga ko'paytirishga teng."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki n ta toq natural son yig'indisi 1 + 3 + 5 + ... + (2n − 1) nimaga teng?",
+      "options": [
+        "n²",
+        "n(n + 1)",
+        "n(n + 1)/2",
+        "2n²"
+      ],
+      "answer": 0,
+      "explain": "a₁ = 1, d = 2 da Sₙ = (2 + 2(n−1))·n/2 = n²."
+    },
+    {
+      "type": "truefalse",
+      "q": "1 + 2 + 3 + ... + 100 yig'indi 5050 ga teng.",
+      "answer": true,
+      "explain": "100 · 101 / 2 = 5050."
+    },
+    {
+      "type": "truefalse",
+      "q": "Arifmetik progressiyada aₙ = Sₙ − Sₙ₋₁ (n ≥ 2) tenglik har doim bajariladi.",
+      "answer": true,
+      "explain": "Sₙ = Sₙ₋₁ + aₙ bo'lgani uchun ayirma aynan aₙ ni beradi."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 1. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "10",
+      "explain": "S_4 = (2·1 + 3·1)·4/2 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 1 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "21",
+        "22",
+        "15",
+        "27"
+      ],
+      "answer": 0,
+      "explain": "S_6 = ((2·1 + 5·1)/2)·6 = 21."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 1 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "37",
+        "36",
+        "28",
+        "44"
+      ],
+      "answer": 1,
+      "explain": "S_8 = ((2·1 + 7·1)/2)·8 = 36."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 1. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "55",
+      "explain": "S_10 = (2·1 + 9·1)·10/2 = 55."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 1 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "79",
+        "78",
+        "90",
+        "66"
+      ],
+      "answer": 1,
+      "explain": "S_12 = ((2·1 + 11·1)/2)·12 = 78."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 2 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "18",
+        "12",
+        "16",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "S_4 = ((2·1 + 3·2)/2)·4 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 2. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "36",
+      "explain": "S_6 = (2·1 + 5·2)·6/2 = 36."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 2 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "72",
+        "66",
+        "56",
+        "64"
+      ],
+      "answer": 3,
+      "explain": "S_8 = ((2·1 + 7·2)/2)·8 = 64."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 2 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "100",
+        "102",
+        "90",
+        "110"
+      ],
+      "answer": 0,
+      "explain": "S_10 = ((2·1 + 9·2)/2)·10 = 100."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 2. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "144",
+      "explain": "S_12 = (2·1 + 11·2)·12/2 = 144."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 3 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "25",
+        "18",
+        "22",
+        "26"
+      ],
+      "answer": 2,
+      "explain": "S_4 = ((2·1 + 3·3)/2)·4 = 22."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 3 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "57",
+        "54",
+        "51",
+        "45"
+      ],
+      "answer": 2,
+      "explain": "S_6 = ((2·1 + 5·3)/2)·6 = 51."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 3. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "92",
+      "explain": "S_8 = (2·1 + 7·3)·8/2 = 92."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 3 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "148",
+        "145",
+        "155",
+        "135"
+      ],
+      "answer": 1,
+      "explain": "S_10 = ((2·1 + 9·3)/2)·10 = 145."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 3 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "213",
+        "222",
+        "210",
+        "198"
+      ],
+      "answer": 2,
+      "explain": "S_12 = ((2·1 + 11·3)/2)·12 = 210."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 4. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "28",
+      "explain": "S_4 = (2·1 + 3·4)·4/2 = 28."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 4 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "60",
+        "72",
+        "66",
+        "70"
+      ],
+      "answer": 2,
+      "explain": "S_6 = ((2·1 + 5·4)/2)·6 = 66."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 4 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "128",
+        "124",
+        "120",
+        "112"
+      ],
+      "answer": 2,
+      "explain": "S_8 = ((2·1 + 7·4)/2)·8 = 120."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 4. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "190",
+      "explain": "S_10 = (2·1 + 9·4)·10/2 = 190."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 4 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "280",
+        "288",
+        "276",
+        "264"
+      ],
+      "answer": 2,
+      "explain": "S_12 = ((2·1 + 11·4)/2)·12 = 276."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 5 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "30",
+        "34",
+        "39",
+        "38"
+      ],
+      "answer": 1,
+      "explain": "S_4 = ((2·1 + 3·5)/2)·4 = 34."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 5. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "81",
+      "explain": "S_6 = (2·1 + 5·5)·6/2 = 81."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 5 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "153",
+        "148",
+        "156",
+        "140"
+      ],
+      "answer": 1,
+      "explain": "S_8 = ((2·1 + 7·5)/2)·8 = 148."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 5 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "240",
+        "225",
+        "235",
+        "245"
+      ],
+      "answer": 2,
+      "explain": "S_10 = ((2·1 + 9·5)/2)·10 = 235."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 5. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "342",
+      "explain": "S_12 = (2·1 + 11·5)·12/2 = 342."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 6 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "40",
+        "36",
+        "46",
+        "44"
+      ],
+      "answer": 0,
+      "explain": "S_4 = ((2·1 + 3·6)/2)·4 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 6 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "96",
+        "95",
+        "90",
+        "102"
+      ],
+      "answer": 0,
+      "explain": "S_6 = ((2·1 + 5·6)/2)·6 = 96."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 6. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "176",
+      "explain": "S_8 = (2·1 + 7·6)·8/2 = 176."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 6 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "286",
+        "290",
+        "270",
+        "280"
+      ],
+      "answer": 3,
+      "explain": "S_10 = ((2·1 + 9·6)/2)·10 = 280."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, d = 6 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "408",
+        "420",
+        "396",
+        "414"
+      ],
+      "answer": 0,
+      "explain": "S_12 = ((2·1 + 11·6)/2)·12 = 408."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 1 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "14",
+        "10",
+        "18",
+        "15"
+      ],
+      "answer": 0,
+      "explain": "S_4 = ((2·2 + 3·1)/2)·4 = 14."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 1. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "27",
+      "explain": "S_6 = (2·2 + 5·1)·6/2 = 27."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 1 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "36",
+        "44",
+        "52",
+        "45"
+      ],
+      "answer": 1,
+      "explain": "S_8 = ((2·2 + 7·1)/2)·8 = 44."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 1 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "66",
+        "55",
+        "65",
+        "75"
+      ],
+      "answer": 2,
+      "explain": "S_10 = ((2·2 + 9·1)/2)·10 = 65."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 1. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "90",
+      "explain": "S_12 = (2·2 + 11·1)·12/2 = 90."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 2 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "20",
+        "24",
+        "22",
+        "16"
+      ],
+      "answer": 0,
+      "explain": "S_4 = ((2·2 + 3·2)/2)·4 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 2 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "36",
+        "44",
+        "48",
+        "42"
+      ],
+      "answer": 3,
+      "explain": "S_6 = ((2·2 + 5·2)/2)·6 = 42."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 2. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "72",
+      "explain": "S_8 = (2·2 + 7·2)·8/2 = 72."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 2 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "100",
+        "110",
+        "112",
+        "120"
+      ],
+      "answer": 1,
+      "explain": "S_10 = ((2·2 + 9·2)/2)·10 = 110."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 2 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "158",
+        "144",
+        "156",
+        "168"
+      ],
+      "answer": 2,
+      "explain": "S_12 = ((2·2 + 11·2)/2)·12 = 156."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 3. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "26",
+      "explain": "S_4 = (2·2 + 3·3)·4/2 = 26."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 3 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "60",
+        "63",
+        "51",
+        "57"
+      ],
+      "answer": 3,
+      "explain": "S_6 = ((2·2 + 5·3)/2)·6 = 57."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 3 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "100",
+        "92",
+        "103",
+        "108"
+      ],
+      "answer": 0,
+      "explain": "S_8 = ((2·2 + 7·3)/2)·8 = 100."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 3. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "155",
+      "explain": "S_10 = (2·2 + 9·3)·10/2 = 155."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 3 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "222",
+        "225",
+        "210",
+        "234"
+      ],
+      "answer": 0,
+      "explain": "S_12 = ((2·2 + 11·3)/2)·12 = 222."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 4 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "32",
+        "31",
+        "36",
+        "28"
+      ],
+      "answer": 0,
+      "explain": "S_4 = ((2·2 + 3·4)/2)·4 = 32."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 4. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "72",
+      "explain": "S_6 = (2·2 + 5·4)·6/2 = 72."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 4 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "136",
+        "128",
+        "120",
+        "132"
+      ],
+      "answer": 1,
+      "explain": "S_8 = ((2·2 + 7·4)/2)·8 = 128."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 4 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "210",
+        "200",
+        "204",
+        "190"
+      ],
+      "answer": 1,
+      "explain": "S_10 = ((2·2 + 9·4)/2)·10 = 200."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 4. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "288",
+      "explain": "S_12 = (2·2 + 11·4)·12/2 = 288."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 5 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "38",
+        "34",
+        "43",
+        "42"
+      ],
+      "answer": 0,
+      "explain": "S_4 = ((2·2 + 3·5)/2)·4 = 38."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 5 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "92",
+        "87",
+        "93",
+        "81"
+      ],
+      "answer": 1,
+      "explain": "S_6 = ((2·2 + 5·5)/2)·6 = 87."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 5. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "156",
+      "explain": "S_8 = (2·2 + 7·5)·8/2 = 156."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 5 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "245",
+        "250",
+        "255",
+        "235"
+      ],
+      "answer": 0,
+      "explain": "S_10 = ((2·2 + 9·5)/2)·10 = 245."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 5 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "342",
+        "354",
+        "366",
+        "359"
+      ],
+      "answer": 1,
+      "explain": "S_12 = ((2·2 + 11·5)/2)·12 = 354."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 6. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "44",
+      "explain": "S_4 = (2·2 + 3·6)·4/2 = 44."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 6 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "108",
+        "101",
+        "102",
+        "96"
+      ],
+      "answer": 2,
+      "explain": "S_6 = ((2·2 + 5·6)/2)·6 = 102."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 6 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "192",
+        "190",
+        "176",
+        "184"
+      ],
+      "answer": 3,
+      "explain": "S_8 = ((2·2 + 7·6)/2)·8 = 184."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 6. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "290",
+      "explain": "S_10 = (2·2 + 9·6)·10/2 = 290."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, d = 6 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "432",
+        "426",
+        "408",
+        "420"
+      ],
+      "answer": 3,
+      "explain": "S_12 = ((2·2 + 11·6)/2)·12 = 420."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 1 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "19",
+        "18",
+        "14",
+        "22"
+      ],
+      "answer": 1,
+      "explain": "S_4 = ((2·3 + 3·1)/2)·4 = 18."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 1 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "34",
+        "33",
+        "27",
+        "39"
+      ],
+      "answer": 1,
+      "explain": "S_6 = ((2·3 + 5·1)/2)·6 = 33."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 1. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "52",
+      "explain": "S_8 = (2·3 + 7·1)·8/2 = 52."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 1 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "75",
+        "65",
+        "76",
+        "85"
+      ],
+      "answer": 0,
+      "explain": "S_10 = ((2·3 + 9·1)/2)·10 = 75."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 1 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "90",
+        "114",
+        "103",
+        "102"
+      ],
+      "answer": 3,
+      "explain": "S_12 = ((2·3 + 11·1)/2)·12 = 102."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 2. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "24",
+      "explain": "S_4 = (2·3 + 3·2)·4/2 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 2 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "42",
+        "54",
+        "50",
+        "48"
+      ],
+      "answer": 3,
+      "explain": "S_6 = ((2·3 + 5·2)/2)·6 = 48."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 2 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "88",
+        "82",
+        "80",
+        "72"
+      ],
+      "answer": 2,
+      "explain": "S_8 = ((2·3 + 7·2)/2)·8 = 80."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 2. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "120",
+      "explain": "S_10 = (2·3 + 9·2)·10/2 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 2 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "156",
+        "168",
+        "170",
+        "180"
+      ],
+      "answer": 1,
+      "explain": "S_12 = ((2·3 + 11·2)/2)·12 = 168."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 3 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "34",
+        "30",
+        "33",
+        "26"
+      ],
+      "answer": 1,
+      "explain": "S_4 = ((2·3 + 3·3)/2)·4 = 30."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 3. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "63",
+      "explain": "S_6 = (2·3 + 5·3)·6/2 = 63."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 3 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "111",
+        "116",
+        "100",
+        "108"
+      ],
+      "answer": 3,
+      "explain": "S_8 = ((2·3 + 7·3)/2)·8 = 108."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 3 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "155",
+        "168",
+        "175",
+        "165"
+      ],
+      "answer": 3,
+      "explain": "S_10 = ((2·3 + 9·3)/2)·10 = 165."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 3. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "234",
+      "explain": "S_12 = (2·3 + 11·3)·12/2 = 234."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 4 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "40",
+        "32",
+        "36",
+        "35"
+      ],
+      "answer": 2,
+      "explain": "S_4 = ((2·3 + 3·4)/2)·4 = 36."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 4 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "84",
+        "72",
+        "82",
+        "78"
+      ],
+      "answer": 3,
+      "explain": "S_6 = ((2·3 + 5·4)/2)·6 = 78."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 4. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "136",
+      "explain": "S_8 = (2·3 + 7·4)·8/2 = 136."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 4 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "210",
+        "214",
+        "200",
+        "220"
+      ],
+      "answer": 0,
+      "explain": "S_10 = ((2·3 + 9·4)/2)·10 = 210."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 4 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "300",
+        "304",
+        "312",
+        "288"
+      ],
+      "answer": 0,
+      "explain": "S_12 = ((2·3 + 11·4)/2)·12 = 300."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 5. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "42",
+      "explain": "S_4 = (2·3 + 3·5)·4/2 = 42."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 5 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "87",
+        "98",
+        "99",
+        "93"
+      ],
+      "answer": 3,
+      "explain": "S_6 = ((2·3 + 5·5)/2)·6 = 93."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 5 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "172",
+        "164",
+        "156",
+        "169"
+      ],
+      "answer": 1,
+      "explain": "S_8 = ((2·3 + 7·5)/2)·8 = 164."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 5. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "255",
+      "explain": "S_10 = (2·3 + 9·5)·10/2 = 255."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 5 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "366",
+        "354",
+        "371",
+        "378"
+      ],
+      "answer": 0,
+      "explain": "S_12 = ((2·3 + 11·5)/2)·12 = 366."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 6 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "52",
+        "54",
+        "48",
+        "44"
+      ],
+      "answer": 2,
+      "explain": "S_4 = ((2·3 + 3·6)/2)·4 = 48."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 6. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "108",
+      "explain": "S_6 = (2·3 + 5·6)·6/2 = 108."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 6 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "200",
+        "184",
+        "198",
+        "192"
+      ],
+      "answer": 3,
+      "explain": "S_8 = ((2·3 + 7·6)/2)·8 = 192."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, d = 6 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "290",
+        "300",
+        "310",
+        "306"
+      ],
+      "answer": 1,
+      "explain": "S_10 = ((2·3 + 9·6)/2)·10 = 300."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 6. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "432",
+      "explain": "S_12 = (2·3 + 11·6)·12/2 = 432."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 1. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "22",
+      "explain": "S_4 = (2·4 + 3·1)·4/2 = 22."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 1 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "33",
+        "40",
+        "39",
+        "45"
+      ],
+      "answer": 2,
+      "explain": "S_6 = ((2·4 + 5·1)/2)·6 = 39."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 1 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "60",
+        "52",
+        "61",
+        "68"
+      ],
+      "answer": 0,
+      "explain": "S_8 = ((2·4 + 7·1)/2)·8 = 60."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 1. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "85",
+      "explain": "S_10 = (2·4 + 9·1)·10/2 = 85."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 1 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "115",
+        "102",
+        "126",
+        "114"
+      ],
+      "answer": 3,
+      "explain": "S_12 = ((2·4 + 11·1)/2)·12 = 114."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 2 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "28",
+        "30",
+        "24",
+        "32"
+      ],
+      "answer": 0,
+      "explain": "S_4 = ((2·4 + 3·2)/2)·4 = 28."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 2. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "54",
+      "explain": "S_6 = (2·4 + 5·2)·6/2 = 54."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 2 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "88",
+        "96",
+        "80",
+        "90"
+      ],
+      "answer": 0,
+      "explain": "S_8 = ((2·4 + 7·2)/2)·8 = 88."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 2 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "130",
+        "132",
+        "140",
+        "120"
+      ],
+      "answer": 0,
+      "explain": "S_10 = ((2·4 + 9·2)/2)·10 = 130."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 2. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "180",
+      "explain": "S_12 = (2·4 + 11·2)·12/2 = 180."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 3 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "37",
+        "34",
+        "38",
+        "30"
+      ],
+      "answer": 1,
+      "explain": "S_4 = ((2·4 + 3·3)/2)·4 = 34."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 3 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "72",
+        "69",
+        "75",
+        "63"
+      ],
+      "answer": 1,
+      "explain": "S_6 = ((2·4 + 5·3)/2)·6 = 69."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 3. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "116",
+      "explain": "S_8 = (2·4 + 7·3)·8/2 = 116."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 3 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "185",
+        "175",
+        "178",
+        "165"
+      ],
+      "answer": 1,
+      "explain": "S_10 = ((2·4 + 9·3)/2)·10 = 175."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 3 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "249",
+        "246",
+        "258",
+        "234"
+      ],
+      "answer": 1,
+      "explain": "S_12 = ((2·4 + 11·3)/2)·12 = 246."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 4. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "40",
+      "explain": "S_4 = (2·4 + 3·4)·4/2 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 4 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "84",
+        "88",
+        "90",
+        "78"
+      ],
+      "answer": 0,
+      "explain": "S_6 = ((2·4 + 5·4)/2)·6 = 84."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 4 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "148",
+        "144",
+        "136",
+        "152"
+      ],
+      "answer": 1,
+      "explain": "S_8 = ((2·4 + 7·4)/2)·8 = 144."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 4. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "220",
+      "explain": "S_10 = (2·4 + 9·4)·10/2 = 220."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 4 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "300",
+        "324",
+        "312",
+        "316"
+      ],
+      "answer": 2,
+      "explain": "S_12 = ((2·4 + 11·4)/2)·12 = 312."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 5 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "51",
+        "42",
+        "46",
+        "50"
+      ],
+      "answer": 2,
+      "explain": "S_4 = ((2·4 + 3·5)/2)·4 = 46."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 5. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "99",
+      "explain": "S_6 = (2·4 + 5·5)·6/2 = 99."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 5 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "177",
+        "172",
+        "180",
+        "164"
+      ],
+      "answer": 1,
+      "explain": "S_8 = ((2·4 + 7·5)/2)·8 = 172."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 5 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "265",
+        "255",
+        "275",
+        "270"
+      ],
+      "answer": 0,
+      "explain": "S_10 = ((2·4 + 9·5)/2)·10 = 265."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 5. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "378",
+      "explain": "S_12 = (2·4 + 11·5)·12/2 = 378."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 6 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "56",
+        "58",
+        "48",
+        "52"
+      ],
+      "answer": 3,
+      "explain": "S_4 = ((2·4 + 3·6)/2)·4 = 52."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 6 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "120",
+        "108",
+        "114",
+        "113"
+      ],
+      "answer": 2,
+      "explain": "S_6 = ((2·4 + 5·6)/2)·6 = 114."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 6. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "200",
+      "explain": "S_8 = (2·4 + 7·6)·8/2 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 6 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "316",
+        "300",
+        "310",
+        "320"
+      ],
+      "answer": 2,
+      "explain": "S_10 = ((2·4 + 9·6)/2)·10 = 310."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, d = 6 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "432",
+        "450",
+        "444",
+        "456"
+      ],
+      "answer": 2,
+      "explain": "S_12 = ((2·4 + 11·6)/2)·12 = 444."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 1 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "27",
+        "26",
+        "30",
+        "22"
+      ],
+      "answer": 1,
+      "explain": "S_4 = ((2·5 + 3·1)/2)·4 = 26."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 1. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "45",
+      "explain": "S_6 = (2·5 + 5·1)·6/2 = 45."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 1 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "60",
+        "76",
+        "69",
+        "68"
+      ],
+      "answer": 3,
+      "explain": "S_8 = ((2·5 + 7·1)/2)·8 = 68."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 1 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "85",
+        "105",
+        "95",
+        "96"
+      ],
+      "answer": 2,
+      "explain": "S_10 = ((2·5 + 9·1)/2)·10 = 95."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 1. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "126",
+      "explain": "S_12 = (2·5 + 11·1)·12/2 = 126."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 2 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "34",
+        "32",
+        "28",
+        "36"
+      ],
+      "answer": 1,
+      "explain": "S_4 = ((2·5 + 3·2)/2)·4 = 32."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 2 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "54",
+        "60",
+        "62",
+        "66"
+      ],
+      "answer": 1,
+      "explain": "S_6 = ((2·5 + 5·2)/2)·6 = 60."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 2. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "96",
+      "explain": "S_8 = (2·5 + 7·2)·8/2 = 96."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 2 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "140",
+        "150",
+        "130",
+        "142"
+      ],
+      "answer": 0,
+      "explain": "S_10 = ((2·5 + 9·2)/2)·10 = 140."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 2 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "204",
+        "194",
+        "180",
+        "192"
+      ],
+      "answer": 3,
+      "explain": "S_12 = ((2·5 + 11·2)/2)·12 = 192."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 3. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "38",
+      "explain": "S_4 = (2·5 + 3·3)·4/2 = 38."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 3 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "78",
+        "81",
+        "69",
+        "75"
+      ],
+      "answer": 3,
+      "explain": "S_6 = ((2·5 + 5·3)/2)·6 = 75."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 3 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "127",
+        "116",
+        "124",
+        "132"
+      ],
+      "answer": 2,
+      "explain": "S_8 = ((2·5 + 7·3)/2)·8 = 124."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 3. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "185",
+      "explain": "S_10 = (2·5 + 9·3)·10/2 = 185."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 3 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "270",
+        "258",
+        "246",
+        "261"
+      ],
+      "answer": 1,
+      "explain": "S_12 = ((2·5 + 11·3)/2)·12 = 258."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 4 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "48",
+        "40",
+        "44",
+        "43"
+      ],
+      "answer": 2,
+      "explain": "S_4 = ((2·5 + 3·4)/2)·4 = 44."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 4. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "90",
+      "explain": "S_6 = (2·5 + 5·4)·6/2 = 90."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 4 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "144",
+        "160",
+        "156",
+        "152"
+      ],
+      "answer": 3,
+      "explain": "S_8 = ((2·5 + 7·4)/2)·8 = 152."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 4 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "240",
+        "230",
+        "220",
+        "234"
+      ],
+      "answer": 1,
+      "explain": "S_10 = ((2·5 + 9·4)/2)·10 = 230."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 4. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "324",
+      "explain": "S_12 = (2·5 + 11·4)·12/2 = 324."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 5 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "46",
+        "55",
+        "54",
+        "50"
+      ],
+      "answer": 3,
+      "explain": "S_4 = ((2·5 + 3·5)/2)·4 = 50."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 5 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "105",
+        "111",
+        "99",
+        "110"
+      ],
+      "answer": 0,
+      "explain": "S_6 = ((2·5 + 5·5)/2)·6 = 105."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 5. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "180",
+      "explain": "S_8 = (2·5 + 7·5)·8/2 = 180."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 5 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "285",
+        "265",
+        "280",
+        "275"
+      ],
+      "answer": 3,
+      "explain": "S_10 = ((2·5 + 9·5)/2)·10 = 275."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 5 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "390",
+        "402",
+        "395",
+        "378"
+      ],
+      "answer": 0,
+      "explain": "S_12 = ((2·5 + 11·5)/2)·12 = 390."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 6. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "56",
+      "explain": "S_4 = (2·5 + 3·6)·4/2 = 56."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 6 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "120",
+        "114",
+        "126",
+        "119"
+      ],
+      "answer": 0,
+      "explain": "S_6 = ((2·5 + 5·6)/2)·6 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 6 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "200",
+        "214",
+        "208",
+        "216"
+      ],
+      "answer": 2,
+      "explain": "S_8 = ((2·5 + 7·6)/2)·8 = 208."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 6. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "320",
+      "explain": "S_10 = (2·5 + 9·6)·10/2 = 320."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, d = 6 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "462",
+        "456",
+        "444",
+        "468"
+      ],
+      "answer": 1,
+      "explain": "S_12 = ((2·5 + 11·6)/2)·12 = 456."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 1 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "30",
+        "26",
+        "34",
+        "31"
+      ],
+      "answer": 0,
+      "explain": "S_4 = ((2·6 + 3·1)/2)·4 = 30."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 1 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "52",
+        "51",
+        "45",
+        "57"
+      ],
+      "answer": 1,
+      "explain": "S_6 = ((2·6 + 5·1)/2)·6 = 51."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 1. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "76",
+      "explain": "S_8 = (2·6 + 7·1)·8/2 = 76."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 1 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "105",
+        "95",
+        "115",
+        "106"
+      ],
+      "answer": 0,
+      "explain": "S_10 = ((2·6 + 9·1)/2)·10 = 105."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 1 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "138",
+        "150",
+        "126",
+        "139"
+      ],
+      "answer": 0,
+      "explain": "S_12 = ((2·6 + 11·1)/2)·12 = 138."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 2. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "36",
+      "explain": "S_4 = (2·6 + 3·2)·4/2 = 36."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 2 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "60",
+        "68",
+        "72",
+        "66"
+      ],
+      "answer": 3,
+      "explain": "S_6 = ((2·6 + 5·2)/2)·6 = 66."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 2 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "106",
+        "112",
+        "104",
+        "96"
+      ],
+      "answer": 2,
+      "explain": "S_8 = ((2·6 + 7·2)/2)·8 = 104."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 2. Dastlabki 10 ta had yig'indisi S_10 ni toping.",
+      "answer": "150",
+      "explain": "S_10 = (2·6 + 9·2)·10/2 = 150."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 2 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "206",
+        "216",
+        "192",
+        "204"
+      ],
+      "answer": 3,
+      "explain": "S_12 = ((2·6 + 11·2)/2)·12 = 204."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 3 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "46",
+        "38",
+        "45",
+        "42"
+      ],
+      "answer": 3,
+      "explain": "S_4 = ((2·6 + 3·3)/2)·4 = 42."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 3. Dastlabki 6 ta had yig'indisi S_6 ni toping.",
+      "answer": "81",
+      "explain": "S_6 = (2·6 + 5·3)·6/2 = 81."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 3 arifmetik progressiyaning dastlabki 8 ta hadi yig'indisini toping.",
+      "options": [
+        "124",
+        "140",
+        "135",
+        "132"
+      ],
+      "answer": 3,
+      "explain": "S_8 = ((2·6 + 7·3)/2)·8 = 132."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 3 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "185",
+        "195",
+        "205",
+        "198"
+      ],
+      "answer": 1,
+      "explain": "S_10 = ((2·6 + 9·3)/2)·10 = 195."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 3. Dastlabki 12 ta had yig'indisi S_12 ni toping.",
+      "answer": "270",
+      "explain": "S_12 = (2·6 + 11·3)·12/2 = 270."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 4 arifmetik progressiyaning dastlabki 4 ta hadi yig'indisini toping.",
+      "options": [
+        "52",
+        "44",
+        "47",
+        "48"
+      ],
+      "answer": 3,
+      "explain": "S_4 = ((2·6 + 3·4)/2)·4 = 48."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 4 arifmetik progressiyaning dastlabki 6 ta hadi yig'indisini toping.",
+      "options": [
+        "102",
+        "100",
+        "96",
+        "90"
+      ],
+      "answer": 2,
+      "explain": "S_6 = ((2·6 + 5·4)/2)·6 = 96."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 4. Dastlabki 8 ta had yig'indisi S_8 ni toping.",
+      "answer": "160",
+      "explain": "S_8 = (2·6 + 7·4)·8/2 = 160."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 4 arifmetik progressiyaning dastlabki 10 ta hadi yig'indisini toping.",
+      "options": [
+        "244",
+        "240",
+        "250",
+        "230"
+      ],
+      "answer": 1,
+      "explain": "S_10 = ((2·6 + 9·4)/2)·10 = 240."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, d = 4 arifmetik progressiyaning dastlabki 12 ta hadi yig'indisini toping.",
+      "options": [
+        "348",
+        "336",
+        "340",
+        "324"
+      ],
+      "answer": 1,
+      "explain": "S_12 = ((2·6 + 11·4)/2)·12 = 336."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 5. Dastlabki 4 ta had yig'indisi S_4 ni toping.",
+      "answer": "54",
+      "explain": "S_4 = (2·6 + 3·5)·4/2 = 54."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_6 = 17 bo'lsa, S_6 nechaga teng?",
+      "options": [
+        "114",
+        "57",
+        "52",
+        "63"
+      ],
+      "answer": 1,
+      "explain": "S_6 = (2 + 17)·6/2 = 57."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_6 = 19 bo'lsa, S_6 nechaga teng?",
+      "options": [
+        "64",
+        "69",
+        "138",
+        "75"
+      ],
+      "answer": 1,
+      "explain": "S_6 = (4 + 19)·6/2 = 69."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_6 = 21 bo'lsa, S_6 nechaga teng?",
+      "options": [
+        "81",
+        "162",
+        "76",
+        "87"
+      ],
+      "answer": 0,
+      "explain": "S_6 = (6 + 21)·6/2 = 81."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_6 = 23 bo'lsa, S_6 nechaga teng?",
+      "options": [
+        "186",
+        "99",
+        "93",
+        "88"
+      ],
+      "answer": 2,
+      "explain": "S_6 = (8 + 23)·6/2 = 93."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_6 = 25 bo'lsa, S_6 nechaga teng?",
+      "options": [
+        "105",
+        "111",
+        "100",
+        "210"
+      ],
+      "answer": 0,
+      "explain": "S_6 = (10 + 25)·6/2 = 105."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_8 = 23 bo'lsa, S_8 nechaga teng?",
+      "options": [
+        "95",
+        "108",
+        "200",
+        "100"
+      ],
+      "answer": 3,
+      "explain": "S_8 = (2 + 23)·8/2 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_8 = 25 bo'lsa, S_8 nechaga teng?",
+      "options": [
+        "116",
+        "111",
+        "124",
+        "232"
+      ],
+      "answer": 0,
+      "explain": "S_8 = (4 + 25)·8/2 = 116."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_8 = 27 bo'lsa, S_8 nechaga teng?",
+      "options": [
+        "264",
+        "140",
+        "132",
+        "127"
+      ],
+      "answer": 2,
+      "explain": "S_8 = (6 + 27)·8/2 = 132."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_8 = 29 bo'lsa, S_8 nechaga teng?",
+      "options": [
+        "156",
+        "296",
+        "148",
+        "143"
+      ],
+      "answer": 2,
+      "explain": "S_8 = (8 + 29)·8/2 = 148."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_8 = 31 bo'lsa, S_8 nechaga teng?",
+      "options": [
+        "159",
+        "172",
+        "328",
+        "164"
+      ],
+      "answer": 3,
+      "explain": "S_8 = (10 + 31)·8/2 = 164."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_10 = 29 bo'lsa, S_10 nechaga teng?",
+      "options": [
+        "165",
+        "310",
+        "150",
+        "155"
+      ],
+      "answer": 3,
+      "explain": "S_10 = (2 + 29)·10/2 = 155."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_10 = 31 bo'lsa, S_10 nechaga teng?",
+      "options": [
+        "350",
+        "185",
+        "170",
+        "175"
+      ],
+      "answer": 3,
+      "explain": "S_10 = (4 + 31)·10/2 = 175."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_10 = 33 bo'lsa, S_10 nechaga teng?",
+      "options": [
+        "390",
+        "190",
+        "205",
+        "195"
+      ],
+      "answer": 3,
+      "explain": "S_10 = (6 + 33)·10/2 = 195."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_10 = 35 bo'lsa, S_10 nechaga teng?",
+      "options": [
+        "225",
+        "430",
+        "215",
+        "210"
+      ],
+      "answer": 2,
+      "explain": "S_10 = (8 + 35)·10/2 = 215."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_10 = 37 bo'lsa, S_10 nechaga teng?",
+      "options": [
+        "470",
+        "235",
+        "230",
+        "245"
+      ],
+      "answer": 1,
+      "explain": "S_10 = (10 + 37)·10/2 = 235."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_12 = 35 bo'lsa, S_12 nechaga teng?",
+      "options": [
+        "217",
+        "444",
+        "234",
+        "222"
+      ],
+      "answer": 3,
+      "explain": "S_12 = (2 + 35)·12/2 = 222."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_12 = 37 bo'lsa, S_12 nechaga teng?",
+      "options": [
+        "258",
+        "492",
+        "241",
+        "246"
+      ],
+      "answer": 3,
+      "explain": "S_12 = (4 + 37)·12/2 = 246."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_12 = 39 bo'lsa, S_12 nechaga teng?",
+      "options": [
+        "265",
+        "540",
+        "282",
+        "270"
+      ],
+      "answer": 3,
+      "explain": "S_12 = (6 + 39)·12/2 = 270."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_12 = 41 bo'lsa, S_12 nechaga teng?",
+      "options": [
+        "289",
+        "306",
+        "588",
+        "294"
+      ],
+      "answer": 3,
+      "explain": "S_12 = (8 + 41)·12/2 = 294."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_12 = 43 bo'lsa, S_12 nechaga teng?",
+      "options": [
+        "313",
+        "330",
+        "636",
+        "318"
+      ],
+      "answer": 3,
+      "explain": "S_12 = (10 + 43)·12/2 = 318."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_14 = 41 bo'lsa, S_14 nechaga teng?",
+      "options": [
+        "301",
+        "296",
+        "602",
+        "315"
+      ],
+      "answer": 0,
+      "explain": "S_14 = (2 + 41)·14/2 = 301."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_14 = 43 bo'lsa, S_14 nechaga teng?",
+      "options": [
+        "343",
+        "324",
+        "329",
+        "658"
+      ],
+      "answer": 2,
+      "explain": "S_14 = (4 + 43)·14/2 = 329."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_14 = 45 bo'lsa, S_14 nechaga teng?",
+      "options": [
+        "352",
+        "357",
+        "371",
+        "714"
+      ],
+      "answer": 1,
+      "explain": "S_14 = (6 + 45)·14/2 = 357."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_14 = 47 bo'lsa, S_14 nechaga teng?",
+      "options": [
+        "770",
+        "380",
+        "385",
+        "399"
+      ],
+      "answer": 2,
+      "explain": "S_14 = (8 + 47)·14/2 = 385."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_14 = 49 bo'lsa, S_14 nechaga teng?",
+      "options": [
+        "408",
+        "826",
+        "413",
+        "427"
+      ],
+      "answer": 2,
+      "explain": "S_14 = (10 + 49)·14/2 = 413."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_16 = 47 bo'lsa, S_16 nechaga teng?",
+      "options": [
+        "408",
+        "784",
+        "392",
+        "387"
+      ],
+      "answer": 2,
+      "explain": "S_16 = (2 + 47)·16/2 = 392."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_16 = 49 bo'lsa, S_16 nechaga teng?",
+      "options": [
+        "424",
+        "440",
+        "419",
+        "848"
+      ],
+      "answer": 0,
+      "explain": "S_16 = (4 + 49)·16/2 = 424."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_16 = 51 bo'lsa, S_16 nechaga teng?",
+      "options": [
+        "451",
+        "912",
+        "472",
+        "456"
+      ],
+      "answer": 3,
+      "explain": "S_16 = (6 + 51)·16/2 = 456."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_16 = 53 bo'lsa, S_16 nechaga teng?",
+      "options": [
+        "488",
+        "976",
+        "504",
+        "483"
+      ],
+      "answer": 0,
+      "explain": "S_16 = (8 + 53)·16/2 = 488."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_16 = 55 bo'lsa, S_16 nechaga teng?",
+      "options": [
+        "536",
+        "515",
+        "520",
+        "1040"
+      ],
+      "answer": 2,
+      "explain": "S_16 = (10 + 55)·16/2 = 520."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_18 = 53 bo'lsa, S_18 nechaga teng?",
+      "options": [
+        "990",
+        "513",
+        "490",
+        "495"
+      ],
+      "answer": 3,
+      "explain": "S_18 = (2 + 53)·18/2 = 495."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_18 = 55 bo'lsa, S_18 nechaga teng?",
+      "options": [
+        "1062",
+        "526",
+        "531",
+        "549"
+      ],
+      "answer": 2,
+      "explain": "S_18 = (4 + 55)·18/2 = 531."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_18 = 57 bo'lsa, S_18 nechaga teng?",
+      "options": [
+        "562",
+        "1134",
+        "567",
+        "585"
+      ],
+      "answer": 2,
+      "explain": "S_18 = (6 + 57)·18/2 = 567."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_18 = 59 bo'lsa, S_18 nechaga teng?",
+      "options": [
+        "1206",
+        "598",
+        "621",
+        "603"
+      ],
+      "answer": 3,
+      "explain": "S_18 = (8 + 59)·18/2 = 603."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_18 = 61 bo'lsa, S_18 nechaga teng?",
+      "options": [
+        "639",
+        "657",
+        "634",
+        "1278"
+      ],
+      "answer": 0,
+      "explain": "S_18 = (10 + 61)·18/2 = 639."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_20 = 59 bo'lsa, S_20 nechaga teng?",
+      "options": [
+        "605",
+        "630",
+        "610",
+        "1220"
+      ],
+      "answer": 2,
+      "explain": "S_20 = (2 + 59)·20/2 = 610."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_20 = 61 bo'lsa, S_20 nechaga teng?",
+      "options": [
+        "670",
+        "645",
+        "1300",
+        "650"
+      ],
+      "answer": 3,
+      "explain": "S_20 = (4 + 61)·20/2 = 650."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_20 = 63 bo'lsa, S_20 nechaga teng?",
+      "options": [
+        "710",
+        "685",
+        "690",
+        "1380"
+      ],
+      "answer": 2,
+      "explain": "S_20 = (6 + 63)·20/2 = 690."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_20 = 65 bo'lsa, S_20 nechaga teng?",
+      "options": [
+        "1460",
+        "730",
+        "725",
+        "750"
+      ],
+      "answer": 1,
+      "explain": "S_20 = (8 + 65)·20/2 = 730."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_20 = 67 bo'lsa, S_20 nechaga teng?",
+      "options": [
+        "770",
+        "1540",
+        "765",
+        "790"
+      ],
+      "answer": 0,
+      "explain": "S_20 = (10 + 67)·20/2 = 770."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_22 = 65 bo'lsa, S_22 nechaga teng?",
+      "options": [
+        "759",
+        "737",
+        "1474",
+        "732"
+      ],
+      "answer": 1,
+      "explain": "S_22 = (2 + 65)·22/2 = 737."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_22 = 67 bo'lsa, S_22 nechaga teng?",
+      "options": [
+        "803",
+        "781",
+        "1562",
+        "776"
+      ],
+      "answer": 1,
+      "explain": "S_22 = (4 + 67)·22/2 = 781."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_22 = 69 bo'lsa, S_22 nechaga teng?",
+      "options": [
+        "1650",
+        "820",
+        "825",
+        "847"
+      ],
+      "answer": 2,
+      "explain": "S_22 = (6 + 69)·22/2 = 825."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_22 = 71 bo'lsa, S_22 nechaga teng?",
+      "options": [
+        "869",
+        "1738",
+        "891",
+        "864"
+      ],
+      "answer": 0,
+      "explain": "S_22 = (8 + 71)·22/2 = 869."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_22 = 73 bo'lsa, S_22 nechaga teng?",
+      "options": [
+        "1826",
+        "935",
+        "913",
+        "908"
+      ],
+      "answer": 2,
+      "explain": "S_22 = (10 + 73)·22/2 = 913."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_24 = 71 bo'lsa, S_24 nechaga teng?",
+      "options": [
+        "871",
+        "1752",
+        "876",
+        "900"
+      ],
+      "answer": 2,
+      "explain": "S_24 = (2 + 71)·24/2 = 876."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_24 = 73 bo'lsa, S_24 nechaga teng?",
+      "options": [
+        "924",
+        "948",
+        "1848",
+        "919"
+      ],
+      "answer": 0,
+      "explain": "S_24 = (4 + 73)·24/2 = 924."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_24 = 75 bo'lsa, S_24 nechaga teng?",
+      "options": [
+        "1944",
+        "972",
+        "967",
+        "996"
+      ],
+      "answer": 1,
+      "explain": "S_24 = (6 + 75)·24/2 = 972."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_24 = 77 bo'lsa, S_24 nechaga teng?",
+      "options": [
+        "2040",
+        "1015",
+        "1020",
+        "1044"
+      ],
+      "answer": 2,
+      "explain": "S_24 = (8 + 77)·24/2 = 1020."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_24 = 79 bo'lsa, S_24 nechaga teng?",
+      "options": [
+        "2136",
+        "1068",
+        "1092",
+        "1063"
+      ],
+      "answer": 1,
+      "explain": "S_24 = (10 + 79)·24/2 = 1068."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_26 = 77 bo'lsa, S_26 nechaga teng?",
+      "options": [
+        "1053",
+        "1027",
+        "2054",
+        "1022"
+      ],
+      "answer": 1,
+      "explain": "S_26 = (2 + 77)·26/2 = 1027."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_26 = 79 bo'lsa, S_26 nechaga teng?",
+      "options": [
+        "1079",
+        "2158",
+        "1074",
+        "1105"
+      ],
+      "answer": 0,
+      "explain": "S_26 = (4 + 79)·26/2 = 1079."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_26 = 81 bo'lsa, S_26 nechaga teng?",
+      "options": [
+        "2262",
+        "1131",
+        "1126",
+        "1157"
+      ],
+      "answer": 1,
+      "explain": "S_26 = (6 + 81)·26/2 = 1131."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_26 = 83 bo'lsa, S_26 nechaga teng?",
+      "options": [
+        "1178",
+        "1209",
+        "2366",
+        "1183"
+      ],
+      "answer": 3,
+      "explain": "S_26 = (8 + 83)·26/2 = 1183."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_26 = 85 bo'lsa, S_26 nechaga teng?",
+      "options": [
+        "2470",
+        "1235",
+        "1261",
+        "1230"
+      ],
+      "answer": 1,
+      "explain": "S_26 = (10 + 85)·26/2 = 1235."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_28 = 83 bo'lsa, S_28 nechaga teng?",
+      "options": [
+        "1190",
+        "1185",
+        "1218",
+        "2380"
+      ],
+      "answer": 0,
+      "explain": "S_28 = (2 + 83)·28/2 = 1190."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_28 = 85 bo'lsa, S_28 nechaga teng?",
+      "options": [
+        "2492",
+        "1274",
+        "1241",
+        "1246"
+      ],
+      "answer": 3,
+      "explain": "S_28 = (4 + 85)·28/2 = 1246."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_28 = 87 bo'lsa, S_28 nechaga teng?",
+      "options": [
+        "2604",
+        "1297",
+        "1302",
+        "1330"
+      ],
+      "answer": 2,
+      "explain": "S_28 = (6 + 87)·28/2 = 1302."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_28 = 89 bo'lsa, S_28 nechaga teng?",
+      "options": [
+        "1358",
+        "1353",
+        "1386",
+        "2716"
+      ],
+      "answer": 0,
+      "explain": "S_28 = (8 + 89)·28/2 = 1358."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_28 = 91 bo'lsa, S_28 nechaga teng?",
+      "options": [
+        "1409",
+        "1442",
+        "1414",
+        "2828"
+      ],
+      "answer": 2,
+      "explain": "S_28 = (10 + 91)·28/2 = 1414."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, a_30 = 89 bo'lsa, S_30 nechaga teng?",
+      "options": [
+        "1395",
+        "1360",
+        "1365",
+        "2730"
+      ],
+      "answer": 2,
+      "explain": "S_30 = (2 + 89)·30/2 = 1365."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, a_30 = 91 bo'lsa, S_30 nechaga teng?",
+      "options": [
+        "1455",
+        "2850",
+        "1420",
+        "1425"
+      ],
+      "answer": 3,
+      "explain": "S_30 = (4 + 91)·30/2 = 1425."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, a_30 = 93 bo'lsa, S_30 nechaga teng?",
+      "options": [
+        "1485",
+        "1480",
+        "1515",
+        "2970"
+      ],
+      "answer": 0,
+      "explain": "S_30 = (6 + 93)·30/2 = 1485."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, a_30 = 95 bo'lsa, S_30 nechaga teng?",
+      "options": [
+        "1575",
+        "3090",
+        "1540",
+        "1545"
+      ],
+      "answer": 3,
+      "explain": "S_30 = (8 + 95)·30/2 = 1545."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, a_30 = 97 bo'lsa, S_30 nechaga teng?",
+      "options": [
+        "3210",
+        "1635",
+        "1600",
+        "1605"
+      ],
+      "answer": 3,
+      "explain": "S_30 = (10 + 97)·30/2 = 1605."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 5 ta juft natural sonning yig'indisi 30 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 10 = 5(5 + 1) = 30."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 6 yig'indini hisoblang.",
+      "answer": "21",
+      "explain": "S = 6·7/2 = 21."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 7 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "49",
+        "28",
+        "48",
+        "56"
+      ],
+      "answer": 0,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 7² = 49."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 8 ta juft natural sonning yig'indisi 72 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 16 = 8(8 + 1) = 72."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 9 yig'indini hisoblang.",
+      "answer": "45",
+      "explain": "S = 9·10/2 = 45."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 10 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "110",
+        "99",
+        "100",
+        "55"
+      ],
+      "answer": 2,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 10² = 100."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 11 ta juft natural sonning yig'indisi 132 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 22 = 11(11 + 1) = 132."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 12 yig'indini hisoblang.",
+      "answer": "78",
+      "explain": "S = 12·13/2 = 78."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 13 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "169",
+        "182",
+        "168",
+        "91"
+      ],
+      "answer": 0,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 13² = 169."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 14 ta juft natural sonning yig'indisi 210 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 28 = 14(14 + 1) = 210."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 15 yig'indini hisoblang.",
+      "answer": "120",
+      "explain": "S = 15·16/2 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 16 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "256",
+        "272",
+        "136",
+        "255"
+      ],
+      "answer": 0,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 16² = 256."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 17 ta juft natural sonning yig'indisi 306 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 34 = 17(17 + 1) = 306."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 18 yig'indini hisoblang.",
+      "answer": "171",
+      "explain": "S = 18·19/2 = 171."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 19 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "361",
+        "190",
+        "380",
+        "360"
+      ],
+      "answer": 0,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 19² = 361."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 20 ta juft natural sonning yig'indisi 420 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 40 = 20(20 + 1) = 420."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 21 yig'indini hisoblang.",
+      "answer": "231",
+      "explain": "S = 21·22/2 = 231."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 22 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "253",
+        "483",
+        "506",
+        "484"
+      ],
+      "answer": 3,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 22² = 484."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 23 ta juft natural sonning yig'indisi 552 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 46 = 23(23 + 1) = 552."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 24 yig'indini hisoblang.",
+      "answer": "300",
+      "explain": "S = 24·25/2 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 25 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "624",
+        "625",
+        "325",
+        "650"
+      ],
+      "answer": 1,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 25² = 625."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 26 ta juft natural sonning yig'indisi 702 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 52 = 26(26 + 1) = 702."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 27 yig'indini hisoblang.",
+      "answer": "378",
+      "explain": "S = 27·28/2 = 378."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 28 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "784",
+        "812",
+        "406",
+        "783"
+      ],
+      "answer": 0,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 28² = 784."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 29 ta juft natural sonning yig'indisi 870 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 58 = 29(29 + 1) = 870."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 30 yig'indini hisoblang.",
+      "answer": "465",
+      "explain": "S = 30·31/2 = 465."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 31 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "960",
+        "961",
+        "496",
+        "992"
+      ],
+      "answer": 1,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 31² = 961."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 32 ta juft natural sonning yig'indisi 1056 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 64 = 32(32 + 1) = 1056."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 33 yig'indini hisoblang.",
+      "answer": "561",
+      "explain": "S = 33·34/2 = 561."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 34 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "1155",
+        "1156",
+        "595",
+        "1190"
+      ],
+      "answer": 1,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 34² = 1156."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 35 ta juft natural sonning yig'indisi 1260 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 70 = 35(35 + 1) = 1260."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 36 yig'indini hisoblang.",
+      "answer": "666",
+      "explain": "S = 36·37/2 = 666."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 37 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "703",
+        "1368",
+        "1369",
+        "1406"
+      ],
+      "answer": 2,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 37² = 1369."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 38 ta juft natural sonning yig'indisi 1482 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 76 = 38(38 + 1) = 1482."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 39 yig'indini hisoblang.",
+      "answer": "780",
+      "explain": "S = 39·40/2 = 780."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 40 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "1600",
+        "1640",
+        "820",
+        "1599"
+      ],
+      "answer": 0,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 40² = 1600."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 41 ta juft natural sonning yig'indisi 1722 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 82 = 41(41 + 1) = 1722."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 42 yig'indini hisoblang.",
+      "answer": "903",
+      "explain": "S = 42·43/2 = 903."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 43 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "1848",
+        "1892",
+        "1849",
+        "946"
+      ],
+      "answer": 2,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 43² = 1849."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 44 ta juft natural sonning yig'indisi 1980 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 88 = 44(44 + 1) = 1980."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 45 yig'indini hisoblang.",
+      "answer": "1035",
+      "explain": "S = 45·46/2 = 1035."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 46 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "2162",
+        "2115",
+        "2116",
+        "1081"
+      ],
+      "answer": 2,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 46² = 2116."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 47 ta juft natural sonning yig'indisi 2256 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 94 = 47(47 + 1) = 2256."
+    },
+    {
+      "type": "fill",
+      "q": "1 + 2 + 3 + ... + 48 yig'indini hisoblang.",
+      "answer": "1176",
+      "explain": "S = 48·49/2 = 1176."
+    },
+    {
+      "type": "choice",
+      "q": "Dastlabki 49 ta toq natural sonning yig'indisini toping.",
+      "options": [
+        "2401",
+        "1225",
+        "2450",
+        "2400"
+      ],
+      "answer": 0,
+      "explain": "Dastlabki n ta toq son yig'indisi n² = 49² = 2401."
+    },
+    {
+      "type": "truefalse",
+      "q": "Dastlabki 50 ta juft natural sonning yig'indisi 2550 ga teng.",
+      "answer": true,
+      "explain": "2 + 4 + ... + 100 = 50(50 + 1) = 2550."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 1n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-1",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "a₁ = S₁ = 2, S₂ = 6 ⇒ a₂ = S₂ − S₁ = 4 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 7 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "112",
+      "explain": "S_7 = (2·10 + 6·2)·7/2 = 112."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 2n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "a₁ = S₁ = 3, S₂ = 8 ⇒ a₂ = S₂ − S₁ = 5 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 8 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "136",
+      "explain": "S_8 = (2·10 + 7·2)·8/2 = 136."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 3n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "a₁ = S₁ = 4, S₂ = 10 ⇒ a₂ = S₂ − S₁ = 6 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 9 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "162",
+      "explain": "S_9 = (2·10 + 8·2)·9/2 = 162."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 4n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "5",
+        "2",
+        "1",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "a₁ = S₁ = 5, S₂ = 12 ⇒ a₂ = S₂ − S₁ = 7 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 10 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "190",
+      "explain": "S_10 = (2·10 + 9·2)·10/2 = 190."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 5n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "6",
+        "5",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "a₁ = S₁ = 6, S₂ = 14 ⇒ a₂ = S₂ − S₁ = 8 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 11 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "220",
+      "explain": "S_11 = (2·10 + 10·2)·11/2 = 220."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 6n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "7",
+        "6",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "a₁ = S₁ = 7, S₂ = 16 ⇒ a₂ = S₂ − S₁ = 9 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 12 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "252",
+      "explain": "S_12 = (2·10 + 11·2)·12/2 = 252."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 7n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "1",
+        "2",
+        "7",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "a₁ = S₁ = 8, S₂ = 18 ⇒ a₂ = S₂ − S₁ = 10 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 13 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "286",
+      "explain": "S_13 = (2·10 + 12·2)·13/2 = 286."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 8n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "1",
+        "9",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "a₁ = S₁ = 9, S₂ = 20 ⇒ a₂ = S₂ − S₁ = 11 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 14 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "322",
+      "explain": "S_14 = (2·10 + 13·2)·14/2 = 322."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 9n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "9",
+        "10",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "a₁ = S₁ = 10, S₂ = 22 ⇒ a₂ = S₂ − S₁ = 12 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 15 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "360",
+      "explain": "S_15 = (2·10 + 14·2)·15/2 = 360."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 10n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "1",
+        "10",
+        "11"
+      ],
+      "answer": 0,
+      "explain": "a₁ = S₁ = 11, S₂ = 24 ⇒ a₂ = S₂ − S₁ = 13 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 16 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "400",
+      "explain": "S_16 = (2·10 + 15·2)·16/2 = 400."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 11n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "11",
+        "12",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "a₁ = S₁ = 12, S₂ = 26 ⇒ a₂ = S₂ − S₁ = 14 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 17 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "442",
+      "explain": "S_17 = (2·10 + 16·2)·17/2 = 442."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = n² + 12n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "1",
+        "12",
+        "13"
+      ],
+      "answer": 0,
+      "explain": "a₁ = S₁ = 13, S₂ = 28 ⇒ a₂ = S₂ − S₁ = 15 ⇒ d = a₂ − a₁ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 18 ta qator bo'lib, har keyingi qatorda oldingisidan 2 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "486",
+      "explain": "S_18 = (2·10 + 17·2)·18/2 = 486."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 1n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "4",
+        "1",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "a₁ = S₁ = 3, S₂ = 10 ⇒ a₂ = S₂ − S₁ = 7 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 7 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "133",
+      "explain": "S_7 = (2·10 + 6·3)·7/2 = 133."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 2n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "a₁ = S₁ = 4, S₂ = 12 ⇒ a₂ = S₂ − S₁ = 8 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 8 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "164",
+      "explain": "S_8 = (2·10 + 7·3)·8/2 = 164."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 3n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "a₁ = S₁ = 5, S₂ = 14 ⇒ a₂ = S₂ − S₁ = 9 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 9 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "198",
+      "explain": "S_9 = (2·10 + 8·3)·9/2 = 198."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 4n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "6",
+        "4",
+        "2",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "a₁ = S₁ = 6, S₂ = 16 ⇒ a₂ = S₂ − S₁ = 10 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 10 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "235",
+      "explain": "S_10 = (2·10 + 9·3)·10/2 = 235."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 5n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "4",
+        "7",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "a₁ = S₁ = 7, S₂ = 18 ⇒ a₂ = S₂ − S₁ = 11 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 11 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "275",
+      "explain": "S_11 = (2·10 + 10·3)·11/2 = 275."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 6n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "6",
+        "4",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "a₁ = S₁ = 8, S₂ = 20 ⇒ a₂ = S₂ − S₁ = 12 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 12 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "318",
+      "explain": "S_12 = (2·10 + 11·3)·12/2 = 318."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 7n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "9",
+        "2",
+        "4",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "a₁ = S₁ = 9, S₂ = 22 ⇒ a₂ = S₂ − S₁ = 13 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 13 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "364",
+      "explain": "S_13 = (2·10 + 12·3)·13/2 = 364."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 8n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "8",
+        "10",
+        "2",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "a₁ = S₁ = 10, S₂ = 24 ⇒ a₂ = S₂ − S₁ = 14 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 14 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "413",
+      "explain": "S_14 = (2·10 + 13·3)·14/2 = 413."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 9n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "9",
+        "11",
+        "4",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "a₁ = S₁ = 11, S₂ = 26 ⇒ a₂ = S₂ − S₁ = 15 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 15 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "465",
+      "explain": "S_15 = (2·10 + 14·3)·15/2 = 465."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 10n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "4",
+        "12",
+        "10",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "a₁ = S₁ = 12, S₂ = 28 ⇒ a₂ = S₂ − S₁ = 16 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 16 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "520",
+      "explain": "S_16 = (2·10 + 15·3)·16/2 = 520."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 11n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "11",
+        "13",
+        "4",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "a₁ = S₁ = 13, S₂ = 30 ⇒ a₂ = S₂ − S₁ = 17 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 17 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "578",
+      "explain": "S_17 = (2·10 + 16·3)·17/2 = 578."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 2n² + 12n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "12",
+        "2",
+        "14",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "a₁ = S₁ = 14, S₂ = 32 ⇒ a₂ = S₂ − S₁ = 18 ⇒ d = a₂ − a₁ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 18 ta qator bo'lib, har keyingi qatorda oldingisidan 3 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "639",
+      "explain": "S_18 = (2·10 + 17·3)·18/2 = 639."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 3n² + 1n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "3",
+        "6",
+        "4",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "a₁ = S₁ = 4, S₂ = 14 ⇒ a₂ = S₂ − S₁ = 10 ⇒ d = a₂ − a₁ = 6."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 7 ta qator bo'lib, har keyingi qatorda oldingisidan 4 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "154",
+      "explain": "S_7 = (2·10 + 6·4)·7/2 = 154."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 3n² + 2n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "5",
+        "6",
+        "3",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "a₁ = S₁ = 5, S₂ = 16 ⇒ a₂ = S₂ − S₁ = 11 ⇒ d = a₂ − a₁ = 6."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 8 ta qator bo'lib, har keyingi qatorda oldingisidan 4 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "192",
+      "explain": "S_8 = (2·10 + 7·4)·8/2 = 192."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = 3n² + 3n bo'lsa, progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "3",
+        "8",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "a₁ = S₁ = 6, S₂ = 18 ⇒ a₂ = S₂ − S₁ = 12 ⇒ d = a₂ − a₁ = 6."
+    },
+    {
+      "type": "fill",
+      "q": "Amfiteatrda 9 ta qator bo'lib, har keyingi qatorda oldingisidan 4 ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.",
+      "answer": "234",
+      "explain": "S_9 = (2·10 + 8·4)·9/2 = 234."
+    }
+  ],
+  "cards": [
+    [
+      "Yig'indi",
+      "Sₙ = a₁ + a₂ + ... + aₙ dastlabki n had summasi"
+    ],
+    [
+      "Gauss",
+      "1 + 2 + ... + 100 = 5050 usulini topgan mashhur matematik"
+    ],
+    [
+      "Birinchi",
+      "a₁ va oxirgi aₙ hadlar yig'indisining yarmi × n"
+    ],
+    [
+      "Amfiteatr",
+      "Qatorlar bo'yicha o'rinlar sonini hisoblash masalasi"
+    ],
+    [
+      "Sₙ (1-formula)",
+      "Sₙ = ((a₁ + aₙ) / 2) · n"
+    ],
+    [
+      "Sₙ (2-formula)",
+      "Sₙ = ((2a₁ + (n − 1)d) / 2) · n"
+    ],
+    [
+      "1+2+...+n",
+      "Dastlabki n ta natural son yig'indisi n(n+1)/2"
+    ],
+    [
+      "Toq sonlar summasi",
+      "1 + 3 + ... + (2n − 1) = n²"
+    ],
+    [
+      "Juft sonlar summasi",
+      "2 + 4 + ... + 2n = n(n + 1)"
+    ],
+    [
+      "aₙ = Sₙ − Sₙ₋₁",
+      "Yig'indi formulasi orqali n-hadni topish"
+    ],
+    [
+      "Karl Gauss",
+      "Nemis matematigi, yig'indi usuli muallifi"
+    ],
+    [
+      "S₁₀ (1..10)",
+      "55 ga teng yig'indi"
+    ],
+    [
+      "S₁₀₀ (1..100)",
+      "5050 ga teng yig'indi"
+    ],
+    [
+      "O'rtacha had",
+      "Sₙ / n = (a₁ + aₙ)/2"
+    ],
+    [
+      "a₁ + aₙ",
+      "2·Sₙ / n ga teng"
+    ],
+    [
+      "To'g'ri burchakli",
+      "Uchburchak va amfiteatr qatorlari yig'indisi"
+    ],
+    [
+      "So'at bongi",
+      "12 soatda uriladigan bonglar yig'indisi 78"
+    ],
+    [
+      "Qarz to'lash",
+      "Har oy bir xil ortuvchi to'lovlar yig'indisi"
+    ],
+    [
+      "Sₙ = an² + bn",
+      "Arifmetik progressiya yig'indisining kvadratik shakli"
+    ],
+    [
+      "d = 2a",
+      "Sₙ = an² + bn da ayirma d = 2a"
+    ],
+    [
+      "2a₁ + (n−1)d",
+      "Ikkinchi Sₙ formulasidagi surat ifodasi"
+    ],
+    [
+      "Natural yig'indi",
+      "Birinchi 20 ta natural son yig'indisi 210"
+    ],
+    [
+      "Toq yig'indi",
+      "Dastlabki 10 ta toq son yig'indisi 100"
+    ],
+    [
+      "Sₙ − Sₙ₋₁",
+      "n > 1 da aₙ hadni beradi"
+    ]
+  ]
+}

@@ -1,0 +1,2530 @@
+{
+  "id": "g9-uz-algebra-06-kvadrat-tengsizlik",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "6-§. Kvadrat tengsizlik va uning yechimi",
+  "title": "6-§. Kvadrat tengsizlik va uning yechimi",
+  "source": "Algebra 9-sinf (2019), I bob, 6-§, 24–27-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "x² − 9 < 0 tengsizlikning yechimi qaysi oraliq?",
+      "options": [
+        "(−∞; −3) ∪ (3; +∞)",
+        "(0; 3)",
+        "[−3; 3]",
+        "(−3; 3)"
+      ],
+      "answer": 3,
+      "explain": "(x − 3)(x + 3) < 0 tengsizlik −3 < x < 3 da bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 4 > 0 tengsizlikning yechimlar to'plami qaysi?",
+      "options": [
+        "(−2; 2)",
+        "Barcha haqiqiy sonlar R",
+        "Bo'sh to'plam ∅",
+        "(2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² ≥ 0 bo'lgani uchun x² + 4 ≥ 4 > 0 barcha x ∈ R uchun o'rinli."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 1 ≤ 0 tengsizlikning haqiqiy yechimlari yo'q.",
+      "answer": true,
+      "explain": "x² + 1 ≥ 1 bo'lgani uchun hech qachon ≤ 0 bo'lmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x − 4)² ≤ 0 tengsizlikning yagona yechimi x = 4 dir.",
+      "answer": true,
+      "explain": "Kvadrat faqat x = 4 da nolga teng, manfiy bo'lmaydi."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 11x + 30 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "2",
+      "explain": "[-6; -5] kesmada (-5 − (-6) + 1) = 2 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 10x + 24 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(-6; -4)",
+        "[-6; -4]",
+        "(4; 6)",
+        "(−∞; -6) ∪ (-4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ildizlar -6 va -4. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-6; -4)."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 9x + 18 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(-6; -3)",
+        "(−∞; -6] ∪ [-3; +∞)",
+        "[-6; -3]",
+        "(−∞; -6) ∪ (-3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 8x + 12 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "(-6; -2) oraliqdagi butun sonlar soni (-2 − (-6) − 1) = 3 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 7x + 6 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[-6; -1] kesmada (-1 − (-6) + 1) = 6 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[-6; 0]",
+        "(−∞; -6) ∪ (0; +∞)",
+        "(-6; 0)",
+        "(0; 6)"
+      ],
+      "answer": 2,
+      "explain": "Ildizlar -6 va 0. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-6; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 5x − 6 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[-6; 1]",
+        "(-6; 1)",
+        "(−∞; -6) ∪ (1; +∞)",
+        "(−∞; -6] ∪ [1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x − 12 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "(-6; 2) oraliqdagi butun sonlar soni (2 − (-6) − 1) = 7 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 3x − 18 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "[-6; 3] kesmada (3 − (-6) + 1) = 10 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x − 24 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(-6; 4)",
+        "(-4; 6)",
+        "[-6; 4]",
+        "(−∞; -6) ∪ (4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ildizlar -6 va 4. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-6; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 30 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(-6; 5)",
+        "[-6; 5]",
+        "(−∞; -6] ∪ [5; +∞)",
+        "(−∞; -6) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 36 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "11",
+      "explain": "(-6; 6) oraliqdagi butun sonlar soni (6 − (-6) − 1) = 11 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x − 42 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "14",
+      "explain": "[-6; 7] kesmada (7 − (-6) + 1) = 14 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 9x + 20 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (-4; +∞)",
+        "(−∞; -5] ∪ [-4; +∞)",
+        "[-5; -4]",
+        "(-5; -4)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 8x + 15 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "1",
+      "explain": "(-5; -3) oraliqdagi butun sonlar soni (-3 − (-5) − 1) = 1 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 7x + 10 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[-5; -2] kesmada (-2 − (-5) + 1) = 4 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x + 5 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(1; 5)",
+        "[-5; -1]",
+        "(-5; -1)",
+        "(−∞; -5) ∪ (-1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ildizlar -5 va -1. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-5; -1)."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 5x > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(-5; 0)",
+        "(−∞; -5] ∪ [0; +∞)",
+        "(−∞; -5) ∪ (0; +∞)",
+        "[-5; 0]"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x − 5 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "(-5; 1) oraliqdagi butun sonlar soni (1 − (-5) − 1) = 5 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 3x − 10 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "[-5; 2] kesmada (2 − (-5) + 1) = 8 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x − 15 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (3; +∞)",
+        "(-5; 3)",
+        "(-3; 5)",
+        "[-5; 3]"
+      ],
+      "answer": 1,
+      "explain": "Ildizlar -5 va 3. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-5; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 20 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5] ∪ [4; +∞)",
+        "(−∞; -5) ∪ (4; +∞)",
+        "[-5; 4]",
+        "(-5; 4)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 25 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "(-5; 5) oraliqdagi butun sonlar soni (5 − (-5) − 1) = 9 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x − 30 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "12",
+      "explain": "[-5; 6] kesmada (6 − (-5) + 1) = 12 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 35 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[-5; 7]",
+        "(-5; 7)",
+        "(-7; 5)",
+        "(−∞; -5) ∪ (7; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ildizlar -5 va 7. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-5; 7)."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 7x + 12 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "2",
+      "explain": "[-4; -3] kesmada (-3 − (-4) + 1) = 2 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x + 8 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (-2; +∞)",
+        "[-4; -2]",
+        "(-4; -2)",
+        "(2; 4)"
+      ],
+      "answer": 2,
+      "explain": "Ildizlar -4 va -2. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-4; -2)."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 5x + 4 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4] ∪ [-1; +∞)",
+        "(−∞; -4) ∪ (-1; +∞)",
+        "(-4; -1)",
+        "[-4; -1]"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "(-4; 0) oraliqdagi butun sonlar soni (0 − (-4) − 1) = 3 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 3x − 4 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[-4; 1] kesmada (1 − (-4) + 1) = 6 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x − 8 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(-4; 2)",
+        "(-2; 4)",
+        "[-4; 2]",
+        "(−∞; -4) ∪ (2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ildizlar -4 va 2. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-4; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 12 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (3; +∞)",
+        "(-4; 3)",
+        "(−∞; -4] ∪ [3; +∞)",
+        "[-4; 3]"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 16 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "(-4; 4) oraliqdagi butun sonlar soni (4 − (-4) − 1) = 7 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x − 20 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "[-4; 5] kesmada (5 − (-4) + 1) = 10 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 24 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[-4; 6]",
+        "(-6; 4)",
+        "(-4; 6)",
+        "(−∞; -4) ∪ (6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ildizlar -4 va 6. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-4; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 28 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[-4; 7]",
+        "(−∞; -4] ∪ [7; +∞)",
+        "(−∞; -4) ∪ (7; +∞)",
+        "(-4; 7)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 5x + 6 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[-3; -2]",
+        "(−∞; -3) ∪ (-2; +∞)",
+        "(−∞; -3] ∪ [-2; +∞)",
+        "(-3; -2)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x + 3 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "1",
+      "explain": "(-3; -1) oraliqdagi butun sonlar soni (-1 − (-3) − 1) = 1 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 3x ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[-3; 0] kesmada (0 − (-3) + 1) = 4 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x − 3 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(-1; 3)",
+        "(-3; 1)",
+        "[-3; 1]",
+        "(−∞; -3) ∪ (1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ildizlar -3 va 1. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-3; 1)."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 6 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -3] ∪ [2; +∞)",
+        "(−∞; -3) ∪ (2; +∞)",
+        "[-3; 2]",
+        "(-3; 2)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 9 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "(-3; 3) oraliqdagi butun sonlar soni (3 − (-3) − 1) = 5 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x − 12 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "[-3; 4] kesmada (4 − (-3) + 1) = 8 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 15 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -3) ∪ (5; +∞)",
+        "(-5; 3)",
+        "(-3; 5)",
+        "[-3; 5]"
+      ],
+      "answer": 2,
+      "explain": "Ildizlar -3 va 5. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-3; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 18 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(-3; 6)",
+        "[-3; 6]",
+        "(−∞; -3) ∪ (6; +∞)",
+        "(−∞; -3] ∪ [6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 21 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "(-3; 7) oraliqdagi butun sonlar soni (7 − (-3) − 1) = 9 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 3x + 2 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "2",
+      "explain": "[-2; -1] kesmada (-1 − (-2) + 1) = 2 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (0; +∞)",
+        "(0; 2)",
+        "[-2; 0]",
+        "(-2; 0)"
+      ],
+      "answer": 3,
+      "explain": "Ildizlar -2 va 0. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-2; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 2 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[-2; 1]",
+        "(−∞; -2] ∪ [1; +∞)",
+        "(−∞; -2) ∪ (1; +∞)",
+        "(-2; 1)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "(-2; 2) oraliqdagi butun sonlar soni (2 − (-2) − 1) = 3 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x − 6 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[-2; 3] kesmada (3 − (-2) + 1) = 6 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 8 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (4; +∞)",
+        "(-4; 2)",
+        "[-2; 4]",
+        "(-2; 4)"
+      ],
+      "answer": 3,
+      "explain": "Ildizlar -2 va 4. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-2; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 10 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (5; +∞)",
+        "(-2; 5)",
+        "[-2; 5]",
+        "(−∞; -2] ∪ [5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 12 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "(-2; 6) oraliqdagi butun sonlar soni (6 − (-2) − 1) = 7 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x − 14 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "[-2; 7] kesmada (7 − (-2) + 1) = 10 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[-1; 0]",
+        "(−∞; -1] ∪ [0; +∞)",
+        "(−∞; -1) ∪ (0; +∞)",
+        "(-1; 0)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 1 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "1",
+      "explain": "(-1; 1) oraliqdagi butun sonlar soni (1 − (-1) − 1) = 1 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x − 2 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[-1; 2] kesmada (2 − (-1) + 1) = 4 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 3 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(-3; 1)",
+        "(−∞; -1) ∪ (3; +∞)",
+        "(-1; 3)",
+        "[-1; 3]"
+      ],
+      "answer": 2,
+      "explain": "Ildizlar -1 va 3. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-1; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 4 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; -1] ∪ [4; +∞)",
+        "[-1; 4]",
+        "(-1; 4)",
+        "(−∞; -1) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 5 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "(-1; 5) oraliqdagi butun sonlar soni (5 − (-1) − 1) = 5 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x − 6 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "[-1; 6] kesmada (6 − (-1) + 1) = 8 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x − 7 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(-7; 1)",
+        "(−∞; -1) ∪ (7; +∞)",
+        "(-1; 7)",
+        "[-1; 7]"
+      ],
+      "answer": 2,
+      "explain": "Ildizlar -1 va 7. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (-1; 7)."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "2",
+      "explain": "[0; 1] kesmada (1 − (0) + 1) = 2 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[0; 2]",
+        "(-2; 0)",
+        "(0; 2)",
+        "(−∞; 0) ∪ (2; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ildizlar 0 va 2. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (0; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(0; 3)",
+        "(−∞; 0] ∪ [3; +∞)",
+        "[0; 3]",
+        "(−∞; 0) ∪ (3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "(0; 4) oraliqdagi butun sonlar soni (4 − (0) − 1) = 3 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[0; 5] kesmada (5 − (0) + 1) = 6 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(0; 6)",
+        "(-6; 0)",
+        "(−∞; 0) ∪ (6; +∞)",
+        "[0; 6]"
+      ],
+      "answer": 0,
+      "explain": "Ildizlar 0 va 6. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (0; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; 0) ∪ (7; +∞)",
+        "(0; 7)",
+        "[0; 7]",
+        "(−∞; 0] ∪ [7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x + 2 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; 1) ∪ (2; +∞)",
+        "[1; 2]",
+        "(1; 2)",
+        "(−∞; 1] ∪ [2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x + 3 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "1",
+      "explain": "(1; 3) oraliqdagi butun sonlar soni (3 − (1) − 1) = 1 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x + 4 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[1; 4] kesmada (4 − (1) + 1) = 4 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x + 5 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[1; 5]",
+        "(−∞; 1) ∪ (5; +∞)",
+        "(1; 5)",
+        "(-5; -1)"
+      ],
+      "answer": 2,
+      "explain": "Ildizlar 1 va 5. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (1; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x + 6 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; 1] ∪ [6; +∞)",
+        "(−∞; 1) ∪ (6; +∞)",
+        "[1; 6]",
+        "(1; 6)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 8x + 7 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "(1; 7) oraliqdagi butun sonlar soni (7 − (1) − 1) = 5 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x + 6 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "2",
+      "explain": "[2; 3] kesmada (3 − (2) + 1) = 2 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x + 8 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; 2) ∪ (4; +∞)",
+        "[2; 4]",
+        "(2; 4)",
+        "(-4; -2)"
+      ],
+      "answer": 2,
+      "explain": "Ildizlar 2 va 4. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (2; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x + 10 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[2; 5]",
+        "(−∞; 2] ∪ [5; +∞)",
+        "(2; 5)",
+        "(−∞; 2) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 8x + 12 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "(2; 6) oraliqdagi butun sonlar soni (6 − (2) − 1) = 3 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 9x + 14 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[2; 7] kesmada (7 − (2) + 1) = 6 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x + 12 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "[3; 4]",
+        "(3; 4)",
+        "(−∞; 3) ∪ (4; +∞)",
+        "(−∞; 3] ∪ [4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 8x + 15 < 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "1",
+      "explain": "(3; 5) oraliqdagi butun sonlar soni (5 − (3) − 1) = 1 ta."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 9x + 18 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[3; 6] kesmada (6 − (3) + 1) = 4 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 10x + 21 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(3; 7)",
+        "[3; 7]",
+        "(-7; -3)",
+        "(−∞; 3) ∪ (7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ildizlar 3 va 7. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (3; 7)."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 9x + 20 ≤ 0 tengsizlikning nechta butun yechimi bor?",
+      "answer": "2",
+      "explain": "[4; 5] kesmada (5 − (4) + 1) = 2 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 10x + 24 < 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; 4) ∪ (6; +∞)",
+        "(-6; -4)",
+        "[4; 6]",
+        "(4; 6)"
+      ],
+      "answer": 3,
+      "explain": "Ildizlar 4 va 6. a = 1 > 0 bo'lgani uchun < 0 ildizlar orasida: (4; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 11x + 28 > 0 kvadrat tengsizlikni yeching.",
+      "options": [
+        "(−∞; 4] ∪ [7; +∞)",
+        "(4; 7)",
+        "(−∞; 4) ∪ (7; +∞)",
+        "[4; 7]"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da > 0 ildizlardan tashqarida bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 1 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; −1] ∪ [1; +∞)",
+        "(−∞; −1) ∪ (1; +∞)",
+        "[1; +∞)",
+        "[−1; 1]"
+      ],
+      "answer": 0,
+      "explain": "|x| ≥ 1 shart (−∞; −1] ∪ [1; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 2x + 1 > 0 tengsizlikning yechimi x ≠ 1 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 1)² > 0 faqat x = 1 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 4 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; −2) ∪ (2; +∞)",
+        "[2; +∞)",
+        "[−2; 2]",
+        "(−∞; −2] ∪ [2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "|x| ≥ 2 shart (−∞; −2] ∪ [2; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 4x + 4 > 0 tengsizlikning yechimi x ≠ 2 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 2)² > 0 faqat x = 2 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 9 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; −3] ∪ [3; +∞)",
+        "[−3; 3]",
+        "[3; +∞)",
+        "(−∞; −3) ∪ (3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "|x| ≥ 3 shart (−∞; −3] ∪ [3; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 6x + 9 > 0 tengsizlikning yechimi x ≠ 3 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 3)² > 0 faqat x = 3 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 16 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; −4) ∪ (4; +∞)",
+        "[4; +∞)",
+        "(−∞; −4] ∪ [4; +∞)",
+        "[−4; 4]"
+      ],
+      "answer": 2,
+      "explain": "|x| ≥ 4 shart (−∞; −4] ∪ [4; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 8x + 16 > 0 tengsizlikning yechimi x ≠ 4 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 4)² > 0 faqat x = 4 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 25 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; −5) ∪ (5; +∞)",
+        "(−∞; −5] ∪ [5; +∞)",
+        "[5; +∞)",
+        "[−5; 5]"
+      ],
+      "answer": 1,
+      "explain": "|x| ≥ 5 shart (−∞; −5] ∪ [5; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 10x + 25 > 0 tengsizlikning yechimi x ≠ 5 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 5)² > 0 faqat x = 5 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 36 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[6; +∞)",
+        "(−∞; −6] ∪ [6; +∞)",
+        "[−6; 6]",
+        "(−∞; −6) ∪ (6; +∞)"
+      ],
+      "answer": 1,
+      "explain": "|x| ≥ 6 shart (−∞; −6] ∪ [6; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 12x + 36 > 0 tengsizlikning yechimi x ≠ 6 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 6)² > 0 faqat x = 6 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 49 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; −7) ∪ (7; +∞)",
+        "[−7; 7]",
+        "[7; +∞)",
+        "(−∞; −7] ∪ [7; +∞)"
+      ],
+      "answer": 3,
+      "explain": "|x| ≥ 7 shart (−∞; −7] ∪ [7; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 14x + 49 > 0 tengsizlikning yechimi x ≠ 7 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 7)² > 0 faqat x = 7 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 64 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[8; +∞)",
+        "(−∞; −8) ∪ (8; +∞)",
+        "(−∞; −8] ∪ [8; +∞)",
+        "[−8; 8]"
+      ],
+      "answer": 2,
+      "explain": "|x| ≥ 8 shart (−∞; −8] ∪ [8; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 16x + 64 > 0 tengsizlikning yechimi x ≠ 8 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 8)² > 0 faqat x = 8 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 81 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; −9) ∪ (9; +∞)",
+        "[−9; 9]",
+        "(−∞; −9] ∪ [9; +∞)",
+        "[9; +∞)"
+      ],
+      "answer": 2,
+      "explain": "|x| ≥ 9 shart (−∞; −9] ∪ [9; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 18x + 81 > 0 tengsizlikning yechimi x ≠ 9 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 9)² > 0 faqat x = 9 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 100 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[10; +∞)",
+        "[−10; 10]",
+        "(−∞; −10] ∪ [10; +∞)",
+        "(−∞; −10) ∪ (10; +∞)"
+      ],
+      "answer": 2,
+      "explain": "|x| ≥ 10 shart (−∞; −10] ∪ [10; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 20x + 100 > 0 tengsizlikning yechimi x ≠ 10 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 10)² > 0 faqat x = 10 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 121 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; −11] ∪ [11; +∞)",
+        "(−∞; −11) ∪ (11; +∞)",
+        "[11; +∞)",
+        "[−11; 11]"
+      ],
+      "answer": 0,
+      "explain": "|x| ≥ 11 shart (−∞; −11] ∪ [11; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 22x + 121 > 0 tengsizlikning yechimi x ≠ 11 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 11)² > 0 faqat x = 11 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 144 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[−12; 12]",
+        "(−∞; −12) ∪ (12; +∞)",
+        "[12; +∞)",
+        "(−∞; −12] ∪ [12; +∞)"
+      ],
+      "answer": 3,
+      "explain": "|x| ≥ 12 shart (−∞; −12] ∪ [12; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 24x + 144 > 0 tengsizlikning yechimi x ≠ 12 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 12)² > 0 faqat x = 12 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 169 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[13; +∞)",
+        "(−∞; −13) ∪ (13; +∞)",
+        "(−∞; −13] ∪ [13; +∞)",
+        "[−13; 13]"
+      ],
+      "answer": 2,
+      "explain": "|x| ≥ 13 shart (−∞; −13] ∪ [13; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 26x + 169 > 0 tengsizlikning yechimi x ≠ 13 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 13)² > 0 faqat x = 13 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 196 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[−14; 14]",
+        "[14; +∞)",
+        "(−∞; −14] ∪ [14; +∞)",
+        "(−∞; −14) ∪ (14; +∞)"
+      ],
+      "answer": 2,
+      "explain": "|x| ≥ 14 shart (−∞; −14] ∪ [14; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 28x + 196 > 0 tengsizlikning yechimi x ≠ 14 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 14)² > 0 faqat x = 14 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 225 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[15; +∞)",
+        "(−∞; −15) ∪ (15; +∞)",
+        "(−∞; −15] ∪ [15; +∞)",
+        "[−15; 15]"
+      ],
+      "answer": 2,
+      "explain": "|x| ≥ 15 shart (−∞; −15] ∪ [15; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 30x + 225 > 0 tengsizlikning yechimi x ≠ 15 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 15)² > 0 faqat x = 15 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x² ≥ 256 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; −16] ∪ [16; +∞)",
+        "(−∞; −16) ∪ (16; +∞)",
+        "[−16; 16]",
+        "[16; +∞)"
+      ],
+      "answer": 0,
+      "explain": "|x| ≥ 16 shart (−∞; −16] ∪ [16; +∞) to'plamda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 32x + 256 > 0 tengsizlikning yechimi x ≠ 16 barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "(x − 16)² > 0 faqat x = 16 nuqtadan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 1 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 1 ≥ 1 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 2 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 2 ≥ 2 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 3 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 3 ≥ 3 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 4 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 4 ≥ 4 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 5 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 5 ≥ 5 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 6 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 6 ≥ 6 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 7 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 7 ≥ 7 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 8 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 8 ≥ 8 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 9 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 9 ≥ 9 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 10 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 10 ≥ 10 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 11 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 11 ≥ 11 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 12 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 12 ≥ 12 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 13 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 13 ≥ 13 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 14 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 14 ≥ 14 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 15 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 15 ≥ 15 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 16 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 16 ≥ 16 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 17 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 17 ≥ 17 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 18 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 18 ≥ 18 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 19 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 19 ≥ 19 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 20 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 20 ≥ 20 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 21 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 21 ≥ 21 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 22 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 22 ≥ 22 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 23 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 23 ≥ 23 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 24 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 24 ≥ 24 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 25 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 25 ≥ 25 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 26 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 26 ≥ 26 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 27 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 27 ≥ 27 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 28 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 28 ≥ 28 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 29 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 29 ≥ 29 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 30 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 30 ≥ 30 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 31 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 31 ≥ 31 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 32 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 32 ≥ 32 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 33 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 33 ≥ 33 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 34 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 34 ≥ 34 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 35 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 35 ≥ 35 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 36 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 36 ≥ 36 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 37 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 37 ≥ 37 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 38 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 38 ≥ 38 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 39 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 39 ≥ 39 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 40 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 40 ≥ 40 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 41 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 41 ≥ 41 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 42 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 42 ≥ 42 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 43 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 43 ≥ 43 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 44 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 44 ≥ 44 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 45 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 45 ≥ 45 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 46 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 46 ≥ 46 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 47 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 47 ≥ 47 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 48 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 48 ≥ 48 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 49 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 49 ≥ 49 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 50 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 50 ≥ 50 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 51 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 51 ≥ 51 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 52 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 52 ≥ 52 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 53 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 53 ≥ 53 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 54 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 54 ≥ 54 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 55 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 55 ≥ 55 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 56 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 56 ≥ 56 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 57 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 57 ≥ 57 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 58 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 58 ≥ 58 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 59 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 59 ≥ 59 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 60 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 60 ≥ 60 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 61 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 61 ≥ 61 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 62 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 62 ≥ 62 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 63 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 63 ≥ 63 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 64 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 64 ≥ 64 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 65 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 65 ≥ 65 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 66 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 66 ≥ 66 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 67 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 67 ≥ 67 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 68 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 68 ≥ 68 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 69 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 69 ≥ 69 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 70 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 70 ≥ 70 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 71 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 71 ≥ 71 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 72 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 72 ≥ 72 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 73 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 73 ≥ 73 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 74 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 74 ≥ 74 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 75 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 75 ≥ 75 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 76 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 76 ≥ 76 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 77 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 77 ≥ 77 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 78 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 78 ≥ 78 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 79 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 79 ≥ 79 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 80 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 80 ≥ 80 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 81 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 81 ≥ 81 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 82 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 82 ≥ 82 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 83 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 83 ≥ 83 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 84 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 84 ≥ 84 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 85 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 85 ≥ 85 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 86 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 86 ≥ 86 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 87 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 87 ≥ 87 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 88 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 88 ≥ 88 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 89 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 89 ≥ 89 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 90 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 90 ≥ 90 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 91 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 91 ≥ 91 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 92 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 92 ≥ 92 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 93 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 93 ≥ 93 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 94 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 94 ≥ 94 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 95 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 95 ≥ 95 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 96 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 96 ≥ 96 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 97 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 97 ≥ 97 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 98 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 98 ≥ 98 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 99 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 99 ≥ 99 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 100 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 100 ≥ 100 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 101 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 101 ≥ 101 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 102 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 102 ≥ 102 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 103 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 103 ≥ 103 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 104 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 104 ≥ 104 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 105 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 105 ≥ 105 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 106 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 106 ≥ 106 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 107 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 107 ≥ 107 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 108 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 108 ≥ 108 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 109 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 109 ≥ 109 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 110 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 110 ≥ 110 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 111 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 111 ≥ 111 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 112 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 112 ≥ 112 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 113 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 113 ≥ 113 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 114 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 114 ≥ 114 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 115 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 115 ≥ 115 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 116 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 116 ≥ 116 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 117 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 117 ≥ 117 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 118 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 118 ≥ 118 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 119 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 119 ≥ 119 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 120 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 120 ≥ 120 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 121 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 121 ≥ 121 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 122 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 122 ≥ 122 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 123 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 123 ≥ 123 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 124 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 124 ≥ 124 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 125 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 125 ≥ 125 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 126 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 126 ≥ 126 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 127 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 127 ≥ 127 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 128 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 128 ≥ 128 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 129 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 129 ≥ 129 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 130 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 130 ≥ 130 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 131 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 131 ≥ 131 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 132 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 132 ≥ 132 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 133 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 133 ≥ 133 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 134 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 134 ≥ 134 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 135 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 135 ≥ 135 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 136 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 136 ≥ 136 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 137 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 137 ≥ 137 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 138 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 138 ≥ 138 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 139 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 139 ≥ 139 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 140 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 140 ≥ 140 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 141 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 141 ≥ 141 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 142 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 142 ≥ 142 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 143 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 143 ≥ 143 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 144 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 144 ≥ 144 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 145 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 145 ≥ 145 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 146 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 146 ≥ 146 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 147 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 147 ≥ 147 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 148 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 148 ≥ 148 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 149 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 149 ≥ 149 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 150 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 150 ≥ 150 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 151 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 151 ≥ 151 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 152 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 152 ≥ 152 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 153 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 153 ≥ 153 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 154 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 154 ≥ 154 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 155 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 155 ≥ 155 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 156 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 156 ≥ 156 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 157 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 157 ≥ 157 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 158 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 158 ≥ 158 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 159 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 159 ≥ 159 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 160 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 160 ≥ 160 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 161 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 161 ≥ 161 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 162 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 162 ≥ 162 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 163 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 163 ≥ 163 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 164 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 164 ≥ 164 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 165 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 165 ≥ 165 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 166 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 166 ≥ 166 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 167 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 167 ≥ 167 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 168 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 168 ≥ 168 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 169 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 169 ≥ 169 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 170 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 170 ≥ 170 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 171 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 171 ≥ 171 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 172 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 172 ≥ 172 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 173 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 173 ≥ 173 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 174 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 174 ≥ 174 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 175 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 175 ≥ 175 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 176 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 176 ≥ 176 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 177 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 177 ≥ 177 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 178 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 178 ≥ 178 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 179 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 179 ≥ 179 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 180 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 180 ≥ 180 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 181 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 181 ≥ 181 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 182 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 182 ≥ 182 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 183 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 183 ≥ 183 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 184 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 184 ≥ 184 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 185 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 185 ≥ 185 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 186 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 186 ≥ 186 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 187 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 187 ≥ 187 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 188 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 188 ≥ 188 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 189 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 189 ≥ 189 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 190 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 190 ≥ 190 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 191 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 191 ≥ 191 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 192 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 192 ≥ 192 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 193 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 193 ≥ 193 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 194 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 194 ≥ 194 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 195 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 195 ≥ 195 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 196 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 196 ≥ 196 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 197 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 197 ≥ 197 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 198 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 198 ≥ 198 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 199 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 199 ≥ 199 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 200 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 200 ≥ 200 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 201 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 201 ≥ 201 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 202 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 202 ≥ 202 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 203 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 203 ≥ 203 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 204 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 204 ≥ 204 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 205 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 205 ≥ 205 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 206 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 206 ≥ 206 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 207 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 207 ≥ 207 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 208 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 208 ≥ 208 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 209 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 209 ≥ 209 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 210 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 210 ≥ 210 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 211 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 211 ≥ 211 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 212 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 212 ≥ 212 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 213 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 213 ≥ 213 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 214 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 214 ≥ 214 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 215 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 215 ≥ 215 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 216 < 0 tengsizlikning yechimlar to'plami bo'sh (∅).",
+      "answer": true,
+      "explain": "x² + 216 ≥ 216 > 0 bo'lgani uchun hech qanday haqiqiy yechim yo'q."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Qat'iy",
+      "Faqat > yoki < belgili tengsizlik"
+    ],
+    [
+      "Noqat'iy",
+      "≥ yoki ≤ belgili tengsizlik"
+    ],
+    [
+      "Butun",
+      "Tengsizlik yechimlaridagi butun sonlar"
+    ],
+    [
+      "Birlashma",
+      "Ikkita nur yechimlar to'plami (∪)"
+    ],
+    [
+      "Kvadrat tengsizlik",
+      "ax² + bx + c > 0 (< 0, ≥ 0, ≤ 0), a ≠ 0"
+    ],
+    [
+      "x² < k²",
+      "Yechimi: (−k; k) oraliq (k > 0)"
+    ],
+    [
+      "x² > k²",
+      "Yechimi: (−∞; −k) ∪ (k; +∞)"
+    ],
+    [
+      "(x−r₁)(x−r₂) < 0",
+      "Yechimi ildizlar orasida: (r₁; r₂)"
+    ],
+    [
+      "(x−r₁)(x−r₂) > 0",
+      "Yechimi chetlarda: (−∞; r₁) ∪ (r₂; +∞)"
+    ],
+    [
+      "a>0, D<0, >0",
+      "Yechim barcha haqiqiy sonlar R"
+    ],
+    [
+      "a>0, D<0, <0",
+      "Yechimlar to'plami bo'sh (∅)"
+    ],
+    [
+      "(x − m)² ≥ 0",
+      "Har qanday x ∈ R uchun o'rinli"
+    ],
+    [
+      "(x − m)² ≤ 0",
+      "Yagona yechimi x = m"
+    ],
+    [
+      "(x − m)² < 0",
+      "Yechimi yo'q (∅)"
+    ]
+  ]
+}

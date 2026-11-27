@@ -1,0 +1,3260 @@
+{
+  "id": "g9-uz-algebra-29-arifmetik-progressiya",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "29-§. Arifmetik progressiya",
+  "title": "29-§. Arifmetik progressiya",
+  "source": "Algebra 9-sinf (2019), IV bob, 29-§, 153–157-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyaning n-had formulasi qaysi?",
+      "options": [
+        "aₙ = a₁ · dⁿ⁻¹",
+        "aₙ = (a₁ + d)n",
+        "aₙ = a₁ + nd",
+        "aₙ = a₁ + (n − 1)d"
+      ],
+      "answer": 3,
+      "explain": "aₙ = a₁ + (n − 1)d — arifmetik progressiya umumiy hadi."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyaning ixtiyoriy uchta ketma-ket hadi uchun xarakteristik xossa qaysi?",
+      "options": [
+        "aₙ = √(aₙ₋₁ · aₙ₊₁)",
+        "aₙ = (aₙ₋₁ + aₙ₊₁) / 2",
+        "aₙ = aₙ₋₁ + aₙ₊₁",
+        "aₙ² = aₙ₋₁ · aₙ₊₁"
+      ],
+      "answer": 1,
+      "explain": "Har bir had o'z qo'shnilarining o'rta arifmetigiga teng."
+    },
+    {
+      "type": "truefalse",
+      "q": "Arifmetik progressiyada ayirma d > 0 bo'lsa, u o'suvchi progressiya bo'ladi.",
+      "answer": true,
+      "explain": "Har safar musbat d soni qo'shilgani uchun aₙ₊₁ > aₙ."
+    },
+    {
+      "type": "truefalse",
+      "q": "a₁ + a₁₀ = a₄ + a₇ tenglik har qanday arifmetik progressiyada to'g'ri.",
+      "answer": true,
+      "explain": "1 + 10 = 4 + 7 = 11 bo'lgani uchun yig'indilar 2a₁ + 9d ga teng."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -5, d = -4 bo'lsa, a_14 ni hisoblang.",
+      "answer": "-57",
+      "explain": "a_14 = -5 + 13·(-4) = -57."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -5, d = -3. Uning a_13 hadini toping.",
+      "options": [
+        "-38",
+        "-42",
+        "-41",
+        "-44"
+      ],
+      "answer": 2,
+      "explain": "a_13 = -5 + (13 − 1)·(-3) = -41."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -5, d = -2 arifmetik progressiyaning nechanchi hadi -27 ga teng?",
+      "answer": "12",
+      "explain": "n = (-27 − (-5))/(-2) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -5, a_11 = -15 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "-2"
+      ],
+      "answer": 2,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (-15 − (-5)) / 10 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -5, a_11 = 5 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-1",
+        "1",
+        "0",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (5 − (-5)) / 10 = 1."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -5, d = 2 arifmetik progressiyaning nechanchi hadi 17 ga teng?",
+      "answer": "12",
+      "explain": "n = (17 − (-5))/(2) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -5, d = 3. Uning a_13 hadini toping.",
+      "options": [
+        "31",
+        "28",
+        "34",
+        "30"
+      ],
+      "answer": 0,
+      "explain": "a_13 = -5 + (13 − 1)·(3) = 31."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -5, d = 4 bo'lsa, a_14 ni hisoblang.",
+      "answer": "47",
+      "explain": "a_14 = -5 + 13·(4) = 47."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -5, a_15 = 65 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-5",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (65 − (-5)) / 14 = 5."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -5, d = 6 arifmetik progressiyaning nechanchi hadi 85 ga teng?",
+      "answer": "16",
+      "explain": "n = (85 − (-5))/(6) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -5, d = 7. Uning a_5 hadini toping.",
+      "options": [
+        "22",
+        "30",
+        "16",
+        "23"
+      ],
+      "answer": 3,
+      "explain": "a_5 = -5 + (5 − 1)·(7) = 23."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -5, d = 8 bo'lsa, a_6 ni hisoblang.",
+      "answer": "35",
+      "explain": "a_6 = -5 + 5·(8) = 35."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -4, d = -4. Uning a_13 hadini toping.",
+      "options": [
+        "-56",
+        "-52",
+        "-53",
+        "-48"
+      ],
+      "answer": 1,
+      "explain": "a_13 = -4 + (13 − 1)·(-4) = -52."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -4, d = -3 arifmetik progressiyaning nechanchi hadi -37 ga teng?",
+      "answer": "12",
+      "explain": "n = (-37 − (-4))/(-3) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -4, a_11 = -24 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-1",
+        "-2",
+        "2",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (-24 − (-4)) / 10 = -2."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -4, d = -1 bo'lsa, a_10 ni hisoblang.",
+      "answer": "-13",
+      "explain": "a_10 = -4 + 9·(-1) = -13."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -4, d = 1 bo'lsa, a_10 ni hisoblang.",
+      "answer": "5",
+      "explain": "a_10 = -4 + 9·(1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -4, a_11 = 16 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "-2"
+      ],
+      "answer": 0,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (16 − (-4)) / 10 = 2."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -4, d = 3 arifmetik progressiyaning nechanchi hadi 29 ga teng?",
+      "answer": "12",
+      "explain": "n = (29 − (-4))/(3) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -4, d = 4. Uning a_13 hadini toping.",
+      "options": [
+        "40",
+        "44",
+        "43",
+        "48"
+      ],
+      "answer": 1,
+      "explain": "a_13 = -4 + (13 − 1)·(4) = 44."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -4, d = 5 bo'lsa, a_14 ni hisoblang.",
+      "answer": "61",
+      "explain": "a_14 = -4 + 13·(5) = 61."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -4, a_15 = 80 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "6",
+        "-6",
+        "7",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (80 − (-4)) / 14 = 6."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -4, d = 7 arifmetik progressiyaning nechanchi hadi 101 ga teng?",
+      "answer": "16",
+      "explain": "n = (101 − (-4))/(7) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -4, d = 8. Uning a_5 hadini toping.",
+      "options": [
+        "28",
+        "27",
+        "36",
+        "20"
+      ],
+      "answer": 0,
+      "explain": "a_5 = -4 + (5 − 1)·(8) = 28."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -3, d = -4 arifmetik progressiyaning nechanchi hadi -47 ga teng?",
+      "answer": "12",
+      "explain": "n = (-47 − (-3))/(-4) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -3, a_11 = -33 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-2",
+        "-3",
+        "-4",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (-33 − (-3)) / 10 = -3."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -3, d = -2 bo'lsa, a_10 ni hisoblang.",
+      "answer": "-21",
+      "explain": "a_10 = -3 + 9·(-2) = -21."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -3, d = -1. Uning a_9 hadini toping.",
+      "options": [
+        "-12",
+        "-10",
+        "-9",
+        "-11"
+      ],
+      "answer": 3,
+      "explain": "a_9 = -3 + (9 − 1)·(-1) = -11."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -3, d = 1. Uning a_9 hadini toping.",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "a_9 = -3 + (9 − 1)·(1) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -3, d = 2 bo'lsa, a_10 ni hisoblang.",
+      "answer": "15",
+      "explain": "a_10 = -3 + 9·(2) = 15."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -3, a_11 = 27 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "4",
+        "-3",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (27 − (-3)) / 10 = 3."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -3, d = 4 arifmetik progressiyaning nechanchi hadi 41 ga teng?",
+      "answer": "12",
+      "explain": "n = (41 − (-3))/(4) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -3, d = 5. Uning a_13 hadini toping.",
+      "options": [
+        "57",
+        "56",
+        "62",
+        "52"
+      ],
+      "answer": 0,
+      "explain": "a_13 = -3 + (13 − 1)·(5) = 57."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -3, d = 6 bo'lsa, a_14 ni hisoblang.",
+      "answer": "75",
+      "explain": "a_14 = -3 + 13·(6) = 75."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -3, a_15 = 95 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "-7"
+      ],
+      "answer": 2,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (95 − (-3)) / 14 = 7."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -3, d = 8 arifmetik progressiyaning nechanchi hadi 117 ga teng?",
+      "answer": "16",
+      "explain": "n = (117 − (-3))/(8) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -2, a_11 = -42 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-3",
+        "-5",
+        "4",
+        "-4"
+      ],
+      "answer": 3,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (-42 − (-2)) / 10 = -4."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -2, d = -3 bo'lsa, a_10 ni hisoblang.",
+      "answer": "-29",
+      "explain": "a_10 = -2 + 9·(-3) = -29."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -2, d = -2. Uning a_9 hadini toping.",
+      "options": [
+        "-19",
+        "-20",
+        "-16",
+        "-18"
+      ],
+      "answer": 3,
+      "explain": "a_9 = -2 + (9 − 1)·(-2) = -18."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -2, d = -1 arifmetik progressiyaning nechanchi hadi -9 ga teng?",
+      "answer": "8",
+      "explain": "n = (-9 − (-2))/(-1) + 1 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -2, d = 1 arifmetik progressiyaning nechanchi hadi 5 ga teng?",
+      "answer": "8",
+      "explain": "n = (5 − (-2))/(1) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -2, d = 2. Uning a_9 hadini toping.",
+      "options": [
+        "14",
+        "13",
+        "16",
+        "12"
+      ],
+      "answer": 0,
+      "explain": "a_9 = -2 + (9 − 1)·(2) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -2, d = 3 bo'lsa, a_10 ni hisoblang.",
+      "answer": "25",
+      "explain": "a_10 = -2 + 9·(3) = 25."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -2, a_11 = 38 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-4",
+        "3",
+        "5",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (38 − (-2)) / 10 = 4."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -2, d = 5 arifmetik progressiyaning nechanchi hadi 53 ga teng?",
+      "answer": "12",
+      "explain": "n = (53 − (-2))/(5) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -2, d = 6. Uning a_13 hadini toping.",
+      "options": [
+        "70",
+        "69",
+        "76",
+        "64"
+      ],
+      "answer": 0,
+      "explain": "a_13 = -2 + (13 − 1)·(6) = 70."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -2, d = 7 bo'lsa, a_14 ni hisoblang.",
+      "answer": "89",
+      "explain": "a_14 = -2 + 13·(7) = 89."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -2, a_15 = 110 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-8",
+        "7",
+        "9",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (110 − (-2)) / 14 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -1, d = -4 bo'lsa, a_10 ni hisoblang.",
+      "answer": "-37",
+      "explain": "a_10 = -1 + 9·(-4) = -37."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -1, d = -3. Uning a_9 hadini toping.",
+      "options": [
+        "-28",
+        "-26",
+        "-25",
+        "-22"
+      ],
+      "answer": 2,
+      "explain": "a_9 = -1 + (9 − 1)·(-3) = -25."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -1, d = -2 arifmetik progressiyaning nechanchi hadi -15 ga teng?",
+      "answer": "8",
+      "explain": "n = (-15 − (-1))/(-2) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -1, a_7 = -7 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "0",
+        "-1",
+        "1",
+        "-2"
+      ],
+      "answer": 1,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (-7 − (-1)) / 6 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -1, a_7 = 5 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (5 − (-1)) / 6 = 1."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -1, d = 2 arifmetik progressiyaning nechanchi hadi 13 ga teng?",
+      "answer": "8",
+      "explain": "n = (13 − (-1))/(2) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -1, d = 3. Uning a_9 hadini toping.",
+      "options": [
+        "26",
+        "20",
+        "22",
+        "23"
+      ],
+      "answer": 3,
+      "explain": "a_9 = -1 + (9 − 1)·(3) = 23."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -1, d = 4 bo'lsa, a_10 ni hisoblang.",
+      "answer": "35",
+      "explain": "a_10 = -1 + 9·(4) = 35."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = -1, a_11 = 49 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "-5"
+      ],
+      "answer": 1,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (49 − (-1)) / 10 = 5."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = -1, d = 6 arifmetik progressiyaning nechanchi hadi 65 ga teng?",
+      "answer": "12",
+      "explain": "n = (65 − (-1))/(6) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = -1, d = 7. Uning a_13 hadini toping.",
+      "options": [
+        "82",
+        "76",
+        "83",
+        "90"
+      ],
+      "answer": 2,
+      "explain": "a_13 = -1 + (13 − 1)·(7) = 83."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = -1, d = 8 bo'lsa, a_14 ni hisoblang.",
+      "answer": "103",
+      "explain": "a_14 = -1 + 13·(8) = 103."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 0, d = -4. Uning a_9 hadini toping.",
+      "options": [
+        "-32",
+        "-33",
+        "-36",
+        "-28"
+      ],
+      "answer": 0,
+      "explain": "a_9 = 0 + (9 − 1)·(-4) = -32."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 0, d = -3 arifmetik progressiyaning nechanchi hadi -21 ga teng?",
+      "answer": "8",
+      "explain": "n = (-21 − (0))/(-3) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 0, a_7 = -12 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-1",
+        "2",
+        "-2",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (-12 − (0)) / 6 = -2."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 0, d = -1 bo'lsa, a_6 ni hisoblang.",
+      "answer": "-5",
+      "explain": "a_6 = 0 + 5·(-1) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 0, d = 1 bo'lsa, a_6 ni hisoblang.",
+      "answer": "5",
+      "explain": "a_6 = 0 + 5·(1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 0, a_7 = 12 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "-2",
+        "1",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (12 − (0)) / 6 = 2."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 0, d = 3 arifmetik progressiyaning nechanchi hadi 21 ga teng?",
+      "answer": "8",
+      "explain": "n = (21 − (0))/(3) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 0, d = 4. Uning a_9 hadini toping.",
+      "options": [
+        "32",
+        "36",
+        "28",
+        "31"
+      ],
+      "answer": 0,
+      "explain": "a_9 = 0 + (9 − 1)·(4) = 32."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 0, d = 5 bo'lsa, a_10 ni hisoblang.",
+      "answer": "45",
+      "explain": "a_10 = 0 + 9·(5) = 45."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 0, a_11 = 60 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "5",
+        "7",
+        "6",
+        "-6"
+      ],
+      "answer": 2,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (60 − (0)) / 10 = 6."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 0, d = 7 arifmetik progressiyaning nechanchi hadi 77 ga teng?",
+      "answer": "12",
+      "explain": "n = (77 − (0))/(7) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 0, d = 8. Uning a_13 hadini toping.",
+      "options": [
+        "95",
+        "96",
+        "88",
+        "104"
+      ],
+      "answer": 1,
+      "explain": "a_13 = 0 + (13 − 1)·(8) = 96."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = -4 bo'lsa, a_10 ni hisoblang.",
+      "answer": "-35",
+      "explain": "a_10 = 1 + 9·(-4) = -35."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 1, d = -3. Uning a_9 hadini toping.",
+      "options": [
+        "-26",
+        "-24",
+        "-20",
+        "-23"
+      ],
+      "answer": 3,
+      "explain": "a_9 = 1 + (9 − 1)·(-3) = -23."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, d = -2 arifmetik progressiyaning nechanchi hadi -13 ga teng?",
+      "answer": "8",
+      "explain": "n = (-13 − (1))/(-2) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, a_7 = -5 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "-2"
+      ],
+      "answer": 0,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (-5 − (1)) / 6 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, a_7 = 7 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "0",
+        "1",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (7 − (1)) / 6 = 1."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, d = 2 arifmetik progressiyaning nechanchi hadi 15 ga teng?",
+      "answer": "8",
+      "explain": "n = (15 − (1))/(2) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 3. Uning a_9 hadini toping.",
+      "options": [
+        "24",
+        "22",
+        "28",
+        "25"
+      ],
+      "answer": 3,
+      "explain": "a_9 = 1 + (9 − 1)·(3) = 25."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 4 bo'lsa, a_10 ni hisoblang.",
+      "answer": "37",
+      "explain": "a_10 = 1 + 9·(4) = 37."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 1, a_11 = 51 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "-5"
+      ],
+      "answer": 1,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (51 − (1)) / 10 = 5."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 1, d = 6 arifmetik progressiyaning nechanchi hadi 67 ga teng?",
+      "answer": "12",
+      "explain": "n = (67 − (1))/(6) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 7. Uning a_13 hadini toping.",
+      "options": [
+        "92",
+        "85",
+        "78",
+        "84"
+      ],
+      "answer": 1,
+      "explain": "a_13 = 1 + (13 − 1)·(7) = 85."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 1, d = 8 bo'lsa, a_14 ni hisoblang.",
+      "answer": "105",
+      "explain": "a_14 = 1 + 13·(8) = 105."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, a_11 = -38 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-5",
+        "4",
+        "-3",
+        "-4"
+      ],
+      "answer": 3,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (-38 − (2)) / 10 = -4."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = -3 bo'lsa, a_10 ni hisoblang.",
+      "answer": "-25",
+      "explain": "a_10 = 2 + 9·(-3) = -25."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, d = -2. Uning a_9 hadini toping.",
+      "options": [
+        "-16",
+        "-15",
+        "-14",
+        "-12"
+      ],
+      "answer": 2,
+      "explain": "a_9 = 2 + (9 − 1)·(-2) = -14."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, d = -1 arifmetik progressiyaning nechanchi hadi -5 ga teng?",
+      "answer": "8",
+      "explain": "n = (-5 − (2))/(-1) + 1 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, d = 1 arifmetik progressiyaning nechanchi hadi 9 ga teng?",
+      "answer": "8",
+      "explain": "n = (9 − (2))/(1) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 2. Uning a_9 hadini toping.",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "a_9 = 2 + (9 − 1)·(2) = 18."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 3 bo'lsa, a_10 ni hisoblang.",
+      "answer": "29",
+      "explain": "a_10 = 2 + 9·(3) = 29."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, a_11 = 42 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-4",
+        "3",
+        "5",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (42 − (2)) / 10 = 4."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 2, d = 5 arifmetik progressiyaning nechanchi hadi 57 ga teng?",
+      "answer": "12",
+      "explain": "n = (57 − (2))/(5) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 6. Uning a_13 hadini toping.",
+      "options": [
+        "68",
+        "80",
+        "73",
+        "74"
+      ],
+      "answer": 3,
+      "explain": "a_13 = 2 + (13 − 1)·(6) = 74."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 7 bo'lsa, a_14 ni hisoblang.",
+      "answer": "93",
+      "explain": "a_14 = 2 + 13·(7) = 93."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 2, a_15 = 114 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "8",
+        "-8",
+        "7",
+        "9"
+      ],
+      "answer": 0,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (114 − (2)) / 14 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, d = -4 arifmetik progressiyaning nechanchi hadi -41 ga teng?",
+      "answer": "12",
+      "explain": "n = (-41 − (3))/(-4) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, a_11 = -27 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-3",
+        "-2",
+        "3",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (-27 − (3)) / 10 = -3."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = -2 bo'lsa, a_10 ni hisoblang.",
+      "answer": "-15",
+      "explain": "a_10 = 3 + 9·(-2) = -15."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 3, d = -1. Uning a_9 hadini toping.",
+      "options": [
+        "-5",
+        "-3",
+        "-4",
+        "-6"
+      ],
+      "answer": 0,
+      "explain": "a_9 = 3 + (9 − 1)·(-1) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 1. Uning a_9 hadini toping.",
+      "options": [
+        "12",
+        "13",
+        "11",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "a_9 = 3 + (9 − 1)·(1) = 11."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 2 bo'lsa, a_10 ni hisoblang.",
+      "answer": "21",
+      "explain": "a_10 = 3 + 9·(2) = 21."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, a_11 = 33 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (33 − (3)) / 10 = 3."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, d = 4 arifmetik progressiyaning nechanchi hadi 47 ga teng?",
+      "answer": "12",
+      "explain": "n = (47 − (3))/(4) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 5. Uning a_13 hadini toping.",
+      "options": [
+        "62",
+        "63",
+        "68",
+        "58"
+      ],
+      "answer": 1,
+      "explain": "a_13 = 3 + (13 − 1)·(5) = 63."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 3, d = 6 bo'lsa, a_14 ni hisoblang.",
+      "answer": "81",
+      "explain": "a_14 = 3 + 13·(6) = 81."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 3, a_15 = 101 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "8",
+        "-7",
+        "6",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (101 − (3)) / 14 = 7."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 3, d = 8 arifmetik progressiyaning nechanchi hadi 123 ga teng?",
+      "answer": "16",
+      "explain": "n = (123 − (3))/(8) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, d = -4. Uning a_13 hadini toping.",
+      "options": [
+        "-45",
+        "-48",
+        "-40",
+        "-44"
+      ],
+      "answer": 3,
+      "explain": "a_13 = 4 + (13 − 1)·(-4) = -44."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 4, d = -3 arifmetik progressiyaning nechanchi hadi -29 ga teng?",
+      "answer": "12",
+      "explain": "n = (-29 − (4))/(-3) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, a_11 = -16 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "-3",
+        "-1",
+        "-2"
+      ],
+      "answer": 3,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (-16 − (4)) / 10 = -2."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = -1 bo'lsa, a_10 ni hisoblang.",
+      "answer": "-5",
+      "explain": "a_10 = 4 + 9·(-1) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 1 bo'lsa, a_10 ni hisoblang.",
+      "answer": "13",
+      "explain": "a_10 = 4 + 9·(1) = 13."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, a_11 = 24 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "1",
+        "-2",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (24 − (4)) / 10 = 2."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 4, d = 3 arifmetik progressiyaning nechanchi hadi 37 ga teng?",
+      "answer": "12",
+      "explain": "n = (37 − (4))/(3) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 4. Uning a_13 hadini toping.",
+      "options": [
+        "51",
+        "52",
+        "48",
+        "56"
+      ],
+      "answer": 1,
+      "explain": "a_13 = 4 + (13 − 1)·(4) = 52."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 5 bo'lsa, a_14 ni hisoblang.",
+      "answer": "69",
+      "explain": "a_14 = 4 + 13·(5) = 69."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 4, a_15 = 88 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-6",
+        "7",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (88 − (4)) / 14 = 6."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 4, d = 7 arifmetik progressiyaning nechanchi hadi 109 ga teng?",
+      "answer": "16",
+      "explain": "n = (109 − (4))/(7) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 8. Uning a_5 hadini toping.",
+      "options": [
+        "35",
+        "44",
+        "28",
+        "36"
+      ],
+      "answer": 3,
+      "explain": "a_5 = 4 + (5 − 1)·(8) = 36."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = -4 bo'lsa, a_14 ni hisoblang.",
+      "answer": "-47",
+      "explain": "a_14 = 5 + 13·(-4) = -47."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 5, d = -3. Uning a_13 hadini toping.",
+      "options": [
+        "-28",
+        "-34",
+        "-31",
+        "-32"
+      ],
+      "answer": 2,
+      "explain": "a_13 = 5 + (13 − 1)·(-3) = -31."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 5, d = -2 arifmetik progressiyaning nechanchi hadi -17 ga teng?",
+      "answer": "12",
+      "explain": "n = (-17 − (5))/(-2) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, a_11 = -5 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "0",
+        "-1",
+        "-2",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (-5 − (5)) / 10 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, a_11 = 15 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-1",
+        "1",
+        "0",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (15 − (5)) / 10 = 1."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 5, d = 2 arifmetik progressiyaning nechanchi hadi 27 ga teng?",
+      "answer": "12",
+      "explain": "n = (27 − (5))/(2) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 3. Uning a_13 hadini toping.",
+      "options": [
+        "40",
+        "38",
+        "44",
+        "41"
+      ],
+      "answer": 3,
+      "explain": "a_13 = 5 + (13 − 1)·(3) = 41."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 4 bo'lsa, a_14 ni hisoblang.",
+      "answer": "57",
+      "explain": "a_14 = 5 + 13·(4) = 57."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 5, a_15 = 75 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "-5"
+      ],
+      "answer": 0,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (75 − (5)) / 14 = 5."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 5, d = 6 arifmetik progressiyaning nechanchi hadi 95 ga teng?",
+      "answer": "16",
+      "explain": "n = (95 − (5))/(6) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 7. Uning a_5 hadini toping.",
+      "options": [
+        "33",
+        "40",
+        "26",
+        "32"
+      ],
+      "answer": 0,
+      "explain": "a_5 = 5 + (5 − 1)·(7) = 33."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 5, d = 8 bo'lsa, a_6 ni hisoblang.",
+      "answer": "45",
+      "explain": "a_6 = 5 + 5·(8) = 45."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, a_15 = -50 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "4",
+        "-4",
+        "-5",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (-50 − (6)) / 14 = -4."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 6, d = -3 bo'lsa, a_14 ni hisoblang.",
+      "answer": "-33",
+      "explain": "a_14 = 6 + 13·(-3) = -33."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, d = -2. Uning a_13 hadini toping.",
+      "options": [
+        "-18",
+        "-16",
+        "-19",
+        "-20"
+      ],
+      "answer": 0,
+      "explain": "a_13 = 6 + (13 − 1)·(-2) = -18."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 6, d = -1 arifmetik progressiyaning nechanchi hadi -5 ga teng?",
+      "answer": "12",
+      "explain": "n = (-5 − (6))/(-1) + 1 = 12."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 6, d = 1 arifmetik progressiyaning nechanchi hadi 17 ga teng?",
+      "answer": "12",
+      "explain": "n = (17 − (6))/(1) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 2. Uning a_13 hadini toping.",
+      "options": [
+        "29",
+        "28",
+        "30",
+        "32"
+      ],
+      "answer": 2,
+      "explain": "a_13 = 6 + (13 − 1)·(2) = 30."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 3 bo'lsa, a_14 ni hisoblang.",
+      "answer": "45",
+      "explain": "a_14 = 6 + 13·(3) = 45."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, a_15 = 62 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-4",
+        "5",
+        "3",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (62 − (6)) / 14 = 4."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 6, d = 5 arifmetik progressiyaning nechanchi hadi 81 ga teng?",
+      "answer": "16",
+      "explain": "n = (81 − (6))/(5) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 6. Uning a_5 hadini toping.",
+      "options": [
+        "29",
+        "30",
+        "36",
+        "24"
+      ],
+      "answer": 1,
+      "explain": "a_5 = 6 + (5 − 1)·(6) = 30."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 7 bo'lsa, a_6 ni hisoblang.",
+      "answer": "41",
+      "explain": "a_6 = 6 + 5·(7) = 41."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 6, a_7 = 54 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "9",
+        "-8",
+        "8",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (54 − (6)) / 6 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 7, d = -4 arifmetik progressiyaning nechanchi hadi -53 ga teng?",
+      "answer": "16",
+      "explain": "n = (-53 − (7))/(-4) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 7, a_15 = -35 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-3",
+        "-4",
+        "-2",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (-35 − (7)) / 14 = -3."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 7, d = -2 bo'lsa, a_14 ni hisoblang.",
+      "answer": "-19",
+      "explain": "a_14 = 7 + 13·(-2) = -19."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 7, d = -1. Uning a_13 hadini toping.",
+      "options": [
+        "-6",
+        "-5",
+        "-4",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "a_13 = 7 + (13 − 1)·(-1) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 7, d = 1. Uning a_13 hadini toping.",
+      "options": [
+        "21",
+        "20",
+        "18",
+        "19"
+      ],
+      "answer": 3,
+      "explain": "a_13 = 7 + (13 − 1)·(1) = 19."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 7, d = 2 bo'lsa, a_14 ni hisoblang.",
+      "answer": "33",
+      "explain": "a_14 = 7 + 13·(2) = 33."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 7, a_15 = 49 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "3",
+        "-3",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (49 − (7)) / 14 = 3."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 7, d = 4 arifmetik progressiyaning nechanchi hadi 67 ga teng?",
+      "answer": "16",
+      "explain": "n = (67 − (7))/(4) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 7, d = 5. Uning a_5 hadini toping.",
+      "options": [
+        "22",
+        "27",
+        "32",
+        "26"
+      ],
+      "answer": 1,
+      "explain": "a_5 = 7 + (5 − 1)·(5) = 27."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 7, d = 6 bo'lsa, a_6 ni hisoblang.",
+      "answer": "37",
+      "explain": "a_6 = 7 + 5·(6) = 37."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 7, a_7 = 49 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "6",
+        "8",
+        "7",
+        "-7"
+      ],
+      "answer": 2,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (49 − (7)) / 6 = 7."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 7, d = 8 arifmetik progressiyaning nechanchi hadi 63 ga teng?",
+      "answer": "8",
+      "explain": "n = (63 − (7))/(8) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, d = -4. Uning a_5 hadini toping.",
+      "options": [
+        "-12",
+        "-4",
+        "-8",
+        "-9"
+      ],
+      "answer": 2,
+      "explain": "a_5 = 8 + (5 − 1)·(-4) = -8."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 8, d = -3 arifmetik progressiyaning nechanchi hadi -37 ga teng?",
+      "answer": "16",
+      "explain": "n = (-37 − (8))/(-3) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 8, a_15 = -20 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-2",
+        "2",
+        "-1",
+        "-3"
+      ],
+      "answer": 0,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (-20 − (8)) / 14 = -2."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 8, d = -1 bo'lsa, a_14 ni hisoblang.",
+      "answer": "-5",
+      "explain": "a_14 = 8 + 13·(-1) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 8, d = 1 bo'lsa, a_14 ni hisoblang.",
+      "answer": "21",
+      "explain": "a_14 = 8 + 13·(1) = 21."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 8, a_15 = 36 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "3",
+        "2",
+        "-2",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (36 − (8)) / 14 = 2."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 8, d = 3 arifmetik progressiyaning nechanchi hadi 53 ga teng?",
+      "answer": "16",
+      "explain": "n = (53 − (8))/(3) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, d = 4. Uning a_5 hadini toping.",
+      "options": [
+        "23",
+        "24",
+        "28",
+        "20"
+      ],
+      "answer": 1,
+      "explain": "a_5 = 8 + (5 − 1)·(4) = 24."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 8, d = 5 bo'lsa, a_6 ni hisoblang.",
+      "answer": "33",
+      "explain": "a_6 = 8 + 5·(5) = 33."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 8, a_7 = 44 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "6",
+        "7",
+        "5",
+        "-6"
+      ],
+      "answer": 0,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (44 − (8)) / 6 = 6."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 8, d = 7 arifmetik progressiyaning nechanchi hadi 57 ga teng?",
+      "answer": "8",
+      "explain": "n = (57 − (8))/(7) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, d = 8. Uning a_9 hadini toping.",
+      "options": [
+        "71",
+        "64",
+        "72",
+        "80"
+      ],
+      "answer": 2,
+      "explain": "a_9 = 8 + (9 − 1)·(8) = 72."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 9, d = -4 bo'lsa, a_6 ni hisoblang.",
+      "answer": "-11",
+      "explain": "a_6 = 9 + 5·(-4) = -11."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 9, d = -3. Uning a_5 hadini toping.",
+      "options": [
+        "-3",
+        "-6",
+        "0",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "a_5 = 9 + (5 − 1)·(-3) = -3."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 9, d = -2 arifmetik progressiyaning nechanchi hadi -21 ga teng?",
+      "answer": "16",
+      "explain": "n = (-21 − (9))/(-2) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 9, a_15 = -5 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "0",
+        "-1",
+        "-2",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (-5 − (9)) / 14 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 9, a_15 = 23 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "-1"
+      ],
+      "answer": 0,
+      "explain": "d = (a_15 − a₁) / (15 − 1) = (23 − (9)) / 14 = 1."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 9, d = 2 arifmetik progressiyaning nechanchi hadi 39 ga teng?",
+      "answer": "16",
+      "explain": "n = (39 − (9))/(2) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 9, d = 3. Uning a_5 hadini toping.",
+      "options": [
+        "24",
+        "20",
+        "18",
+        "21"
+      ],
+      "answer": 3,
+      "explain": "a_5 = 9 + (5 − 1)·(3) = 21."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 9, d = 4 bo'lsa, a_6 ni hisoblang.",
+      "answer": "29",
+      "explain": "a_6 = 9 + 5·(4) = 29."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 9, a_7 = 39 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "6",
+        "4",
+        "5",
+        "-5"
+      ],
+      "answer": 2,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (39 − (9)) / 6 = 5."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 9, d = 6 arifmetik progressiyaning nechanchi hadi 51 ga teng?",
+      "answer": "8",
+      "explain": "n = (51 − (9))/(6) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 9, d = 7. Uning a_9 hadini toping.",
+      "options": [
+        "65",
+        "58",
+        "72",
+        "64"
+      ],
+      "answer": 0,
+      "explain": "a_9 = 9 + (9 − 1)·(7) = 65."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 9, d = 8 bo'lsa, a_10 ni hisoblang.",
+      "answer": "81",
+      "explain": "a_10 = 9 + 9·(8) = 81."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 10, a_7 = -14 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "4",
+        "-4",
+        "-5",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (-14 − (10)) / 6 = -4."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 10, d = -3 bo'lsa, a_6 ni hisoblang.",
+      "answer": "-5",
+      "explain": "a_6 = 10 + 5·(-3) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, d = -2. Uning a_5 hadini toping.",
+      "options": [
+        "4",
+        "2",
+        "0",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "a_5 = 10 + (5 − 1)·(-2) = 2."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 10, d = -1 arifmetik progressiyaning nechanchi hadi -5 ga teng?",
+      "answer": "16",
+      "explain": "n = (-5 − (10))/(-1) + 1 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 10, d = 1 arifmetik progressiyaning nechanchi hadi 25 ga teng?",
+      "answer": "16",
+      "explain": "n = (25 − (10))/(1) + 1 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, d = 2. Uning a_5 hadini toping.",
+      "options": [
+        "17",
+        "18",
+        "16",
+        "20"
+      ],
+      "answer": 1,
+      "explain": "a_5 = 10 + (5 − 1)·(2) = 18."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 10, d = 3 bo'lsa, a_6 ni hisoblang.",
+      "answer": "25",
+      "explain": "a_6 = 10 + 5·(3) = 25."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 10, a_7 = 34 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "3",
+        "4",
+        "-4",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (34 − (10)) / 6 = 4."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 10, d = 5 arifmetik progressiyaning nechanchi hadi 45 ga teng?",
+      "answer": "8",
+      "explain": "n = (45 − (10))/(5) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, d = 6. Uning a_9 hadini toping.",
+      "options": [
+        "58",
+        "64",
+        "57",
+        "52"
+      ],
+      "answer": 0,
+      "explain": "a_9 = 10 + (9 − 1)·(6) = 58."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 10, d = 7 bo'lsa, a_10 ni hisoblang.",
+      "answer": "73",
+      "explain": "a_10 = 10 + 9·(7) = 73."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 10, a_11 = 90 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-8",
+        "8",
+        "9",
+        "7"
+      ],
+      "answer": 1,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (90 − (10)) / 10 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 11, d = -4 arifmetik progressiyaning nechanchi hadi -17 ga teng?",
+      "answer": "8",
+      "explain": "n = (-17 − (11))/(-4) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 11, a_7 = -7 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "-2",
+        "-4",
+        "-3",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (-7 − (11)) / 6 = -3."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 11, d = -2 bo'lsa, a_6 ni hisoblang.",
+      "answer": "1",
+      "explain": "a_6 = 11 + 5·(-2) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 11, d = -1. Uning a_5 hadini toping.",
+      "options": [
+        "9",
+        "7",
+        "8",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "a_5 = 11 + (5 − 1)·(-1) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 11, d = 1. Uning a_5 hadini toping.",
+      "options": [
+        "16",
+        "15",
+        "17",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "a_5 = 11 + (5 − 1)·(1) = 15."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 11, d = 2 bo'lsa, a_6 ni hisoblang.",
+      "answer": "21",
+      "explain": "a_6 = 11 + 5·(2) = 21."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 11, a_7 = 29 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "d = (a_7 − a₁) / (7 − 1) = (29 − (11)) / 6 = 3."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 11, d = 4 arifmetik progressiyaning nechanchi hadi 39 ga teng?",
+      "answer": "8",
+      "explain": "n = (39 − (11))/(4) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 11, d = 5. Uning a_9 hadini toping.",
+      "options": [
+        "51",
+        "56",
+        "50",
+        "46"
+      ],
+      "answer": 0,
+      "explain": "a_9 = 11 + (9 − 1)·(5) = 51."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₁ = 11, d = 6 bo'lsa, a_10 ni hisoblang.",
+      "answer": "65",
+      "explain": "a_10 = 11 + 9·(6) = 65."
+    },
+    {
+      "type": "choice",
+      "q": "a₁ = 11, a_11 = 81 bo'lgan arifmetik progressiyaning ayirmasi d ni toping.",
+      "options": [
+        "7",
+        "-7",
+        "8",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "d = (a_11 − a₁) / (11 − 1) = (81 − (11)) / 10 = 7."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 11, d = 8 arifmetik progressiyaning nechanchi hadi 99 ga teng?",
+      "answer": "12",
+      "explain": "n = (99 − (11))/(8) + 1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 12, d = -4. Uning a_9 hadini toping.",
+      "options": [
+        "-24",
+        "-21",
+        "-16",
+        "-20"
+      ],
+      "answer": 3,
+      "explain": "a_9 = 12 + (9 − 1)·(-4) = -20."
+    },
+    {
+      "type": "fill",
+      "q": "a₁ = 12, d = -3 arifmetik progressiyaning nechanchi hadi -9 ga teng?",
+      "answer": "8",
+      "explain": "n = (-9 − (12))/(-3) + 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "-6; y; -2 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "-3",
+        "4",
+        "-4",
+        "-5"
+      ],
+      "answer": 2,
+      "explain": "y = (-6 + -2) / 2 = -4."
+    },
+    {
+      "type": "choice",
+      "q": "-6; y; 0 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "-4",
+        "-3",
+        "6",
+        "-2"
+      ],
+      "answer": 1,
+      "explain": "y = (-6 + 0) / 2 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "-6; y; 2 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "-3",
+        "-1",
+        "8",
+        "-2"
+      ],
+      "answer": 3,
+      "explain": "y = (-6 + 2) / 2 = -2."
+    },
+    {
+      "type": "choice",
+      "q": "-6; y; 4 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "-2",
+        "-1",
+        "0",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "y = (-6 + 4) / 2 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "-6; y; 6 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "12",
+        "1",
+        "0",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "y = (-6 + 6) / 2 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "-6; y; 8 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "1",
+        "14",
+        "2",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "y = (-6 + 8) / 2 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "-5; y; -1 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "-3",
+        "-2",
+        "4",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "y = (-5 + -1) / 2 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "-5; y; 1 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "-3",
+        "-2",
+        "-1",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "y = (-5 + 1) / 2 = -2."
+    },
+    {
+      "type": "choice",
+      "q": "-5; y; 3 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "-1",
+        "-2",
+        "8",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "y = (-5 + 3) / 2 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "-5; y; 5 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "10",
+        "0",
+        "1",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "y = (-5 + 5) / 2 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "-5; y; 7 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "2",
+        "1",
+        "0",
+        "12"
+      ],
+      "answer": 1,
+      "explain": "y = (-5 + 7) / 2 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "-5; y; 9 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "y = (-5 + 9) / 2 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "-4; y; 0 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "-2",
+        "-3",
+        "4",
+        "-1"
+      ],
+      "answer": 0,
+      "explain": "y = (-4 + 0) / 2 = -2."
+    },
+    {
+      "type": "choice",
+      "q": "-4; y; 2 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "0",
+        "-2",
+        "6",
+        "-1"
+      ],
+      "answer": 3,
+      "explain": "y = (-4 + 2) / 2 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "-4; y; 4 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "1",
+        "-1",
+        "8",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "y = (-4 + 4) / 2 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "-4; y; 6 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "10",
+        "2",
+        "0",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "y = (-4 + 6) / 2 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "-4; y; 8 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "12",
+        "2",
+        "3",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "y = (-4 + 8) / 2 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "-4; y; 10 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "4",
+        "14",
+        "2",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "y = (-4 + 10) / 2 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "-3; y; 1 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "-2",
+        "4",
+        "0",
+        "-1"
+      ],
+      "answer": 3,
+      "explain": "y = (-3 + 1) / 2 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "-3; y; 3 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "1",
+        "6",
+        "0",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "y = (-3 + 3) / 2 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "-3; y; 5 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "8",
+        "1",
+        "0",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "y = (-3 + 5) / 2 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "-3; y; 7 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "10",
+        "2",
+        "3",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "y = (-3 + 7) / 2 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "-3; y; 9 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "2",
+        "12",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "y = (-3 + 9) / 2 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "-3; y; 11 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "3",
+        "14",
+        "5",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "y = (-3 + 11) / 2 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "-2; y; 2 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "1",
+        "0",
+        "4",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "y = (-2 + 2) / 2 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "-2; y; 4 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "6",
+        "2",
+        "0",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "y = (-2 + 4) / 2 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "-2; y; 6 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "8",
+        "3",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "y = (-2 + 6) / 2 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "-2; y; 8 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "10",
+        "3",
+        "4",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "y = (-2 + 8) / 2 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "-2; y; 10 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "12"
+      ],
+      "answer": 2,
+      "explain": "y = (-2 + 10) / 2 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "-2; y; 12 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "5",
+        "14",
+        "4",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "y = (-2 + 12) / 2 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "-1; y; 3 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "2",
+        "0",
+        "4",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "y = (-1 + 3) / 2 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "-1; y; 5 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "2",
+        "1",
+        "3",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "y = (-1 + 5) / 2 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "-1; y; 7 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "y = (-1 + 7) / 2 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "-1; y; 9 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "3",
+        "4",
+        "10",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "y = (-1 + 9) / 2 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "-1; y; 11 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "12",
+        "5",
+        "6",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "y = (-1 + 11) / 2 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "-1; y; 13 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "14",
+        "5",
+        "6",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "y = (-1 + 13) / 2 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "0; y; 4 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "4",
+        "2",
+        "1",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "y = (0 + 4) / 2 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "0; y; 6 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "3",
+        "6",
+        "4",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "y = (0 + 6) / 2 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "0; y; 8 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "8",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "y = (0 + 8) / 2 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "0; y; 10 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "6",
+        "4",
+        "10",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "y = (0 + 10) / 2 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "0; y; 12 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "12",
+        "5",
+        "7",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "y = (0 + 12) / 2 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "0; y; 14 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "7",
+        "14",
+        "6",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "y = (0 + 14) / 2 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "1; y; 5 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "2",
+        "5",
+        "3",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "y = (1 + 5) / 2 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "1; y; 7 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "5",
+        "4",
+        "6",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "y = (1 + 7) / 2 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "1; y; 9 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "6",
+        "4",
+        "5",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "y = (1 + 9) / 2 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "1; y; 11 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "7",
+        "5",
+        "6",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "y = (1 + 11) / 2 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "1; y; 13 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "12",
+        "6",
+        "8",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "y = (1 + 13) / 2 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "1; y; 15 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "7",
+        "9",
+        "8",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "y = (1 + 15) / 2 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "2; y; 6 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "y = (2 + 6) / 2 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "2; y; 8 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "7",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 2,
+      "explain": "y = (2 + 8) / 2 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "2; y; 10 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "8",
+        "6",
+        "7",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "y = (2 + 10) / 2 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "2; y; 12 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "8",
+        "10",
+        "6",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "y = (2 + 12) / 2 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "2; y; 14 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "7",
+        "8",
+        "12",
+        "9"
+      ],
+      "answer": 1,
+      "explain": "y = (2 + 14) / 2 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "2; y; 16 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "14",
+        "9",
+        "8",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "y = (2 + 16) / 2 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "3; y; 7 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "y = (3 + 7) / 2 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "3; y; 9 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "8",
+        "7",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "y = (3 + 9) / 2 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "3; y; 11 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "y = (3 + 11) / 2 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "3; y; 13 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "7",
+        "10",
+        "8",
+        "9"
+      ],
+      "answer": 2,
+      "explain": "y = (3 + 13) / 2 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "3; y; 15 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "10",
+        "9",
+        "12",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "y = (3 + 15) / 2 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "3; y; 17 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "14",
+        "11",
+        "9",
+        "10"
+      ],
+      "answer": 3,
+      "explain": "y = (3 + 17) / 2 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "4; y; 8 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "6",
+        "4",
+        "7",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "y = (4 + 8) / 2 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "4; y; 10 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "7",
+        "9",
+        "8",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "y = (4 + 10) / 2 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "4; y; 12 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "7",
+        "9",
+        "10",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "y = (4 + 12) / 2 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "4; y; 14 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "9",
+        "11",
+        "10",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "y = (4 + 14) / 2 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "4; y; 16 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "12",
+        "10",
+        "9",
+        "11"
+      ],
+      "answer": 1,
+      "explain": "y = (4 + 16) / 2 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "4; y; 18 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "11",
+        "14",
+        "12",
+        "10"
+      ],
+      "answer": 0,
+      "explain": "y = (4 + 18) / 2 = 11."
+    },
+    {
+      "type": "choice",
+      "q": "5; y; 9 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "7",
+        "6",
+        "4",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "y = (5 + 9) / 2 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "5; y; 11 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "7",
+        "9",
+        "8",
+        "6"
+      ],
+      "answer": 2,
+      "explain": "y = (5 + 11) / 2 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "5; y; 13 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "10",
+        "9",
+        "8",
+        "11"
+      ],
+      "answer": 1,
+      "explain": "y = (5 + 13) / 2 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "5; y; 15 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "12",
+        "9",
+        "10",
+        "11"
+      ],
+      "answer": 2,
+      "explain": "y = (5 + 15) / 2 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "5; y; 17 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "13",
+        "10",
+        "11",
+        "12"
+      ],
+      "answer": 2,
+      "explain": "y = (5 + 17) / 2 = 11."
+    },
+    {
+      "type": "choice",
+      "q": "5; y; 19 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "12",
+        "14",
+        "13",
+        "11"
+      ],
+      "answer": 0,
+      "explain": "y = (5 + 19) / 2 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "6; y; 10 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "9",
+        "7",
+        "8",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "y = (6 + 10) / 2 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "6; y; 12 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "8",
+        "9",
+        "6",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "y = (6 + 12) / 2 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "6; y; 14 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "10",
+        "9",
+        "11",
+        "8"
+      ],
+      "answer": 0,
+      "explain": "y = (6 + 14) / 2 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "6; y; 16 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "11",
+        "10",
+        "13",
+        "12"
+      ],
+      "answer": 0,
+      "explain": "y = (6 + 16) / 2 = 11."
+    },
+    {
+      "type": "choice",
+      "q": "6; y; 18 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "11",
+        "13",
+        "12",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "y = (6 + 18) / 2 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "6; y; 20 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "14",
+        "12",
+        "13",
+        "15"
+      ],
+      "answer": 2,
+      "explain": "y = (6 + 20) / 2 = 13."
+    },
+    {
+      "type": "choice",
+      "q": "7; y; 11 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "4",
+        "9",
+        "8",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "y = (7 + 11) / 2 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "7; y; 13 sonlari arifmetik progressiyaning ketma-ket hadlari bo'lsa, y ni toping.",
+      "options": [
+        "10",
+        "6",
+        "9",
+        "11"
+      ],
+      "answer": 0,
+      "explain": "y = (7 + 13) / 2 = 10."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 5, a₇ = 13. Uning a₅ hadini toping.",
+      "answer": "9",
+      "explain": "a₅ = (a₃ + a₇)/2 = (5 + 13)/2 = 9."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 7, a₇ = 19. Uning a₅ hadini toping.",
+      "answer": "13",
+      "explain": "a₅ = (a₃ + a₇)/2 = (7 + 19)/2 = 13."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 9, a₇ = 25. Uning a₅ hadini toping.",
+      "answer": "17",
+      "explain": "a₅ = (a₃ + a₇)/2 = (9 + 25)/2 = 17."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 11, a₇ = 31. Uning a₅ hadini toping.",
+      "answer": "21",
+      "explain": "a₅ = (a₃ + a₇)/2 = (11 + 31)/2 = 21."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 13, a₇ = 37. Uning a₅ hadini toping.",
+      "answer": "25",
+      "explain": "a₅ = (a₃ + a₇)/2 = (13 + 37)/2 = 25."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 6, a₇ = 14. Uning a₅ hadini toping.",
+      "answer": "10",
+      "explain": "a₅ = (a₃ + a₇)/2 = (6 + 14)/2 = 10."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 8, a₇ = 20. Uning a₅ hadini toping.",
+      "answer": "14",
+      "explain": "a₅ = (a₃ + a₇)/2 = (8 + 20)/2 = 14."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 10, a₇ = 26. Uning a₅ hadini toping.",
+      "answer": "18",
+      "explain": "a₅ = (a₃ + a₇)/2 = (10 + 26)/2 = 18."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 12, a₇ = 32. Uning a₅ hadini toping.",
+      "answer": "22",
+      "explain": "a₅ = (a₃ + a₇)/2 = (12 + 32)/2 = 22."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 14, a₇ = 38. Uning a₅ hadini toping.",
+      "answer": "26",
+      "explain": "a₅ = (a₃ + a₇)/2 = (14 + 38)/2 = 26."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 7, a₇ = 15. Uning a₅ hadini toping.",
+      "answer": "11",
+      "explain": "a₅ = (a₃ + a₇)/2 = (7 + 15)/2 = 11."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 9, a₇ = 21. Uning a₅ hadini toping.",
+      "answer": "15",
+      "explain": "a₅ = (a₃ + a₇)/2 = (9 + 21)/2 = 15."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 11, a₇ = 27. Uning a₅ hadini toping.",
+      "answer": "19",
+      "explain": "a₅ = (a₃ + a₇)/2 = (11 + 27)/2 = 19."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 13, a₇ = 33. Uning a₅ hadini toping.",
+      "answer": "23",
+      "explain": "a₅ = (a₃ + a₇)/2 = (13 + 33)/2 = 23."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 15, a₇ = 39. Uning a₅ hadini toping.",
+      "answer": "27",
+      "explain": "a₅ = (a₃ + a₇)/2 = (15 + 39)/2 = 27."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 8, a₇ = 16. Uning a₅ hadini toping.",
+      "answer": "12",
+      "explain": "a₅ = (a₃ + a₇)/2 = (8 + 16)/2 = 12."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 10, a₇ = 22. Uning a₅ hadini toping.",
+      "answer": "16",
+      "explain": "a₅ = (a₃ + a₇)/2 = (10 + 22)/2 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 12, a₇ = 28. Uning a₅ hadini toping.",
+      "answer": "20",
+      "explain": "a₅ = (a₃ + a₇)/2 = (12 + 28)/2 = 20."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 14, a₇ = 34. Uning a₅ hadini toping.",
+      "answer": "24",
+      "explain": "a₅ = (a₃ + a₇)/2 = (14 + 34)/2 = 24."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 16, a₇ = 40. Uning a₅ hadini toping.",
+      "answer": "28",
+      "explain": "a₅ = (a₃ + a₇)/2 = (16 + 40)/2 = 28."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 9, a₇ = 17. Uning a₅ hadini toping.",
+      "answer": "13",
+      "explain": "a₅ = (a₃ + a₇)/2 = (9 + 17)/2 = 13."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 11, a₇ = 23. Uning a₅ hadini toping.",
+      "answer": "17",
+      "explain": "a₅ = (a₃ + a₇)/2 = (11 + 23)/2 = 17."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 13, a₇ = 29. Uning a₅ hadini toping.",
+      "answer": "21",
+      "explain": "a₅ = (a₃ + a₇)/2 = (13 + 29)/2 = 21."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 15, a₇ = 35. Uning a₅ hadini toping.",
+      "answer": "25",
+      "explain": "a₅ = (a₃ + a₇)/2 = (15 + 35)/2 = 25."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 17, a₇ = 41. Uning a₅ hadini toping.",
+      "answer": "29",
+      "explain": "a₅ = (a₃ + a₇)/2 = (17 + 41)/2 = 29."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 10, a₇ = 18. Uning a₅ hadini toping.",
+      "answer": "14",
+      "explain": "a₅ = (a₃ + a₇)/2 = (10 + 18)/2 = 14."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 12, a₇ = 24. Uning a₅ hadini toping.",
+      "answer": "18",
+      "explain": "a₅ = (a₃ + a₇)/2 = (12 + 24)/2 = 18."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 14, a₇ = 30. Uning a₅ hadini toping.",
+      "answer": "22",
+      "explain": "a₅ = (a₃ + a₇)/2 = (14 + 30)/2 = 22."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 16, a₇ = 36. Uning a₅ hadini toping.",
+      "answer": "26",
+      "explain": "a₅ = (a₃ + a₇)/2 = (16 + 36)/2 = 26."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 18, a₇ = 42. Uning a₅ hadini toping.",
+      "answer": "30",
+      "explain": "a₅ = (a₃ + a₇)/2 = (18 + 42)/2 = 30."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 11, a₇ = 19. Uning a₅ hadini toping.",
+      "answer": "15",
+      "explain": "a₅ = (a₃ + a₇)/2 = (11 + 19)/2 = 15."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 13, a₇ = 25. Uning a₅ hadini toping.",
+      "answer": "19",
+      "explain": "a₅ = (a₃ + a₇)/2 = (13 + 25)/2 = 19."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 15, a₇ = 31. Uning a₅ hadini toping.",
+      "answer": "23",
+      "explain": "a₅ = (a₃ + a₇)/2 = (15 + 31)/2 = 23."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 17, a₇ = 37. Uning a₅ hadini toping.",
+      "answer": "27",
+      "explain": "a₅ = (a₃ + a₇)/2 = (17 + 37)/2 = 27."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 19, a₇ = 43. Uning a₅ hadini toping.",
+      "answer": "31",
+      "explain": "a₅ = (a₃ + a₇)/2 = (19 + 43)/2 = 31."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 12, a₇ = 20. Uning a₅ hadini toping.",
+      "answer": "16",
+      "explain": "a₅ = (a₃ + a₇)/2 = (12 + 20)/2 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 14, a₇ = 26. Uning a₅ hadini toping.",
+      "answer": "20",
+      "explain": "a₅ = (a₃ + a₇)/2 = (14 + 26)/2 = 20."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 16, a₇ = 32. Uning a₅ hadini toping.",
+      "answer": "24",
+      "explain": "a₅ = (a₃ + a₇)/2 = (16 + 32)/2 = 24."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 18, a₇ = 38. Uning a₅ hadini toping.",
+      "answer": "28",
+      "explain": "a₅ = (a₃ + a₇)/2 = (18 + 38)/2 = 28."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 20, a₇ = 44. Uning a₅ hadini toping.",
+      "answer": "32",
+      "explain": "a₅ = (a₃ + a₇)/2 = (20 + 44)/2 = 32."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 13, a₇ = 21. Uning a₅ hadini toping.",
+      "answer": "17",
+      "explain": "a₅ = (a₃ + a₇)/2 = (13 + 21)/2 = 17."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 15, a₇ = 27. Uning a₅ hadini toping.",
+      "answer": "21",
+      "explain": "a₅ = (a₃ + a₇)/2 = (15 + 27)/2 = 21."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 17, a₇ = 33. Uning a₅ hadini toping.",
+      "answer": "25",
+      "explain": "a₅ = (a₃ + a₇)/2 = (17 + 33)/2 = 25."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 19, a₇ = 39. Uning a₅ hadini toping.",
+      "answer": "29",
+      "explain": "a₅ = (a₃ + a₇)/2 = (19 + 39)/2 = 29."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 21, a₇ = 45. Uning a₅ hadini toping.",
+      "answer": "33",
+      "explain": "a₅ = (a₃ + a₇)/2 = (21 + 45)/2 = 33."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 14, a₇ = 22. Uning a₅ hadini toping.",
+      "answer": "18",
+      "explain": "a₅ = (a₃ + a₇)/2 = (14 + 22)/2 = 18."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 16, a₇ = 28. Uning a₅ hadini toping.",
+      "answer": "22",
+      "explain": "a₅ = (a₃ + a₇)/2 = (16 + 28)/2 = 22."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 18, a₇ = 34. Uning a₅ hadini toping.",
+      "answer": "26",
+      "explain": "a₅ = (a₃ + a₇)/2 = (18 + 34)/2 = 26."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 20, a₇ = 40. Uning a₅ hadini toping.",
+      "answer": "30",
+      "explain": "a₅ = (a₃ + a₇)/2 = (20 + 40)/2 = 30."
+    },
+    {
+      "type": "fill",
+      "q": "Arifmetik progressiyada a₃ = 22, a₇ = 46. Uning a₅ hadini toping.",
+      "answer": "34",
+      "explain": "a₅ = (a₃ + a₇)/2 = (22 + 46)/2 = 34."
+    }
+  ],
+  "cards": [
+    [
+      "Progressiya",
+      "Ma'lum qonuniyat bilan o'zgaruvchi sonlar ketma-ketligi"
+    ],
+    [
+      "Arifmetik",
+      "Har bir had oldingisiga o'zgarmas d qo'shishdan hosil"
+    ],
+    [
+      "Ayirma",
+      "Qo'shni hadlar farqi d = aₙ₊₁ − aₙ"
+    ],
+    [
+      "Umumiy",
+      "aₙ = a₁ + (n − 1)d formulasi"
+    ],
+    [
+      "O'suvchi",
+      "Ayirmasi d > 0 bo'lgan arifmetik progressiya"
+    ],
+    [
+      "Kamayuvchi",
+      "Ayirmasi d < 0 bo'lgan arifmetik progressiya"
+    ],
+    [
+      "O'rtacha",
+      "Har bir had qo'shnilarining o'rta arifmetigi"
+    ],
+    [
+      "Xarakteristik",
+      "aₙ = (aₙ₋₁ + aₙ₊₁) / 2 xossasi"
+    ],
+    [
+      "Indeks",
+      "Hadlar yig'indisi m + k = p + r da a_m+a_k = a_p+a_r"
+    ],
+    [
+      "Musbat",
+      "aₙ > 0 shartini bajaruvchi hadlar"
+    ],
+    [
+      "aₙ = a₁ + (n−1)d",
+      "Arifmetik progressiya n-hadi formulasi"
+    ],
+    [
+      "d = aₙ₊₁ − aₙ",
+      "Arifmetik progressiya ayirmasi"
+    ],
+    [
+      "d = (aₘ − aₖ)/(m − k)",
+      "Ixtiyoriy ikki had orqali ayirmani topish"
+    ],
+    [
+      "aₙ = (aₙ₋₁+aₙ₊₁)/2",
+      "Xarakteristik xossa formulasi"
+    ],
+    [
+      "d = 0 holi",
+      "O'zgarmas (barcha hadlari teng) progressiya"
+    ],
+    [
+      "a₁ = 2, d = 3",
+      "2, 5, 8, 11, 14, ... progressiya"
+    ],
+    [
+      "Teskari qadam",
+      "a₁ = aₙ − (n − 1)d"
+    ],
+    [
+      "Qo'shni hadlar",
+      "Bir-biridan aynan d ga farq qiladi"
+    ],
+    [
+      "O'rta arifmetik",
+      "Ikki son orasiga arifmetik progressiya hadini qo'yish"
+    ],
+    [
+      "a₁₀ − a₄",
+      "6·d ga teng ayirma"
+    ],
+    [
+      "a₃ + a₇",
+      "a₁ + a₉ yoki 2·a₅ ga teng"
+    ],
+    [
+      "Birinchi manfiy had",
+      "aₙ < 0 tengsizlikdan topiladi"
+    ],
+    [
+      "Oxirgi musbat had",
+      "aₙ > 0 shartidan topiladigan eng katta n"
+    ],
+    [
+      "1, 3, 5, 7...",
+      "d = 2 ayirmali toq sonlar progressiyasi"
+    ]
+  ]
+}

@@ -1,0 +1,3162 @@
+{
+  "id": "g9-uz-algebra-05-grafik-yasash",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "5-§. Kvadrat funksiyaning grafigini yasash",
+  "title": "5-§. Kvadrat funksiyaning grafigini yasash",
+  "source": "Algebra 9-sinf (2019), I bob, 5-§, 18–23-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Kvadrat funksiya grafigi Ox o'qini nechta nuqtada kesishi mumkin?",
+      "options": [
+        "Har doim 1 ta nuqtada",
+        "Faqat 2 ta nuqtada",
+        "0, 1 yoki 2 ta nuqtada",
+        "3 ta nuqtada"
+      ],
+      "answer": 2,
+      "explain": "Diskriminant D < 0 da 0 ta, D = 0 da 1 ta, D > 0 da 2 ta umumiy nuqta bo'ladi."
+    },
+    {
+      "type": "choice",
+      "q": "D < 0 va a > 0 bo'lganda y = ax² + bx + c parabola qayerda joylashadi?",
+      "options": [
+        "To'liq Ox o'qidan yuqorida (y > 0)",
+        "Faqat III chorakda",
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda"
+      ],
+      "answer": 0,
+      "explain": "a > 0 va D < 0 da funksiya barcha x lar uchun musbat qiymat qabul qiladi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² grafigini 3 birlik o'ngga va 2 birlik yuqoriga siljitsak qanday funksiya hosil bo'ladi?",
+      "options": [
+        "y = (x − 3)² + 2",
+        "y = (x − 3)² − 2",
+        "y = (x + 3)² − 2",
+        "y = (x + 3)² + 2"
+      ],
+      "answer": 0,
+      "explain": "m birlik o'ngga (x − m), n birlik yuqoriga +n qo'shiladi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 5 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "x² + 5 = 0 tenglamaning haqiqiy ildizi yo'q (D = −20 < 0)."
+    },
+    {
+      "type": "truefalse",
+      "q": "Perimetri 40 sm bo'lgan to'g'ri to'rtburchaklar ichida eng katta yuzasi 100 sm² dir.",
+      "answer": true,
+      "explain": "x(20 − x) eng katta qiymati x = 10 da S = 10·10 = 100 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 11x + 30 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-11",
+      "explain": "x₁ + x₂ = -6 + (-5) = -11."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 10x + 24 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(6; 0) va (4; 0)",
+        "(-6; 0) va (-3; 0)",
+        "(-6; 0) va (-4; 0)",
+        "(0; -6) va (0; -4)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -6, x₂ = -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 9x + 18 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(6; 0) va (3; 0)",
+        "(-6; 0) va (-3; 0)",
+        "(-6; 0) va (-2; 0)",
+        "(0; -6) va (0; -3)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -6, x₂ = -3."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 8x + 12 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-8",
+      "explain": "x₁ + x₂ = -6 + (-2) = -8."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 6 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-6; 0) va (0; 0)",
+        "(6; 0) va (1; 0)",
+        "(-6; 0) va (-1; 0)",
+        "(0; -6) va (0; -1)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -6, x₂ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-6; 0) va (0; 0)",
+        "(6; 0) va (0; 0)",
+        "(-6; 0) va (1; 0)",
+        "(0; -6) va (0; 0)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = -6, x₂ = 0."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 5x − 6 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-5",
+      "explain": "x₁ + x₂ = -6 + (1) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x − 12 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(6; 0) va (-2; 0)",
+        "(-6; 0) va (2; 0)",
+        "(0; -6) va (0; 2)",
+        "(-6; 0) va (3; 0)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -6, x₂ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x − 18 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(6; 0) va (-3; 0)",
+        "(-6; 0) va (3; 0)",
+        "(-6; 0) va (4; 0)",
+        "(0; -6) va (0; 3)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -6, x₂ = 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 2x − 24 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-2",
+      "explain": "x₁ + x₂ = -6 + (4) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x − 30 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-6; 0) va (6; 0)",
+        "(0; -6) va (0; 5)",
+        "(-6; 0) va (5; 0)",
+        "(6; 0) va (-5; 0)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -6, x₂ = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 36 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-6; 0) va (6; 0)",
+        "(-6; 0) va (7; 0)",
+        "(6; 0) va (-6; 0)",
+        "(0; -6) va (0; 6)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = -6, x₂ = 6."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − x − 42 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "1",
+      "explain": "x₁ + x₂ = -6 + (7) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 9x + 20 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(5; 0) va (4; 0)",
+        "(-5; 0) va (-4; 0)",
+        "(0; -5) va (0; -4)",
+        "(-5; 0) va (-3; 0)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -5, x₂ = -4."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 8x + 15 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-8",
+      "explain": "x₁ + x₂ = -5 + (-3) = -8."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 10 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-5; 0) va (-2; 0)",
+        "(5; 0) va (2; 0)",
+        "(-5; 0) va (-1; 0)",
+        "(0; -5) va (0; -2)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = -5, x₂ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 5 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-5; 0) va (0; 0)",
+        "(0; -5) va (0; -1)",
+        "(-5; 0) va (-1; 0)",
+        "(5; 0) va (1; 0)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -5, x₂ = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 5x parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-5",
+      "explain": "x₁ + x₂ = -5 + (0) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x − 5 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; -5) va (0; 1)",
+        "(-5; 0) va (1; 0)",
+        "(5; 0) va (-1; 0)",
+        "(-5; 0) va (2; 0)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -5, x₂ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x − 10 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-5; 0) va (3; 0)",
+        "(5; 0) va (-2; 0)",
+        "(-5; 0) va (2; 0)",
+        "(0; -5) va (0; 2)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -5, x₂ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 2x − 15 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-2",
+      "explain": "x₁ + x₂ = -5 + (3) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x − 20 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; -5) va (0; 4)",
+        "(5; 0) va (-4; 0)",
+        "(-5; 0) va (4; 0)",
+        "(-5; 0) va (5; 0)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -5, x₂ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 25 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(5; 0) va (-5; 0)",
+        "(-5; 0) va (5; 0)",
+        "(0; -5) va (0; 5)",
+        "(-5; 0) va (6; 0)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -5, x₂ = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − x − 30 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "1",
+      "explain": "x₁ + x₂ = -5 + (6) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 35 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(5; 0) va (-7; 0)",
+        "(0; -5) va (0; 7)",
+        "(-5; 0) va (7; 0)",
+        "(-5; 0) va (8; 0)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -5, x₂ = 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 12 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-4; 0) va (-2; 0)",
+        "(4; 0) va (3; 0)",
+        "(0; -4) va (0; -3)",
+        "(-4; 0) va (-3; 0)"
+      ],
+      "answer": 3,
+      "explain": "y = 0 tenglama ildizlari x₁ = -4, x₂ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 8 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; -4) va (0; -2)",
+        "(4; 0) va (2; 0)",
+        "(-4; 0) va (-2; 0)",
+        "(-4; 0) va (-1; 0)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -4, x₂ = -2."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 5x + 4 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-5",
+      "explain": "x₁ + x₂ = -4 + (-1) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(4; 0) va (0; 0)",
+        "(0; -4) va (0; 0)",
+        "(-4; 0) va (0; 0)",
+        "(-4; 0) va (1; 0)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -4, x₂ = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x − 4 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-4; 0) va (2; 0)",
+        "(-4; 0) va (1; 0)",
+        "(4; 0) va (-1; 0)",
+        "(0; -4) va (0; 1)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -4, x₂ = 1."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 2x − 8 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-2",
+      "explain": "x₁ + x₂ = -4 + (2) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x − 12 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-4; 0) va (3; 0)",
+        "(0; -4) va (0; 3)",
+        "(-4; 0) va (4; 0)",
+        "(4; 0) va (-3; 0)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = -4, x₂ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 16 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-4; 0) va (4; 0)",
+        "(0; -4) va (0; 4)",
+        "(-4; 0) va (5; 0)",
+        "(4; 0) va (-4; 0)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = -4, x₂ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − x − 20 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "1",
+      "explain": "x₁ + x₂ = -4 + (5) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 24 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(4; 0) va (-6; 0)",
+        "(-4; 0) va (7; 0)",
+        "(-4; 0) va (6; 0)",
+        "(0; -4) va (0; 6)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -4, x₂ = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x − 28 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(4; 0) va (-7; 0)",
+        "(-4; 0) va (7; 0)",
+        "(-4; 0) va (8; 0)",
+        "(0; -4) va (0; 7)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -4, x₂ = 7."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 5x + 6 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-5",
+      "explain": "x₁ + x₂ = -3 + (-2) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 3 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-3; 0) va (0; 0)",
+        "(-3; 0) va (-1; 0)",
+        "(3; 0) va (1; 0)",
+        "(0; -3) va (0; -1)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -3, x₂ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-3; 0) va (0; 0)",
+        "(3; 0) va (0; 0)",
+        "(-3; 0) va (1; 0)",
+        "(0; -3) va (0; 0)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = -3, x₂ = 0."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 2x − 3 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-2",
+      "explain": "x₁ + x₂ = -3 + (1) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x − 6 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(3; 0) va (-2; 0)",
+        "(-3; 0) va (3; 0)",
+        "(-3; 0) va (2; 0)",
+        "(0; -3) va (0; 2)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -3, x₂ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 9 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-3; 0) va (3; 0)",
+        "(3; 0) va (-3; 0)",
+        "(0; -3) va (0; 3)",
+        "(-3; 0) va (4; 0)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = -3, x₂ = 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − x − 12 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "1",
+      "explain": "x₁ + x₂ = -3 + (4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 15 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-3; 0) va (6; 0)",
+        "(3; 0) va (-5; 0)",
+        "(-3; 0) va (5; 0)",
+        "(0; -3) va (0; 5)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -3, x₂ = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x − 18 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; -3) va (0; 6)",
+        "(3; 0) va (-6; 0)",
+        "(-3; 0) va (6; 0)",
+        "(-3; 0) va (7; 0)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -3, x₂ = 6."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 4x − 21 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "4",
+      "explain": "x₁ + x₂ = -3 + (7) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x + 2 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-2; 0) va (-1; 0)",
+        "(2; 0) va (1; 0)",
+        "(-2; 0) va (0; 0)",
+        "(0; -2) va (0; -1)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = -2, x₂ = -1."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² + 2x parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "-2",
+      "explain": "x₁ + x₂ = -2 + (0) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x − 2 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(2; 0) va (-1; 0)",
+        "(-2; 0) va (2; 0)",
+        "(-2; 0) va (1; 0)",
+        "(0; -2) va (0; 1)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -2, x₂ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; -2) va (0; 2)",
+        "(-2; 0) va (2; 0)",
+        "(2; 0) va (-2; 0)",
+        "(-2; 0) va (3; 0)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -2, x₂ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − x − 6 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "1",
+      "explain": "x₁ + x₂ = -2 + (3) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 8 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-2; 0) va (4; 0)",
+        "(-2; 0) va (5; 0)",
+        "(2; 0) va (-4; 0)",
+        "(0; -2) va (0; 4)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = -2, x₂ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x − 10 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-2; 0) va (6; 0)",
+        "(2; 0) va (-5; 0)",
+        "(-2; 0) va (5; 0)",
+        "(0; -2) va (0; 5)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -2, x₂ = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 4x − 12 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "4",
+      "explain": "x₁ + x₂ = -2 + (6) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x − 14 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; -2) va (0; 7)",
+        "(-2; 0) va (8; 0)",
+        "(-2; 0) va (7; 0)",
+        "(2; 0) va (-7; 0)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -2, x₂ = 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(1; 0) va (0; 0)",
+        "(-1; 0) va (1; 0)",
+        "(-1; 0) va (0; 0)",
+        "(0; -1) va (0; 0)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = -1, x₂ = 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 1 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(1; 0) va (-1; 0)",
+        "(-1; 0) va (2; 0)",
+        "(0; -1) va (0; 1)",
+        "(-1; 0) va (1; 0)"
+      ],
+      "answer": 3,
+      "explain": "y = 0 tenglama ildizlari x₁ = -1, x₂ = 1."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − x − 2 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "1",
+      "explain": "x₁ + x₂ = -1 + (2) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 3 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(1; 0) va (-3; 0)",
+        "(0; -1) va (0; 3)",
+        "(-1; 0) va (4; 0)",
+        "(-1; 0) va (3; 0)"
+      ],
+      "answer": 3,
+      "explain": "y = 0 tenglama ildizlari x₁ = -1, x₂ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x − 4 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-1; 0) va (5; 0)",
+        "(-1; 0) va (4; 0)",
+        "(1; 0) va (-4; 0)",
+        "(0; -1) va (0; 4)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -1, x₂ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 4x − 5 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "4",
+      "explain": "x₁ + x₂ = -1 + (5) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x − 6 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-1; 0) va (7; 0)",
+        "(-1; 0) va (6; 0)",
+        "(0; -1) va (0; 6)",
+        "(1; 0) va (-6; 0)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = -1, x₂ = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x − 7 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-1; 0) va (7; 0)",
+        "(1; 0) va (-7; 0)",
+        "(-1; 0) va (8; 0)",
+        "(0; -1) va (0; 7)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = -1, x₂ = 7."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − x parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "1",
+      "explain": "x₁ + x₂ = 0 + (1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; 0) va (2; 0)",
+        "(0; 0) va (-2; 0)",
+        "(0; 0) va (3; 0)",
+        "(0; 0) va (0; 2)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = 0, x₂ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; 0) va (4; 0)",
+        "(0; 0) va (0; 3)",
+        "(0; 0) va (-3; 0)",
+        "(0; 0) va (3; 0)"
+      ],
+      "answer": 3,
+      "explain": "y = 0 tenglama ildizlari x₁ = 0, x₂ = 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 4x parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "4",
+      "explain": "x₁ + x₂ = 0 + (4) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; 0) va (-5; 0)",
+        "(0; 0) va (5; 0)",
+        "(0; 0) va (6; 0)",
+        "(0; 0) va (0; 5)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = 0, x₂ = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; 0) va (7; 0)",
+        "(0; 0) va (-6; 0)",
+        "(0; 0) va (6; 0)",
+        "(0; 0) va (0; 6)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = 0, x₂ = 6."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 7x parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "7",
+      "explain": "x₁ + x₂ = 0 + (7) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x + 2 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-1; 0) va (-2; 0)",
+        "(1; 0) va (3; 0)",
+        "(0; 1) va (0; 2)",
+        "(1; 0) va (2; 0)"
+      ],
+      "answer": 3,
+      "explain": "y = 0 tenglama ildizlari x₁ = 1, x₂ = 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 4x + 3 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "4",
+      "explain": "x₁ + x₂ = 1 + (3) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x + 4 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(1; 0) va (5; 0)",
+        "(1; 0) va (4; 0)",
+        "(0; 1) va (0; 4)",
+        "(-1; 0) va (-4; 0)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = 1, x₂ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 5 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(1; 0) va (6; 0)",
+        "(1; 0) va (5; 0)",
+        "(0; 1) va (0; 5)",
+        "(-1; 0) va (-5; 0)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = 1, x₂ = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 7x + 6 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "7",
+      "explain": "x₁ + x₂ = 1 + (6) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 7 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; 1) va (0; 7)",
+        "(1; 0) va (8; 0)",
+        "(-1; 0) va (-7; 0)",
+        "(1; 0) va (7; 0)"
+      ],
+      "answer": 3,
+      "explain": "y = 0 tenglama ildizlari x₁ = 1, x₂ = 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x + 6 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-2; 0) va (-3; 0)",
+        "(2; 0) va (3; 0)",
+        "(2; 0) va (4; 0)",
+        "(0; 2) va (0; 3)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = 2, x₂ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 8 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-2; 0) va (-4; 0)",
+        "(2; 0) va (4; 0)",
+        "(2; 0) va (5; 0)",
+        "(0; 2) va (0; 4)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = 2, x₂ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 7x + 10 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "7",
+      "explain": "x₁ + x₂ = 2 + (5) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 12 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-2; 0) va (-6; 0)",
+        "(2; 0) va (7; 0)",
+        "(2; 0) va (6; 0)",
+        "(0; 2) va (0; 6)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = 2, x₂ = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 9x + 14 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-2; 0) va (-7; 0)",
+        "(2; 0) va (8; 0)",
+        "(0; 2) va (0; 7)",
+        "(2; 0) va (7; 0)"
+      ],
+      "answer": 3,
+      "explain": "y = 0 tenglama ildizlari x₁ = 2, x₂ = 7."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 7x + 12 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "7",
+      "explain": "x₁ + x₂ = 3 + (4) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 15 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(3; 0) va (5; 0)",
+        "(3; 0) va (6; 0)",
+        "(-3; 0) va (-5; 0)",
+        "(0; 3) va (0; 5)"
+      ],
+      "answer": 0,
+      "explain": "y = 0 tenglama ildizlari x₁ = 3, x₂ = 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 9x + 18 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(3; 0) va (7; 0)",
+        "(3; 0) va (6; 0)",
+        "(0; 3) va (0; 6)",
+        "(-3; 0) va (-6; 0)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = 3, x₂ = 6."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 10x + 21 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "10",
+      "explain": "x₁ + x₂ = 3 + (7) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 9x + 20 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(4; 0) va (6; 0)",
+        "(-4; 0) va (-5; 0)",
+        "(4; 0) va (5; 0)",
+        "(0; 4) va (0; 5)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = 4, x₂ = 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = x² − 10x + 24 parabola Ox o'qini kesadigan ikkita nuqta abssissalari yig'indisini toping.",
+      "answer": "10",
+      "explain": "x₁ + x₂ = 4 + (6) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 11x + 28 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(-4; 0) va (-7; 0)",
+        "(4; 0) va (8; 0)",
+        "(4; 0) va (7; 0)",
+        "(0; 4) va (0; 7)"
+      ],
+      "answer": 2,
+      "explain": "y = 0 tenglama ildizlari x₁ = 4, x₂ = 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 11x + 30 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; 5) va (0; 6)",
+        "(5; 0) va (6; 0)",
+        "(-5; 0) va (-6; 0)",
+        "(5; 0) va (7; 0)"
+      ],
+      "answer": 1,
+      "explain": "y = 0 tenglama ildizlari x₁ = 5, x₂ = 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 12x + 35 grafigi Ox o'qini qaysi nuqtalarda kesib o'tadi?",
+      "options": [
+        "(0; 5) va (0; 7)",
+        "(-5; 0) va (-7; 0)",
+        "(5; 0) va (8; 0)",
+        "(5; 0) va (7; 0)"
+      ],
+      "answer": 3,
+      "explain": "y = 0 tenglama ildizlari x₁ = 5, x₂ = 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik chapga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 6)²  − 6",
+        "y = (x − 6)²  − 6",
+        "y = (x + 6)²  + 6",
+        "y = (x − 6)²  + 6"
+      ],
+      "answer": 0,
+      "explain": "6 birlik chapga siljish (x + 6), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik chapga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 6)²  − 5",
+        "y = (x + 6)²  − 5",
+        "y = (x − 6)²  + 5",
+        "y = (x + 6)²  + 5"
+      ],
+      "answer": 1,
+      "explain": "6 birlik chapga siljish (x + 6), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik chapga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 6)²  + 4",
+        "y = (x − 6)²  − 4",
+        "y = (x + 6)²  − 4",
+        "y = (x − 6)²  + 4"
+      ],
+      "answer": 2,
+      "explain": "6 birlik chapga siljish (x + 6), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik chapga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 6)²  + 3",
+        "y = (x + 6)²  − 3",
+        "y = (x − 6)²  + 3",
+        "y = (x − 6)²  − 3"
+      ],
+      "answer": 1,
+      "explain": "6 birlik chapga siljish (x + 6), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik chapga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 6)²  − 2",
+        "y = (x + 6)²  + 2",
+        "y = (x − 6)²  + 2",
+        "y = (x + 6)²  − 2"
+      ],
+      "answer": 3,
+      "explain": "6 birlik chapga siljish (x + 6), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik chapga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 6)²  + 1",
+        "y = (x − 6)²  − 1",
+        "y = (x + 6)²  − 1",
+        "y = (x + 6)²  + 1"
+      ],
+      "answer": 2,
+      "explain": "6 birlik chapga siljish (x + 6), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik chapga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 5)²  − 6",
+        "y = (x − 5)²  + 6",
+        "y = (x + 5)²  − 6",
+        "y = (x + 5)²  + 6"
+      ],
+      "answer": 2,
+      "explain": "5 birlik chapga siljish (x + 5), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik chapga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 5)²  − 5",
+        "y = (x + 5)²  + 5",
+        "y = (x + 5)²  − 5",
+        "y = (x − 5)²  + 5"
+      ],
+      "answer": 2,
+      "explain": "5 birlik chapga siljish (x + 5), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik chapga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 5)²  − 4",
+        "y = (x + 5)²  + 4",
+        "y = (x − 5)²  + 4",
+        "y = (x − 5)²  − 4"
+      ],
+      "answer": 0,
+      "explain": "5 birlik chapga siljish (x + 5), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik chapga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 5)²  − 3",
+        "y = (x − 5)²  − 3",
+        "y = (x + 5)²  + 3",
+        "y = (x − 5)²  + 3"
+      ],
+      "answer": 0,
+      "explain": "5 birlik chapga siljish (x + 5), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik chapga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 5)²  − 2",
+        "y = (x − 5)²  + 2",
+        "y = (x + 5)²  + 2",
+        "y = (x − 5)²  − 2"
+      ],
+      "answer": 0,
+      "explain": "5 birlik chapga siljish (x + 5), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik chapga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 5)²  + 1",
+        "y = (x + 5)²  + 1",
+        "y = (x − 5)²  − 1",
+        "y = (x + 5)²  − 1"
+      ],
+      "answer": 3,
+      "explain": "5 birlik chapga siljish (x + 5), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik chapga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 4)²  + 6",
+        "y = (x + 4)²  + 6",
+        "y = (x − 4)²  − 6",
+        "y = (x + 4)²  − 6"
+      ],
+      "answer": 3,
+      "explain": "4 birlik chapga siljish (x + 4), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik chapga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 4)²  − 5",
+        "y = (x − 4)²  − 5",
+        "y = (x − 4)²  + 5",
+        "y = (x + 4)²  + 5"
+      ],
+      "answer": 0,
+      "explain": "4 birlik chapga siljish (x + 4), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik chapga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 4)²  + 4",
+        "y = (x + 4)²  + 4",
+        "y = (x − 4)²  − 4",
+        "y = (x + 4)²  − 4"
+      ],
+      "answer": 3,
+      "explain": "4 birlik chapga siljish (x + 4), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik chapga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 4)²  + 3",
+        "y = (x − 4)²  − 3",
+        "y = (x − 4)²  + 3",
+        "y = (x + 4)²  − 3"
+      ],
+      "answer": 3,
+      "explain": "4 birlik chapga siljish (x + 4), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik chapga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 4)²  − 2",
+        "y = (x + 4)²  + 2",
+        "y = (x + 4)²  − 2",
+        "y = (x − 4)²  + 2"
+      ],
+      "answer": 2,
+      "explain": "4 birlik chapga siljish (x + 4), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik chapga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 4)²  − 1",
+        "y = (x + 4)²  + 1",
+        "y = (x + 4)²  − 1",
+        "y = (x − 4)²  + 1"
+      ],
+      "answer": 2,
+      "explain": "4 birlik chapga siljish (x + 4), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik chapga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 3)²  + 6",
+        "y = (x − 3)²  − 6",
+        "y = (x + 3)²  − 6",
+        "y = (x + 3)²  + 6"
+      ],
+      "answer": 2,
+      "explain": "3 birlik chapga siljish (x + 3), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik chapga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 3)²  − 5",
+        "y = (x + 3)²  − 5",
+        "y = (x + 3)²  + 5",
+        "y = (x − 3)²  + 5"
+      ],
+      "answer": 1,
+      "explain": "3 birlik chapga siljish (x + 3), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik chapga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 3)²  − 4",
+        "y = (x + 3)²  + 4",
+        "y = (x − 3)²  + 4",
+        "y = (x − 3)²  − 4"
+      ],
+      "answer": 0,
+      "explain": "3 birlik chapga siljish (x + 3), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik chapga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 3)²  + 3",
+        "y = (x + 3)²  − 3",
+        "y = (x + 3)²  + 3",
+        "y = (x − 3)²  − 3"
+      ],
+      "answer": 1,
+      "explain": "3 birlik chapga siljish (x + 3), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik chapga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 3)²  − 2",
+        "y = (x + 3)²  + 2",
+        "y = (x + 3)²  − 2",
+        "y = (x − 3)²  + 2"
+      ],
+      "answer": 2,
+      "explain": "3 birlik chapga siljish (x + 3), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik chapga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 3)²  + 1",
+        "y = (x + 3)²  − 1",
+        "y = (x − 3)²  − 1",
+        "y = (x + 3)²  + 1"
+      ],
+      "answer": 1,
+      "explain": "3 birlik chapga siljish (x + 3), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik chapga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 2)²  + 6",
+        "y = (x + 2)²  − 6",
+        "y = (x − 2)²  − 6",
+        "y = (x + 2)²  + 6"
+      ],
+      "answer": 1,
+      "explain": "2 birlik chapga siljish (x + 2), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik chapga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 2)²  − 5",
+        "y = (x − 2)²  − 5",
+        "y = (x − 2)²  + 5",
+        "y = (x + 2)²  + 5"
+      ],
+      "answer": 0,
+      "explain": "2 birlik chapga siljish (x + 2), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik chapga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 2)²  − 4",
+        "y = (x − 2)²  + 4",
+        "y = (x + 2)²  + 4",
+        "y = (x + 2)²  − 4"
+      ],
+      "answer": 3,
+      "explain": "2 birlik chapga siljish (x + 2), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik chapga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 2)²  − 3",
+        "y = (x − 2)²  + 3",
+        "y = (x + 2)²  + 3",
+        "y = (x − 2)²  − 3"
+      ],
+      "answer": 0,
+      "explain": "2 birlik chapga siljish (x + 2), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik chapga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 2)²  + 2",
+        "y = (x − 2)²  − 2",
+        "y = (x + 2)²  − 2",
+        "y = (x − 2)²  + 2"
+      ],
+      "answer": 2,
+      "explain": "2 birlik chapga siljish (x + 2), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik chapga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 2)²  − 1",
+        "y = (x − 2)²  − 1",
+        "y = (x − 2)²  + 1",
+        "y = (x + 2)²  + 1"
+      ],
+      "answer": 0,
+      "explain": "2 birlik chapga siljish (x + 2), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik chapga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 1)²  − 6",
+        "y = (x + 1)²  + 6",
+        "y = (x − 1)²  − 6",
+        "y = (x − 1)²  + 6"
+      ],
+      "answer": 0,
+      "explain": "1 birlik chapga siljish (x + 1), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik chapga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 1)²  + 5",
+        "y = (x + 1)²  − 5",
+        "y = (x + 1)²  + 5",
+        "y = (x − 1)²  − 5"
+      ],
+      "answer": 1,
+      "explain": "1 birlik chapga siljish (x + 1), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik chapga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 1)²  − 4",
+        "y = (x − 1)²  − 4",
+        "y = (x + 1)²  + 4",
+        "y = (x − 1)²  + 4"
+      ],
+      "answer": 0,
+      "explain": "1 birlik chapga siljish (x + 1), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik chapga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 1)²  + 3",
+        "y = (x + 1)²  − 3",
+        "y = (x − 1)²  − 3",
+        "y = (x + 1)²  + 3"
+      ],
+      "answer": 1,
+      "explain": "1 birlik chapga siljish (x + 1), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik chapga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 1)²  − 2",
+        "y = (x + 1)²  − 2",
+        "y = (x + 1)²  + 2",
+        "y = (x − 1)²  + 2"
+      ],
+      "answer": 1,
+      "explain": "1 birlik chapga siljish (x + 1), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik chapga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 1)²  − 1",
+        "y = (x + 1)²  + 1",
+        "y = (x − 1)²  + 1",
+        "y = (x − 1)²  − 1"
+      ],
+      "answer": 0,
+      "explain": "1 birlik chapga siljish (x + 1), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik o'ngga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 1)²  − 6",
+        "y = (x + 1)²  + 6",
+        "y = (x − 1)²  + 6",
+        "y = (x + 1)²  − 6"
+      ],
+      "answer": 0,
+      "explain": "1 birlik o'ngga siljish (x − 1), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik o'ngga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 1)²  − 5",
+        "y = (x − 1)²  + 5",
+        "y = (x + 1)²  + 5",
+        "y = (x − 1)²  − 5"
+      ],
+      "answer": 3,
+      "explain": "1 birlik o'ngga siljish (x − 1), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik o'ngga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 1)²  + 4",
+        "y = (x − 1)²  − 4",
+        "y = (x + 1)²  + 4",
+        "y = (x + 1)²  − 4"
+      ],
+      "answer": 1,
+      "explain": "1 birlik o'ngga siljish (x − 1), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik o'ngga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 1)²  − 3",
+        "y = (x + 1)²  + 3",
+        "y = (x + 1)²  − 3",
+        "y = (x − 1)²  + 3"
+      ],
+      "answer": 0,
+      "explain": "1 birlik o'ngga siljish (x − 1), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik o'ngga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 1)²  − 2",
+        "y = (x + 1)²  + 2",
+        "y = (x − 1)²  − 2",
+        "y = (x − 1)²  + 2"
+      ],
+      "answer": 2,
+      "explain": "1 birlik o'ngga siljish (x − 1), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 1 birlik o'ngga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 1)²  − 1",
+        "y = (x − 1)²  + 1",
+        "y = (x − 1)²  − 1",
+        "y = (x + 1)²  + 1"
+      ],
+      "answer": 2,
+      "explain": "1 birlik o'ngga siljish (x − 1), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik o'ngga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 2)²  − 6",
+        "y = (x + 2)²  + 6",
+        "y = (x + 2)²  − 6",
+        "y = (x − 2)²  + 6"
+      ],
+      "answer": 0,
+      "explain": "2 birlik o'ngga siljish (x − 2), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik o'ngga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 2)²  + 5",
+        "y = (x − 2)²  + 5",
+        "y = (x − 2)²  − 5",
+        "y = (x + 2)²  − 5"
+      ],
+      "answer": 2,
+      "explain": "2 birlik o'ngga siljish (x − 2), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik o'ngga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 2)²  + 4",
+        "y = (x + 2)²  + 4",
+        "y = (x − 2)²  − 4",
+        "y = (x + 2)²  − 4"
+      ],
+      "answer": 2,
+      "explain": "2 birlik o'ngga siljish (x − 2), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik o'ngga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 2)²  − 3",
+        "y = (x − 2)²  + 3",
+        "y = (x + 2)²  − 3",
+        "y = (x + 2)²  + 3"
+      ],
+      "answer": 0,
+      "explain": "2 birlik o'ngga siljish (x − 2), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik o'ngga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 2)²  + 2",
+        "y = (x + 2)²  + 2",
+        "y = (x + 2)²  − 2",
+        "y = (x − 2)²  − 2"
+      ],
+      "answer": 3,
+      "explain": "2 birlik o'ngga siljish (x − 2), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 2 birlik o'ngga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 2)²  − 1",
+        "y = (x − 2)²  − 1",
+        "y = (x − 2)²  + 1",
+        "y = (x + 2)²  + 1"
+      ],
+      "answer": 1,
+      "explain": "2 birlik o'ngga siljish (x − 2), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik o'ngga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 3)²  + 6",
+        "y = (x − 3)²  − 6",
+        "y = (x + 3)²  + 6",
+        "y = (x + 3)²  − 6"
+      ],
+      "answer": 1,
+      "explain": "3 birlik o'ngga siljish (x − 3), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik o'ngga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 3)²  + 5",
+        "y = (x − 3)²  + 5",
+        "y = (x + 3)²  − 5",
+        "y = (x − 3)²  − 5"
+      ],
+      "answer": 3,
+      "explain": "3 birlik o'ngga siljish (x − 3), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik o'ngga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 3)²  + 4",
+        "y = (x + 3)²  − 4",
+        "y = (x + 3)²  + 4",
+        "y = (x − 3)²  − 4"
+      ],
+      "answer": 3,
+      "explain": "3 birlik o'ngga siljish (x − 3), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik o'ngga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 3)²  − 3",
+        "y = (x − 3)²  − 3",
+        "y = (x + 3)²  + 3",
+        "y = (x − 3)²  + 3"
+      ],
+      "answer": 1,
+      "explain": "3 birlik o'ngga siljish (x − 3), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik o'ngga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 3)²  + 2",
+        "y = (x + 3)²  + 2",
+        "y = (x + 3)²  − 2",
+        "y = (x − 3)²  − 2"
+      ],
+      "answer": 3,
+      "explain": "3 birlik o'ngga siljish (x − 3), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 3 birlik o'ngga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 3)²  + 1",
+        "y = (x + 3)²  − 1",
+        "y = (x − 3)²  − 1",
+        "y = (x + 3)²  + 1"
+      ],
+      "answer": 2,
+      "explain": "3 birlik o'ngga siljish (x − 3), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik o'ngga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 4)²  − 6",
+        "y = (x − 4)²  + 6",
+        "y = (x + 4)²  − 6",
+        "y = (x + 4)²  + 6"
+      ],
+      "answer": 0,
+      "explain": "4 birlik o'ngga siljish (x − 4), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik o'ngga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 4)²  + 5",
+        "y = (x + 4)²  − 5",
+        "y = (x + 4)²  + 5",
+        "y = (x − 4)²  − 5"
+      ],
+      "answer": 3,
+      "explain": "4 birlik o'ngga siljish (x − 4), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik o'ngga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 4)²  + 4",
+        "y = (x − 4)²  + 4",
+        "y = (x + 4)²  − 4",
+        "y = (x − 4)²  − 4"
+      ],
+      "answer": 3,
+      "explain": "4 birlik o'ngga siljish (x − 4), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik o'ngga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 4)²  − 3",
+        "y = (x + 4)²  + 3",
+        "y = (x − 4)²  − 3",
+        "y = (x − 4)²  + 3"
+      ],
+      "answer": 2,
+      "explain": "4 birlik o'ngga siljish (x − 4), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik o'ngga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 4)²  − 2",
+        "y = (x + 4)²  + 2",
+        "y = (x − 4)²  + 2",
+        "y = (x − 4)²  − 2"
+      ],
+      "answer": 3,
+      "explain": "4 birlik o'ngga siljish (x − 4), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 4 birlik o'ngga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 4)²  − 1",
+        "y = (x + 4)²  − 1",
+        "y = (x − 4)²  + 1",
+        "y = (x + 4)²  + 1"
+      ],
+      "answer": 0,
+      "explain": "4 birlik o'ngga siljish (x − 4), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik o'ngga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 5)²  − 6",
+        "y = (x + 5)²  + 6",
+        "y = (x + 5)²  − 6",
+        "y = (x − 5)²  + 6"
+      ],
+      "answer": 0,
+      "explain": "5 birlik o'ngga siljish (x − 5), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik o'ngga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 5)²  + 5",
+        "y = (x − 5)²  + 5",
+        "y = (x + 5)²  − 5",
+        "y = (x − 5)²  − 5"
+      ],
+      "answer": 3,
+      "explain": "5 birlik o'ngga siljish (x − 5), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik o'ngga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 5)²  + 4",
+        "y = (x + 5)²  − 4",
+        "y = (x − 5)²  + 4",
+        "y = (x − 5)²  − 4"
+      ],
+      "answer": 3,
+      "explain": "5 birlik o'ngga siljish (x − 5), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik o'ngga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 5)²  + 3",
+        "y = (x + 5)²  − 3",
+        "y = (x − 5)²  − 3",
+        "y = (x + 5)²  + 3"
+      ],
+      "answer": 2,
+      "explain": "5 birlik o'ngga siljish (x − 5), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik o'ngga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 5)²  + 2",
+        "y = (x − 5)²  − 2",
+        "y = (x + 5)²  − 2",
+        "y = (x + 5)²  + 2"
+      ],
+      "answer": 1,
+      "explain": "5 birlik o'ngga siljish (x − 5), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 5 birlik o'ngga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 5)²  − 1",
+        "y = (x + 5)²  − 1",
+        "y = (x − 5)²  + 1",
+        "y = (x + 5)²  + 1"
+      ],
+      "answer": 0,
+      "explain": "5 birlik o'ngga siljish (x − 5), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik o'ngga va 6 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 6)²  + 6",
+        "y = (x + 6)²  − 6",
+        "y = (x − 6)²  − 6",
+        "y = (x − 6)²  + 6"
+      ],
+      "answer": 2,
+      "explain": "6 birlik o'ngga siljish (x − 6), 6 birlik pastga siljish − 6 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik o'ngga va 5 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x − 6)²  − 5",
+        "y = (x + 6)²  + 5",
+        "y = (x − 6)²  + 5",
+        "y = (x + 6)²  − 5"
+      ],
+      "answer": 0,
+      "explain": "6 birlik o'ngga siljish (x − 6), 5 birlik pastga siljish − 5 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik o'ngga va 4 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 6)²  − 4",
+        "y = (x + 6)²  + 4",
+        "y = (x − 6)²  + 4",
+        "y = (x − 6)²  − 4"
+      ],
+      "answer": 3,
+      "explain": "6 birlik o'ngga siljish (x − 6), 4 birlik pastga siljish − 4 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik o'ngga va 3 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 6)²  + 3",
+        "y = (x − 6)²  − 3",
+        "y = (x + 6)²  − 3",
+        "y = (x − 6)²  + 3"
+      ],
+      "answer": 1,
+      "explain": "6 birlik o'ngga siljish (x − 6), 3 birlik pastga siljish − 3 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik o'ngga va 2 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 6)²  − 2",
+        "y = (x − 6)²  + 2",
+        "y = (x + 6)²  + 2",
+        "y = (x − 6)²  − 2"
+      ],
+      "answer": 3,
+      "explain": "6 birlik o'ngga siljish (x − 6), 2 birlik pastga siljish − 2 beradi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² parabolani 6 birlik o'ngga va 1 birlik pastga parallel ko'chirish natijasida qaysi funksiya grafigi olinadi?",
+      "options": [
+        "y = (x + 6)²  − 1",
+        "y = (x − 6)²  + 1",
+        "y = (x + 6)²  + 1",
+        "y = (x − 6)²  − 1"
+      ],
+      "answer": 3,
+      "explain": "6 birlik o'ngga siljish (x − 6), 1 birlik pastga siljish − 1 beradi."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 12 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "9",
+      "explain": "Yarim perimetr 6. S(x) = x(6 − x) maksimumi x = 3 da S = 9 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 16 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "16",
+      "explain": "Yarim perimetr 8. S(x) = x(8 − x) maksimumi x = 4 da S = 16 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 20 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "25",
+      "explain": "Yarim perimetr 10. S(x) = x(10 − x) maksimumi x = 5 da S = 25 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 24 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "36",
+      "explain": "Yarim perimetr 12. S(x) = x(12 − x) maksimumi x = 6 da S = 36 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 28 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "49",
+      "explain": "Yarim perimetr 14. S(x) = x(14 − x) maksimumi x = 7 da S = 49 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 32 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "64",
+      "explain": "Yarim perimetr 16. S(x) = x(16 − x) maksimumi x = 8 da S = 64 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 36 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "81",
+      "explain": "Yarim perimetr 18. S(x) = x(18 − x) maksimumi x = 9 da S = 81 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 40 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "100",
+      "explain": "Yarim perimetr 20. S(x) = x(20 − x) maksimumi x = 10 da S = 100 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 44 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "121",
+      "explain": "Yarim perimetr 22. S(x) = x(22 − x) maksimumi x = 11 da S = 121 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 48 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "144",
+      "explain": "Yarim perimetr 24. S(x) = x(24 − x) maksimumi x = 12 da S = 144 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 52 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "169",
+      "explain": "Yarim perimetr 26. S(x) = x(26 − x) maksimumi x = 13 da S = 169 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 56 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "196",
+      "explain": "Yarim perimetr 28. S(x) = x(28 − x) maksimumi x = 14 da S = 196 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 60 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "225",
+      "explain": "Yarim perimetr 30. S(x) = x(30 − x) maksimumi x = 15 da S = 225 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 64 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "256",
+      "explain": "Yarim perimetr 32. S(x) = x(32 − x) maksimumi x = 16 da S = 256 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 68 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "289",
+      "explain": "Yarim perimetr 34. S(x) = x(34 − x) maksimumi x = 17 da S = 289 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 72 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "324",
+      "explain": "Yarim perimetr 36. S(x) = x(36 − x) maksimumi x = 18 da S = 324 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 76 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "361",
+      "explain": "Yarim perimetr 38. S(x) = x(38 − x) maksimumi x = 19 da S = 361 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 80 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "400",
+      "explain": "Yarim perimetr 40. S(x) = x(40 − x) maksimumi x = 20 da S = 400 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 84 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "441",
+      "explain": "Yarim perimetr 42. S(x) = x(42 − x) maksimumi x = 21 da S = 441 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 88 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "484",
+      "explain": "Yarim perimetr 44. S(x) = x(44 − x) maksimumi x = 22 da S = 484 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 92 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "529",
+      "explain": "Yarim perimetr 46. S(x) = x(46 − x) maksimumi x = 23 da S = 529 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 96 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "576",
+      "explain": "Yarim perimetr 48. S(x) = x(48 − x) maksimumi x = 24 da S = 576 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 100 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "625",
+      "explain": "Yarim perimetr 50. S(x) = x(50 − x) maksimumi x = 25 da S = 625 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 104 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "676",
+      "explain": "Yarim perimetr 52. S(x) = x(52 − x) maksimumi x = 26 da S = 676 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 108 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "729",
+      "explain": "Yarim perimetr 54. S(x) = x(54 − x) maksimumi x = 27 da S = 729 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 112 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "784",
+      "explain": "Yarim perimetr 56. S(x) = x(56 − x) maksimumi x = 28 da S = 784 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 116 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "841",
+      "explain": "Yarim perimetr 58. S(x) = x(58 − x) maksimumi x = 29 da S = 841 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 120 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "900",
+      "explain": "Yarim perimetr 60. S(x) = x(60 − x) maksimumi x = 30 da S = 900 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 124 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "961",
+      "explain": "Yarim perimetr 62. S(x) = x(62 − x) maksimumi x = 31 da S = 961 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 128 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1024",
+      "explain": "Yarim perimetr 64. S(x) = x(64 − x) maksimumi x = 32 da S = 1024 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 132 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1089",
+      "explain": "Yarim perimetr 66. S(x) = x(66 − x) maksimumi x = 33 da S = 1089 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 136 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1156",
+      "explain": "Yarim perimetr 68. S(x) = x(68 − x) maksimumi x = 34 da S = 1156 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 140 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1225",
+      "explain": "Yarim perimetr 70. S(x) = x(70 − x) maksimumi x = 35 da S = 1225 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 144 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1296",
+      "explain": "Yarim perimetr 72. S(x) = x(72 − x) maksimumi x = 36 da S = 1296 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 148 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1369",
+      "explain": "Yarim perimetr 74. S(x) = x(74 − x) maksimumi x = 37 da S = 1369 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 152 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1444",
+      "explain": "Yarim perimetr 76. S(x) = x(76 − x) maksimumi x = 38 da S = 1444 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 156 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1521",
+      "explain": "Yarim perimetr 78. S(x) = x(78 − x) maksimumi x = 39 da S = 1521 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 160 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1600",
+      "explain": "Yarim perimetr 80. S(x) = x(80 − x) maksimumi x = 40 da S = 1600 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 164 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1681",
+      "explain": "Yarim perimetr 82. S(x) = x(82 − x) maksimumi x = 41 da S = 1681 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 168 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1764",
+      "explain": "Yarim perimetr 84. S(x) = x(84 − x) maksimumi x = 42 da S = 1764 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 172 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1849",
+      "explain": "Yarim perimetr 86. S(x) = x(86 − x) maksimumi x = 43 da S = 1849 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 176 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "1936",
+      "explain": "Yarim perimetr 88. S(x) = x(88 − x) maksimumi x = 44 da S = 1936 sm²."
+    },
+    {
+      "type": "fill",
+      "q": "Perimetri 180 sm bo'lgan to'g'ri to'rtburchakning eng katta yuzasi necha sm² ga teng?",
+      "answer": "2025",
+      "explain": "Yarim perimetr 90. S(x) = x(90 − x) maksimumi x = 45 da S = 2025 sm²."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 6x + 37 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-6)² − 4·1·37 = -112 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 5x + 26 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-5)² − 4·1·26 = -79 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 4x + 17 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-4)² − 4·1·17 = -52 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 3x + 10 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-3)² − 4·1·10 = -31 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 2x + 5 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-2)² − 4·1·5 = -16 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − x + 2 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-1)² − 4·1·2 = -7 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 1 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (0)² − 4·1·1 = -4 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + x + 2 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (1)² − 4·1·2 = -7 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 2x + 5 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (2)² − 4·1·5 = -16 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 3x + 10 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (3)² − 4·1·10 = -31 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 4x + 17 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (4)² − 4·1·17 = -52 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 5x + 26 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (5)² − 4·1·26 = -79 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 6x + 37 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (6)² − 4·1·37 = -112 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 6x + 38 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-6)² − 4·1·38 = -116 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 5x + 27 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-5)² − 4·1·27 = -83 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 4x + 18 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-4)² − 4·1·18 = -56 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 3x + 11 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-3)² − 4·1·11 = -35 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 2x + 6 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-2)² − 4·1·6 = -20 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − x + 3 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-1)² − 4·1·3 = -11 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 2 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (0)² − 4·1·2 = -8 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + x + 3 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (1)² − 4·1·3 = -11 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 2x + 6 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (2)² − 4·1·6 = -20 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 3x + 11 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (3)² − 4·1·11 = -35 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 4x + 18 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (4)² − 4·1·18 = -56 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 5x + 27 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (5)² − 4·1·27 = -83 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 6x + 38 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (6)² − 4·1·38 = -116 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 6x + 39 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-6)² − 4·1·39 = -120 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 5x + 28 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-5)² − 4·1·28 = -87 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 4x + 19 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-4)² − 4·1·19 = -60 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 3x + 12 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-3)² − 4·1·12 = -39 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 2x + 7 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-2)² − 4·1·7 = -24 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − x + 4 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-1)² − 4·1·4 = -15 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 3 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (0)² − 4·1·3 = -12 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + x + 4 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (1)² − 4·1·4 = -15 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 2x + 7 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (2)² − 4·1·7 = -24 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 3x + 12 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (3)² − 4·1·12 = -39 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 4x + 19 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (4)² − 4·1·19 = -60 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 5x + 28 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (5)² − 4·1·28 = -87 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 6x + 39 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (6)² − 4·1·39 = -120 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 6x + 40 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-6)² − 4·1·40 = -124 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 5x + 29 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-5)² − 4·1·29 = -91 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 4x + 20 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-4)² − 4·1·20 = -64 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 3x + 13 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-3)² − 4·1·13 = -43 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 2x + 8 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-2)² − 4·1·8 = -28 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − x + 5 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-1)² − 4·1·5 = -19 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 4 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (0)² − 4·1·4 = -16 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + x + 5 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (1)² − 4·1·5 = -19 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 2x + 8 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (2)² − 4·1·8 = -28 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 3x + 13 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (3)² − 4·1·13 = -43 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 4x + 20 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (4)² − 4·1·20 = -64 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 5x + 29 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (5)² − 4·1·29 = -91 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 6x + 40 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (6)² − 4·1·40 = -124 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 6x + 41 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-6)² − 4·1·41 = -128 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 5x + 30 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-5)² − 4·1·30 = -95 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 4x + 21 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-4)² − 4·1·21 = -68 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 3x + 14 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-3)² − 4·1·14 = -47 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − 2x + 9 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-2)² − 4·1·9 = -32 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² − x + 6 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (-1)² − 4·1·6 = -23 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + x + 6 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (1)² − 4·1·6 = -23 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 2x + 9 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (2)² − 4·1·9 = -32 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 3x + 14 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (3)² − 4·1·14 = -47 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 4x + 21 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (4)² − 4·1·21 = -68 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 5x + 30 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (5)² − 4·1·30 = -95 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = x² + 6x + 41 parabola Ox o'qini kesib o'tmaydi.",
+      "answer": true,
+      "explain": "D = (6)² − 4·1·41 = -128 < 0 bo'lgani uchun Ox o'qi bilan kesishmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 20t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "4",
+        "2",
+        "-1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi t₀ = −20/(2·(−5)) = 2 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 20t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "20",
+      "explain": "t = 2 s da h(2) = 0 + 20·2 − 5·2² = 20 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 5 + 20t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "1",
+        "-1",
+        "4",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi t₀ = −20/(2·(−5)) = 2 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 5 + 20t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "25",
+      "explain": "t = 2 s da h(2) = 5 + 20·2 − 5·2² = 25 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 10 + 20t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "1",
+        "4",
+        "-1",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi t₀ = −20/(2·(−5)) = 2 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 10 + 20t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "30",
+      "explain": "t = 2 s da h(2) = 10 + 20·2 − 5·2² = 30 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 15 + 20t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "-1",
+        "4",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi t₀ = −20/(2·(−5)) = 2 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 15 + 20t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "35",
+      "explain": "t = 2 s da h(2) = 15 + 20·2 − 5·2² = 35 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 30t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "2",
+        "3",
+        "5",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi t₀ = −30/(2·(−5)) = 3 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 30t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "45",
+      "explain": "t = 3 s da h(3) = 0 + 30·3 − 5·3² = 45 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 5 + 30t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "6",
+        "5",
+        "2",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi t₀ = −30/(2·(−5)) = 3 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 5 + 30t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "50",
+      "explain": "t = 3 s da h(3) = 5 + 30·3 − 5·3² = 50 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 10 + 30t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "2",
+        "6",
+        "5",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi t₀ = −30/(2·(−5)) = 3 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 10 + 30t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "55",
+      "explain": "t = 3 s da h(3) = 10 + 30·3 − 5·3² = 55 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 15 + 30t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi t₀ = −30/(2·(−5)) = 3 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 15 + 30t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "60",
+      "explain": "t = 3 s da h(3) = 15 + 30·3 − 5·3² = 60 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 40t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi t₀ = −40/(2·(−5)) = 4 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 40t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "80",
+      "explain": "t = 4 s da h(4) = 0 + 40·4 − 5·4² = 80 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 5 + 40t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "3",
+        "6",
+        "4",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi t₀ = −40/(2·(−5)) = 4 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 5 + 40t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "85",
+      "explain": "t = 4 s da h(4) = 5 + 40·4 − 5·4² = 85 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 10 + 40t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi t₀ = −40/(2·(−5)) = 4 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 10 + 40t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "90",
+      "explain": "t = 4 s da h(4) = 10 + 40·4 − 5·4² = 90 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 15 + 40t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "8",
+        "4",
+        "3",
+        "6"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi t₀ = −40/(2·(−5)) = 4 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 15 + 40t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "95",
+      "explain": "t = 4 s da h(4) = 15 + 40·4 − 5·4² = 95 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 50t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "4",
+        "7",
+        "5",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi t₀ = −50/(2·(−5)) = 5 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 50t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "125",
+      "explain": "t = 5 s da h(5) = 0 + 50·5 − 5·5² = 125 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 5 + 50t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "4",
+        "7",
+        "5",
+        "10"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi t₀ = −50/(2·(−5)) = 5 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 5 + 50t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "130",
+      "explain": "t = 5 s da h(5) = 5 + 50·5 − 5·5² = 130 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 10 + 50t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "5",
+        "10",
+        "4",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi t₀ = −50/(2·(−5)) = 5 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 10 + 50t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "135",
+      "explain": "t = 5 s da h(5) = 10 + 50·5 − 5·5² = 135 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 15 + 50t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "7",
+        "10",
+        "4",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi t₀ = −50/(2·(−5)) = 5 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 15 + 50t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "140",
+      "explain": "t = 5 s da h(5) = 15 + 50·5 − 5·5² = 140 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 60t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "5",
+        "12",
+        "8",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi t₀ = −60/(2·(−5)) = 6 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 60t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "180",
+      "explain": "t = 6 s da h(6) = 0 + 60·6 − 5·6² = 180 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 5 + 60t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "8",
+        "12",
+        "5",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi t₀ = −60/(2·(−5)) = 6 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 5 + 60t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "185",
+      "explain": "t = 6 s da h(6) = 5 + 60·6 − 5·6² = 185 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 10 + 60t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "8",
+        "12",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi t₀ = −60/(2·(−5)) = 6 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 10 + 60t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "190",
+      "explain": "t = 6 s da h(6) = 10 + 60·6 − 5·6² = 190 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 15 + 60t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "6",
+        "12",
+        "8",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi t₀ = −60/(2·(−5)) = 6 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 15 + 60t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "195",
+      "explain": "t = 6 s da h(6) = 15 + 60·6 − 5·6² = 195 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 70t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "14",
+        "7",
+        "6",
+        "9"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi t₀ = −70/(2·(−5)) = 7 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 70t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "245",
+      "explain": "t = 7 s da h(7) = 0 + 70·7 − 5·7² = 245 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 5 + 70t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "7",
+        "9",
+        "6",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi t₀ = −70/(2·(−5)) = 7 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 5 + 70t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "250",
+      "explain": "t = 7 s da h(7) = 5 + 70·7 − 5·7² = 250 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 10 + 70t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "9",
+        "6",
+        "14",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi t₀ = −70/(2·(−5)) = 7 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 10 + 70t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "255",
+      "explain": "t = 7 s da h(7) = 10 + 70·7 − 5·7² = 255 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 15 + 70t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "7",
+        "6",
+        "9",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi t₀ = −70/(2·(−5)) = 7 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 15 + 70t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "260",
+      "explain": "t = 7 s da h(7) = 15 + 70·7 − 5·7² = 260 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 80t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "10",
+        "7",
+        "16",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi t₀ = −80/(2·(−5)) = 8 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 80t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "320",
+      "explain": "t = 8 s da h(8) = 0 + 80·8 − 5·8² = 320 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 5 + 80t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "10",
+        "8",
+        "16",
+        "7"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi t₀ = −80/(2·(−5)) = 8 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 5 + 80t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "325",
+      "explain": "t = 8 s da h(8) = 5 + 80·8 − 5·8² = 325 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 10 + 80t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "16",
+        "7",
+        "10",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi t₀ = −80/(2·(−5)) = 8 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 10 + 80t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "330",
+      "explain": "t = 8 s da h(8) = 10 + 80·8 − 5·8² = 330 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 15 + 80t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "16",
+        "8",
+        "7",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi t₀ = −80/(2·(−5)) = 8 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 15 + 80t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "335",
+      "explain": "t = 8 s da h(8) = 15 + 80·8 − 5·8² = 335 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 90t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "11",
+        "8",
+        "9",
+        "18"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi t₀ = −90/(2·(−5)) = 9 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 90t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "405",
+      "explain": "t = 9 s da h(9) = 0 + 90·9 − 5·9² = 405 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 5 + 90t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "11",
+        "9",
+        "18",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi t₀ = −90/(2·(−5)) = 9 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 5 + 90t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "410",
+      "explain": "t = 9 s da h(9) = 5 + 90·9 − 5·9² = 410 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 10 + 90t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "11",
+        "9",
+        "8",
+        "18"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi t₀ = −90/(2·(−5)) = 9 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 10 + 90t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "415",
+      "explain": "t = 9 s da h(9) = 10 + 90·9 − 5·9² = 415 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 15 + 90t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "9",
+        "8",
+        "11",
+        "18"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi t₀ = −90/(2·(−5)) = 9 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 15 + 90t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "420",
+      "explain": "t = 9 s da h(9) = 15 + 90·9 − 5·9² = 420 m."
+    },
+    {
+      "type": "choice",
+      "q": "Jism h(t) = 100t − 5t² qonuni bo'yicha yuqoriga otildi. U necha sekundda eng yuqori nuqtaga yetadi?",
+      "options": [
+        "10",
+        "20",
+        "9",
+        "12"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi t₀ = −100/(2·(−5)) = 10 sekundda erishiladi."
+    },
+    {
+      "type": "fill",
+      "q": "Yuqoriga otilgan tosh balandligi h(t) = 100t − 5t² (m) bo'lsa, eng katta balandlikni (m) toping.",
+      "answer": "500",
+      "explain": "t = 10 s da h(10) = 0 + 100·10 − 5·10² = 500 m."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Perimetr",
+      "To'g'ri to'rtburchak tomonlari yig'indisi"
+    ],
+    [
+      "Ekstremum",
+      "Eng katta yoki eng kichik qiymat"
+    ],
+    [
+      "Kesishish",
+      "Grafikning Ox va Oy o'qlari bilan umumiy nuqtalari"
+    ],
+    [
+      "Yasash bosqichlari",
+      "Uch, simmetriya o'qi, nollar va qo'shimcha nuqtalar"
+    ],
+    [
+      "Ox bilan kesishish",
+      "y = 0 bo'lganda x₁, x₂ nuqtalari"
+    ],
+    [
+      "D > 0 da grafik",
+      "Ox o'qini 2 ta nuqtada kesib o'tadi"
+    ],
+    [
+      "D = 0 da grafik",
+      "Ox o'qiga uchida urinadi (1 umumiy nuqta)"
+    ],
+    [
+      "D < 0 da grafik",
+      "Ox o'qini kesib o'tmaydi"
+    ],
+    [
+      "Ishora oraliqlari",
+      "Grafik Ox dan yuqori (y>0) yoki past (y<0) qismi"
+    ],
+    [
+      "Max yuza masalasi",
+      "P perimetrda S_max = (P/4)²"
+    ],
+    [
+      "O'ngga siljitish",
+      "x o'rniga (x − m), m > 0 yozilganda"
+    ],
+    [
+      "Yuqoriga siljitish",
+      "y = f(x) + n, n > 0 bo'lganda"
+    ],
+    [
+      "Koordinata tekisligi",
+      "Grafik chiziladigan dekart tekisligi"
+    ]
+  ]
+}

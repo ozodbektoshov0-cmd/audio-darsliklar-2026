@@ -1,0 +1,3652 @@
+{
+  "id": "g9-uz-algebra-09-aniqlanish-sohasi",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "9-§. Funksiyaning aniqlanish sohasi",
+  "title": "9-§. Funksiyaning aniqlanish sohasi",
+  "source": "Algebra 9-sinf (2019), I bob, 9-§, 37–41-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "y = √f(x) ko'rinishidagi funksiyaning aniqlanish sohasini topish uchun qaysi shart qo'yiladi?",
+      "options": [
+        "f(x) ≠ 0",
+        "f(x) ≤ 0",
+        "f(x) ≥ 0",
+        "f(x) > 0"
+      ],
+      "answer": 2,
+      "explain": "Juft darajali ildiz ostidagi ifoda manfiy bo'lmasligi kerak: f(x) ≥ 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / √f(x) funksiyaning aniqlanish sohasi qaysi shartdan topiladi?",
+      "options": [
+        "f(x) < 0",
+        "f(x) ≥ 0",
+        "f(x) ≠ 0",
+        "f(x) > 0"
+      ],
+      "answer": 3,
+      "explain": "Ham ildiz osti (f ≥ 0), ham maxraj (f ≠ 0) birgalikda f(x) > 0 beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday y = ax² + bx + c kvadrat funksiyaning aniqlanish sohasi (−∞; +∞) dir.",
+      "answer": true,
+      "explain": "Ko'phadda bo'lish va juft ildiz yo'q, shuning uchun x ∈ R."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = 1 / (x² + 9) funksiyaning aniqlanish sohasi barcha haqiqiy sonlardir.",
+      "answer": true,
+      "explain": "x² + 9 ≥ 9 > 0 bo'lgani uchun maxraj hech qachon nol bo'lmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -6]",
+        "(-6; +∞)",
+        "[-6; +∞)",
+        "[6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x + 6 ≥ 0 ⇒ 1x ≥ -6 ⇒ x ≥ -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-5; +∞)",
+        "(−∞; -5]",
+        "[5; +∞)",
+        "[-5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x + 5 ≥ 0 ⇒ 1x ≥ -5 ⇒ x ≥ -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-4; +∞)",
+        "[4; +∞)",
+        "(-4; +∞)",
+        "(−∞; -4]"
+      ],
+      "answer": 0,
+      "explain": "x + 4 ≥ 0 ⇒ 1x ≥ -4 ⇒ x ≥ -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-3; +∞)",
+        "(−∞; -3]",
+        "[-3; +∞)",
+        "[3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x + 3 ≥ 0 ⇒ 1x ≥ -3 ⇒ x ≥ -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[2; +∞)",
+        "(-2; +∞)",
+        "[-2; +∞)",
+        "(−∞; -2]"
+      ],
+      "answer": 2,
+      "explain": "x + 2 ≥ 0 ⇒ 1x ≥ -2 ⇒ x ≥ -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -1]",
+        "(-1; +∞)",
+        "[-1; +∞)",
+        "[1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x + 1 ≥ 0 ⇒ 1x ≥ -1 ⇒ x ≥ -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 1]",
+        "[1; +∞)",
+        "[-1; +∞)",
+        "(1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x − 1 ≥ 0 ⇒ 1x ≥ 1 ⇒ x ≥ 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; +∞)",
+        "[2; +∞)",
+        "(2; +∞)",
+        "(−∞; 2]"
+      ],
+      "answer": 1,
+      "explain": "x − 2 ≥ 0 ⇒ 1x ≥ 2 ⇒ x ≥ 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; +∞)",
+        "(3; +∞)",
+        "(−∞; 3]",
+        "[3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x − 3 ≥ 0 ⇒ 1x ≥ 3 ⇒ x ≥ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "[-4; +∞)",
+        "(4; +∞)",
+        "(−∞; 4]"
+      ],
+      "answer": 0,
+      "explain": "x − 4 ≥ 0 ⇒ 1x ≥ 4 ⇒ x ≥ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-5; +∞)",
+        "(−∞; 5]",
+        "[5; +∞)",
+        "(5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x − 5 ≥ 0 ⇒ 1x ≥ 5 ⇒ x ≥ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(6; +∞)",
+        "(−∞; 6]",
+        "[-6; +∞)",
+        "[6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x − 6 ≥ 0 ⇒ 1x ≥ 6 ⇒ x ≥ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x + 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[6; +∞)",
+        "(−∞; -6]",
+        "[-6; +∞)",
+        "(-6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "2x + 12 ≥ 0 ⇒ 2x ≥ -12 ⇒ x ≥ -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x + 10) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-5; +∞)",
+        "[5; +∞)",
+        "(-5; +∞)",
+        "(−∞; -5]"
+      ],
+      "answer": 0,
+      "explain": "2x + 10 ≥ 0 ⇒ 2x ≥ -10 ⇒ x ≥ -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x + 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "(-4; +∞)",
+        "[-4; +∞)",
+        "(−∞; -4]"
+      ],
+      "answer": 2,
+      "explain": "2x + 8 ≥ 0 ⇒ 2x ≥ -8 ⇒ x ≥ -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x + 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; +∞)",
+        "(−∞; -3]",
+        "[3; +∞)",
+        "(-3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "2x + 6 ≥ 0 ⇒ 2x ≥ -6 ⇒ x ≥ -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x + 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[2; +∞)",
+        "(-2; +∞)",
+        "(−∞; -2]",
+        "[-2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "2x + 4 ≥ 0 ⇒ 2x ≥ -4 ⇒ x ≥ -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x + 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -1]",
+        "[-1; +∞)",
+        "(-1; +∞)",
+        "[1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "2x + 2 ≥ 0 ⇒ 2x ≥ -2 ⇒ x ≥ -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x − 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 1]",
+        "(1; +∞)",
+        "[-1; +∞)",
+        "[1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "2x − 2 ≥ 0 ⇒ 2x ≥ 2 ⇒ x ≥ 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(2; +∞)",
+        "(−∞; 2]",
+        "[2; +∞)",
+        "[-2; +∞)"
+      ],
+      "answer": 2,
+      "explain": "2x − 4 ≥ 0 ⇒ 2x ≥ 4 ⇒ x ≥ 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 3]",
+        "[-3; +∞)",
+        "(3; +∞)",
+        "[3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "2x − 6 ≥ 0 ⇒ 2x ≥ 6 ⇒ x ≥ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x − 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(4; +∞)",
+        "(−∞; 4]",
+        "[4; +∞)",
+        "[-4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "2x − 8 ≥ 0 ⇒ 2x ≥ 8 ⇒ x ≥ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x − 10) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 5]",
+        "(5; +∞)",
+        "[-5; +∞)",
+        "[5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "2x − 10 ≥ 0 ⇒ 2x ≥ 10 ⇒ x ≥ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(2x − 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(6; +∞)",
+        "[6; +∞)",
+        "[-6; +∞)",
+        "(−∞; 6]"
+      ],
+      "answer": 1,
+      "explain": "2x − 12 ≥ 0 ⇒ 2x ≥ 12 ⇒ x ≥ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x + 18) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -6]",
+        "(-6; +∞)",
+        "[6; +∞)",
+        "[-6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "3x + 18 ≥ 0 ⇒ 3x ≥ -18 ⇒ x ≥ -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x + 15) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-5; +∞)",
+        "[-5; +∞)",
+        "(−∞; -5]",
+        "[5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "3x + 15 ≥ 0 ⇒ 3x ≥ -15 ⇒ x ≥ -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x + 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -4]",
+        "[4; +∞)",
+        "[-4; +∞)",
+        "(-4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "3x + 12 ≥ 0 ⇒ 3x ≥ -12 ⇒ x ≥ -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x + 9) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -3]",
+        "[3; +∞)",
+        "(-3; +∞)",
+        "[-3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "3x + 9 ≥ 0 ⇒ 3x ≥ -9 ⇒ x ≥ -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x + 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; +∞)",
+        "[2; +∞)",
+        "(−∞; -2]",
+        "(-2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "3x + 6 ≥ 0 ⇒ 3x ≥ -6 ⇒ x ≥ -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x + 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-1; +∞)",
+        "(−∞; -1]",
+        "(-1; +∞)",
+        "[1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "3x + 3 ≥ 0 ⇒ 3x ≥ -3 ⇒ x ≥ -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x − 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[1; +∞)",
+        "(−∞; 1]",
+        "(1; +∞)",
+        "[-1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "3x − 3 ≥ 0 ⇒ 3x ≥ 3 ⇒ x ≥ 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; +∞)",
+        "(2; +∞)",
+        "(−∞; 2]",
+        "[2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "3x − 6 ≥ 0 ⇒ 3x ≥ 6 ⇒ x ≥ 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x − 9) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; +∞)",
+        "[3; +∞)",
+        "(3; +∞)",
+        "(−∞; 3]"
+      ],
+      "answer": 1,
+      "explain": "3x − 9 ≥ 0 ⇒ 3x ≥ 9 ⇒ x ≥ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x − 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 4]",
+        "(4; +∞)",
+        "[-4; +∞)",
+        "[4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "3x − 12 ≥ 0 ⇒ 3x ≥ 12 ⇒ x ≥ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x − 15) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-5; +∞)",
+        "[5; +∞)",
+        "(−∞; 5]",
+        "(5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "3x − 15 ≥ 0 ⇒ 3x ≥ 15 ⇒ x ≥ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(3x − 18) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(6; +∞)",
+        "(−∞; 6]",
+        "[6; +∞)",
+        "[-6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "3x − 18 ≥ 0 ⇒ 3x ≥ 18 ⇒ x ≥ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x + 24) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -6]",
+        "(-6; +∞)",
+        "[-6; +∞)",
+        "[6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "4x + 24 ≥ 0 ⇒ 4x ≥ -24 ⇒ x ≥ -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x + 20) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-5; +∞)",
+        "[5; +∞)",
+        "(−∞; -5]",
+        "(-5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "4x + 20 ≥ 0 ⇒ 4x ≥ -20 ⇒ x ≥ -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x + 16) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "[-4; +∞)",
+        "(-4; +∞)",
+        "(−∞; -4]"
+      ],
+      "answer": 1,
+      "explain": "4x + 16 ≥ 0 ⇒ 4x ≥ -16 ⇒ x ≥ -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x + 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-3; +∞)",
+        "(−∞; -3]",
+        "[-3; +∞)",
+        "[3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "4x + 12 ≥ 0 ⇒ 4x ≥ -12 ⇒ x ≥ -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x + 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -2]",
+        "[-2; +∞)",
+        "[2; +∞)",
+        "(-2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "4x + 8 ≥ 0 ⇒ 4x ≥ -8 ⇒ x ≥ -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x + 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -1]",
+        "[1; +∞)",
+        "(-1; +∞)",
+        "[-1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "4x + 4 ≥ 0 ⇒ 4x ≥ -4 ⇒ x ≥ -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 1]",
+        "(1; +∞)",
+        "[1; +∞)",
+        "[-1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "4x − 4 ≥ 0 ⇒ 4x ≥ 4 ⇒ x ≥ 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x − 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; +∞)",
+        "(−∞; 2]",
+        "(2; +∞)",
+        "[2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "4x − 8 ≥ 0 ⇒ 4x ≥ 8 ⇒ x ≥ 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x − 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; +∞)",
+        "(3; +∞)",
+        "[3; +∞)",
+        "(−∞; 3]"
+      ],
+      "answer": 2,
+      "explain": "4x − 12 ≥ 0 ⇒ 4x ≥ 12 ⇒ x ≥ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x − 16) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "(4; +∞)",
+        "[-4; +∞)",
+        "(−∞; 4]"
+      ],
+      "answer": 0,
+      "explain": "4x − 16 ≥ 0 ⇒ 4x ≥ 16 ⇒ x ≥ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x − 20) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[5; +∞)",
+        "(−∞; 5]",
+        "(5; +∞)",
+        "[-5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "4x − 20 ≥ 0 ⇒ 4x ≥ 20 ⇒ x ≥ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4x − 24) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-6; +∞)",
+        "(6; +∞)",
+        "[6; +∞)",
+        "(−∞; 6]"
+      ],
+      "answer": 2,
+      "explain": "4x − 24 ≥ 0 ⇒ 4x ≥ 24 ⇒ x ≥ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x + 30) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[6; +∞)",
+        "(−∞; -6]",
+        "[-6; +∞)",
+        "(-6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "5x + 30 ≥ 0 ⇒ 5x ≥ -30 ⇒ x ≥ -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x + 25) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-5; +∞)",
+        "(-5; +∞)",
+        "[5; +∞)",
+        "(−∞; -5]"
+      ],
+      "answer": 0,
+      "explain": "5x + 25 ≥ 0 ⇒ 5x ≥ -25 ⇒ x ≥ -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x + 20) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-4; +∞)",
+        "[4; +∞)",
+        "(−∞; -4]",
+        "(-4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "5x + 20 ≥ 0 ⇒ 5x ≥ -20 ⇒ x ≥ -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x + 15) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; +∞)",
+        "(-3; +∞)",
+        "(−∞; -3]",
+        "[3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "5x + 15 ≥ 0 ⇒ 5x ≥ -15 ⇒ x ≥ -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x + 10) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-2; +∞)",
+        "(−∞; -2]",
+        "[2; +∞)",
+        "[-2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "5x + 10 ≥ 0 ⇒ 5x ≥ -10 ⇒ x ≥ -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x + 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[1; +∞)",
+        "(−∞; -1]",
+        "[-1; +∞)",
+        "(-1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "5x + 5 ≥ 0 ⇒ 5x ≥ -5 ⇒ x ≥ -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x − 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(1; +∞)",
+        "[-1; +∞)",
+        "[1; +∞)",
+        "(−∞; 1]"
+      ],
+      "answer": 2,
+      "explain": "5x − 5 ≥ 0 ⇒ 5x ≥ 5 ⇒ x ≥ 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x − 10) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; +∞)",
+        "(2; +∞)",
+        "[2; +∞)",
+        "(−∞; 2]"
+      ],
+      "answer": 2,
+      "explain": "5x − 10 ≥ 0 ⇒ 5x ≥ 10 ⇒ x ≥ 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x − 15) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(3; +∞)",
+        "[-3; +∞)",
+        "(−∞; 3]",
+        "[3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "5x − 15 ≥ 0 ⇒ 5x ≥ 15 ⇒ x ≥ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x − 20) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "(−∞; 4]",
+        "(4; +∞)",
+        "[-4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "5x − 20 ≥ 0 ⇒ 5x ≥ 20 ⇒ x ≥ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x − 25) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[5; +∞)",
+        "(5; +∞)",
+        "[-5; +∞)",
+        "(−∞; 5]"
+      ],
+      "answer": 0,
+      "explain": "5x − 25 ≥ 0 ⇒ 5x ≥ 25 ⇒ x ≥ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(5x − 30) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[6; +∞)",
+        "(6; +∞)",
+        "(−∞; 6]",
+        "[-6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "5x − 30 ≥ 0 ⇒ 5x ≥ 30 ⇒ x ≥ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x + 36) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -6]",
+        "[6; +∞)",
+        "(-6; +∞)",
+        "[-6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "6x + 36 ≥ 0 ⇒ 6x ≥ -36 ⇒ x ≥ -6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x + 30) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -5]",
+        "[5; +∞)",
+        "[-5; +∞)",
+        "(-5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "6x + 30 ≥ 0 ⇒ 6x ≥ -30 ⇒ x ≥ -5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x + 24) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -4]",
+        "[4; +∞)",
+        "[-4; +∞)",
+        "(-4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "6x + 24 ≥ 0 ⇒ 6x ≥ -24 ⇒ x ≥ -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x + 18) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[3; +∞)",
+        "(-3; +∞)",
+        "(−∞; -3]",
+        "[-3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "6x + 18 ≥ 0 ⇒ 6x ≥ -18 ⇒ x ≥ -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x + 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[2; +∞)",
+        "(-2; +∞)",
+        "[-2; +∞)",
+        "(−∞; -2]"
+      ],
+      "answer": 2,
+      "explain": "6x + 12 ≥ 0 ⇒ 6x ≥ -12 ⇒ x ≥ -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x + 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-1; +∞)",
+        "[-1; +∞)",
+        "(−∞; -1]",
+        "[1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "6x + 6 ≥ 0 ⇒ 6x ≥ -6 ⇒ x ≥ -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 1]",
+        "[-1; +∞)",
+        "(1; +∞)",
+        "[1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "6x − 6 ≥ 0 ⇒ 6x ≥ 6 ⇒ x ≥ 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x − 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 2]",
+        "(2; +∞)",
+        "[-2; +∞)",
+        "[2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "6x − 12 ≥ 0 ⇒ 6x ≥ 12 ⇒ x ≥ 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x − 18) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 3]",
+        "[-3; +∞)",
+        "(3; +∞)",
+        "[3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "6x − 18 ≥ 0 ⇒ 6x ≥ 18 ⇒ x ≥ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x − 24) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "(4; +∞)",
+        "[-4; +∞)",
+        "(−∞; 4]"
+      ],
+      "answer": 0,
+      "explain": "6x − 24 ≥ 0 ⇒ 6x ≥ 24 ⇒ x ≥ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x − 30) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[5; +∞)",
+        "(5; +∞)",
+        "(−∞; 5]",
+        "[-5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "6x − 30 ≥ 0 ⇒ 6x ≥ 30 ⇒ x ≥ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(6x − 36) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(6; +∞)",
+        "[6; +∞)",
+        "(−∞; 6]",
+        "[-6; +∞)"
+      ],
+      "answer": 1,
+      "explain": "6x − 36 ≥ 0 ⇒ 6x ≥ 36 ⇒ x ≥ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(1 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[−1; 1]",
+        "(−1; 1)",
+        "(−∞; −1] ∪ [1; +∞)",
+        "[0; 1]"
+      ],
+      "answer": 0,
+      "explain": "1 − x² ≥ 0 ⇒ x² ≤ 1 ⇒ −1 ≤ x ≤ 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[−1; 1]",
+        "[1; +∞)",
+        "(−∞; −1) ∪ (1; +∞)",
+        "(−∞; −1] ∪ [1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − 1 ≥ 0 ⇒ |x| ≥ 1."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(1 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "1",
+      "explain": "(-1; 1) ochiq intervalda −0 dan 0 gacha jami 1 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(1 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "3",
+      "explain": "[−1; 1] kesmada −1 dan 1 gacha jami 3 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(4 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[−2; 2]",
+        "(−∞; −2] ∪ [2; +∞)",
+        "[0; 2]",
+        "(−2; 2)"
+      ],
+      "answer": 0,
+      "explain": "4 − x² ≥ 0 ⇒ x² ≤ 4 ⇒ −2 ≤ x ≤ 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; −2] ∪ [2; +∞)",
+        "[−2; 2]",
+        "[2; +∞)",
+        "(−∞; −2) ∪ (2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x² − 4 ≥ 0 ⇒ |x| ≥ 2."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(4 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "3",
+      "explain": "(-2; 2) ochiq intervalda −1 dan 1 gacha jami 3 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(4 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "5",
+      "explain": "[−2; 2] kesmada −2 dan 2 gacha jami 5 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(9 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−3; 3)",
+        "[−3; 3]",
+        "(−∞; −3] ∪ [3; +∞)",
+        "[0; 3]"
+      ],
+      "answer": 1,
+      "explain": "9 − x² ≥ 0 ⇒ x² ≤ 9 ⇒ −3 ≤ x ≤ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 9) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; −3] ∪ [3; +∞)",
+        "[−3; 3]",
+        "(−∞; −3) ∪ (3; +∞)",
+        "[3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x² − 9 ≥ 0 ⇒ |x| ≥ 3."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(9 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "5",
+      "explain": "(-3; 3) ochiq intervalda −2 dan 2 gacha jami 5 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(9 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "7",
+      "explain": "[−3; 3] kesmada −3 dan 3 gacha jami 7 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(16 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[−4; 4]",
+        "(−4; 4)",
+        "(−∞; −4] ∪ [4; +∞)",
+        "[0; 4]"
+      ],
+      "answer": 0,
+      "explain": "16 − x² ≥ 0 ⇒ x² ≤ 16 ⇒ −4 ≤ x ≤ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 16) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[−4; 4]",
+        "(−∞; −4] ∪ [4; +∞)",
+        "[4; +∞)",
+        "(−∞; −4) ∪ (4; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² − 16 ≥ 0 ⇒ |x| ≥ 4."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(16 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "7",
+      "explain": "(-4; 4) ochiq intervalda −3 dan 3 gacha jami 7 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(16 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "9",
+      "explain": "[−4; 4] kesmada −4 dan 4 gacha jami 9 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(25 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; −5] ∪ [5; +∞)",
+        "(−5; 5)",
+        "[−5; 5]",
+        "[0; 5]"
+      ],
+      "answer": 2,
+      "explain": "25 − x² ≥ 0 ⇒ x² ≤ 25 ⇒ −5 ≤ x ≤ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 25) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[−5; 5]",
+        "(−∞; −5] ∪ [5; +∞)",
+        "[5; +∞)",
+        "(−∞; −5) ∪ (5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² − 25 ≥ 0 ⇒ |x| ≥ 5."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(25 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "9",
+      "explain": "(-5; 5) ochiq intervalda −4 dan 4 gacha jami 9 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(25 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "11",
+      "explain": "[−5; 5] kesmada −5 dan 5 gacha jami 11 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(36 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−6; 6)",
+        "[0; 6]",
+        "(−∞; −6] ∪ [6; +∞)",
+        "[−6; 6]"
+      ],
+      "answer": 3,
+      "explain": "36 − x² ≥ 0 ⇒ x² ≤ 36 ⇒ −6 ≤ x ≤ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 36) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[−6; 6]",
+        "(−∞; −6] ∪ [6; +∞)",
+        "(−∞; −6) ∪ (6; +∞)",
+        "[6; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² − 36 ≥ 0 ⇒ |x| ≥ 6."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(36 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "11",
+      "explain": "(-6; 6) ochiq intervalda −5 dan 5 gacha jami 11 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(36 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "13",
+      "explain": "[−6; 6] kesmada −6 dan 6 gacha jami 13 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(49 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[0; 7]",
+        "(−7; 7)",
+        "[−7; 7]",
+        "(−∞; −7] ∪ [7; +∞)"
+      ],
+      "answer": 2,
+      "explain": "49 − x² ≥ 0 ⇒ x² ≤ 49 ⇒ −7 ≤ x ≤ 7."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 49) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[7; +∞)",
+        "(−∞; −7) ∪ (7; +∞)",
+        "[−7; 7]",
+        "(−∞; −7] ∪ [7; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − 49 ≥ 0 ⇒ |x| ≥ 7."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(49 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "13",
+      "explain": "(-7; 7) ochiq intervalda −6 dan 6 gacha jami 13 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(49 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "15",
+      "explain": "[−7; 7] kesmada −7 dan 7 gacha jami 15 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(64 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−8; 8)",
+        "[−8; 8]",
+        "(−∞; −8] ∪ [8; +∞)",
+        "[0; 8]"
+      ],
+      "answer": 1,
+      "explain": "64 − x² ≥ 0 ⇒ x² ≤ 64 ⇒ −8 ≤ x ≤ 8."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 64) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[8; +∞)",
+        "[−8; 8]",
+        "(−∞; −8] ∪ [8; +∞)",
+        "(−∞; −8) ∪ (8; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x² − 64 ≥ 0 ⇒ |x| ≥ 8."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(64 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "15",
+      "explain": "(-8; 8) ochiq intervalda −7 dan 7 gacha jami 15 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(64 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "17",
+      "explain": "[−8; 8] kesmada −8 dan 8 gacha jami 17 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(81 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−9; 9)",
+        "(−∞; −9] ∪ [9; +∞)",
+        "[0; 9]",
+        "[−9; 9]"
+      ],
+      "answer": 3,
+      "explain": "81 − x² ≥ 0 ⇒ x² ≤ 81 ⇒ −9 ≤ x ≤ 9."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 81) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[9; +∞)",
+        "[−9; 9]",
+        "(−∞; −9) ∪ (9; +∞)",
+        "(−∞; −9] ∪ [9; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − 81 ≥ 0 ⇒ |x| ≥ 9."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(81 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "17",
+      "explain": "(-9; 9) ochiq intervalda −8 dan 8 gacha jami 17 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(81 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "19",
+      "explain": "[−9; 9] kesmada −9 dan 9 gacha jami 19 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(100 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[−10; 10]",
+        "[0; 10]",
+        "(−10; 10)",
+        "(−∞; −10] ∪ [10; +∞)"
+      ],
+      "answer": 0,
+      "explain": "100 − x² ≥ 0 ⇒ x² ≤ 100 ⇒ −10 ≤ x ≤ 10."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 100) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[−10; 10]",
+        "(−∞; −10] ∪ [10; +∞)",
+        "[10; +∞)",
+        "(−∞; −10) ∪ (10; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² − 100 ≥ 0 ⇒ |x| ≥ 10."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(100 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "19",
+      "explain": "(-10; 10) ochiq intervalda −9 dan 9 gacha jami 19 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(100 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "21",
+      "explain": "[−10; 10] kesmada −10 dan 10 gacha jami 21 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(121 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[0; 11]",
+        "(−11; 11)",
+        "(−∞; −11] ∪ [11; +∞)",
+        "[−11; 11]"
+      ],
+      "answer": 3,
+      "explain": "121 − x² ≥ 0 ⇒ x² ≤ 121 ⇒ −11 ≤ x ≤ 11."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 121) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[−11; 11]",
+        "(−∞; −11] ∪ [11; +∞)",
+        "[11; +∞)",
+        "(−∞; −11) ∪ (11; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² − 121 ≥ 0 ⇒ |x| ≥ 11."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(121 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "21",
+      "explain": "(-11; 11) ochiq intervalda −10 dan 10 gacha jami 21 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(121 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "23",
+      "explain": "[−11; 11] kesmada −11 dan 11 gacha jami 23 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(144 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; −12] ∪ [12; +∞)",
+        "[−12; 12]",
+        "(−12; 12)",
+        "[0; 12]"
+      ],
+      "answer": 1,
+      "explain": "144 − x² ≥ 0 ⇒ x² ≤ 144 ⇒ −12 ≤ x ≤ 12."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 144) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; −12] ∪ [12; +∞)",
+        "[−12; 12]",
+        "[12; +∞)",
+        "(−∞; −12) ∪ (12; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x² − 144 ≥ 0 ⇒ |x| ≥ 12."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(144 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "23",
+      "explain": "(-12; 12) ochiq intervalda −11 dan 11 gacha jami 23 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(144 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "25",
+      "explain": "[−12; 12] kesmada −12 dan 12 gacha jami 25 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(169 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[0; 13]",
+        "(−∞; −13] ∪ [13; +∞)",
+        "(−13; 13)",
+        "[−13; 13]"
+      ],
+      "answer": 3,
+      "explain": "169 − x² ≥ 0 ⇒ x² ≤ 169 ⇒ −13 ≤ x ≤ 13."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 169) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[13; +∞)",
+        "[−13; 13]",
+        "(−∞; −13) ∪ (13; +∞)",
+        "(−∞; −13] ∪ [13; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − 169 ≥ 0 ⇒ |x| ≥ 13."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(169 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "25",
+      "explain": "(-13; 13) ochiq intervalda −12 dan 12 gacha jami 25 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(169 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "27",
+      "explain": "[−13; 13] kesmada −13 dan 13 gacha jami 27 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(196 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−14; 14)",
+        "(−∞; −14] ∪ [14; +∞)",
+        "[0; 14]",
+        "[−14; 14]"
+      ],
+      "answer": 3,
+      "explain": "196 − x² ≥ 0 ⇒ x² ≤ 196 ⇒ −14 ≤ x ≤ 14."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 196) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[14; +∞)",
+        "(−∞; −14) ∪ (14; +∞)",
+        "[−14; 14]",
+        "(−∞; −14] ∪ [14; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − 196 ≥ 0 ⇒ |x| ≥ 14."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(196 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "27",
+      "explain": "(-14; 14) ochiq intervalda −13 dan 13 gacha jami 27 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(196 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "29",
+      "explain": "[−14; 14] kesmada −14 dan 14 gacha jami 29 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(225 − x²) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−15; 15)",
+        "(−∞; −15] ∪ [15; +∞)",
+        "[−15; 15]",
+        "[0; 15]"
+      ],
+      "answer": 2,
+      "explain": "225 − x² ≥ 0 ⇒ x² ≤ 225 ⇒ −15 ≤ x ≤ 15."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 225) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; −15] ∪ [15; +∞)",
+        "[15; +∞)",
+        "[−15; 15]",
+        "(−∞; −15) ∪ (15; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x² − 225 ≥ 0 ⇒ |x| ≥ 15."
+    },
+    {
+      "type": "fill",
+      "q": "y = 1 / √(225 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "29",
+      "explain": "(-15; 15) ochiq intervalda −14 dan 14 gacha jami 29 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "y = √(225 − x²) funksiyaning aniqlanish sohasida nechta butun son bor?",
+      "answer": "31",
+      "explain": "[−15; 15] kesmada −15 dan 15 gacha jami 31 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + 9x + 20) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -5] ∪ [-4; +∞)",
+        "[-4; +∞)",
+        "(−∞; -5) ∪ (-4; +∞)",
+        "[-5; -4]"
+      ],
+      "answer": 0,
+      "explain": "x² + 9x + 20 ≥ 0 tengsizlik yechimi: (−∞; -5] ∪ [-4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² + 8x + 15) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-5; -3)",
+        "x ≠ 5, x ≠ 3",
+        "x > -3",
+        "x ≠ -5, x ≠ -3"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² + 8x + 15 ≠ 0 bo'lishi kerak, ya'ni x ≠ -5 va x ≠ -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + 7x + 10) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-5; -2]",
+        "(−∞; -5] ∪ [-2; +∞)",
+        "(−∞; -5) ∪ (-2; +∞)",
+        "[-2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² + 7x + 10 ≥ 0 tengsizlik yechimi: (−∞; -5] ∪ [-2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² + 6x + 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x > -1",
+        "x ≠ 5, x ≠ 1",
+        "x ≠ -5, x ≠ -1",
+        "(-5; -1)"
+      ],
+      "answer": 2,
+      "explain": "Maxraj x² + 6x + 5 ≠ 0 bo'lishi kerak, ya'ni x ≠ -5 va x ≠ -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + 5x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-5; 0]",
+        "[0; +∞)",
+        "(−∞; -5] ∪ [0; +∞)",
+        "(−∞; -5) ∪ (0; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x² + 5x ≥ 0 tengsizlik yechimi: (−∞; -5] ∪ [0; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² + 4x − 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-5; 1)",
+        "x ≠ 5, x ≠ -1",
+        "x > 1",
+        "x ≠ -5, x ≠ 1"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² + 4x − 5 ≠ 0 bo'lishi kerak, ya'ni x ≠ -5 va x ≠ 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + 3x − 10) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -5) ∪ (2; +∞)",
+        "[-5; 2]",
+        "[2; +∞)",
+        "(−∞; -5] ∪ [2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² + 3x − 10 ≥ 0 tengsizlik yechimi: (−∞; -5] ∪ [2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² + 2x − 15) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ -5, x ≠ 3",
+        "x > 3",
+        "x ≠ 5, x ≠ -3",
+        "(-5; 3)"
+      ],
+      "answer": 0,
+      "explain": "Maxraj x² + 2x − 15 ≠ 0 bo'lishi kerak, ya'ni x ≠ -5 va x ≠ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + x − 20) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -5] ∪ [4; +∞)",
+        "(−∞; -5) ∪ (4; +∞)",
+        "[4; +∞)",
+        "[-5; 4]"
+      ],
+      "answer": 0,
+      "explain": "x² + x − 20 ≥ 0 tengsizlik yechimi: (−∞; -5] ∪ [4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 25) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-5; 5)",
+        "x > 5",
+        "x ≠ 5, x ≠ -5",
+        "x ≠ -5, x ≠ 5"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² − 25 ≠ 0 bo'lishi kerak, ya'ni x ≠ -5 va x ≠ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − x − 30) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -5] ∪ [6; +∞)",
+        "(−∞; -5) ∪ (6; +∞)",
+        "[-5; 6]",
+        "[6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x² − x − 30 ≥ 0 tengsizlik yechimi: (−∞; -5] ∪ [6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + 7x + 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -4] ∪ [-3; +∞)",
+        "[-4; -3]",
+        "(−∞; -4) ∪ (-3; +∞)",
+        "[-3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x² + 7x + 12 ≥ 0 tengsizlik yechimi: (−∞; -4] ∪ [-3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² + 6x + 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x > -2",
+        "x ≠ -4, x ≠ -2",
+        "(-4; -2)",
+        "x ≠ 4, x ≠ 2"
+      ],
+      "answer": 1,
+      "explain": "Maxraj x² + 6x + 8 ≠ 0 bo'lishi kerak, ya'ni x ≠ -4 va x ≠ -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + 5x + 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -4) ∪ (-1; +∞)",
+        "(−∞; -4] ∪ [-1; +∞)",
+        "[-1; +∞)",
+        "[-4; -1]"
+      ],
+      "answer": 1,
+      "explain": "x² + 5x + 4 ≥ 0 tengsizlik yechimi: (−∞; -4] ∪ [-1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² + 4x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-4; 0)",
+        "x > 0",
+        "x ≠ -4, x ≠ 0",
+        "x ≠ 4, x ≠ 0"
+      ],
+      "answer": 2,
+      "explain": "Maxraj x² + 4x ≠ 0 bo'lishi kerak, ya'ni x ≠ -4 va x ≠ 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + 3x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -4] ∪ [1; +∞)",
+        "[1; +∞)",
+        "(−∞; -4) ∪ (1; +∞)",
+        "[-4; 1]"
+      ],
+      "answer": 0,
+      "explain": "x² + 3x − 4 ≥ 0 tengsizlik yechimi: (−∞; -4] ∪ [1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² + 2x − 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-4; 2)",
+        "x > 2",
+        "x ≠ -4, x ≠ 2",
+        "x ≠ 4, x ≠ -2"
+      ],
+      "answer": 2,
+      "explain": "Maxraj x² + 2x − 8 ≠ 0 bo'lishi kerak, ya'ni x ≠ -4 va x ≠ 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + x − 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-4; 3]",
+        "[3; +∞)",
+        "(−∞; -4) ∪ (3; +∞)",
+        "(−∞; -4] ∪ [3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² + x − 12 ≥ 0 tengsizlik yechimi: (−∞; -4] ∪ [3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 16) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x > 4",
+        "(-4; 4)",
+        "x ≠ 4, x ≠ -4",
+        "x ≠ -4, x ≠ 4"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² − 16 ≠ 0 bo'lishi kerak, ya'ni x ≠ -4 va x ≠ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − x − 20) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -4] ∪ [5; +∞)",
+        "[5; +∞)",
+        "(−∞; -4) ∪ (5; +∞)",
+        "[-4; 5]"
+      ],
+      "answer": 0,
+      "explain": "x² − x − 20 ≥ 0 tengsizlik yechimi: (−∞; -4] ∪ [5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 2x − 24) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x > 6",
+        "x ≠ 4, x ≠ -6",
+        "(-4; 6)",
+        "x ≠ -4, x ≠ 6"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² − 2x − 24 ≠ 0 bo'lishi kerak, ya'ni x ≠ -4 va x ≠ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + 5x + 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; -2]",
+        "[-2; +∞)",
+        "(−∞; -3] ∪ [-2; +∞)",
+        "(−∞; -3) ∪ (-2; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x² + 5x + 6 ≥ 0 tengsizlik yechimi: (−∞; -3] ∪ [-2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² + 4x + 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x > -1",
+        "x ≠ 3, x ≠ 1",
+        "(-3; -1)",
+        "x ≠ -3, x ≠ -1"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² + 4x + 3 ≠ 0 bo'lishi kerak, ya'ni x ≠ -3 va x ≠ -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + 3x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -3) ∪ (0; +∞)",
+        "(−∞; -3] ∪ [0; +∞)",
+        "[-3; 0]",
+        "[0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² + 3x ≥ 0 tengsizlik yechimi: (−∞; -3] ∪ [0; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² + 2x − 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ -3, x ≠ 1",
+        "x > 1",
+        "x ≠ 3, x ≠ -1",
+        "(-3; 1)"
+      ],
+      "answer": 0,
+      "explain": "Maxraj x² + 2x − 3 ≠ 0 bo'lishi kerak, ya'ni x ≠ -3 va x ≠ 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; 2]",
+        "(−∞; -3) ∪ (2; +∞)",
+        "(−∞; -3] ∪ [2; +∞)",
+        "[2; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x² + x − 6 ≥ 0 tengsizlik yechimi: (−∞; -3] ∪ [2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 9) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-3; 3)",
+        "x ≠ -3, x ≠ 3",
+        "x > 3",
+        "x ≠ 3, x ≠ -3"
+      ],
+      "answer": 1,
+      "explain": "Maxraj x² − 9 ≠ 0 bo'lishi kerak, ya'ni x ≠ -3 va x ≠ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − x − 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; 4]",
+        "(−∞; -3) ∪ (4; +∞)",
+        "[4; +∞)",
+        "(−∞; -3] ∪ [4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − x − 12 ≥ 0 tengsizlik yechimi: (−∞; -3] ∪ [4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 2x − 15) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x > 5",
+        "x ≠ 3, x ≠ -5",
+        "(-3; 5)",
+        "x ≠ -3, x ≠ 5"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² − 2x − 15 ≠ 0 bo'lishi kerak, ya'ni x ≠ -3 va x ≠ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 3x − 18) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -3] ∪ [6; +∞)",
+        "(−∞; -3) ∪ (6; +∞)",
+        "[6; +∞)",
+        "[-3; 6]"
+      ],
+      "answer": 0,
+      "explain": "x² − 3x − 18 ≥ 0 tengsizlik yechimi: (−∞; -3] ∪ [6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + 3x + 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; -1]",
+        "[-1; +∞)",
+        "(−∞; -2) ∪ (-1; +∞)",
+        "(−∞; -2] ∪ [-1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² + 3x + 2 ≥ 0 tengsizlik yechimi: (−∞; -2] ∪ [-1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² + 2x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x > 0",
+        "x ≠ 2, x ≠ 0",
+        "x ≠ -2, x ≠ 0",
+        "(-2; 0)"
+      ],
+      "answer": 2,
+      "explain": "Maxraj x² + 2x ≠ 0 bo'lishi kerak, ya'ni x ≠ -2 va x ≠ 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + x − 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; 1]",
+        "(−∞; -2] ∪ [1; +∞)",
+        "[1; +∞)",
+        "(−∞; -2) ∪ (1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² + x − 2 ≥ 0 tengsizlik yechimi: (−∞; -2] ∪ [1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ 2, x ≠ -2",
+        "(-2; 2)",
+        "x > 2",
+        "x ≠ -2, x ≠ 2"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² − 4 ≠ 0 bo'lishi kerak, ya'ni x ≠ -2 va x ≠ 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[3; +∞)",
+        "(−∞; -2) ∪ (3; +∞)",
+        "[-2; 3]",
+        "(−∞; -2] ∪ [3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − x − 6 ≥ 0 tengsizlik yechimi: (−∞; -2] ∪ [3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 2x − 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ 2, x ≠ -4",
+        "(-2; 4)",
+        "x ≠ -2, x ≠ 4",
+        "x > 4"
+      ],
+      "answer": 2,
+      "explain": "Maxraj x² − 2x − 8 ≠ 0 bo'lishi kerak, ya'ni x ≠ -2 va x ≠ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 3x − 10) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; 5]",
+        "(−∞; -2] ∪ [5; +∞)",
+        "(−∞; -2) ∪ (5; +∞)",
+        "[5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² − 3x − 10 ≥ 0 tengsizlik yechimi: (−∞; -2] ∪ [5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 4x − 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ 2, x ≠ -6",
+        "(-2; 6)",
+        "x > 6",
+        "x ≠ -2, x ≠ 6"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² − 4x − 12 ≠ 0 bo'lishi kerak, ya'ni x ≠ -2 va x ≠ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² + x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-1; 0]",
+        "(−∞; -1] ∪ [0; +∞)",
+        "[0; +∞)",
+        "(−∞; -1) ∪ (0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x² + x ≥ 0 tengsizlik yechimi: (−∞; -1] ∪ [0; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ -1, x ≠ 1",
+        "x ≠ 1, x ≠ -1",
+        "(-1; 1)",
+        "x > 1"
+      ],
+      "answer": 0,
+      "explain": "Maxraj x² − 1 ≠ 0 bo'lishi kerak, ya'ni x ≠ -1 va x ≠ 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − x − 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -1] ∪ [2; +∞)",
+        "[2; +∞)",
+        "(−∞; -1) ∪ (2; +∞)",
+        "[-1; 2]"
+      ],
+      "answer": 0,
+      "explain": "x² − x − 2 ≥ 0 tengsizlik yechimi: (−∞; -1] ∪ [2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 2x − 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x > 3",
+        "(-1; 3)",
+        "x ≠ -1, x ≠ 3",
+        "x ≠ 1, x ≠ -3"
+      ],
+      "answer": 2,
+      "explain": "Maxraj x² − 2x − 3 ≠ 0 bo'lishi kerak, ya'ni x ≠ -1 va x ≠ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 3x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -1] ∪ [4; +∞)",
+        "(−∞; -1) ∪ (4; +∞)",
+        "[-1; 4]",
+        "[4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x² − 3x − 4 ≥ 0 tengsizlik yechimi: (−∞; -1] ∪ [4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 4x − 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ 1, x ≠ -5",
+        "x > 5",
+        "x ≠ -1, x ≠ 5",
+        "(-1; 5)"
+      ],
+      "answer": 2,
+      "explain": "Maxraj x² − 4x − 5 ≠ 0 bo'lishi kerak, ya'ni x ≠ -1 va x ≠ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 5x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-1; 6]",
+        "(−∞; -1) ∪ (6; +∞)",
+        "[6; +∞)",
+        "(−∞; -1] ∪ [6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − 5x − 6 ≥ 0 tengsizlik yechimi: (−∞; -1] ∪ [6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 0) ∪ (1; +∞)",
+        "[1; +∞)",
+        "(−∞; 0] ∪ [1; +∞)",
+        "[0; 1]"
+      ],
+      "answer": 2,
+      "explain": "x² − x ≥ 0 tengsizlik yechimi: (−∞; 0] ∪ [1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 2x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ 0, x ≠ 2",
+        "(0; 2)",
+        "x ≠ 0, x ≠ -2",
+        "x > 2"
+      ],
+      "answer": 0,
+      "explain": "Maxraj x² − 2x ≠ 0 bo'lishi kerak, ya'ni x ≠ 0 va x ≠ 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 3x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[3; +∞)",
+        "(−∞; 0) ∪ (3; +∞)",
+        "[0; 3]",
+        "(−∞; 0] ∪ [3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − 3x ≥ 0 tengsizlik yechimi: (−∞; 0] ∪ [3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 4x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(0; 4)",
+        "x > 4",
+        "x ≠ 0, x ≠ -4",
+        "x ≠ 0, x ≠ 4"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² − 4x ≠ 0 bo'lishi kerak, ya'ni x ≠ 0 va x ≠ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 5x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[5; +∞)",
+        "[0; 5]",
+        "(−∞; 0) ∪ (5; +∞)",
+        "(−∞; 0] ∪ [5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − 5x ≥ 0 tengsizlik yechimi: (−∞; 0] ∪ [5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 6x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(0; 6)",
+        "x ≠ 0, x ≠ 6",
+        "x ≠ 0, x ≠ -6",
+        "x > 6"
+      ],
+      "answer": 1,
+      "explain": "Maxraj x² − 6x ≠ 0 bo'lishi kerak, ya'ni x ≠ 0 va x ≠ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 3x + 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[2; +∞)",
+        "(−∞; 1) ∪ (2; +∞)",
+        "[1; 2]",
+        "(−∞; 1] ∪ [2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − 3x + 2 ≥ 0 tengsizlik yechimi: (−∞; 1] ∪ [2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 4x + 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ -1, x ≠ -3",
+        "(1; 3)",
+        "x ≠ 1, x ≠ 3",
+        "x > 3"
+      ],
+      "answer": 2,
+      "explain": "Maxraj x² − 4x + 3 ≠ 0 bo'lishi kerak, ya'ni x ≠ 1 va x ≠ 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 5x + 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "(−∞; 1) ∪ (4; +∞)",
+        "(−∞; 1] ∪ [4; +∞)",
+        "[1; 4]"
+      ],
+      "answer": 2,
+      "explain": "x² − 5x + 4 ≥ 0 tengsizlik yechimi: (−∞; 1] ∪ [4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 6x + 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x > 5",
+        "x ≠ -1, x ≠ -5",
+        "x ≠ 1, x ≠ 5",
+        "(1; 5)"
+      ],
+      "answer": 2,
+      "explain": "Maxraj x² − 6x + 5 ≠ 0 bo'lishi kerak, ya'ni x ≠ 1 va x ≠ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 7x + 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[6; +∞)",
+        "(−∞; 1) ∪ (6; +∞)",
+        "[1; 6]",
+        "(−∞; 1] ∪ [6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x² − 7x + 6 ≥ 0 tengsizlik yechimi: (−∞; 1] ∪ [6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 5x + 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[2; 3]",
+        "(−∞; 2) ∪ (3; +∞)",
+        "(−∞; 2] ∪ [3; +∞)",
+        "[3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x² − 5x + 6 ≥ 0 tengsizlik yechimi: (−∞; 2] ∪ [3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 6x + 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(2; 4)",
+        "x > 4",
+        "x ≠ -2, x ≠ -4",
+        "x ≠ 2, x ≠ 4"
+      ],
+      "answer": 3,
+      "explain": "Maxraj x² − 6x + 8 ≠ 0 bo'lishi kerak, ya'ni x ≠ 2 va x ≠ 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 7x + 10) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 2] ∪ [5; +∞)",
+        "[5; +∞)",
+        "[2; 5]",
+        "(−∞; 2) ∪ (5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x² − 7x + 10 ≥ 0 tengsizlik yechimi: (−∞; 2] ∪ [5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 8x + 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ 2, x ≠ 6",
+        "x ≠ -2, x ≠ -6",
+        "x > 6",
+        "(2; 6)"
+      ],
+      "answer": 0,
+      "explain": "Maxraj x² − 8x + 12 ≠ 0 bo'lishi kerak, ya'ni x ≠ 2 va x ≠ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 7x + 12) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "(−∞; 3) ∪ (4; +∞)",
+        "(−∞; 3] ∪ [4; +∞)",
+        "[3; 4]"
+      ],
+      "answer": 2,
+      "explain": "x² − 7x + 12 ≥ 0 tengsizlik yechimi: (−∞; 3] ∪ [4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 8x + 15) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ -3, x ≠ -5",
+        "x > 5",
+        "x ≠ 3, x ≠ 5",
+        "(3; 5)"
+      ],
+      "answer": 2,
+      "explain": "Maxraj x² − 8x + 15 ≠ 0 bo'lishi kerak, ya'ni x ≠ 3 va x ≠ 5."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 9x + 18) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 3) ∪ (6; +∞)",
+        "[6; +∞)",
+        "(−∞; 3] ∪ [6; +∞)",
+        "[3; 6]"
+      ],
+      "answer": 2,
+      "explain": "x² − 9x + 18 ≥ 0 tengsizlik yechimi: (−∞; 3] ∪ [6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x² − 9x + 20) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[5; +∞)",
+        "(−∞; 4) ∪ (5; +∞)",
+        "(−∞; 4] ∪ [5; +∞)",
+        "[4; 5]"
+      ],
+      "answer": 2,
+      "explain": "x² − 9x + 20 ≥ 0 tengsizlik yechimi: (−∞; 4] ∪ [5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = 1 / (x² − 10x + 24) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "x ≠ 4, x ≠ 6",
+        "(4; 6)",
+        "x > 6",
+        "x ≠ -4, x ≠ -6"
+      ],
+      "answer": 0,
+      "explain": "Maxraj x² − 10x + 24 ≠ 0 bo'lishi kerak, ya'ni x ≠ 4 va x ≠ 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 4) + 1/(x + 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; +∞)",
+        "(-4; -3) ∪ (-3; +∞)",
+        "[-4; -3) ∪ (-3; +∞)",
+        "[-4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x ≥ -4 va x ≠ -3 shartlar birgalikda [-4; -3) ∪ (-3; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 4) + √(-3 − x) funksiyaning aniqlanish sohasi [-4; -3] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -4 va x ≤ -3 shartlar kesishmasi [-4; -3]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 4) + 1/(x + 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-4; +∞)",
+        "[-2; +∞)",
+        "(-4; -2) ∪ (-2; +∞)",
+        "[-4; -2) ∪ (-2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ -4 va x ≠ -2 shartlar birgalikda [-4; -2) ∪ (-2; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 4) + √(-2 − x) funksiyaning aniqlanish sohasi [-4; -2] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -4 va x ≤ -2 shartlar kesishmasi [-4; -2]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 4) + 1/(x + 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-4; -1) ∪ (-1; +∞)",
+        "[-4; +∞)",
+        "[-1; +∞)",
+        "[-4; -1) ∪ (-1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ -4 va x ≠ -1 shartlar birgalikda [-4; -1) ∪ (-1; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 4) + √(-1 − x) funksiyaning aniqlanish sohasi [-4; -1] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -4 va x ≤ -1 shartlar kesishmasi [-4; -1]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 4) + 1/(x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-4; +∞)",
+        "[-4; 0) ∪ (0; +∞)",
+        "[0; +∞)",
+        "(-4; 0) ∪ (0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -4 va x ≠ 0 shartlar birgalikda [-4; 0) ∪ (0; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 4) + √(0 − x) funksiyaning aniqlanish sohasi [-4; 0] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -4 va x ≤ 0 shartlar kesishmasi [-4; 0]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 4) + 1/(x − 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[1; +∞)",
+        "[-4; +∞)",
+        "[-4; 1) ∪ (1; +∞)",
+        "(-4; 1) ∪ (1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x ≥ -4 va x ≠ 1 shartlar birgalikda [-4; 1) ∪ (1; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 4) + √(1 − x) funksiyaning aniqlanish sohasi [-4; 1] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -4 va x ≤ 1 shartlar kesishmasi [-4; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 4) + 1/(x − 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-4; +∞)",
+        "(-4; 2) ∪ (2; +∞)",
+        "[2; +∞)",
+        "[-4; 2) ∪ (2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ -4 va x ≠ 2 shartlar birgalikda [-4; 2) ∪ (2; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 4) + √(2 − x) funksiyaning aniqlanish sohasi [-4; 2] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -4 va x ≤ 2 shartlar kesishmasi [-4; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 3) + 1/(x + 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; +∞)",
+        "[-3; -2) ∪ (-2; +∞)",
+        "(-3; -2) ∪ (-2; +∞)",
+        "[-3; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -3 va x ≠ -2 shartlar birgalikda [-3; -2) ∪ (-2; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 3) + √(-2 − x) funksiyaning aniqlanish sohasi [-3; -2] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -3 va x ≤ -2 shartlar kesishmasi [-3; -2]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 3) + 1/(x + 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-3; -1) ∪ (-1; +∞)",
+        "[-1; +∞)",
+        "[-3; +∞)",
+        "[-3; -1) ∪ (-1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ -3 va x ≠ -1 shartlar birgalikda [-3; -1) ∪ (-1; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 3) + √(-1 − x) funksiyaning aniqlanish sohasi [-3; -1] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -3 va x ≤ -1 shartlar kesishmasi [-3; -1]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 3) + 1/(x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[0; +∞)",
+        "[-3; 0) ∪ (0; +∞)",
+        "(-3; 0) ∪ (0; +∞)",
+        "[-3; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -3 va x ≠ 0 shartlar birgalikda [-3; 0) ∪ (0; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 3) + √(0 − x) funksiyaning aniqlanish sohasi [-3; 0] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -3 va x ≤ 0 shartlar kesishmasi [-3; 0]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 3) + 1/(x − 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; 1) ∪ (1; +∞)",
+        "(-3; 1) ∪ (1; +∞)",
+        "[-3; +∞)",
+        "[1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ -3 va x ≠ 1 shartlar birgalikda [-3; 1) ∪ (1; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 3) + √(1 − x) funksiyaning aniqlanish sohasi [-3; 1] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -3 va x ≤ 1 shartlar kesishmasi [-3; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 3) + 1/(x − 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[2; +∞)",
+        "[-3; 2) ∪ (2; +∞)",
+        "[-3; +∞)",
+        "(-3; 2) ∪ (2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -3 va x ≠ 2 shartlar birgalikda [-3; 2) ∪ (2; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 3) + √(2 − x) funksiyaning aniqlanish sohasi [-3; 2] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -3 va x ≤ 2 shartlar kesishmasi [-3; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 3) + 1/(x − 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; +∞)",
+        "[-3; 3) ∪ (3; +∞)",
+        "(-3; 3) ∪ (3; +∞)",
+        "[3; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -3 va x ≠ 3 shartlar birgalikda [-3; 3) ∪ (3; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 3) + √(3 − x) funksiyaning aniqlanish sohasi [-3; 3] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -3 va x ≤ 3 shartlar kesishmasi [-3; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 2) + 1/(x + 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; -1) ∪ (-1; +∞)",
+        "(-2; -1) ∪ (-1; +∞)",
+        "[-1; +∞)",
+        "[-2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ -2 va x ≠ -1 shartlar birgalikda [-2; -1) ∪ (-1; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 2) + √(-1 − x) funksiyaning aniqlanish sohasi [-2; -1] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -2 va x ≤ -1 shartlar kesishmasi [-2; -1]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 2) + 1/(x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; 0) ∪ (0; +∞)",
+        "(-2; 0) ∪ (0; +∞)",
+        "[-2; +∞)",
+        "[0; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ -2 va x ≠ 0 shartlar birgalikda [-2; 0) ∪ (0; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 2) + √(0 − x) funksiyaning aniqlanish sohasi [-2; 0] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -2 va x ≤ 0 shartlar kesishmasi [-2; 0]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 2) + 1/(x − 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[1; +∞)",
+        "[-2; 1) ∪ (1; +∞)",
+        "(-2; 1) ∪ (1; +∞)",
+        "[-2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -2 va x ≠ 1 shartlar birgalikda [-2; 1) ∪ (1; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 2) + √(1 − x) funksiyaning aniqlanish sohasi [-2; 1] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -2 va x ≤ 1 shartlar kesishmasi [-2; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 2) + 1/(x − 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[2; +∞)",
+        "[-2; 2) ∪ (2; +∞)",
+        "(-2; 2) ∪ (2; +∞)",
+        "[-2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -2 va x ≠ 2 shartlar birgalikda [-2; 2) ∪ (2; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 2) + √(2 − x) funksiyaning aniqlanish sohasi [-2; 2] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -2 va x ≤ 2 shartlar kesishmasi [-2; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 2) + 1/(x − 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-2; 3) ∪ (3; +∞)",
+        "[3; +∞)",
+        "[-2; 3) ∪ (3; +∞)",
+        "[-2; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x ≥ -2 va x ≠ 3 shartlar birgalikda [-2; 3) ∪ (3; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 2) + √(3 − x) funksiyaning aniqlanish sohasi [-2; 3] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -2 va x ≤ 3 shartlar kesishmasi [-2; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 2) + 1/(x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "(-2; 4) ∪ (4; +∞)",
+        "[-2; +∞)",
+        "[-2; 4) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ -2 va x ≠ 4 shartlar birgalikda [-2; 4) ∪ (4; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 2) + √(4 − x) funksiyaning aniqlanish sohasi [-2; 4] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -2 va x ≤ 4 shartlar kesishmasi [-2; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 1) + 1/(x) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-1; +∞)",
+        "[-1; 0) ∪ (0; +∞)",
+        "(-1; 0) ∪ (0; +∞)",
+        "[0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -1 va x ≠ 0 shartlar birgalikda [-1; 0) ∪ (0; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 1) + √(0 − x) funksiyaning aniqlanish sohasi [-1; 0] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -1 va x ≤ 0 shartlar kesishmasi [-1; 0]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 1) + 1/(x − 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-1; +∞)",
+        "[-1; 1) ∪ (1; +∞)",
+        "[1; +∞)",
+        "(-1; 1) ∪ (1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -1 va x ≠ 1 shartlar birgalikda [-1; 1) ∪ (1; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 1) + √(1 − x) funksiyaning aniqlanish sohasi [-1; 1] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -1 va x ≤ 1 shartlar kesishmasi [-1; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 1) + 1/(x − 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-1; 2) ∪ (2; +∞)",
+        "[-1; +∞)",
+        "(-1; 2) ∪ (2; +∞)",
+        "[2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ -1 va x ≠ 2 shartlar birgalikda [-1; 2) ∪ (2; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 1) + √(2 − x) funksiyaning aniqlanish sohasi [-1; 2] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -1 va x ≤ 2 shartlar kesishmasi [-1; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 1) + 1/(x − 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[3; +∞)",
+        "[-1; 3) ∪ (3; +∞)",
+        "(-1; 3) ∪ (3; +∞)",
+        "[-1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -1 va x ≠ 3 shartlar birgalikda [-1; 3) ∪ (3; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 1) + √(3 − x) funksiyaning aniqlanish sohasi [-1; 3] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -1 va x ≤ 3 shartlar kesishmasi [-1; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 1) + 1/(x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(-1; 4) ∪ (4; +∞)",
+        "[4; +∞)",
+        "[-1; +∞)",
+        "[-1; 4) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ -1 va x ≠ 4 shartlar birgalikda [-1; 4) ∪ (4; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 1) + √(4 − x) funksiyaning aniqlanish sohasi [-1; 4] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -1 va x ≤ 4 shartlar kesishmasi [-1; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x + 1) + 1/(x − 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-1; +∞)",
+        "[-1; 5) ∪ (5; +∞)",
+        "(-1; 5) ∪ (5; +∞)",
+        "[5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ -1 va x ≠ 5 shartlar birgalikda [-1; 5) ∪ (5; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x + 1) + √(5 − x) funksiyaning aniqlanish sohasi [-1; 5] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ -1 va x ≤ 5 shartlar kesishmasi [-1; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x) + 1/(x − 1) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[0; +∞)",
+        "[1; +∞)",
+        "[0; 1) ∪ (1; +∞)",
+        "(0; 1) ∪ (1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x ≥ 0 va x ≠ 1 shartlar birgalikda [0; 1) ∪ (1; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x) + √(1 − x) funksiyaning aniqlanish sohasi [0; 1] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 0 va x ≤ 1 shartlar kesishmasi [0; 1]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x) + 1/(x − 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[0; 2) ∪ (2; +∞)",
+        "(0; 2) ∪ (2; +∞)",
+        "[0; +∞)",
+        "[2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ 0 va x ≠ 2 shartlar birgalikda [0; 2) ∪ (2; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x) + √(2 − x) funksiyaning aniqlanish sohasi [0; 2] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 0 va x ≤ 2 shartlar kesishmasi [0; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x) + 1/(x − 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(0; 3) ∪ (3; +∞)",
+        "[0; +∞)",
+        "[3; +∞)",
+        "[0; 3) ∪ (3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 0 va x ≠ 3 shartlar birgalikda [0; 3) ∪ (3; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x) + √(3 − x) funksiyaning aniqlanish sohasi [0; 3] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 0 va x ≤ 3 shartlar kesishmasi [0; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x) + 1/(x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[0; +∞)",
+        "[4; +∞)",
+        "(0; 4) ∪ (4; +∞)",
+        "[0; 4) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 0 va x ≠ 4 shartlar birgalikda [0; 4) ∪ (4; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x) + √(4 − x) funksiyaning aniqlanish sohasi [0; 4] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 0 va x ≤ 4 shartlar kesishmasi [0; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x) + 1/(x − 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[0; 5) ∪ (5; +∞)",
+        "[5; +∞)",
+        "[0; +∞)",
+        "(0; 5) ∪ (5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ 0 va x ≠ 5 shartlar birgalikda [0; 5) ∪ (5; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x) + √(5 − x) funksiyaning aniqlanish sohasi [0; 5] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 0 va x ≤ 5 shartlar kesishmasi [0; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x) + 1/(x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[0; 6) ∪ (6; +∞)",
+        "(0; 6) ∪ (6; +∞)",
+        "[0; +∞)",
+        "[6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ 0 va x ≠ 6 shartlar birgalikda [0; 6) ∪ (6; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x) + √(6 − x) funksiyaning aniqlanish sohasi [0; 6] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 0 va x ≤ 6 shartlar kesishmasi [0; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 1) + 1/(x − 2) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(1; 2) ∪ (2; +∞)",
+        "[1; +∞)",
+        "[2; +∞)",
+        "[1; 2) ∪ (2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 1 va x ≠ 2 shartlar birgalikda [1; 2) ∪ (2; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 1) + √(2 − x) funksiyaning aniqlanish sohasi [1; 2] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 1 va x ≤ 2 shartlar kesishmasi [1; 2]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 1) + 1/(x − 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[3; +∞)",
+        "[1; +∞)",
+        "(1; 3) ∪ (3; +∞)",
+        "[1; 3) ∪ (3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 1 va x ≠ 3 shartlar birgalikda [1; 3) ∪ (3; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 1) + √(3 − x) funksiyaning aniqlanish sohasi [1; 3] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 1 va x ≤ 3 shartlar kesishmasi [1; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 1) + 1/(x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(1; 4) ∪ (4; +∞)",
+        "[1; +∞)",
+        "[4; +∞)",
+        "[1; 4) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 1 va x ≠ 4 shartlar birgalikda [1; 4) ∪ (4; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 1) + √(4 − x) funksiyaning aniqlanish sohasi [1; 4] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 1 va x ≤ 4 shartlar kesishmasi [1; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 1) + 1/(x − 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[1; +∞)",
+        "[1; 5) ∪ (5; +∞)",
+        "(1; 5) ∪ (5; +∞)",
+        "[5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ 1 va x ≠ 5 shartlar birgalikda [1; 5) ∪ (5; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 1) + √(5 − x) funksiyaning aniqlanish sohasi [1; 5] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 1 va x ≤ 5 shartlar kesishmasi [1; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 1) + 1/(x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[6; +∞)",
+        "(1; 6) ∪ (6; +∞)",
+        "[1; 6) ∪ (6; +∞)",
+        "[1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x ≥ 1 va x ≠ 6 shartlar birgalikda [1; 6) ∪ (6; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 1) + √(6 − x) funksiyaning aniqlanish sohasi [1; 6] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 1 va x ≤ 6 shartlar kesishmasi [1; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 1) + 1/(x − 7) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[1; 7) ∪ (7; +∞)",
+        "(1; 7) ∪ (7; +∞)",
+        "[1; +∞)",
+        "[7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ 1 va x ≠ 7 shartlar birgalikda [1; 7) ∪ (7; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 1) + √(7 − x) funksiyaning aniqlanish sohasi [1; 7] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 1 va x ≤ 7 shartlar kesishmasi [1; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 2) + 1/(x − 3) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(2; 3) ∪ (3; +∞)",
+        "[3; +∞)",
+        "[2; +∞)",
+        "[2; 3) ∪ (3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 2 va x ≠ 3 shartlar birgalikda [2; 3) ∪ (3; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 2) + √(3 − x) funksiyaning aniqlanish sohasi [2; 3] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 2 va x ≤ 3 shartlar kesishmasi [2; 3]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 2) + 1/(x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(2; 4) ∪ (4; +∞)",
+        "[2; +∞)",
+        "[2; 4) ∪ (4; +∞)",
+        "[4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x ≥ 2 va x ≠ 4 shartlar birgalikda [2; 4) ∪ (4; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 2) + √(4 − x) funksiyaning aniqlanish sohasi [2; 4] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 2 va x ≤ 4 shartlar kesishmasi [2; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 2) + 1/(x − 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[2; 5) ∪ (5; +∞)",
+        "(2; 5) ∪ (5; +∞)",
+        "[5; +∞)",
+        "[2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ 2 va x ≠ 5 shartlar birgalikda [2; 5) ∪ (5; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 2) + √(5 − x) funksiyaning aniqlanish sohasi [2; 5] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 2 va x ≤ 5 shartlar kesishmasi [2; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 2) + 1/(x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(2; 6) ∪ (6; +∞)",
+        "[2; +∞)",
+        "[2; 6) ∪ (6; +∞)",
+        "[6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x ≥ 2 va x ≠ 6 shartlar birgalikda [2; 6) ∪ (6; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 2) + √(6 − x) funksiyaning aniqlanish sohasi [2; 6] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 2 va x ≤ 6 shartlar kesishmasi [2; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 2) + 1/(x − 7) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[7; +∞)",
+        "[2; +∞)",
+        "(2; 7) ∪ (7; +∞)",
+        "[2; 7) ∪ (7; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 2 va x ≠ 7 shartlar birgalikda [2; 7) ∪ (7; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 2) + √(7 − x) funksiyaning aniqlanish sohasi [2; 7] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 2 va x ≤ 7 shartlar kesishmasi [2; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 2) + 1/(x − 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[2; 8) ∪ (8; +∞)",
+        "(2; 8) ∪ (8; +∞)",
+        "[8; +∞)",
+        "[2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ 2 va x ≠ 8 shartlar birgalikda [2; 8) ∪ (8; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 2) + √(8 − x) funksiyaning aniqlanish sohasi [2; 8] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 2 va x ≤ 8 shartlar kesishmasi [2; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 3) + 1/(x − 4) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[3; 4) ∪ (4; +∞)",
+        "[3; +∞)",
+        "(3; 4) ∪ (4; +∞)",
+        "[4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ 3 va x ≠ 4 shartlar birgalikda [3; 4) ∪ (4; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 3) + √(4 − x) funksiyaning aniqlanish sohasi [3; 4] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 3 va x ≤ 4 shartlar kesishmasi [3; 4]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 3) + 1/(x − 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(3; 5) ∪ (5; +∞)",
+        "[5; +∞)",
+        "[3; +∞)",
+        "[3; 5) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 3 va x ≠ 5 shartlar birgalikda [3; 5) ∪ (5; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 3) + √(5 − x) funksiyaning aniqlanish sohasi [3; 5] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 3 va x ≤ 5 shartlar kesishmasi [3; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 3) + 1/(x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[3; +∞)",
+        "[3; 6) ∪ (6; +∞)",
+        "(3; 6) ∪ (6; +∞)",
+        "[6; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ 3 va x ≠ 6 shartlar birgalikda [3; 6) ∪ (6; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 3) + √(6 − x) funksiyaning aniqlanish sohasi [3; 6] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 3 va x ≤ 6 shartlar kesishmasi [3; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 3) + 1/(x − 7) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[3; 7) ∪ (7; +∞)",
+        "(3; 7) ∪ (7; +∞)",
+        "[7; +∞)",
+        "[3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x ≥ 3 va x ≠ 7 shartlar birgalikda [3; 7) ∪ (7; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 3) + √(7 − x) funksiyaning aniqlanish sohasi [3; 7] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 3 va x ≤ 7 shartlar kesishmasi [3; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 3) + 1/(x − 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[3; +∞)",
+        "[8; +∞)",
+        "[3; 8) ∪ (8; +∞)",
+        "(3; 8) ∪ (8; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x ≥ 3 va x ≠ 8 shartlar birgalikda [3; 8) ∪ (8; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 3) + √(8 − x) funksiyaning aniqlanish sohasi [3; 8] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 3 va x ≤ 8 shartlar kesishmasi [3; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 3) + 1/(x − 9) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[3; +∞)",
+        "[9; +∞)",
+        "(3; 9) ∪ (9; +∞)",
+        "[3; 9) ∪ (9; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 3 va x ≠ 9 shartlar birgalikda [3; 9) ∪ (9; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 3) + √(9 − x) funksiyaning aniqlanish sohasi [3; 9] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 3 va x ≤ 9 shartlar kesishmasi [3; 9]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 4) + 1/(x − 5) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "[5; +∞)",
+        "(4; 5) ∪ (5; +∞)",
+        "[4; 5) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 4 va x ≠ 5 shartlar birgalikda [4; 5) ∪ (5; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 4) + √(5 − x) funksiyaning aniqlanish sohasi [4; 5] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 4 va x ≤ 5 shartlar kesishmasi [4; 5]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 4) + 1/(x − 6) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(4; 6) ∪ (6; +∞)",
+        "[6; +∞)",
+        "[4; +∞)",
+        "[4; 6) ∪ (6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 4 va x ≠ 6 shartlar birgalikda [4; 6) ∪ (6; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 4) + √(6 − x) funksiyaning aniqlanish sohasi [4; 6] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 4 va x ≤ 6 shartlar kesishmasi [4; 6]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 4) + 1/(x − 7) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[7; +∞)",
+        "[4; +∞)",
+        "(4; 7) ∪ (7; +∞)",
+        "[4; 7) ∪ (7; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 4 va x ≠ 7 shartlar birgalikda [4; 7) ∪ (7; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 4) + √(7 − x) funksiyaning aniqlanish sohasi [4; 7] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 4 va x ≤ 7 shartlar kesishmasi [4; 7]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 4) + 1/(x − 8) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "[8; +∞)",
+        "[4; 8) ∪ (8; +∞)",
+        "(4; 8) ∪ (8; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x ≥ 4 va x ≠ 8 shartlar birgalikda [4; 8) ∪ (8; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 4) + √(8 − x) funksiyaning aniqlanish sohasi [4; 8] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 4 va x ≤ 8 shartlar kesishmasi [4; 8]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 4) + 1/(x − 9) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[4; +∞)",
+        "[4; 9) ∪ (9; +∞)",
+        "(4; 9) ∪ (9; +∞)",
+        "[9; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x ≥ 4 va x ≠ 9 shartlar birgalikda [4; 9) ∪ (9; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 4) + √(9 − x) funksiyaning aniqlanish sohasi [4; 9] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 4 va x ≤ 9 shartlar kesishmasi [4; 9]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √(x − 4) + 1/(x − 10) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(4; 10) ∪ (10; +∞)",
+        "[4; +∞)",
+        "[10; +∞)",
+        "[4; 10) ∪ (10; +∞)"
+      ],
+      "answer": 3,
+      "explain": "x ≥ 4 va x ≠ 10 shartlar birgalikda [4; 10) ∪ (10; +∞) ni beradi."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = √(x − 4) + √(10 − x) funksiyaning aniqlanish sohasi [4; 10] kesmadir.",
+      "answer": true,
+      "explain": "x ≥ 4 va x ≤ 10 shartlar kesishmasi [4; 10]."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 4)/(x + 3)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-4; -3]",
+        "[-4; -3)",
+        "(−∞; -4] ∪ (-3; +∞)",
+        "(−∞; -4) ∪ [-3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "(x + 4)/(x + 3) ≥ 0 va x ≠ -3 ⇒ (−∞; -4] ∪ (-3; +∞)."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = ⁴√(x + 4) funksiyaning aniqlanish sohasi [-4; +∞) oraliqdir.",
+      "answer": true,
+      "explain": "4-darajali juft ildiz osti x + 4 ≥ 0 ⇒ x ≥ -4."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 4)/(x + 2)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -4) ∪ [-2; +∞)",
+        "(−∞; -4] ∪ (-2; +∞)",
+        "[-4; -2]",
+        "[-4; -2)"
+      ],
+      "answer": 1,
+      "explain": "(x + 4)/(x + 2) ≥ 0 va x ≠ -2 ⇒ (−∞; -4] ∪ (-2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 4)/(x + 1)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-4; -1]",
+        "(−∞; -4] ∪ (-1; +∞)",
+        "(−∞; -4) ∪ [-1; +∞)",
+        "[-4; -1)"
+      ],
+      "answer": 1,
+      "explain": "(x + 4)/(x + 1) ≥ 0 va x ≠ -1 ⇒ (−∞; -4] ∪ (-1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 4)/(x)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-4; 0)",
+        "(−∞; -4] ∪ (0; +∞)",
+        "[-4; 0]",
+        "(−∞; -4) ∪ [0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "(x + 4)/(x) ≥ 0 va x ≠ 0 ⇒ (−∞; -4] ∪ (0; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 4)/(x − 1)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-4; 1)",
+        "(−∞; -4] ∪ (1; +∞)",
+        "[-4; 1]",
+        "(−∞; -4) ∪ [1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "(x + 4)/(x − 1) ≥ 0 va x ≠ 1 ⇒ (−∞; -4] ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 4)/(x − 2)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -4] ∪ (2; +∞)",
+        "[-4; 2)",
+        "[-4; 2]",
+        "(−∞; -4) ∪ [2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "(x + 4)/(x − 2) ≥ 0 va x ≠ 2 ⇒ (−∞; -4] ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 3)/(x + 2)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -3) ∪ [-2; +∞)",
+        "(−∞; -3] ∪ (-2; +∞)",
+        "[-3; -2]",
+        "[-3; -2)"
+      ],
+      "answer": 1,
+      "explain": "(x + 3)/(x + 2) ≥ 0 va x ≠ -2 ⇒ (−∞; -3] ∪ (-2; +∞)."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = ⁴√(x + 3) funksiyaning aniqlanish sohasi [-3; +∞) oraliqdir.",
+      "answer": true,
+      "explain": "4-darajali juft ildiz osti x + 3 ≥ 0 ⇒ x ≥ -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 3)/(x + 1)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -3) ∪ [-1; +∞)",
+        "[-3; -1]",
+        "(−∞; -3] ∪ (-1; +∞)",
+        "[-3; -1)"
+      ],
+      "answer": 2,
+      "explain": "(x + 3)/(x + 1) ≥ 0 va x ≠ -1 ⇒ (−∞; -3] ∪ (-1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 3)/(x)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -3) ∪ [0; +∞)",
+        "(−∞; -3] ∪ (0; +∞)",
+        "[-3; 0]",
+        "[-3; 0)"
+      ],
+      "answer": 1,
+      "explain": "(x + 3)/(x) ≥ 0 va x ≠ 0 ⇒ (−∞; -3] ∪ (0; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 3)/(x − 1)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; 1]",
+        "(−∞; -3) ∪ [1; +∞)",
+        "(−∞; -3] ∪ (1; +∞)",
+        "[-3; 1)"
+      ],
+      "answer": 2,
+      "explain": "(x + 3)/(x − 1) ≥ 0 va x ≠ 1 ⇒ (−∞; -3] ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 3)/(x − 2)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-3; 2]",
+        "(−∞; -3) ∪ [2; +∞)",
+        "[-3; 2)",
+        "(−∞; -3] ∪ (2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "(x + 3)/(x − 2) ≥ 0 va x ≠ 2 ⇒ (−∞; -3] ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 3)/(x − 3)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -3] ∪ (3; +∞)",
+        "[-3; 3]",
+        "(−∞; -3) ∪ [3; +∞)",
+        "[-3; 3)"
+      ],
+      "answer": 0,
+      "explain": "(x + 3)/(x − 3) ≥ 0 va x ≠ 3 ⇒ (−∞; -3] ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 2)/(x + 1)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; -1]",
+        "[-2; -1)",
+        "(−∞; -2] ∪ (-1; +∞)",
+        "(−∞; -2) ∪ [-1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "(x + 2)/(x + 1) ≥ 0 va x ≠ -1 ⇒ (−∞; -2] ∪ (-1; +∞)."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = ⁴√(x + 2) funksiyaning aniqlanish sohasi [-2; +∞) oraliqdir.",
+      "answer": true,
+      "explain": "4-darajali juft ildiz osti x + 2 ≥ 0 ⇒ x ≥ -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 2)/(x)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; 0]",
+        "(−∞; -2) ∪ [0; +∞)",
+        "[-2; 0)",
+        "(−∞; -2] ∪ (0; +∞)"
+      ],
+      "answer": 3,
+      "explain": "(x + 2)/(x) ≥ 0 va x ≠ 0 ⇒ (−∞; -2] ∪ (0; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 2)/(x − 1)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; 1)",
+        "(−∞; -2] ∪ (1; +∞)",
+        "(−∞; -2) ∪ [1; +∞)",
+        "[-2; 1]"
+      ],
+      "answer": 1,
+      "explain": "(x + 2)/(x − 1) ≥ 0 va x ≠ 1 ⇒ (−∞; -2] ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 2)/(x − 2)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -2] ∪ (2; +∞)",
+        "[-2; 2)",
+        "(−∞; -2) ∪ [2; +∞)",
+        "[-2; 2]"
+      ],
+      "answer": 0,
+      "explain": "(x + 2)/(x − 2) ≥ 0 va x ≠ 2 ⇒ (−∞; -2] ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 2)/(x − 3)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; 3]",
+        "(−∞; -2) ∪ [3; +∞)",
+        "[-2; 3)",
+        "(−∞; -2] ∪ (3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "(x + 2)/(x − 3) ≥ 0 va x ≠ 3 ⇒ (−∞; -2] ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 2)/(x − 4)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-2; 4]",
+        "[-2; 4)",
+        "(−∞; -2] ∪ (4; +∞)",
+        "(−∞; -2) ∪ [4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "(x + 2)/(x − 4) ≥ 0 va x ≠ 4 ⇒ (−∞; -2] ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 1)/(x)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -1) ∪ [0; +∞)",
+        "[-1; 0)",
+        "(−∞; -1] ∪ (0; +∞)",
+        "[-1; 0]"
+      ],
+      "answer": 2,
+      "explain": "(x + 1)/(x) ≥ 0 va x ≠ 0 ⇒ (−∞; -1] ∪ (0; +∞)."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = ⁴√(x + 1) funksiyaning aniqlanish sohasi [-1; +∞) oraliqdir.",
+      "answer": true,
+      "explain": "4-darajali juft ildiz osti x + 1 ≥ 0 ⇒ x ≥ -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 1)/(x − 1)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "[-1; 1)",
+        "(−∞; -1] ∪ (1; +∞)",
+        "[-1; 1]",
+        "(−∞; -1) ∪ [1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "(x + 1)/(x − 1) ≥ 0 va x ≠ 1 ⇒ (−∞; -1] ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 1)/(x − 2)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -1] ∪ (2; +∞)",
+        "(−∞; -1) ∪ [2; +∞)",
+        "[-1; 2)",
+        "[-1; 2]"
+      ],
+      "answer": 0,
+      "explain": "(x + 1)/(x − 2) ≥ 0 va x ≠ 2 ⇒ (−∞; -1] ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 1)/(x − 3)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -1) ∪ [3; +∞)",
+        "[-1; 3)",
+        "[-1; 3]",
+        "(−∞; -1] ∪ (3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "(x + 1)/(x − 3) ≥ 0 va x ≠ 3 ⇒ (−∞; -1] ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 1)/(x − 4)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -1] ∪ (4; +∞)",
+        "[-1; 4)",
+        "(−∞; -1) ∪ [4; +∞)",
+        "[-1; 4]"
+      ],
+      "answer": 0,
+      "explain": "(x + 1)/(x − 4) ≥ 0 va x ≠ 4 ⇒ (−∞; -1] ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x + 1)/(x − 5)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; -1] ∪ (5; +∞)",
+        "[-1; 5)",
+        "(−∞; -1) ∪ [5; +∞)",
+        "[-1; 5]"
+      ],
+      "answer": 0,
+      "explain": "(x + 1)/(x − 5) ≥ 0 va x ≠ 5 ⇒ (−∞; -1] ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x)/(x − 1)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 0] ∪ (1; +∞)",
+        "[0; 1)",
+        "[0; 1]",
+        "(−∞; 0) ∪ [1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "(x)/(x − 1) ≥ 0 va x ≠ 1 ⇒ (−∞; 0] ∪ (1; +∞)."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = ⁴√(x) funksiyaning aniqlanish sohasi [0; +∞) oraliqdir.",
+      "answer": true,
+      "explain": "4-darajali juft ildiz osti x ≥ 0 ⇒ x ≥ 0."
+    },
+    {
+      "type": "choice",
+      "q": "y = √((x)/(x − 2)) funksiyaning aniqlanish sohasini toping.",
+      "options": [
+        "(−∞; 0) ∪ [2; +∞)",
+        "[0; 2)",
+        "(−∞; 0] ∪ (2; +∞)",
+        "[0; 2]"
+      ],
+      "answer": 2,
+      "explain": "(x)/(x − 2) ≥ 0 va x ≠ 2 ⇒ (−∞; 0] ∪ (2; +∞)."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Ildizosti",
+      "Kvadrat ildiz ichidagi nomanfiy ifoda"
+    ],
+    [
+      "Maxraj",
+      "Kasrning noldan farqli quyi qismi"
+    ],
+    [
+      "Aniqlanish",
+      "x qabul qilishi mumkin bo'lgan barcha qiymatlar"
+    ],
+    [
+      "Cheklov",
+      "Ifodaga ma'no beruvchi matematik shart"
+    ],
+    [
+      "D(y) belgisi",
+      "Funksiyaning aniqlanish sohasi"
+    ],
+    [
+      "y = √f(x)",
+      "Sharti: f(x) ≥ 0"
+    ],
+    [
+      "y = 1 / f(x)",
+      "Sharti: f(x) ≠ 0"
+    ],
+    [
+      "y = 1 / √f(x)",
+      "Sharti: f(x) > 0 (qat'iy musbat)"
+    ],
+    [
+      "Ko'phad D(y)",
+      "Barcha haqiqiy sonlar R = (−∞; +∞)"
+    ],
+    [
+      "Kvadrat funksiya D(y)",
+      "Har doim (−∞; +∞)"
+    ],
+    [
+      "Kub ildiz ∛x",
+      "Barcha x ∈ R uchun aniqlangan"
+    ],
+    [
+      "Kesishma",
+      "Bir nechta shartning umumiy qismi"
+    ],
+    [
+      "y = √(x − a)",
+      "Aniqlanish sohasi [a; +∞)"
+    ],
+    [
+      "y = √(a² − x²)",
+      "Aniqlanish sohasi [−a; a]"
+    ]
+  ]
+}

@@ -1,0 +1,3044 @@
+{
+  "id": "g9-uz-algebra-36-nisbiy-chastota",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "36-§. Tasodifiy hodisaning nisbiy chastotasi",
+  "title": "36-§. Tasodifiy hodisaning nisbiy chastotasi",
+  "source": "Algebra 9-sinf (2019), V bob, 36-§, 194–197-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "n ta tajribada A hodisa m marta yuz berganda, uning nisbiy chastotasi W(A) qaysi formula bilan topiladi?",
+      "options": [
+        "W(A) = n / m",
+        "W(A) = m · n",
+        "W(A) = m / n",
+        "W(A) = n − m"
+      ],
+      "answer": 2,
+      "explain": "Nisbiy chastota hodisa ro'y berishlar sonining jami tajribalar soniga nisbatidir."
+    },
+    {
+      "type": "choice",
+      "q": "Katta sonlar qonuniga ko'ra, sinovlar soni n cheksiz ortganda nisbiy chastota W(A) nimaga yaqinlashadi?",
+      "options": [
+        "Har doim 1 ga",
+        "Hodisaning P(A) ehtimolligiga",
+        "Cheksizlikka",
+        "Nolga"
+      ],
+      "answer": 1,
+      "explain": "Ya. Bernulli teoremasi (katta sonlar qonuni) ga ko'ra n → ∞ da W(A) → P(A)."
+    },
+    {
+      "type": "choice",
+      "q": "Darslikdagi tarixiy jadvalda K. Pirson tangani 24 000 marta tashlaganda gerb tomoni necha marta tushgan?",
+      "options": [
+        "15 000 marta",
+        "10 000 marta",
+        "12 012 marta (W = 0,5005)",
+        "2048 marta"
+      ],
+      "answer": 2,
+      "explain": "Karl Pirson 24 000 tajribada 12 012 marta gerb olgan (nisbiy chastota 0,5005)."
+    },
+    {
+      "type": "choice",
+      "q": "Fransuz olimi J. Byuffon tangani 4040 marta tashlaganda gerb necha marta chiqqan?",
+      "options": [
+        "12012 marta",
+        "2020 marta",
+        "2048 marta (≈ 0,5069)",
+        "1500 marta"
+      ],
+      "answer": 2,
+      "explain": "Byuffon 4040 sinovda 2048 marta gerb tomoni tushishini kuzatgan."
+    },
+    {
+      "type": "truefalse",
+      "q": "Nisbiy chastota W(A) hech qachon 1 dan katta bo'la olmaydi.",
+      "answer": true,
+      "explain": "0 ≤ m ≤ n bo'lgani uchun 0 ≤ m/n ≤ 1."
+    },
+    {
+      "type": "fill",
+      "q": "20 ta o'qdan 2 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "10",
+      "explain": "W = (2/20) · 100% = 10%."
+    },
+    {
+      "type": "choice",
+      "q": "20 ta ekilgan urug'dan 4 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "4/5",
+        "1/5",
+        "1/4",
+        "1/20"
+      ],
+      "answer": 1,
+      "explain": "W = 4/20 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "20 ta detalning 14 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "7/10",
+        "3/10",
+        "1/5",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "Yaroqsizlar soni 20 − 14 = 6. W = 6/20 = 3/10."
+    },
+    {
+      "type": "fill",
+      "q": "20 ta o'qdan 8 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "40",
+      "explain": "W = (8/20) · 100% = 40%."
+    },
+    {
+      "type": "fill",
+      "q": "20 ta o'qdan 14 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "70",
+      "explain": "W = (14/20) · 100% = 70%."
+    },
+    {
+      "type": "choice",
+      "q": "20 ta ekilgan urug'dan 16 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "1/20",
+        "1/5",
+        "4/5",
+        "17/20"
+      ],
+      "answer": 2,
+      "explain": "W = 16/20 = 4/5."
+    },
+    {
+      "type": "choice",
+      "q": "25 ta detalning 22 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "3/25",
+        "3/35",
+        "22/25",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "Yaroqsizlar soni 25 − 22 = 3. W = 3/25 = 3/25."
+    },
+    {
+      "type": "fill",
+      "q": "25 ta o'qdan 5 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "20",
+      "explain": "W = (5/25) · 100% = 20%."
+    },
+    {
+      "type": "choice",
+      "q": "25 ta ekilgan urug'dan 8 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "9/25",
+        "8/25",
+        "1/25",
+        "17/25"
+      ],
+      "answer": 1,
+      "explain": "W = 8/25 = 8/25."
+    },
+    {
+      "type": "choice",
+      "q": "25 ta detalning 15 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "2/7",
+        "2/5",
+        "1",
+        "3/5"
+      ],
+      "answer": 1,
+      "explain": "Yaroqsizlar soni 25 − 15 = 10. W = 10/25 = 2/5."
+    },
+    {
+      "type": "fill",
+      "q": "25 ta o'qdan 13 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "52",
+      "explain": "W = (13/25) · 100% = 52%."
+    },
+    {
+      "type": "choice",
+      "q": "25 ta ekilgan urug'dan 15 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "3/5",
+        "2/5",
+        "1/25",
+        "16/25"
+      ],
+      "answer": 0,
+      "explain": "W = 15/25 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "25 ta detalning 7 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "7/25",
+        "1",
+        "18/35",
+        "18/25"
+      ],
+      "answer": 3,
+      "explain": "Yaroqsizlar soni 25 − 7 = 18. W = 18/25 = 18/25."
+    },
+    {
+      "type": "fill",
+      "q": "25 ta o'qdan 20 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "80",
+      "explain": "W = (20/25) · 100% = 80%."
+    },
+    {
+      "type": "choice",
+      "q": "40 ta detalning 36 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "9/10",
+        "1/10",
+        "2/25",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "Yaroqsizlar soni 40 − 36 = 4. W = 4/40 = 1/10."
+    },
+    {
+      "type": "fill",
+      "q": "40 ta o'qdan 8 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "20",
+      "explain": "W = (8/40) · 100% = 20%."
+    },
+    {
+      "type": "choice",
+      "q": "40 ta ekilgan urug'dan 12 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "1/40",
+        "13/40",
+        "3/10",
+        "7/10"
+      ],
+      "answer": 2,
+      "explain": "W = 12/40 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "40 ta detalning 24 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "3/5",
+        "8/25",
+        "2/5",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Yaroqsizlar soni 40 − 24 = 16. W = 16/40 = 2/5."
+    },
+    {
+      "type": "fill",
+      "q": "40 ta o'qdan 20 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "50",
+      "explain": "W = (20/40) · 100% = 50%."
+    },
+    {
+      "type": "choice",
+      "q": "40 ta ekilgan urug'dan 24 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "2/5",
+        "1/40",
+        "3/5",
+        "5/8"
+      ],
+      "answer": 2,
+      "explain": "W = 24/40 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "40 ta detalning 12 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "3/10",
+        "1",
+        "7/10",
+        "14/25"
+      ],
+      "answer": 2,
+      "explain": "Yaroqsizlar soni 40 − 12 = 28. W = 28/40 = 7/10."
+    },
+    {
+      "type": "fill",
+      "q": "40 ta o'qdan 32 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "80",
+      "explain": "W = (32/40) · 100% = 80%."
+    },
+    {
+      "type": "fill",
+      "q": "50 ta o'qdan 5 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "10",
+      "explain": "W = (5/50) · 100% = 10%."
+    },
+    {
+      "type": "choice",
+      "q": "50 ta ekilgan urug'dan 10 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "11/50",
+        "4/5",
+        "1/50",
+        "1/5"
+      ],
+      "answer": 3,
+      "explain": "W = 10/50 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "50 ta detalning 35 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "3/10",
+        "1/4",
+        "1",
+        "7/10"
+      ],
+      "answer": 0,
+      "explain": "Yaroqsizlar soni 50 − 35 = 15. W = 15/50 = 3/10."
+    },
+    {
+      "type": "fill",
+      "q": "50 ta o'qdan 20 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "40",
+      "explain": "W = (20/50) · 100% = 40%."
+    },
+    {
+      "type": "choice",
+      "q": "50 ta detalning 20 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "2/5",
+        "1/2",
+        "3/5",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Yaroqsizlar soni 50 − 20 = 30. W = 30/50 = 3/5."
+    },
+    {
+      "type": "fill",
+      "q": "50 ta o'qdan 35 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "70",
+      "explain": "W = (35/50) · 100% = 70%."
+    },
+    {
+      "type": "choice",
+      "q": "50 ta ekilgan urug'dan 40 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "4/5",
+        "1/50",
+        "41/50",
+        "1/5"
+      ],
+      "answer": 0,
+      "explain": "W = 40/50 = 4/5."
+    },
+    {
+      "type": "fill",
+      "q": "80 ta o'qdan 8 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "10",
+      "explain": "W = (8/80) · 100% = 10%."
+    },
+    {
+      "type": "choice",
+      "q": "80 ta ekilgan urug'dan 16 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "1/5",
+        "4/5",
+        "17/80",
+        "1/80"
+      ],
+      "answer": 0,
+      "explain": "W = 16/80 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "80 ta detalning 56 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "7/10",
+        "1",
+        "4/15",
+        "3/10"
+      ],
+      "answer": 3,
+      "explain": "Yaroqsizlar soni 80 − 56 = 24. W = 24/80 = 3/10."
+    },
+    {
+      "type": "fill",
+      "q": "80 ta o'qdan 32 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "40",
+      "explain": "W = (32/80) · 100% = 40%."
+    },
+    {
+      "type": "choice",
+      "q": "80 ta detalning 32 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "8/15",
+        "2/5",
+        "3/5",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Yaroqsizlar soni 80 − 32 = 48. W = 48/80 = 3/5."
+    },
+    {
+      "type": "fill",
+      "q": "80 ta o'qdan 56 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "70",
+      "explain": "W = (56/80) · 100% = 70%."
+    },
+    {
+      "type": "choice",
+      "q": "80 ta ekilgan urug'dan 64 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "1/5",
+        "4/5",
+        "1/80",
+        "13/16"
+      ],
+      "answer": 1,
+      "explain": "W = 64/80 = 4/5."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta detalning 90 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "9/10",
+        "1",
+        "1/10",
+        "1/11"
+      ],
+      "answer": 2,
+      "explain": "Yaroqsizlar soni 100 − 90 = 10. W = 10/100 = 1/10."
+    },
+    {
+      "type": "fill",
+      "q": "100 ta o'qdan 20 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "20",
+      "explain": "W = (20/100) · 100% = 20%."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta ekilgan urug'dan 30 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "7/10",
+        "3/10",
+        "1/100",
+        "31/100"
+      ],
+      "answer": 1,
+      "explain": "W = 30/100 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta detalning 60 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "1",
+        "4/11",
+        "3/5",
+        "2/5"
+      ],
+      "answer": 3,
+      "explain": "Yaroqsizlar soni 100 − 60 = 40. W = 40/100 = 2/5."
+    },
+    {
+      "type": "fill",
+      "q": "100 ta o'qdan 50 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "50",
+      "explain": "W = (50/100) · 100% = 50%."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta ekilgan urug'dan 60 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "1/100",
+        "61/100",
+        "3/5",
+        "2/5"
+      ],
+      "answer": 2,
+      "explain": "W = 60/100 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta detalning 30 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "1",
+        "3/10",
+        "7/11",
+        "7/10"
+      ],
+      "answer": 3,
+      "explain": "Yaroqsizlar soni 100 − 30 = 70. W = 70/100 = 7/10."
+    },
+    {
+      "type": "fill",
+      "q": "100 ta o'qdan 80 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "80",
+      "explain": "W = (80/100) · 100% = 80%."
+    },
+    {
+      "type": "choice",
+      "q": "120 ta ekilgan urug'dan 12 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "13/120",
+        "9/10",
+        "1/10",
+        "1/120"
+      ],
+      "answer": 2,
+      "explain": "W = 12/120 = 1/10."
+    },
+    {
+      "type": "choice",
+      "q": "120 ta detalning 96 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "1",
+        "1/5",
+        "4/5",
+        "12/65"
+      ],
+      "answer": 1,
+      "explain": "Yaroqsizlar soni 120 − 96 = 24. W = 24/120 = 1/5."
+    },
+    {
+      "type": "fill",
+      "q": "120 ta o'qdan 36 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "30",
+      "explain": "W = (36/120) · 100% = 30%."
+    },
+    {
+      "type": "choice",
+      "q": "120 ta ekilgan urug'dan 48 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "3/5",
+        "49/120",
+        "1/120",
+        "2/5"
+      ],
+      "answer": 3,
+      "explain": "W = 48/120 = 2/5."
+    },
+    {
+      "type": "fill",
+      "q": "120 ta o'qdan 72 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "60",
+      "explain": "W = (72/120) · 100% = 60%."
+    },
+    {
+      "type": "choice",
+      "q": "120 ta ekilgan urug'dan 84 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "1/120",
+        "17/24",
+        "3/10",
+        "7/10"
+      ],
+      "answer": 3,
+      "explain": "W = 84/120 = 7/10."
+    },
+    {
+      "type": "choice",
+      "q": "120 ta detalning 24 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "1/5",
+        "1",
+        "48/65",
+        "4/5"
+      ],
+      "answer": 3,
+      "explain": "Yaroqsizlar soni 120 − 24 = 96. W = 96/120 = 4/5."
+    },
+    {
+      "type": "fill",
+      "q": "200 ta o'qdan 20 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "10",
+      "explain": "W = (20/200) · 100% = 10%."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta ekilgan urug'dan 40 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "1/5",
+        "41/200",
+        "1/200",
+        "4/5"
+      ],
+      "answer": 0,
+      "explain": "W = 40/200 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta detalning 140 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "1",
+        "2/7",
+        "3/10",
+        "7/10"
+      ],
+      "answer": 2,
+      "explain": "Yaroqsizlar soni 200 − 140 = 60. W = 60/200 = 3/10."
+    },
+    {
+      "type": "fill",
+      "q": "200 ta o'qdan 80 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "40",
+      "explain": "W = (80/200) · 100% = 40%."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta detalning 80 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "4/7",
+        "2/5",
+        "3/5",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Yaroqsizlar soni 200 − 80 = 120. W = 120/200 = 3/5."
+    },
+    {
+      "type": "fill",
+      "q": "200 ta o'qdan 140 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "70",
+      "explain": "W = (140/200) · 100% = 70%."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta ekilgan urug'dan 160 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "4/5",
+        "1/200",
+        "1/5",
+        "161/200"
+      ],
+      "answer": 0,
+      "explain": "W = 160/200 = 4/5."
+    },
+    {
+      "type": "choice",
+      "q": "250 ta detalning 225 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "9/10",
+        "1/10",
+        "1",
+        "5/52"
+      ],
+      "answer": 1,
+      "explain": "Yaroqsizlar soni 250 − 225 = 25. W = 25/250 = 1/10."
+    },
+    {
+      "type": "fill",
+      "q": "250 ta o'qdan 50 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "20",
+      "explain": "W = (50/250) · 100% = 20%."
+    },
+    {
+      "type": "choice",
+      "q": "250 ta ekilgan urug'dan 75 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "1/250",
+        "7/10",
+        "38/125",
+        "3/10"
+      ],
+      "answer": 3,
+      "explain": "W = 75/250 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "250 ta detalning 150 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "1",
+        "2/5",
+        "5/13",
+        "3/5"
+      ],
+      "answer": 1,
+      "explain": "Yaroqsizlar soni 250 − 150 = 100. W = 100/250 = 2/5."
+    },
+    {
+      "type": "fill",
+      "q": "250 ta o'qdan 125 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "50",
+      "explain": "W = (125/250) · 100% = 50%."
+    },
+    {
+      "type": "choice",
+      "q": "250 ta ekilgan urug'dan 150 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "3/5",
+        "151/250",
+        "2/5",
+        "1/250"
+      ],
+      "answer": 0,
+      "explain": "W = 150/250 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "250 ta detalning 75 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "7/10",
+        "35/52",
+        "3/10",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "Yaroqsizlar soni 250 − 75 = 175. W = 175/250 = 7/10."
+    },
+    {
+      "type": "fill",
+      "q": "250 ta o'qdan 200 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "80",
+      "explain": "W = (200/250) · 100% = 80%."
+    },
+    {
+      "type": "choice",
+      "q": "400 ta detalning 360 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "1",
+        "4/41",
+        "1/10",
+        "9/10"
+      ],
+      "answer": 2,
+      "explain": "Yaroqsizlar soni 400 − 360 = 40. W = 40/400 = 1/10."
+    },
+    {
+      "type": "fill",
+      "q": "400 ta o'qdan 80 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "20",
+      "explain": "W = (80/400) · 100% = 20%."
+    },
+    {
+      "type": "choice",
+      "q": "400 ta ekilgan urug'dan 120 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "3/10",
+        "121/400",
+        "7/10",
+        "1/400"
+      ],
+      "answer": 0,
+      "explain": "W = 120/400 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "400 ta detalning 240 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "3/5",
+        "1",
+        "16/41",
+        "2/5"
+      ],
+      "answer": 3,
+      "explain": "Yaroqsizlar soni 400 − 240 = 160. W = 160/400 = 2/5."
+    },
+    {
+      "type": "fill",
+      "q": "400 ta o'qdan 200 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "50",
+      "explain": "W = (200/400) · 100% = 50%."
+    },
+    {
+      "type": "choice",
+      "q": "400 ta ekilgan urug'dan 240 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "241/400",
+        "3/5",
+        "2/5",
+        "1/400"
+      ],
+      "answer": 1,
+      "explain": "W = 240/400 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "400 ta detalning 120 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "3/10",
+        "1",
+        "7/10",
+        "28/41"
+      ],
+      "answer": 2,
+      "explain": "Yaroqsizlar soni 400 − 120 = 280. W = 280/400 = 7/10."
+    },
+    {
+      "type": "fill",
+      "q": "400 ta o'qdan 320 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "80",
+      "explain": "W = (320/400) · 100% = 80%."
+    },
+    {
+      "type": "fill",
+      "q": "500 ta o'qdan 50 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "10",
+      "explain": "W = (50/500) · 100% = 10%."
+    },
+    {
+      "type": "choice",
+      "q": "500 ta ekilgan urug'dan 100 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "101/500",
+        "1/5",
+        "1/500",
+        "4/5"
+      ],
+      "answer": 1,
+      "explain": "W = 100/500 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "500 ta detalning 350 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "1",
+        "3/10",
+        "5/17",
+        "7/10"
+      ],
+      "answer": 1,
+      "explain": "Yaroqsizlar soni 500 − 350 = 150. W = 150/500 = 3/10."
+    },
+    {
+      "type": "fill",
+      "q": "500 ta o'qdan 200 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "40",
+      "explain": "W = (200/500) · 100% = 40%."
+    },
+    {
+      "type": "choice",
+      "q": "500 ta detalning 200 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "1",
+        "10/17",
+        "2/5",
+        "3/5"
+      ],
+      "answer": 3,
+      "explain": "Yaroqsizlar soni 500 − 200 = 300. W = 300/500 = 3/5."
+    },
+    {
+      "type": "fill",
+      "q": "500 ta o'qdan 350 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "70",
+      "explain": "W = (350/500) · 100% = 70%."
+    },
+    {
+      "type": "choice",
+      "q": "500 ta ekilgan urug'dan 400 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "1/500",
+        "1/5",
+        "4/5",
+        "401/500"
+      ],
+      "answer": 2,
+      "explain": "W = 400/500 = 4/5."
+    },
+    {
+      "type": "choice",
+      "q": "1000 ta detalning 900 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "10/101",
+        "1",
+        "9/10",
+        "1/10"
+      ],
+      "answer": 3,
+      "explain": "Yaroqsizlar soni 1000 − 900 = 100. W = 100/1000 = 1/10."
+    },
+    {
+      "type": "fill",
+      "q": "1000 ta o'qdan 200 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "20",
+      "explain": "W = (200/1000) · 100% = 20%."
+    },
+    {
+      "type": "choice",
+      "q": "1000 ta ekilgan urug'dan 300 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "3/10",
+        "1/1000",
+        "7/10",
+        "301/1000"
+      ],
+      "answer": 0,
+      "explain": "W = 300/1000 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "1000 ta detalning 600 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "3/5",
+        "2/5",
+        "40/101",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "Yaroqsizlar soni 1000 − 600 = 400. W = 400/1000 = 2/5."
+    },
+    {
+      "type": "fill",
+      "q": "1000 ta o'qdan 500 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "50",
+      "explain": "W = (500/1000) · 100% = 50%."
+    },
+    {
+      "type": "choice",
+      "q": "1000 ta ekilgan urug'dan 600 tasi unib chiqdi. Unib chiqish nisbiy chastotasini qisqarmas kasrda toping.",
+      "options": [
+        "1/1000",
+        "601/1000",
+        "3/5",
+        "2/5"
+      ],
+      "answer": 2,
+      "explain": "W = 600/1000 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "1000 ta detalning 300 tasi sifatli chiqdi. Yaroqsiz detallar nisbiy chastotasi nechaga teng?",
+      "options": [
+        "1",
+        "7/10",
+        "3/10",
+        "70/101"
+      ],
+      "answer": 1,
+      "explain": "Yaroqsizlar soni 1000 − 300 = 700. W = 700/1000 = 7/10."
+    },
+    {
+      "type": "fill",
+      "q": "1000 ta o'qdan 800 tasi nishonga tegdi. Nishonga tegish nisbiy chastotasini foizda (%) yozing (belgisiz).",
+      "answer": "80",
+      "explain": "W = (800/1000) · 100% = 80%."
+    },
+    {
+      "type": "fill",
+      "q": "40 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,1 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "4",
+      "explain": "m = W · n = 0,1 · 40 = 4."
+    },
+    {
+      "type": "fill",
+      "q": "60 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,1 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "6",
+      "explain": "m = W · n = 0,1 · 60 = 6."
+    },
+    {
+      "type": "fill",
+      "q": "80 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,1 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "8",
+      "explain": "m = W · n = 0,1 · 80 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "100 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,1 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "10",
+      "explain": "m = W · n = 0,1 · 100 = 10."
+    },
+    {
+      "type": "fill",
+      "q": "120 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,1 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "12",
+      "explain": "m = W · n = 0,1 · 120 = 12."
+    },
+    {
+      "type": "fill",
+      "q": "200 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,1 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "20",
+      "explain": "m = W · n = 0,1 · 200 = 20."
+    },
+    {
+      "type": "fill",
+      "q": "300 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,1 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "30",
+      "explain": "m = W · n = 0,1 · 300 = 30."
+    },
+    {
+      "type": "fill",
+      "q": "400 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,1 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "40",
+      "explain": "m = W · n = 0,1 · 400 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 6 marta yuz berib, nisbiy chastotasi 0,15 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "6",
+        "20",
+        "60",
+        "40"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 6 / 0,15 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 9 marta yuz berib, nisbiy chastotasi 0,15 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "9",
+        "80",
+        "30",
+        "60"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 9 / 0,15 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 12 marta yuz berib, nisbiy chastotasi 0,15 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "12",
+        "100",
+        "80",
+        "40"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 12 / 0,15 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 15 marta yuz berib, nisbiy chastotasi 0,15 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "50",
+        "15",
+        "120",
+        "100"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 15 / 0,15 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 18 marta yuz berib, nisbiy chastotasi 0,15 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "120",
+        "140",
+        "60",
+        "18"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 18 / 0,15 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 30 marta yuz berib, nisbiy chastotasi 0,15 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "200",
+        "220",
+        "100",
+        "30"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 30 / 0,15 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 45 marta yuz berib, nisbiy chastotasi 0,15 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "45",
+        "300",
+        "150",
+        "320"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 45 / 0,15 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 60 marta yuz berib, nisbiy chastotasi 0,15 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "60",
+        "400",
+        "200",
+        "420"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 60 / 0,15 = 400."
+    },
+    {
+      "type": "fill",
+      "q": "40 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,2 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "8",
+      "explain": "m = W · n = 0,2 · 40 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "60 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,2 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "12",
+      "explain": "m = W · n = 0,2 · 60 = 12."
+    },
+    {
+      "type": "fill",
+      "q": "80 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,2 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "16",
+      "explain": "m = W · n = 0,2 · 80 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "100 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,2 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "20",
+      "explain": "m = W · n = 0,2 · 100 = 20."
+    },
+    {
+      "type": "fill",
+      "q": "120 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,2 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "24",
+      "explain": "m = W · n = 0,2 · 120 = 24."
+    },
+    {
+      "type": "fill",
+      "q": "200 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,2 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "40",
+      "explain": "m = W · n = 0,2 · 200 = 40."
+    },
+    {
+      "type": "fill",
+      "q": "300 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,2 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "60",
+      "explain": "m = W · n = 0,2 · 300 = 60."
+    },
+    {
+      "type": "fill",
+      "q": "400 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,2 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "80",
+      "explain": "m = W · n = 0,2 · 400 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 10 marta yuz berib, nisbiy chastotasi 0,25 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "60",
+        "40",
+        "20",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 10 / 0,25 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 15 marta yuz berib, nisbiy chastotasi 0,25 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "15",
+        "30",
+        "60",
+        "80"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 15 / 0,25 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 20 marta yuz berib, nisbiy chastotasi 0,25 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "20",
+        "80",
+        "100",
+        "40"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 20 / 0,25 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 25 marta yuz berib, nisbiy chastotasi 0,25 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "25",
+        "50",
+        "100",
+        "120"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 25 / 0,25 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 30 marta yuz berib, nisbiy chastotasi 0,25 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "140",
+        "120",
+        "30",
+        "60"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 30 / 0,25 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 50 marta yuz berib, nisbiy chastotasi 0,25 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "200",
+        "220",
+        "100",
+        "50"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 50 / 0,25 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 75 marta yuz berib, nisbiy chastotasi 0,25 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "300",
+        "150",
+        "320",
+        "75"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 75 / 0,25 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 100 marta yuz berib, nisbiy chastotasi 0,25 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "400",
+        "420",
+        "100",
+        "200"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 100 / 0,25 = 400."
+    },
+    {
+      "type": "fill",
+      "q": "40 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,3 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "12",
+      "explain": "m = W · n = 0,3 · 40 = 12."
+    },
+    {
+      "type": "fill",
+      "q": "60 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,3 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "18",
+      "explain": "m = W · n = 0,3 · 60 = 18."
+    },
+    {
+      "type": "fill",
+      "q": "80 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,3 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "24",
+      "explain": "m = W · n = 0,3 · 80 = 24."
+    },
+    {
+      "type": "fill",
+      "q": "100 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,3 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "30",
+      "explain": "m = W · n = 0,3 · 100 = 30."
+    },
+    {
+      "type": "fill",
+      "q": "120 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,3 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "36",
+      "explain": "m = W · n = 0,3 · 120 = 36."
+    },
+    {
+      "type": "fill",
+      "q": "200 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,3 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "60",
+      "explain": "m = W · n = 0,3 · 200 = 60."
+    },
+    {
+      "type": "fill",
+      "q": "300 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,3 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "90",
+      "explain": "m = W · n = 0,3 · 300 = 90."
+    },
+    {
+      "type": "fill",
+      "q": "400 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,3 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "120",
+      "explain": "m = W · n = 0,3 · 400 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 14 marta yuz berib, nisbiy chastotasi 0,35 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "20",
+        "14",
+        "60",
+        "40"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 14 / 0,35 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 21 marta yuz berib, nisbiy chastotasi 0,35 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "21",
+        "30",
+        "80",
+        "60"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 21 / 0,35 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 28 marta yuz berib, nisbiy chastotasi 0,35 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "80",
+        "40",
+        "28",
+        "100"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 28 / 0,35 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 35 marta yuz berib, nisbiy chastotasi 0,35 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "50",
+        "120",
+        "100",
+        "35"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 35 / 0,35 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 42 marta yuz berib, nisbiy chastotasi 0,35 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "140",
+        "60",
+        "120",
+        "42"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 42 / 0,35 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 70 marta yuz berib, nisbiy chastotasi 0,35 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "100",
+        "70",
+        "220",
+        "200"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 70 / 0,35 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 105 marta yuz berib, nisbiy chastotasi 0,35 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "320",
+        "105",
+        "150",
+        "300"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 105 / 0,35 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 140 marta yuz berib, nisbiy chastotasi 0,35 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "420",
+        "400",
+        "200",
+        "140"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 140 / 0,35 = 400."
+    },
+    {
+      "type": "fill",
+      "q": "40 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,4 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "16",
+      "explain": "m = W · n = 0,4 · 40 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "60 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,4 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "24",
+      "explain": "m = W · n = 0,4 · 60 = 24."
+    },
+    {
+      "type": "fill",
+      "q": "80 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,4 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "32",
+      "explain": "m = W · n = 0,4 · 80 = 32."
+    },
+    {
+      "type": "fill",
+      "q": "100 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,4 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "40",
+      "explain": "m = W · n = 0,4 · 100 = 40."
+    },
+    {
+      "type": "fill",
+      "q": "120 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,4 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "48",
+      "explain": "m = W · n = 0,4 · 120 = 48."
+    },
+    {
+      "type": "fill",
+      "q": "200 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,4 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "80",
+      "explain": "m = W · n = 0,4 · 200 = 80."
+    },
+    {
+      "type": "fill",
+      "q": "300 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,4 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "120",
+      "explain": "m = W · n = 0,4 · 300 = 120."
+    },
+    {
+      "type": "fill",
+      "q": "400 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,4 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "160",
+      "explain": "m = W · n = 0,4 · 400 = 160."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 18 marta yuz berib, nisbiy chastotasi 0,45 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "60",
+        "40",
+        "18",
+        "20"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 18 / 0,45 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 27 marta yuz berib, nisbiy chastotasi 0,45 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "60",
+        "80",
+        "30",
+        "27"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 27 / 0,45 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 36 marta yuz berib, nisbiy chastotasi 0,45 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "40",
+        "36",
+        "80",
+        "100"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 36 / 0,45 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 45 marta yuz berib, nisbiy chastotasi 0,45 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "120",
+        "100",
+        "45",
+        "50"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 45 / 0,45 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 54 marta yuz berib, nisbiy chastotasi 0,45 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "60",
+        "120",
+        "140",
+        "54"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 54 / 0,45 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 90 marta yuz berib, nisbiy chastotasi 0,45 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "200",
+        "220",
+        "100",
+        "90"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 90 / 0,45 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 135 marta yuz berib, nisbiy chastotasi 0,45 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "300",
+        "150",
+        "320",
+        "135"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 135 / 0,45 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 180 marta yuz berib, nisbiy chastotasi 0,45 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "420",
+        "200",
+        "400",
+        "180"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 180 / 0,45 = 400."
+    },
+    {
+      "type": "fill",
+      "q": "40 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,5 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "20",
+      "explain": "m = W · n = 0,5 · 40 = 20."
+    },
+    {
+      "type": "fill",
+      "q": "60 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,5 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "30",
+      "explain": "m = W · n = 0,5 · 60 = 30."
+    },
+    {
+      "type": "fill",
+      "q": "80 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,5 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "40",
+      "explain": "m = W · n = 0,5 · 80 = 40."
+    },
+    {
+      "type": "fill",
+      "q": "100 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,5 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "50",
+      "explain": "m = W · n = 0,5 · 100 = 50."
+    },
+    {
+      "type": "fill",
+      "q": "120 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,5 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "60",
+      "explain": "m = W · n = 0,5 · 120 = 60."
+    },
+    {
+      "type": "fill",
+      "q": "200 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,5 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "100",
+      "explain": "m = W · n = 0,5 · 200 = 100."
+    },
+    {
+      "type": "fill",
+      "q": "300 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,5 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "150",
+      "explain": "m = W · n = 0,5 · 300 = 150."
+    },
+    {
+      "type": "fill",
+      "q": "400 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,5 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "200",
+      "explain": "m = W · n = 0,5 · 400 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 22 marta yuz berib, nisbiy chastotasi 0,55 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "40",
+        "60",
+        "22",
+        "20"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 22 / 0,55 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 33 marta yuz berib, nisbiy chastotasi 0,55 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "60",
+        "33",
+        "80",
+        "30"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 33 / 0,55 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 44 marta yuz berib, nisbiy chastotasi 0,55 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "44",
+        "80",
+        "100",
+        "40"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 44 / 0,55 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 55 marta yuz berib, nisbiy chastotasi 0,55 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "100",
+        "55",
+        "120",
+        "50"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 55 / 0,55 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 66 marta yuz berib, nisbiy chastotasi 0,55 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "140",
+        "66",
+        "120",
+        "60"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 66 / 0,55 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 110 marta yuz berib, nisbiy chastotasi 0,55 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "110",
+        "200",
+        "220",
+        "100"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 110 / 0,55 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 165 marta yuz berib, nisbiy chastotasi 0,55 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "165",
+        "300",
+        "150",
+        "320"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 165 / 0,55 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 220 marta yuz berib, nisbiy chastotasi 0,55 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "400",
+        "420",
+        "220",
+        "200"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 220 / 0,55 = 400."
+    },
+    {
+      "type": "fill",
+      "q": "40 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,6 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "24",
+      "explain": "m = W · n = 0,6 · 40 = 24."
+    },
+    {
+      "type": "fill",
+      "q": "60 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,6 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "36",
+      "explain": "m = W · n = 0,6 · 60 = 36."
+    },
+    {
+      "type": "fill",
+      "q": "80 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,6 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "48",
+      "explain": "m = W · n = 0,6 · 80 = 48."
+    },
+    {
+      "type": "fill",
+      "q": "100 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,6 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "60",
+      "explain": "m = W · n = 0,6 · 100 = 60."
+    },
+    {
+      "type": "fill",
+      "q": "120 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,6 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "72",
+      "explain": "m = W · n = 0,6 · 120 = 72."
+    },
+    {
+      "type": "fill",
+      "q": "200 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,6 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "120",
+      "explain": "m = W · n = 0,6 · 200 = 120."
+    },
+    {
+      "type": "fill",
+      "q": "300 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,6 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "180",
+      "explain": "m = W · n = 0,6 · 300 = 180."
+    },
+    {
+      "type": "fill",
+      "q": "400 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,6 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "240",
+      "explain": "m = W · n = 0,6 · 400 = 240."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 26 marta yuz berib, nisbiy chastotasi 0,65 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "40",
+        "26",
+        "20",
+        "60"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 26 / 0,65 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 39 marta yuz berib, nisbiy chastotasi 0,65 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "60",
+        "30",
+        "80",
+        "39"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 39 / 0,65 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 52 marta yuz berib, nisbiy chastotasi 0,65 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "52",
+        "40",
+        "100",
+        "80"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 52 / 0,65 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 65 marta yuz berib, nisbiy chastotasi 0,65 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "100",
+        "50",
+        "120",
+        "65"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 65 / 0,65 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 78 marta yuz berib, nisbiy chastotasi 0,65 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "78",
+        "60",
+        "140",
+        "120"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 78 / 0,65 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 130 marta yuz berib, nisbiy chastotasi 0,65 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "220",
+        "100",
+        "130",
+        "200"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 130 / 0,65 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 195 marta yuz berib, nisbiy chastotasi 0,65 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "320",
+        "150",
+        "195",
+        "300"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 195 / 0,65 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 260 marta yuz berib, nisbiy chastotasi 0,65 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "200",
+        "420",
+        "400",
+        "260"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 260 / 0,65 = 400."
+    },
+    {
+      "type": "fill",
+      "q": "40 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,7 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "28",
+      "explain": "m = W · n = 0,7 · 40 = 28."
+    },
+    {
+      "type": "fill",
+      "q": "60 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,7 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "42",
+      "explain": "m = W · n = 0,7 · 60 = 42."
+    },
+    {
+      "type": "fill",
+      "q": "80 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,7 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "56",
+      "explain": "m = W · n = 0,7 · 80 = 56."
+    },
+    {
+      "type": "fill",
+      "q": "100 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,7 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "70",
+      "explain": "m = W · n = 0,7 · 100 = 70."
+    },
+    {
+      "type": "fill",
+      "q": "120 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,7 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "84",
+      "explain": "m = W · n = 0,7 · 120 = 84."
+    },
+    {
+      "type": "fill",
+      "q": "200 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,7 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "140",
+      "explain": "m = W · n = 0,7 · 200 = 140."
+    },
+    {
+      "type": "fill",
+      "q": "300 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,7 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "210",
+      "explain": "m = W · n = 0,7 · 300 = 210."
+    },
+    {
+      "type": "fill",
+      "q": "400 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,7 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "280",
+      "explain": "m = W · n = 0,7 · 400 = 280."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 30 marta yuz berib, nisbiy chastotasi 0,75 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "60",
+        "30",
+        "40",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 30 / 0,75 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 45 marta yuz berib, nisbiy chastotasi 0,75 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "45",
+        "30",
+        "80",
+        "60"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 45 / 0,75 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 60 marta yuz berib, nisbiy chastotasi 0,75 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "40",
+        "80",
+        "60",
+        "100"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 60 / 0,75 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 75 marta yuz berib, nisbiy chastotasi 0,75 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "75",
+        "100",
+        "120",
+        "50"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 75 / 0,75 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 90 marta yuz berib, nisbiy chastotasi 0,75 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "90",
+        "140",
+        "60",
+        "120"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 90 / 0,75 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 150 marta yuz berib, nisbiy chastotasi 0,75 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "220",
+        "100",
+        "150",
+        "200"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 150 / 0,75 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 225 marta yuz berib, nisbiy chastotasi 0,75 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "300",
+        "225",
+        "320",
+        "150"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 225 / 0,75 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 300 marta yuz berib, nisbiy chastotasi 0,75 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "420",
+        "200",
+        "300",
+        "400"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 300 / 0,75 = 400."
+    },
+    {
+      "type": "fill",
+      "q": "40 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,8 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "32",
+      "explain": "m = W · n = 0,8 · 40 = 32."
+    },
+    {
+      "type": "fill",
+      "q": "60 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,8 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "48",
+      "explain": "m = W · n = 0,8 · 60 = 48."
+    },
+    {
+      "type": "fill",
+      "q": "80 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,8 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "64",
+      "explain": "m = W · n = 0,8 · 80 = 64."
+    },
+    {
+      "type": "fill",
+      "q": "100 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,8 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "80",
+      "explain": "m = W · n = 0,8 · 100 = 80."
+    },
+    {
+      "type": "fill",
+      "q": "120 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,8 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "96",
+      "explain": "m = W · n = 0,8 · 120 = 96."
+    },
+    {
+      "type": "fill",
+      "q": "200 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,8 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "160",
+      "explain": "m = W · n = 0,8 · 200 = 160."
+    },
+    {
+      "type": "fill",
+      "q": "300 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,8 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "240",
+      "explain": "m = W · n = 0,8 · 300 = 240."
+    },
+    {
+      "type": "fill",
+      "q": "400 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,8 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "320",
+      "explain": "m = W · n = 0,8 · 400 = 320."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 34 marta yuz berib, nisbiy chastotasi 0,85 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "60",
+        "34",
+        "40",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 34 / 0,85 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 51 marta yuz berib, nisbiy chastotasi 0,85 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "30",
+        "80",
+        "51",
+        "60"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 51 / 0,85 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 68 marta yuz berib, nisbiy chastotasi 0,85 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "100",
+        "80",
+        "40",
+        "68"
+      ],
+      "answer": 1,
+      "explain": "n = m / W = 68 / 0,85 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 85 marta yuz berib, nisbiy chastotasi 0,85 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "100",
+        "85",
+        "50",
+        "120"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 85 / 0,85 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 102 marta yuz berib, nisbiy chastotasi 0,85 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "102",
+        "140",
+        "60",
+        "120"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 102 / 0,85 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 170 marta yuz berib, nisbiy chastotasi 0,85 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "220",
+        "170",
+        "200",
+        "100"
+      ],
+      "answer": 2,
+      "explain": "n = m / W = 170 / 0,85 = 200."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 255 marta yuz berib, nisbiy chastotasi 0,85 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "300",
+        "150",
+        "320",
+        "255"
+      ],
+      "answer": 0,
+      "explain": "n = m / W = 255 / 0,85 = 300."
+    },
+    {
+      "type": "choice",
+      "q": "Hodisa 340 marta yuz berib, nisbiy chastotasi 0,85 ni tashkil etdi. Jami nechta tajriba o'tkazilgan?",
+      "options": [
+        "340",
+        "200",
+        "420",
+        "400"
+      ],
+      "answer": 3,
+      "explain": "n = m / W = 340 / 0,85 = 400."
+    },
+    {
+      "type": "fill",
+      "q": "40 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,9 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "36",
+      "explain": "m = W · n = 0,9 · 40 = 36."
+    },
+    {
+      "type": "fill",
+      "q": "60 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,9 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "54",
+      "explain": "m = W · n = 0,9 · 60 = 54."
+    },
+    {
+      "type": "fill",
+      "q": "80 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,9 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "72",
+      "explain": "m = W · n = 0,9 · 80 = 72."
+    },
+    {
+      "type": "fill",
+      "q": "100 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,9 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "90",
+      "explain": "m = W · n = 0,9 · 100 = 90."
+    },
+    {
+      "type": "fill",
+      "q": "120 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,9 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "108",
+      "explain": "m = W · n = 0,9 · 120 = 108."
+    },
+    {
+      "type": "fill",
+      "q": "200 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,9 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "180",
+      "explain": "m = W · n = 0,9 · 200 = 180."
+    },
+    {
+      "type": "fill",
+      "q": "300 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,9 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "270",
+      "explain": "m = W · n = 0,9 · 300 = 270."
+    },
+    {
+      "type": "fill",
+      "q": "400 marta sinov o'tkazilganda hodisaning nisbiy chastotasi 0,9 ga teng bo'ldi. Hodisa necha marta ro'y bergan?",
+      "answer": "360",
+      "explain": "m = W · n = 0,9 · 400 = 360."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 5 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,95",
+        "0,05",
+        "0,96",
+        "0,50"
+      ],
+      "answer": 0,
+      "explain": "W(Ā) = 1 − 5/100 = 95/100 = 0,95."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 5 marta kuzatilgan bo'lsa, nisbiy chastota 1/20 ga teng.",
+      "answer": true,
+      "explain": "W = 5/100 = 1/20."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 10 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,10",
+        "0,91",
+        "0,90",
+        "0,50"
+      ],
+      "answer": 2,
+      "explain": "W(Ā) = 1 − 10/100 = 90/100 = 0,90."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 10 marta kuzatilgan bo'lsa, nisbiy chastota 1/10 ga teng.",
+      "answer": true,
+      "explain": "W = 10/100 = 1/10."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 15 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,86",
+        "0,85",
+        "0,50",
+        "0,15"
+      ],
+      "answer": 1,
+      "explain": "W(Ā) = 1 − 15/100 = 85/100 = 0,85."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 15 marta kuzatilgan bo'lsa, nisbiy chastota 3/20 ga teng.",
+      "answer": true,
+      "explain": "W = 15/100 = 3/20."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 20 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,80",
+        "0,50",
+        "0,81",
+        "0,20"
+      ],
+      "answer": 0,
+      "explain": "W(Ā) = 1 − 20/100 = 80/100 = 0,80."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 20 marta kuzatilgan bo'lsa, nisbiy chastota 1/5 ga teng.",
+      "answer": true,
+      "explain": "W = 20/100 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 25 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,50",
+        "0,25",
+        "0,75",
+        "0,76"
+      ],
+      "answer": 2,
+      "explain": "W(Ā) = 1 − 25/100 = 75/100 = 0,75."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 25 marta kuzatilgan bo'lsa, nisbiy chastota 1/4 ga teng.",
+      "answer": true,
+      "explain": "W = 25/100 = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 30 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,30",
+        "0,70",
+        "0,50",
+        "0,71"
+      ],
+      "answer": 1,
+      "explain": "W(Ā) = 1 − 30/100 = 70/100 = 0,70."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 30 marta kuzatilgan bo'lsa, nisbiy chastota 3/10 ga teng.",
+      "answer": true,
+      "explain": "W = 30/100 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 35 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,65",
+        "0,50",
+        "0,66",
+        "0,35"
+      ],
+      "answer": 0,
+      "explain": "W(Ā) = 1 − 35/100 = 65/100 = 0,65."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 35 marta kuzatilgan bo'lsa, nisbiy chastota 7/20 ga teng.",
+      "answer": true,
+      "explain": "W = 35/100 = 7/20."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 40 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,61",
+        "0,60",
+        "0,50",
+        "0,40"
+      ],
+      "answer": 1,
+      "explain": "W(Ā) = 1 − 40/100 = 60/100 = 0,60."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 40 marta kuzatilgan bo'lsa, nisbiy chastota 2/5 ga teng.",
+      "answer": true,
+      "explain": "W = 40/100 = 2/5."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 45 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,56",
+        "0,45",
+        "0,55",
+        "0,50"
+      ],
+      "answer": 2,
+      "explain": "W(Ā) = 1 − 45/100 = 55/100 = 0,55."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 45 marta kuzatilgan bo'lsa, nisbiy chastota 9/20 ga teng.",
+      "answer": true,
+      "explain": "W = 45/100 = 9/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 50 marta kuzatilgan bo'lsa, nisbiy chastota 1/2 ga teng.",
+      "answer": true,
+      "explain": "W = 50/100 = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 55 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,46",
+        "0,50",
+        "0,55",
+        "0,45"
+      ],
+      "answer": 3,
+      "explain": "W(Ā) = 1 − 55/100 = 45/100 = 0,45."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 55 marta kuzatilgan bo'lsa, nisbiy chastota 11/20 ga teng.",
+      "answer": true,
+      "explain": "W = 55/100 = 11/20."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 60 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,50",
+        "0,41",
+        "0,40",
+        "0,60"
+      ],
+      "answer": 2,
+      "explain": "W(Ā) = 1 − 60/100 = 40/100 = 0,40."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 60 marta kuzatilgan bo'lsa, nisbiy chastota 3/5 ga teng.",
+      "answer": true,
+      "explain": "W = 60/100 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 65 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,65",
+        "0,50",
+        "0,35",
+        "0,36"
+      ],
+      "answer": 2,
+      "explain": "W(Ā) = 1 − 65/100 = 35/100 = 0,35."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 65 marta kuzatilgan bo'lsa, nisbiy chastota 13/20 ga teng.",
+      "answer": true,
+      "explain": "W = 65/100 = 13/20."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 70 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,30",
+        "0,70",
+        "0,31",
+        "0,50"
+      ],
+      "answer": 0,
+      "explain": "W(Ā) = 1 − 70/100 = 30/100 = 0,30."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 70 marta kuzatilgan bo'lsa, nisbiy chastota 7/10 ga teng.",
+      "answer": true,
+      "explain": "W = 70/100 = 7/10."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 75 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,26",
+        "0,75",
+        "0,50",
+        "0,25"
+      ],
+      "answer": 3,
+      "explain": "W(Ā) = 1 − 75/100 = 25/100 = 0,25."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 75 marta kuzatilgan bo'lsa, nisbiy chastota 3/4 ga teng.",
+      "answer": true,
+      "explain": "W = 75/100 = 3/4."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 80 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,50",
+        "0,20",
+        "0,21",
+        "0,80"
+      ],
+      "answer": 1,
+      "explain": "W(Ā) = 1 − 80/100 = 20/100 = 0,20."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 80 marta kuzatilgan bo'lsa, nisbiy chastota 4/5 ga teng.",
+      "answer": true,
+      "explain": "W = 80/100 = 4/5."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 85 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,15",
+        "0,50",
+        "0,85",
+        "0,16"
+      ],
+      "answer": 0,
+      "explain": "W(Ā) = 1 − 85/100 = 15/100 = 0,15."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 85 marta kuzatilgan bo'lsa, nisbiy chastota 17/20 ga teng.",
+      "answer": true,
+      "explain": "W = 85/100 = 17/20."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 90 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,50",
+        "0,90",
+        "0,11",
+        "0,10"
+      ],
+      "answer": 3,
+      "explain": "W(Ā) = 1 − 90/100 = 10/100 = 0,10."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 90 marta kuzatilgan bo'lsa, nisbiy chastota 9/10 ga teng.",
+      "answer": true,
+      "explain": "W = 90/100 = 9/10."
+    },
+    {
+      "type": "choice",
+      "q": "100 ta sinovda A hodisa 95 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,05",
+        "0,06",
+        "0,50",
+        "0,95"
+      ],
+      "answer": 0,
+      "explain": "W(Ā) = 1 − 95/100 = 5/100 = 0,05."
+    },
+    {
+      "type": "truefalse",
+      "q": "100 ta sinovda hodisa 95 marta kuzatilgan bo'lsa, nisbiy chastota 19/20 ga teng.",
+      "answer": true,
+      "explain": "W = 95/100 = 19/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 10 marta kuzatilgan bo'lsa, nisbiy chastota 1/20 ga teng.",
+      "answer": true,
+      "explain": "W = 10/200 = 1/20."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta sinovda A hodisa 20 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,91",
+        "0,50",
+        "0,10",
+        "0,90"
+      ],
+      "answer": 3,
+      "explain": "W(Ā) = 1 − 20/200 = 180/200 = 0,90."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 20 marta kuzatilgan bo'lsa, nisbiy chastota 1/10 ga teng.",
+      "answer": true,
+      "explain": "W = 20/200 = 1/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 30 marta kuzatilgan bo'lsa, nisbiy chastota 3/20 ga teng.",
+      "answer": true,
+      "explain": "W = 30/200 = 3/20."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta sinovda A hodisa 40 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,81",
+        "0,50",
+        "0,20",
+        "0,80"
+      ],
+      "answer": 3,
+      "explain": "W(Ā) = 1 − 40/200 = 160/200 = 0,80."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 40 marta kuzatilgan bo'lsa, nisbiy chastota 1/5 ga teng.",
+      "answer": true,
+      "explain": "W = 40/200 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta sinovda A hodisa 50 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,75",
+        "0,50",
+        "0,25",
+        "0,76"
+      ],
+      "answer": 0,
+      "explain": "W(Ā) = 1 − 50/200 = 150/200 = 0,75."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 50 marta kuzatilgan bo'lsa, nisbiy chastota 1/4 ga teng.",
+      "answer": true,
+      "explain": "W = 50/200 = 1/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 60 marta kuzatilgan bo'lsa, nisbiy chastota 3/10 ga teng.",
+      "answer": true,
+      "explain": "W = 60/200 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta sinovda A hodisa 70 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,50",
+        "0,35",
+        "0,66",
+        "0,65"
+      ],
+      "answer": 3,
+      "explain": "W(Ā) = 1 − 70/200 = 130/200 = 0,65."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 70 marta kuzatilgan bo'lsa, nisbiy chastota 7/20 ga teng.",
+      "answer": true,
+      "explain": "W = 70/200 = 7/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 80 marta kuzatilgan bo'lsa, nisbiy chastota 2/5 ga teng.",
+      "answer": true,
+      "explain": "W = 80/200 = 2/5."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta sinovda A hodisa 90 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,56",
+        "0,55",
+        "0,45",
+        "0,50"
+      ],
+      "answer": 1,
+      "explain": "W(Ā) = 1 − 90/200 = 110/200 = 0,55."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 90 marta kuzatilgan bo'lsa, nisbiy chastota 9/20 ga teng.",
+      "answer": true,
+      "explain": "W = 90/200 = 9/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 100 marta kuzatilgan bo'lsa, nisbiy chastota 1/2 ga teng.",
+      "answer": true,
+      "explain": "W = 100/200 = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta sinovda A hodisa 110 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,45",
+        "0,46",
+        "0,50",
+        "0,55"
+      ],
+      "answer": 0,
+      "explain": "W(Ā) = 1 − 110/200 = 90/200 = 0,45."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 110 marta kuzatilgan bo'lsa, nisbiy chastota 11/20 ga teng.",
+      "answer": true,
+      "explain": "W = 110/200 = 11/20."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta sinovda A hodisa 120 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,50",
+        "0,40",
+        "0,41",
+        "0,60"
+      ],
+      "answer": 1,
+      "explain": "W(Ā) = 1 − 120/200 = 80/200 = 0,40."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 120 marta kuzatilgan bo'lsa, nisbiy chastota 3/5 ga teng.",
+      "answer": true,
+      "explain": "W = 120/200 = 3/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 130 marta kuzatilgan bo'lsa, nisbiy chastota 13/20 ga teng.",
+      "answer": true,
+      "explain": "W = 130/200 = 13/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 140 marta kuzatilgan bo'lsa, nisbiy chastota 7/10 ga teng.",
+      "answer": true,
+      "explain": "W = 140/200 = 7/10."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta sinovda A hodisa 150 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,25",
+        "0,26",
+        "0,75",
+        "0,50"
+      ],
+      "answer": 0,
+      "explain": "W(Ā) = 1 − 150/200 = 50/200 = 0,25."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 150 marta kuzatilgan bo'lsa, nisbiy chastota 3/4 ga teng.",
+      "answer": true,
+      "explain": "W = 150/200 = 3/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 160 marta kuzatilgan bo'lsa, nisbiy chastota 4/5 ga teng.",
+      "answer": true,
+      "explain": "W = 160/200 = 4/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 170 marta kuzatilgan bo'lsa, nisbiy chastota 17/20 ga teng.",
+      "answer": true,
+      "explain": "W = 170/200 = 17/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 180 marta kuzatilgan bo'lsa, nisbiy chastota 9/10 ga teng.",
+      "answer": true,
+      "explain": "W = 180/200 = 9/10."
+    },
+    {
+      "type": "choice",
+      "q": "200 ta sinovda A hodisa 190 marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.",
+      "options": [
+        "0,50",
+        "0,95",
+        "0,06",
+        "0,05"
+      ],
+      "answer": 3,
+      "explain": "W(Ā) = 1 − 190/200 = 10/200 = 0,05."
+    },
+    {
+      "type": "truefalse",
+      "q": "200 ta sinovda hodisa 190 marta kuzatilgan bo'lsa, nisbiy chastota 19/20 ga teng.",
+      "answer": true,
+      "explain": "W = 190/200 = 19/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 13 marta kuzatilgan bo'lsa, nisbiy chastota 13/250 ga teng.",
+      "answer": true,
+      "explain": "W = 13/250 = 13/250."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 25 marta kuzatilgan bo'lsa, nisbiy chastota 1/10 ga teng.",
+      "answer": true,
+      "explain": "W = 25/250 = 1/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 38 marta kuzatilgan bo'lsa, nisbiy chastota 19/125 ga teng.",
+      "answer": true,
+      "explain": "W = 38/250 = 19/125."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 50 marta kuzatilgan bo'lsa, nisbiy chastota 1/5 ga teng.",
+      "answer": true,
+      "explain": "W = 50/250 = 1/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 63 marta kuzatilgan bo'lsa, nisbiy chastota 63/250 ga teng.",
+      "answer": true,
+      "explain": "W = 63/250 = 63/250."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 75 marta kuzatilgan bo'lsa, nisbiy chastota 3/10 ga teng.",
+      "answer": true,
+      "explain": "W = 75/250 = 3/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 88 marta kuzatilgan bo'lsa, nisbiy chastota 44/125 ga teng.",
+      "answer": true,
+      "explain": "W = 88/250 = 44/125."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 100 marta kuzatilgan bo'lsa, nisbiy chastota 2/5 ga teng.",
+      "answer": true,
+      "explain": "W = 100/250 = 2/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 113 marta kuzatilgan bo'lsa, nisbiy chastota 113/250 ga teng.",
+      "answer": true,
+      "explain": "W = 113/250 = 113/250."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 125 marta kuzatilgan bo'lsa, nisbiy chastota 1/2 ga teng.",
+      "answer": true,
+      "explain": "W = 125/250 = 1/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 138 marta kuzatilgan bo'lsa, nisbiy chastota 69/125 ga teng.",
+      "answer": true,
+      "explain": "W = 138/250 = 69/125."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 150 marta kuzatilgan bo'lsa, nisbiy chastota 3/5 ga teng.",
+      "answer": true,
+      "explain": "W = 150/250 = 3/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 163 marta kuzatilgan bo'lsa, nisbiy chastota 163/250 ga teng.",
+      "answer": true,
+      "explain": "W = 163/250 = 163/250."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 175 marta kuzatilgan bo'lsa, nisbiy chastota 7/10 ga teng.",
+      "answer": true,
+      "explain": "W = 175/250 = 7/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 188 marta kuzatilgan bo'lsa, nisbiy chastota 94/125 ga teng.",
+      "answer": true,
+      "explain": "W = 188/250 = 94/125."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 200 marta kuzatilgan bo'lsa, nisbiy chastota 4/5 ga teng.",
+      "answer": true,
+      "explain": "W = 200/250 = 4/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 213 marta kuzatilgan bo'lsa, nisbiy chastota 213/250 ga teng.",
+      "answer": true,
+      "explain": "W = 213/250 = 213/250."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 225 marta kuzatilgan bo'lsa, nisbiy chastota 9/10 ga teng.",
+      "answer": true,
+      "explain": "W = 225/250 = 9/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "250 ta sinovda hodisa 238 marta kuzatilgan bo'lsa, nisbiy chastota 119/125 ga teng.",
+      "answer": true,
+      "explain": "W = 238/250 = 119/125."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 25 marta kuzatilgan bo'lsa, nisbiy chastota 1/20 ga teng.",
+      "answer": true,
+      "explain": "W = 25/500 = 1/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 50 marta kuzatilgan bo'lsa, nisbiy chastota 1/10 ga teng.",
+      "answer": true,
+      "explain": "W = 50/500 = 1/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 75 marta kuzatilgan bo'lsa, nisbiy chastota 3/20 ga teng.",
+      "answer": true,
+      "explain": "W = 75/500 = 3/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 100 marta kuzatilgan bo'lsa, nisbiy chastota 1/5 ga teng.",
+      "answer": true,
+      "explain": "W = 100/500 = 1/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 125 marta kuzatilgan bo'lsa, nisbiy chastota 1/4 ga teng.",
+      "answer": true,
+      "explain": "W = 125/500 = 1/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 150 marta kuzatilgan bo'lsa, nisbiy chastota 3/10 ga teng.",
+      "answer": true,
+      "explain": "W = 150/500 = 3/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 175 marta kuzatilgan bo'lsa, nisbiy chastota 7/20 ga teng.",
+      "answer": true,
+      "explain": "W = 175/500 = 7/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 200 marta kuzatilgan bo'lsa, nisbiy chastota 2/5 ga teng.",
+      "answer": true,
+      "explain": "W = 200/500 = 2/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 225 marta kuzatilgan bo'lsa, nisbiy chastota 9/20 ga teng.",
+      "answer": true,
+      "explain": "W = 225/500 = 9/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 250 marta kuzatilgan bo'lsa, nisbiy chastota 1/2 ga teng.",
+      "answer": true,
+      "explain": "W = 250/500 = 1/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 275 marta kuzatilgan bo'lsa, nisbiy chastota 11/20 ga teng.",
+      "answer": true,
+      "explain": "W = 275/500 = 11/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 300 marta kuzatilgan bo'lsa, nisbiy chastota 3/5 ga teng.",
+      "answer": true,
+      "explain": "W = 300/500 = 3/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 325 marta kuzatilgan bo'lsa, nisbiy chastota 13/20 ga teng.",
+      "answer": true,
+      "explain": "W = 325/500 = 13/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 350 marta kuzatilgan bo'lsa, nisbiy chastota 7/10 ga teng.",
+      "answer": true,
+      "explain": "W = 350/500 = 7/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 375 marta kuzatilgan bo'lsa, nisbiy chastota 3/4 ga teng.",
+      "answer": true,
+      "explain": "W = 375/500 = 3/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 400 marta kuzatilgan bo'lsa, nisbiy chastota 4/5 ga teng.",
+      "answer": true,
+      "explain": "W = 400/500 = 4/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 425 marta kuzatilgan bo'lsa, nisbiy chastota 17/20 ga teng.",
+      "answer": true,
+      "explain": "W = 425/500 = 17/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 450 marta kuzatilgan bo'lsa, nisbiy chastota 9/10 ga teng.",
+      "answer": true,
+      "explain": "W = 450/500 = 9/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "500 ta sinovda hodisa 475 marta kuzatilgan bo'lsa, nisbiy chastota 19/20 ga teng.",
+      "answer": true,
+      "explain": "W = 475/500 = 19/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "1000 ta sinovda hodisa 50 marta kuzatilgan bo'lsa, nisbiy chastota 1/20 ga teng.",
+      "answer": true,
+      "explain": "W = 50/1000 = 1/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "1000 ta sinovda hodisa 100 marta kuzatilgan bo'lsa, nisbiy chastota 1/10 ga teng.",
+      "answer": true,
+      "explain": "W = 100/1000 = 1/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "1000 ta sinovda hodisa 150 marta kuzatilgan bo'lsa, nisbiy chastota 3/20 ga teng.",
+      "answer": true,
+      "explain": "W = 150/1000 = 3/20."
+    },
+    {
+      "type": "truefalse",
+      "q": "1000 ta sinovda hodisa 200 marta kuzatilgan bo'lsa, nisbiy chastota 1/5 ga teng.",
+      "answer": true,
+      "explain": "W = 200/1000 = 1/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "1000 ta sinovda hodisa 250 marta kuzatilgan bo'lsa, nisbiy chastota 1/4 ga teng.",
+      "answer": true,
+      "explain": "W = 250/1000 = 1/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "1000 ta sinovda hodisa 300 marta kuzatilgan bo'lsa, nisbiy chastota 3/10 ga teng.",
+      "answer": true,
+      "explain": "W = 300/1000 = 3/10."
+    },
+    {
+      "type": "truefalse",
+      "q": "1000 ta sinovda hodisa 350 marta kuzatilgan bo'lsa, nisbiy chastota 7/20 ga teng.",
+      "answer": true,
+      "explain": "W = 350/1000 = 7/20."
+    }
+  ],
+  "cards": [
+    [
+      "Chastota",
+      "Hodisaning n ta tajribada necha marta ro'y berishi (m)"
+    ],
+    [
+      "Nisbiy",
+      "W(A) = m / n — uchrashish ulushi"
+    ],
+    [
+      "Barqarorlik",
+      "n ortgan sari W(A) ning P(A) ga yaqinlashishi"
+    ],
+    [
+      "Statistik",
+      "Kuzatish va tajribalar orqali baholangan ehtimollik"
+    ],
+    [
+      "Bernulli",
+      "Katta sonlar qonunini isbotlagan shveysariyalik matematik"
+    ],
+    [
+      "Byuffon",
+      "Tangani 4040 marta tashlab 2048 gerb olgan olim"
+    ],
+    [
+      "Pirson",
+      "Tangani 24000 marta tashlab 12012 gerb olgan olim"
+    ],
+    [
+      "W(A) = m / n",
+      "Hodisaning nisbiy chastotasi formulasi"
+    ],
+    [
+      "Mutlaq chastota",
+      "Hodisaning tajribada necha marta yuz bergani (m)"
+    ],
+    [
+      "Tajriba soni",
+      "O'tkazilgan jami sinovlar soni (n)"
+    ],
+    [
+      "Katta sonlar qonuni",
+      "Ko'p sinovda nisbiy chastota ehtimollikka intiladi"
+    ],
+    [
+      "0 ≤ W(A) ≤ 1",
+      "Nisbiy chastotaning qiymatlar oralig'i"
+    ],
+    [
+      "Byuffon natijasi",
+      "2048 / 4040 ≈ 0,5069"
+    ],
+    [
+      "Pirson natijasi",
+      "12012 / 24000 = 0,5005"
+    ],
+    [
+      "Foizda chastota",
+      "(m / n) · 100% ko'rinishida yoziladi"
+    ],
+    [
+      "W(A) + W(Ā) = 1",
+      "Qarama-qarshi hodisalar nisbiy chastotalari yig'indisi"
+    ],
+    [
+      "Yaroqsiz ulush",
+      "Tekshirilgan detallarda nuqsonli detallar nisbiy chastotasi"
+    ],
+    [
+      "Nishonga tegish",
+      "O'q uzishdagi natijadorlik nisbiy chastotasi"
+    ],
+    [
+      "Unib chiqish",
+      "Urug'larning unib chiqish nisbiy chastotasi"
+    ],
+    [
+      "Ya. Bernulli",
+      "«Ars Conjectandi» asari muallifi (1713)"
+    ],
+    [
+      "Sinovlar seriyasi",
+      "Takrorlanuvchi mustaqil kuzatishlar zanjiri"
+    ],
+    [
+      "m = W(A) · n",
+      "Nisbiy chastotadan mutlaq chastotani topish"
+    ],
+    [
+      "n = m / W(A)",
+      "Mutlaq va nisbiy chastotadan sinovlar sonini topish"
+    ],
+    [
+      "Σ Wᵢ = 1",
+      "Barcha o'zaro uyg'unmas natijalar chastotalari yig'indisi"
+    ]
+  ]
+}

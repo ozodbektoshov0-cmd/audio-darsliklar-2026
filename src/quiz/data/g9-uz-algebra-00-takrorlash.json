@@ -1,0 +1,3454 @@
+{
+  "id": "g9-uz-algebra-00-takrorlash",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "0. 8-sinfda o'rganilgan mavzularni takrorlash",
+  "title": "0. 8-sinfda o'rganilgan mavzularni takrorlash",
+  "source": "Algebra 9-sinf (2019), Takrorlash, 3–4-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "ax² + bx + c = 0 (a ≠ 0) kvadrat tenglamaning diskriminanti qaysi formula bilan topiladi?",
+      "options": [
+        "D = (b² − ac)/2",
+        "D = b − 4ac",
+        "D = b² + 4ac",
+        "D = b² − 4ac"
+      ],
+      "answer": 3,
+      "explain": "Kvadrat tenglama diskriminanti D = b² − 4ac ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "Diskriminant D < 0 bo'lganda kvadrat tenglama nechta haqiqiy ildizga ega bo'ladi?",
+      "options": [
+        "2 ta turli ildiz",
+        "1 ta ildiz",
+        "Cheksiz ko'p ildiz",
+        "Haqiqiy ildizi bo'lmaydi"
+      ],
+      "answer": 3,
+      "explain": "D < 0 da haqiqiy sonlar to'plamida kvadrat tenglama yechimga ega emas."
+    },
+    {
+      "type": "choice",
+      "q": "Keltirilgan x² + px + q = 0 kvadrat tenglama uchun Viyet teoremasi qanday yoziladi?",
+      "options": [
+        "x₁ + x₂ = q va x₁·x₂ = p",
+        "x₁ − x₂ = p va x₁·x₂ = q",
+        "x₁ + x₂ = −p va x₁·x₂ = q",
+        "x₁ + x₂ = p va x₁·x₂ = −q"
+      ],
+      "answer": 2,
+      "explain": "Viyet teoremasiga ko'ra ildizlar yig'indisi −p ga, ko'paytmasi q ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "√(a²) ifoda har qanday haqiqiy a son uchun nimaga teng?",
+      "options": [
+        "|a|",
+        "−a",
+        "a²",
+        "a"
+      ],
+      "answer": 0,
+      "explain": "Har qanday haqiqiy a uchun √(a²) = |a| bo'ladi."
+    },
+    {
+      "type": "choice",
+      "q": "(a − b)² formulasi qanday yoyiladi?",
+      "options": [
+        "a² − 2ab + b²",
+        "a² − ab + b²",
+        "a² − b²",
+        "a² + 2ab − b²"
+      ],
+      "answer": 0,
+      "explain": "Ayirmaning kvadrati a² − 2ab + b² ga teng."
+    },
+    {
+      "type": "choice",
+      "q": "a² − b² ifoda qanday ko'paytuvchilarga ajraladi?",
+      "options": [
+        "(a − b)(a − b)",
+        "(a − b)(a + b)",
+        "(a + b)²",
+        "(a − b)²"
+      ],
+      "answer": 1,
+      "explain": "Kvadratlar ayirmasi (a − b)(a + b) ko'paytmasiga teng."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 15x + 56 = 0 tenglama ildizlari yig'indisi -15 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -8 + (-7) = -15."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 14x + 48 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va -4",
+        "-8 va -6",
+        "8 va 6",
+        "-9 va -5"
+      ],
+      "answer": 1,
+      "explain": "Viyet bo'yicha (-8) + (-6) = -14, ko'paytma = 48."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 13x + 40 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "8 va 5",
+        "-8 va -3",
+        "-9 va -4",
+        "-8 va -5"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-8) + (-5) = -13, ko'paytma = 40."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 12x + 32 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "-4",
+      "explain": "x² + 12x + 32 = 0 tenglama ildizlari -8 va -4. Kattasi -4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 11x + 24 = 0 tenglama ildizlari yig'indisi -11 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -8 + (-3) = -11."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 10x + 16 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-9 va -1",
+        "8 va 2",
+        "-8 va 0",
+        "-8 va -2"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-8) + (-2) = -10, ko'paytma = 16."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 9x + 8 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va -1",
+        "-9 va 0",
+        "-8 va 1",
+        "8 va 1"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-8) + (-1) = -9, ko'paytma = 8."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 8x = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "0",
+      "explain": "x² + 8x = 0 tenglama ildizlari -8 va 0. Kattasi 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 7x − 8 = 0 tenglama ildizlari yig'indisi -7 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -8 + (1) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x − 16 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va 2",
+        "-9 va 3",
+        "8 va -2",
+        "-8 va 4"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-8) + (2) = -6, ko'paytma = -16."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 5x − 24 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va 3",
+        "-8 va 5",
+        "8 va -3",
+        "-9 va 4"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-8) + (3) = -5, ko'paytma = -24."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x − 32 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "4",
+      "explain": "x² + 4x − 32 = 0 tenglama ildizlari -8 va 4. Kattasi 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 3x − 40 = 0 tenglama ildizlari yig'indisi -3 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -8 + (5) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x − 48 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va 8",
+        "-9 va 7",
+        "8 va -6",
+        "-8 va 6"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-8) + (6) = -2, ko'paytma = -48."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 56 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va 9",
+        "8 va -7",
+        "-9 va 8",
+        "-8 va 7"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-8) + (7) = -1, ko'paytma = -56."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 64 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "8",
+      "explain": "x² − 64 = 0 tenglama ildizlari -8 va 8. Kattasi 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − x − 72 = 0 tenglama ildizlari yig'indisi 1 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -8 + (9) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 13x + 42 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "7 va 6",
+        "-7 va -4",
+        "-8 va -5",
+        "-7 va -6"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-7) + (-6) = -13, ko'paytma = 42."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 12x + 35 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "-5",
+      "explain": "x² + 12x + 35 = 0 tenglama ildizlari -7 va -5. Kattasi -5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 11x + 28 = 0 tenglama ildizlari yig'indisi -11 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -7 + (-4) = -11."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 10x + 21 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va -2",
+        "-7 va -3",
+        "-7 va -1",
+        "7 va 3"
+      ],
+      "answer": 1,
+      "explain": "Viyet bo'yicha (-7) + (-3) = -10, ko'paytma = 21."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 9x + 14 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va -1",
+        "-7 va 0",
+        "7 va 2",
+        "-7 va -2"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-7) + (-2) = -9, ko'paytma = 14."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 8x + 7 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "-1",
+      "explain": "x² + 8x + 7 = 0 tenglama ildizlari -7 va -1. Kattasi -1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 7x = 0 tenglama ildizlari yig'indisi -7 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -7 + (0) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x − 7 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va 2",
+        "-7 va 1",
+        "7 va -1",
+        "-7 va 3"
+      ],
+      "answer": 1,
+      "explain": "Viyet bo'yicha (-7) + (1) = -6, ko'paytma = -7."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 5x − 14 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-7 va 2",
+        "-7 va 4",
+        "7 va -2",
+        "-8 va 3"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-7) + (2) = -5, ko'paytma = -14."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x − 21 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "3",
+      "explain": "x² + 4x − 21 = 0 tenglama ildizlari -7 va 3. Kattasi 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 3x − 28 = 0 tenglama ildizlari yig'indisi -3 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -7 + (4) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x − 35 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va 6",
+        "-7 va 7",
+        "-7 va 5",
+        "7 va -5"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-7) + (5) = -2, ko'paytma = -35."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 42 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "7 va -6",
+        "-7 va 6",
+        "-7 va 8",
+        "-8 va 7"
+      ],
+      "answer": 1,
+      "explain": "Viyet bo'yicha (-7) + (6) = -1, ko'paytma = -42."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 49 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "7",
+      "explain": "x² − 49 = 0 tenglama ildizlari -7 va 7. Kattasi 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − x − 56 = 0 tenglama ildizlari yig'indisi 1 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -7 + (8) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 63 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-8 va 10",
+        "-7 va 9",
+        "7 va -9",
+        "-7 va 11"
+      ],
+      "answer": 1,
+      "explain": "Viyet bo'yicha (-7) + (9) = 2, ko'paytma = -63."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 11x + 30 = 0 tenglama ildizlari yig'indisi -11 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -6 + (-5) = -11."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 10x + 24 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-6 va -2",
+        "6 va 4",
+        "-6 va -4",
+        "-7 va -3"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-6) + (-4) = -10, ko'paytma = 24."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 9x + 18 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "6 va 3",
+        "-6 va -1",
+        "-6 va -3",
+        "-7 va -2"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-6) + (-3) = -9, ko'paytma = 18."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 8x + 12 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "-2",
+      "explain": "x² + 8x + 12 = 0 tenglama ildizlari -6 va -2. Kattasi -2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 7x + 6 = 0 tenglama ildizlari yig'indisi -7 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -6 + (-1) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-6 va 0",
+        "-7 va 1",
+        "6 va 0",
+        "-6 va 2"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-6) + (0) = -6, ko'paytma = 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 5x − 6 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "6 va -1",
+        "-6 va 3",
+        "-6 va 1",
+        "-7 va 2"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-6) + (1) = -5, ko'paytma = -6."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x − 12 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "2",
+      "explain": "x² + 4x − 12 = 0 tenglama ildizlari -6 va 2. Kattasi 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 3x − 18 = 0 tenglama ildizlari yig'indisi -3 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -6 + (3) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x − 24 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "6 va -4",
+        "-7 va 5",
+        "-6 va 6",
+        "-6 va 4"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-6) + (4) = -2, ko'paytma = -24."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 30 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-6 va 5",
+        "-6 va 7",
+        "6 va -5",
+        "-7 va 6"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-6) + (5) = -1, ko'paytma = -30."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 36 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "6",
+      "explain": "x² − 36 = 0 tenglama ildizlari -6 va 6. Kattasi 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − x − 42 = 0 tenglama ildizlari yig'indisi 1 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -6 + (7) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 48 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-6 va 8",
+        "-6 va 10",
+        "-7 va 9",
+        "6 va -8"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-6) + (8) = 2, ko'paytma = -48."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 54 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "6 va -9",
+        "-7 va 10",
+        "-6 va 11",
+        "-6 va 9"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-6) + (9) = 3, ko'paytma = -54."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 9x + 20 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-6 va -3",
+        "5 va 4",
+        "-5 va -4",
+        "-5 va -2"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-5) + (-4) = -9, ko'paytma = 20."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 8x + 15 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "-3",
+      "explain": "x² + 8x + 15 = 0 tenglama ildizlari -5 va -3. Kattasi -3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 7x + 10 = 0 tenglama ildizlari yig'indisi -7 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -5 + (-2) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x + 5 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-5 va -1",
+        "5 va 1",
+        "-5 va 1",
+        "-6 va 0"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-5) + (-1) = -6, ko'paytma = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 5x = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-6 va 1",
+        "5 va 0",
+        "-5 va 0",
+        "-5 va 2"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-5) + (0) = -5, ko'paytma = 0."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x − 5 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "1",
+      "explain": "x² + 4x − 5 = 0 tenglama ildizlari -5 va 1. Kattasi 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 3x − 10 = 0 tenglama ildizlari yig'indisi -3 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -5 + (2) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x − 15 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-5 va 5",
+        "5 va -3",
+        "-6 va 4",
+        "-5 va 3"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-5) + (3) = -2, ko'paytma = -15."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 20 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-6 va 5",
+        "-5 va 4",
+        "5 va -4",
+        "-5 va 6"
+      ],
+      "answer": 1,
+      "explain": "Viyet bo'yicha (-5) + (4) = -1, ko'paytma = -20."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 25 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "5",
+      "explain": "x² − 25 = 0 tenglama ildizlari -5 va 5. Kattasi 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − x − 30 = 0 tenglama ildizlari yig'indisi 1 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -5 + (6) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 35 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-5 va 7",
+        "-5 va 9",
+        "-6 va 8",
+        "5 va -7"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-5) + (7) = 2, ko'paytma = -35."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 40 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-6 va 9",
+        "-5 va 10",
+        "5 va -8",
+        "-5 va 8"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-5) + (8) = 3, ko'paytma = -40."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 45 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "9",
+      "explain": "x² − 4x − 45 = 0 tenglama ildizlari -5 va 9. Kattasi 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 7x + 12 = 0 tenglama ildizlari yig'indisi -7 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -4 + (-3) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 6x + 8 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-5 va -1",
+        "4 va 2",
+        "-4 va 0",
+        "-4 va -2"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-4) + (-2) = -6, ko'paytma = 8."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 5x + 4 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "4 va 1",
+        "-4 va -1",
+        "-5 va 0",
+        "-4 va 1"
+      ],
+      "answer": 1,
+      "explain": "Viyet bo'yicha (-4) + (-1) = -5, ko'paytma = 4."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "0",
+      "explain": "x² + 4x = 0 tenglama ildizlari -4 va 0. Kattasi 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 3x − 4 = 0 tenglama ildizlari yig'indisi -3 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -4 + (1) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x − 8 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-5 va 3",
+        "4 va -2",
+        "-4 va 4",
+        "-4 va 2"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-4) + (2) = -2, ko'paytma = -8."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 12 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "4 va -3",
+        "-4 va 5",
+        "-4 va 3",
+        "-5 va 4"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-4) + (3) = -1, ko'paytma = -12."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 16 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "4",
+      "explain": "x² − 16 = 0 tenglama ildizlari -4 va 4. Kattasi 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − x − 20 = 0 tenglama ildizlari yig'indisi 1 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -4 + (5) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 24 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-4 va 8",
+        "4 va -6",
+        "-4 va 6",
+        "-5 va 7"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-4) + (6) = 2, ko'paytma = -24."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 28 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-4 va 7",
+        "-5 va 8",
+        "4 va -7",
+        "-4 va 9"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-4) + (7) = 3, ko'paytma = -28."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 32 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "8",
+      "explain": "x² − 4x − 32 = 0 tenglama ildizlari -4 va 8. Kattasi 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 5x − 36 = 0 tenglama ildizlari yig'indisi 5 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -4 + (9) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 5x + 6 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-4 va -1",
+        "-3 va 0",
+        "3 va 2",
+        "-3 va -2"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-3) + (-2) = -5, ko'paytma = 6."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x + 3 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "-1",
+      "explain": "x² + 4x + 3 = 0 tenglama ildizlari -3 va -1. Kattasi -1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 3x = 0 tenglama ildizlari yig'indisi -3 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -3 + (0) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x − 3 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-4 va 2",
+        "3 va -1",
+        "-3 va 3",
+        "-3 va 1"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-3) + (1) = -2, ko'paytma = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 6 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "3 va -2",
+        "-4 va 3",
+        "-3 va 2",
+        "-3 va 4"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-3) + (2) = -1, ko'paytma = -6."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 9 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "3",
+      "explain": "x² − 9 = 0 tenglama ildizlari -3 va 3. Kattasi 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − x − 12 = 0 tenglama ildizlari yig'indisi 1 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -3 + (4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 15 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-3 va 5",
+        "3 va -5",
+        "-3 va 7",
+        "-4 va 6"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-3) + (5) = 2, ko'paytma = -15."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 18 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-3 va 8",
+        "-3 va 6",
+        "3 va -6",
+        "-4 va 7"
+      ],
+      "answer": 1,
+      "explain": "Viyet bo'yicha (-3) + (6) = 3, ko'paytma = -18."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 21 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "7",
+      "explain": "x² − 4x − 21 = 0 tenglama ildizlari -3 va 7. Kattasi 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 5x − 24 = 0 tenglama ildizlari yig'indisi 5 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -3 + (8) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x − 27 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-4 va 10",
+        "-3 va 9",
+        "3 va -9",
+        "-3 va 11"
+      ],
+      "answer": 1,
+      "explain": "Viyet bo'yicha (-3) + (9) = 6, ko'paytma = -27."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² + 3x + 2 = 0 tenglama ildizlari yig'indisi -3 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -2 + (-1) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² + 2x = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-2 va 0",
+        "-3 va 1",
+        "2 va 0",
+        "-2 va 2"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-2) + (0) = -2, ko'paytma = 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x − 2 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "2 va -1",
+        "-2 va 3",
+        "-2 va 1",
+        "-3 va 2"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-2) + (1) = -1, ko'paytma = -2."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "2",
+      "explain": "x² − 4 = 0 tenglama ildizlari -2 va 2. Kattasi 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − x − 6 = 0 tenglama ildizlari yig'indisi 1 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -2 + (3) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 8 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-2 va 4",
+        "2 va -4",
+        "-2 va 6",
+        "-3 va 5"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-2) + (4) = 2, ko'paytma = -8."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 10 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-3 va 6",
+        "-2 va 5",
+        "-2 va 7",
+        "2 va -5"
+      ],
+      "answer": 1,
+      "explain": "Viyet bo'yicha (-2) + (5) = 3, ko'paytma = -10."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 12 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "6",
+      "explain": "x² − 4x − 12 = 0 tenglama ildizlari -2 va 6. Kattasi 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − 5x − 14 = 0 tenglama ildizlari yig'indisi 5 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -2 + (7) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x − 16 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-2 va 10",
+        "2 va -8",
+        "-3 va 9",
+        "-2 va 8"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-2) + (8) = 6, ko'paytma = -16."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x − 18 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-2 va 11",
+        "-3 va 10",
+        "-2 va 9",
+        "2 va -9"
+      ],
+      "answer": 2,
+      "explain": "Viyet bo'yicha (-2) + (9) = 7, ko'paytma = -18."
+    },
+    {
+      "type": "choice",
+      "q": "x² + x = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "-1 va 0",
+        "1 va 0",
+        "-2 va 1",
+        "-1 va 2"
+      ],
+      "answer": 0,
+      "explain": "Viyet bo'yicha (-1) + (0) = -1, ko'paytma = 0."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 1 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "1",
+      "explain": "x² − 1 = 0 tenglama ildizlari -1 va 1. Kattasi 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "x² − x − 2 = 0 tenglama ildizlari yig'indisi 1 ga teng.",
+      "answer": true,
+      "explain": "Viyet teoremasi bo'yicha x₁ + x₂ = -1 + (2) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 3 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "1 va -3",
+        "-2 va 4",
+        "-1 va 5",
+        "-1 va 3"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-1) + (3) = 2, ko'paytma = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 4 = 0 tenglama ildizlari qaysi javobda to'g'ri berilgan?",
+      "options": [
+        "1 va -4",
+        "-2 va 5",
+        "-1 va 6",
+        "-1 va 4"
+      ],
+      "answer": 3,
+      "explain": "Viyet bo'yicha (-1) + (4) = 3, ko'paytma = -4."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 5 = 0 kvadrat tenglamaning katta ildizini toping.",
+      "answer": "5",
+      "explain": "x² − 4x − 5 = 0 tenglama ildizlari -1 va 5. Kattasi 5."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x − 5 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "29",
+        "69",
+        "73",
+        "65"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-7)² − 4·1·(-5) = 69."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 7x − 4 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "65",
+      "explain": "D = (-7)² − 4·1·(-4) = 49 − -16 = 65."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x − 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "61",
+        "65",
+        "57",
+        "37"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-7)² − 4·1·(-3) = 61."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x − 2 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "57",
+        "53",
+        "41",
+        "61"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-7)² − 4·1·(-2) = 57."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 7x − 1 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "53",
+      "explain": "D = (-7)² − 4·1·(-1) = 49 − -4 = 53."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "53",
+        "49",
+        "45",
+        "-49"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-7)² − 4·1·(0) = 49."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 7x + 1 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "45",
+      "explain": "D = (-7)² − 4·1·(1) = 49 − 4 = 45."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x + 2 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "41",
+        "57",
+        "37",
+        "45"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-7)² − 4·1·(2) = 41."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x + 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "37",
+        "33",
+        "41",
+        "61"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-7)² − 4·1·(3) = 37."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 7x + 4 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "33",
+      "explain": "D = (-7)² − 4·1·(4) = 49 − 16 = 33."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 7x + 5 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "33",
+        "25",
+        "69",
+        "29"
+      ],
+      "answer": 3,
+      "explain": "D = b² − 4ac = (-7)² − 4·1·(5) = 29."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 6x − 5 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "56",
+      "explain": "D = (-6)² − 4·1·(-5) = 36 − -20 = 56."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x − 4 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "20",
+        "56",
+        "48",
+        "52"
+      ],
+      "answer": 3,
+      "explain": "D = b² − 4ac = (-6)² − 4·1·(-4) = 52."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x − 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "44",
+        "52",
+        "48",
+        "24"
+      ],
+      "answer": 2,
+      "explain": "D = b² − 4ac = (-6)² − 4·1·(-3) = 48."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 6x − 2 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "44",
+      "explain": "D = (-6)² − 4·1·(-2) = 36 − -8 = 44."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x − 1 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "36",
+        "32",
+        "40",
+        "44"
+      ],
+      "answer": 2,
+      "explain": "D = b² − 4ac = (-6)² − 4·1·(-1) = 40."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-36",
+        "36",
+        "40",
+        "32"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-6)² − 4·1·(0) = 36."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x + 1 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "32",
+        "36",
+        "28",
+        "40"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-6)² − 4·1·(1) = 32."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 6x + 2 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "28",
+      "explain": "D = (-6)² − 4·1·(2) = 36 − 8 = 28."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x + 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "24",
+        "48",
+        "28",
+        "20"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-6)² − 4·1·(3) = 24."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 6x + 4 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "20",
+        "52",
+        "16",
+        "24"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-6)² − 4·1·(4) = 20."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 6x + 5 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "16",
+      "explain": "D = (-6)² − 4·1·(5) = 36 − 20 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 5x − 5 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "49",
+        "45",
+        "5",
+        "41"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-5)² − 4·1·(-5) = 45."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 5x − 4 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "41",
+        "9",
+        "37",
+        "45"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-5)² − 4·1·(-4) = 41."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x − 3 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "37",
+      "explain": "D = (-5)² − 4·1·(-3) = 25 − -12 = 37."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 5x − 2 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "33",
+        "17",
+        "37",
+        "29"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-5)² − 4·1·(-2) = 33."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 5x − 1 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "25",
+        "21",
+        "33",
+        "29"
+      ],
+      "answer": 3,
+      "explain": "D = b² − 4ac = (-5)² − 4·1·(-1) = 29."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x = 0 tenglama diskriminantini hisoblang.",
+      "answer": "25",
+      "explain": "D = (-5)² − 4·1·(0) = 25 − 0 = 25."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 5x + 1 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "21",
+        "29",
+        "25",
+        "17"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-5)² − 4·1·(1) = 21."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 5x + 2 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "13",
+        "17",
+        "21",
+        "33"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-5)² − 4·1·(2) = 17."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x + 3 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "13",
+      "explain": "D = (-5)² − 4·1·(3) = 25 − 12 = 13."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 5x + 4 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "9",
+        "5",
+        "41",
+        "13"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-5)² − 4·1·(4) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 5x + 5 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "9",
+        "45",
+        "5",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "D = b² − 4ac = (-5)² − 4·1·(5) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4x − 5 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "36",
+        "40",
+        "32",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-4)² − 4·1·(-5) = 36."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 4 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "32",
+      "explain": "D = (-4)² − 4·1·(-4) = 16 − -16 = 32."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4x − 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "32",
+        "4",
+        "28",
+        "24"
+      ],
+      "answer": 2,
+      "explain": "D = b² − 4ac = (-4)² − 4·1·(-3) = 28."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4x − 2 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "20",
+        "28",
+        "24",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "D = b² − 4ac = (-4)² − 4·1·(-2) = 24."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 1 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "20",
+      "explain": "D = (-4)² − 4·1·(-1) = 16 − -4 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4x = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-16",
+        "16",
+        "12",
+        "20"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-4)² − 4·1·(0) = 16."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x + 1 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "12",
+      "explain": "D = (-4)² − 4·1·(1) = 16 − 4 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4x + 2 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "4",
+        "8",
+        "24",
+        "12"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-4)² − 4·1·(2) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4x + 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "8",
+        "4",
+        "28",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-4)² − 4·1·(3) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x + 4 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "0",
+      "explain": "D = (-4)² − 4·1·(4) = 16 − 16 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4x + 5 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-4",
+        "-8",
+        "0",
+        "36"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-4)² − 4·1·(5) = -4."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 3x − 5 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "29",
+      "explain": "D = (-3)² − 4·1·(-5) = 9 − -20 = 29."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 4 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-7",
+        "21",
+        "29",
+        "25"
+      ],
+      "answer": 3,
+      "explain": "D = b² − 4ac = (-3)² − 4·1·(-4) = 25."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "17",
+        "21",
+        "-3",
+        "25"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-3)² − 4·1·(-3) = 21."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 3x − 2 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "17",
+      "explain": "D = (-3)² − 4·1·(-2) = 9 − -8 = 17."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x − 1 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "9",
+        "5",
+        "13",
+        "17"
+      ],
+      "answer": 2,
+      "explain": "D = b² − 4ac = (-3)² − 4·1·(-1) = 13."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-9",
+        "13",
+        "5",
+        "9"
+      ],
+      "answer": 3,
+      "explain": "D = b² − 4ac = (-3)² − 4·1·(0) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x + 1 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "5",
+        "1",
+        "13",
+        "9"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-3)² − 4·1·(1) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 3x + 2 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "1",
+      "explain": "D = (-3)² − 4·1·(2) = 9 − 8 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x + 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-3",
+        "21",
+        "1",
+        "-7"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-3)² − 4·1·(3) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3x + 4 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-7",
+        "-3",
+        "-11",
+        "25"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-3)² − 4·1·(4) = -7."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 3x + 5 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "-11",
+      "explain": "D = (-3)² − 4·1·(5) = 9 − 20 = -11."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 5 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "20",
+        "-16",
+        "28",
+        "24"
+      ],
+      "answer": 3,
+      "explain": "D = b² − 4ac = (-2)² − 4·1·(-5) = 24."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 4 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "24",
+        "-12",
+        "20",
+        "16"
+      ],
+      "answer": 2,
+      "explain": "D = b² − 4ac = (-2)² − 4·1·(-4) = 20."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x − 3 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "16",
+      "explain": "D = (-2)² − 4·1·(-3) = 4 − -12 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 2 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "8",
+        "16",
+        "-4",
+        "12"
+      ],
+      "answer": 3,
+      "explain": "D = b² − 4ac = (-2)² − 4·1·(-2) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x − 1 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "12",
+        "4",
+        "0",
+        "8"
+      ],
+      "answer": 3,
+      "explain": "D = b² − 4ac = (-2)² − 4·1·(-1) = 8."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x = 0 tenglama diskriminantini hisoblang.",
+      "answer": "4",
+      "explain": "D = (-2)² − 4·1·(0) = 4 − 0 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x + 1 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "4",
+        "8",
+        "-4",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "D = b² − 4ac = (-2)² − 4·1·(1) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x + 2 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-4",
+        "0",
+        "12",
+        "-8"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-2)² − 4·1·(2) = -4."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x + 3 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "-8",
+      "explain": "D = (-2)² − 4·1·(3) = 4 − 12 = -8."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x + 4 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "20",
+        "-12",
+        "-16",
+        "-8"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-2)² − 4·1·(4) = -12."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 2x + 5 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-20",
+        "24",
+        "-16",
+        "-12"
+      ],
+      "answer": 2,
+      "explain": "D = b² − 4ac = (-2)² − 4·1·(5) = -16."
+    },
+    {
+      "type": "choice",
+      "q": "x² − x − 5 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "21",
+        "17",
+        "25",
+        "-19"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-1)² − 4·1·(-5) = 21."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x − 4 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "17",
+      "explain": "D = (-1)² − 4·1·(-4) = 1 − -16 = 17."
+    },
+    {
+      "type": "choice",
+      "q": "x² − x − 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "9",
+        "17",
+        "13",
+        "-11"
+      ],
+      "answer": 2,
+      "explain": "D = b² − 4ac = (-1)² − 4·1·(-3) = 13."
+    },
+    {
+      "type": "choice",
+      "q": "x² − x − 2 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "5",
+        "9",
+        "-7",
+        "13"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-1)² − 4·1·(-2) = 9."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x − 1 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "5",
+      "explain": "D = (-1)² − 4·1·(-1) = 1 − -4 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "x² − x = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "5",
+        "-1",
+        "-3",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "D = b² − 4ac = (-1)² − 4·1·(0) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x + 1 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "-3",
+      "explain": "D = (-1)² − 4·1·(1) = 1 − 4 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "x² − x + 2 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "9",
+        "-7",
+        "-11",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (-1)² − 4·1·(2) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "x² − x + 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-11",
+        "13",
+        "-15",
+        "-7"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-1)² − 4·1·(3) = -11."
+    },
+    {
+      "type": "fill",
+      "q": "x² − x + 4 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "-15",
+      "explain": "D = (-1)² − 4·1·(4) = 1 − 16 = -15."
+    },
+    {
+      "type": "choice",
+      "q": "x² − x + 5 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-19",
+        "21",
+        "-23",
+        "-15"
+      ],
+      "answer": 0,
+      "explain": "D = b² − 4ac = (-1)² − 4·1·(5) = -19."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5 = 0 tenglama diskriminantini hisoblang.",
+      "answer": "20",
+      "explain": "D = (0)² − 4·1·(-5) = 0 − -20 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 4 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-16",
+        "16",
+        "12",
+        "20"
+      ],
+      "answer": 1,
+      "explain": "D = b² − 4ac = (0)² − 4·1·(-4) = 16."
+    },
+    {
+      "type": "choice",
+      "q": "x² − 3 = 0 kvadrat tenglamaning diskriminanti nechaga teng?",
+      "options": [
+        "-12",
+        "16",
+        "12",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "D = b² − 4ac = (0)² − 4·1·(-3) = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "√4 + √1 ifodaning qiymati 3 ga teng.",
+      "answer": true,
+      "explain": "√4 = 2 va √1 = 1, yig'indisi 3."
+    },
+    {
+      "type": "choice",
+      "q": "√4 − √4 ifodani hisoblang.",
+      "options": [
+        "2",
+        "-1",
+        "0",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "√4 = 2, √4 = 2. Ayirma 2 − 2 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "√4 − √9 ifodani hisoblang.",
+      "options": [
+        "-5",
+        "-1",
+        "1",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "√4 = 2, √9 = 3. Ayirma 2 − 3 = -1."
+    },
+    {
+      "type": "truefalse",
+      "q": "√4 + √16 ifodaning qiymati 6 ga teng.",
+      "answer": true,
+      "explain": "√4 = 2 va √16 = 4, yig'indisi 6."
+    },
+    {
+      "type": "choice",
+      "q": "√4 − √25 ifodani hisoblang.",
+      "options": [
+        "-1",
+        "-21",
+        "-3",
+        "7"
+      ],
+      "answer": 2,
+      "explain": "√4 = 2, √25 = 5. Ayirma 2 − 5 = -3."
+    },
+    {
+      "type": "choice",
+      "q": "√4 − √36 ifodani hisoblang.",
+      "options": [
+        "8",
+        "-4",
+        "-2",
+        "-32"
+      ],
+      "answer": 1,
+      "explain": "√4 = 2, √36 = 6. Ayirma 2 − 6 = -4."
+    },
+    {
+      "type": "choice",
+      "q": "√9 − √1 ifodani hisoblang.",
+      "options": [
+        "1",
+        "4",
+        "8",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "√9 = 3, √1 = 1. Ayirma 3 − 1 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "√9 − √4 ifodani hisoblang.",
+      "options": [
+        "1",
+        "5",
+        "0",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "√9 = 3, √4 = 2. Ayirma 3 − 2 = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "√9 + √9 ifodaning qiymati 6 ga teng.",
+      "answer": true,
+      "explain": "√9 = 3 va √9 = 3, yig'indisi 6."
+    },
+    {
+      "type": "choice",
+      "q": "√9 − √16 ifodani hisoblang.",
+      "options": [
+        "-7",
+        "-1",
+        "7",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "√9 = 3, √16 = 4. Ayirma 3 − 4 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "√9 − √25 ifodani hisoblang.",
+      "options": [
+        "0",
+        "8",
+        "-16",
+        "-2"
+      ],
+      "answer": 3,
+      "explain": "√9 = 3, √25 = 5. Ayirma 3 − 5 = -2."
+    },
+    {
+      "type": "truefalse",
+      "q": "√9 + √36 ifodaning qiymati 9 ga teng.",
+      "answer": true,
+      "explain": "√9 = 3 va √36 = 6, yig'indisi 9."
+    },
+    {
+      "type": "choice",
+      "q": "√16 − √1 ifodani hisoblang.",
+      "options": [
+        "2",
+        "5",
+        "3",
+        "15"
+      ],
+      "answer": 2,
+      "explain": "√16 = 4, √1 = 1. Ayirma 4 − 1 = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "√16 + √4 ifodaning qiymati 6 ga teng.",
+      "answer": true,
+      "explain": "√16 = 4 va √4 = 2, yig'indisi 6."
+    },
+    {
+      "type": "choice",
+      "q": "√16 − √9 ifodani hisoblang.",
+      "options": [
+        "1",
+        "0",
+        "7",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "√16 = 4, √9 = 3. Ayirma 4 − 3 = 1."
+    },
+    {
+      "type": "choice",
+      "q": "√16 − √16 ifodani hisoblang.",
+      "options": [
+        "-1",
+        "0",
+        "2",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "√16 = 4, √16 = 4. Ayirma 4 − 4 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "√16 + √25 ifodaning qiymati 9 ga teng.",
+      "answer": true,
+      "explain": "√16 = 4 va √25 = 5, yig'indisi 9."
+    },
+    {
+      "type": "choice",
+      "q": "√16 − √36 ifodani hisoblang.",
+      "options": [
+        "0",
+        "10",
+        "-20",
+        "-2"
+      ],
+      "answer": 3,
+      "explain": "√16 = 4, √36 = 6. Ayirma 4 − 6 = -2."
+    },
+    {
+      "type": "truefalse",
+      "q": "√25 + √1 ifodaning qiymati 6 ga teng.",
+      "answer": true,
+      "explain": "√25 = 5 va √1 = 1, yig'indisi 6."
+    },
+    {
+      "type": "choice",
+      "q": "√25 − √4 ifodani hisoblang.",
+      "options": [
+        "7",
+        "21",
+        "3",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "√25 = 5, √4 = 2. Ayirma 5 − 2 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "√25 − √9 ifodani hisoblang.",
+      "options": [
+        "16",
+        "8",
+        "4",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "√25 = 5, √9 = 3. Ayirma 5 − 3 = 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "√25 + √16 ifodaning qiymati 9 ga teng.",
+      "answer": true,
+      "explain": "√25 = 5 va √16 = 4, yig'indisi 9."
+    },
+    {
+      "type": "choice",
+      "q": "√25 − √25 ifodani hisoblang.",
+      "options": [
+        "10",
+        "-1",
+        "2",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "√25 = 5, √25 = 5. Ayirma 5 − 5 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "√25 − √36 ifodani hisoblang.",
+      "options": [
+        "-1",
+        "1",
+        "-11",
+        "11"
+      ],
+      "answer": 0,
+      "explain": "√25 = 5, √36 = 6. Ayirma 5 − 6 = -1."
+    },
+    {
+      "type": "choice",
+      "q": "√36 − √1 ifodani hisoblang.",
+      "options": [
+        "35",
+        "5",
+        "4",
+        "7"
+      ],
+      "answer": 1,
+      "explain": "√36 = 6, √1 = 1. Ayirma 6 − 1 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "√36 − √4 ifodani hisoblang.",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "32"
+      ],
+      "answer": 0,
+      "explain": "√36 = 6, √4 = 2. Ayirma 6 − 2 = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "√36 + √9 ifodaning qiymati 9 ga teng.",
+      "answer": true,
+      "explain": "√36 = 6 va √9 = 3, yig'indisi 9."
+    },
+    {
+      "type": "choice",
+      "q": "√36 − √16 ifodani hisoblang.",
+      "options": [
+        "10",
+        "4",
+        "2",
+        "20"
+      ],
+      "answer": 2,
+      "explain": "√36 = 6, √16 = 4. Ayirma 6 − 4 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "√36 − √25 ifodani hisoblang.",
+      "options": [
+        "11",
+        "0",
+        "1",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "√36 = 6, √25 = 5. Ayirma 6 − 5 = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "√36 + √36 ifodaning qiymati 12 ga teng.",
+      "answer": true,
+      "explain": "√36 = 6 va √36 = 6, yig'indisi 12."
+    },
+    {
+      "type": "choice",
+      "q": "√49 − √1 ifodani hisoblang.",
+      "options": [
+        "5",
+        "6",
+        "48",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "√49 = 7, √1 = 1. Ayirma 7 − 1 = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "√49 + √4 ifodaning qiymati 9 ga teng.",
+      "answer": true,
+      "explain": "√49 = 7 va √4 = 2, yig'indisi 9."
+    },
+    {
+      "type": "choice",
+      "q": "√49 − √9 ifodani hisoblang.",
+      "options": [
+        "4",
+        "10",
+        "6",
+        "40"
+      ],
+      "answer": 0,
+      "explain": "√49 = 7, √9 = 3. Ayirma 7 − 3 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "√49 − √16 ifodani hisoblang.",
+      "options": [
+        "5",
+        "11",
+        "3",
+        "33"
+      ],
+      "answer": 2,
+      "explain": "√49 = 7, √16 = 4. Ayirma 7 − 4 = 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "√49 + √25 ifodaning qiymati 12 ga teng.",
+      "answer": true,
+      "explain": "√49 = 7 va √25 = 5, yig'indisi 12."
+    },
+    {
+      "type": "choice",
+      "q": "√49 − √36 ifodani hisoblang.",
+      "options": [
+        "0",
+        "13",
+        "3",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "√49 = 7, √36 = 6. Ayirma 7 − 6 = 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "√64 + √1 ifodaning qiymati 9 ga teng.",
+      "answer": true,
+      "explain": "√64 = 8 va √1 = 1, yig'indisi 9."
+    },
+    {
+      "type": "choice",
+      "q": "√64 − √4 ifodani hisoblang.",
+      "options": [
+        "60",
+        "10",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "√64 = 8, √4 = 2. Ayirma 8 − 2 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "√64 − √9 ifodani hisoblang.",
+      "options": [
+        "5",
+        "7",
+        "11",
+        "55"
+      ],
+      "answer": 0,
+      "explain": "√64 = 8, √9 = 3. Ayirma 8 − 3 = 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "√64 + √16 ifodaning qiymati 12 ga teng.",
+      "answer": true,
+      "explain": "√64 = 8 va √16 = 4, yig'indisi 12."
+    },
+    {
+      "type": "choice",
+      "q": "√64 − √25 ifodani hisoblang.",
+      "options": [
+        "5",
+        "39",
+        "3",
+        "13"
+      ],
+      "answer": 2,
+      "explain": "√64 = 8, √25 = 5. Ayirma 8 − 5 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "√64 − √36 ifodani hisoblang.",
+      "options": [
+        "28",
+        "2",
+        "4",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "√64 = 8, √36 = 6. Ayirma 8 − 6 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "√81 − √1 ifodani hisoblang.",
+      "options": [
+        "10",
+        "8",
+        "7",
+        "80"
+      ],
+      "answer": 1,
+      "explain": "√81 = 9, √1 = 1. Ayirma 9 − 1 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "√81 − √4 ifodani hisoblang.",
+      "options": [
+        "9",
+        "11",
+        "7",
+        "77"
+      ],
+      "answer": 2,
+      "explain": "√81 = 9, √4 = 2. Ayirma 9 − 2 = 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "√81 + √9 ifodaning qiymati 12 ga teng.",
+      "answer": true,
+      "explain": "√81 = 9 va √9 = 3, yig'indisi 12."
+    },
+    {
+      "type": "choice",
+      "q": "√81 − √16 ifodani hisoblang.",
+      "options": [
+        "65",
+        "7",
+        "5",
+        "13"
+      ],
+      "answer": 2,
+      "explain": "√81 = 9, √16 = 4. Ayirma 9 − 4 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "√81 − √25 ifodani hisoblang.",
+      "options": [
+        "6",
+        "4",
+        "56",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "√81 = 9, √25 = 5. Ayirma 9 − 5 = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "√81 + √36 ifodaning qiymati 15 ga teng.",
+      "answer": true,
+      "explain": "√81 = 9 va √36 = 6, yig'indisi 15."
+    },
+    {
+      "type": "choice",
+      "q": "√100 − √1 ifodani hisoblang.",
+      "options": [
+        "8",
+        "11",
+        "9",
+        "99"
+      ],
+      "answer": 2,
+      "explain": "√100 = 10, √1 = 1. Ayirma 10 − 1 = 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "√100 + √4 ifodaning qiymati 12 ga teng.",
+      "answer": true,
+      "explain": "√100 = 10 va √4 = 2, yig'indisi 12."
+    },
+    {
+      "type": "choice",
+      "q": "√100 − √9 ifodani hisoblang.",
+      "options": [
+        "91",
+        "13",
+        "9",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "√100 = 10, √9 = 3. Ayirma 10 − 3 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "√100 − √16 ifodani hisoblang.",
+      "options": [
+        "84",
+        "14",
+        "8",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "√100 = 10, √16 = 4. Ayirma 10 − 4 = 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "√100 + √25 ifodaning qiymati 15 ga teng.",
+      "answer": true,
+      "explain": "√100 = 10 va √25 = 5, yig'indisi 15."
+    },
+    {
+      "type": "choice",
+      "q": "√100 − √36 ifodani hisoblang.",
+      "options": [
+        "4",
+        "16",
+        "6",
+        "64"
+      ],
+      "answer": 0,
+      "explain": "√100 = 10, √36 = 6. Ayirma 10 − 6 = 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "√121 + √1 ifodaning qiymati 12 ga teng.",
+      "answer": true,
+      "explain": "√121 = 11 va √1 = 1, yig'indisi 12."
+    },
+    {
+      "type": "choice",
+      "q": "√121 − √4 ifodani hisoblang.",
+      "options": [
+        "11",
+        "117",
+        "13",
+        "9"
+      ],
+      "answer": 3,
+      "explain": "√121 = 11, √4 = 2. Ayirma 11 − 2 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "√121 − √9 ifodani hisoblang.",
+      "options": [
+        "14",
+        "8",
+        "10",
+        "112"
+      ],
+      "answer": 1,
+      "explain": "√121 = 11, √9 = 3. Ayirma 11 − 3 = 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "√121 + √16 ifodaning qiymati 15 ga teng.",
+      "answer": true,
+      "explain": "√121 = 11 va √16 = 4, yig'indisi 15."
+    },
+    {
+      "type": "choice",
+      "q": "√121 − √25 ifodani hisoblang.",
+      "options": [
+        "96",
+        "16",
+        "6",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "√121 = 11, √25 = 5. Ayirma 11 − 5 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "√121 − √36 ifodani hisoblang.",
+      "options": [
+        "17",
+        "7",
+        "85",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "√121 = 11, √36 = 6. Ayirma 11 − 6 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "√144 − √1 ifodani hisoblang.",
+      "options": [
+        "13",
+        "11",
+        "10",
+        "143"
+      ],
+      "answer": 1,
+      "explain": "√144 = 12, √1 = 1. Ayirma 12 − 1 = 11."
+    },
+    {
+      "type": "choice",
+      "q": "√144 − √4 ifodani hisoblang.",
+      "options": [
+        "12",
+        "14",
+        "10",
+        "140"
+      ],
+      "answer": 2,
+      "explain": "√144 = 12, √4 = 2. Ayirma 12 − 2 = 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "√144 + √9 ifodaning qiymati 15 ga teng.",
+      "answer": true,
+      "explain": "√144 = 12 va √9 = 3, yig'indisi 15."
+    },
+    {
+      "type": "choice",
+      "q": "√144 − √16 ifodani hisoblang.",
+      "options": [
+        "8",
+        "128",
+        "10",
+        "16"
+      ],
+      "answer": 0,
+      "explain": "√144 = 12, √16 = 4. Ayirma 12 − 4 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "√144 − √25 ifodani hisoblang.",
+      "options": [
+        "9",
+        "7",
+        "17",
+        "119"
+      ],
+      "answer": 1,
+      "explain": "√144 = 12, √25 = 5. Ayirma 12 − 5 = 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "√144 + √36 ifodaning qiymati 18 ga teng.",
+      "answer": true,
+      "explain": "√144 = 12 va √36 = 6, yig'indisi 18."
+    },
+    {
+      "type": "choice",
+      "q": "√169 − √1 ifodani hisoblang.",
+      "options": [
+        "11",
+        "12",
+        "168",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "√169 = 13, √1 = 1. Ayirma 13 − 1 = 12."
+    },
+    {
+      "type": "truefalse",
+      "q": "√169 + √4 ifodaning qiymati 15 ga teng.",
+      "answer": true,
+      "explain": "√169 = 13 va √4 = 2, yig'indisi 15."
+    },
+    {
+      "type": "choice",
+      "q": "√169 − √9 ifodani hisoblang.",
+      "options": [
+        "160",
+        "12",
+        "16",
+        "10"
+      ],
+      "answer": 3,
+      "explain": "√169 = 13, √9 = 3. Ayirma 13 − 3 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "√169 − √16 ifodani hisoblang.",
+      "options": [
+        "9",
+        "153",
+        "17",
+        "11"
+      ],
+      "answer": 0,
+      "explain": "√169 = 13, √16 = 4. Ayirma 13 − 4 = 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "√169 + √25 ifodaning qiymati 18 ga teng.",
+      "answer": true,
+      "explain": "√169 = 13 va √25 = 5, yig'indisi 18."
+    },
+    {
+      "type": "choice",
+      "q": "√169 − √36 ifodani hisoblang.",
+      "options": [
+        "7",
+        "133",
+        "19",
+        "9"
+      ],
+      "answer": 0,
+      "explain": "√169 = 13, √36 = 6. Ayirma 13 − 6 = 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "√196 + √1 ifodaning qiymati 15 ga teng.",
+      "answer": true,
+      "explain": "√196 = 14 va √1 = 1, yig'indisi 15."
+    },
+    {
+      "type": "choice",
+      "q": "√196 − √4 ifodani hisoblang.",
+      "options": [
+        "12",
+        "192",
+        "16",
+        "14"
+      ],
+      "answer": 0,
+      "explain": "√196 = 14, √4 = 2. Ayirma 14 − 2 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "√196 − √9 ifodani hisoblang.",
+      "options": [
+        "187",
+        "13",
+        "17",
+        "11"
+      ],
+      "answer": 3,
+      "explain": "√196 = 14, √9 = 3. Ayirma 14 − 3 = 11."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 3 > -7 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≥ -5",
+        "x < -5",
+        "x > -4",
+        "x > -5"
+      ],
+      "answer": 3,
+      "explain": "2x > -7 − 3 ⇒ 2x > -10 ⇒ x > -5."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 13 > 5 tengsizlikning yechimini toping.",
+      "options": [
+        "x > -3",
+        "x < -4",
+        "x ≥ -4",
+        "x > -4"
+      ],
+      "answer": 3,
+      "explain": "2x > 5 − 13 ⇒ 2x > -8 ⇒ x > -4."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 12 > 6 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≥ -3",
+        "x > -2",
+        "x > -3",
+        "x < -3"
+      ],
+      "answer": 2,
+      "explain": "2x > 6 − 12 ⇒ 2x > -6 ⇒ x > -3."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 11 > 7 tengsizlikning yechimini toping.",
+      "options": [
+        "x > -1",
+        "x < -2",
+        "x ≥ -2",
+        "x > -2"
+      ],
+      "answer": 3,
+      "explain": "2x > 7 − 11 ⇒ 2x > -4 ⇒ x > -2."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 10 > 8 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≥ -1",
+        "x > 0",
+        "x < -1",
+        "x > -1"
+      ],
+      "answer": 3,
+      "explain": "2x > 8 − 10 ⇒ 2x > -2 ⇒ x > -1."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 9 > 9 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 0",
+        "x > 1",
+        "x > 0",
+        "x ≥ 0"
+      ],
+      "answer": 2,
+      "explain": "2x > 9 − 9 ⇒ 2x > 0 ⇒ x > 0."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 10 > 12 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 2",
+        "x ≥ 1",
+        "x < 1",
+        "x > 1"
+      ],
+      "answer": 3,
+      "explain": "2x > 12 − 10 ⇒ 2x > 2 ⇒ x > 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2 − 1)(2 + 1) ko'paytma 3 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 2² − 1² = 3."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 11 > 15 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 2",
+        "x ≥ 2",
+        "x > 3",
+        "x > 2"
+      ],
+      "answer": 3,
+      "explain": "2x > 15 − 11 ⇒ 2x > 4 ⇒ x > 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2 − 2)(2 + 2) ko'paytma 0 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 2² − 2² = 0."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 12 > 18 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 3",
+        "x ≥ 3",
+        "x > 3",
+        "x > 4"
+      ],
+      "answer": 2,
+      "explain": "2x > 18 − 12 ⇒ 2x > 6 ⇒ x > 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2 − 3)(2 + 3) ko'paytma -5 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 2² − 3² = -5."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 13 > 21 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 4",
+        "x > 4",
+        "x ≥ 4",
+        "x > 5"
+      ],
+      "answer": 1,
+      "explain": "2x > 21 − 13 ⇒ 2x > 8 ⇒ x > 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2 − 4)(2 + 4) ko'paytma -12 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 2² − 4² = -12."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 3 > 13 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 6",
+        "x > 5",
+        "x ≥ 5",
+        "x < 5"
+      ],
+      "answer": 1,
+      "explain": "2x > 13 − 3 ⇒ 2x > 10 ⇒ x > 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2 − 5)(2 + 5) ko'paytma -21 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 2² − 5² = -21."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 4 > 16 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 6",
+        "x ≥ 6",
+        "x > 6",
+        "x > 7"
+      ],
+      "answer": 2,
+      "explain": "2x > 16 − 4 ⇒ 2x > 12 ⇒ x > 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2 − 6)(2 + 6) ko'paytma -32 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 2² − 6² = -32."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 5 > 19 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 7",
+        "x > 7",
+        "x > 8",
+        "x ≥ 7"
+      ],
+      "answer": 1,
+      "explain": "2x > 19 − 5 ⇒ 2x > 14 ⇒ x > 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2 − 7)(2 + 7) ko'paytma -45 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 2² − 7² = -45."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 6 > 22 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 9",
+        "x < 8",
+        "x > 8",
+        "x ≥ 8"
+      ],
+      "answer": 2,
+      "explain": "2x > 22 − 6 ⇒ 2x > 16 ⇒ x > 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2 − 8)(2 + 8) ko'paytma -60 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 2² − 8² = -60."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 7 > 25 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 10",
+        "x < 9",
+        "x > 9",
+        "x ≥ 9"
+      ],
+      "answer": 2,
+      "explain": "2x > 25 − 7 ⇒ 2x > 18 ⇒ x > 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2 − 9)(2 + 9) ko'paytma -77 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 2² − 9² = -77."
+    },
+    {
+      "type": "choice",
+      "q": "2x + 8 > 28 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≥ 10",
+        "x < 10",
+        "x > 10",
+        "x > 11"
+      ],
+      "answer": 2,
+      "explain": "2x > 28 − 8 ⇒ 2x > 20 ⇒ x > 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "(2 − 10)(2 + 10) ko'paytma -96 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 2² − 10² = -96."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 6 > -9 tengsizlikning yechimini toping.",
+      "options": [
+        "x > -4",
+        "x > -5",
+        "x < -5",
+        "x ≥ -5"
+      ],
+      "answer": 1,
+      "explain": "3x > -9 − 6 ⇒ 3x > -15 ⇒ x > -5."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 5 > -7 tengsizlikning yechimini toping.",
+      "options": [
+        "x > -3",
+        "x > -4",
+        "x ≥ -4",
+        "x < -4"
+      ],
+      "answer": 1,
+      "explain": "3x > -7 − 5 ⇒ 3x > -12 ⇒ x > -4."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 4 > -5 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≥ -3",
+        "x > -3",
+        "x < -3",
+        "x > -2"
+      ],
+      "answer": 1,
+      "explain": "3x > -5 − 4 ⇒ 3x > -9 ⇒ x > -3."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 3 > -3 tengsizlikning yechimini toping.",
+      "options": [
+        "x > -1",
+        "x > -2",
+        "x < -2",
+        "x ≥ -2"
+      ],
+      "answer": 1,
+      "explain": "3x > -3 − 3 ⇒ 3x > -6 ⇒ x > -2."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 13 > 10 tengsizlikning yechimini toping.",
+      "options": [
+        "x < -1",
+        "x > 0",
+        "x ≥ -1",
+        "x > -1"
+      ],
+      "answer": 3,
+      "explain": "3x > 10 − 13 ⇒ 3x > -3 ⇒ x > -1."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 12 > 12 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 1",
+        "x < 0",
+        "x > 0",
+        "x ≥ 0"
+      ],
+      "answer": 2,
+      "explain": "3x > 12 − 12 ⇒ 3x > 0 ⇒ x > 0."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 13 > 16 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 1",
+        "x ≥ 1",
+        "x > 2",
+        "x > 1"
+      ],
+      "answer": 3,
+      "explain": "3x > 16 − 13 ⇒ 3x > 3 ⇒ x > 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3 − 1)(3 + 1) ko'paytma 8 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 3² − 1² = 8."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 3 > 9 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 3",
+        "x > 2",
+        "x < 2",
+        "x ≥ 2"
+      ],
+      "answer": 1,
+      "explain": "3x > 9 − 3 ⇒ 3x > 6 ⇒ x > 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3 − 2)(3 + 2) ko'paytma 5 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 3² − 2² = 5."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 4 > 13 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 3",
+        "x > 4",
+        "x ≥ 3",
+        "x < 3"
+      ],
+      "answer": 0,
+      "explain": "3x > 13 − 4 ⇒ 3x > 9 ⇒ x > 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3 − 3)(3 + 3) ko'paytma 0 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 3² − 3² = 0."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 5 > 17 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 4",
+        "x > 5",
+        "x > 4",
+        "x ≥ 4"
+      ],
+      "answer": 2,
+      "explain": "3x > 17 − 5 ⇒ 3x > 12 ⇒ x > 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3 − 4)(3 + 4) ko'paytma -7 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 3² − 4² = -7."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 6 > 21 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 6",
+        "x > 5",
+        "x < 5",
+        "x ≥ 5"
+      ],
+      "answer": 1,
+      "explain": "3x > 21 − 6 ⇒ 3x > 15 ⇒ x > 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3 − 5)(3 + 5) ko'paytma -16 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 3² − 5² = -16."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 7 > 25 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 6",
+        "x ≥ 6",
+        "x < 6",
+        "x > 7"
+      ],
+      "answer": 0,
+      "explain": "3x > 25 − 7 ⇒ 3x > 18 ⇒ x > 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3 − 6)(3 + 6) ko'paytma -27 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 3² − 6² = -27."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 8 > 29 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≥ 7",
+        "x < 7",
+        "x > 7",
+        "x > 8"
+      ],
+      "answer": 2,
+      "explain": "3x > 29 − 8 ⇒ 3x > 21 ⇒ x > 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3 − 7)(3 + 7) ko'paytma -40 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 3² − 7² = -40."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 9 > 33 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 9",
+        "x ≥ 8",
+        "x > 8",
+        "x < 8"
+      ],
+      "answer": 2,
+      "explain": "3x > 33 − 9 ⇒ 3x > 24 ⇒ x > 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3 − 8)(3 + 8) ko'paytma -55 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 3² − 8² = -55."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 10 > 37 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 9",
+        "x ≥ 9",
+        "x > 10",
+        "x < 9"
+      ],
+      "answer": 0,
+      "explain": "3x > 37 − 10 ⇒ 3x > 27 ⇒ x > 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3 − 9)(3 + 9) ko'paytma -72 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 3² − 9² = -72."
+    },
+    {
+      "type": "choice",
+      "q": "3x + 11 > 41 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 10",
+        "x > 11",
+        "x < 10",
+        "x ≥ 10"
+      ],
+      "answer": 0,
+      "explain": "3x > 41 − 11 ⇒ 3x > 30 ⇒ x > 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "(3 − 10)(3 + 10) ko'paytma -91 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 3² − 10² = -91."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 9 > -11 tengsizlikning yechimini toping.",
+      "options": [
+        "x > -5",
+        "x ≥ -5",
+        "x < -5",
+        "x > -4"
+      ],
+      "answer": 0,
+      "explain": "4x > -11 − 9 ⇒ 4x > -20 ⇒ x > -5."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 8 > -8 tengsizlikning yechimini toping.",
+      "options": [
+        "x > -4",
+        "x < -4",
+        "x > -3",
+        "x ≥ -4"
+      ],
+      "answer": 0,
+      "explain": "4x > -8 − 8 ⇒ 4x > -16 ⇒ x > -4."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 7 > -5 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≥ -3",
+        "x > -3",
+        "x > -2",
+        "x < -3"
+      ],
+      "answer": 1,
+      "explain": "4x > -5 − 7 ⇒ 4x > -12 ⇒ x > -3."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 6 > -2 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≥ -2",
+        "x > -1",
+        "x > -2",
+        "x < -2"
+      ],
+      "answer": 2,
+      "explain": "4x > -2 − 6 ⇒ 4x > -8 ⇒ x > -2."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 5 > 1 tengsizlikning yechimini toping.",
+      "options": [
+        "x > -1",
+        "x > 0",
+        "x ≥ -1",
+        "x < -1"
+      ],
+      "answer": 0,
+      "explain": "4x > 1 − 5 ⇒ 4x > -4 ⇒ x > -1."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 4 > 4 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 0",
+        "x > 1",
+        "x < 0",
+        "x ≥ 0"
+      ],
+      "answer": 0,
+      "explain": "4x > 4 − 4 ⇒ 4x > 0 ⇒ x > 0."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 5 > 9 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 2",
+        "x < 1",
+        "x > 1",
+        "x ≥ 1"
+      ],
+      "answer": 2,
+      "explain": "4x > 9 − 5 ⇒ 4x > 4 ⇒ x > 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4 − 1)(4 + 1) ko'paytma 15 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 4² − 1² = 15."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 6 > 14 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 2",
+        "x > 3",
+        "x > 2",
+        "x ≥ 2"
+      ],
+      "answer": 2,
+      "explain": "4x > 14 − 6 ⇒ 4x > 8 ⇒ x > 2."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4 − 2)(4 + 2) ko'paytma 12 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 4² − 2² = 12."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 7 > 19 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 3",
+        "x ≥ 3",
+        "x > 4",
+        "x > 3"
+      ],
+      "answer": 3,
+      "explain": "4x > 19 − 7 ⇒ 4x > 12 ⇒ x > 3."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4 − 3)(4 + 3) ko'paytma 7 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 4² − 3² = 7."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 8 > 24 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≥ 4",
+        "x > 5",
+        "x > 4",
+        "x < 4"
+      ],
+      "answer": 2,
+      "explain": "4x > 24 − 8 ⇒ 4x > 16 ⇒ x > 4."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4 − 4)(4 + 4) ko'paytma 0 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 4² − 4² = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 9 > 29 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≥ 5",
+        "x > 6",
+        "x < 5",
+        "x > 5"
+      ],
+      "answer": 3,
+      "explain": "4x > 29 − 9 ⇒ 4x > 20 ⇒ x > 5."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4 − 5)(4 + 5) ko'paytma -9 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 4² − 5² = -9."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 10 > 34 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 6",
+        "x > 7",
+        "x > 6",
+        "x ≥ 6"
+      ],
+      "answer": 2,
+      "explain": "4x > 34 − 10 ⇒ 4x > 24 ⇒ x > 6."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4 − 6)(4 + 6) ko'paytma -20 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 4² − 6² = -20."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 11 > 39 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 7",
+        "x > 8",
+        "x > 7",
+        "x ≥ 7"
+      ],
+      "answer": 2,
+      "explain": "4x > 39 − 11 ⇒ 4x > 28 ⇒ x > 7."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4 − 7)(4 + 7) ko'paytma -33 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 4² − 7² = -33."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 12 > 44 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 8",
+        "x < 8",
+        "x ≥ 8",
+        "x > 9"
+      ],
+      "answer": 0,
+      "explain": "4x > 44 − 12 ⇒ 4x > 32 ⇒ x > 8."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4 − 8)(4 + 8) ko'paytma -48 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 4² − 8² = -48."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 13 > 49 tengsizlikning yechimini toping.",
+      "options": [
+        "x > 9",
+        "x > 10",
+        "x ≥ 9",
+        "x < 9"
+      ],
+      "answer": 0,
+      "explain": "4x > 49 − 13 ⇒ 4x > 36 ⇒ x > 9."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4 − 9)(4 + 9) ko'paytma -65 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 4² − 9² = -65."
+    },
+    {
+      "type": "choice",
+      "q": "4x + 3 > 43 tengsizlikning yechimini toping.",
+      "options": [
+        "x < 10",
+        "x ≥ 10",
+        "x > 11",
+        "x > 10"
+      ],
+      "answer": 3,
+      "explain": "4x > 43 − 3 ⇒ 4x > 40 ⇒ x > 10."
+    },
+    {
+      "type": "truefalse",
+      "q": "(4 − 10)(4 + 10) ko'paytma -84 ga teng.",
+      "answer": true,
+      "explain": "Kvadratlar ayirmasi formulasiga ko'ra 4² − 10² = -84."
+    },
+    {
+      "type": "choice",
+      "q": "5x + 12 > -13 tengsizlikning yechimini toping.",
+      "options": [
+        "x > -5",
+        "x < -5",
+        "x ≥ -5",
+        "x > -4"
+      ],
+      "answer": 0,
+      "explain": "5x > -13 − 12 ⇒ 5x > -25 ⇒ x > -5."
+    },
+    {
+      "type": "choice",
+      "q": "5x + 11 > -9 tengsizlikning yechimini toping.",
+      "options": [
+        "x > -4",
+        "x ≥ -4",
+        "x < -4",
+        "x > -3"
+      ],
+      "answer": 0,
+      "explain": "5x > -9 − 11 ⇒ 5x > -20 ⇒ x > -4."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Qisqa",
+      "Ko'paytirish formulalarining umumiy nomi"
+    ],
+    [
+      "Arifmetik",
+      "Manfiy bo'lmagan kvadrat ildiz turi"
+    ],
+    [
+      "Modul",
+      "Sonning koordinata boshigacha bo'lgan masofasi"
+    ],
+    [
+      "Ratsional",
+      "Ko'phadlar nisbati ko'rinishidagi kasr ifoda"
+    ],
+    [
+      "Koeffitsiyent",
+      "O'zgaruvchi oldidagi sonli ko'paytuvchi"
+    ],
+    [
+      "Chiziqli",
+      "Birinchi darajali tenglama va tengsizlik turi"
+    ],
+    [
+      "Kvadrat ildiz",
+      "Kvadrati a ga teng bo'lgan nomanfiy son"
+    ],
+    [
+      "To'la kvadrat",
+      "(a ± b)² = a² ± 2ab + b² ayniyati"
+    ],
+    [
+      "Kvadratlar ayirmasi",
+      "a² − b² = (a − b)(a + b)"
+    ],
+    [
+      "Viyet formulalari",
+      "x₁ + x₂ = −p, x₁·x₂ = q"
+    ],
+    [
+      "Katta ildiz",
+      "x² − 7x + 12 = 0 da x = 4"
+    ],
+    [
+      "Kichik ildiz",
+      "x² − 7x + 12 = 0 da x = 3"
+    ],
+    [
+      "Tengsizlik yechimi",
+      "Tengsizlikni to'g'ri qiluvchi sonlar to'plami"
+    ],
+    [
+      "Kasr maxraji",
+      "Nolga teng bo'lmasligi shart bo'lgan qism"
+    ]
+  ]
+}

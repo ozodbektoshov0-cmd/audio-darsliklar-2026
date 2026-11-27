@@ -1,0 +1,3338 @@
+{
+  "id": "g9-uz-algebra-19-sin-cos-tg-ctg",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "19-§. Burchakning sinusi, kosinusi, tangensi va kotangensi",
+  "title": "19-§. Burchakning sinusi, kosinusi, tangensi va kotangensi",
+  "source": "Algebra 9-sinf (2019), III bob, 19-§, 103–109-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Birlik aylanada P(1; 0) nuqtani α burchakka burganda hosil bo'lgan (x; y) nuqta uchun sin α nimaga teng?",
+      "options": [
+        "y ordinataga",
+        "y/x nisbatga",
+        "x abssissaga",
+        "x/y nisbatga"
+      ],
+      "answer": 0,
+      "explain": "Ta'rifga ko'ra sin α = y, cos α = x."
+    },
+    {
+      "type": "choice",
+      "q": "Qaysi burchaklarda tg α aniqlanmagan?",
+      "options": [
+        "α = π/4 + πk",
+        "α = πk",
+        "α = 2πk",
+        "α = π/2 + πk (k ∈ Z)"
+      ],
+      "answer": 3,
+      "explain": "cos α = 0 bo'lgan α = π/2 + πk nuqtalarda tg α = sin α / cos α mavjud emas."
+    },
+    {
+      "type": "truefalse",
+      "q": "Har qanday α haqiqiy son uchun |sin α| ≤ 1 va |cos α| ≤ 1 bajariladi.",
+      "answer": true,
+      "explain": "Birlik aylanadagi nuqtalarning x² + y² = 1 bo'lgani uchun |x| ≤ 1, |y| ≤ 1."
+    },
+    {
+      "type": "truefalse",
+      "q": "ctg 0° ning qiymati 0 ga teng.",
+      "answer": false,
+      "explain": "sin 0° = 0 bo'lgani uchun ctg 0° = cos 0° / sin 0° aniqlanmagan."
+    },
+    {
+      "type": "choice",
+      "q": "sin(0) ning qiymatini toping (0°).",
+      "options": [
+        "1/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadan sin(0) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(0) ning qiymatini toping (0°).",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan cos(0) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "tg(0) ning qiymati nechaga teng?",
+      "options": [
+        "−1",
+        "0",
+        "1/2",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "tg(0) = sin(0) / cos(0) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/6) ning qiymatini toping (30°).",
+      "options": [
+        "0",
+        "1/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadan sin(π/6) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(π/6) ning qiymatini toping (30°).",
+      "options": [
+        "√3/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan cos(π/6) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(π/6) ning qiymati nechaga teng?",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "√3/3"
+      ],
+      "answer": 3,
+      "explain": "tg(π/6) = sin(π/6) / cos(π/6) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(π/6) ning qiymatini aniqlang.",
+      "options": [
+        "0",
+        "√3",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "ctg(π/6) = cos(π/6) / sin(π/6) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/4) ning qiymatini toping (45°).",
+      "options": [
+        "√2/2",
+        "1",
+        "−1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan sin(π/4) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(π/4) ning qiymatini toping (45°).",
+      "options": [
+        "0",
+        "√2/2",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadan cos(π/4) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(π/4) ning qiymati nechaga teng?",
+      "options": [
+        "1",
+        "1/2",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "tg(π/4) = sin(π/4) / cos(π/4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(π/4) ning qiymatini aniqlang.",
+      "options": [
+        "1/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "ctg(π/4) = cos(π/4) / sin(π/4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/3) ning qiymatini toping (60°).",
+      "options": [
+        "√3/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan sin(π/3) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(π/3) ning qiymatini toping (60°).",
+      "options": [
+        "0",
+        "−1",
+        "1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Birlik aylanadan cos(π/3) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(π/3) ning qiymati nechaga teng?",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "√3"
+      ],
+      "answer": 3,
+      "explain": "tg(π/3) = sin(π/3) / cos(π/3) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(π/3) ning qiymatini aniqlang.",
+      "options": [
+        "√3/3",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "ctg(π/3) = cos(π/3) / sin(π/3) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/2) ning qiymatini toping (90°).",
+      "options": [
+        "−1",
+        "1/2",
+        "1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "Birlik aylanadan sin(π/2) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "cos(π/2) ning qiymatini toping (90°).",
+      "options": [
+        "0",
+        "1/2",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan cos(π/2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(π/2) ning qiymatini aniqlang.",
+      "options": [
+        "1/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "ctg(π/2) = cos(π/2) / sin(π/2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "sin(2π/3) ning qiymatini toping (120°).",
+      "options": [
+        "0",
+        "√3/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadan sin(2π/3) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(2π/3) ning qiymatini toping (120°).",
+      "options": [
+        "1",
+        "−1",
+        "−1/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "Birlik aylanadan cos(2π/3) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(2π/3) ning qiymati nechaga teng?",
+      "options": [
+        "−1",
+        "−√3",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "tg(2π/3) = sin(2π/3) / cos(2π/3) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(2π/3) ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "−1",
+        "−√3/3",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "ctg(2π/3) = cos(2π/3) / sin(2π/3) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(3π/4) ning qiymatini toping (135°).",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "√2/2"
+      ],
+      "answer": 3,
+      "explain": "Birlik aylanadan sin(3π/4) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(3π/4) ning qiymatini toping (135°).",
+      "options": [
+        "−1",
+        "−√2/2",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadan cos(3π/4) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(3π/4) ning qiymati nechaga teng?",
+      "options": [
+        "0",
+        "1/2",
+        "−1",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "tg(3π/4) = sin(3π/4) / cos(3π/4) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(3π/4) ning qiymatini aniqlang.",
+      "options": [
+        "1/2",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "ctg(3π/4) = cos(3π/4) / sin(3π/4) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(5π/6) ning qiymatini toping (150°).",
+      "options": [
+        "1",
+        "0",
+        "1/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "Birlik aylanadan sin(5π/6) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(5π/6) ning qiymatini toping (150°).",
+      "options": [
+        "0",
+        "−√3/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadan cos(5π/6) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(5π/6) ning qiymati nechaga teng?",
+      "options": [
+        "1",
+        "0",
+        "−√3/3",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "tg(5π/6) = sin(5π/6) / cos(5π/6) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(5π/6) ning qiymatini aniqlang.",
+      "options": [
+        "−√3",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "ctg(5π/6) = cos(5π/6) / sin(5π/6) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π) ning qiymatini toping (180°).",
+      "options": [
+        "0",
+        "−1",
+        "1/2",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan sin(π) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(π) ning qiymatini toping (180°).",
+      "options": [
+        "1",
+        "−1",
+        "0",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadan cos(π) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "tg(π) ning qiymati nechaga teng?",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "tg(π) = sin(π) / cos(π) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "sin(7π/6) ning qiymatini toping (210°).",
+      "options": [
+        "−1/2",
+        "1",
+        "−1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan sin(7π/6) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(7π/6) ning qiymatini toping (210°).",
+      "options": [
+        "1",
+        "0",
+        "−√3/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "Birlik aylanadan cos(7π/6) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(7π/6) ning qiymati nechaga teng?",
+      "options": [
+        "1",
+        "√3/3",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "tg(7π/6) = sin(7π/6) / cos(7π/6) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(7π/6) ning qiymatini aniqlang.",
+      "options": [
+        "0",
+        "−1",
+        "√3",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "ctg(7π/6) = cos(7π/6) / sin(7π/6) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(5π/4) ning qiymatini toping (225°).",
+      "options": [
+        "−√2/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan sin(5π/4) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(5π/4) ning qiymatini toping (225°).",
+      "options": [
+        "−1",
+        "1",
+        "−√2/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "Birlik aylanadan cos(5π/4) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(5π/4) ning qiymati nechaga teng?",
+      "options": [
+        "1/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "tg(5π/4) = sin(5π/4) / cos(5π/4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(5π/4) ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "0",
+        "1/2",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "ctg(5π/4) = cos(5π/4) / sin(5π/4) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(4π/3) ning qiymatini toping (240°).",
+      "options": [
+        "−√3/2",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan sin(4π/3) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(4π/3) ning qiymatini toping (240°).",
+      "options": [
+        "−1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan cos(4π/3) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(4π/3) ning qiymati nechaga teng?",
+      "options": [
+        "√3",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "tg(4π/3) = sin(4π/3) / cos(4π/3) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(4π/3) ning qiymatini aniqlang.",
+      "options": [
+        "√3/3",
+        "1",
+        "−1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "ctg(4π/3) = cos(4π/3) / sin(4π/3) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(3π/2) ning qiymatini toping (270°).",
+      "options": [
+        "0",
+        "1/2",
+        "−1",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Birlik aylanadan sin(3π/2) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "cos(3π/2) ning qiymatini toping (270°).",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "Birlik aylanadan cos(3π/2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(3π/2) ning qiymatini aniqlang.",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "ctg(3π/2) = cos(3π/2) / sin(3π/2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "sin(5π/3) ning qiymatini toping (300°).",
+      "options": [
+        "−1",
+        "0",
+        "−√3/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Birlik aylanadan sin(5π/3) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(5π/3) ning qiymatini toping (300°).",
+      "options": [
+        "1/2",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan cos(5π/3) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(5π/3) ning qiymati nechaga teng?",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−√3"
+      ],
+      "answer": 3,
+      "explain": "tg(5π/3) = sin(5π/3) / cos(5π/3) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(5π/3) ning qiymatini aniqlang.",
+      "options": [
+        "−√3/3",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "ctg(5π/3) = cos(5π/3) / sin(5π/3) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(7π/4) ning qiymatini toping (315°).",
+      "options": [
+        "0",
+        "−√2/2",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadan sin(7π/4) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(7π/4) ning qiymatini toping (315°).",
+      "options": [
+        "−1",
+        "√2/2",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadan cos(7π/4) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(7π/4) ning qiymati nechaga teng?",
+      "options": [
+        "0",
+        "−1",
+        "1/2",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "tg(7π/4) = sin(7π/4) / cos(7π/4) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(7π/4) ning qiymatini aniqlang.",
+      "options": [
+        "0",
+        "1/2",
+        "1",
+        "−1"
+      ],
+      "answer": 3,
+      "explain": "ctg(7π/4) = cos(7π/4) / sin(7π/4) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(11π/6) ning qiymatini toping (330°).",
+      "options": [
+        "−1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanadan sin(11π/6) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(11π/6) ning qiymatini toping (330°).",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "√3/2"
+      ],
+      "answer": 3,
+      "explain": "Birlik aylanadan cos(11π/6) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(11π/6) ning qiymati nechaga teng?",
+      "options": [
+        "0",
+        "−√3/3",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "tg(11π/6) = sin(11π/6) / cos(11π/6) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(11π/6) ning qiymatini aniqlang.",
+      "options": [
+        "1",
+        "−√3",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "ctg(11π/6) = cos(11π/6) / sin(11π/6) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(2π) ning qiymatini toping (360°).",
+      "options": [
+        "−1",
+        "1",
+        "1/2",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "Birlik aylanadan sin(2π) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(2π) ning qiymatini toping (360°).",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "Birlik aylanadan cos(2π) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "tg(2π) ning qiymati nechaga teng?",
+      "options": [
+        "1/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "tg(2π) = sin(2π) / cos(2π) = 0."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(π/6) + 2·cos(π/3) ifodaning qiymatini hisoblang.",
+      "answer": "2",
+      "explain": "2·(0.5) + 2·(0.5) = 1 + (1) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/6) + 2·cos(π/3) ifoda nimaga teng?",
+      "options": [
+        "3",
+        "4",
+        "-3",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "2 + (1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/6) + 2·cos(π/3) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "4",
+        "3",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "3 + (1) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/6) + 2·sin(π/2) ifoda nimaga teng?",
+      "options": [
+        "3",
+        "-3",
+        "2",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "1 + (2) = 3."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(π/6) + 2·sin(π/2) ifodaning qiymatini hisoblang.",
+      "answer": "4",
+      "explain": "4·(0.5) + 2·(1) = 2 + (2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/6) + 2·sin(π/2) ifoda nimaga teng?",
+      "options": [
+        "6",
+        "5",
+        "4",
+        "-5"
+      ],
+      "answer": 1,
+      "explain": "3 + (2) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/6) + 2·cos(0) ifoda nimaga teng?",
+      "options": [
+        "-3",
+        "4",
+        "2",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "1 + (2) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/6) + 2·cos(0) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "3",
+        "5",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "2 + (2) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "6·sin(π/6) + 2·cos(0) ifodaning qiymatini hisoblang.",
+      "answer": "5",
+      "explain": "6·(0.5) + 2·(1) = 3 + (2) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(π/6) + 2·cos(π) ifodaning qiymatini hisoblang.",
+      "answer": "-1",
+      "explain": "2·(0.5) + 2·(-1) = 1 + (-2) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/6) + 2·cos(π) ifoda nimaga teng?",
+      "options": [
+        "-1",
+        "1",
+        "2",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/6) + 2·cos(π) ifoda nimaga teng?",
+      "options": [
+        "0",
+        "2",
+        "1",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "3 + (-2) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/6) + 2·sin(3π/2) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "-1",
+        "-2",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "1 + (-2) = -1."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(π/6) + 2·sin(3π/2) ifodaning qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "4·(0.5) + 2·(-1) = 2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/6) + 2·sin(3π/2) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "3 + (-2) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/6) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "-3",
+        "3",
+        "2",
+        "4"
+      ],
+      "answer": 1,
+      "explain": "1 + (2) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/6) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "3",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "2 + (2) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "6·sin(π/6) + 2·tg(π/4) ifodaning qiymatini hisoblang.",
+      "answer": "5",
+      "explain": "6·(0.5) + 2·(1) = 3 + (2) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(π/6) + 2·ctg(3π/4) ifodaning qiymatini hisoblang.",
+      "answer": "-1",
+      "explain": "2·(0.5) + 2·(-1) = 1 + (-2) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/6) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "1",
+        "-1",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/6) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "-1",
+        "1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "3 + (-2) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/6) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "0",
+        "-1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1 + (-1) = 0."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(π/6) + 2·sin(7π/6) ifodaning qiymatini hisoblang.",
+      "answer": "1",
+      "explain": "4·(0.5) + 2·(-0.5) = 2 + (-1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/6) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "3",
+        "-2",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "3 + (-1) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/6) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "-1",
+        "2",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "1 + (-1) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/6) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "-1",
+        "0",
+        "1",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "2 + (-1) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "6·sin(π/6) + 2·cos(2π/3) ifodaning qiymatini hisoblang.",
+      "answer": "2",
+      "explain": "6·(0.5) + 2·(-0.5) = 3 + (-1) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(π/3) + 2·sin(π/2) ifoda nimaga teng?",
+      "options": [
+        "-3",
+        "2",
+        "4",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "1 + (2) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(π/3) + 2·sin(π/2) ifoda nimaga teng?",
+      "options": [
+        "3",
+        "5",
+        "4",
+        "-4"
+      ],
+      "answer": 2,
+      "explain": "2 + (2) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "6·cos(π/3) + 2·sin(π/2) ifodaning qiymatini hisoblang.",
+      "answer": "5",
+      "explain": "6·(0.5) + 2·(1) = 3 + (2) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "2·cos(π/3) + 2·cos(0) ifodaning qiymatini hisoblang.",
+      "answer": "3",
+      "explain": "2·(0.5) + 2·(1) = 1 + (2) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(π/3) + 2·cos(0) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "3",
+        "5",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "2 + (2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(π/3) + 2·cos(0) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "5",
+        "6",
+        "-5"
+      ],
+      "answer": 1,
+      "explain": "3 + (2) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(π/3) + 2·cos(π) ifoda nimaga teng?",
+      "options": [
+        "-2",
+        "0",
+        "-1",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1 + (-2) = -1."
+    },
+    {
+      "type": "fill",
+      "q": "4·cos(π/3) + 2·cos(π) ifodaning qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "4·(0.5) + 2·(-1) = 2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(π/3) + 2·cos(π) ifoda nimaga teng?",
+      "options": [
+        "-1",
+        "2",
+        "1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "3 + (-2) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(π/3) + 2·sin(3π/2) ifoda nimaga teng?",
+      "options": [
+        "-2",
+        "1",
+        "0",
+        "-1"
+      ],
+      "answer": 3,
+      "explain": "1 + (-2) = -1."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(π/3) + 2·sin(3π/2) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "-1",
+        "1",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 + (-2) = 0."
+    },
+    {
+      "type": "fill",
+      "q": "6·cos(π/3) + 2·sin(3π/2) ifodaning qiymatini hisoblang.",
+      "answer": "1",
+      "explain": "6·(0.5) + 2·(-1) = 3 + (-2) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "2·cos(π/3) + 2·tg(π/4) ifodaning qiymatini hisoblang.",
+      "answer": "3",
+      "explain": "2·(0.5) + 2·(1) = 1 + (2) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(π/3) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "3",
+        "4",
+        "-4",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "2 + (2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(π/3) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "5",
+        "6",
+        "-5",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "3 + (2) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(π/3) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "-1",
+        "-2",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "1 + (-2) = -1."
+    },
+    {
+      "type": "fill",
+      "q": "4·cos(π/3) + 2·ctg(3π/4) ifodaning qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "4·(0.5) + 2·(-1) = 2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(π/3) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "0",
+        "-1",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "3 + (-2) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(π/3) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "1 + (-1) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(π/3) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "2 + (-1) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "6·cos(π/3) + 2·sin(7π/6) ifodaning qiymatini hisoblang.",
+      "answer": "2",
+      "explain": "6·(0.5) + 2·(-0.5) = 3 + (-1) = 2."
+    },
+    {
+      "type": "fill",
+      "q": "2·cos(π/3) + 2·cos(2π/3) ifodaning qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "2·(0.5) + 2·(-0.5) = 1 + (-1) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(π/3) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "0",
+        "-1",
+        "1",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "2 + (-1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(π/3) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "-2",
+        "1",
+        "2",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "3 + (-1) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/2) + 2·cos(0) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "3",
+        "5",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "2 + (2) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(π/2) + 2·cos(0) ifodaning qiymatini hisoblang.",
+      "answer": "6",
+      "explain": "4·(1) + 2·(1) = 4 + (2) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/2) + 2·cos(0) ifoda nimaga teng?",
+      "options": [
+        "9",
+        "7",
+        "8",
+        "-8"
+      ],
+      "answer": 2,
+      "explain": "6 + (2) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/2) + 2·cos(π) ifoda nimaga teng?",
+      "options": [
+        "-1",
+        "1",
+        "2",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/2) + 2·cos(π) ifoda nimaga teng?",
+      "options": [
+        "3",
+        "-2",
+        "1",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "4 + (-2) = 2."
+    },
+    {
+      "type": "fill",
+      "q": "6·sin(π/2) + 2·cos(π) ifodaning qiymatini hisoblang.",
+      "answer": "4",
+      "explain": "6·(1) + 2·(-1) = 6 + (-2) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(π/2) + 2·sin(3π/2) ifodaning qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "2·(1) + 2·(-1) = 2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/2) + 2·sin(3π/2) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "3",
+        "-2",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "4 + (-2) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/2) + 2·sin(3π/2) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "5",
+        "-4",
+        "3"
+      ],
+      "answer": 0,
+      "explain": "6 + (-2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/2) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "5",
+        "4",
+        "3",
+        "-4"
+      ],
+      "answer": 1,
+      "explain": "2 + (2) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(π/2) + 2·tg(π/4) ifodaning qiymatini hisoblang.",
+      "answer": "6",
+      "explain": "4·(1) + 2·(1) = 4 + (2) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/2) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "9",
+        "8",
+        "7",
+        "-8"
+      ],
+      "answer": 1,
+      "explain": "6 + (2) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/2) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "-1",
+        "2",
+        "0",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/2) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "-2",
+        "3",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "4 + (-2) = 2."
+    },
+    {
+      "type": "fill",
+      "q": "6·sin(π/2) + 2·ctg(3π/4) ifodaning qiymatini hisoblang.",
+      "answer": "4",
+      "explain": "6·(1) + 2·(-1) = 6 + (-2) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(π/2) + 2·sin(7π/6) ifodaning qiymatini hisoblang.",
+      "answer": "1",
+      "explain": "2·(1) + 2·(-0.5) = 2 + (-1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/2) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "4",
+        "3",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "4 + (-1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/2) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "6",
+        "5",
+        "-5"
+      ],
+      "answer": 2,
+      "explain": "6 + (-1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/2) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "0",
+        "-1",
+        "1",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "2 + (-1) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(π/2) + 2·cos(2π/3) ifodaning qiymatini hisoblang.",
+      "answer": "3",
+      "explain": "4·(1) + 2·(-0.5) = 4 + (-1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/2) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "5",
+        "6",
+        "4",
+        "-5"
+      ],
+      "answer": 0,
+      "explain": "6 + (-1) = 5."
+    },
+    {
+      "type": "fill",
+      "q": "2·cos(0) + 2·cos(π) ifodaning qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "2·(1) + 2·(-1) = 2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(0) + 2·cos(π) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "3",
+        "-2",
+        "2"
+      ],
+      "answer": 3,
+      "explain": "4 + (-2) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(0) + 2·cos(π) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "5",
+        "3",
+        "-4"
+      ],
+      "answer": 0,
+      "explain": "6 + (-2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(0) + 2·sin(3π/2) ifoda nimaga teng?",
+      "options": [
+        "0",
+        "2",
+        "-1",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "2 + (-2) = 0."
+    },
+    {
+      "type": "fill",
+      "q": "4·cos(0) + 2·sin(3π/2) ifodaning qiymatini hisoblang.",
+      "answer": "2",
+      "explain": "4·(1) + 2·(-1) = 4 + (-2) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(0) + 2·sin(3π/2) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "4",
+        "5",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "6 + (-2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(0) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "3",
+        "5",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "2 + (2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(0) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "-6",
+        "7",
+        "6",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "4 + (2) = 6."
+    },
+    {
+      "type": "fill",
+      "q": "6·cos(0) + 2·tg(π/4) ifodaning qiymatini hisoblang.",
+      "answer": "8",
+      "explain": "6·(1) + 2·(1) = 6 + (2) = 8."
+    },
+    {
+      "type": "fill",
+      "q": "2·cos(0) + 2·ctg(3π/4) ifodaning qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "2·(1) + 2·(-1) = 2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(0) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "4 + (-2) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(0) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "3",
+        "-4",
+        "4",
+        "5"
+      ],
+      "answer": 2,
+      "explain": "6 + (-2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(0) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "-1",
+        "0",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "2 + (-1) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "4·cos(0) + 2·sin(7π/6) ifodaning qiymatini hisoblang.",
+      "answer": "3",
+      "explain": "4·(1) + 2·(-0.5) = 4 + (-1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(0) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "-5",
+        "6",
+        "5",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "6 + (-1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(0) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "2",
+        "0",
+        "-1"
+      ],
+      "answer": 0,
+      "explain": "2 + (-1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(0) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "-3",
+        "2",
+        "3"
+      ],
+      "answer": 3,
+      "explain": "4 + (-1) = 3."
+    },
+    {
+      "type": "fill",
+      "q": "6·cos(0) + 2·cos(2π/3) ifodaning qiymatini hisoblang.",
+      "answer": "5",
+      "explain": "6·(1) + 2·(-0.5) = 6 + (-1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(π) + 2·sin(3π/2) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "-5",
+        "-3",
+        "-4"
+      ],
+      "answer": 3,
+      "explain": "-2 + (-2) = -4."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(π) + 2·sin(3π/2) ifoda nimaga teng?",
+      "options": [
+        "-6",
+        "6",
+        "-7",
+        "-5"
+      ],
+      "answer": 0,
+      "explain": "-4 + (-2) = -6."
+    },
+    {
+      "type": "fill",
+      "q": "6·cos(π) + 2·sin(3π/2) ifodaning qiymatini hisoblang.",
+      "answer": "-8",
+      "explain": "6·(-1) + 2·(-1) = -6 + (-2) = -8."
+    },
+    {
+      "type": "fill",
+      "q": "2·cos(π) + 2·tg(π/4) ifodaning qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "2·(-1) + 2·(1) = -2 + (2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(π) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "-3",
+        "-2",
+        "2",
+        "-1"
+      ],
+      "answer": 1,
+      "explain": "-4 + (2) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(π) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "-4",
+        "-5",
+        "-3"
+      ],
+      "answer": 1,
+      "explain": "-6 + (2) = -4."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(π) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "-3",
+        "4",
+        "-5"
+      ],
+      "answer": 0,
+      "explain": "-2 + (-2) = -4."
+    },
+    {
+      "type": "fill",
+      "q": "4·cos(π) + 2·ctg(3π/4) ifodaning qiymatini hisoblang.",
+      "answer": "-6",
+      "explain": "4·(-1) + 2·(-1) = -4 + (-2) = -6."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(π) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "-7",
+        "-8",
+        "-9",
+        "8"
+      ],
+      "answer": 1,
+      "explain": "-6 + (-2) = -8."
+    },
+    {
+      "type": "choice",
+      "q": "2·cos(π) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "-2",
+        "-3",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "-2 + (-1) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(π) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "-6",
+        "-5",
+        "5",
+        "-4"
+      ],
+      "answer": 1,
+      "explain": "-4 + (-1) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "6·cos(π) + 2·sin(7π/6) ifodaning qiymatini hisoblang.",
+      "answer": "-7",
+      "explain": "6·(-1) + 2·(-0.5) = -6 + (-1) = -7."
+    },
+    {
+      "type": "fill",
+      "q": "2·cos(π) + 2·cos(2π/3) ifodaning qiymatini hisoblang.",
+      "answer": "-3",
+      "explain": "2·(-1) + 2·(-0.5) = -2 + (-1) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "4·cos(π) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "5",
+        "-5",
+        "-6"
+      ],
+      "answer": 2,
+      "explain": "-4 + (-1) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "6·cos(π) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "-8",
+        "-7",
+        "-6",
+        "7"
+      ],
+      "answer": 1,
+      "explain": "-6 + (-1) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(3π/2) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "1",
+        "0",
+        "-1"
+      ],
+      "answer": 2,
+      "explain": "-2 + (2) = 0."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(3π/2) + 2·tg(π/4) ifodaning qiymatini hisoblang.",
+      "answer": "-2",
+      "explain": "4·(-1) + 2·(1) = -4 + (2) = -2."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(3π/2) + 2·tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "-5",
+        "-4",
+        "-3"
+      ],
+      "answer": 2,
+      "explain": "-6 + (2) = -4."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(3π/2) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "-5",
+        "-3",
+        "4",
+        "-4"
+      ],
+      "answer": 3,
+      "explain": "-2 + (-2) = -4."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(3π/2) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "-6",
+        "6",
+        "-5",
+        "-7"
+      ],
+      "answer": 0,
+      "explain": "-4 + (-2) = -6."
+    },
+    {
+      "type": "fill",
+      "q": "6·sin(3π/2) + 2·ctg(3π/4) ifodaning qiymatini hisoblang.",
+      "answer": "-8",
+      "explain": "6·(-1) + 2·(-1) = -6 + (-2) = -8."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(3π/2) + 2·sin(7π/6) ifodaning qiymatini hisoblang.",
+      "answer": "-3",
+      "explain": "2·(-1) + 2·(-0.5) = -2 + (-1) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(3π/2) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "-6",
+        "-4",
+        "5",
+        "-5"
+      ],
+      "answer": 3,
+      "explain": "-4 + (-1) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(3π/2) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "-6",
+        "7",
+        "-7",
+        "-8"
+      ],
+      "answer": 2,
+      "explain": "-6 + (-1) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(3π/2) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "3",
+        "-3",
+        "-2"
+      ],
+      "answer": 2,
+      "explain": "-2 + (-1) = -3."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(3π/2) + 2·cos(2π/3) ifodaning qiymatini hisoblang.",
+      "answer": "-5",
+      "explain": "4·(-1) + 2·(-0.5) = -4 + (-1) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(3π/2) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "-7",
+        "-8",
+        "-6",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "-6 + (-1) = -7."
+    },
+    {
+      "type": "fill",
+      "q": "2·tg(π/4) + 2·ctg(3π/4) ifodaning qiymatini hisoblang.",
+      "answer": "0",
+      "explain": "2·(1) + 2·(-1) = 2 + (-2) = 0."
+    },
+    {
+      "type": "choice",
+      "q": "4·tg(π/4) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "-2",
+        "2",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "4 + (-2) = 2."
+    },
+    {
+      "type": "choice",
+      "q": "6·tg(π/4) + 2·ctg(3π/4) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "3",
+        "-4",
+        "5"
+      ],
+      "answer": 0,
+      "explain": "6 + (-2) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "2·tg(π/4) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "2",
+        "-1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "2 + (-1) = 1."
+    },
+    {
+      "type": "fill",
+      "q": "4·tg(π/4) + 2·sin(7π/6) ifodaning qiymatini hisoblang.",
+      "answer": "3",
+      "explain": "4·(1) + 2·(-0.5) = 4 + (-1) = 3."
+    },
+    {
+      "type": "choice",
+      "q": "6·tg(π/4) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "-5",
+        "6",
+        "5",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "6 + (-1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "2·tg(π/4) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "0",
+        "-1",
+        "1",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "2 + (-1) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "4·tg(π/4) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "3",
+        "-3",
+        "4",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "4 + (-1) = 3."
+    },
+    {
+      "type": "fill",
+      "q": "6·tg(π/4) + 2·cos(2π/3) ifodaning qiymatini hisoblang.",
+      "answer": "5",
+      "explain": "6·(1) + 2·(-0.5) = 6 + (-1) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "2·ctg(3π/4) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "3",
+        "-2",
+        "-4",
+        "-3"
+      ],
+      "answer": 3,
+      "explain": "-2 + (-1) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "4·ctg(3π/4) + 2·sin(7π/6) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "5",
+        "-5",
+        "-6"
+      ],
+      "answer": 2,
+      "explain": "-4 + (-1) = -5."
+    },
+    {
+      "type": "fill",
+      "q": "6·ctg(3π/4) + 2·sin(7π/6) ifodaning qiymatini hisoblang.",
+      "answer": "-7",
+      "explain": "6·(-1) + 2·(-0.5) = -6 + (-1) = -7."
+    },
+    {
+      "type": "fill",
+      "q": "2·ctg(3π/4) + 2·cos(2π/3) ifodaning qiymatini hisoblang.",
+      "answer": "-3",
+      "explain": "2·(-1) + 2·(-0.5) = -2 + (-1) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "4·ctg(3π/4) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "-5",
+        "5",
+        "-6"
+      ],
+      "answer": 1,
+      "explain": "-4 + (-1) = -5."
+    },
+    {
+      "type": "choice",
+      "q": "6·ctg(3π/4) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "-8",
+        "-6",
+        "7",
+        "-7"
+      ],
+      "answer": 3,
+      "explain": "-6 + (-1) = -7."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(7π/6) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "-2",
+        "-1",
+        "2",
+        "-3"
+      ],
+      "answer": 0,
+      "explain": "-1 + (-1) = -2."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(7π/6) + 2·cos(2π/3) ifodaning qiymatini hisoblang.",
+      "answer": "-3",
+      "explain": "4·(-0.5) + 2·(-0.5) = -2 + (-1) = -3."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(7π/6) + 2·cos(2π/3) ifoda nimaga teng?",
+      "options": [
+        "-4",
+        "-5",
+        "-3",
+        "4"
+      ],
+      "answer": 0,
+      "explain": "-3 + (-1) = -4."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 1/3 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|1/3| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 3/2 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "3/2 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 3/5 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|3/5| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 5/4 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "5/4 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 5/7 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|5/7| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 7/6 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "7/6 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 7/9 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|7/9| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 9/8 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "9/8 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 9/11 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|9/11| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 11/10 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "11/10 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 11/13 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|11/13| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 13/12 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "13/12 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 13/15 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|13/15| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 15/14 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "15/14 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 15/17 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|15/17| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 17/16 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "17/16 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 17/19 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|17/19| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 19/18 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "19/18 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 19/21 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|19/21| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 21/20 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "21/20 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 21/23 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|21/23| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 23/22 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "23/22 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 23/25 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|23/25| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 25/24 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "25/24 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 25/27 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|25/27| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 27/26 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "27/26 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 27/29 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|27/29| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 29/28 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "29/28 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 29/31 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|29/31| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 31/30 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "31/30 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 31/33 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|31/33| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 33/32 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "33/32 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 33/35 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|33/35| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 35/34 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "35/34 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 35/37 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|35/37| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 37/36 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "37/36 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 37/39 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|37/39| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 39/38 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "39/38 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 39/41 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|39/41| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 41/40 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "41/40 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 41/43 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|41/43| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 43/42 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "43/42 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 43/45 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|43/45| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 45/44 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "45/44 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 45/47 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|45/47| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 47/46 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "47/46 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 47/49 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|47/49| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 49/48 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "49/48 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 49/51 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|49/51| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 51/50 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "51/50 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 51/53 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|51/53| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 53/52 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "53/52 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 53/55 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|53/55| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 55/54 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "55/54 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 55/57 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|55/57| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 57/56 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "57/56 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 57/59 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|57/59| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 59/58 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "59/58 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos α = 59/61 tenglikni qanoatlantiruvchi burchak mavjud.",
+      "answer": true,
+      "explain": "|59/61| < 1 bo'lgani uchun bunday burchak mavjud."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin α = 61/60 tenglikni qanoatlantiruvchi α burchak mavjud.",
+      "answer": false,
+      "explain": "61/60 > 1 bo'lgani uchun sin α bunga teng bo'la olmaydi."
+    },
+    {
+      "type": "choice",
+      "q": "sin x = 0 sodda trigonometrik tenglamaning yechimini toping.",
+      "options": [
+        "x = πk (k ∈ Z)",
+        "x = 2πk",
+        "x = π/4 + πk",
+        "x = π/2 + πk"
+      ],
+      "answer": 0,
+      "explain": "Birlik aylanada y = 0 nuqtalar 0 va π da, ya'ni x = πk."
+    },
+    {
+      "type": "choice",
+      "q": "sin x = 1 sodda trigonometrik tenglamaning yechimini toping.",
+      "options": [
+        "x = πk",
+        "x = π/2 + πk",
+        "x = π/2 + 2πk (k ∈ Z)",
+        "x = −π/2 + 2πk"
+      ],
+      "answer": 2,
+      "explain": "y = 1 nuqtaga faqat π/2 + 2πk burchaklar mos keladi."
+    },
+    {
+      "type": "choice",
+      "q": "sin x = −1 sodda trigonometrik tenglamaning yechimini toping.",
+      "options": [
+        "x = −π/2 + πk",
+        "x = π/2 + 2πk",
+        "x = −π/2 + 2πk (k ∈ Z)",
+        "x = π + 2πk"
+      ],
+      "answer": 2,
+      "explain": "y = −1 nuqta 3π/2 (yoki −π/2) + 2πk da bo'ladi."
+    },
+    {
+      "type": "choice",
+      "q": "cos x = 0 sodda trigonometrik tenglamaning yechimini toping.",
+      "options": [
+        "x = π/2 + 2πk",
+        "x = π/2 + πk (k ∈ Z)",
+        "x = 2πk",
+        "x = πk"
+      ],
+      "answer": 1,
+      "explain": "x = 0 koordinata Oy o'qida, ya'ni π/2 + πk burchaklarda."
+    },
+    {
+      "type": "choice",
+      "q": "cos x = 1 sodda trigonometrik tenglamaning yechimini toping.",
+      "options": [
+        "x = 2πk (k ∈ Z)",
+        "x = π/2 + 2πk",
+        "x = π + 2πk",
+        "x = πk"
+      ],
+      "answer": 0,
+      "explain": "x = 1 faqat boshlang'ich (1; 0) nuqtada: 2πk."
+    },
+    {
+      "type": "choice",
+      "q": "cos x = −1 sodda trigonometrik tenglamaning yechimini toping.",
+      "options": [
+        "x = πk",
+        "x = 2πk",
+        "x = π + 2πk (k ∈ Z)",
+        "x = −π/2 + 2πk"
+      ],
+      "answer": 2,
+      "explain": "x = −1 faqat (−1; 0) nuqtada: π + 2πk."
+    },
+    {
+      "type": "choice",
+      "q": "tg x = 0 sodda trigonometrik tenglamaning yechimini toping.",
+      "options": [
+        "x = π/4 + πk",
+        "x = 2πk",
+        "x = πk (k ∈ Z)",
+        "x = π/2 + πk"
+      ],
+      "answer": 2,
+      "explain": "sin x / cos x = 0 ⇔ sin x = 0 ⇔ x = πk."
+    },
+    {
+      "type": "choice",
+      "q": "ctg x = 0 sodda trigonometrik tenglamaning yechimini toping.",
+      "options": [
+        "x = π/4 + 2πk",
+        "x = π/2 + πk (k ∈ Z)",
+        "x = 2πk",
+        "x = πk"
+      ],
+      "answer": 1,
+      "explain": "cos x / sin x = 0 ⇔ cos x = 0 ⇔ x = π/2 + πk."
+    },
+    {
+      "type": "fill",
+      "q": "1·sin(90°) − 1·cos(180°) + 1·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "3",
+      "explain": "1·1 − 1·(−1) + 1·1 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "2·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "1/2",
+        "1/4",
+        "2"
+      ],
+      "answer": 1,
+      "explain": "2·(1/2)·(1/2)·1 = 1/2."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(90°) − 2·cos(180°) + 2·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "6",
+      "explain": "2·1 − 2·(−1) + 2·1 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "4·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "1/2",
+        "1",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "4·(1/2)·(1/2)·1 = 1."
+    },
+    {
+      "type": "fill",
+      "q": "3·sin(90°) − 3·cos(180°) + 3·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "9",
+      "explain": "3·1 − 3·(−1) + 3·1 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "6·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "3/4",
+        "6",
+        "3",
+        "3/2"
+      ],
+      "answer": 3,
+      "explain": "6·(1/2)·(1/2)·1 = 3/2."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(90°) − 4·cos(180°) + 4·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "12",
+      "explain": "4·1 − 4·(−1) + 4·1 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "8·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "1",
+        "8",
+        "2",
+        "4"
+      ],
+      "answer": 2,
+      "explain": "8·(1/2)·(1/2)·1 = 2."
+    },
+    {
+      "type": "fill",
+      "q": "5·sin(90°) − 5·cos(180°) + 5·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "15",
+      "explain": "5·1 − 5·(−1) + 5·1 = 15."
+    },
+    {
+      "type": "choice",
+      "q": "10·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "5",
+        "5/2",
+        "5/4",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "10·(1/2)·(1/2)·1 = 5/2."
+    },
+    {
+      "type": "fill",
+      "q": "6·sin(90°) − 6·cos(180°) + 6·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "18",
+      "explain": "6·1 − 6·(−1) + 6·1 = 18."
+    },
+    {
+      "type": "choice",
+      "q": "12·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "3/2",
+        "3",
+        "6",
+        "12"
+      ],
+      "answer": 1,
+      "explain": "12·(1/2)·(1/2)·1 = 3."
+    },
+    {
+      "type": "fill",
+      "q": "7·sin(90°) − 7·cos(180°) + 7·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "21",
+      "explain": "7·1 − 7·(−1) + 7·1 = 21."
+    },
+    {
+      "type": "choice",
+      "q": "14·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "7/2",
+        "14",
+        "7",
+        "7/4"
+      ],
+      "answer": 0,
+      "explain": "14·(1/2)·(1/2)·1 = 7/2."
+    },
+    {
+      "type": "fill",
+      "q": "8·sin(90°) − 8·cos(180°) + 8·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "24",
+      "explain": "8·1 − 8·(−1) + 8·1 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "16·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "2",
+        "4",
+        "8",
+        "16"
+      ],
+      "answer": 1,
+      "explain": "16·(1/2)·(1/2)·1 = 4."
+    },
+    {
+      "type": "fill",
+      "q": "9·sin(90°) − 9·cos(180°) + 9·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "27",
+      "explain": "9·1 − 9·(−1) + 9·1 = 27."
+    },
+    {
+      "type": "choice",
+      "q": "18·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "9/4",
+        "18",
+        "9",
+        "9/2"
+      ],
+      "answer": 3,
+      "explain": "18·(1/2)·(1/2)·1 = 9/2."
+    },
+    {
+      "type": "fill",
+      "q": "10·sin(90°) − 10·cos(180°) + 10·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "30",
+      "explain": "10·1 − 10·(−1) + 10·1 = 30."
+    },
+    {
+      "type": "choice",
+      "q": "20·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "20",
+        "5",
+        "5/2",
+        "10"
+      ],
+      "answer": 1,
+      "explain": "20·(1/2)·(1/2)·1 = 5."
+    },
+    {
+      "type": "fill",
+      "q": "11·sin(90°) − 11·cos(180°) + 11·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "33",
+      "explain": "11·1 − 11·(−1) + 11·1 = 33."
+    },
+    {
+      "type": "choice",
+      "q": "22·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "11/2",
+        "11/4",
+        "22",
+        "11"
+      ],
+      "answer": 0,
+      "explain": "22·(1/2)·(1/2)·1 = 11/2."
+    },
+    {
+      "type": "fill",
+      "q": "12·sin(90°) − 12·cos(180°) + 12·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "36",
+      "explain": "12·1 − 12·(−1) + 12·1 = 36."
+    },
+    {
+      "type": "choice",
+      "q": "24·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "12",
+        "24",
+        "6",
+        "3"
+      ],
+      "answer": 2,
+      "explain": "24·(1/2)·(1/2)·1 = 6."
+    },
+    {
+      "type": "fill",
+      "q": "13·sin(90°) − 13·cos(180°) + 13·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "39",
+      "explain": "13·1 − 13·(−1) + 13·1 = 39."
+    },
+    {
+      "type": "choice",
+      "q": "26·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "13",
+        "13/2",
+        "26",
+        "13/4"
+      ],
+      "answer": 1,
+      "explain": "26·(1/2)·(1/2)·1 = 13/2."
+    },
+    {
+      "type": "fill",
+      "q": "14·sin(90°) − 14·cos(180°) + 14·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "42",
+      "explain": "14·1 − 14·(−1) + 14·1 = 42."
+    },
+    {
+      "type": "choice",
+      "q": "28·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "7/2",
+        "28",
+        "14",
+        "7"
+      ],
+      "answer": 3,
+      "explain": "28·(1/2)·(1/2)·1 = 7."
+    },
+    {
+      "type": "fill",
+      "q": "15·sin(90°) − 15·cos(180°) + 15·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "45",
+      "explain": "15·1 − 15·(−1) + 15·1 = 45."
+    },
+    {
+      "type": "choice",
+      "q": "30·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "15/4",
+        "15",
+        "15/2",
+        "30"
+      ],
+      "answer": 2,
+      "explain": "30·(1/2)·(1/2)·1 = 15/2."
+    },
+    {
+      "type": "fill",
+      "q": "16·sin(90°) − 16·cos(180°) + 16·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "48",
+      "explain": "16·1 − 16·(−1) + 16·1 = 48."
+    },
+    {
+      "type": "choice",
+      "q": "32·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "4",
+        "16",
+        "8",
+        "32"
+      ],
+      "answer": 2,
+      "explain": "32·(1/2)·(1/2)·1 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "17·sin(90°) − 17·cos(180°) + 17·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "51",
+      "explain": "17·1 − 17·(−1) + 17·1 = 51."
+    },
+    {
+      "type": "choice",
+      "q": "34·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "34",
+        "17/2",
+        "17",
+        "17/4"
+      ],
+      "answer": 1,
+      "explain": "34·(1/2)·(1/2)·1 = 17/2."
+    },
+    {
+      "type": "fill",
+      "q": "18·sin(90°) − 18·cos(180°) + 18·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "54",
+      "explain": "18·1 − 18·(−1) + 18·1 = 54."
+    },
+    {
+      "type": "choice",
+      "q": "36·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "9/2",
+        "36",
+        "9",
+        "18"
+      ],
+      "answer": 2,
+      "explain": "36·(1/2)·(1/2)·1 = 9."
+    },
+    {
+      "type": "fill",
+      "q": "19·sin(90°) − 19·cos(180°) + 19·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "57",
+      "explain": "19·1 − 19·(−1) + 19·1 = 57."
+    },
+    {
+      "type": "choice",
+      "q": "38·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "19/2",
+        "19/4",
+        "19",
+        "38"
+      ],
+      "answer": 0,
+      "explain": "38·(1/2)·(1/2)·1 = 19/2."
+    },
+    {
+      "type": "fill",
+      "q": "20·sin(90°) − 20·cos(180°) + 20·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "60",
+      "explain": "20·1 − 20·(−1) + 20·1 = 60."
+    },
+    {
+      "type": "choice",
+      "q": "40·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "20",
+        "10",
+        "40",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "40·(1/2)·(1/2)·1 = 10."
+    },
+    {
+      "type": "fill",
+      "q": "21·sin(90°) − 21·cos(180°) + 21·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "63",
+      "explain": "21·1 − 21·(−1) + 21·1 = 63."
+    },
+    {
+      "type": "choice",
+      "q": "42·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "21/2",
+        "42",
+        "21/4",
+        "21"
+      ],
+      "answer": 0,
+      "explain": "42·(1/2)·(1/2)·1 = 21/2."
+    },
+    {
+      "type": "fill",
+      "q": "22·sin(90°) − 22·cos(180°) + 22·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "66",
+      "explain": "22·1 − 22·(−1) + 22·1 = 66."
+    },
+    {
+      "type": "choice",
+      "q": "44·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "11/2",
+        "11",
+        "44",
+        "22"
+      ],
+      "answer": 1,
+      "explain": "44·(1/2)·(1/2)·1 = 11."
+    },
+    {
+      "type": "fill",
+      "q": "23·sin(90°) − 23·cos(180°) + 23·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "69",
+      "explain": "23·1 − 23·(−1) + 23·1 = 69."
+    },
+    {
+      "type": "choice",
+      "q": "46·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "23",
+        "23/2",
+        "23/4",
+        "46"
+      ],
+      "answer": 1,
+      "explain": "46·(1/2)·(1/2)·1 = 23/2."
+    },
+    {
+      "type": "fill",
+      "q": "24·sin(90°) − 24·cos(180°) + 24·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "72",
+      "explain": "24·1 − 24·(−1) + 24·1 = 72."
+    },
+    {
+      "type": "choice",
+      "q": "48·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "12",
+        "24",
+        "48",
+        "6"
+      ],
+      "answer": 0,
+      "explain": "48·(1/2)·(1/2)·1 = 12."
+    },
+    {
+      "type": "fill",
+      "q": "25·sin(90°) − 25·cos(180°) + 25·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "75",
+      "explain": "25·1 − 25·(−1) + 25·1 = 75."
+    },
+    {
+      "type": "choice",
+      "q": "50·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "25/4",
+        "25/2",
+        "50",
+        "25"
+      ],
+      "answer": 1,
+      "explain": "50·(1/2)·(1/2)·1 = 25/2."
+    },
+    {
+      "type": "fill",
+      "q": "26·sin(90°) − 26·cos(180°) + 26·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "78",
+      "explain": "26·1 − 26·(−1) + 26·1 = 78."
+    },
+    {
+      "type": "choice",
+      "q": "52·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "13/2",
+        "52",
+        "26",
+        "13"
+      ],
+      "answer": 3,
+      "explain": "52·(1/2)·(1/2)·1 = 13."
+    },
+    {
+      "type": "fill",
+      "q": "27·sin(90°) − 27·cos(180°) + 27·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "81",
+      "explain": "27·1 − 27·(−1) + 27·1 = 81."
+    },
+    {
+      "type": "choice",
+      "q": "54·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "27/4",
+        "27/2",
+        "27",
+        "54"
+      ],
+      "answer": 1,
+      "explain": "54·(1/2)·(1/2)·1 = 27/2."
+    },
+    {
+      "type": "fill",
+      "q": "28·sin(90°) − 28·cos(180°) + 28·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "84",
+      "explain": "28·1 − 28·(−1) + 28·1 = 84."
+    },
+    {
+      "type": "choice",
+      "q": "56·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "14",
+        "7",
+        "56",
+        "28"
+      ],
+      "answer": 0,
+      "explain": "56·(1/2)·(1/2)·1 = 14."
+    },
+    {
+      "type": "fill",
+      "q": "29·sin(90°) − 29·cos(180°) + 29·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "87",
+      "explain": "29·1 − 29·(−1) + 29·1 = 87."
+    },
+    {
+      "type": "choice",
+      "q": "58·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "29/2",
+        "58",
+        "29",
+        "29/4"
+      ],
+      "answer": 0,
+      "explain": "58·(1/2)·(1/2)·1 = 29/2."
+    },
+    {
+      "type": "fill",
+      "q": "30·sin(90°) − 30·cos(180°) + 30·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "90",
+      "explain": "30·1 − 30·(−1) + 30·1 = 90."
+    },
+    {
+      "type": "choice",
+      "q": "60·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "60",
+        "15/2",
+        "30",
+        "15"
+      ],
+      "answer": 3,
+      "explain": "60·(1/2)·(1/2)·1 = 15."
+    },
+    {
+      "type": "fill",
+      "q": "31·sin(90°) − 31·cos(180°) + 31·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "93",
+      "explain": "31·1 − 31·(−1) + 31·1 = 93."
+    },
+    {
+      "type": "choice",
+      "q": "62·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "31/2",
+        "31/4",
+        "62",
+        "31"
+      ],
+      "answer": 0,
+      "explain": "62·(1/2)·(1/2)·1 = 31/2."
+    },
+    {
+      "type": "fill",
+      "q": "32·sin(90°) − 32·cos(180°) + 32·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "96",
+      "explain": "32·1 − 32·(−1) + 32·1 = 96."
+    },
+    {
+      "type": "choice",
+      "q": "64·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "64",
+        "32",
+        "8",
+        "16"
+      ],
+      "answer": 3,
+      "explain": "64·(1/2)·(1/2)·1 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "33·sin(90°) − 33·cos(180°) + 33·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "99",
+      "explain": "33·1 − 33·(−1) + 33·1 = 99."
+    },
+    {
+      "type": "choice",
+      "q": "66·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "33/4",
+        "66",
+        "33",
+        "33/2"
+      ],
+      "answer": 3,
+      "explain": "66·(1/2)·(1/2)·1 = 33/2."
+    },
+    {
+      "type": "fill",
+      "q": "34·sin(90°) − 34·cos(180°) + 34·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "102",
+      "explain": "34·1 − 34·(−1) + 34·1 = 102."
+    },
+    {
+      "type": "choice",
+      "q": "68·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "17/2",
+        "34",
+        "17",
+        "68"
+      ],
+      "answer": 2,
+      "explain": "68·(1/2)·(1/2)·1 = 17."
+    },
+    {
+      "type": "fill",
+      "q": "35·sin(90°) − 35·cos(180°) + 35·tg(45°) ifodaning qiymatini hisoblang.",
+      "answer": "105",
+      "explain": "35·1 − 35·(−1) + 35·1 = 105."
+    },
+    {
+      "type": "choice",
+      "q": "70·sin(π/6) · cos(π/3) · tg(π/4) ifoda nimaga teng?",
+      "options": [
+        "70",
+        "35/2",
+        "35/4",
+        "35"
+      ],
+      "answer": 1,
+      "explain": "70·(1/2)·(1/2)·1 = 35/2."
+    }
+  ],
+  "cards": [
+    [
+      "Radian",
+      "Yoy uzunligi radiusga teng markaziy burchak"
+    ],
+    [
+      "Sinus",
+      "Burilgan nuqtaning ordinatasi (y koordinatasi)"
+    ],
+    [
+      "Kosinus",
+      "Burilgan nuqtaning abssissasi (x koordinatasi)"
+    ],
+    [
+      "Tangens",
+      "Sinusning kosinusga nisbati (sin α / cos α)"
+    ],
+    [
+      "Kotangens",
+      "Kosinusning sinusga nisbati (cos α / sin α)"
+    ],
+    [
+      "Ayniyat",
+      "O'zgaruvchining barcha ruxsatli qiymatlarida to'g'ri tenglik"
+    ],
+    [
+      "Birlik",
+      "Radiusi R = 1 bo'lgan markaziy aylana"
+    ],
+    [
+      "Chorak",
+      "Koordinata tekisligining to'rtdan bir qismi"
+    ],
+    [
+      "Davr",
+      "Trigonometrik funksiyalar qiymati takrorlanuvchi burchak"
+    ],
+    [
+      "Keltirish",
+      "Katta burchakni o'tkir burchak orqali ifodalash"
+    ],
+    [
+      "Aniqmas",
+      "cos α = 0 da tg α ning holati"
+    ],
+    [
+      "Jadval",
+      "0, 30°, 45°, 60°, 90° burchak qiymatlari"
+    ],
+    [
+      "Chegarali",
+      "−1 ≤ sin α ≤ 1 va −1 ≤ cos α ≤ 1"
+    ],
+    [
+      "Nisbat",
+      "tg α = sin α / cos α"
+    ],
+    [
+      "sin 30°",
+      "1/2 (yoki 0,5)"
+    ],
+    [
+      "cos 60°",
+      "1/2 (yoki 0,5)"
+    ],
+    [
+      "sin 45°",
+      "√2 / 2"
+    ],
+    [
+      "cos 45°",
+      "√2 / 2"
+    ],
+    [
+      "sin 60°",
+      "√3 / 2"
+    ],
+    [
+      "tg 45°",
+      "1 ga teng"
+    ],
+    [
+      "tg 60°",
+      "√3 ga teng"
+    ],
+    [
+      "tg 30°",
+      "√3 / 3 ga teng"
+    ],
+    [
+      "sin 90°",
+      "1 ga teng"
+    ],
+    [
+      "cos 180°",
+      "−1 ga teng"
+    ]
+  ]
+}

@@ -62,7 +62,19 @@ type SectionMode = "entry" | "tests" | "games";
 type GameScope = "general" | "textbook" | "custom";
 
 function buildAttestatsiyaQuiz(uz: boolean): Quiz {
-  const pool = [...QUIZZES.flatMap((q) => q.questions), ...GENERAL_INTELLECTUAL_QUIZ.questions];
+  const bySubject = new Map<string, Quiz["questions"]>();
+  for (const quiz of QUIZZES) {
+    const key = quiz.subjectId || quiz.id;
+    const arr = bySubject.get(key) ?? [];
+    arr.push(...quiz.questions);
+    bySubject.set(key, arr);
+  }
+  const perSubject = Math.max(3, Math.floor(24 / Math.max(1, bySubject.size)));
+  const pool: Quiz["questions"] = [];
+  for (const qs of bySubject.values()) {
+    pool.push(...shuffle(qs).slice(0, perSubject));
+  }
+  pool.push(...shuffle(GENERAL_INTELLECTUAL_QUIZ.questions).slice(0, 10));
   return {
     id: "attestatsiya-30",
     title: uz ? "Attestatsiya va Nazorat sinovi (30 savol)" : "Аттестация и Контрольный экзамен (30 вопр.)",
@@ -74,7 +86,7 @@ function buildAttestatsiyaQuiz(uz: boolean): Quiz {
 }
 
 function getQuestionCountOptions(total: number): (number | "all")[] {
-  const presets = [10, 20, 30, 50, 100].filter((n) => n < total);
+  const presets = [10, 20, 30, 50, 100, 200, 300].filter((n) => n < total);
   return [...presets, "all"];
 }
 

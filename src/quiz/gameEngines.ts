@@ -8,13 +8,23 @@ export function toPlayableChoiceQuestions(
   quiz: Quiz,
   uz = true,
 ): (ChoiceQuestion | { type: "truefalse"; q: string; answer: boolean; explain?: string })[] {
-  const fillAnswers = quiz.questions
+  const sampledQuestions = quiz.questions.length > 240 ? shuffle(quiz.questions).slice(0, 240) : quiz.questions;
+  const fillAnswers = sampledQuestions
     .filter((q): q is FillQuestion => q.type === "fill")
     .map((q) => (Array.isArray(q.answer) ? q.answer[0] : q.answer));
-  const fallbackPool = ["Adabiyot", "Tarix", "Bilim", "Hikmat", "Ijod", "Madaniyat", ...fillAnswers];
+  const shortChoiceAnswers = sampledQuestions
+    .filter((q): q is ChoiceQuestion => q.type === "choice")
+    .map((q) => q.options[q.answer])
+    .filter((ans): ans is string => Boolean(ans) && ans.trim().length > 0 && ans.trim().length <= 28);
+
+  const uniqueMathOrTopicPool = Array.from(new Set([...fillAnswers, ...shortChoiceAnswers]));
+  const fallbackPool =
+    uniqueMathOrTopicPool.length >= 6
+      ? uniqueMathOrTopicPool
+      : [...uniqueMathOrTopicPool, "Adabiyot", "Tarix", "Bilim", "Hikmat", "Ijod", "Madaniyat"];
 
   const out: (ChoiceQuestion | { type: "truefalse"; q: string; answer: boolean; explain?: string })[] = [];
-  for (const q of quiz.questions) {
+  for (const q of sampledQuestions) {
     if (q.type === "choice") {
       out.push(shuffleOptions(q));
     } else if (q.type === "truefalse") {
@@ -72,13 +82,18 @@ export function extractWordPuzzles(quiz: Quiz, fallback?: Quiz, minCount = 6): W
   };
 
   const absorbQuiz = (source: Quiz) => {
-    for (const [front, back] of getCards(source)) {
+    const rawCards = getCards(source);
+    const sampledCards = rawCards.length > 300 ? shuffle(rawCards).slice(0, 300) : rawCards;
+    for (const [front, back] of sampledCards) {
+      if (items.length >= 60) break;
       const words = front.trim().split(/\s+/);
       if (words.length <= 2) {
         tryAdd(front, back);
       }
     }
-    for (const q of source.questions) {
+    const sampledQs = source.questions.length > 250 ? shuffle(source.questions).slice(0, 250) : source.questions;
+    for (const q of sampledQs) {
+      if (items.length >= 60) break;
       if (q.type === "fill") {
         const ans = Array.isArray(q.answer) ? q.answer[0] : q.answer;
         if (ans.trim().split(/\s+/).length <= 2) {
@@ -291,7 +306,10 @@ export function extractSentencePuzzles(quiz: Quiz, fallback?: Quiz, maxItems = 1
   };
 
   const absorb = (src: Quiz) => {
-    for (const q of src.questions) {
+    const cap = maxItems * 3;
+    const sampledQs = src.questions.length > 250 ? shuffle(src.questions).slice(0, 250) : src.questions;
+    for (const q of sampledQs) {
+      if (out.length >= cap) break;
       if (q.explain) {
         const firstPart = q.explain.split(/(?<=[.!?])\s+/)[0] ?? q.explain;
         tryAddSentence(firstPart, q.q);
@@ -300,7 +318,10 @@ export function extractSentencePuzzles(quiz: Quiz, fallback?: Quiz, maxItems = 1
         tryAddSentence(q.q, "Darslik faktidan to'g'ri gap tuzing");
       }
     }
-    for (const [front, back] of getCards(src)) {
+    const rawCards = getCards(src);
+    const sampledCards = rawCards.length > 120 ? shuffle(rawCards).slice(0, 120) : rawCards;
+    for (const [front, back] of sampledCards) {
+      if (out.length >= cap) break;
       tryAddSentence(back, `Atama: ${front}`);
     }
   };
@@ -330,7 +351,14 @@ export function extractClozePuzzles(quiz: Quiz, fallback?: Quiz, maxItems = 15):
   const seen = new Set<string>();
   const allWordCandidates: string[] = [];
 
-  for (const q of [...quiz.questions, ...(fallback?.questions ?? [])]) {
+  const quizSample = quiz.questions.length > 250 ? shuffle(quiz.questions).slice(0, 250) : quiz.questions;
+  const fbSample = fallback
+    ? fallback.questions.length > 150
+      ? shuffle(fallback.questions).slice(0, 150)
+      : fallback.questions
+    : [];
+
+  for (const q of [...quizSample, ...fbSample]) {
     if (q.type === "fill") {
       const a = Array.isArray(q.answer) ? q.answer[0] : q.answer;
       allWordCandidates.push(a);
@@ -347,8 +375,10 @@ export function extractClozePuzzles(quiz: Quiz, fallback?: Quiz, maxItems = 15):
     return shuffle([correct, ...distractors]);
   };
 
-  const absorb = (src: Quiz) => {
-    for (const q of src.questions) {
+  const absorb = (qs: Question[]) => {
+    const cap = maxItems * 2;
+    for (const q of qs) {
+      if (out.length >= cap) break;
       if (q.type === "fill") {
         const ansArr = Array.isArray(q.answer) ? q.answer : [q.answer];
         const key = normalize(q.q);
@@ -363,8 +393,8 @@ export function extractClozePuzzles(quiz: Quiz, fallback?: Quiz, maxItems = 15):
         }
       }
     }
-    for (const q of src.questions) {
-      if (out.length >= maxItems) break;
+    for (const q of qs) {
+      if (out.length >= cap) break;
       if (q.type === "choice") {
         const correct = q.options[q.answer];
         if (!correct || correct.length > 35) continue;
@@ -384,8 +414,8 @@ export function extractClozePuzzles(quiz: Quiz, fallback?: Quiz, maxItems = 15):
     }
   };
 
-  absorb(quiz);
-  if (out.length < 5 && fallback) absorb(fallback);
+  absorb(quizSample);
+  if (out.length < 5 && fbSample.length > 0) absorb(fbSample);
 
   return shuffle(out).slice(0, maxItems);
 }

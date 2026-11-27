@@ -1,0 +1,3488 @@
+{
+  "id": "g9-uz-algebra-39-yakuniy-takrorlash",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "39. IX sinf «Algebra» kursini yakuniy takrorlash",
+  "title": "39. IX sinf «Algebra» kursini yakuniy takrorlash (512–569-mashqlar)",
+  "source": "Algebra 9-sinf (2019), Yakuniy takrorlash, 222–227-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "9-sinf Algebra kursida o'rganilgan 5 ta asosiy bob qaysilar?",
+      "options": [
+        "Faqat arifmetika va geometriya",
+        "Matritsa, Kompleks son, Limit, Differensial, Guruhlar",
+        "Kvadrat funksiya, Sistemalar, Trigonometriya, Progressiyalar, Ehtimollar nazariyasi",
+        "Logarifm, Hosila, Integral, Vektor, Stereometriya"
+      ],
+      "answer": 2,
+      "explain": "9-sinf Algebra darsligi aynan shu 5 bobdan tashkil topgan."
+    },
+    {
+      "type": "truefalse",
+      "q": "IX sinf yakuniy takrorlash bobi 512–569-mashqlarni o'z ichiga oladi.",
+      "answer": true,
+      "explain": "Darslikning 222–227-betlarida 512 dan 569 gacha yakuniy takrorlash mashqlari joylashgan."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 10x + 22 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; -3)",
+        "(5; -3)",
+        "(-5; 3)",
+        "(-3; -5)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -5, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 10x + 23 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; 2)",
+        "(-2; -5)",
+        "(5; -2)",
+        "(-5; -2)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -5, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 10x + 24 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; -1)",
+        "(-1; -5)",
+        "(-5; 1)",
+        "(5; -1)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -5, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 10x + 26 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(1; -5)",
+        "(-5; 1)",
+        "(5; 1)",
+        "(-5; -1)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -5, y₀ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 10x + 27 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; 2)",
+        "(2; -5)",
+        "(-5; -2)",
+        "(5; 2)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -5, y₀ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 10x + 28 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; 3)",
+        "(-5; -3)",
+        "(3; -5)",
+        "(5; 3)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -5, y₀ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 10x + 29 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; 4)",
+        "(4; -5)",
+        "(-5; -4)",
+        "(-5; 4)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -5, y₀ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 13 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; -4)",
+        "(-4; -3)",
+        "(-4; 3)",
+        "(4; -3)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -4, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 14 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-2; -4)",
+        "(-4; 2)",
+        "(4; -2)",
+        "(-4; -2)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -4, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 15 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-1; -4)",
+        "(-4; 1)",
+        "(-4; -1)",
+        "(4; -1)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = -4, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 17 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(4; 1)",
+        "(1; -4)",
+        "(-4; -1)",
+        "(-4; 1)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -4, y₀ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 18 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(4; 2)",
+        "(-4; 2)",
+        "(2; -4)",
+        "(-4; -2)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -4, y₀ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 19 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(4; 3)",
+        "(-4; 3)",
+        "(-4; -3)",
+        "(3; -4)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -4, y₀ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 20 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-4; -4)",
+        "(4; -4)",
+        "(-4; 4)",
+        "(4; 4)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = -4, y₀ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 7 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; 2)",
+        "(3; -2)",
+        "(-2; -3)",
+        "(-3; -2)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -3, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 8 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; -1)",
+        "(3; -1)",
+        "(-3; 1)",
+        "(-1; -3)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -3, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 10 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; 1)",
+        "(3; 1)",
+        "(-3; -1)",
+        "(1; -3)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -3, y₀ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 11 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; -2)",
+        "(2; -3)",
+        "(-3; 2)",
+        "(3; 2)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = -3, y₀ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 12 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(3; -3)",
+        "(-3; -3)",
+        "(-3; 3)",
+        "(3; 3)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = -3, y₀ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 13 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(3; 4)",
+        "(4; -3)",
+        "(-3; -4)",
+        "(-3; 4)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -3, y₀ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 1 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; -2)",
+        "(-2; -3)",
+        "(-2; 3)",
+        "(2; -3)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -2, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 3 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-2; 1)",
+        "(-2; -1)",
+        "(2; -1)",
+        "(-1; -2)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -2, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 5 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; 1)",
+        "(1; -2)",
+        "(-2; -1)",
+        "(-2; 1)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -2, y₀ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 6 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; 2)",
+        "(-2; 2)",
+        "(-2; -2)",
+        "(2; -2)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -2, y₀ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 7 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(3; -2)",
+        "(-2; -3)",
+        "(-2; 3)",
+        "(2; 3)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = -2, y₀ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 8 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-2; -4)",
+        "(2; 4)",
+        "(4; -2)",
+        "(-2; 4)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = -2, y₀ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x − 2 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(1; -3)",
+        "(-1; 3)",
+        "(-1; -3)",
+        "(-3; -1)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = -1, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x − 1 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-1; 2)",
+        "(-1; -2)",
+        "(-2; -1)",
+        "(1; -2)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -1, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x + 2 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-1; 1)",
+        "(1; 1)",
+        "(-1; -1)",
+        "(1; -1)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = -1, y₀ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x + 3 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(1; 2)",
+        "(-1; 2)",
+        "(2; -1)",
+        "(-1; -2)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -1, y₀ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x + 4 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(1; 3)",
+        "(-1; 3)",
+        "(-1; -3)",
+        "(3; -1)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -1, y₀ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x + 5 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(4; -1)",
+        "(-1; 4)",
+        "(1; 4)",
+        "(-1; -4)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = -1, y₀ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 2 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; 1)",
+        "(1; 3)",
+        "(1; -3)",
+        "(-1; -3)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 1, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x − 1 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(1; -2)",
+        "(-1; -2)",
+        "(1; 2)",
+        "(-2; 1)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 1, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-1; -1)",
+        "(-1; 1)",
+        "(1; -1)",
+        "(1; 1)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 1, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x + 3 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; 1)",
+        "(1; -2)",
+        "(-1; 2)",
+        "(1; 2)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 1, y₀ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x + 4 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-1; 3)",
+        "(3; 1)",
+        "(1; -3)",
+        "(1; 3)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 1, y₀ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x + 5 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-1; 4)",
+        "(1; 4)",
+        "(1; -4)",
+        "(4; 1)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = 1, y₀ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 1 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-2; -3)",
+        "(2; 3)",
+        "(2; -3)",
+        "(-3; 2)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 2, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 2 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; 2)",
+        "(-2; -2)",
+        "(-2; 2)",
+        "(2; -2)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 2, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 3 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; 1)",
+        "(2; -1)",
+        "(-2; -1)",
+        "(-1; 2)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = 2, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 5 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(1; 2)",
+        "(2; -1)",
+        "(-2; 1)",
+        "(2; 1)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 2, y₀ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 7 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(3; 2)",
+        "(-2; 3)",
+        "(2; 3)",
+        "(2; -3)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 2, y₀ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 8 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; -4)",
+        "(4; 2)",
+        "(-2; 4)",
+        "(2; 4)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 2, y₀ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 6 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; -3)",
+        "(3; -3)",
+        "(3; 3)",
+        "(-3; 3)"
+      ],
+      "answer": 1,
+      "explain": "x₀ = 3, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 7 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; -2)",
+        "(-2; 3)",
+        "(3; 2)",
+        "(3; -2)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 3, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 8 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; -1)",
+        "(3; 1)",
+        "(3; -1)",
+        "(-1; 3)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 3, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 10 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(3; -1)",
+        "(-3; 1)",
+        "(1; 3)",
+        "(3; 1)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 3, y₀ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 11 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; 2)",
+        "(3; -2)",
+        "(3; 2)",
+        "(2; 3)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 3, y₀ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 13 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; 4)",
+        "(4; 3)",
+        "(3; -4)",
+        "(3; 4)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 3, y₀ = 4."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 13 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-3; 4)",
+        "(4; 3)",
+        "(4; -3)",
+        "(-4; -3)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 4, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 14 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(4; -2)",
+        "(-2; 4)",
+        "(4; 2)",
+        "(-4; -2)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 4, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 15 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(4; -1)",
+        "(4; 1)",
+        "(-4; -1)",
+        "(-1; 4)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 4, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 17 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-4; 1)",
+        "(1; 4)",
+        "(4; 1)",
+        "(4; -1)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 4, y₀ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 18 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(2; 4)",
+        "(4; -2)",
+        "(4; 2)",
+        "(-4; 2)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 4, y₀ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 19 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-4; 3)",
+        "(4; -3)",
+        "(4; 3)",
+        "(3; 4)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 4, y₀ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 10x + 22 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; -3)",
+        "(5; 3)",
+        "(-3; 5)",
+        "(-5; -3)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 5, y₀ = -3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 10x + 23 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; -2)",
+        "(-2; 5)",
+        "(5; 2)",
+        "(5; -2)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 5, y₀ = -2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 10x + 24 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-1; 5)",
+        "(5; 1)",
+        "(5; -1)",
+        "(-5; -1)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 5, y₀ = -1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 10x + 26 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; 1)",
+        "(5; -1)",
+        "(5; 1)",
+        "(1; 5)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 5, y₀ = 1."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 10x + 27 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; -2)",
+        "(2; 5)",
+        "(5; 2)",
+        "(-5; 2)"
+      ],
+      "answer": 2,
+      "explain": "x₀ = 5, y₀ = 2."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 10x + 28 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(5; 3)",
+        "(5; -3)",
+        "(3; 5)",
+        "(-5; 3)"
+      ],
+      "answer": 0,
+      "explain": "x₀ = 5, y₀ = 3."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 10x + 29 parabolaning uchining koordinatalarini toping.",
+      "options": [
+        "(-5; 4)",
+        "(5; -4)",
+        "(4; 5)",
+        "(5; 4)"
+      ],
+      "answer": 3,
+      "explain": "x₀ = 5, y₀ = 4."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 6x + 8 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "[-4; -2] kesmada 3 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 5x + 4 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[-4; -1] kesmada 4 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "[-4; 0] kesmada 5 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 3x − 4 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[-4; 1] kesmada 6 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 2x − 8 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "[-4; 2] kesmada 7 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 1x − 12 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "[-4; 3] kesmada 8 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 16 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "[-4; 4] kesmada 9 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 1x − 20 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "[-4; 5] kesmada 10 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x − 24 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "11",
+      "explain": "[-4; 6] kesmada 11 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 4x + 3 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "[-3; -1] kesmada 3 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 3x ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[-3; 0] kesmada 4 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 2x − 3 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "[-3; 1] kesmada 5 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 1x − 6 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[-3; 2] kesmada 6 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 9 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "[-3; 3] kesmada 7 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 1x − 12 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "[-3; 4] kesmada 8 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x − 15 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "[-3; 5] kesmada 9 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 3x − 18 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "10",
+      "explain": "[-3; 6] kesmada 10 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 2x ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "[-2; 0] kesmada 3 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² + 1x − 2 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[-2; 1] kesmada 4 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "[-2; 2] kesmada 5 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 1x − 6 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[-2; 3] kesmada 6 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x − 8 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "[-2; 4] kesmada 7 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 3x − 10 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "[-2; 5] kesmada 8 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 12 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "9",
+      "explain": "[-2; 6] kesmada 9 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 1 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "[-1; 1] kesmada 3 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 1x − 2 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[-1; 2] kesmada 4 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x − 3 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "[-1; 3] kesmada 5 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 3x − 4 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[-1; 4] kesmada 6 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x − 5 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "[-1; 5] kesmada 7 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x − 6 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "8",
+      "explain": "[-1; 6] kesmada 8 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 2x ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "[0; 2] kesmada 3 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 3x ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[0; 3] kesmada 4 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "[0; 4] kesmada 5 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[0; 5] kesmada 6 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 6x ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "7",
+      "explain": "[0; 6] kesmada 7 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 4x + 3 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "[1; 3] kesmada 3 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 5x + 4 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[1; 4] kesmada 4 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 6x + 5 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "[1; 5] kesmada 5 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 7x + 6 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "6",
+      "explain": "[1; 6] kesmada 6 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 6x + 8 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "[2; 4] kesmada 3 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 7x + 10 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[2; 5] kesmada 4 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 8x + 12 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "5",
+      "explain": "[2; 6] kesmada 5 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 8x + 15 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "3",
+      "explain": "[3; 5] kesmada 3 ta butun son bor."
+    },
+    {
+      "type": "fill",
+      "q": "x² − 9x + 18 ≤ 0 kvadrat tengsizlikning nechta butun yechimi bor?",
+      "answer": "4",
+      "explain": "[3; 6] kesmada 4 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 3; xy = 2} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "9",
+        "7",
+        "5",
+        "2"
+      ],
+      "answer": 2,
+      "explain": "(3)² − 2·2 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 4; xy = 3} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "12",
+        "10",
+        "16",
+        "3"
+      ],
+      "answer": 1,
+      "explain": "(4)² − 2·3 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 5; xy = 4} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "25",
+        "17",
+        "4",
+        "19"
+      ],
+      "answer": 1,
+      "explain": "(5)² − 2·4 = 17."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 6; xy = 5} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "28",
+        "26",
+        "5",
+        "36"
+      ],
+      "answer": 1,
+      "explain": "(6)² − 2·5 = 26."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 7; xy = 6} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "49",
+        "6",
+        "39",
+        "37"
+      ],
+      "answer": 3,
+      "explain": "(7)² − 2·6 = 37."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 8; xy = 7} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "50",
+        "7",
+        "64",
+        "52"
+      ],
+      "answer": 0,
+      "explain": "(8)² − 2·7 = 50."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 9; xy = 8} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "8",
+        "65",
+        "81",
+        "67"
+      ],
+      "answer": 1,
+      "explain": "(9)² − 2·8 = 65."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 10; xy = 9} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "100",
+        "82",
+        "9",
+        "84"
+      ],
+      "answer": 1,
+      "explain": "(10)² − 2·9 = 82."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 11; xy = 10} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "103",
+        "10",
+        "101",
+        "121"
+      ],
+      "answer": 2,
+      "explain": "(11)² − 2·10 = 101."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 5; xy = 6} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "13",
+        "6",
+        "25",
+        "15"
+      ],
+      "answer": 0,
+      "explain": "(5)² − 2·6 = 13."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 6; xy = 8} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "36",
+        "8",
+        "22",
+        "20"
+      ],
+      "answer": 3,
+      "explain": "(6)² − 2·8 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 7; xy = 10} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "31",
+        "49",
+        "10",
+        "29"
+      ],
+      "answer": 3,
+      "explain": "(7)² − 2·10 = 29."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 8; xy = 12} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "40",
+        "42",
+        "64",
+        "12"
+      ],
+      "answer": 0,
+      "explain": "(8)² − 2·12 = 40."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 9; xy = 14} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "55",
+        "53",
+        "14",
+        "81"
+      ],
+      "answer": 1,
+      "explain": "(9)² − 2·14 = 53."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 10; xy = 16} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "100",
+        "68",
+        "16",
+        "70"
+      ],
+      "answer": 1,
+      "explain": "(10)² − 2·16 = 68."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 11; xy = 18} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "87",
+        "18",
+        "121",
+        "85"
+      ],
+      "answer": 3,
+      "explain": "(11)² − 2·18 = 85."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 12; xy = 20} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "20",
+        "104",
+        "144",
+        "106"
+      ],
+      "answer": 1,
+      "explain": "(12)² − 2·20 = 104."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 7; xy = 12} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "49",
+        "25",
+        "12",
+        "27"
+      ],
+      "answer": 1,
+      "explain": "(7)² − 2·12 = 25."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 8; xy = 15} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "15",
+        "64",
+        "36",
+        "34"
+      ],
+      "answer": 3,
+      "explain": "(8)² − 2·15 = 34."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 9; xy = 18} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "45",
+        "81",
+        "18",
+        "47"
+      ],
+      "answer": 0,
+      "explain": "(9)² − 2·18 = 45."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 10; xy = 21} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "21",
+        "100",
+        "58",
+        "60"
+      ],
+      "answer": 2,
+      "explain": "(10)² − 2·21 = 58."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 11; xy = 24} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "121",
+        "73",
+        "24",
+        "75"
+      ],
+      "answer": 1,
+      "explain": "(11)² − 2·24 = 73."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 12; xy = 27} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "92",
+        "144",
+        "90",
+        "27"
+      ],
+      "answer": 2,
+      "explain": "(12)² − 2·27 = 90."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 13; xy = 30} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "169",
+        "111",
+        "109",
+        "30"
+      ],
+      "answer": 2,
+      "explain": "(13)² − 2·30 = 109."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 9; xy = 20} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "43",
+        "20",
+        "41",
+        "81"
+      ],
+      "answer": 2,
+      "explain": "(9)² − 2·20 = 41."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 10; xy = 24} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "24",
+        "54",
+        "100",
+        "52"
+      ],
+      "answer": 3,
+      "explain": "(10)² − 2·24 = 52."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 11; xy = 28} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "67",
+        "28",
+        "121",
+        "65"
+      ],
+      "answer": 3,
+      "explain": "(11)² − 2·28 = 65."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 12; xy = 32} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "32",
+        "82",
+        "144",
+        "80"
+      ],
+      "answer": 3,
+      "explain": "(12)² − 2·32 = 80."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 13; xy = 36} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "36",
+        "97",
+        "169",
+        "99"
+      ],
+      "answer": 1,
+      "explain": "(13)² − 2·36 = 97."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 14; xy = 40} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "40",
+        "118",
+        "196",
+        "116"
+      ],
+      "answer": 3,
+      "explain": "(14)² − 2·40 = 116."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 11; xy = 30} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "121",
+        "30",
+        "61",
+        "63"
+      ],
+      "answer": 2,
+      "explain": "(11)² − 2·30 = 61."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 12; xy = 35} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "76",
+        "74",
+        "144",
+        "35"
+      ],
+      "answer": 1,
+      "explain": "(12)² − 2·35 = 74."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 13; xy = 40} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "89",
+        "91",
+        "40",
+        "169"
+      ],
+      "answer": 0,
+      "explain": "(13)² − 2·40 = 89."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 14; xy = 45} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "106",
+        "45",
+        "196",
+        "108"
+      ],
+      "answer": 0,
+      "explain": "(14)² − 2·45 = 106."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 15; xy = 50} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "125",
+        "225",
+        "50",
+        "127"
+      ],
+      "answer": 0,
+      "explain": "(15)² − 2·50 = 125."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 13; xy = 42} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "85",
+        "87",
+        "42",
+        "169"
+      ],
+      "answer": 0,
+      "explain": "(13)² − 2·42 = 85."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 14; xy = 48} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "100",
+        "102",
+        "196",
+        "48"
+      ],
+      "answer": 0,
+      "explain": "(14)² − 2·48 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 15; xy = 54} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "119",
+        "54",
+        "225",
+        "117"
+      ],
+      "answer": 3,
+      "explain": "(15)² − 2·54 = 117."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 16; xy = 60} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "136",
+        "256",
+        "138",
+        "60"
+      ],
+      "answer": 0,
+      "explain": "(16)² − 2·60 = 136."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 15; xy = 56} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "113",
+        "56",
+        "225",
+        "115"
+      ],
+      "answer": 0,
+      "explain": "(15)² − 2·56 = 113."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 16; xy = 63} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "256",
+        "130",
+        "132",
+        "63"
+      ],
+      "answer": 1,
+      "explain": "(16)² − 2·63 = 130."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 17; xy = 70} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "151",
+        "70",
+        "289",
+        "149"
+      ],
+      "answer": 3,
+      "explain": "(17)² − 2·70 = 149."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 17; xy = 72} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "147",
+        "289",
+        "72",
+        "145"
+      ],
+      "answer": 3,
+      "explain": "(17)² − 2·72 = 145."
+    },
+    {
+      "type": "choice",
+      "q": "{x + y = 18; xy = 80} tenglamalar sistemasidan x² + y² qiymatini toping.",
+      "options": [
+        "80",
+        "164",
+        "324",
+        "166"
+      ],
+      "answer": 1,
+      "explain": "(18)² − 2·80 = 164."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 2x + 2/x ifodaning eng kichik qiymatini toping.",
+      "answer": "4",
+      "explain": "Koshi bo'yicha ≥ 2√(2²) = 4."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 3x + 3/x ifodaning eng kichik qiymatini toping.",
+      "answer": "6",
+      "explain": "Koshi bo'yicha ≥ 2√(3²) = 6."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 4x + 4/x ifodaning eng kichik qiymatini toping.",
+      "answer": "8",
+      "explain": "Koshi bo'yicha ≥ 2√(4²) = 8."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 5x + 5/x ifodaning eng kichik qiymatini toping.",
+      "answer": "10",
+      "explain": "Koshi bo'yicha ≥ 2√(5²) = 10."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 6x + 6/x ifodaning eng kichik qiymatini toping.",
+      "answer": "12",
+      "explain": "Koshi bo'yicha ≥ 2√(6²) = 12."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 7x + 7/x ifodaning eng kichik qiymatini toping.",
+      "answer": "14",
+      "explain": "Koshi bo'yicha ≥ 2√(7²) = 14."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 8x + 8/x ifodaning eng kichik qiymatini toping.",
+      "answer": "16",
+      "explain": "Koshi bo'yicha ≥ 2√(8²) = 16."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 9x + 9/x ifodaning eng kichik qiymatini toping.",
+      "answer": "18",
+      "explain": "Koshi bo'yicha ≥ 2√(9²) = 18."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 10x + 10/x ifodaning eng kichik qiymatini toping.",
+      "answer": "20",
+      "explain": "Koshi bo'yicha ≥ 2√(10²) = 20."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 11x + 11/x ifodaning eng kichik qiymatini toping.",
+      "answer": "22",
+      "explain": "Koshi bo'yicha ≥ 2√(11²) = 22."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 12x + 12/x ifodaning eng kichik qiymatini toping.",
+      "answer": "24",
+      "explain": "Koshi bo'yicha ≥ 2√(12²) = 24."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 13x + 13/x ifodaning eng kichik qiymatini toping.",
+      "answer": "26",
+      "explain": "Koshi bo'yicha ≥ 2√(13²) = 26."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 14x + 14/x ifodaning eng kichik qiymatini toping.",
+      "answer": "28",
+      "explain": "Koshi bo'yicha ≥ 2√(14²) = 28."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 15x + 15/x ifodaning eng kichik qiymatini toping.",
+      "answer": "30",
+      "explain": "Koshi bo'yicha ≥ 2√(15²) = 30."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 16x + 16/x ifodaning eng kichik qiymatini toping.",
+      "answer": "32",
+      "explain": "Koshi bo'yicha ≥ 2√(16²) = 32."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 17x + 17/x ifodaning eng kichik qiymatini toping.",
+      "answer": "34",
+      "explain": "Koshi bo'yicha ≥ 2√(17²) = 34."
+    },
+    {
+      "type": "fill",
+      "q": "x > 0 bo'lganda 18x + 18/x ifodaning eng kichik qiymatini toping.",
+      "answer": "36",
+      "explain": "Koshi bo'yicha ≥ 2√(18²) = 36."
+    },
+    {
+      "type": "choice",
+      "q": "15° burchakni radianda ifodalang.",
+      "options": [
+        "π/12",
+        "2π/12",
+        "15π",
+        "π/13"
+      ],
+      "answer": 0,
+      "explain": "15°·π/180° = π/12."
+    },
+    {
+      "type": "choice",
+      "q": "30° burchakni radianda ifodalang.",
+      "options": [
+        "30π",
+        "2π/6",
+        "π/7",
+        "π/6"
+      ],
+      "answer": 3,
+      "explain": "30°·π/180° = π/6."
+    },
+    {
+      "type": "choice",
+      "q": "45° burchakni radianda ifodalang.",
+      "options": [
+        "π/5",
+        "45π",
+        "2π/4",
+        "π/4"
+      ],
+      "answer": 3,
+      "explain": "45°·π/180° = π/4."
+    },
+    {
+      "type": "choice",
+      "q": "60° burchakni radianda ifodalang.",
+      "options": [
+        "60π",
+        "2π/3",
+        "π/3",
+        "π/4"
+      ],
+      "answer": 2,
+      "explain": "60°·π/180° = π/3."
+    },
+    {
+      "type": "choice",
+      "q": "75° burchakni radianda ifodalang.",
+      "options": [
+        "75π",
+        "5π/12",
+        "π/13",
+        "6π/12"
+      ],
+      "answer": 1,
+      "explain": "75°·π/180° = 5π/12."
+    },
+    {
+      "type": "choice",
+      "q": "90° burchakni radianda ifodalang.",
+      "options": [
+        "90π",
+        "2π/2",
+        "π/3",
+        "π/2"
+      ],
+      "answer": 3,
+      "explain": "90°·π/180° = π/2."
+    },
+    {
+      "type": "choice",
+      "q": "105° burchakni radianda ifodalang.",
+      "options": [
+        "7π/12",
+        "105π",
+        "π/13",
+        "8π/12"
+      ],
+      "answer": 0,
+      "explain": "105°·π/180° = 7π/12."
+    },
+    {
+      "type": "choice",
+      "q": "120° burchakni radianda ifodalang.",
+      "options": [
+        "3π/3",
+        "120π",
+        "π/4",
+        "2π/3"
+      ],
+      "answer": 3,
+      "explain": "120°·π/180° = 2π/3."
+    },
+    {
+      "type": "choice",
+      "q": "135° burchakni radianda ifodalang.",
+      "options": [
+        "4π/4",
+        "135π",
+        "π/5",
+        "3π/4"
+      ],
+      "answer": 3,
+      "explain": "135°·π/180° = 3π/4."
+    },
+    {
+      "type": "choice",
+      "q": "150° burchakni radianda ifodalang.",
+      "options": [
+        "π/7",
+        "5π/6",
+        "6π/6",
+        "150π"
+      ],
+      "answer": 1,
+      "explain": "150°·π/180° = 5π/6."
+    },
+    {
+      "type": "choice",
+      "q": "165° burchakni radianda ifodalang.",
+      "options": [
+        "12π/12",
+        "165π",
+        "11π/12",
+        "π/13"
+      ],
+      "answer": 2,
+      "explain": "165°·π/180° = 11π/12."
+    },
+    {
+      "type": "choice",
+      "q": "180° burchakni radianda ifodalang.",
+      "options": [
+        "2π/1",
+        "π",
+        "π/2",
+        "180π"
+      ],
+      "answer": 1,
+      "explain": "180°·π/180° = π."
+    },
+    {
+      "type": "choice",
+      "q": "195° burchakni radianda ifodalang.",
+      "options": [
+        "13π/12",
+        "14π/12",
+        "195π",
+        "π/13"
+      ],
+      "answer": 0,
+      "explain": "195°·π/180° = 13π/12."
+    },
+    {
+      "type": "choice",
+      "q": "210° burchakni radianda ifodalang.",
+      "options": [
+        "7π/6",
+        "210π",
+        "π/7",
+        "8π/6"
+      ],
+      "answer": 0,
+      "explain": "210°·π/180° = 7π/6."
+    },
+    {
+      "type": "choice",
+      "q": "225° burchakni radianda ifodalang.",
+      "options": [
+        "5π/4",
+        "6π/4",
+        "π/5",
+        "225π"
+      ],
+      "answer": 0,
+      "explain": "225°·π/180° = 5π/4."
+    },
+    {
+      "type": "choice",
+      "q": "240° burchakni radianda ifodalang.",
+      "options": [
+        "4π/3",
+        "5π/3",
+        "240π",
+        "π/4"
+      ],
+      "answer": 0,
+      "explain": "240°·π/180° = 4π/3."
+    },
+    {
+      "type": "choice",
+      "q": "255° burchakni radianda ifodalang.",
+      "options": [
+        "255π",
+        "π/13",
+        "18π/12",
+        "17π/12"
+      ],
+      "answer": 3,
+      "explain": "255°·π/180° = 17π/12."
+    },
+    {
+      "type": "choice",
+      "q": "270° burchakni radianda ifodalang.",
+      "options": [
+        "270π",
+        "3π/2",
+        "π/3",
+        "4π/2"
+      ],
+      "answer": 1,
+      "explain": "270°·π/180° = 3π/2."
+    },
+    {
+      "type": "choice",
+      "q": "285° burchakni radianda ifodalang.",
+      "options": [
+        "π/13",
+        "19π/12",
+        "20π/12",
+        "285π"
+      ],
+      "answer": 1,
+      "explain": "285°·π/180° = 19π/12."
+    },
+    {
+      "type": "choice",
+      "q": "300° burchakni radianda ifodalang.",
+      "options": [
+        "π/4",
+        "300π",
+        "6π/3",
+        "5π/3"
+      ],
+      "answer": 3,
+      "explain": "300°·π/180° = 5π/3."
+    },
+    {
+      "type": "choice",
+      "q": "315° burchakni radianda ifodalang.",
+      "options": [
+        "π/5",
+        "8π/4",
+        "315π",
+        "7π/4"
+      ],
+      "answer": 3,
+      "explain": "315°·π/180° = 7π/4."
+    },
+    {
+      "type": "choice",
+      "q": "330° burchakni radianda ifodalang.",
+      "options": [
+        "π/7",
+        "11π/6",
+        "12π/6",
+        "330π"
+      ],
+      "answer": 1,
+      "explain": "330°·π/180° = 11π/6."
+    },
+    {
+      "type": "choice",
+      "q": "345° burchakni radianda ifodalang.",
+      "options": [
+        "π/13",
+        "345π",
+        "23π/12",
+        "24π/12"
+      ],
+      "answer": 2,
+      "explain": "345°·π/180° = 23π/12."
+    },
+    {
+      "type": "choice",
+      "q": "360° burchakni radianda ifodalang.",
+      "options": [
+        "3π/1",
+        "360π",
+        "π/2",
+        "2π"
+      ],
+      "answer": 3,
+      "explain": "360°·π/180° = 2π."
+    },
+    {
+      "type": "choice",
+      "q": "I chorakdagi α uchun sin α = 3/5 bo'lsa, cos α va tg α ni toping.",
+      "options": [
+        "4/5 va 3/4",
+        "3/4 va 4/5",
+        "4/5 va 4/3",
+        "−4/5 va 3/4"
+      ],
+      "answer": 0,
+      "explain": "cos α = 4/5, tg α = 3/4."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α uchun sin α = 3/5 da sin 2α nimaga teng?",
+      "options": [
+        "24/25",
+        "6/5",
+        "1",
+        "12/25"
+      ],
+      "answer": 0,
+      "explain": "sin 2α = 2·(3/5)·(4/5) = 24/25."
+    },
+    {
+      "type": "choice",
+      "q": "I chorakdagi α uchun sin α = 5/13 bo'lsa, cos α va tg α ni toping.",
+      "options": [
+        "12/13 va 5/12",
+        "5/12 va 12/13",
+        "12/13 va 12/5",
+        "−12/13 va 5/12"
+      ],
+      "answer": 0,
+      "explain": "cos α = 12/13, tg α = 5/12."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α uchun sin α = 5/13 da sin 2α nimaga teng?",
+      "options": [
+        "120/169",
+        "60/169",
+        "10/13",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "sin 2α = 2·(5/13)·(12/13) = 120/169."
+    },
+    {
+      "type": "choice",
+      "q": "I chorakdagi α uchun sin α = 8/17 bo'lsa, cos α va tg α ni toping.",
+      "options": [
+        "15/17 va 15/8",
+        "15/17 va 8/15",
+        "8/15 va 15/17",
+        "−15/17 va 8/15"
+      ],
+      "answer": 1,
+      "explain": "cos α = 15/17, tg α = 8/15."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α uchun sin α = 8/17 da sin 2α nimaga teng?",
+      "options": [
+        "16/17",
+        "240/289",
+        "120/289",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "sin 2α = 2·(8/17)·(15/17) = 240/289."
+    },
+    {
+      "type": "choice",
+      "q": "I chorakdagi α uchun sin α = 7/25 bo'lsa, cos α va tg α ni toping.",
+      "options": [
+        "−24/25 va 7/24",
+        "7/24 va 24/25",
+        "24/25 va 24/7",
+        "24/25 va 7/24"
+      ],
+      "answer": 3,
+      "explain": "cos α = 24/25, tg α = 7/24."
+    },
+    {
+      "type": "choice",
+      "q": "O'tkir α uchun sin α = 7/25 da sin 2α nimaga teng?",
+      "options": [
+        "1",
+        "14/25",
+        "336/625",
+        "168/625"
+      ],
+      "answer": 2,
+      "explain": "sin 2α = 2·(7/25)·(24/25) = 336/625."
+    },
+    {
+      "type": "truefalse",
+      "q": "2sin²α + 2cos²α − 2 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "2(sin²α + cos²α) − 2 = 2 − 2 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "3sin²α + 3cos²α − 3 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "3(sin²α + cos²α) − 3 = 3 − 3 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "4sin²α + 4cos²α − 4 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "4(sin²α + cos²α) − 4 = 4 − 4 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "5sin²α + 5cos²α − 5 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "5(sin²α + cos²α) − 5 = 5 − 5 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "6sin²α + 6cos²α − 6 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "6(sin²α + cos²α) − 6 = 6 − 6 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "7sin²α + 7cos²α − 7 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "7(sin²α + cos²α) − 7 = 7 − 7 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "8sin²α + 8cos²α − 8 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "8(sin²α + cos²α) − 8 = 8 − 8 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "9sin²α + 9cos²α − 9 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "9(sin²α + cos²α) − 9 = 9 − 9 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "10sin²α + 10cos²α − 10 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "10(sin²α + cos²α) − 10 = 10 − 10 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "11sin²α + 11cos²α − 11 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "11(sin²α + cos²α) − 11 = 11 − 11 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "12sin²α + 12cos²α − 12 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "12(sin²α + cos²α) − 12 = 12 − 12 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "13sin²α + 13cos²α − 13 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "13(sin²α + cos²α) − 13 = 13 − 13 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "14sin²α + 14cos²α − 14 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "14(sin²α + cos²α) − 14 = 14 − 14 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "15sin²α + 15cos²α − 15 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "15(sin²α + cos²α) − 15 = 15 − 15 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "16sin²α + 16cos²α − 16 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "16(sin²α + cos²α) − 16 = 16 − 16 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "17sin²α + 17cos²α − 17 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "17(sin²α + cos²α) − 17 = 17 − 17 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "18sin²α + 18cos²α − 18 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "18(sin²α + cos²α) − 18 = 18 − 18 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "19sin²α + 19cos²α − 19 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "19(sin²α + cos²α) − 19 = 19 − 19 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "20sin²α + 20cos²α − 20 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "20(sin²α + cos²α) − 20 = 20 − 20 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "21sin²α + 21cos²α − 21 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "21(sin²α + cos²α) − 21 = 21 − 21 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "22sin²α + 22cos²α − 22 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "22(sin²α + cos²α) − 22 = 22 − 22 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "23sin²α + 23cos²α − 23 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "23(sin²α + cos²α) − 23 = 23 − 23 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "24sin²α + 24cos²α − 24 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "24(sin²α + cos²α) − 24 = 24 − 24 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "25sin²α + 25cos²α − 25 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "25(sin²α + cos²α) − 25 = 25 − 25 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "26sin²α + 26cos²α − 26 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "26(sin²α + cos²α) − 26 = 26 − 26 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "27sin²α + 27cos²α − 27 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "27(sin²α + cos²α) − 27 = 27 − 27 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "28sin²α + 28cos²α − 28 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "28(sin²α + cos²α) − 28 = 28 − 28 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "29sin²α + 29cos²α − 29 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "29(sin²α + cos²α) − 29 = 29 − 29 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "30sin²α + 30cos²α − 30 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "30(sin²α + cos²α) − 30 = 30 − 30 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "31sin²α + 31cos²α − 31 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "31(sin²α + cos²α) − 31 = 31 − 31 = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "32sin²α + 32cos²α − 32 = 0 tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "32(sin²α + cos²α) − 32 = 32 − 32 = 0."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 2. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "12",
+        "42",
+        "36",
+        "48"
+      ],
+      "answer": 1,
+      "explain": "S₆ = (2·2 + 5·2)·6/2 = 42."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 3. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "51",
+        "57",
+        "17",
+        "63"
+      ],
+      "answer": 1,
+      "explain": "S₆ = (2·2 + 5·3)·6/2 = 57."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 4. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "72",
+        "22",
+        "78",
+        "66"
+      ],
+      "answer": 0,
+      "explain": "S₆ = (2·2 + 5·4)·6/2 = 72."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 5. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "27",
+        "93",
+        "87",
+        "81"
+      ],
+      "answer": 2,
+      "explain": "S₆ = (2·2 + 5·5)·6/2 = 87."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 2, d = 6. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "96",
+        "108",
+        "32",
+        "102"
+      ],
+      "answer": 3,
+      "explain": "S₆ = (2·2 + 5·6)·6/2 = 102."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 2. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "60",
+        "14",
+        "54",
+        "48"
+      ],
+      "answer": 2,
+      "explain": "S₆ = (2·4 + 5·2)·6/2 = 54."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 3. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "19",
+        "75",
+        "69",
+        "63"
+      ],
+      "answer": 2,
+      "explain": "S₆ = (2·4 + 5·3)·6/2 = 69."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 4. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "90",
+        "84",
+        "78",
+        "24"
+      ],
+      "answer": 1,
+      "explain": "S₆ = (2·4 + 5·4)·6/2 = 84."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 5. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "105",
+        "93",
+        "99",
+        "29"
+      ],
+      "answer": 2,
+      "explain": "S₆ = (2·4 + 5·5)·6/2 = 99."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 4, d = 6. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "114",
+        "34",
+        "108",
+        "120"
+      ],
+      "answer": 0,
+      "explain": "S₆ = (2·4 + 5·6)·6/2 = 114."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 2. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "16",
+        "60",
+        "72",
+        "66"
+      ],
+      "answer": 3,
+      "explain": "S₆ = (2·6 + 5·2)·6/2 = 66."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 3. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "87",
+        "21",
+        "81",
+        "75"
+      ],
+      "answer": 2,
+      "explain": "S₆ = (2·6 + 5·3)·6/2 = 81."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 4. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "96",
+        "26",
+        "102",
+        "90"
+      ],
+      "answer": 0,
+      "explain": "S₆ = (2·6 + 5·4)·6/2 = 96."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 5. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "105",
+        "31",
+        "111",
+        "117"
+      ],
+      "answer": 2,
+      "explain": "S₆ = (2·6 + 5·5)·6/2 = 111."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 6, d = 6. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "126",
+        "36",
+        "132",
+        "120"
+      ],
+      "answer": 0,
+      "explain": "S₆ = (2·6 + 5·6)·6/2 = 126."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, d = 2. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "72",
+        "84",
+        "18",
+        "78"
+      ],
+      "answer": 3,
+      "explain": "S₆ = (2·8 + 5·2)·6/2 = 78."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, d = 3. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "99",
+        "93",
+        "87",
+        "23"
+      ],
+      "answer": 1,
+      "explain": "S₆ = (2·8 + 5·3)·6/2 = 93."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, d = 4. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "108",
+        "114",
+        "28",
+        "102"
+      ],
+      "answer": 0,
+      "explain": "S₆ = (2·8 + 5·4)·6/2 = 108."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, d = 5. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "129",
+        "117",
+        "33",
+        "123"
+      ],
+      "answer": 3,
+      "explain": "S₆ = (2·8 + 5·5)·6/2 = 123."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 8, d = 6. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "144",
+        "132",
+        "38",
+        "138"
+      ],
+      "answer": 3,
+      "explain": "S₆ = (2·8 + 5·6)·6/2 = 138."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, d = 2. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "20",
+        "96",
+        "90",
+        "84"
+      ],
+      "answer": 2,
+      "explain": "S₆ = (2·10 + 5·2)·6/2 = 90."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, d = 3. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "111",
+        "25",
+        "105",
+        "99"
+      ],
+      "answer": 2,
+      "explain": "S₆ = (2·10 + 5·3)·6/2 = 105."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, d = 4. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "114",
+        "30",
+        "126",
+        "120"
+      ],
+      "answer": 3,
+      "explain": "S₆ = (2·10 + 5·4)·6/2 = 120."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, d = 5. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "141",
+        "35",
+        "135",
+        "129"
+      ],
+      "answer": 2,
+      "explain": "S₆ = (2·10 + 5·5)·6/2 = 135."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 10, d = 6. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "150",
+        "156",
+        "40",
+        "144"
+      ],
+      "answer": 0,
+      "explain": "S₆ = (2·10 + 5·6)·6/2 = 150."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 12, d = 2. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "102",
+        "22",
+        "108",
+        "96"
+      ],
+      "answer": 0,
+      "explain": "S₆ = (2·12 + 5·2)·6/2 = 102."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 12, d = 3. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "117",
+        "27",
+        "111",
+        "123"
+      ],
+      "answer": 0,
+      "explain": "S₆ = (2·12 + 5·3)·6/2 = 117."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 12, d = 4. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "126",
+        "132",
+        "32",
+        "138"
+      ],
+      "answer": 1,
+      "explain": "S₆ = (2·12 + 5·4)·6/2 = 132."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 12, d = 5. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "147",
+        "37",
+        "141",
+        "153"
+      ],
+      "answer": 0,
+      "explain": "S₆ = (2·12 + 5·5)·6/2 = 147."
+    },
+    {
+      "type": "choice",
+      "q": "Arifmetik progressiyada a₁ = 12, d = 6. Dastlabki 6 ta had yig'indisini toping.",
+      "options": [
+        "42",
+        "156",
+        "162",
+        "168"
+      ],
+      "answer": 2,
+      "explain": "S₆ = (2·12 + 5·6)·6/2 = 162."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 1, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "3/2",
+      "explain": "S = 1/(1 − 1/3) = 3/2."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 2, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "3",
+      "explain": "S = 2/(1 − 1/3) = 3."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 3, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "9/2",
+      "explain": "S = 3/(1 − 1/3) = 9/2."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 4, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "6",
+      "explain": "S = 4/(1 − 1/3) = 6."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 5, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "15/2",
+      "explain": "S = 5/(1 − 1/3) = 15/2."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 6, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "9",
+      "explain": "S = 6/(1 − 1/3) = 9."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 7, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "21/2",
+      "explain": "S = 7/(1 − 1/3) = 21/2."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 8, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "12",
+      "explain": "S = 8/(1 − 1/3) = 12."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 9, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "27/2",
+      "explain": "S = 9/(1 − 1/3) = 27/2."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 10, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "15",
+      "explain": "S = 10/(1 − 1/3) = 15."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 11, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "33/2",
+      "explain": "S = 11/(1 − 1/3) = 33/2."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 12, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "18",
+      "explain": "S = 12/(1 − 1/3) = 18."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 13, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "39/2",
+      "explain": "S = 13/(1 − 1/3) = 39/2."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 14, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "21",
+      "explain": "S = 14/(1 − 1/3) = 21."
+    },
+    {
+      "type": "fill",
+      "q": "Cheksiz kamayuvchi geometrik progressiyada b₁ = 15, q = 1/3. Yig'indini toping (kasr yoki butun).",
+      "answer": "45/2",
+      "explain": "S = 15/(1 − 1/3) = 45/2."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta yashil va 3 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "2/3",
+        "2/5",
+        "3/5"
+      ],
+      "answer": 2,
+      "explain": "P = 2/5 = 2/5."
+    },
+    {
+      "type": "fill",
+      "q": "Dispersiyasi D(X) = 16 bo'lgan tasodifiy miqdorning o'rtacha kvadratik chetlanishi σ ni toping.",
+      "answer": "4",
+      "explain": "σ = √(16) = 4."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta yashil va 4 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "P = 2/6 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta yashil va 5 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "5/7",
+        "2/7",
+        "2/5",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "P = 2/7 = 2/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta yashil va 6 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "3/4",
+        "1",
+        "1/3",
+        "1/4"
+      ],
+      "answer": 3,
+      "explain": "P = 2/8 = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta yashil va 7 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "7/9",
+        "2/7",
+        "1",
+        "2/9"
+      ],
+      "answer": 3,
+      "explain": "P = 2/9 = 2/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta yashil va 8 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1/5",
+        "1/4",
+        "4/5",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "P = 2/10 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta yashil va 9 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "9/11",
+        "2/9",
+        "2/11"
+      ],
+      "answer": 3,
+      "explain": "P = 2/11 = 2/11."
+    },
+    {
+      "type": "fill",
+      "q": "Dispersiyasi D(X) = 25 bo'lgan tasodifiy miqdorning o'rtacha kvadratik chetlanishi σ ni toping.",
+      "answer": "5",
+      "explain": "σ = √(25) = 5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta yashil va 4 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "4/7",
+        "3/7",
+        "3/4",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "P = 3/7 = 3/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta yashil va 5 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "5/8",
+        "3/8",
+        "1",
+        "3/5"
+      ],
+      "answer": 1,
+      "explain": "P = 3/8 = 3/8."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta yashil va 6 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "1",
+        "1/2",
+        "2/3"
+      ],
+      "answer": 0,
+      "explain": "P = 3/9 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta yashil va 7 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "3/7",
+        "1",
+        "3/10",
+        "7/10"
+      ],
+      "answer": 2,
+      "explain": "P = 3/10 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta yashil va 8 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "3/8",
+        "8/11",
+        "3/11",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "P = 3/11 = 3/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta yashil va 9 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "3/4",
+        "1/4",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "P = 3/12 = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta yashil va 3 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "3/7",
+        "1",
+        "4/3",
+        "4/7"
+      ],
+      "answer": 3,
+      "explain": "P = 4/7 = 4/7."
+    },
+    {
+      "type": "fill",
+      "q": "Dispersiyasi D(X) = 36 bo'lgan tasodifiy miqdorning o'rtacha kvadratik chetlanishi σ ni toping.",
+      "answer": "6",
+      "explain": "σ = √(36) = 6."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta yashil va 5 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "4/5",
+        "4/9",
+        "5/9"
+      ],
+      "answer": 2,
+      "explain": "P = 4/9 = 4/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta yashil va 6 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "2/5",
+        "3/5",
+        "1",
+        "2/3"
+      ],
+      "answer": 0,
+      "explain": "P = 4/10 = 2/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta yashil va 7 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "7/11",
+        "4/11",
+        "4/7"
+      ],
+      "answer": 2,
+      "explain": "P = 4/11 = 4/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta yashil va 8 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "2/3",
+        "1",
+        "1/3",
+        "1/2"
+      ],
+      "answer": 2,
+      "explain": "P = 4/12 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta yashil va 9 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "4/13",
+        "1",
+        "4/9",
+        "9/13"
+      ],
+      "answer": 0,
+      "explain": "P = 4/13 = 4/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta yashil va 3 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "5/3",
+        "5/8",
+        "1",
+        "3/8"
+      ],
+      "answer": 1,
+      "explain": "P = 5/8 = 5/8."
+    },
+    {
+      "type": "fill",
+      "q": "Dispersiyasi D(X) = 49 bo'lgan tasodifiy miqdorning o'rtacha kvadratik chetlanishi σ ni toping.",
+      "answer": "7",
+      "explain": "σ = √(49) = 7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta yashil va 4 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "4/9",
+        "5/9",
+        "5/4",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "P = 5/9 = 5/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta yashil va 6 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "6/11",
+        "5/11",
+        "5/6",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "P = 5/11 = 5/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta yashil va 7 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "5/12",
+        "7/12",
+        "5/7",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "P = 5/12 = 5/12."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta yashil va 8 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "5/8",
+        "5/13",
+        "1",
+        "8/13"
+      ],
+      "answer": 1,
+      "explain": "P = 5/13 = 5/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta yashil va 9 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "5/14",
+        "5/9",
+        "1",
+        "9/14"
+      ],
+      "answer": 0,
+      "explain": "P = 5/14 = 5/14."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta yashil va 3 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "2",
+        "1/3",
+        "1",
+        "2/3"
+      ],
+      "answer": 3,
+      "explain": "P = 6/9 = 2/3."
+    },
+    {
+      "type": "fill",
+      "q": "Dispersiyasi D(X) = 64 bo'lgan tasodifiy miqdorning o'rtacha kvadratik chetlanishi σ ni toping.",
+      "answer": "8",
+      "explain": "σ = √(64) = 8."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta yashil va 4 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "2/5",
+        "1",
+        "3/5",
+        "3/2"
+      ],
+      "answer": 2,
+      "explain": "P = 6/10 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta yashil va 5 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "6/11",
+        "5/11",
+        "6/5"
+      ],
+      "answer": 1,
+      "explain": "P = 6/11 = 6/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta yashil va 7 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "7/13",
+        "6/7",
+        "6/13",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "P = 6/13 = 6/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta yashil va 8 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "3/7",
+        "3/4",
+        "4/7"
+      ],
+      "answer": 1,
+      "explain": "P = 6/14 = 3/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta yashil va 9 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "2/5",
+        "2/3",
+        "1",
+        "3/5"
+      ],
+      "answer": 0,
+      "explain": "P = 6/15 = 2/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta yashil va 3 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "3/10",
+        "7/3",
+        "1",
+        "7/10"
+      ],
+      "answer": 3,
+      "explain": "P = 7/10 = 7/10."
+    },
+    {
+      "type": "fill",
+      "q": "Dispersiyasi D(X) = 81 bo'lgan tasodifiy miqdorning o'rtacha kvadratik chetlanishi σ ni toping.",
+      "answer": "9",
+      "explain": "σ = √(81) = 9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta yashil va 4 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "7/11",
+        "7/4",
+        "4/11",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "P = 7/11 = 7/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta yashil va 5 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "7/12",
+        "5/12",
+        "7/5"
+      ],
+      "answer": 1,
+      "explain": "P = 7/12 = 7/12."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta yashil va 6 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "6/13",
+        "7/6",
+        "7/13",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "P = 7/13 = 7/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta yashil va 8 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "7/15",
+        "7/8",
+        "1",
+        "8/15"
+      ],
+      "answer": 0,
+      "explain": "P = 7/15 = 7/15."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta yashil va 9 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "9/16",
+        "1",
+        "7/16",
+        "7/9"
+      ],
+      "answer": 2,
+      "explain": "P = 7/16 = 7/16."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta yashil va 3 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "8/11",
+        "3/11",
+        "8/3"
+      ],
+      "answer": 1,
+      "explain": "P = 8/11 = 8/11."
+    },
+    {
+      "type": "fill",
+      "q": "Dispersiyasi D(X) = 100 bo'lgan tasodifiy miqdorning o'rtacha kvadratik chetlanishi σ ni toping.",
+      "answer": "10",
+      "explain": "σ = √(100) = 10."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta yashil va 4 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "2/3",
+        "2",
+        "1/3",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "P = 8/12 = 2/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta yashil va 5 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "8/5",
+        "8/13",
+        "5/13",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "P = 8/13 = 8/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta yashil va 6 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "4/3",
+        "3/7",
+        "4/7"
+      ],
+      "answer": 3,
+      "explain": "P = 8/14 = 4/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta yashil va 7 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "8/7",
+        "8/15",
+        "7/15"
+      ],
+      "answer": 2,
+      "explain": "P = 8/15 = 8/15."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta yashil va 9 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "8/17",
+        "8/9",
+        "1",
+        "9/17"
+      ],
+      "answer": 0,
+      "explain": "P = 8/17 = 8/17."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta yashil va 3 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "3",
+        "3/4",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "P = 9/12 = 3/4."
+    },
+    {
+      "type": "fill",
+      "q": "Dispersiyasi D(X) = 121 bo'lgan tasodifiy miqdorning o'rtacha kvadratik chetlanishi σ ni toping.",
+      "answer": "11",
+      "explain": "σ = √(121) = 11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta yashil va 4 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "4/13",
+        "9/13",
+        "9/4"
+      ],
+      "answer": 2,
+      "explain": "P = 9/13 = 9/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta yashil va 5 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "9/5",
+        "1",
+        "5/14",
+        "9/14"
+      ],
+      "answer": 3,
+      "explain": "P = 9/14 = 9/14."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta yashil va 6 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "3/5",
+        "2/5",
+        "3/2",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "P = 9/15 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta yashil va 7 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "9/7",
+        "7/16",
+        "1",
+        "9/16"
+      ],
+      "answer": 3,
+      "explain": "P = 9/16 = 9/16."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta yashil va 8 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "9/17",
+        "9/8",
+        "8/17",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "P = 9/17 = 9/17."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta yashil va 3 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "1",
+        "10/13",
+        "10/3",
+        "3/13"
+      ],
+      "answer": 1,
+      "explain": "P = 10/13 = 10/13."
+    },
+    {
+      "type": "fill",
+      "q": "Dispersiyasi D(X) = 144 bo'lgan tasodifiy miqdorning o'rtacha kvadratik chetlanishi σ ni toping.",
+      "answer": "12",
+      "explain": "σ = √(144) = 12."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta yashil va 4 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "2/7",
+        "5/2",
+        "5/7",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "P = 10/14 = 5/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta yashil va 5 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "2/3",
+        "1/3",
+        "1",
+        "2"
+      ],
+      "answer": 0,
+      "explain": "P = 10/15 = 2/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta yashil va 6 ta sariq shar bor. Yashil shar chiqish ehtimolligini toping.",
+      "options": [
+        "5/3",
+        "5/8",
+        "1",
+        "3/8"
+      ],
+      "answer": 1,
+      "explain": "P = 10/16 = 5/8."
+    }
+  ],
+  "cards": [
+    [
+      "Parabola",
+      "Kvadrat funksiya grafigi (y = ax² + bx + c)"
+    ],
+    [
+      "Koshi",
+      "(a + b)/2 ≥ √(ab) klassik tengsizligi"
+    ],
+    [
+      "Radian",
+      "Yoy uzunligi R ga teng burchak (180° = π rad)"
+    ],
+    [
+      "Ayniyat",
+      "sin²α + cos²α = 1 asosiy bog'lanish"
+    ],
+    [
+      "Arifmetik",
+      "aₙ = a₁ + (n − 1)d progressiyasi"
+    ],
+    [
+      "Geometrik",
+      "bₙ = b₁ · qⁿ⁻¹ progressiyasi"
+    ],
+    [
+      "Ehtimollik",
+      "P(A) = m / n tasodifiy hodisa mezoni"
+    ],
+    [
+      "Dispersiya",
+      "O'rta kvadratik chetlanish kvadrati D(X)"
+    ],
+    [
+      "Mediana",
+      "Tartiblangan qatorning o'rta qiymati"
+    ],
+    [
+      "Al-Xorazmiy",
+      "Algebra faniga asos solgan buyuk vatandoshimiz"
+    ],
+    [
+      "512–569 mashq",
+      "9-sinf Algebra yakuniy takrorlash mashqlari"
+    ],
+    [
+      "x₀ = −b/(2a)",
+      "Parabola uchining abssissasi"
+    ],
+    [
+      "S = b₁/(1−q)",
+      "Cheksiz kamayuvchi geometrik progressiya yig'indisi"
+    ],
+    [
+      "sin 2α",
+      "2 sin α cos α ikkilangan burchak formulasi"
+    ],
+    [
+      "cos(α+β)",
+      "cos α cos β − sin α sin β"
+    ],
+    [
+      "1 + tg²α",
+      "1 / cos²α ga teng ayniyat"
+    ],
+    [
+      "Sₙ arifmetik",
+      "((a₁ + aₙ) / 2) · n"
+    ],
+    [
+      "Sₙ geometrik",
+      "b₁(qⁿ − 1) / (q − 1)"
+    ],
+    [
+      "P(Ā) = 1 − P(A)",
+      "Qarama-qarshi hodisa ehtimolligi"
+    ],
+    [
+      "W(A) = m / n",
+      "Tajribadagi nisbiy chastota"
+    ],
+    [
+      "f(−x) = f(x)",
+      "Juft funksiya sharti"
+    ],
+    [
+      "f(−x) = −f(x)",
+      "Toq funksiya sharti"
+    ],
+    [
+      "M(X) = ∑xᵢpᵢ",
+      "Matematik kutilma formulasi"
+    ],
+    [
+      "σ = √D(X)",
+      "O'rtacha kvadratik chetlanish"
+    ]
+  ]
+}

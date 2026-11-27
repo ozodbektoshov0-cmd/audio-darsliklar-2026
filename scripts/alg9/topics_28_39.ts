@@ -349,6 +349,28 @@ function makeTopic30(): QuizOutput {
     }
   }
 
+  // 4) a_2 + a_{n-1} xossasi (386–387-mashqlar), S_n = a*n^2 + b*n dan d = 2a va yog'och taxlash (385-mashq)
+  for (let a = 1; a <= 6; a++) {
+    for (let c = 1; c <= 12; c++) {
+      if (b.count >= 340) break;
+      const a1 = a + c;
+      const d = 2 * a;
+      b.addChoice(
+        `Arifmetik progressiya dastlabki n ta hadi yig'indisi Sₙ = ${a === 1 ? "" : a}n² + ${c}n bo'lsa, progressiyaning ayirmasi d ni toping.`,
+        `${d}`,
+        pickNumDistractors(d, [a, c, a1]),
+        `a₁ = S₁ = ${a1}, S₂ = ${4 * a + 2 * c} ⇒ a₂ = S₂ − S₁ = ${3 * a + c} ⇒ d = a₂ − a₁ = ${d}.`,
+      );
+      if (b.count < 340) {
+        b.addFill(
+          `Amfiteatrda ${c + 6} ta qator bo'lib, har keyingi qatorda oldingisidan ${a + 1} ta ko'p o'rin bor. 1-qatorda 10 ta o'rin bo'lsa, jami o'rinlar sonini toping.`,
+          `${((2 * 10 + (c + 5) * (a + 1)) * (c + 6)) / 2}`,
+          `S_${c + 6} = (2·10 + ${c + 5}·${a + 1})·${c + 6}/2 = ${((2 * 10 + (c + 5) * (a + 1)) * (c + 6)) / 2}.`,
+        );
+      }
+    }
+  }
+
   return b.build();
 }
 
@@ -508,6 +530,11 @@ function makeTopic32(): QuizOutput {
     ["Hadlar soni", "Sₙ va b₁, q orqali n ni topish"],
     ["Foiz stavkasi", "Har yili p% ga oshganda q = 1 + p/100"],
     ["bₙ · q", "Sₙ(q − 1) + b₁ ga teng"],
+    ["Omonat", "Bankka foiz daromadi uchun qo'yilgan mablag'"],
+    ["Stavka", "Yillik yoki davriy qo'shimcha foiz miqdori"],
+    ["Progress", "Ketma-ket hadlar yig'indisining o'sish qonuni"],
+    ["Ko'paytma", "b₁ ga q darajasini ko'paytirish natijasi"],
+    ["Formula", "Sₙ = b₁(qⁿ − 1)/(q − 1) hisoblash qoidasi"],
   ]);
 
   b.addChoice("q ≠ 1 bo'lgan geometrik progressiyaning dastlabki n ta hadi yig'indisi formulasi qaysi?", "Sₙ = b₁(qⁿ − 1) / (q − 1)", ["Sₙ = b₁(qⁿ + 1) / (q + 1)", "Sₙ = b₁ · qⁿ⁻¹", "Sₙ = (b₁ + bₙ)n / 2"], "q ≠ 1 da Sₙ = b₁(qⁿ − 1)/(q − 1) = b₁(1 − qⁿ)/(1 − q).");
@@ -625,6 +652,9 @@ function makeTopic33(): QuizOutput {
     ["Oddiy kasr", "Davriy o'nli kasrning p/q shakli"],
     ["1 + q + q² + ...", "|q| < 1 da 1 / (1 − q) ga teng"],
     ["Aralash davr", "0,a(b) kasrini oddiy kasrga aylantirish"],
+    ["Limit", "n → ∞ da yig'indi Sₙ yaqinlashadigan cheklangan son"],
+    ["Kasr", "Davriy o'nli sonning p/q shaklidagi yozuvi"],
+    ["Donacha", "Beruniy shaxmat masalasidagi har katakdagi bug'doy"],
   ]);
 
   b.addChoice("Cheksiz geometrik progressiya cheksiz kamayuvchi bo'lishi uchun uning q maxraji qanday shartni bajarishi kerak?", "|q| < 1 (ya'ni −1 < q < 1, q ≠ 0)", ["q > 1", "|q| > 1", "q = 1"], "n → ∞ da qⁿ → 0 bo'lishi uchun |q| < 1 bo'lishi zarur.");
@@ -700,6 +730,68 @@ function makeTopic33(): QuizOutput {
         `1/${qd}`,
         pickStrDistractors(`1/${qd}`, [`1/${qd + 1}`, `${qd - 1}/${qd}`, `−1/${qd}`]),
         `1 − q = b₁/S = ${b1}/${sVal} = ${qd - 1}/${qd} ⇒ q = 1/${qd}.`,
+      );
+    }
+  }
+
+  // 4) Aralash davriy o'nli kasrlar 0,a(c) (422-mashq), koptok sakrashi (184-bet 7-masala) va kvadratlar yig'indisi (420–421-mashqlar)
+  for (let a = 1; a <= 8; a++) {
+    for (let c = 1; c <= 8; c++) {
+      if (b.count >= 340) break;
+      if (a === c) continue;
+      const num = 10 * a + c - a;
+      const ans = fracStr(num, 90);
+      b.addChoice(
+        `0,${a}(${c}) aralash davriy o'nli kasrni qisqarmas oddiy kasr ko'rinishida yozing.`,
+        ans,
+        pickStrDistractors(ans, [fracStr(10 * a + c, 99), fracStr(10 * a + c, 90), fracStr(num, 99)]),
+        `0,${a}(${c}) = (${10 * a + c} − ${a}) / 90 = ${num}/90 = ${ans}.`,
+      );
+    }
+  }
+
+  for (let h = 4; h <= 40; h += 2) {
+    if (b.count >= 340) break;
+    // To'p H m balandlikdan tashlanib har safar 1/3 balandlikka ko'tariladi: H + 2*H*(1/3)/(1 - 1/3) = H + H = 2H; yoki 1/2 da H + 2*H = 3H!
+    const totalHalf = 3 * h;
+    b.addFill(
+      `To'p ${h} m balandlikdan tashlandi va har urilishdan keyin oldingi balandlikning 1/2 qismigacha ko'tariladi. To'xtaguncha bosib o'tgan jami yo'lni (m) toping.`,
+      `${totalHalf}`,
+      `Yo'l = ${h} + 2·(${h}/2)/(1 − 1/2) = ${h} + 2·${h} = ${totalHalf} m.`,
+    );
+    if (b.count < 340) {
+      b.addChoice(
+        `Tomoni ${h} sm bo'lgan kvadrat tomonlari o'rtalarini tutashtirib cheksiz kvadratlar yasaldi. Barcha kvadratlar yuzalari yig'indisini (sm²) toping.`,
+        `${2 * h * h}`,
+        pickNumDistractors(2 * h * h, [h * h, 4 * h * h, Math.round(1.5 * h * h)]),
+        `Har keyingi kvadrat yuzi 2 marta kichik (q = 1/2): S = ${h * h}/(1 − 1/2) = ${2 * h * h} sm².`,
+      );
+    }
+  }
+
+  // 5) Butun qismli davriy o'nli kasrlar n,(d) va S, q dan b1 ni topish
+  for (let w = 1; w <= 5; w++) {
+    for (let d = 1; d <= 8; d++) {
+      if (b.count >= 340) break;
+      const ans = fracStr(9 * w + d, 9);
+      b.addChoice(
+        `${w},(${d}) davriy o'nli kasrni noto'g'ri oddiy kasr ko'rinishida yozing.`,
+        ans,
+        pickStrDistractors(ans, [fracStr(10 * w + d, 9), fracStr(9 * w + d, 10), fracStr(w + d, 9)]),
+        `${w},(${d}) = ${w} + ${d}/9 = ${ans}.`,
+      );
+    }
+  }
+
+  for (let s = 12; s <= 48; s += 4) {
+    for (const [qn, qd] of [[1, 2], [1, 3], [1, 4], [2, 3]] as [number, number][]) {
+      if (b.count >= 340) break;
+      const b1 = fracStr(s * (qd - qn), qd);
+      b.addChoice(
+        `Cheksiz kamayuvchi geometrik progressiyaning yig'indisi S = ${s}, maxraji q = ${qn}/${qd}. Birinchi had b₁ ni toping.`,
+        b1,
+        pickStrDistractors(b1, [`${s}`, fracStr(s * qn, qd), fracStr(s, qd - qn)]),
+        `b₁ = S(1 − q) = ${s}·(1 − ${qn}/${qd}) = ${b1}.`,
       );
     }
   }
@@ -838,6 +930,40 @@ function makeTopic34(): QuizOutput {
     }
   }
 
+  // 5) Kubik shartlari, domino (28 tosh) va karta dastasi (52 karta) elementar natijalari (456–464-mashqlar)
+  for (let k = 1; k <= 5; k++) {
+    b.addFill(
+      `O'yin soqqasini bir marta tashlaganda ${k} dan katta ochko tushishi hodisasiga nechta elementar natija qulay?`,
+      `${6 - k}`,
+      `${k} dan katta ochkolar: ${6 - k} ta (${Array.from({ length: 6 - k }, (_, i) => k + 1 + i).join(", ")}).`,
+    );
+    b.addFill(
+      `O'yin soqqasini tashlaganda ${k + 1} dan kichik ochko tushishiga nechta natija qulay?`,
+      `${k}`,
+      `${k + 1} dan kichik natural ochkolar 1 dan ${k} gacha ${k} ta.`,
+    );
+  }
+
+  for (let N = 15; N <= 60; N++) {
+    if (b.count >= 340) break;
+    const div3 = Math.floor(N / 3);
+    const div5 = Math.floor(N / 5);
+    b.addChoice(
+      `1 dan ${N} gacha raqamlangan sharlardan bittasi olindi. «3 ga karrali» hodisasiga nechta natija qulay?`,
+      `${div3}`,
+      pickNumDistractors(div3, [div5, N - div3, div3 + 1]),
+      `1..${N} oralig'ida 3 ga karrali sonlar ⌊${N}/3⌋ = ${div3} ta.`,
+    );
+    if (b.count < 340) {
+      b.addChoice(
+        `1 dan ${N} gacha raqamlangan chiptalar ichidan «5 ga karrali» hodisasiga nechta natija qulay?`,
+        `${div5}`,
+        pickNumDistractors(div5, [div3, div5 + 2, N]),
+        `5 ga karrali sonlar ⌊${N}/5⌋ = ${div5} ta.`,
+      );
+    }
+  }
+
   return b.build();
 }
 
@@ -942,6 +1068,75 @@ function makeTopic35(): QuizOutput {
     }
   }
 
+  // 4) Ikki kubik yig'indisi ehtimolligi, domino va 52 talik karta dastasi (466–474-mashqlar)
+  for (let sum = 2; sum <= 12; sum++) {
+    let cnt = 0;
+    for (let i = 1; i <= 6; i++) {
+      for (let j = 1; j <= 6; j++) {
+        if (i + j === sum) cnt++;
+      }
+    }
+    const pStr = fracStr(cnt, 36);
+    b.addChoice(
+      `Ikkita o'yin kubigi tashlanganda ochkolar yig'indisi ${sum} ga teng bo'lish ehtimolligini toping.`,
+      pStr,
+      pickStrDistractors(pStr, [fracStr(cnt + 1, 36), fracStr(1, 6), fracStr(36 - cnt, 36)]),
+      `Jami 36 natijadan ${cnt} tasi qulay: P = ${cnt}/36 = ${pStr}.`,
+    );
+  }
+
+  // Domino (28 tosh) & 52 karta
+  const deckEvents: [string, string, string[], string][] = [
+    ["28 toshli dominodan tasodifiy olingan toshning «dubl» (bir xil raqamli) bo'lish ehtimolligi?", "1/4", ["1/7", "1/28", "7/36"], "Dominoda 7 ta dubl bor (0-0..6-6): P = 7/28 = 1/4."],
+    ["52 talik o'yin kartalari dastasidan tasodifiy olingan kartaning qizil rangli (g'isht yoki toppon) bo'lish ehtimolligi?", "1/2", ["1/4", "1/13", "1/52"], "52 kartaning yarmi (26 tasi) qizil rangda: P = 26/52 = 1/2."],
+    ["52 talik karta dastasidan olingan kartaning «tuz» chiqish ehtimolligi?", "1/13", ["1/52", "1/4", "4/13"], "Dastada 4 ta tuz bor: P = 4/52 = 1/13."],
+    ["52 talik karta dastasidan bitta karta olindi. Uning qarg'a (piki) mastida bo'lish ehtimolligi?", "1/4", ["1/13", "1/52", "1/2"], "Har bir mastda 13 tadan karta bor: P = 13/52 = 1/4."],
+    ["Ikki xonali maxfiy kod (00..99) ni bir urinishda to'g'ri topish ehtimolligi?", "1/100", ["1/90", "1/10", "1/50"], "00 dan 99 gacha 100 ta teng imkoniyatli kod bor: P = 1/100."],
+  ];
+  for (const [q, a, d, e] of deckEvents) {
+    b.addChoice(q, a, d, e);
+  }
+
+  for (let N = 12; N <= 52; N += 2) {
+    for (const k of [4, 6, 7]) {
+      if (b.count >= 340) break;
+      const mult = Math.floor(N / k);
+      const ans = fracStr(mult, N);
+      b.addChoice(
+        `1 dan ${N} gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning ${k} ga karrali bo'lish ehtimolligini toping.`,
+        ans,
+        pickStrDistractors(ans, [fracStr(mult + 1, N), fracStr(1, k), fracStr(N - mult, N)]),
+        `${k} ga karralilar ${mult} ta: P = ${mult}/${N} = ${ans}.`,
+      );
+    }
+  }
+
+  for (let N = 15; N <= 55; N++) {
+    for (let k = 2; k <= Math.min(8, N - 2); k++) {
+      if (b.count >= 340) break;
+      const ans = fracStr(N - k, N);
+      b.addChoice(
+        `1 dan ${N} gacha raqamlangan kartochkalardan bittasi olindi. Raqamning ${k} dan katta bo'lish ehtimolligini toping.`,
+        ans,
+        pickStrDistractors(ans, [fracStr(k, N), fracStr(N - k + 1, N), fracStr(1, N)]),
+        `${k} dan katta sonlar ${k + 1}..${N} (${N - k} ta): P = ${N - k}/${N} = ${ans}.`,
+      );
+    }
+  }
+
+  // Uyg'unmas hodisalar yig'indisi P(A ∪ B) = P(A) + P(B)
+  for (let p1 = 10; p1 <= 45; p1 += 5) {
+    for (let p2 = 10; p2 <= 45; p2 += 5) {
+      if (b.count >= 340 || p1 + p2 >= 100) break;
+      const s = ((p1 + p2) / 100).toFixed(2).replace(".", ",");
+      b.addFill(
+        `Uyg'unmas A va B hodisalar uchun P(A) = ${(p1 / 100).toFixed(2).replace(".", ",")} va P(B) = ${(p2 / 100).toFixed(2).replace(".", ",")}. P(A ∪ B) ni toping (vergul bilan).`,
+        [s, s.replace(",", ".")],
+        `P(A ∪ B) = P(A) + P(B) = ${s}.`,
+      );
+    }
+  }
+
   return b.build();
 }
 
@@ -1039,6 +1234,34 @@ function makeTopic36(): QuizOutput {
           `${n}`,
           pickNumDistractors(n, [m, n + 20, Math.round(n / 2)]),
           `n = m / W = ${m} / ${wDec} = ${n}.`,
+        );
+      }
+    }
+  }
+
+  // 3) Qarama-qarshi hodisa chastotasi W(not A) = 1 - W(A) va vergulli nisbiy chastotalar (475–478-mashqlar)
+  for (const n of [100, 200, 250, 500, 1000]) {
+    for (let k = 1; k <= 19; k++) {
+      if (b.count >= 340) break;
+      const m = Math.max(1, Math.min(n - 1, Math.round((n * k) / 20)));
+      const notM = n - m;
+      const wNotDec = (notM / n).toFixed(2).replace(".", ",");
+      b.addChoice(
+        `${n} ta sinovda A hodisa ${m} marta ro'y berdi. Qarama-qarshi Ā hodisaning nisbiy chastotasini toping.`,
+        wNotDec,
+        pickStrDistractors(wNotDec, [
+          (m / n).toFixed(2).replace(".", ","),
+          ((notM + 1) / n).toFixed(2).replace(".", ","),
+          "0,50",
+        ]),
+        `W(Ā) = 1 − ${m}/${n} = ${notM}/${n} = ${wNotDec}.`,
+      );
+      if (b.count < 340) {
+        const wFrac = fracStr(m, n);
+        b.addTF(
+          `${n} ta sinovda hodisa ${m} marta kuzatilgan bo'lsa, nisbiy chastota ${wFrac} ga teng.`,
+          true,
+          `W = ${m}/${n} = ${wFrac}.`,
         );
       }
     }
@@ -1288,6 +1511,40 @@ function makeTopic38(): QuizOutput {
           `M(X) = ${x1}·0,5 + ${x2}·0,5 = ${mx}.`,
         );
       }
+    }
+  }
+
+  // 5) Chastotalar jadvali bo'yicha o'rta qiymat, reprezentativ tanlanma (488-mashq) va ikki qiymatli dispersiya
+  for (let w1 = 2; w1 <= 8; w1++) {
+    for (let x1 = 1; x1 <= 6; x1++) {
+      for (let d = 2; d <= 8; d += 2) {
+        if (b.count >= 340) break;
+        const x2 = x1 + d;
+        const m1 = w1;
+        const m2 = w1;
+        const weightedMean = (x1 * m1 + x2 * m2) / (m1 + m2);
+        if (Number.isInteger(weightedMean)) {
+          b.addChoice(
+            `Chastotalar jadvalida ${x1} qiymat ${m1} marta, ${x2} qiymat ${m2} marta uchradi. Tanlanma o'rta qiymatini toping.`,
+            `${weightedMean}`,
+            pickNumDistractors(weightedMean, [x1, x2, m1 + m2]),
+            `x̄ = (${x1}·${m1} + ${x2}·${m2})/(${m1} + ${m2}) = ${weightedMean}.`,
+          );
+        }
+      }
+    }
+  }
+
+  for (let sample = 20; sample <= 200; sample += 15) {
+    for (const def of [1, 2, 3, 4, 5]) {
+      if (b.count >= 340) break;
+      const pop = sample * 10;
+      const est = def * 10;
+      b.addFill(
+        `${pop} ta detaldan tasodifiy tanlab olingan ${sample} ta detalning ${def} tasi yaroqsiz chiqdi. Butun partiyada taxminan nechta yaroqsiz detal bor?`,
+        `${est}`,
+        `Nisbiy chastota ${def}/${sample} ⇒ ${pop}·(${def}/${sample}) = ${est} ta.`,
+      );
     }
   }
 

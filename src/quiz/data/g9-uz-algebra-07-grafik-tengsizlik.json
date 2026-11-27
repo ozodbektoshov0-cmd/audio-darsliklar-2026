@@ -1,0 +1,3508 @@
+{
+  "id": "g9-uz-algebra-07-grafik-tengsizlik",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "7-§. Kvadrat tengsizlikni grafik yordamida yechish",
+  "title": "7-§. Kvadrat tengsizlikni grafik yordamida yechish",
+  "source": "Algebra 9-sinf (2019), I bob, 7-§, 28–32-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "y = ax² + bx + c parabola a < 0 va D > 0 bo'lganda qaysi oraliqda Ox o'qidan yuqorida yotadi?",
+      "options": [
+        "(x₁; x₂) — ildizlar orasida",
+        "Butun son o'qida",
+        "Hech qayerda",
+        "(−∞; x₁) ∪ (x₂; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Shoxlari pastga qaragan parabola ikki ildizi orasida Ox o'qidan yuqorida bo'ladi."
+    },
+    {
+      "type": "choice",
+      "q": "Agar parabola Ox o'qidan to'liq pastda yotsa, u holda a va D qanday ishorali bo'ladi?",
+      "options": [
+        "a < 0 va D < 0",
+        "a > 0 va D = 0",
+        "a > 0 va D < 0",
+        "a < 0 va D > 0"
+      ],
+      "answer": 0,
+      "explain": "Shoxlar pastga (a < 0) va kesishish nuqtasi yo'q (D < 0)."
+    },
+    {
+      "type": "truefalse",
+      "q": "y = −x² + 2x − 5 funksiya grafigi butunlay Ox o'qidan pastda joylashadi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = 4 − 20 = −16 < 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "a > 0 va D = 0 da ax² + bx + c < 0 tengsizlik bitta yechimga ega.",
+      "answer": false,
+      "explain": "D = 0, a > 0 da parabola Ox dan pastga o'tmaydi, yechim ∅."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 11x + 30 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(-5; +∞)",
+        "(-6; -5)",
+        "(−∞; -6) ∪ (-5; +∞)",
+        "[-6; -5]"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da parabola (-6; 0) dan chapda va (-5; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 10x − 24 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "-5",
+      "explain": "(-6; -4) oraliqdagi eng katta butun son -5."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 9x − 18 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -6]",
+        "(−∞; -6) ∪ (-3; +∞)",
+        "(-6; -3)",
+        "[-6; -3]"
+      ],
+      "answer": 2,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-6; -3) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 8x − 12 < 0 tengsizlikni yeching.",
+      "options": [
+        "[-6; -2]",
+        "(-6; -2)",
+        "(-6; +∞)",
+        "(−∞; -6) ∪ (-2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 6 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "[-6; -1]",
+        "(-6; -1)",
+        "(-1; +∞)",
+        "(−∞; -6) ∪ (-1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da parabola (-6; 0) dan chapda va (-1; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 6x funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "-1",
+      "explain": "(-6; 0) oraliqdagi eng katta butun son -1."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 5x + 6 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -6]",
+        "(-6; 1)",
+        "[-6; 1]",
+        "(−∞; -6) ∪ (1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-6; 1) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 4x + 12 < 0 tengsizlikni yeching.",
+      "options": [
+        "[-6; 2]",
+        "(-6; 2)",
+        "(−∞; -6) ∪ (2; +∞)",
+        "(-6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x − 18 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(−∞; -6) ∪ (3; +∞)",
+        "(3; +∞)",
+        "[-6; 3]",
+        "(-6; 3)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 da parabola (-6; 0) dan chapda va (3; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 2x + 24 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "3",
+      "explain": "(-6; 4) oraliqdagi eng katta butun son 3."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − x + 30 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -6]",
+        "(-6; 5)",
+        "[-6; 5]",
+        "(−∞; -6) ∪ (5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-6; 5) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 36 < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -6) ∪ (6; +∞)",
+        "[-6; 6]",
+        "(-6; +∞)",
+        "(-6; 6)"
+      ],
+      "answer": 0,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 42 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(−∞; -6) ∪ (7; +∞)",
+        "(7; +∞)",
+        "[-6; 7]",
+        "(-6; 7)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 da parabola (-6; 0) dan chapda va (7; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 9x − 20 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -5) ∪ (-4; +∞)",
+        "(−∞; -5]",
+        "[-5; -4]",
+        "(-5; -4)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-5; -4) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 8x − 15 < 0 tengsizlikni yeching.",
+      "options": [
+        "[-5; -3]",
+        "(-5; +∞)",
+        "(−∞; -5) ∪ (-3; +∞)",
+        "(-5; -3)"
+      ],
+      "answer": 2,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 10 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(−∞; -5) ∪ (-2; +∞)",
+        "(-2; +∞)",
+        "[-5; -2]",
+        "(-5; -2)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 da parabola (-5; 0) dan chapda va (-2; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 6x − 5 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "-2",
+      "explain": "(-5; -1) oraliqdagi eng katta butun son -2."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 5x > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -5]",
+        "[-5; 0]",
+        "(−∞; -5) ∪ (0; +∞)",
+        "(-5; 0)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-5; 0) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 4x + 5 < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (1; +∞)",
+        "[-5; 1]",
+        "(-5; 1)",
+        "(-5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x − 10 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(-5; 2)",
+        "(2; +∞)",
+        "[-5; 2]",
+        "(−∞; -5) ∪ (2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da parabola (-5; 0) dan chapda va (2; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 2x + 15 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "2",
+      "explain": "(-5; 3) oraliqdagi eng katta butun son 2."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − x + 20 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -5) ∪ (4; +∞)",
+        "[-5; 4]",
+        "(-5; 4)",
+        "(−∞; -5]"
+      ],
+      "answer": 2,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-5; 4) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 25 < 0 tengsizlikni yeching.",
+      "options": [
+        "(-5; 5)",
+        "(-5; +∞)",
+        "[-5; 5]",
+        "(−∞; -5) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 30 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(-5; 6)",
+        "[-5; 6]",
+        "(6; +∞)",
+        "(−∞; -5) ∪ (6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da parabola (-5; 0) dan chapda va (6; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 2x + 35 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "6",
+      "explain": "(-5; 7) oraliqdagi eng katta butun son 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 12 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "[-4; -3]",
+        "(-3; +∞)",
+        "(−∞; -4) ∪ (-3; +∞)",
+        "(-4; -3)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da parabola (-4; 0) dan chapda va (-3; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 6x − 8 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "-3",
+      "explain": "(-4; -2) oraliqdagi eng katta butun son -3."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 5x − 4 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "[-4; -1]",
+        "(-4; -1)",
+        "(−∞; -4]",
+        "(−∞; -4) ∪ (-1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-4; -1) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 4x < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; 0)",
+        "[-4; 0]",
+        "(-4; +∞)",
+        "(−∞; -4) ∪ (0; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x − 4 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "[-4; 1]",
+        "(1; +∞)",
+        "(−∞; -4) ∪ (1; +∞)",
+        "(-4; 1)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da parabola (-4; 0) dan chapda va (1; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 2x + 8 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "1",
+      "explain": "(-4; 2) oraliqdagi eng katta butun son 1."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − x + 12 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -4]",
+        "(-4; 3)",
+        "(−∞; -4) ∪ (3; +∞)",
+        "[-4; 3]"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-4; 3) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 16 < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (4; +∞)",
+        "[-4; 4]",
+        "(-4; +∞)",
+        "(-4; 4)"
+      ],
+      "answer": 0,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 20 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(-4; 5)",
+        "(5; +∞)",
+        "[-4; 5]",
+        "(−∞; -4) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da parabola (-4; 0) dan chapda va (5; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 2x + 24 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "5",
+      "explain": "(-4; 6) oraliqdagi eng katta butun son 5."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 3x + 28 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "[-4; 7]",
+        "(−∞; -4) ∪ (7; +∞)",
+        "(−∞; -4]",
+        "(-4; 7)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-4; 7) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 5x − 6 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "[-3; -2]",
+        "(−∞; -3) ∪ (-2; +∞)",
+        "(-3; -2)",
+        "(−∞; -3]"
+      ],
+      "answer": 2,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-3; -2) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 4x − 3 < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; -1)",
+        "(−∞; -3) ∪ (-1; +∞)",
+        "[-3; -1]",
+        "(-3; +∞)"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "[-3; 0]",
+        "(0; +∞)",
+        "(-3; 0)",
+        "(−∞; -3) ∪ (0; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da parabola (-3; 0) dan chapda va (0; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 2x + 3 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "0",
+      "explain": "(-3; 1) oraliqdagi eng katta butun son 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − x + 6 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -3) ∪ (2; +∞)",
+        "(-3; 2)",
+        "[-3; 2]",
+        "(−∞; -3]"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-3; 2) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 9 < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -3) ∪ (3; +∞)",
+        "[-3; 3]",
+        "(-3; +∞)",
+        "(-3; 3)"
+      ],
+      "answer": 0,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 12 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "[-3; 4]",
+        "(−∞; -3) ∪ (4; +∞)",
+        "(4; +∞)",
+        "(-3; 4)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 da parabola (-3; 0) dan chapda va (4; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 2x + 15 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "4",
+      "explain": "(-3; 5) oraliqdagi eng katta butun son 4."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 3x + 18 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "[-3; 6]",
+        "(-3; 6)",
+        "(−∞; -3) ∪ (6; +∞)",
+        "(−∞; -3]"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-3; 6) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 4x + 21 < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; 7)",
+        "(−∞; -3) ∪ (7; +∞)",
+        "[-3; 7]",
+        "(-3; +∞)"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x + 2 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(-1; +∞)",
+        "(-2; -1)",
+        "[-2; -1]",
+        "(−∞; -2) ∪ (-1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da parabola (-2; 0) dan chapda va (-1; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² − 2x funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "-1",
+      "explain": "(-2; 0) oraliqdagi eng katta butun son -1."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − x + 2 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -2) ∪ (1; +∞)",
+        "[-2; 1]",
+        "(-2; 1)",
+        "(−∞; -2]"
+      ],
+      "answer": 2,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-2; 1) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 4 < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (2; +∞)",
+        "[-2; 2]",
+        "(-2; 2)",
+        "(-2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 6 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "[-2; 3]",
+        "(−∞; -2) ∪ (3; +∞)",
+        "(3; +∞)",
+        "(-2; 3)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 da parabola (-2; 0) dan chapda va (3; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 2x + 8 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "3",
+      "explain": "(-2; 4) oraliqdagi eng katta butun son 3."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 3x + 10 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(-2; 5)",
+        "(−∞; -2]",
+        "(−∞; -2) ∪ (5; +∞)",
+        "[-2; 5]"
+      ],
+      "answer": 0,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-2; 5) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 4x + 12 < 0 tengsizlikni yeching.",
+      "options": [
+        "[-2; 6]",
+        "(−∞; -2) ∪ (6; +∞)",
+        "(-2; +∞)",
+        "(-2; 6)"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x − 14 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "[-2; 7]",
+        "(-2; 7)",
+        "(−∞; -2) ∪ (7; +∞)",
+        "(7; +∞)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da parabola (-2; 0) dan chapda va (7; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − x > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -1) ∪ (0; +∞)",
+        "(-1; 0)",
+        "[-1; 0]",
+        "(−∞; -1]"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-1; 0) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 1 < 0 tengsizlikni yeching.",
+      "options": [
+        "(-1; +∞)",
+        "[-1; 1]",
+        "(-1; 1)",
+        "(−∞; -1) ∪ (1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x − 2 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(-1; 2)",
+        "(2; +∞)",
+        "(−∞; -1) ∪ (2; +∞)",
+        "[-1; 2]"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da parabola (-1; 0) dan chapda va (2; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 2x + 3 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "2",
+      "explain": "(-1; 3) oraliqdagi eng katta butun son 2."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 3x + 4 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; -1) ∪ (4; +∞)",
+        "(-1; 4)",
+        "[-1; 4]",
+        "(−∞; -1]"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (-1; 4) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 4x + 5 < 0 tengsizlikni yeching.",
+      "options": [
+        "(-1; 5)",
+        "[-1; 5]",
+        "(-1; +∞)",
+        "(−∞; -1) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x − 6 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(6; +∞)",
+        "(-1; 6)",
+        "(−∞; -1) ∪ (6; +∞)",
+        "[-1; 6]"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da parabola (-1; 0) dan chapda va (6; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 6x + 7 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "6",
+      "explain": "(-1; 7) oraliqdagi eng katta butun son 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "[0; 1]",
+        "(1; +∞)",
+        "(−∞; 0) ∪ (1; +∞)",
+        "(0; 1)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da parabola (0; 0) dan chapda va (1; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 2x funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "1",
+      "explain": "(0; 2) oraliqdagi eng katta butun son 1."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 3x > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; 0]",
+        "(0; 3)",
+        "(−∞; 0) ∪ (3; +∞)",
+        "[0; 3]"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (0; 3) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 4x < 0 tengsizlikni yeching.",
+      "options": [
+        "[0; 4]",
+        "(0; 4)",
+        "(0; +∞)",
+        "(−∞; 0) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(0; 5)",
+        "[0; 5]",
+        "(−∞; 0) ∪ (5; +∞)",
+        "(5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da parabola (0; 0) dan chapda va (5; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 6x funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "5",
+      "explain": "(0; 6) oraliqdagi eng katta butun son 5."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 7x > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(0; 7)",
+        "(−∞; 0) ∪ (7; +∞)",
+        "(−∞; 0]",
+        "[0; 7]"
+      ],
+      "answer": 0,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (0; 7) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 3x − 2 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(1; 2)",
+        "(−∞; 1) ∪ (2; +∞)",
+        "[1; 2]",
+        "(−∞; 1]"
+      ],
+      "answer": 0,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (1; 2) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 4x − 3 < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; 1) ∪ (3; +∞)",
+        "(1; +∞)",
+        "[1; 3]",
+        "(1; 3)"
+      ],
+      "answer": 0,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x + 4 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(4; +∞)",
+        "[1; 4]",
+        "(1; 4)",
+        "(−∞; 1) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da parabola (1; 0) dan chapda va (4; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 6x − 5 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "4",
+      "explain": "(1; 5) oraliqdagi eng katta butun son 4."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 7x − 6 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "[1; 6]",
+        "(−∞; 1]",
+        "(−∞; 1) ∪ (6; +∞)",
+        "(1; 6)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (1; 6) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 8x − 7 < 0 tengsizlikni yeching.",
+      "options": [
+        "(1; +∞)",
+        "[1; 7]",
+        "(1; 7)",
+        "(−∞; 1) ∪ (7; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x + 6 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(−∞; 2) ∪ (3; +∞)",
+        "(2; 3)",
+        "[2; 3]",
+        "(3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 da parabola (2; 0) dan chapda va (3; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 6x − 8 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "3",
+      "explain": "(2; 4) oraliqdagi eng katta butun son 3."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 7x − 10 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(2; 5)",
+        "[2; 5]",
+        "(−∞; 2]",
+        "(−∞; 2) ∪ (5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (2; 5) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 8x − 12 < 0 tengsizlikni yeching.",
+      "options": [
+        "(2; 6)",
+        "(2; +∞)",
+        "(−∞; 2) ∪ (6; +∞)",
+        "[2; 6]"
+      ],
+      "answer": 2,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 9x + 14 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(2; 7)",
+        "[2; 7]",
+        "(7; +∞)",
+        "(−∞; 2) ∪ (7; +∞)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 da parabola (2; 0) dan chapda va (7; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 7x − 12 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; 3]",
+        "(3; 4)",
+        "(−∞; 3) ∪ (4; +∞)",
+        "[3; 4]"
+      ],
+      "answer": 1,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (3; 4) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 8x − 15 < 0 tengsizlikni yeching.",
+      "options": [
+        "[3; 5]",
+        "(3; 5)",
+        "(−∞; 3) ∪ (5; +∞)",
+        "(3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "a = −1 < 0 da parabola ildizlardan tashqarida Ox o'qidan pastda yotadi."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 9x + 18 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "[3; 6]",
+        "(3; 6)",
+        "(−∞; 3) ∪ (6; +∞)",
+        "(6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 da parabola (3; 0) dan chapda va (6; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 10x − 21 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "6",
+      "explain": "(3; 7) oraliqdagi eng katta butun son 6."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 9x + 20 parabola qaysi oraliqda Ox o'qidan yuqorida joylashadi?",
+      "options": [
+        "(−∞; 4) ∪ (5; +∞)",
+        "(4; 5)",
+        "[4; 5]",
+        "(5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 da parabola (4; 0) dan chapda va (5; 0) dan o'ngda yuqorida."
+    },
+    {
+      "type": "fill",
+      "q": "y = −x² + 10x − 24 funksiya Ox o'qidan yuqorida bo'ladigan eng katta butun x qiymatini toping.",
+      "answer": "5",
+      "explain": "(4; 6) oraliqdagi eng katta butun son 5."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 11x − 28 > 0 tengsizlikni yeching (shoxlari pastga).",
+      "options": [
+        "(−∞; 4) ∪ (7; +∞)",
+        "[4; 7]",
+        "(−∞; 4]",
+        "(4; 7)"
+      ],
+      "answer": 3,
+      "explain": "a = −1 < 0 bo'lgani uchun parabola (4; 7) da Ox o'qidan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 18 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 8x − 19 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -12 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 20 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda",
+        "4 ta chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 8x − 21 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -20 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 22 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 8x − 23 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -28 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 24 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "4 ta chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 8x − 25 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -36 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 7x − 14 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -7 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 7x + 15 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 7x − 16 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -15 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 7x + 17 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 7x − 18 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -23 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 7x + 19 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 7x − 20 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -31 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 7x + 21 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 11 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 6x − 12 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -12 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 13 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 6x − 14 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -20 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 15 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 6x − 16 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -28 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 17 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 6x − 18 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -36 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 5x − 8 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -7 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x + 9 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 5x − 10 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -15 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x + 11 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 5x − 12 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -23 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x + 13 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 5x − 14 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -31 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 5x + 15 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 6 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 4x − 7 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -12 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 8 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 4x − 9 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -20 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 10 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 4x − 11 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -28 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 12 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 4x − 13 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -36 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 3x − 4 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -7 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x + 5 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "4 ta chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 3x − 6 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -15 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x + 7 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 3x − 8 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -23 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x + 9 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 3x − 10 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -31 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 3x + 11 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x + 3 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 2x − 4 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -12 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x + 5 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 2x − 6 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -20 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x + 7 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 2x − 8 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -28 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x + 9 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 2x − 10 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -36 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − x − 2 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -7 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x + 3 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − x − 4 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -15 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x + 5 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − x − 6 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -23 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x + 7 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − x − 8 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -31 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − x + 9 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "4 ta chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 3 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -12 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 5 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -20 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 7 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -28 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 9 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -36 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + x − 2 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -7 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x + 3 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda",
+        "4 ta chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + x − 4 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -15 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x + 5 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + x − 6 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -23 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x + 7 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + x − 8 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -31 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + x + 9 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x + 3 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 2x − 4 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -12 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x + 5 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 2x − 6 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -20 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x + 7 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 2x − 8 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -28 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 2x + 9 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 2x − 10 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -36 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 3x − 4 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -7 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x + 5 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 3x − 6 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -15 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x + 7 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 3x − 8 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -23 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x + 9 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 3x − 10 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -31 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 3x + 11 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 6 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 4x − 7 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -12 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 8 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 4x − 9 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -20 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 10 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 4x − 11 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -28 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 4x + 12 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 4x − 13 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -36 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 5x − 8 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -7 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 5x + 9 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 5x − 10 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -15 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 5x + 11 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 5x − 12 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -23 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 5x + 13 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 5x − 14 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -31 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 5x + 15 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 11 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 6x − 12 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -12 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 13 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "Faqat I chorakda",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 6x − 14 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -20 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 15 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 6x − 16 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -28 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 6x + 17 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 6x − 18 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -36 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 7x − 14 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -7 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 15 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 7x − 16 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -15 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 17 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda",
+        "4 ta chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 7x − 18 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -23 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 19 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 7x − 20 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -31 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 7x + 21 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "2 ta (I va II chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 18 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 8x − 19 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -12 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 20 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)",
+        "2 ta (III va IV chorakda)"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 8x − 21 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -20 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 22 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (III va IV chorakda)",
+        "4 ta chorakda",
+        "Faqat I chorakda",
+        "2 ta (I va II chorakda)"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 8x − 23 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -28 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² + 8x + 24 funksiya grafigi nechta chorakda joylashadi?",
+      "options": [
+        "2 ta (I va II chorakda)",
+        "4 ta chorakda",
+        "2 ta (III va IV chorakda)",
+        "Faqat I chorakda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va D < 0 bo'lgani uchun barcha nuqtalarda y > 0, ya'ni I va II choraklarda."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 8x − 25 < 0 tengsizlik barcha x ∈ R uchun bajariladi.",
+      "answer": true,
+      "explain": "a = −1 < 0 va D = -36 < 0, parabola Ox dan pastda."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 24x + 144 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ -12 barcha haqiqiy sonlar",
+        "(-12; +∞)",
+        "x = -12",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 0,
+      "explain": "((x + 12))² > 0 faqat x = -12 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 24x + 144 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "(−∞; -12]",
+        "Barcha haqiqiy sonlar R",
+        "x = -12"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi (-12; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -12 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 22x + 121 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "(-11; +∞)",
+        "x = -11",
+        "x ≠ -11 barcha haqiqiy sonlar"
+      ],
+      "answer": 3,
+      "explain": "((x + 11))² > 0 faqat x = -11 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 22x + 121 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = -11",
+        "Bo'sh to'plam ∅",
+        "Barcha haqiqiy sonlar R",
+        "(−∞; -11]"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi (-11; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -11 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 20x + 100 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "x ≠ -10 barcha haqiqiy sonlar",
+        "x = -10",
+        "(-10; +∞)"
+      ],
+      "answer": 1,
+      "explain": "((x + 10))² > 0 faqat x = -10 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 20x + 100 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Barcha haqiqiy sonlar R",
+        "Bo'sh to'plam ∅",
+        "x = -10",
+        "(−∞; -10]"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi (-10; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -10 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 18x + 81 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "(-9; +∞)",
+        "x = -9",
+        "x ≠ -9 barcha haqiqiy sonlar"
+      ],
+      "answer": 3,
+      "explain": "((x + 9))² > 0 faqat x = -9 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 18x + 81 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; -9]",
+        "Bo'sh to'plam ∅",
+        "Barcha haqiqiy sonlar R",
+        "x = -9"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi (-9; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -9 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 16x + 64 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ -8 barcha haqiqiy sonlar",
+        "Bo'sh to'plam ∅",
+        "x = -8",
+        "(-8; +∞)"
+      ],
+      "answer": 0,
+      "explain": "((x + 8))² > 0 faqat x = -8 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 16x + 64 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "(−∞; -8]",
+        "x = -8",
+        "Barcha haqiqiy sonlar R"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi (-8; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -8 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 14x + 49 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ -7 barcha haqiqiy sonlar",
+        "Bo'sh to'plam ∅",
+        "x = -7",
+        "(-7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "((x + 7))² > 0 faqat x = -7 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 14x + 49 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "x = -7",
+        "(−∞; -7]",
+        "Barcha haqiqiy sonlar R"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi (-7; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -7 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 12x + 36 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ -6 barcha haqiqiy sonlar",
+        "Bo'sh to'plam ∅",
+        "x = -6",
+        "(-6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "((x + 6))² > 0 faqat x = -6 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 12x + 36 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Barcha haqiqiy sonlar R",
+        "x = -6",
+        "(−∞; -6]",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi (-6; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -6 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 10x + 25 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = -5",
+        "x ≠ -5 barcha haqiqiy sonlar",
+        "Bo'sh to'plam ∅",
+        "(-5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "((x + 5))² > 0 faqat x = -5 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 10x + 25 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; -5]",
+        "Barcha haqiqiy sonlar R",
+        "Bo'sh to'plam ∅",
+        "x = -5"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi (-5; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -5 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 8x + 16 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = -4",
+        "(-4; +∞)",
+        "x ≠ -4 barcha haqiqiy sonlar",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 2,
+      "explain": "((x + 4))² > 0 faqat x = -4 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 8x + 16 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = -4",
+        "Barcha haqiqiy sonlar R",
+        "(−∞; -4]",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi (-4; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -4 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 6x + 9 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(-3; +∞)",
+        "x ≠ -3 barcha haqiqiy sonlar",
+        "Bo'sh to'plam ∅",
+        "x = -3"
+      ],
+      "answer": 1,
+      "explain": "((x + 3))² > 0 faqat x = -3 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 6x + 9 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Barcha haqiqiy sonlar R",
+        "Bo'sh to'plam ∅",
+        "x = -3",
+        "(−∞; -3]"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi (-3; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -3 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 4x + 4 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ -2 barcha haqiqiy sonlar",
+        "Bo'sh to'plam ∅",
+        "(-2; +∞)",
+        "x = -2"
+      ],
+      "answer": 0,
+      "explain": "((x + 2))² > 0 faqat x = -2 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 4x + 4 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Barcha haqiqiy sonlar R",
+        "(−∞; -2]",
+        "x = -2",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi (-2; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -2 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 2x + 1 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ -1 barcha haqiqiy sonlar",
+        "x = -1",
+        "Bo'sh to'plam ∅",
+        "(-1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "((x + 1))² > 0 faqat x = -1 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² + 2x + 1 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = -1",
+        "Barcha haqiqiy sonlar R",
+        "Bo'sh to'plam ∅",
+        "(−∞; -1]"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi (-1; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = -1 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 2x + 1 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(1; +∞)",
+        "x ≠ 1 barcha haqiqiy sonlar",
+        "x = 1",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 1,
+      "explain": "((x − 1))² > 0 faqat x = 1 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 2x + 1 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "(−∞; 1]",
+        "Barcha haqiqiy sonlar R",
+        "x = 1"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi (1; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 1 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 4x + 4 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = 2",
+        "Bo'sh to'plam ∅",
+        "x ≠ 2 barcha haqiqiy sonlar",
+        "(2; +∞)"
+      ],
+      "answer": 2,
+      "explain": "((x − 2))² > 0 faqat x = 2 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 4x + 4 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 2]",
+        "x = 2",
+        "Bo'sh to'plam ∅",
+        "Barcha haqiqiy sonlar R"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi (2; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 2 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 6x + 9 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = 3",
+        "(3; +∞)",
+        "Bo'sh to'plam ∅",
+        "x ≠ 3 barcha haqiqiy sonlar"
+      ],
+      "answer": 3,
+      "explain": "((x − 3))² > 0 faqat x = 3 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 6x + 9 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 3]",
+        "x = 3",
+        "Barcha haqiqiy sonlar R",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi (3; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 3 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 8x + 16 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(4; +∞)",
+        "x ≠ 4 barcha haqiqiy sonlar",
+        "x = 4",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 1,
+      "explain": "((x − 4))² > 0 faqat x = 4 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 8x + 16 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 4]",
+        "x = 4",
+        "Barcha haqiqiy sonlar R",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi (4; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 4 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 10x + 25 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "x = 5",
+        "(5; +∞)",
+        "x ≠ 5 barcha haqiqiy sonlar"
+      ],
+      "answer": 3,
+      "explain": "((x − 5))² > 0 faqat x = 5 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 10x + 25 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "x = 5",
+        "Barcha haqiqiy sonlar R",
+        "(−∞; 5]"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi (5; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 5 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 12x + 36 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = 6",
+        "x ≠ 6 barcha haqiqiy sonlar",
+        "(6; +∞)",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 1,
+      "explain": "((x − 6))² > 0 faqat x = 6 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 12x + 36 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Barcha haqiqiy sonlar R",
+        "Bo'sh to'plam ∅",
+        "(−∞; 6]",
+        "x = 6"
+      ],
+      "answer": 3,
+      "explain": "Parabola uchi (6; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 6 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 14x + 49 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ 7 barcha haqiqiy sonlar",
+        "(7; +∞)",
+        "Bo'sh to'plam ∅",
+        "x = 7"
+      ],
+      "answer": 0,
+      "explain": "((x − 7))² > 0 faqat x = 7 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 14x + 49 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 7]",
+        "Bo'sh to'plam ∅",
+        "x = 7",
+        "Barcha haqiqiy sonlar R"
+      ],
+      "answer": 2,
+      "explain": "Parabola uchi (7; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 7 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 16x + 64 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(8; +∞)",
+        "Bo'sh to'plam ∅",
+        "x ≠ 8 barcha haqiqiy sonlar",
+        "x = 8"
+      ],
+      "answer": 2,
+      "explain": "((x − 8))² > 0 faqat x = 8 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 16x + 64 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = 8",
+        "(−∞; 8]",
+        "Barcha haqiqiy sonlar R",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi (8; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 8 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 18x + 81 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ 9 barcha haqiqiy sonlar",
+        "(9; +∞)",
+        "Bo'sh to'plam ∅",
+        "x = 9"
+      ],
+      "answer": 0,
+      "explain": "((x − 9))² > 0 faqat x = 9 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 18x + 81 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "x = 9",
+        "(−∞; 9]",
+        "Barcha haqiqiy sonlar R"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi (9; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 9 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 20x + 100 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ 10 barcha haqiqiy sonlar",
+        "x = 10",
+        "Bo'sh to'plam ∅",
+        "(10; +∞)"
+      ],
+      "answer": 0,
+      "explain": "((x − 10))² > 0 faqat x = 10 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 20x + 100 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = 10",
+        "Barcha haqiqiy sonlar R",
+        "(−∞; 10]",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi (10; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 10 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 22x + 121 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "(11; +∞)",
+        "x ≠ 11 barcha haqiqiy sonlar",
+        "x = 11"
+      ],
+      "answer": 2,
+      "explain": "((x − 11))² > 0 faqat x = 11 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 22x + 121 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 11]",
+        "x = 11",
+        "Bo'sh to'plam ∅",
+        "Barcha haqiqiy sonlar R"
+      ],
+      "answer": 1,
+      "explain": "Parabola uchi (11; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 11 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 24x + 144 > 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ 12 barcha haqiqiy sonlar",
+        "(12; +∞)",
+        "x = 12",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 0,
+      "explain": "((x − 12))² > 0 faqat x = 12 urinish nuqtasidan tashqari barcha x larda bajariladi."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda x² − 24x + 144 ≤ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = 12",
+        "Barcha haqiqiy sonlar R",
+        "(−∞; 12]",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 0,
+      "explain": "Parabola uchi (12; 0) da Ox ga urinadi va shoxlari yuqoriga, demak faqat x = 12 da ≤ 0."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 24x − 144 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = -12",
+        "[-12; +∞)",
+        "Bo'sh to'plam ∅",
+        "x ≠ -12"
+      ],
+      "answer": 0,
+      "explain": "Shoxlari pastga qaragan parabola (-12; 0) da urinadi, shuning uchun ≥ 0 faqat x = -12 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 24x − 144 < 0 tengsizlik x ≠ -12 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 12))² < 0 faqat x = -12 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 22x − 121 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "x = -11",
+        "[-11; +∞)",
+        "x ≠ -11"
+      ],
+      "answer": 1,
+      "explain": "Shoxlari pastga qaragan parabola (-11; 0) da urinadi, shuning uchun ≥ 0 faqat x = -11 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 22x − 121 < 0 tengsizlik x ≠ -11 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 11))² < 0 faqat x = -11 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 20x − 100 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = -10",
+        "x ≠ -10",
+        "[-10; +∞)",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 0,
+      "explain": "Shoxlari pastga qaragan parabola (-10; 0) da urinadi, shuning uchun ≥ 0 faqat x = -10 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 20x − 100 < 0 tengsizlik x ≠ -10 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 10))² < 0 faqat x = -10 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 18x − 81 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ -9",
+        "[-9; +∞)",
+        "x = -9",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 2,
+      "explain": "Shoxlari pastga qaragan parabola (-9; 0) da urinadi, shuning uchun ≥ 0 faqat x = -9 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 18x − 81 < 0 tengsizlik x ≠ -9 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 9))² < 0 faqat x = -9 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 16x − 64 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "x = -8",
+        "[-8; +∞)",
+        "x ≠ -8"
+      ],
+      "answer": 1,
+      "explain": "Shoxlari pastga qaragan parabola (-8; 0) da urinadi, shuning uchun ≥ 0 faqat x = -8 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 16x − 64 < 0 tengsizlik x ≠ -8 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 8))² < 0 faqat x = -8 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 14x − 49 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[-7; +∞)",
+        "x ≠ -7",
+        "Bo'sh to'plam ∅",
+        "x = -7"
+      ],
+      "answer": 3,
+      "explain": "Shoxlari pastga qaragan parabola (-7; 0) da urinadi, shuning uchun ≥ 0 faqat x = -7 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 14x − 49 < 0 tengsizlik x ≠ -7 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 7))² < 0 faqat x = -7 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 12x − 36 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ -6",
+        "Bo'sh to'plam ∅",
+        "[-6; +∞)",
+        "x = -6"
+      ],
+      "answer": 3,
+      "explain": "Shoxlari pastga qaragan parabola (-6; 0) da urinadi, shuning uchun ≥ 0 faqat x = -6 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 12x − 36 < 0 tengsizlik x ≠ -6 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 6))² < 0 faqat x = -6 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 10x − 25 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[-5; +∞)",
+        "x = -5",
+        "Bo'sh to'plam ∅",
+        "x ≠ -5"
+      ],
+      "answer": 1,
+      "explain": "Shoxlari pastga qaragan parabola (-5; 0) da urinadi, shuning uchun ≥ 0 faqat x = -5 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 10x − 25 < 0 tengsizlik x ≠ -5 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 5))² < 0 faqat x = -5 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 8x − 16 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "[-4; +∞)",
+        "x = -4",
+        "x ≠ -4"
+      ],
+      "answer": 2,
+      "explain": "Shoxlari pastga qaragan parabola (-4; 0) da urinadi, shuning uchun ≥ 0 faqat x = -4 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 8x − 16 < 0 tengsizlik x ≠ -4 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 4))² < 0 faqat x = -4 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 6x − 9 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[-3; +∞)",
+        "x ≠ -3",
+        "x = -3",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 2,
+      "explain": "Shoxlari pastga qaragan parabola (-3; 0) da urinadi, shuning uchun ≥ 0 faqat x = -3 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 6x − 9 < 0 tengsizlik x ≠ -3 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 3))² < 0 faqat x = -3 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 4x − 4 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "[-2; +∞)",
+        "x ≠ -2",
+        "x = -2"
+      ],
+      "answer": 3,
+      "explain": "Shoxlari pastga qaragan parabola (-2; 0) da urinadi, shuning uchun ≥ 0 faqat x = -2 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 4x − 4 < 0 tengsizlik x ≠ -2 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 2))² < 0 faqat x = -2 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² − 2x − 1 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ -1",
+        "x = -1",
+        "[-1; +∞)",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 1,
+      "explain": "Shoxlari pastga qaragan parabola (-1; 0) da urinadi, shuning uchun ≥ 0 faqat x = -1 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² − 2x − 1 < 0 tengsizlik x ≠ -1 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x + 1))² < 0 faqat x = -1 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 2x − 1 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[1; +∞)",
+        "x = 1",
+        "Bo'sh to'plam ∅",
+        "x ≠ 1"
+      ],
+      "answer": 1,
+      "explain": "Shoxlari pastga qaragan parabola (1; 0) da urinadi, shuning uchun ≥ 0 faqat x = 1 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 2x − 1 < 0 tengsizlik x ≠ 1 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 1))² < 0 faqat x = 1 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 4x − 4 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "[2; +∞)",
+        "x ≠ 2",
+        "x = 2"
+      ],
+      "answer": 3,
+      "explain": "Shoxlari pastga qaragan parabola (2; 0) da urinadi, shuning uchun ≥ 0 faqat x = 2 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 4x − 4 < 0 tengsizlik x ≠ 2 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 2))² < 0 faqat x = 2 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 6x − 9 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "[3; +∞)",
+        "x = 3",
+        "x ≠ 3"
+      ],
+      "answer": 2,
+      "explain": "Shoxlari pastga qaragan parabola (3; 0) da urinadi, shuning uchun ≥ 0 faqat x = 3 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 6x − 9 < 0 tengsizlik x ≠ 3 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 3))² < 0 faqat x = 3 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 8x − 16 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[4; +∞)",
+        "x = 4",
+        "x ≠ 4",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 1,
+      "explain": "Shoxlari pastga qaragan parabola (4; 0) da urinadi, shuning uchun ≥ 0 faqat x = 4 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 8x − 16 < 0 tengsizlik x ≠ 4 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 4))² < 0 faqat x = 4 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 10x − 25 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ 5",
+        "Bo'sh to'plam ∅",
+        "x = 5",
+        "[5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Shoxlari pastga qaragan parabola (5; 0) da urinadi, shuning uchun ≥ 0 faqat x = 5 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 10x − 25 < 0 tengsizlik x ≠ 5 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 5))² < 0 faqat x = 5 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 12x − 36 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = 6",
+        "Bo'sh to'plam ∅",
+        "x ≠ 6",
+        "[6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Shoxlari pastga qaragan parabola (6; 0) da urinadi, shuning uchun ≥ 0 faqat x = 6 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 12x − 36 < 0 tengsizlik x ≠ 6 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 6))² < 0 faqat x = 6 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 14x − 49 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "x = 7",
+        "[7; +∞)",
+        "x ≠ 7"
+      ],
+      "answer": 1,
+      "explain": "Shoxlari pastga qaragan parabola (7; 0) da urinadi, shuning uchun ≥ 0 faqat x = 7 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 14x − 49 < 0 tengsizlik x ≠ 7 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 7))² < 0 faqat x = 7 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 16x − 64 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[8; +∞)",
+        "x = 8",
+        "x ≠ 8",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 1,
+      "explain": "Shoxlari pastga qaragan parabola (8; 0) da urinadi, shuning uchun ≥ 0 faqat x = 8 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 16x − 64 < 0 tengsizlik x ≠ 8 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 8))² < 0 faqat x = 8 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 18x − 81 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x = 9",
+        "x ≠ 9",
+        "Bo'sh to'plam ∅",
+        "[9; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Shoxlari pastga qaragan parabola (9; 0) da urinadi, shuning uchun ≥ 0 faqat x = 9 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 18x − 81 < 0 tengsizlik x ≠ 9 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 9))² < 0 faqat x = 9 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 20x − 100 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "x ≠ 10",
+        "x = 10",
+        "Bo'sh to'plam ∅",
+        "[10; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Shoxlari pastga qaragan parabola (10; 0) da urinadi, shuning uchun ≥ 0 faqat x = 10 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 20x − 100 < 0 tengsizlik x ≠ 10 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 10))² < 0 faqat x = 10 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 22x − 121 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[11; +∞)",
+        "x = 11",
+        "x ≠ 11",
+        "Bo'sh to'plam ∅"
+      ],
+      "answer": 1,
+      "explain": "Shoxlari pastga qaragan parabola (11; 0) da urinadi, shuning uchun ≥ 0 faqat x = 11 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 22x − 121 < 0 tengsizlik x ≠ 11 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 11))² < 0 faqat x = 11 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "Grafik usulda −x² + 24x − 144 ≥ 0 tengsizlikning yechimini toping.",
+      "options": [
+        "Bo'sh to'plam ∅",
+        "[12; +∞)",
+        "x = 12",
+        "x ≠ 12"
+      ],
+      "answer": 2,
+      "explain": "Shoxlari pastga qaragan parabola (12; 0) da urinadi, shuning uchun ≥ 0 faqat x = 12 da."
+    },
+    {
+      "type": "truefalse",
+      "q": "−x² + 24x − 144 < 0 tengsizlik x ≠ 12 barcha haqiqiy sonlarda bajariladi.",
+      "answer": true,
+      "explain": "−((x − 12))² < 0 faqat x = 12 nuqtadan tashqari barcha x larda o'rinli."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 2x + 4 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda",
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qiga urinadi"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 4x + 7 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "Ox o'qiga urinadi",
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 6x + 12 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda",
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qiga urinadi"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 8x + 19 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda",
+        "Ox o'qiga urinadi"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 10x + 28 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "Ox o'qiga urinadi",
+        "To'liq Ox o'qidan pastda",
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qini 2 nuqtada kesadi"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 12x + 39 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qiga urinadi",
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 14x + 52 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "Ox o'qiga urinadi",
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda",
+        "To'liq Ox o'qidan yuqorida"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 16x + 67 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "To'liq Ox o'qidan pastda",
+        "Ox o'qini 2 nuqtada kesadi",
+        "Ox o'qiga urinadi",
+        "To'liq Ox o'qidan yuqorida"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 18x + 84 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda",
+        "Ox o'qiga urinadi",
+        "To'liq Ox o'qidan yuqorida"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 20x + 103 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "To'liq Ox o'qidan pastda",
+        "Ox o'qiga urinadi",
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qini 2 nuqtada kesadi"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 22x + 124 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "To'liq Ox o'qidan pastda",
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qiga urinadi",
+        "Ox o'qini 2 nuqtada kesadi"
+      ],
+      "answer": 1,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 24x + 147 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qiga urinadi",
+        "To'liq Ox o'qidan pastda",
+        "Ox o'qini 2 nuqtada kesadi"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 26x + 172 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda",
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qiga urinadi"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 28x + 199 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "Ox o'qiga urinadi",
+        "To'liq Ox o'qidan pastda",
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qini 2 nuqtada kesadi"
+      ],
+      "answer": 2,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 30x + 228 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "To'liq Ox o'qidan yuqorida",
+        "Ox o'qiga urinadi",
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda"
+      ],
+      "answer": 0,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    },
+    {
+      "type": "choice",
+      "q": "y = x² − 32x + 259 parabola grafigi Ox o'qiga nisbatan qanday joylashgan?",
+      "options": [
+        "Ox o'qini 2 nuqtada kesadi",
+        "To'liq Ox o'qidan pastda",
+        "Ox o'qiga urinadi",
+        "To'liq Ox o'qidan yuqorida"
+      ],
+      "answer": 3,
+      "explain": "a = 1 > 0 va y_min = 3 > 0 bo'lgani uchun parabola to'liq Ox dan yuqorida."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Musbat",
+      "Grafik Ox o'qidan yuqorida joylashgan qism"
+    ],
+    [
+      "Manfiy",
+      "Grafik Ox o'qidan pastda joylashgan qism"
+    ],
+    [
+      "Urinish",
+      "D = 0 da parabolaning Ox ga bitta nuqtada tegishi"
+    ],
+    [
+      "Chegaraviy",
+      "Nolga teng bo'ladigan x₁ va x₂ nuqtalar"
+    ],
+    [
+      "Grafik usul",
+      "Parabola eskiziga qarab ishorani aniqlash"
+    ],
+    [
+      "y > 0 sharti",
+      "Parabola Ox o'qidan yuqorida yotuvchi x lar"
+    ],
+    [
+      "y < 0 sharti",
+      "Parabola Ox o'qidan pastda yotuvchi x lar"
+    ],
+    [
+      "a > 0, D = 0",
+      "Parabola Ox dan yuqorida, faqat x₀ da urinadi"
+    ],
+    [
+      "a < 0, D = 0",
+      "Parabola Ox dan pastda, faqat x₀ da urinadi"
+    ],
+    [
+      "a < 0, D > 0",
+      "Ildizlar orasida parabola Ox dan yuqorida"
+    ],
+    [
+      "a > 0, D > 0",
+      "Ildizlar orasida parabola Ox dan pastda"
+    ],
+    [
+      "a < 0, D < 0",
+      "Parabola butunlay Ox dan pastda yotadi"
+    ],
+    [
+      "Bo'sh to'plam",
+      "Grafik talab qilingan yarim tekislikda yo'q"
+    ],
+    [
+      "Cheksiz yechim",
+      "Parabola to'liq talab qilingan sohada joylashgan"
+    ]
+  ]
+}

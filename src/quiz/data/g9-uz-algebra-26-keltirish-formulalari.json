@@ -1,0 +1,3734 @@
+{
+  "id": "g9-uz-algebra-26-keltirish-formulalari",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "26-§. Keltirish formulalari",
+  "title": "26-§. Keltirish formulalari",
+  "source": "Algebra 9-sinf (2019), III bob, 26-§, 129–135-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Keltirish formulalarida qaysi burchaklarda funksiyaning nomi kofunksiyasiga (sin ↔ cos, tg ↔ ctg) o'zgaradi?",
+      "options": [
+        "π ± α va 2π ± α larda",
+        "Hech qachon o'zgarmaydi",
+        "π/2 ± α va 3π/2 ± α larda",
+        "Faqat 2π − α da"
+      ],
+      "answer": 2,
+      "explain": "Vertikal o'q (90° va 270°) nuqtalarida funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/2 + α) ifoda nimaga teng?",
+      "options": [
+        "−cos α",
+        "sin α",
+        "cos α",
+        "−sin α"
+      ],
+      "answer": 2,
+      "explain": "π/2 da sin → cos ga almashadi; o'tkir α uchun π/2+α II chorakda va sin > 0."
+    },
+    {
+      "type": "choice",
+      "q": "cos(π/2 + α) ifoda nimaga teng?",
+      "options": [
+        "−sin α",
+        "sin α",
+        "cos α",
+        "−cos α"
+      ],
+      "answer": 0,
+      "explain": "II chorakda boshlang'ich cos manfiy, shuning uchun −sin α."
+    },
+    {
+      "type": "truefalse",
+      "q": "sin(180° − α) = sin α formulasi barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "180° da nomi saqlanadi, II chorakda sinus musbat."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(180° − α) = cos α ga teng.",
+      "answer": false,
+      "explain": "II chorakda kosinus manfiy bo'lgani uchun cos(180° − α) = −cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/2 − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−cos α",
+        "−sin α",
+        "cos α",
+        "sin α"
+      ],
+      "answer": 2,
+      "explain": "Chorak 1 da sin ishorasi +, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α) nimaga teng?",
+      "options": [
+        "sin α",
+        "cos α",
+        "−sin α",
+        "−cos α"
+      ],
+      "answer": 1,
+      "explain": "Keltirish qoidasiga ko'ra sin(90° − α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "cos(π/2 − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−cos α",
+        "cos α",
+        "−sin α",
+        "sin α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 1 da cos ishorasi +, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "cos(90° − α) nimaga teng?",
+      "options": [
+        "−sin α",
+        "−cos α",
+        "sin α",
+        "cos α"
+      ],
+      "answer": 2,
+      "explain": "Keltirish qoidasiga ko'ra cos(90° − α) = sin α."
+    },
+    {
+      "type": "choice",
+      "q": "tg(π/2 − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−ctg α",
+        "−tg α",
+        "tg α",
+        "ctg α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 1 da tg ishorasi +, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "tg(90° − α) nimaga teng?",
+      "options": [
+        "−tg α",
+        "−ctg α",
+        "ctg α",
+        "tg α"
+      ],
+      "answer": 2,
+      "explain": "Keltirish qoidasiga ko'ra tg(90° − α) = ctg α."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(π/2 − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "tg α",
+        "−ctg α",
+        "ctg α",
+        "−tg α"
+      ],
+      "answer": 0,
+      "explain": "Chorak 1 da ctg ishorasi +, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(90° − α) nimaga teng?",
+      "options": [
+        "−ctg α",
+        "ctg α",
+        "−tg α",
+        "tg α"
+      ],
+      "answer": 3,
+      "explain": "Keltirish qoidasiga ko'ra ctg(90° − α) = tg α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π/2 + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−cos α",
+        "−sin α",
+        "sin α",
+        "cos α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 2 da sin ishorasi +, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° + α) nimaga teng?",
+      "options": [
+        "sin α",
+        "−sin α",
+        "cos α",
+        "−cos α"
+      ],
+      "answer": 2,
+      "explain": "Keltirish qoidasiga ko'ra sin(90° + α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "cos(π/2 + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−sin α",
+        "cos α",
+        "−cos α",
+        "sin α"
+      ],
+      "answer": 0,
+      "explain": "Chorak 2 da cos ishorasi −, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "cos(90° + α) nimaga teng?",
+      "options": [
+        "−sin α",
+        "sin α",
+        "cos α",
+        "−cos α"
+      ],
+      "answer": 0,
+      "explain": "Keltirish qoidasiga ko'ra cos(90° + α) = −sin α."
+    },
+    {
+      "type": "choice",
+      "q": "tg(π/2 + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−ctg α",
+        "−tg α",
+        "ctg α",
+        "tg α"
+      ],
+      "answer": 0,
+      "explain": "Chorak 2 da tg ishorasi −, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "tg(90° + α) nimaga teng?",
+      "options": [
+        "tg α",
+        "ctg α",
+        "−ctg α",
+        "−tg α"
+      ],
+      "answer": 2,
+      "explain": "Keltirish qoidasiga ko'ra tg(90° + α) = −ctg α."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(π/2 + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "tg α",
+        "ctg α",
+        "−ctg α",
+        "−tg α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 2 da ctg ishorasi −, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(90° + α) nimaga teng?",
+      "options": [
+        "−tg α",
+        "tg α",
+        "ctg α",
+        "−ctg α"
+      ],
+      "answer": 0,
+      "explain": "Keltirish qoidasiga ko'ra ctg(90° + α) = −tg α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "sin α",
+        "cos α",
+        "−cos α",
+        "−sin α"
+      ],
+      "answer": 0,
+      "explain": "Chorak 2 da sin ishorasi +, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "sin(180° − α) nimaga teng?",
+      "options": [
+        "sin α",
+        "−cos α",
+        "cos α",
+        "−sin α"
+      ],
+      "answer": 0,
+      "explain": "Keltirish qoidasiga ko'ra sin(180° − α) = sin α."
+    },
+    {
+      "type": "choice",
+      "q": "cos(π − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−sin α",
+        "cos α",
+        "sin α",
+        "−cos α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 2 da cos ishorasi −, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "cos(180° − α) nimaga teng?",
+      "options": [
+        "−sin α",
+        "sin α",
+        "cos α",
+        "−cos α"
+      ],
+      "answer": 3,
+      "explain": "Keltirish qoidasiga ko'ra cos(180° − α) = −cos α."
+    },
+    {
+      "type": "choice",
+      "q": "tg(π − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−ctg α",
+        "−tg α",
+        "ctg α",
+        "tg α"
+      ],
+      "answer": 1,
+      "explain": "Chorak 2 da tg ishorasi −, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "tg(180° − α) nimaga teng?",
+      "options": [
+        "−ctg α",
+        "ctg α",
+        "tg α",
+        "−tg α"
+      ],
+      "answer": 3,
+      "explain": "Keltirish qoidasiga ko'ra tg(180° − α) = −tg α."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(π − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "ctg α",
+        "−tg α",
+        "tg α",
+        "−ctg α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 2 da ctg ishorasi −, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(180° − α) nimaga teng?",
+      "options": [
+        "tg α",
+        "−ctg α",
+        "ctg α",
+        "−tg α"
+      ],
+      "answer": 1,
+      "explain": "Keltirish qoidasiga ko'ra ctg(180° − α) = −ctg α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(π + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "sin α",
+        "−cos α",
+        "cos α",
+        "−sin α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 3 da sin ishorasi −, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "sin(180° + α) nimaga teng?",
+      "options": [
+        "cos α",
+        "−cos α",
+        "−sin α",
+        "sin α"
+      ],
+      "answer": 2,
+      "explain": "Keltirish qoidasiga ko'ra sin(180° + α) = −sin α."
+    },
+    {
+      "type": "choice",
+      "q": "cos(π + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−sin α",
+        "−cos α",
+        "sin α",
+        "cos α"
+      ],
+      "answer": 1,
+      "explain": "Chorak 3 da cos ishorasi −, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "cos(180° + α) nimaga teng?",
+      "options": [
+        "cos α",
+        "sin α",
+        "−cos α",
+        "−sin α"
+      ],
+      "answer": 2,
+      "explain": "Keltirish qoidasiga ko'ra cos(180° + α) = −cos α."
+    },
+    {
+      "type": "choice",
+      "q": "tg(π + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "ctg α",
+        "−tg α",
+        "−ctg α",
+        "tg α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 3 da tg ishorasi +, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "tg(180° + α) nimaga teng?",
+      "options": [
+        "tg α",
+        "ctg α",
+        "−ctg α",
+        "−tg α"
+      ],
+      "answer": 0,
+      "explain": "Keltirish qoidasiga ko'ra tg(180° + α) = tg α."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(π + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−ctg α",
+        "ctg α",
+        "tg α",
+        "−tg α"
+      ],
+      "answer": 1,
+      "explain": "Chorak 3 da ctg ishorasi +, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(180° + α) nimaga teng?",
+      "options": [
+        "ctg α",
+        "−ctg α",
+        "−tg α",
+        "tg α"
+      ],
+      "answer": 0,
+      "explain": "Keltirish qoidasiga ko'ra ctg(180° + α) = ctg α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(3π/2 − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "sin α",
+        "−cos α",
+        "cos α",
+        "−sin α"
+      ],
+      "answer": 1,
+      "explain": "Chorak 3 da sin ishorasi −, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "sin(270° − α) nimaga teng?",
+      "options": [
+        "−cos α",
+        "cos α",
+        "sin α",
+        "−sin α"
+      ],
+      "answer": 0,
+      "explain": "Keltirish qoidasiga ko'ra sin(270° − α) = −cos α."
+    },
+    {
+      "type": "choice",
+      "q": "cos(3π/2 − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "cos α",
+        "sin α",
+        "−cos α",
+        "−sin α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 3 da cos ishorasi −, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "cos(270° − α) nimaga teng?",
+      "options": [
+        "sin α",
+        "cos α",
+        "−cos α",
+        "−sin α"
+      ],
+      "answer": 3,
+      "explain": "Keltirish qoidasiga ko'ra cos(270° − α) = −sin α."
+    },
+    {
+      "type": "choice",
+      "q": "tg(3π/2 − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "tg α",
+        "ctg α",
+        "−ctg α",
+        "−tg α"
+      ],
+      "answer": 1,
+      "explain": "Chorak 3 da tg ishorasi +, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "tg(270° − α) nimaga teng?",
+      "options": [
+        "tg α",
+        "ctg α",
+        "−tg α",
+        "−ctg α"
+      ],
+      "answer": 1,
+      "explain": "Keltirish qoidasiga ko'ra tg(270° − α) = ctg α."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(3π/2 − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−ctg α",
+        "ctg α",
+        "tg α",
+        "−tg α"
+      ],
+      "answer": 2,
+      "explain": "Chorak 3 da ctg ishorasi +, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(270° − α) nimaga teng?",
+      "options": [
+        "ctg α",
+        "−tg α",
+        "tg α",
+        "−ctg α"
+      ],
+      "answer": 2,
+      "explain": "Keltirish qoidasiga ko'ra ctg(270° − α) = tg α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(3π/2 + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "sin α",
+        "−sin α",
+        "−cos α",
+        "cos α"
+      ],
+      "answer": 2,
+      "explain": "Chorak 4 da sin ishorasi −, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "sin(270° + α) nimaga teng?",
+      "options": [
+        "−cos α",
+        "cos α",
+        "sin α",
+        "−sin α"
+      ],
+      "answer": 0,
+      "explain": "Keltirish qoidasiga ko'ra sin(270° + α) = −cos α."
+    },
+    {
+      "type": "choice",
+      "q": "cos(3π/2 + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−sin α",
+        "cos α",
+        "−cos α",
+        "sin α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 4 da cos ishorasi +, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "cos(270° + α) nimaga teng?",
+      "options": [
+        "cos α",
+        "−cos α",
+        "−sin α",
+        "sin α"
+      ],
+      "answer": 3,
+      "explain": "Keltirish qoidasiga ko'ra cos(270° + α) = sin α."
+    },
+    {
+      "type": "choice",
+      "q": "tg(3π/2 + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "ctg α",
+        "tg α",
+        "−tg α",
+        "−ctg α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 4 da tg ishorasi −, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "tg(270° + α) nimaga teng?",
+      "options": [
+        "ctg α",
+        "−ctg α",
+        "−tg α",
+        "tg α"
+      ],
+      "answer": 1,
+      "explain": "Keltirish qoidasiga ko'ra tg(270° + α) = −ctg α."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(3π/2 + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−tg α",
+        "−ctg α",
+        "tg α",
+        "ctg α"
+      ],
+      "answer": 0,
+      "explain": "Chorak 4 da ctg ishorasi −, funksiya nomi o'zgaradi."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(270° + α) nimaga teng?",
+      "options": [
+        "tg α",
+        "−ctg α",
+        "−tg α",
+        "ctg α"
+      ],
+      "answer": 2,
+      "explain": "Keltirish qoidasiga ko'ra ctg(270° + α) = −tg α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(2π − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "sin α",
+        "cos α",
+        "−cos α",
+        "−sin α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 4 da sin ishorasi −, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "sin(360° − α) nimaga teng?",
+      "options": [
+        "sin α",
+        "−cos α",
+        "−sin α",
+        "cos α"
+      ],
+      "answer": 2,
+      "explain": "Keltirish qoidasiga ko'ra sin(360° − α) = −sin α."
+    },
+    {
+      "type": "choice",
+      "q": "cos(2π − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "sin α",
+        "−cos α",
+        "cos α",
+        "−sin α"
+      ],
+      "answer": 2,
+      "explain": "Chorak 4 da cos ishorasi +, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "cos(360° − α) nimaga teng?",
+      "options": [
+        "−sin α",
+        "sin α",
+        "−cos α",
+        "cos α"
+      ],
+      "answer": 3,
+      "explain": "Keltirish qoidasiga ko'ra cos(360° − α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "tg(2π − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "tg α",
+        "ctg α",
+        "−tg α",
+        "−ctg α"
+      ],
+      "answer": 2,
+      "explain": "Chorak 4 da tg ishorasi −, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "tg(360° − α) nimaga teng?",
+      "options": [
+        "−ctg α",
+        "tg α",
+        "ctg α",
+        "−tg α"
+      ],
+      "answer": 3,
+      "explain": "Keltirish qoidasiga ko'ra tg(360° − α) = −tg α."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(2π − α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−tg α",
+        "−ctg α",
+        "ctg α",
+        "tg α"
+      ],
+      "answer": 1,
+      "explain": "Chorak 4 da ctg ishorasi −, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(360° − α) nimaga teng?",
+      "options": [
+        "−ctg α",
+        "ctg α",
+        "−tg α",
+        "tg α"
+      ],
+      "answer": 0,
+      "explain": "Keltirish qoidasiga ko'ra ctg(360° − α) = −ctg α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(2π + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−sin α",
+        "−cos α",
+        "sin α",
+        "cos α"
+      ],
+      "answer": 2,
+      "explain": "Chorak 1 da sin ishorasi +, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "sin(360° + α) nimaga teng?",
+      "options": [
+        "−cos α",
+        "sin α",
+        "cos α",
+        "−sin α"
+      ],
+      "answer": 1,
+      "explain": "Keltirish qoidasiga ko'ra sin(360° + α) = sin α."
+    },
+    {
+      "type": "choice",
+      "q": "cos(2π + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−sin α",
+        "cos α",
+        "−cos α",
+        "sin α"
+      ],
+      "answer": 1,
+      "explain": "Chorak 1 da cos ishorasi +, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "cos(360° + α) nimaga teng?",
+      "options": [
+        "−sin α",
+        "sin α",
+        "−cos α",
+        "cos α"
+      ],
+      "answer": 3,
+      "explain": "Keltirish qoidasiga ko'ra cos(360° + α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "tg(2π + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "ctg α",
+        "−ctg α",
+        "tg α",
+        "−tg α"
+      ],
+      "answer": 2,
+      "explain": "Chorak 1 da tg ishorasi +, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "tg(360° + α) nimaga teng?",
+      "options": [
+        "tg α",
+        "ctg α",
+        "−ctg α",
+        "−tg α"
+      ],
+      "answer": 0,
+      "explain": "Keltirish qoidasiga ko'ra tg(360° + α) = tg α."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(2π + α) ifodani keltirish formulasi bilan soddalashtiring.",
+      "options": [
+        "−ctg α",
+        "tg α",
+        "−tg α",
+        "ctg α"
+      ],
+      "answer": 3,
+      "explain": "Chorak 1 da ctg ishorasi +, funksiya nomi saqlanadi."
+    },
+    {
+      "type": "choice",
+      "q": "ctg(360° + α) nimaga teng?",
+      "options": [
+        "tg α",
+        "−tg α",
+        "ctg α",
+        "−ctg α"
+      ],
+      "answer": 2,
+      "explain": "Keltirish qoidasiga ko'ra ctg(360° + α) = ctg α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(150°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "0",
+        "1/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "150° ≡ 150° (2-chorak), shu sabab sin(150°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(150°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "−√3/2",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "cos(150°) = cos(150°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(150°) ning qiymatini toping.",
+      "options": [
+        "−√3/3",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "tg(150°) = tg(150°) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(135°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "0",
+        "√2/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "135° ≡ 135° (2-chorak), shu sabab sin(135°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(135°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "−√2/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "cos(135°) = cos(135°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(135°) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "−1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(135°) = tg(135°) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(120°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "√3/2",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "120° ≡ 120° (2-chorak), shu sabab sin(120°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(120°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "−1/2",
+        "0",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "cos(120°) = cos(120°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(120°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "−√3",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(120°) = tg(120°) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(210°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "−1/2"
+      ],
+      "answer": 3,
+      "explain": "210° ≡ 210° (3-chorak), shu sabab sin(210°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(210°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−√3/2",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "cos(210°) = cos(210°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(210°) ning qiymatini toping.",
+      "options": [
+        "√3/3",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "tg(210°) = tg(210°) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(225°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−√2/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "225° ≡ 225° (3-chorak), shu sabab sin(225°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(225°) ning qiymatini toping.",
+      "options": [
+        "−√2/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "cos(225°) = cos(225°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(225°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "1/2"
+      ],
+      "answer": 2,
+      "explain": "tg(225°) = tg(225°) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(240°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−√3/2",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "240° ≡ 240° (3-chorak), shu sabab sin(240°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(240°) ning qiymatini toping.",
+      "options": [
+        "−1/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "cos(240°) = cos(240°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(240°) ning qiymatini toping.",
+      "options": [
+        "√3",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "tg(240°) = tg(240°) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(330°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "330° ≡ 330° (4-chorak), shu sabab sin(330°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(330°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "√3/2"
+      ],
+      "answer": 3,
+      "explain": "cos(330°) = cos(330°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(330°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−√3/3"
+      ],
+      "answer": 3,
+      "explain": "tg(330°) = tg(330°) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(315°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "−√2/2",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "315° ≡ 315° (4-chorak), shu sabab sin(315°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(315°) ning qiymatini toping.",
+      "options": [
+        "√2/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "cos(315°) = cos(315°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(315°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1/2",
+        "−1",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "tg(315°) = tg(315°) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(300°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−√3/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "300° ≡ 300° (4-chorak), shu sabab sin(300°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(300°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "−1",
+        "0",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(300°) = cos(300°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(300°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−√3"
+      ],
+      "answer": 3,
+      "explain": "tg(300°) = tg(300°) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(390°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "390° ≡ 30° (1-chorak), shu sabab sin(390°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(390°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "√3/2",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "cos(390°) = cos(30°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(390°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "√3/3",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "tg(390°) = tg(30°) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(405°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "√2/2",
+        "0",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "405° ≡ 45° (1-chorak), shu sabab sin(405°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(405°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "√2/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "cos(405°) = cos(45°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(405°) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 3,
+      "explain": "tg(405°) = tg(45°) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(420°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "1",
+        "√3/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "420° ≡ 60° (1-chorak), shu sabab sin(420°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(420°) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "cos(420°) = cos(60°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(420°) ning qiymatini toping.",
+      "options": [
+        "√3",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "tg(420°) = tg(60°) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(510°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "1/2",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "510° ≡ 150° (2-chorak), shu sabab sin(510°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(510°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "−√3/2"
+      ],
+      "answer": 3,
+      "explain": "cos(510°) = cos(150°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(510°) ning qiymatini toping.",
+      "options": [
+        "−√3/3",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "tg(510°) = tg(150°) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(495°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "√2/2"
+      ],
+      "answer": 3,
+      "explain": "495° ≡ 135° (2-chorak), shu sabab sin(495°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(495°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "−√2/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(495°) = cos(135°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(495°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "1/2",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "tg(495°) = tg(135°) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(480°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "√3/2",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "480° ≡ 120° (2-chorak), shu sabab sin(480°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(480°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(480°) = cos(120°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(480°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "−√3",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "tg(480°) = tg(120°) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(570°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "−1/2",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "570° ≡ 210° (3-chorak), shu sabab sin(570°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(570°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "−√3/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "cos(570°) = cos(210°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(570°) ning qiymatini toping.",
+      "options": [
+        "√3/3",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "tg(570°) = tg(210°) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(585°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−√2/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "585° ≡ 225° (3-chorak), shu sabab sin(585°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(585°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "−√2/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(585°) = cos(225°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(585°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "tg(585°) = tg(225°) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(600°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−√3/2",
+        "0",
+        "1",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "600° ≡ 240° (3-chorak), shu sabab sin(600°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(600°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1/2",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "cos(600°) = cos(240°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(600°) ning qiymatini toping.",
+      "options": [
+        "√3",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "tg(600°) = tg(240°) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(690°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "690° ≡ 330° (4-chorak), shu sabab sin(690°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(690°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "√3/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(690°) = cos(330°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(690°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−√3/3",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "tg(690°) = tg(330°) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(675°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "−√2/2"
+      ],
+      "answer": 3,
+      "explain": "675° ≡ 315° (4-chorak), shu sabab sin(675°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(675°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "√2/2"
+      ],
+      "answer": 3,
+      "explain": "cos(675°) = cos(315°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(675°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "tg(675°) = tg(315°) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(660°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "−√3/2"
+      ],
+      "answer": 3,
+      "explain": "660° ≡ 300° (4-chorak), shu sabab sin(660°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(660°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(660°) = cos(300°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(660°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "−√3",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "tg(660°) = tg(300°) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(750°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "750° ≡ 30° (1-chorak), shu sabab sin(750°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(750°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "√3/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "cos(750°) = cos(30°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(750°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "√3/3",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "tg(750°) = tg(30°) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(765°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "√2/2",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "765° ≡ 45° (1-chorak), shu sabab sin(765°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(765°) ning qiymatini toping.",
+      "options": [
+        "√2/2",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "cos(765°) = cos(45°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(765°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1/2",
+        "1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(765°) = tg(45°) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(780°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "0",
+        "√3/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "780° ≡ 60° (1-chorak), shu sabab sin(780°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(780°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(780°) = cos(60°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(780°) ning qiymatini toping.",
+      "options": [
+        "√3",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "tg(780°) = tg(60°) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(870°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "−1",
+        "1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "870° ≡ 150° (2-chorak), shu sabab sin(870°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(870°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "−√3/2",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "cos(870°) = cos(150°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(870°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "−√3/3"
+      ],
+      "answer": 3,
+      "explain": "tg(870°) = tg(150°) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(855°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "0",
+        "√2/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "855° ≡ 135° (2-chorak), shu sabab sin(855°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(855°) ning qiymatini toping.",
+      "options": [
+        "−√2/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "cos(855°) = cos(135°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(855°) ning qiymatini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "−1",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "tg(855°) = tg(135°) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(840°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "√3/2",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "840° ≡ 120° (2-chorak), shu sabab sin(840°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(840°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "−1/2",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "cos(840°) = cos(120°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(840°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "−√3"
+      ],
+      "answer": 3,
+      "explain": "tg(840°) = tg(120°) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(930°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "−1/2",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "930° ≡ 210° (3-chorak), shu sabab sin(930°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(930°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "−√3/2"
+      ],
+      "answer": 3,
+      "explain": "cos(930°) = cos(210°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(930°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "1",
+        "0",
+        "√3/3"
+      ],
+      "answer": 3,
+      "explain": "tg(930°) = tg(210°) = √3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(945°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−√2/2"
+      ],
+      "answer": 3,
+      "explain": "945° ≡ 225° (3-chorak), shu sabab sin(945°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(945°) ning qiymatini toping.",
+      "options": [
+        "−√2/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "cos(945°) = cos(225°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(945°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "1/2",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "tg(945°) = tg(225°) = 1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(960°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "−1",
+        "−√3/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "960° ≡ 240° (3-chorak), shu sabab sin(960°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(960°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1",
+        "−1/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "cos(960°) = cos(240°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(960°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "√3",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "tg(960°) = tg(240°) = √3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1050°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "1",
+        "−1/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "1050° ≡ 330° (4-chorak), shu sabab sin(1050°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1050°) ning qiymatini toping.",
+      "options": [
+        "√3/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "cos(1050°) = cos(330°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(1050°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−√3/3",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "tg(1050°) = tg(330°) = −√3/3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1035°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "−1",
+        "−√2/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "1035° ≡ 315° (4-chorak), shu sabab sin(1035°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1035°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "√2/2",
+        "0",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "cos(1035°) = cos(315°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(1035°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "1/2",
+        "−1",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "tg(1035°) = tg(315°) = −1."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1020°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−√3/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "1020° ≡ 300° (4-chorak), shu sabab sin(1020°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1020°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "−1",
+        "0",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(1020°) = cos(300°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "tg(1020°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−√3"
+      ],
+      "answer": 3,
+      "explain": "tg(1020°) = tg(300°) = −√3."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1110°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "1110° ≡ 30° (1-chorak), shu sabab sin(1110°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1110°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "√3/2"
+      ],
+      "answer": 3,
+      "explain": "cos(1110°) = cos(30°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1125°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "1",
+        "√2/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "1125° ≡ 45° (1-chorak), shu sabab sin(1125°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1125°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "√2/2",
+        "−1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "cos(1125°) = cos(45°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1140°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "1",
+        "√3/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "1140° ≡ 60° (1-chorak), shu sabab sin(1140°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1140°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "0",
+        "1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(1140°) = cos(60°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1230°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "1230° ≡ 150° (2-chorak), shu sabab sin(1230°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1230°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "−√3/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(1230°) = cos(150°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1215°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "√2/2"
+      ],
+      "answer": 3,
+      "explain": "1215° ≡ 135° (2-chorak), shu sabab sin(1215°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1215°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "−√2/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(1215°) = cos(135°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1200°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "√3/2",
+        "0",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1200° ≡ 120° (2-chorak), shu sabab sin(1200°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1200°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "cos(1200°) = cos(120°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1290°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1/2",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1290° ≡ 210° (3-chorak), shu sabab sin(1290°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1290°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−√3/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "cos(1290°) = cos(210°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1305°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "1",
+        "−√2/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "1305° ≡ 225° (3-chorak), shu sabab sin(1305°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1305°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "−1",
+        "0",
+        "−√2/2"
+      ],
+      "answer": 3,
+      "explain": "cos(1305°) = cos(225°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1320°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−√3/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "1320° ≡ 240° (3-chorak), shu sabab sin(1320°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1320°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(1320°) = cos(240°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1410°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "−1/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "1410° ≡ 330° (4-chorak), shu sabab sin(1410°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1410°) ning qiymatini toping.",
+      "options": [
+        "√3/2",
+        "0",
+        "−1",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "cos(1410°) = cos(330°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1395°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "1",
+        "−√2/2",
+        "−1"
+      ],
+      "answer": 2,
+      "explain": "1395° ≡ 315° (4-chorak), shu sabab sin(1395°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1395°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "√2/2",
+        "1",
+        "0"
+      ],
+      "answer": 1,
+      "explain": "cos(1395°) = cos(315°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1380°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−√3/2",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "1380° ≡ 300° (4-chorak), shu sabab sin(1380°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1380°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "−1",
+        "0",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(1380°) = cos(300°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1470°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "−1",
+        "1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "1470° ≡ 30° (1-chorak), shu sabab sin(1470°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1470°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "√3/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "cos(1470°) = cos(30°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1485°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "√2/2"
+      ],
+      "answer": 3,
+      "explain": "1485° ≡ 45° (1-chorak), shu sabab sin(1485°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1485°) ning qiymatini toping.",
+      "options": [
+        "√2/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "cos(1485°) = cos(45°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1500°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "√3/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "1500° ≡ 60° (1-chorak), shu sabab sin(1500°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1500°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "−1",
+        "1/2",
+        "0"
+      ],
+      "answer": 2,
+      "explain": "cos(1500°) = cos(60°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1590°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "1/2",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "1590° ≡ 150° (2-chorak), shu sabab sin(1590°) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1590°) ning qiymatini toping.",
+      "options": [
+        "−√3/2",
+        "1",
+        "−1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "cos(1590°) = cos(150°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1575°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "√2/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "1575° ≡ 135° (2-chorak), shu sabab sin(1575°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1575°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "−√2/2"
+      ],
+      "answer": 3,
+      "explain": "cos(1575°) = cos(135°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1560°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "√3/2"
+      ],
+      "answer": 3,
+      "explain": "1560° ≡ 120° (2-chorak), shu sabab sin(1560°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1560°) ning qiymatini toping.",
+      "options": [
+        "−1",
+        "0",
+        "−1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "cos(1560°) = cos(120°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1650°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "1",
+        "−1",
+        "−1/2"
+      ],
+      "answer": 3,
+      "explain": "1650° ≡ 210° (3-chorak), shu sabab sin(1650°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1650°) ning qiymatini toping.",
+      "options": [
+        "−√3/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "cos(1650°) = cos(210°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1665°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−√2/2"
+      ],
+      "answer": 3,
+      "explain": "1665° ≡ 225° (3-chorak), shu sabab sin(1665°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1665°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−√2/2",
+        "−1",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "cos(1665°) = cos(225°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1680°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "0",
+        "−√3/2",
+        "1",
+        "−1"
+      ],
+      "answer": 1,
+      "explain": "1680° ≡ 240° (3-chorak), shu sabab sin(1680°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1680°) ning qiymatini toping.",
+      "options": [
+        "1",
+        "0",
+        "−1",
+        "−1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(1680°) = cos(240°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1770°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−1",
+        "0",
+        "1",
+        "−1/2"
+      ],
+      "answer": 3,
+      "explain": "1770° ≡ 330° (4-chorak), shu sabab sin(1770°) = −1/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1770°) ning qiymatini toping.",
+      "options": [
+        "√3/2",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 0,
+      "explain": "cos(1770°) = cos(330°) = √3/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1755°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−√2/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "1755° ≡ 315° (4-chorak), shu sabab sin(1755°) = −√2/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1755°) ning qiymatini toping.",
+      "options": [
+        "√2/2",
+        "1",
+        "0",
+        "−1"
+      ],
+      "answer": 0,
+      "explain": "cos(1755°) = cos(315°) = √2/2."
+    },
+    {
+      "type": "choice",
+      "q": "sin(1740°) ning qiymatini keltirish formulasi bilan hisoblang.",
+      "options": [
+        "−√3/2",
+        "−1",
+        "1",
+        "0"
+      ],
+      "answer": 0,
+      "explain": "1740° ≡ 300° (4-chorak), shu sabab sin(1740°) = −√3/2."
+    },
+    {
+      "type": "choice",
+      "q": "cos(1740°) ning qiymatini toping.",
+      "options": [
+        "0",
+        "−1",
+        "1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "cos(1740°) = cos(300°) = 1/2."
+    },
+    {
+      "type": "fill",
+      "q": "2·sin(90° − α) / cos α + 2 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "4",
+      "explain": "sin(90° − α) = cos α ⇒ 2·1 + 2 = 4."
+    },
+    {
+      "type": "fill",
+      "q": "3·sin(90° − α) / cos α + 3 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "6",
+      "explain": "sin(90° − α) = cos α ⇒ 3·1 + 3 = 6."
+    },
+    {
+      "type": "fill",
+      "q": "4·sin(90° − α) / cos α + 4 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "8",
+      "explain": "sin(90° − α) = cos α ⇒ 4·1 + 4 = 8."
+    },
+    {
+      "type": "fill",
+      "q": "5·sin(90° − α) / cos α + 5 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "10",
+      "explain": "sin(90° − α) = cos α ⇒ 5·1 + 5 = 10."
+    },
+    {
+      "type": "fill",
+      "q": "6·sin(90° − α) / cos α + 6 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "12",
+      "explain": "sin(90° − α) = cos α ⇒ 6·1 + 6 = 12."
+    },
+    {
+      "type": "fill",
+      "q": "7·sin(90° − α) / cos α + 7 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "14",
+      "explain": "sin(90° − α) = cos α ⇒ 7·1 + 7 = 14."
+    },
+    {
+      "type": "fill",
+      "q": "8·sin(90° − α) / cos α + 8 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "16",
+      "explain": "sin(90° − α) = cos α ⇒ 8·1 + 8 = 16."
+    },
+    {
+      "type": "fill",
+      "q": "9·sin(90° − α) / cos α + 9 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "18",
+      "explain": "sin(90° − α) = cos α ⇒ 9·1 + 9 = 18."
+    },
+    {
+      "type": "fill",
+      "q": "10·sin(90° − α) / cos α + 10 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "20",
+      "explain": "sin(90° − α) = cos α ⇒ 10·1 + 10 = 20."
+    },
+    {
+      "type": "fill",
+      "q": "11·sin(90° − α) / cos α + 11 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "22",
+      "explain": "sin(90° − α) = cos α ⇒ 11·1 + 11 = 22."
+    },
+    {
+      "type": "fill",
+      "q": "12·sin(90° − α) / cos α + 12 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "24",
+      "explain": "sin(90° − α) = cos α ⇒ 12·1 + 12 = 24."
+    },
+    {
+      "type": "fill",
+      "q": "13·sin(90° − α) / cos α + 13 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "26",
+      "explain": "sin(90° − α) = cos α ⇒ 13·1 + 13 = 26."
+    },
+    {
+      "type": "fill",
+      "q": "14·sin(90° − α) / cos α + 14 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "28",
+      "explain": "sin(90° − α) = cos α ⇒ 14·1 + 14 = 28."
+    },
+    {
+      "type": "fill",
+      "q": "15·sin(90° − α) / cos α + 15 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "30",
+      "explain": "sin(90° − α) = cos α ⇒ 15·1 + 15 = 30."
+    },
+    {
+      "type": "fill",
+      "q": "16·sin(90° − α) / cos α + 16 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "32",
+      "explain": "sin(90° − α) = cos α ⇒ 16·1 + 16 = 32."
+    },
+    {
+      "type": "fill",
+      "q": "17·sin(90° − α) / cos α + 17 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "34",
+      "explain": "sin(90° − α) = cos α ⇒ 17·1 + 17 = 34."
+    },
+    {
+      "type": "fill",
+      "q": "18·sin(90° − α) / cos α + 18 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "36",
+      "explain": "sin(90° − α) = cos α ⇒ 18·1 + 18 = 36."
+    },
+    {
+      "type": "fill",
+      "q": "19·sin(90° − α) / cos α + 19 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "38",
+      "explain": "sin(90° − α) = cos α ⇒ 19·1 + 19 = 38."
+    },
+    {
+      "type": "fill",
+      "q": "20·sin(90° − α) / cos α + 20 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "40",
+      "explain": "sin(90° − α) = cos α ⇒ 20·1 + 20 = 40."
+    },
+    {
+      "type": "fill",
+      "q": "21·sin(90° − α) / cos α + 21 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "42",
+      "explain": "sin(90° − α) = cos α ⇒ 21·1 + 21 = 42."
+    },
+    {
+      "type": "fill",
+      "q": "22·sin(90° − α) / cos α + 22 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "44",
+      "explain": "sin(90° − α) = cos α ⇒ 22·1 + 22 = 44."
+    },
+    {
+      "type": "fill",
+      "q": "23·sin(90° − α) / cos α + 23 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "46",
+      "explain": "sin(90° − α) = cos α ⇒ 23·1 + 23 = 46."
+    },
+    {
+      "type": "fill",
+      "q": "24·sin(90° − α) / cos α + 24 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "48",
+      "explain": "sin(90° − α) = cos α ⇒ 24·1 + 24 = 48."
+    },
+    {
+      "type": "fill",
+      "q": "25·sin(90° − α) / cos α + 25 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "50",
+      "explain": "sin(90° − α) = cos α ⇒ 25·1 + 25 = 50."
+    },
+    {
+      "type": "fill",
+      "q": "26·sin(90° − α) / cos α + 26 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "52",
+      "explain": "sin(90° − α) = cos α ⇒ 26·1 + 26 = 52."
+    },
+    {
+      "type": "fill",
+      "q": "27·sin(90° − α) / cos α + 27 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "54",
+      "explain": "sin(90° − α) = cos α ⇒ 27·1 + 27 = 54."
+    },
+    {
+      "type": "fill",
+      "q": "28·sin(90° − α) / cos α + 28 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "56",
+      "explain": "sin(90° − α) = cos α ⇒ 28·1 + 28 = 56."
+    },
+    {
+      "type": "fill",
+      "q": "29·sin(90° − α) / cos α + 29 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "58",
+      "explain": "sin(90° − α) = cos α ⇒ 29·1 + 29 = 58."
+    },
+    {
+      "type": "fill",
+      "q": "30·sin(90° − α) / cos α + 30 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "60",
+      "explain": "sin(90° − α) = cos α ⇒ 30·1 + 30 = 60."
+    },
+    {
+      "type": "fill",
+      "q": "31·sin(90° − α) / cos α + 31 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "62",
+      "explain": "sin(90° − α) = cos α ⇒ 31·1 + 31 = 62."
+    },
+    {
+      "type": "fill",
+      "q": "32·sin(90° − α) / cos α + 32 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "64",
+      "explain": "sin(90° − α) = cos α ⇒ 32·1 + 32 = 64."
+    },
+    {
+      "type": "fill",
+      "q": "33·sin(90° − α) / cos α + 33 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "66",
+      "explain": "sin(90° − α) = cos α ⇒ 33·1 + 33 = 66."
+    },
+    {
+      "type": "fill",
+      "q": "34·sin(90° − α) / cos α + 34 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "68",
+      "explain": "sin(90° − α) = cos α ⇒ 34·1 + 34 = 68."
+    },
+    {
+      "type": "fill",
+      "q": "35·sin(90° − α) / cos α + 35 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "70",
+      "explain": "sin(90° − α) = cos α ⇒ 35·1 + 35 = 70."
+    },
+    {
+      "type": "fill",
+      "q": "36·sin(90° − α) / cos α + 36 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "72",
+      "explain": "sin(90° − α) = cos α ⇒ 36·1 + 36 = 72."
+    },
+    {
+      "type": "fill",
+      "q": "37·sin(90° − α) / cos α + 37 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "74",
+      "explain": "sin(90° − α) = cos α ⇒ 37·1 + 37 = 74."
+    },
+    {
+      "type": "fill",
+      "q": "38·sin(90° − α) / cos α + 38 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "76",
+      "explain": "sin(90° − α) = cos α ⇒ 38·1 + 38 = 76."
+    },
+    {
+      "type": "fill",
+      "q": "39·sin(90° − α) / cos α + 39 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "78",
+      "explain": "sin(90° − α) = cos α ⇒ 39·1 + 39 = 78."
+    },
+    {
+      "type": "fill",
+      "q": "40·sin(90° − α) / cos α + 40 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "80",
+      "explain": "sin(90° − α) = cos α ⇒ 40·1 + 40 = 80."
+    },
+    {
+      "type": "fill",
+      "q": "41·sin(90° − α) / cos α + 41 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "82",
+      "explain": "sin(90° − α) = cos α ⇒ 41·1 + 41 = 82."
+    },
+    {
+      "type": "fill",
+      "q": "42·sin(90° − α) / cos α + 42 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "84",
+      "explain": "sin(90° − α) = cos α ⇒ 42·1 + 42 = 84."
+    },
+    {
+      "type": "fill",
+      "q": "43·sin(90° − α) / cos α + 43 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "86",
+      "explain": "sin(90° − α) = cos α ⇒ 43·1 + 43 = 86."
+    },
+    {
+      "type": "fill",
+      "q": "44·sin(90° − α) / cos α + 44 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "88",
+      "explain": "sin(90° − α) = cos α ⇒ 44·1 + 44 = 88."
+    },
+    {
+      "type": "fill",
+      "q": "45·sin(90° − α) / cos α + 45 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "90",
+      "explain": "sin(90° − α) = cos α ⇒ 45·1 + 45 = 90."
+    },
+    {
+      "type": "fill",
+      "q": "46·sin(90° − α) / cos α + 46 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "92",
+      "explain": "sin(90° − α) = cos α ⇒ 46·1 + 46 = 92."
+    },
+    {
+      "type": "fill",
+      "q": "47·sin(90° − α) / cos α + 47 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "94",
+      "explain": "sin(90° − α) = cos α ⇒ 47·1 + 47 = 94."
+    },
+    {
+      "type": "fill",
+      "q": "48·sin(90° − α) / cos α + 48 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "96",
+      "explain": "sin(90° − α) = cos α ⇒ 48·1 + 48 = 96."
+    },
+    {
+      "type": "fill",
+      "q": "49·sin(90° − α) / cos α + 49 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "98",
+      "explain": "sin(90° − α) = cos α ⇒ 49·1 + 49 = 98."
+    },
+    {
+      "type": "fill",
+      "q": "50·sin(90° − α) / cos α + 50 ifodaning qiymatini hisoblang (cos α ≠ 0).",
+      "answer": "100",
+      "explain": "sin(90° − α) = cos α ⇒ 50·1 + 50 = 100."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 1 ifodaning qiymatini toping.",
+      "options": [
+        "4",
+        "0",
+        "2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 1 = 1 + 1 = 2."
+    },
+    {
+      "type": "choice",
+      "q": "1·tg(π − α) + 1·tg α ifoda nimaga teng?",
+      "options": [
+        "2·tg α",
+        "−1",
+        "0",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "tg(π − α) = −tg α ⇒ −1tg α + 1tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(2π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "2π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 2 ifodaning qiymatini toping.",
+      "options": [
+        "4",
+        "2",
+        "3",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 2 = 1 + 2 = 3."
+    },
+    {
+      "type": "choice",
+      "q": "2·tg(π − α) + 2·tg α ifoda nimaga teng?",
+      "options": [
+        "2",
+        "0",
+        "−2",
+        "4·tg α"
+      ],
+      "answer": 1,
+      "explain": "tg(π − α) = −tg α ⇒ −2tg α + 2tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(4π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "4π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 3 ifodaning qiymatini toping.",
+      "options": [
+        "2",
+        "6",
+        "3",
+        "4"
+      ],
+      "answer": 3,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 3 = 1 + 3 = 4."
+    },
+    {
+      "type": "choice",
+      "q": "3·tg(π − α) + 3·tg α ifoda nimaga teng?",
+      "options": [
+        "3",
+        "−3",
+        "0",
+        "6·tg α"
+      ],
+      "answer": 2,
+      "explain": "tg(π − α) = −tg α ⇒ −3tg α + 3tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(6π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "6π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 4 ifodaning qiymatini toping.",
+      "options": [
+        "8",
+        "4",
+        "3",
+        "5"
+      ],
+      "answer": 3,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 4 = 1 + 4 = 5."
+    },
+    {
+      "type": "choice",
+      "q": "4·tg(π − α) + 4·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "4",
+        "−4",
+        "8·tg α"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −4tg α + 4tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(8π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "8π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 5 ifodaning qiymatini toping.",
+      "options": [
+        "10",
+        "4",
+        "5",
+        "6"
+      ],
+      "answer": 3,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 5 = 1 + 5 = 6."
+    },
+    {
+      "type": "choice",
+      "q": "5·tg(π − α) + 5·tg α ifoda nimaga teng?",
+      "options": [
+        "−5",
+        "0",
+        "10·tg α",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "tg(π − α) = −tg α ⇒ −5tg α + 5tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(10π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "10π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 6 ifodaning qiymatini toping.",
+      "options": [
+        "12",
+        "7",
+        "6",
+        "5"
+      ],
+      "answer": 1,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 6 = 1 + 6 = 7."
+    },
+    {
+      "type": "choice",
+      "q": "6·tg(π − α) + 6·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "12·tg α",
+        "6",
+        "−6"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −6tg α + 6tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(12π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "12π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 7 ifodaning qiymatini toping.",
+      "options": [
+        "6",
+        "8",
+        "14",
+        "7"
+      ],
+      "answer": 1,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 7 = 1 + 7 = 8."
+    },
+    {
+      "type": "choice",
+      "q": "7·tg(π − α) + 7·tg α ifoda nimaga teng?",
+      "options": [
+        "14·tg α",
+        "0",
+        "−7",
+        "7"
+      ],
+      "answer": 1,
+      "explain": "tg(π − α) = −tg α ⇒ −7tg α + 7tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(14π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "14π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 8 ifodaning qiymatini toping.",
+      "options": [
+        "9",
+        "16",
+        "8",
+        "7"
+      ],
+      "answer": 0,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 8 = 1 + 8 = 9."
+    },
+    {
+      "type": "choice",
+      "q": "8·tg(π − α) + 8·tg α ifoda nimaga teng?",
+      "options": [
+        "8",
+        "0",
+        "−8",
+        "16·tg α"
+      ],
+      "answer": 1,
+      "explain": "tg(π − α) = −tg α ⇒ −8tg α + 8tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(16π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "16π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 9 ifodaning qiymatini toping.",
+      "options": [
+        "9",
+        "18",
+        "10",
+        "8"
+      ],
+      "answer": 2,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 9 = 1 + 9 = 10."
+    },
+    {
+      "type": "choice",
+      "q": "9·tg(π − α) + 9·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "9",
+        "−9",
+        "18·tg α"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −9tg α + 9tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(18π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "18π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 10 ifodaning qiymatini toping.",
+      "options": [
+        "20",
+        "10",
+        "9",
+        "11"
+      ],
+      "answer": 3,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 10 = 1 + 10 = 11."
+    },
+    {
+      "type": "choice",
+      "q": "10·tg(π − α) + 10·tg α ifoda nimaga teng?",
+      "options": [
+        "10",
+        "20·tg α",
+        "−10",
+        "0"
+      ],
+      "answer": 3,
+      "explain": "tg(π − α) = −tg α ⇒ −10tg α + 10tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(20π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "20π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 11 ifodaning qiymatini toping.",
+      "options": [
+        "22",
+        "10",
+        "12",
+        "11"
+      ],
+      "answer": 2,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 11 = 1 + 11 = 12."
+    },
+    {
+      "type": "choice",
+      "q": "11·tg(π − α) + 11·tg α ifoda nimaga teng?",
+      "options": [
+        "22·tg α",
+        "11",
+        "0",
+        "−11"
+      ],
+      "answer": 2,
+      "explain": "tg(π − α) = −tg α ⇒ −11tg α + 11tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(22π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "22π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 12 ifodaning qiymatini toping.",
+      "options": [
+        "13",
+        "11",
+        "12",
+        "24"
+      ],
+      "answer": 0,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 12 = 1 + 12 = 13."
+    },
+    {
+      "type": "choice",
+      "q": "12·tg(π − α) + 12·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "24·tg α",
+        "−12",
+        "12"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −12tg α + 12tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(24π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "24π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 13 ifodaning qiymatini toping.",
+      "options": [
+        "26",
+        "12",
+        "13",
+        "14"
+      ],
+      "answer": 3,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 13 = 1 + 13 = 14."
+    },
+    {
+      "type": "choice",
+      "q": "13·tg(π − α) + 13·tg α ifoda nimaga teng?",
+      "options": [
+        "26·tg α",
+        "0",
+        "13",
+        "−13"
+      ],
+      "answer": 1,
+      "explain": "tg(π − α) = −tg α ⇒ −13tg α + 13tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(26π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "26π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 14 ifodaning qiymatini toping.",
+      "options": [
+        "28",
+        "13",
+        "15",
+        "14"
+      ],
+      "answer": 2,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 14 = 1 + 14 = 15."
+    },
+    {
+      "type": "choice",
+      "q": "14·tg(π − α) + 14·tg α ifoda nimaga teng?",
+      "options": [
+        "28·tg α",
+        "0",
+        "−14",
+        "14"
+      ],
+      "answer": 1,
+      "explain": "tg(π − α) = −tg α ⇒ −14tg α + 14tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(28π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "28π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 15 ifodaning qiymatini toping.",
+      "options": [
+        "15",
+        "30",
+        "14",
+        "16"
+      ],
+      "answer": 3,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 15 = 1 + 15 = 16."
+    },
+    {
+      "type": "choice",
+      "q": "15·tg(π − α) + 15·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−15",
+        "15",
+        "30·tg α"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −15tg α + 15tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(30π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "30π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 16 ifodaning qiymatini toping.",
+      "options": [
+        "32",
+        "16",
+        "17",
+        "15"
+      ],
+      "answer": 2,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 16 = 1 + 16 = 17."
+    },
+    {
+      "type": "choice",
+      "q": "16·tg(π − α) + 16·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "16",
+        "−16",
+        "32·tg α"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −16tg α + 16tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(32π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "32π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 17 ifodaning qiymatini toping.",
+      "options": [
+        "18",
+        "16",
+        "17",
+        "34"
+      ],
+      "answer": 0,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 17 = 1 + 17 = 18."
+    },
+    {
+      "type": "choice",
+      "q": "17·tg(π − α) + 17·tg α ifoda nimaga teng?",
+      "options": [
+        "−17",
+        "0",
+        "17",
+        "34·tg α"
+      ],
+      "answer": 1,
+      "explain": "tg(π − α) = −tg α ⇒ −17tg α + 17tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(34π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "34π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 18 ifodaning qiymatini toping.",
+      "options": [
+        "19",
+        "36",
+        "17",
+        "18"
+      ],
+      "answer": 0,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 18 = 1 + 18 = 19."
+    },
+    {
+      "type": "choice",
+      "q": "18·tg(π − α) + 18·tg α ifoda nimaga teng?",
+      "options": [
+        "36·tg α",
+        "18",
+        "0",
+        "−18"
+      ],
+      "answer": 2,
+      "explain": "tg(π − α) = −tg α ⇒ −18tg α + 18tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(36π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "36π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 19 ifodaning qiymatini toping.",
+      "options": [
+        "18",
+        "20",
+        "19",
+        "38"
+      ],
+      "answer": 1,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 19 = 1 + 19 = 20."
+    },
+    {
+      "type": "choice",
+      "q": "19·tg(π − α) + 19·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−19",
+        "19",
+        "38·tg α"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −19tg α + 19tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(38π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "38π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 20 ifodaning qiymatini toping.",
+      "options": [
+        "19",
+        "20",
+        "40",
+        "21"
+      ],
+      "answer": 3,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 20 = 1 + 20 = 21."
+    },
+    {
+      "type": "choice",
+      "q": "20·tg(π − α) + 20·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "−20",
+        "40·tg α",
+        "20"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −20tg α + 20tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(40π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "40π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 21 ifodaning qiymatini toping.",
+      "options": [
+        "20",
+        "22",
+        "21",
+        "42"
+      ],
+      "answer": 1,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 21 = 1 + 21 = 22."
+    },
+    {
+      "type": "choice",
+      "q": "21·tg(π − α) + 21·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "21",
+        "−21",
+        "42·tg α"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −21tg α + 21tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(42π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "42π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 22 ifodaning qiymatini toping.",
+      "options": [
+        "44",
+        "23",
+        "21",
+        "22"
+      ],
+      "answer": 1,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 22 = 1 + 22 = 23."
+    },
+    {
+      "type": "choice",
+      "q": "22·tg(π − α) + 22·tg α ifoda nimaga teng?",
+      "options": [
+        "22",
+        "0",
+        "−22",
+        "44·tg α"
+      ],
+      "answer": 1,
+      "explain": "tg(π − α) = −tg α ⇒ −22tg α + 22tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(44π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "44π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 23 ifodaning qiymatini toping.",
+      "options": [
+        "22",
+        "24",
+        "46",
+        "23"
+      ],
+      "answer": 1,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 23 = 1 + 23 = 24."
+    },
+    {
+      "type": "choice",
+      "q": "23·tg(π − α) + 23·tg α ifoda nimaga teng?",
+      "options": [
+        "−23",
+        "46·tg α",
+        "0",
+        "23"
+      ],
+      "answer": 2,
+      "explain": "tg(π − α) = −tg α ⇒ −23tg α + 23tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(46π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "46π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 24 ifodaning qiymatini toping.",
+      "options": [
+        "23",
+        "25",
+        "24",
+        "48"
+      ],
+      "answer": 1,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 24 = 1 + 24 = 25."
+    },
+    {
+      "type": "choice",
+      "q": "24·tg(π − α) + 24·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "48·tg α",
+        "24",
+        "−24"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −24tg α + 24tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(48π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "48π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    },
+    {
+      "type": "choice",
+      "q": "sin(90° − α)·cos α − cos(90° + α)·sin α + 25 ifodaning qiymatini toping.",
+      "options": [
+        "25",
+        "50",
+        "24",
+        "26"
+      ],
+      "answer": 3,
+      "explain": "sin(90° − α) = cos α, cos(90° + α) = −sin α ⇒ cos²α + sin²α + 25 = 1 + 25 = 26."
+    },
+    {
+      "type": "choice",
+      "q": "25·tg(π − α) + 25·tg α ifoda nimaga teng?",
+      "options": [
+        "0",
+        "50·tg α",
+        "25",
+        "−25"
+      ],
+      "answer": 0,
+      "explain": "tg(π − α) = −tg α ⇒ −25tg α + 25tg α = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "cos(50π − α) = cos α tenglik barcha α lar uchun o'rinli.",
+      "answer": true,
+      "explain": "50π to'liq davr bo'lgani uchun cos(2πk − α) = cos(−α) = cos α."
+    }
+  ],
+  "cards": [
+    [
+      "Radian",
+      "Yoy uzunligi radiusga teng markaziy burchak"
+    ],
+    [
+      "Sinus",
+      "Burilgan nuqtaning ordinatasi (y koordinatasi)"
+    ],
+    [
+      "Kosinus",
+      "Burilgan nuqtaning abssissasi (x koordinatasi)"
+    ],
+    [
+      "Tangens",
+      "Sinusning kosinusga nisbati (sin α / cos α)"
+    ],
+    [
+      "Kotangens",
+      "Kosinusning sinusga nisbati (cos α / sin α)"
+    ],
+    [
+      "Ayniyat",
+      "O'zgaruvchining barcha ruxsatli qiymatlarida to'g'ri tenglik"
+    ],
+    [
+      "Birlik",
+      "Radiusi R = 1 bo'lgan markaziy aylana"
+    ],
+    [
+      "Chorak",
+      "Koordinata tekisligining to'rtdan bir qismi"
+    ],
+    [
+      "Davr",
+      "Trigonometrik funksiyalar qiymati takrorlanuvchi burchak"
+    ],
+    [
+      "Keltirish",
+      "Katta burchakni o'tkir burchak orqali ifodalash"
+    ],
+    [
+      "Almashish",
+      "π/2 ± α va 3π/2 ± α da funksiyaning o'zgarishi"
+    ],
+    [
+      "Saqlanish",
+      "π ± α va 2π ± α da funksiya nomi o'zgarmasligi"
+    ],
+    [
+      "Qoida",
+      "Ikki qadamli keltirish: nomi va chorak ishorasi"
+    ],
+    [
+      "sin(π − α)",
+      "sin α ga teng (II chorak, '+' ishora)"
+    ],
+    [
+      "cos(π − α)",
+      "−cos α ga teng (II chorak, '−' ishora)"
+    ],
+    [
+      "sin(π/2 − α)",
+      "cos α ga teng (I chorak)"
+    ],
+    [
+      "cos(π/2 − α)",
+      "sin α ga teng (I chorak)"
+    ],
+    [
+      "sin(π/2 + α)",
+      "cos α ga teng (II chorak)"
+    ],
+    [
+      "cos(π/2 + α)",
+      "−sin α ga teng (II chorak)"
+    ],
+    [
+      "tg(π − α)",
+      "−tg α ga teng"
+    ],
+    [
+      "tg(π + α)",
+      "tg α ga teng (III chorak)"
+    ],
+    [
+      "cos(2π − α)",
+      "cos α ga teng (IV chorak)"
+    ],
+    [
+      "sin(3π/2 − α)",
+      "−cos α ga teng (III chorak)"
+    ],
+    [
+      "sin 150°",
+      "sin(180° − 30°) = sin 30° = 1/2"
+    ]
+  ]
+}

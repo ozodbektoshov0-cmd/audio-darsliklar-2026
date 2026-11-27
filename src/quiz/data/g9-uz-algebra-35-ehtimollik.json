@@ -1,0 +1,3851 @@
+{
+  "id": "g9-uz-algebra-35-ehtimollik",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "35-§. Hodisaning ehtimolligi",
+  "title": "35-§. Hodisaning ehtimolligi",
+  "source": "Algebra 9-sinf (2019), V bob, 35-§, 190–194-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Hodisa ehtimolligining klassik ta'rifi qaysi formula bilan beriladi?",
+      "options": [
+        "P(A) = m / n",
+        "P(A) = n / m",
+        "P(A) = m · n",
+        "P(A) = (n − m) / m"
+      ],
+      "answer": 0,
+      "explain": "m — qulay natijalar soni, n — barcha teng imkoniyatli natijalar soni: P(A) = m / n."
+    },
+    {
+      "type": "choice",
+      "q": "Har qanday A hodisaning P(A) ehtimolligi qaysi oraliqda bo'ladi?",
+      "options": [
+        "−1 ≤ P(A) ≤ 1",
+        "0 < P(A) < ∞",
+        "0 ≤ P(A) ≤ 1",
+        "1 ≤ P(A) ≤ 100"
+      ],
+      "answer": 2,
+      "explain": "0 ≤ m ≤ n bo'lgani uchun 0 ≤ P(A) ≤ 1."
+    },
+    {
+      "type": "choice",
+      "q": "1654-yilda ehtimolliklar nazariyasiga asos solgan ikki fransuz olimi kimlar edi?",
+      "options": [
+        "Yakob Bernulli va Eyler",
+        "Blez Paskal va Pyer Ferma",
+        "Isaak Nyuton va Leybnits",
+        "Karl Gauss va Koshi"
+      ],
+      "answer": 1,
+      "explain": "1654-yilda Paskal va Fermaning o'zaro yozishmalari ehtimolliklar nazariyasini boshlab bergan."
+    },
+    {
+      "type": "truefalse",
+      "q": "Muqarrar hodisaning ehtimolligi 1 ga, mumkin bo'lmagan hodisaniki 0 ga teng.",
+      "answer": true,
+      "explain": "P(Ω) = n/n = 1, P(∅) = 0/n = 0."
+    },
+    {
+      "type": "truefalse",
+      "q": "Agar P(A) = 0,35 bo'lsa, unga qarama-qarshi Ā hodisaning ehtimolligi 0,75 ga teng.",
+      "answer": false,
+      "explain": "P(Ā) = 1 − 0,35 = 0,65."
+    },
+    {
+      "type": "truefalse",
+      "q": "2 ta yutuqli va 6 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 1/4 ga teng.",
+      "answer": true,
+      "explain": "P = 2/(2 + 6) = 1/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "2 ta yutuqli va 3 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 2/5 ga teng.",
+      "answer": true,
+      "explain": "P = 2/(2 + 3) = 2/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq va 5 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "5/7",
+        "5/8",
+        "2/7"
+      ],
+      "answer": 1,
+      "explain": "1 − 2/7 = 5/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq, 3 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2/9",
+        "2/7",
+        "1/2",
+        "7/9"
+      ],
+      "answer": 0,
+      "explain": "Jami 9 ta shardan 2 tasi oq: P = 2/9 = 2/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq va 8 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "8/11",
+        "1/5",
+        "1/10",
+        "4/5"
+      ],
+      "answer": 3,
+      "explain": "1 − 1/5 = 4/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq, 5 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "7/9",
+        "2/7",
+        "1/2",
+        "2/9"
+      ],
+      "answer": 3,
+      "explain": "Jami 9 ta shardan 2 tasi oq: P = 2/9 = 2/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "2 ta yutuqli va 9 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 2/11 ga teng.",
+      "answer": true,
+      "explain": "P = 2/(2 + 9) = 2/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq, 6 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/2",
+        "1/5",
+        "1/6",
+        "5/6"
+      ],
+      "answer": 2,
+      "explain": "Jami 12 ta shardan 2 tasi oq: P = 2/12 = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq, 7 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2/7",
+        "2/9",
+        "7/9",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "Jami 9 ta shardan 2 tasi oq: P = 2/9 = 2/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq va 11 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "2/13",
+        "11/13",
+        "11/14",
+        "1/13"
+      ],
+      "answer": 1,
+      "explain": "1 − 2/13 = 11/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq, 8 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/5",
+        "5/6",
+        "1/2",
+        "1/6"
+      ],
+      "answer": 3,
+      "explain": "Jami 12 ta shardan 2 tasi oq: P = 2/12 = 1/6."
+    },
+    {
+      "type": "truefalse",
+      "q": "2 ta yutuqli va 12 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 1/7 ga teng.",
+      "answer": true,
+      "explain": "P = 2/(2 + 12) = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq, 9 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/2",
+        "2/13",
+        "2/15",
+        "13/15"
+      ],
+      "answer": 2,
+      "explain": "Jami 15 ta shardan 2 tasi oq: P = 2/15 = 2/15."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq, 10 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "1/5",
+        "5/6",
+        "1/2"
+      ],
+      "answer": 0,
+      "explain": "Jami 12 ta shardan 2 tasi oq: P = 2/12 = 1/6."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 2 ta oq va 14 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "7/8",
+        "1/16",
+        "1/8",
+        "14/17"
+      ],
+      "answer": 0,
+      "explain": "1 − 1/8 = 7/8."
+    },
+    {
+      "type": "truefalse",
+      "q": "3 ta yutuqli va 2 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 3/5 ga teng.",
+      "answer": true,
+      "explain": "P = 3/(3 + 2) = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq va 4 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/2",
+        "3/7",
+        "4/7",
+        "1/7"
+      ],
+      "answer": 2,
+      "explain": "1 − 3/7 = 4/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq, 2 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/9",
+        "1/3",
+        "2/3",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "Jami 9 ta shardan 3 tasi oq: P = 3/9 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq, 3 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "2/3",
+        "1/2",
+        "1"
+      ],
+      "answer": 2,
+      "explain": "Jami 6 ta shardan 3 tasi oq: P = 3/6 = 1/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "3 ta yutuqli va 5 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 3/8 ga teng.",
+      "answer": true,
+      "explain": "P = 3/(3 + 5) = 3/8."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq va 7 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "3/10",
+        "1/10",
+        "7/11",
+        "7/10"
+      ],
+      "answer": 3,
+      "explain": "1 − 3/10 = 7/10."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq, 4 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/9",
+        "2/3",
+        "1/2",
+        "1/3"
+      ],
+      "answer": 3,
+      "explain": "Jami 9 ta shardan 3 tasi oq: P = 3/9 = 1/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "3 ta yutuqli va 8 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 3/11 ga teng.",
+      "answer": true,
+      "explain": "P = 3/(3 + 8) = 3/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq, 6 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/9",
+        "1/3",
+        "2/3",
+        "1/2"
+      ],
+      "answer": 1,
+      "explain": "Jami 9 ta shardan 3 tasi oq: P = 3/9 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq va 10 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "5/7",
+        "3/13",
+        "1/13",
+        "10/13"
+      ],
+      "answer": 3,
+      "explain": "1 − 3/13 = 10/13."
+    },
+    {
+      "type": "truefalse",
+      "q": "3 ta yutuqli va 11 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 3/14 ga teng.",
+      "answer": true,
+      "explain": "P = 3/(3 + 11) = 3/14."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq, 8 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "1/5",
+        "1/3",
+        "4/5"
+      ],
+      "answer": 1,
+      "explain": "Jami 15 ta shardan 3 tasi oq: P = 3/15 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq va 13 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/16",
+        "13/17",
+        "3/16",
+        "13/16"
+      ],
+      "answer": 3,
+      "explain": "1 − 3/16 = 13/16."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 3 ta oq, 10 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "1/3",
+        "1/5",
+        "4/5"
+      ],
+      "answer": 2,
+      "explain": "Jami 15 ta shardan 3 tasi oq: P = 3/15 = 1/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "3 ta yutuqli va 14 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 3/17 ga teng.",
+      "answer": true,
+      "explain": "P = 3/(3 + 14) = 3/17."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq, 2 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "2",
+        "2/3",
+        "1/3"
+      ],
+      "answer": 2,
+      "explain": "Jami 6 ta shardan 4 tasi oq: P = 4/6 = 2/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "4 ta yutuqli va 4 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 1/2 ga teng.",
+      "answer": true,
+      "explain": "P = 4/(4 + 4) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq va 6 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/10",
+        "6/11",
+        "3/5",
+        "2/5"
+      ],
+      "answer": 2,
+      "explain": "1 − 2/5 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq va 3 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "3/7",
+        "3/8",
+        "4/7"
+      ],
+      "answer": 1,
+      "explain": "1 − 4/7 = 3/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq, 3 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/9",
+        "1/4",
+        "4/5",
+        "5/9"
+      ],
+      "answer": 0,
+      "explain": "Jami 9 ta shardan 4 tasi oq: P = 4/9 = 4/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "4 ta yutuqli va 7 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 4/11 ga teng.",
+      "answer": true,
+      "explain": "P = 4/(4 + 7) = 4/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq, 4 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "1/2",
+        "2/3",
+        "1/3"
+      ],
+      "answer": 3,
+      "explain": "Jami 12 ta shardan 4 tasi oq: P = 4/12 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq, 5 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/5",
+        "5/9",
+        "1/4",
+        "4/9"
+      ],
+      "answer": 3,
+      "explain": "Jami 9 ta shardan 4 tasi oq: P = 4/9 = 4/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq va 9 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/13",
+        "9/14",
+        "9/13",
+        "4/13"
+      ],
+      "answer": 2,
+      "explain": "1 − 4/13 = 9/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq, 6 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/4",
+        "2/3"
+      ],
+      "answer": 1,
+      "explain": "Jami 12 ta shardan 4 tasi oq: P = 4/12 = 1/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "4 ta yutuqli va 10 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 2/7 ga teng.",
+      "answer": true,
+      "explain": "P = 4/(4 + 10) = 2/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq, 7 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "11/15",
+        "4/11",
+        "1/4",
+        "4/15"
+      ],
+      "answer": 3,
+      "explain": "Jami 15 ta shardan 4 tasi oq: P = 4/15 = 4/15."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq, 8 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "2/3",
+        "1/2",
+        "1/4"
+      ],
+      "answer": 0,
+      "explain": "Jami 12 ta shardan 4 tasi oq: P = 4/12 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq va 12 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/16",
+        "1/4",
+        "3/4",
+        "12/17"
+      ],
+      "answer": 2,
+      "explain": "1 − 1/4 = 3/4."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq, 9 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/11",
+        "4/15",
+        "11/15",
+        "1/4"
+      ],
+      "answer": 1,
+      "explain": "Jami 15 ta shardan 4 tasi oq: P = 4/15 = 4/15."
+    },
+    {
+      "type": "truefalse",
+      "q": "4 ta yutuqli va 13 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 4/17 ga teng.",
+      "answer": true,
+      "explain": "P = 4/(4 + 13) = 4/17."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 4 ta oq, 10 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2/7",
+        "1/4",
+        "7/9",
+        "2/9"
+      ],
+      "answer": 3,
+      "explain": "Jami 18 ta shardan 4 tasi oq: P = 4/18 = 2/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq va 2 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "1/7",
+        "2/7",
+        "5/7"
+      ],
+      "answer": 2,
+      "explain": "1 − 5/7 = 2/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq, 2 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "5/9",
+        "1/5",
+        "5/4",
+        "4/9"
+      ],
+      "answer": 0,
+      "explain": "Jami 9 ta shardan 5 tasi oq: P = 5/9 = 5/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "5 ta yutuqli va 6 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 5/11 ga teng.",
+      "answer": true,
+      "explain": "P = 5/(5 + 6) = 5/11."
+    },
+    {
+      "type": "truefalse",
+      "q": "5 ta yutuqli va 3 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 5/8 ga teng.",
+      "answer": true,
+      "explain": "P = 5/(5 + 3) = 5/8."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq, 3 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "5/7",
+        "1/5",
+        "7/12",
+        "5/12"
+      ],
+      "answer": 3,
+      "explain": "Jami 12 ta shardan 5 tasi oq: P = 5/12 = 5/12."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq, 4 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/9",
+        "5/9",
+        "1/5",
+        "5/4"
+      ],
+      "answer": 1,
+      "explain": "Jami 9 ta shardan 5 tasi oq: P = 5/9 = 5/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq va 8 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "8/13",
+        "1/13",
+        "4/7",
+        "5/13"
+      ],
+      "answer": 0,
+      "explain": "1 − 5/13 = 8/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq, 5 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "7/12",
+        "1/5",
+        "5/7",
+        "5/12"
+      ],
+      "answer": 3,
+      "explain": "Jami 12 ta shardan 5 tasi oq: P = 5/12 = 5/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "5 ta yutuqli va 9 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 5/14 ga teng.",
+      "answer": true,
+      "explain": "P = 5/(5 + 9) = 5/14."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq, 6 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2/3",
+        "1/2",
+        "1/3",
+        "1/5"
+      ],
+      "answer": 2,
+      "explain": "Jami 15 ta shardan 5 tasi oq: P = 5/15 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq, 7 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "7/12",
+        "1/5",
+        "5/7",
+        "5/12"
+      ],
+      "answer": 3,
+      "explain": "Jami 12 ta shardan 5 tasi oq: P = 5/12 = 5/12."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq va 11 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "11/16",
+        "5/16",
+        "11/17",
+        "1/16"
+      ],
+      "answer": 0,
+      "explain": "1 − 5/16 = 11/16."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq, 8 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/5",
+        "2/3"
+      ],
+      "answer": 1,
+      "explain": "Jami 15 ta shardan 5 tasi oq: P = 5/15 = 1/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "5 ta yutuqli va 12 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 5/17 ga teng.",
+      "answer": true,
+      "explain": "P = 5/(5 + 12) = 5/17."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq, 9 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "5/18",
+        "5/13",
+        "13/18",
+        "1/5"
+      ],
+      "answer": 0,
+      "explain": "Jami 18 ta shardan 5 tasi oq: P = 5/18 = 5/18."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq, 10 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "1/2",
+        "2/3",
+        "1/5"
+      ],
+      "answer": 0,
+      "explain": "Jami 15 ta shardan 5 tasi oq: P = 5/15 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 5 ta oq va 14 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "5/19",
+        "14/19",
+        "1/19",
+        "7/10"
+      ],
+      "answer": 1,
+      "explain": "1 − 5/19 = 14/19."
+    },
+    {
+      "type": "truefalse",
+      "q": "6 ta yutuqli va 2 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 3/4 ga teng.",
+      "answer": true,
+      "explain": "P = 6/(6 + 2) = 3/4."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq va 4 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "2/5",
+        "3/5",
+        "1/10",
+        "4/11"
+      ],
+      "answer": 0,
+      "explain": "1 − 3/5 = 2/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq, 2 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "7/12",
+        "1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "Jami 12 ta shardan 6 tasi oq: P = 6/12 = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq, 3 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "1/3",
+        "2",
+        "2/3"
+      ],
+      "answer": 3,
+      "explain": "Jami 9 ta shardan 6 tasi oq: P = 6/9 = 2/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "6 ta yutuqli va 5 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 6/11 ga teng.",
+      "answer": true,
+      "explain": "P = 6/(6 + 5) = 6/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq va 7 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/13",
+        "1/2",
+        "6/13",
+        "7/13"
+      ],
+      "answer": 3,
+      "explain": "1 − 6/13 = 7/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq, 4 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "7/12",
+        "1/6",
+        "1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "Jami 12 ta shardan 6 tasi oq: P = 6/12 = 1/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "6 ta yutuqli va 8 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 3/7 ga teng.",
+      "answer": true,
+      "explain": "P = 6/(6 + 8) = 3/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq, 5 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "2/5",
+        "3/5",
+        "2/3"
+      ],
+      "answer": 1,
+      "explain": "Jami 15 ta shardan 6 tasi oq: P = 6/15 = 2/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq, 6 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "7/12",
+        "1/6",
+        "1",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "Jami 12 ta shardan 6 tasi oq: P = 6/12 = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq va 10 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "3/8",
+        "5/8",
+        "1/16",
+        "10/17"
+      ],
+      "answer": 1,
+      "explain": "1 − 3/8 = 5/8."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq, 7 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2/5",
+        "3/5",
+        "1/6",
+        "2/3"
+      ],
+      "answer": 0,
+      "explain": "Jami 15 ta shardan 6 tasi oq: P = 6/15 = 2/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "6 ta yutuqli va 11 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 6/17 ga teng.",
+      "answer": true,
+      "explain": "P = 6/(6 + 11) = 6/17."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq, 8 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "1/2",
+        "1/6",
+        "2/3"
+      ],
+      "answer": 0,
+      "explain": "Jami 18 ta shardan 6 tasi oq: P = 6/18 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq, 9 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2/3",
+        "2/5",
+        "3/5",
+        "1/6"
+      ],
+      "answer": 1,
+      "explain": "Jami 15 ta shardan 6 tasi oq: P = 6/15 = 2/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq va 13 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "13/20",
+        "13/19",
+        "1/19",
+        "6/19"
+      ],
+      "answer": 1,
+      "explain": "1 − 6/19 = 13/19."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 6 ta oq, 10 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "1/2",
+        "2/3",
+        "1/3"
+      ],
+      "answer": 3,
+      "explain": "Jami 18 ta shardan 6 tasi oq: P = 6/18 = 1/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "6 ta yutuqli va 14 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 3/10 ga teng.",
+      "answer": true,
+      "explain": "P = 6/(6 + 14) = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq, 2 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "7/2",
+        "1/7",
+        "2/9",
+        "7/9"
+      ],
+      "answer": 3,
+      "explain": "Jami 9 ta shardan 7 tasi oq: P = 7/9 = 7/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "7 ta yutuqli va 4 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 7/11 ga teng.",
+      "answer": true,
+      "explain": "P = 7/(7 + 4) = 7/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq va 6 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "7/13",
+        "1/13",
+        "6/13",
+        "3/7"
+      ],
+      "answer": 2,
+      "explain": "1 − 7/13 = 6/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq va 3 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "3/11",
+        "1/10",
+        "7/10",
+        "3/10"
+      ],
+      "answer": 3,
+      "explain": "1 − 7/10 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq, 3 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "7/5",
+        "7/12",
+        "5/12"
+      ],
+      "answer": 2,
+      "explain": "Jami 12 ta shardan 7 tasi oq: P = 7/12 = 7/12."
+    },
+    {
+      "type": "truefalse",
+      "q": "7 ta yutuqli va 7 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 1/2 ga teng.",
+      "answer": true,
+      "explain": "P = 7/(7 + 7) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq, 4 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "7/8",
+        "7/15",
+        "8/15"
+      ],
+      "answer": 2,
+      "explain": "Jami 15 ta shardan 7 tasi oq: P = 7/15 = 7/15."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq, 5 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "7/12",
+        "7/5",
+        "5/12"
+      ],
+      "answer": 1,
+      "explain": "Jami 12 ta shardan 7 tasi oq: P = 7/12 = 7/12."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq va 9 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "7/16",
+        "9/16",
+        "9/17",
+        "1/16"
+      ],
+      "answer": 1,
+      "explain": "1 − 7/16 = 9/16."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq, 6 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "7/15",
+        "8/15",
+        "1/7",
+        "7/8"
+      ],
+      "answer": 0,
+      "explain": "Jami 15 ta shardan 7 tasi oq: P = 7/15 = 7/15."
+    },
+    {
+      "type": "truefalse",
+      "q": "7 ta yutuqli va 10 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 7/17 ga teng.",
+      "answer": true,
+      "explain": "P = 7/(7 + 10) = 7/17."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq, 7 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "7/11",
+        "11/18",
+        "7/18",
+        "1/7"
+      ],
+      "answer": 2,
+      "explain": "Jami 18 ta shardan 7 tasi oq: P = 7/18 = 7/18."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq, 8 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "7/15",
+        "7/8",
+        "8/15"
+      ],
+      "answer": 1,
+      "explain": "Jami 15 ta shardan 7 tasi oq: P = 7/15 = 7/15."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq va 12 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "3/5",
+        "7/19",
+        "1/19",
+        "12/19"
+      ],
+      "answer": 3,
+      "explain": "1 − 7/19 = 12/19."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq, 9 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "7/18",
+        "11/18",
+        "7/11",
+        "1/7"
+      ],
+      "answer": 0,
+      "explain": "Jami 18 ta shardan 7 tasi oq: P = 7/18 = 7/18."
+    },
+    {
+      "type": "truefalse",
+      "q": "7 ta yutuqli va 13 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 7/20 ga teng.",
+      "answer": true,
+      "explain": "P = 7/(7 + 13) = 7/20."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 7 ta oq, 10 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "1/2",
+        "1/7",
+        "2/3"
+      ],
+      "answer": 0,
+      "explain": "Jami 21 ta shardan 7 tasi oq: P = 7/21 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq va 2 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "2/11",
+        "1/10",
+        "4/5",
+        "1/5"
+      ],
+      "answer": 3,
+      "explain": "1 − 4/5 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq, 2 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2/3",
+        "1/3",
+        "2",
+        "1/8"
+      ],
+      "answer": 0,
+      "explain": "Jami 12 ta shardan 8 tasi oq: P = 8/12 = 2/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "8 ta yutuqli va 6 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 4/7 ga teng.",
+      "answer": true,
+      "explain": "P = 8/(8 + 6) = 4/7."
+    },
+    {
+      "type": "truefalse",
+      "q": "8 ta yutuqli va 3 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 8/11 ga teng.",
+      "answer": true,
+      "explain": "P = 8/(8 + 3) = 8/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq va 5 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/13",
+        "8/13",
+        "5/13",
+        "5/14"
+      ],
+      "answer": 2,
+      "explain": "1 − 8/13 = 5/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq, 3 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "8/7",
+        "7/15",
+        "8/15",
+        "1/8"
+      ],
+      "answer": 2,
+      "explain": "Jami 15 ta shardan 8 tasi oq: P = 8/15 = 8/15."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq, 4 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2/3",
+        "1/8",
+        "2",
+        "1/3"
+      ],
+      "answer": 0,
+      "explain": "Jami 12 ta shardan 8 tasi oq: P = 8/12 = 2/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq, 5 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "7/15",
+        "1/8",
+        "8/7",
+        "8/15"
+      ],
+      "answer": 3,
+      "explain": "Jami 15 ta shardan 8 tasi oq: P = 8/15 = 8/15."
+    },
+    {
+      "type": "truefalse",
+      "q": "8 ta yutuqli va 9 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 8/17 ga teng.",
+      "answer": true,
+      "explain": "P = 8/(8 + 9) = 8/17."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq, 6 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/5",
+        "4/9",
+        "1/8",
+        "5/9"
+      ],
+      "answer": 1,
+      "explain": "Jami 18 ta shardan 8 tasi oq: P = 8/18 = 4/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq, 7 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "8/15",
+        "8/7",
+        "7/15",
+        "1/8"
+      ],
+      "answer": 0,
+      "explain": "Jami 15 ta shardan 8 tasi oq: P = 8/15 = 8/15."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq va 11 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "11/20",
+        "11/19",
+        "8/19",
+        "1/19"
+      ],
+      "answer": 1,
+      "explain": "1 − 8/19 = 11/19."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq, 8 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/9",
+        "5/9",
+        "4/5",
+        "1/8"
+      ],
+      "answer": 0,
+      "explain": "Jami 18 ta shardan 8 tasi oq: P = 8/18 = 4/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "8 ta yutuqli va 12 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 2/5 ga teng.",
+      "answer": true,
+      "explain": "P = 8/(8 + 12) = 2/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq, 9 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "8/13",
+        "13/21",
+        "1/8",
+        "8/21"
+      ],
+      "answer": 3,
+      "explain": "Jami 21 ta shardan 8 tasi oq: P = 8/21 = 8/21."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq, 10 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/9",
+        "5/9",
+        "4/5",
+        "1/8"
+      ],
+      "answer": 0,
+      "explain": "Jami 18 ta shardan 8 tasi oq: P = 8/18 = 4/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 8 ta oq va 14 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "4/11",
+        "1/22",
+        "14/23",
+        "7/11"
+      ],
+      "answer": 3,
+      "explain": "1 − 4/11 = 7/11."
+    },
+    {
+      "type": "truefalse",
+      "q": "9 ta yutuqli va 2 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 9/11 ga teng.",
+      "answer": true,
+      "explain": "P = 9/(9 + 2) = 9/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq va 4 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "2/7",
+        "1/13",
+        "4/13",
+        "9/13"
+      ],
+      "answer": 2,
+      "explain": "1 − 9/13 = 4/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq, 2 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2/5",
+        "3/2",
+        "1/9",
+        "3/5"
+      ],
+      "answer": 3,
+      "explain": "Jami 15 ta shardan 9 tasi oq: P = 9/15 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq, 3 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "3",
+        "1/9",
+        "1/4",
+        "3/4"
+      ],
+      "answer": 3,
+      "explain": "Jami 12 ta shardan 9 tasi oq: P = 9/12 = 3/4."
+    },
+    {
+      "type": "truefalse",
+      "q": "9 ta yutuqli va 5 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 9/14 ga teng.",
+      "answer": true,
+      "explain": "P = 9/(9 + 5) = 9/14."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq va 7 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "9/16",
+        "7/17",
+        "1/16",
+        "7/16"
+      ],
+      "answer": 3,
+      "explain": "1 − 9/16 = 7/16."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq, 4 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "3/5",
+        "1/9",
+        "3/2",
+        "2/5"
+      ],
+      "answer": 0,
+      "explain": "Jami 15 ta shardan 9 tasi oq: P = 9/15 = 3/5."
+    },
+    {
+      "type": "truefalse",
+      "q": "9 ta yutuqli va 8 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 9/17 ga teng.",
+      "answer": true,
+      "explain": "P = 9/(9 + 8) = 9/17."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq, 5 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/2",
+        "1",
+        "5/9",
+        "1/9"
+      ],
+      "answer": 0,
+      "explain": "Jami 18 ta shardan 9 tasi oq: P = 9/18 = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq, 6 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2/5",
+        "3/5",
+        "3/2",
+        "1/9"
+      ],
+      "answer": 1,
+      "explain": "Jami 15 ta shardan 9 tasi oq: P = 9/15 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq va 10 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/19",
+        "9/19",
+        "1/2",
+        "10/19"
+      ],
+      "answer": 3,
+      "explain": "1 − 9/19 = 10/19."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq, 7 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "5/9",
+        "1",
+        "1/9",
+        "1/2"
+      ],
+      "answer": 3,
+      "explain": "Jami 18 ta shardan 9 tasi oq: P = 9/18 = 1/2."
+    },
+    {
+      "type": "truefalse",
+      "q": "9 ta yutuqli va 11 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 9/20 ga teng.",
+      "answer": true,
+      "explain": "P = 9/(9 + 11) = 9/20."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq, 8 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "3/7",
+        "3/4",
+        "4/7",
+        "1/9"
+      ],
+      "answer": 0,
+      "explain": "Jami 21 ta shardan 9 tasi oq: P = 9/21 = 3/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq, 9 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "5/9",
+        "1/2",
+        "1/9",
+        "1"
+      ],
+      "answer": 1,
+      "explain": "Jami 18 ta shardan 9 tasi oq: P = 9/18 = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq va 13 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/22",
+        "13/23",
+        "13/22",
+        "9/22"
+      ],
+      "answer": 2,
+      "explain": "1 − 9/22 = 13/22."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 9 ta oq, 10 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "4/7",
+        "3/7",
+        "3/4",
+        "1/9"
+      ],
+      "answer": 1,
+      "explain": "Jami 21 ta shardan 9 tasi oq: P = 9/21 = 3/7."
+    },
+    {
+      "type": "truefalse",
+      "q": "9 ta yutuqli va 14 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 9/23 ga teng.",
+      "answer": true,
+      "explain": "P = 9/(9 + 14) = 9/23."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq, 2 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "5",
+        "1/6",
+        "1/10",
+        "5/6"
+      ],
+      "answer": 3,
+      "explain": "Jami 12 ta shardan 10 tasi oq: P = 10/12 = 5/6."
+    },
+    {
+      "type": "truefalse",
+      "q": "10 ta yutuqli va 4 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 5/7 ga teng.",
+      "answer": true,
+      "explain": "P = 10/(10 + 4) = 5/7."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq va 6 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "3/8",
+        "6/17",
+        "5/8",
+        "1/16"
+      ],
+      "answer": 0,
+      "explain": "1 − 5/8 = 3/8."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq va 3 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/13",
+        "3/14",
+        "10/13",
+        "3/13"
+      ],
+      "answer": 3,
+      "explain": "1 − 10/13 = 3/13."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq, 3 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "2",
+        "1/3",
+        "1/10",
+        "2/3"
+      ],
+      "answer": 3,
+      "explain": "Jami 15 ta shardan 10 tasi oq: P = 10/15 = 2/3."
+    },
+    {
+      "type": "truefalse",
+      "q": "10 ta yutuqli va 7 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 10/17 ga teng.",
+      "answer": true,
+      "explain": "P = 10/(10 + 7) = 10/17."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq, 4 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "5/9",
+        "1/10",
+        "4/9",
+        "5/4"
+      ],
+      "answer": 0,
+      "explain": "Jami 18 ta shardan 10 tasi oq: P = 10/18 = 5/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq, 5 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "2",
+        "2/3",
+        "1/10"
+      ],
+      "answer": 2,
+      "explain": "Jami 15 ta shardan 10 tasi oq: P = 10/15 = 2/3."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq va 9 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "1/19",
+        "9/19",
+        "10/19",
+        "9/20"
+      ],
+      "answer": 1,
+      "explain": "1 − 10/19 = 9/19."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq, 6 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "5/4",
+        "4/9",
+        "1/10",
+        "5/9"
+      ],
+      "answer": 3,
+      "explain": "Jami 18 ta shardan 10 tasi oq: P = 10/18 = 5/9."
+    },
+    {
+      "type": "truefalse",
+      "q": "10 ta yutuqli va 10 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 1/2 ga teng.",
+      "answer": true,
+      "explain": "P = 10/(10 + 10) = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq, 7 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "11/21",
+        "10/21",
+        "10/11",
+        "1/10"
+      ],
+      "answer": 1,
+      "explain": "Jami 21 ta shardan 10 tasi oq: P = 10/21 = 10/21."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq, 8 ta qizil shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "5/4",
+        "4/9",
+        "5/9",
+        "1/10"
+      ],
+      "answer": 2,
+      "explain": "Jami 18 ta shardan 10 tasi oq: P = 10/18 = 5/9."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq va 12 ta qora shar bor. Olingan sharning oq BO'LMASLIGI ehtimolligini toping.",
+      "options": [
+        "6/11",
+        "5/11",
+        "1/22",
+        "12/23"
+      ],
+      "answer": 0,
+      "explain": "1 − 5/11 = 6/11."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq, 9 ta qizil va 2 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "10/21",
+        "10/11",
+        "1/10",
+        "11/21"
+      ],
+      "answer": 0,
+      "explain": "Jami 21 ta shardan 10 tasi oq: P = 10/21 = 10/21."
+    },
+    {
+      "type": "truefalse",
+      "q": "10 ta yutuqli va 13 ta yutuqsiz chiptalar orasidan bitta chipta olganda yutuq chiqish ehtimolligi 10/23 ga teng.",
+      "answer": true,
+      "explain": "P = 10/(10 + 13) = 10/23."
+    },
+    {
+      "type": "choice",
+      "q": "Qutida 10 ta oq, 10 ta qizil va 4 ta ko'k shar bor. Tasodifiy olingan sharning oq bo'lish ehtimolligini toping.",
+      "options": [
+        "5/12",
+        "5/7",
+        "7/12",
+        "1/10"
+      ],
+      "answer": 0,
+      "explain": "Jami 24 ta shardan 10 tasi oq: P = 10/24 = 5/12."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,05 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,95",
+        "0.95"
+      ],
+      "explain": "P(Ā) = 1 − 0,05 = 0,95."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,08 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,92",
+        "0.92"
+      ],
+      "explain": "P(Ā) = 1 − 0,08 = 0,92."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,11 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,89",
+        "0.89"
+      ],
+      "explain": "P(Ā) = 1 − 0,11 = 0,89."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,14 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,86",
+        "0.86"
+      ],
+      "explain": "P(Ā) = 1 − 0,14 = 0,86."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,17 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,83",
+        "0.83"
+      ],
+      "explain": "P(Ā) = 1 − 0,17 = 0,83."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,20 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,80",
+        "0.80"
+      ],
+      "explain": "P(Ā) = 1 − 0,20 = 0,80."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,23 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,77",
+        "0.77"
+      ],
+      "explain": "P(Ā) = 1 − 0,23 = 0,77."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,26 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,74",
+        "0.74"
+      ],
+      "explain": "P(Ā) = 1 − 0,26 = 0,74."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,29 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,71",
+        "0.71"
+      ],
+      "explain": "P(Ā) = 1 − 0,29 = 0,71."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,32 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,68",
+        "0.68"
+      ],
+      "explain": "P(Ā) = 1 − 0,32 = 0,68."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,35 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,65",
+        "0.65"
+      ],
+      "explain": "P(Ā) = 1 − 0,35 = 0,65."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,38 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,62",
+        "0.62"
+      ],
+      "explain": "P(Ā) = 1 − 0,38 = 0,62."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,41 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,59",
+        "0.59"
+      ],
+      "explain": "P(Ā) = 1 − 0,41 = 0,59."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,44 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,56",
+        "0.56"
+      ],
+      "explain": "P(Ā) = 1 − 0,44 = 0,56."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,47 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,53",
+        "0.53"
+      ],
+      "explain": "P(Ā) = 1 − 0,47 = 0,53."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,50 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,50",
+        "0.50"
+      ],
+      "explain": "P(Ā) = 1 − 0,50 = 0,50."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,53 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,47",
+        "0.47"
+      ],
+      "explain": "P(Ā) = 1 − 0,53 = 0,47."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,56 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,44",
+        "0.44"
+      ],
+      "explain": "P(Ā) = 1 − 0,56 = 0,44."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,59 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,41",
+        "0.41"
+      ],
+      "explain": "P(Ā) = 1 − 0,59 = 0,41."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,62 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,38",
+        "0.38"
+      ],
+      "explain": "P(Ā) = 1 − 0,62 = 0,38."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,65 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,35",
+        "0.35"
+      ],
+      "explain": "P(Ā) = 1 − 0,65 = 0,35."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,68 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,32",
+        "0.32"
+      ],
+      "explain": "P(Ā) = 1 − 0,68 = 0,32."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,71 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,29",
+        "0.29"
+      ],
+      "explain": "P(Ā) = 1 − 0,71 = 0,29."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,74 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,26",
+        "0.26"
+      ],
+      "explain": "P(Ā) = 1 − 0,74 = 0,26."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,77 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,23",
+        "0.23"
+      ],
+      "explain": "P(Ā) = 1 − 0,77 = 0,23."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,80 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,20",
+        "0.20"
+      ],
+      "explain": "P(Ā) = 1 − 0,80 = 0,20."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,83 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,17",
+        "0.17"
+      ],
+      "explain": "P(Ā) = 1 − 0,83 = 0,17."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,86 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,14",
+        "0.14"
+      ],
+      "explain": "P(Ā) = 1 − 0,86 = 0,14."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,89 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,11",
+        "0.11"
+      ],
+      "explain": "P(Ā) = 1 − 0,89 = 0,11."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,92 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,08",
+        "0.08"
+      ],
+      "explain": "P(Ā) = 1 − 0,92 = 0,08."
+    },
+    {
+      "type": "fill",
+      "q": "Biror A hodisaning yuz berish ehtimolligi P(A) = 0,95 ga teng. Unga qarama-qarshi Ā hodisa ehtimolligi P(Ā) ni toping (vergul bilan yozing).",
+      "answer": [
+        "0,05",
+        "0.05"
+      ],
+      "explain": "P(Ā) = 1 − 0,95 = 0,05."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 10 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "3/10",
+        "7/10",
+        "2/5"
+      ],
+      "answer": 1,
+      "explain": "1..10 da 3 ga karrali sonlar 3 ta: P = 3/10 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 10 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "3/10",
+        "4/5",
+        "1/6",
+        "1/5"
+      ],
+      "answer": 3,
+      "explain": "1..10 da 5 ga karrali sonlar 2 ta: P = 2/10 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 12 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "1/3",
+        "5/12",
+        "2/3"
+      ],
+      "answer": 1,
+      "explain": "1..12 da 3 ga karrali sonlar 4 ta: P = 4/12 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 14 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "2/7",
+        "5/14",
+        "5/7"
+      ],
+      "answer": 1,
+      "explain": "1..14 da 3 ga karrali sonlar 4 ta: P = 4/14 = 2/7."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 14 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "6/7",
+        "3/14",
+        "1/7"
+      ],
+      "answer": 3,
+      "explain": "1..14 da 5 ga karrali sonlar 2 ta: P = 2/14 = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "3/8",
+        "1/4",
+        "11/16",
+        "5/16"
+      ],
+      "answer": 3,
+      "explain": "1..16 da 3 ga karrali sonlar 5 ta: P = 5/16 = 5/16."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "3/16",
+        "13/16",
+        "1/6",
+        "1/4"
+      ],
+      "answer": 0,
+      "explain": "1..16 da 5 ga karrali sonlar 3 ta: P = 3/16 = 3/16."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "7/18",
+        "1/4",
+        "2/3"
+      ],
+      "answer": 0,
+      "explain": "1..18 da 3 ga karrali sonlar 6 ta: P = 6/18 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "7/10",
+        "1/4",
+        "3/10",
+        "7/20"
+      ],
+      "answer": 2,
+      "explain": "1..20 da 3 ga karrali sonlar 6 ta: P = 6/20 = 3/10."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "1/5",
+        "4/5",
+        "1/6"
+      ],
+      "answer": 1,
+      "explain": "1..20 da 5 ga karrali sonlar 4 ta: P = 4/20 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "15/22",
+        "4/11",
+        "7/22"
+      ],
+      "answer": 3,
+      "explain": "1..22 da 3 ga karrali sonlar 7 ta: P = 7/22 = 7/22."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "9/11",
+        "5/22",
+        "2/11",
+        "1/6"
+      ],
+      "answer": 2,
+      "explain": "1..22 da 5 ga karrali sonlar 4 ta: P = 4/22 = 2/11."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 24 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "2/3",
+        "1/4",
+        "3/8",
+        "1/3"
+      ],
+      "answer": 3,
+      "explain": "1..24 da 3 ga karrali sonlar 8 ta: P = 8/24 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 26 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "4/13",
+        "1/4",
+        "9/13",
+        "9/26"
+      ],
+      "answer": 0,
+      "explain": "1..26 da 3 ga karrali sonlar 8 ta: P = 8/26 = 4/13."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 26 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "3/13",
+        "5/26",
+        "1/6",
+        "21/26"
+      ],
+      "answer": 1,
+      "explain": "1..26 da 5 ga karrali sonlar 5 ta: P = 5/26 = 5/26."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 28 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "19/28",
+        "1/4",
+        "5/14",
+        "9/28"
+      ],
+      "answer": 3,
+      "explain": "1..28 da 3 ga karrali sonlar 9 ta: P = 9/28 = 9/28."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 28 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "5/28",
+        "1/6",
+        "3/14",
+        "23/28"
+      ],
+      "answer": 0,
+      "explain": "1..28 da 5 ga karrali sonlar 5 ta: P = 5/28 = 5/28."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 30 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "11/30",
+        "2/3",
+        "1/3"
+      ],
+      "answer": 3,
+      "explain": "1..30 da 3 ga karrali sonlar 10 ta: P = 10/30 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 30 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/5",
+        "1/6",
+        "4/5",
+        "7/30"
+      ],
+      "answer": 0,
+      "explain": "1..30 da 5 ga karrali sonlar 6 ta: P = 6/30 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 32 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "5/16",
+        "11/16",
+        "11/32"
+      ],
+      "answer": 1,
+      "explain": "1..32 da 3 ga karrali sonlar 10 ta: P = 10/32 = 5/16."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 32 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "13/16",
+        "1/6",
+        "3/16",
+        "7/32"
+      ],
+      "answer": 2,
+      "explain": "1..32 da 5 ga karrali sonlar 6 ta: P = 6/32 = 3/16."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 34 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "6/17",
+        "1/4",
+        "23/34",
+        "11/34"
+      ],
+      "answer": 3,
+      "explain": "1..34 da 3 ga karrali sonlar 11 ta: P = 11/34 = 11/34."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 34 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "7/34",
+        "3/17",
+        "14/17"
+      ],
+      "answer": 2,
+      "explain": "1..34 da 5 ga karrali sonlar 6 ta: P = 6/34 = 3/17."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 36 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "13/36",
+        "2/3",
+        "1/4"
+      ],
+      "answer": 0,
+      "explain": "1..36 da 3 ga karrali sonlar 12 ta: P = 12/36 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 36 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "29/36",
+        "2/9",
+        "7/36"
+      ],
+      "answer": 3,
+      "explain": "1..36 da 5 ga karrali sonlar 7 ta: P = 7/36 = 7/36."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 38 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "13/38",
+        "13/19",
+        "6/19",
+        "1/4"
+      ],
+      "answer": 2,
+      "explain": "1..38 da 3 ga karrali sonlar 12 ta: P = 12/38 = 6/19."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 38 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "4/19",
+        "1/6",
+        "31/38",
+        "7/38"
+      ],
+      "answer": 3,
+      "explain": "1..38 da 5 ga karrali sonlar 7 ta: P = 7/38 = 7/38."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 40 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "27/40",
+        "13/40",
+        "7/20"
+      ],
+      "answer": 2,
+      "explain": "1..40 da 3 ga karrali sonlar 13 ta: P = 13/40 = 13/40."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 40 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "4/5",
+        "9/40",
+        "1/6",
+        "1/5"
+      ],
+      "answer": 3,
+      "explain": "1..40 da 5 ga karrali sonlar 8 ta: P = 8/40 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 42 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "5/14",
+        "1/4",
+        "2/3"
+      ],
+      "answer": 0,
+      "explain": "1..42 da 3 ga karrali sonlar 14 ta: P = 14/42 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 42 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "3/14",
+        "17/21",
+        "4/21",
+        "1/6"
+      ],
+      "answer": 2,
+      "explain": "1..42 da 5 ga karrali sonlar 8 ta: P = 8/42 = 4/21."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 44 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "15/22",
+        "15/44",
+        "7/22",
+        "1/4"
+      ],
+      "answer": 2,
+      "explain": "1..44 da 3 ga karrali sonlar 14 ta: P = 14/44 = 7/22."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 44 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "9/44",
+        "9/11",
+        "1/6",
+        "2/11"
+      ],
+      "answer": 3,
+      "explain": "1..44 da 5 ga karrali sonlar 8 ta: P = 8/44 = 2/11."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 46 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "15/46",
+        "8/23",
+        "1/4",
+        "31/46"
+      ],
+      "answer": 0,
+      "explain": "1..46 da 3 ga karrali sonlar 15 ta: P = 15/46 = 15/46."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 46 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "9/46",
+        "37/46",
+        "1/6",
+        "5/23"
+      ],
+      "answer": 0,
+      "explain": "1..46 da 5 ga karrali sonlar 9 ta: P = 9/46 = 9/46."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 48 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "2/3",
+        "17/48",
+        "1/3"
+      ],
+      "answer": 3,
+      "explain": "1..48 da 3 ga karrali sonlar 16 ta: P = 16/48 = 1/3."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 48 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "3/16",
+        "13/16",
+        "5/24"
+      ],
+      "answer": 1,
+      "explain": "1..48 da 5 ga karrali sonlar 9 ta: P = 9/48 = 3/16."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 50 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 3 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "17/50",
+        "17/25",
+        "8/25"
+      ],
+      "answer": 3,
+      "explain": "1..50 da 3 ga karrali sonlar 16 ta: P = 16/50 = 8/25."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 50 gacha raqamlangan kartochkalardan bittasi tanlandi. Raqamning 5 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "11/50",
+        "1/5",
+        "1/6",
+        "4/5"
+      ],
+      "answer": 1,
+      "explain": "1..50 da 5 ga karrali sonlar 10 ta: P = 10/50 = 1/5."
+    },
+    {
+      "type": "choice",
+      "q": "Ikkita o'yin kubigi tashlanganda ochkolar yig'indisi 2 ga teng bo'lish ehtimolligini toping.",
+      "options": [
+        "1/36",
+        "35/36",
+        "1/18",
+        "1/6"
+      ],
+      "answer": 0,
+      "explain": "Jami 36 natijadan 1 tasi qulay: P = 1/36 = 1/36."
+    },
+    {
+      "type": "choice",
+      "q": "Ikkita o'yin kubigi tashlanganda ochkolar yig'indisi 3 ga teng bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "17/18",
+        "1/18",
+        "1/12"
+      ],
+      "answer": 2,
+      "explain": "Jami 36 natijadan 2 tasi qulay: P = 2/36 = 1/18."
+    },
+    {
+      "type": "choice",
+      "q": "Ikkita o'yin kubigi tashlanganda ochkolar yig'indisi 4 ga teng bo'lish ehtimolligini toping.",
+      "options": [
+        "11/12",
+        "1/12",
+        "1/9",
+        "1/6"
+      ],
+      "answer": 1,
+      "explain": "Jami 36 natijadan 3 tasi qulay: P = 3/36 = 1/12."
+    },
+    {
+      "type": "choice",
+      "q": "Ikkita o'yin kubigi tashlanganda ochkolar yig'indisi 5 ga teng bo'lish ehtimolligini toping.",
+      "options": [
+        "8/9",
+        "1/9",
+        "5/36",
+        "1/6"
+      ],
+      "answer": 1,
+      "explain": "Jami 36 natijadan 4 tasi qulay: P = 4/36 = 1/9."
+    },
+    {
+      "type": "choice",
+      "q": "Ikkita o'yin kubigi tashlanganda ochkolar yig'indisi 9 ga teng bo'lish ehtimolligini toping.",
+      "options": [
+        "8/9",
+        "1/6",
+        "5/36",
+        "1/9"
+      ],
+      "answer": 3,
+      "explain": "Jami 36 natijadan 4 tasi qulay: P = 4/36 = 1/9."
+    },
+    {
+      "type": "choice",
+      "q": "Ikkita o'yin kubigi tashlanganda ochkolar yig'indisi 10 ga teng bo'lish ehtimolligini toping.",
+      "options": [
+        "1/12",
+        "1/9",
+        "11/12",
+        "1/6"
+      ],
+      "answer": 0,
+      "explain": "Jami 36 natijadan 3 tasi qulay: P = 3/36 = 1/12."
+    },
+    {
+      "type": "choice",
+      "q": "Ikkita o'yin kubigi tashlanganda ochkolar yig'indisi 11 ga teng bo'lish ehtimolligini toping.",
+      "options": [
+        "17/18",
+        "1/12",
+        "1/18",
+        "1/6"
+      ],
+      "answer": 2,
+      "explain": "Jami 36 natijadan 2 tasi qulay: P = 2/36 = 1/18."
+    },
+    {
+      "type": "choice",
+      "q": "Ikkita o'yin kubigi tashlanganda ochkolar yig'indisi 12 ga teng bo'lish ehtimolligini toping.",
+      "options": [
+        "1/36",
+        "1/18",
+        "35/36",
+        "1/6"
+      ],
+      "answer": 0,
+      "explain": "Jami 36 natijadan 1 tasi qulay: P = 1/36 = 1/36."
+    },
+    {
+      "type": "choice",
+      "q": "28 toshli dominodan tasodifiy olingan toshning «dubl» (bir xil raqamli) bo'lish ehtimolligi?",
+      "options": [
+        "7/36",
+        "1/28",
+        "1/7",
+        "1/4"
+      ],
+      "answer": 3,
+      "explain": "Dominoda 7 ta dubl bor (0-0..6-6): P = 7/28 = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "52 talik o'yin kartalari dastasidan tasodifiy olingan kartaning qizil rangli (g'isht yoki toppon) bo'lish ehtimolligi?",
+      "options": [
+        "1/52",
+        "1/4",
+        "1/2",
+        "1/13"
+      ],
+      "answer": 2,
+      "explain": "52 kartaning yarmi (26 tasi) qizil rangda: P = 26/52 = 1/2."
+    },
+    {
+      "type": "choice",
+      "q": "52 talik karta dastasidan olingan kartaning «tuz» chiqish ehtimolligi?",
+      "options": [
+        "1/13",
+        "4/13",
+        "1/52",
+        "1/4"
+      ],
+      "answer": 0,
+      "explain": "Dastada 4 ta tuz bor: P = 4/52 = 1/13."
+    },
+    {
+      "type": "choice",
+      "q": "52 talik karta dastasidan bitta karta olindi. Uning qarg'a (piki) mastida bo'lish ehtimolligi?",
+      "options": [
+        "1/2",
+        "1/13",
+        "1/4",
+        "1/52"
+      ],
+      "answer": 2,
+      "explain": "Har bir mastda 13 tadan karta bor: P = 13/52 = 1/4."
+    },
+    {
+      "type": "choice",
+      "q": "Ikki xonali maxfiy kod (00..99) ni bir urinishda to'g'ri topish ehtimolligi?",
+      "options": [
+        "1/90",
+        "1/50",
+        "1/100",
+        "1/10"
+      ],
+      "answer": 2,
+      "explain": "00 dan 99 gacha 100 ta teng imkoniyatli kod bor: P = 1/100."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 12 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "1/12",
+        "1/6",
+        "11/12"
+      ],
+      "answer": 1,
+      "explain": "7 ga karralilar 1 ta: P = 1/12 = 1/12."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 14 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 4 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "2/7",
+        "3/14",
+        "1/4",
+        "11/14"
+      ],
+      "answer": 1,
+      "explain": "4 ga karralilar 3 ta: P = 3/14 = 3/14."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 14 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "1/6",
+        "3/14",
+        "6/7"
+      ],
+      "answer": 0,
+      "explain": "6 ga karralilar 2 ta: P = 2/14 = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/8",
+        "7/8",
+        "3/16",
+        "1/6"
+      ],
+      "answer": 0,
+      "explain": "6 ga karralilar 2 ta: P = 2/16 = 1/8."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/8",
+        "1/7",
+        "7/8",
+        "3/16"
+      ],
+      "answer": 0,
+      "explain": "7 ga karralilar 2 ta: P = 2/16 = 1/8."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 4 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "7/9",
+        "5/18",
+        "2/9"
+      ],
+      "answer": 3,
+      "explain": "4 ga karralilar 4 ta: P = 4/18 = 2/9."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "1/7",
+        "1/9",
+        "8/9"
+      ],
+      "answer": 2,
+      "explain": "7 ga karralilar 2 ta: P = 2/18 = 1/9."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/5",
+        "3/20",
+        "1/6",
+        "17/20"
+      ],
+      "answer": 1,
+      "explain": "6 ga karralilar 3 ta: P = 3/20 = 3/20."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "3/20",
+        "1/10",
+        "9/10",
+        "1/7"
+      ],
+      "answer": 1,
+      "explain": "7 ga karralilar 2 ta: P = 2/20 = 1/10."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 4 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "3/11",
+        "1/4",
+        "17/22",
+        "5/22"
+      ],
+      "answer": 3,
+      "explain": "4 ga karralilar 5 ta: P = 5/22 = 5/22."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "2/11",
+        "3/22",
+        "19/22",
+        "1/6"
+      ],
+      "answer": 1,
+      "explain": "6 ga karralilar 3 ta: P = 3/22 = 3/22."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "19/22",
+        "2/11",
+        "1/7",
+        "3/22"
+      ],
+      "answer": 3,
+      "explain": "7 ga karralilar 3 ta: P = 3/22 = 3/22."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 24 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "7/8",
+        "1/6",
+        "1/7",
+        "1/8"
+      ],
+      "answer": 3,
+      "explain": "7 ga karralilar 3 ta: P = 3/24 = 1/8."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 26 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 4 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "10/13",
+        "1/4",
+        "3/13",
+        "7/26"
+      ],
+      "answer": 2,
+      "explain": "4 ga karralilar 6 ta: P = 6/26 = 3/13."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 26 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "11/13",
+        "5/26",
+        "2/13",
+        "1/6"
+      ],
+      "answer": 2,
+      "explain": "6 ga karralilar 4 ta: P = 4/26 = 2/13."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 26 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "2/13",
+        "3/26",
+        "23/26"
+      ],
+      "answer": 2,
+      "explain": "7 ga karralilar 3 ta: P = 3/26 = 3/26."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 28 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "6/7",
+        "1/6",
+        "1/7",
+        "5/28"
+      ],
+      "answer": 2,
+      "explain": "6 ga karralilar 4 ta: P = 4/28 = 1/7."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 30 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 4 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "7/30",
+        "4/15",
+        "1/4",
+        "23/30"
+      ],
+      "answer": 0,
+      "explain": "4 ga karralilar 7 ta: P = 7/30 = 7/30."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 30 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "2/15",
+        "13/15",
+        "1/6"
+      ],
+      "answer": 1,
+      "explain": "7 ga karralilar 4 ta: P = 4/30 = 2/15."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 32 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "3/16",
+        "1/6",
+        "27/32",
+        "5/32"
+      ],
+      "answer": 3,
+      "explain": "6 ga karralilar 5 ta: P = 5/32 = 5/32."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 32 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "7/8",
+        "5/32",
+        "1/7",
+        "1/8"
+      ],
+      "answer": 3,
+      "explain": "7 ga karralilar 4 ta: P = 4/32 = 1/8."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 34 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 4 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "13/17",
+        "4/17",
+        "9/34"
+      ],
+      "answer": 2,
+      "explain": "4 ga karralilar 8 ta: P = 8/34 = 4/17."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 34 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "5/34",
+        "29/34",
+        "1/6",
+        "3/17"
+      ],
+      "answer": 0,
+      "explain": "6 ga karralilar 5 ta: P = 5/34 = 5/34."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 34 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "5/34",
+        "15/17",
+        "2/17"
+      ],
+      "answer": 3,
+      "explain": "7 ga karralilar 4 ta: P = 4/34 = 2/17."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 36 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "5/36",
+        "1/7",
+        "1/6",
+        "31/36"
+      ],
+      "answer": 0,
+      "explain": "7 ga karralilar 5 ta: P = 5/36 = 5/36."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 38 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 4 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "29/38",
+        "5/19",
+        "1/4",
+        "9/38"
+      ],
+      "answer": 3,
+      "explain": "4 ga karralilar 9 ta: P = 9/38 = 9/38."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 38 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "16/19",
+        "7/38",
+        "3/19",
+        "1/6"
+      ],
+      "answer": 2,
+      "explain": "6 ga karralilar 6 ta: P = 6/38 = 3/19."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 38 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "5/38",
+        "1/7",
+        "33/38",
+        "3/19"
+      ],
+      "answer": 0,
+      "explain": "7 ga karralilar 5 ta: P = 5/38 = 5/38."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 40 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "7/40",
+        "17/20",
+        "3/20",
+        "1/6"
+      ],
+      "answer": 2,
+      "explain": "6 ga karralilar 6 ta: P = 6/40 = 3/20."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 40 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/8",
+        "3/20",
+        "1/7",
+        "7/8"
+      ],
+      "answer": 0,
+      "explain": "7 ga karralilar 5 ta: P = 5/40 = 1/8."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 42 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 4 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "5/21",
+        "1/4",
+        "11/42",
+        "16/21"
+      ],
+      "answer": 0,
+      "explain": "4 ga karralilar 10 ta: P = 10/42 = 5/21."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 44 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "7/44",
+        "1/6",
+        "37/44",
+        "2/11"
+      ],
+      "answer": 0,
+      "explain": "6 ga karralilar 7 ta: P = 7/44 = 7/44."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 44 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "19/22",
+        "7/44",
+        "1/7",
+        "3/22"
+      ],
+      "answer": 3,
+      "explain": "7 ga karralilar 6 ta: P = 6/44 = 3/22."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 46 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 4 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/4",
+        "6/23",
+        "35/46",
+        "11/46"
+      ],
+      "answer": 3,
+      "explain": "4 ga karralilar 11 ta: P = 11/46 = 11/46."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 46 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "39/46",
+        "7/46",
+        "4/23"
+      ],
+      "answer": 2,
+      "explain": "6 ga karralilar 7 ta: P = 7/46 = 7/46."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 46 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "3/23",
+        "7/46",
+        "20/23",
+        "1/7"
+      ],
+      "answer": 0,
+      "explain": "7 ga karralilar 6 ta: P = 6/46 = 3/23."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 48 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "7/48",
+        "1/8",
+        "1/7",
+        "7/8"
+      ],
+      "answer": 1,
+      "explain": "7 ga karralilar 6 ta: P = 6/48 = 1/8."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 50 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 4 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "19/25",
+        "13/50",
+        "6/25",
+        "1/4"
+      ],
+      "answer": 2,
+      "explain": "4 ga karralilar 12 ta: P = 12/50 = 6/25."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 50 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "9/50",
+        "21/25",
+        "1/6",
+        "4/25"
+      ],
+      "answer": 3,
+      "explain": "6 ga karralilar 8 ta: P = 8/50 = 4/25."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 50 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "7/50",
+        "4/25",
+        "43/50"
+      ],
+      "answer": 1,
+      "explain": "7 ga karralilar 7 ta: P = 7/50 = 7/50."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 52 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 6 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "11/13",
+        "9/52",
+        "2/13"
+      ],
+      "answer": 3,
+      "explain": "6 ga karralilar 8 ta: P = 8/52 = 2/13."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 52 gacha raqamlangan sharlar ichidan bittasi tanlandi. Raqamning 7 ga karrali bo'lish ehtimolligini toping.",
+      "options": [
+        "1/7",
+        "2/13",
+        "7/52",
+        "45/52"
+      ],
+      "answer": 2,
+      "explain": "7 ga karralilar 7 ta: P = 7/52 = 7/52."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 15 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 2 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "13/15",
+        "14/15",
+        "1/15",
+        "2/15"
+      ],
+      "answer": 0,
+      "explain": "2 dan katta sonlar 3..15 (13 ta): P = 13/15 = 13/15."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 15 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 3 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "4/5",
+        "1/5",
+        "1/15",
+        "13/15"
+      ],
+      "answer": 0,
+      "explain": "3 dan katta sonlar 4..15 (12 ta): P = 12/15 = 4/5."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 15 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 4 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/15",
+        "4/5",
+        "11/15",
+        "4/15"
+      ],
+      "answer": 2,
+      "explain": "4 dan katta sonlar 5..15 (11 ta): P = 11/15 = 11/15."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 15 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 5 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/15",
+        "1/3",
+        "11/15",
+        "2/3"
+      ],
+      "answer": 3,
+      "explain": "5 dan katta sonlar 6..15 (10 ta): P = 10/15 = 2/3."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 15 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 6 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "3/5",
+        "2/3",
+        "2/5",
+        "1/15"
+      ],
+      "answer": 0,
+      "explain": "6 dan katta sonlar 7..15 (9 ta): P = 9/15 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 15 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 7 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "7/15",
+        "3/5",
+        "8/15",
+        "1/15"
+      ],
+      "answer": 2,
+      "explain": "7 dan katta sonlar 8..15 (8 ta): P = 8/15 = 8/15."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 2 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/8",
+        "1/16",
+        "15/16",
+        "7/8"
+      ],
+      "answer": 3,
+      "explain": "2 dan katta sonlar 3..16 (14 ta): P = 14/16 = 7/8."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 3 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/16",
+        "13/16",
+        "7/8",
+        "3/16"
+      ],
+      "answer": 1,
+      "explain": "3 dan katta sonlar 4..16 (13 ta): P = 13/16 = 13/16."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 4 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/16",
+        "1/4",
+        "13/16",
+        "3/4"
+      ],
+      "answer": 3,
+      "explain": "4 dan katta sonlar 5..16 (12 ta): P = 12/16 = 3/4."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 5 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/16",
+        "3/4",
+        "11/16",
+        "5/16"
+      ],
+      "answer": 2,
+      "explain": "5 dan katta sonlar 6..16 (11 ta): P = 11/16 = 11/16."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 6 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "11/16",
+        "3/8",
+        "5/8",
+        "1/16"
+      ],
+      "answer": 2,
+      "explain": "6 dan katta sonlar 7..16 (10 ta): P = 10/16 = 5/8."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 16 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 7 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "7/16",
+        "9/16",
+        "5/8",
+        "1/16"
+      ],
+      "answer": 1,
+      "explain": "7 dan katta sonlar 8..16 (9 ta): P = 9/16 = 9/16."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 17 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 2 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "15/17",
+        "2/17",
+        "16/17",
+        "1/17"
+      ],
+      "answer": 0,
+      "explain": "2 dan katta sonlar 3..17 (15 ta): P = 15/17 = 15/17."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 17 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 3 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "15/17",
+        "3/17",
+        "14/17",
+        "1/17"
+      ],
+      "answer": 2,
+      "explain": "3 dan katta sonlar 4..17 (14 ta): P = 14/17 = 14/17."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 17 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 4 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "4/17",
+        "14/17",
+        "13/17",
+        "1/17"
+      ],
+      "answer": 2,
+      "explain": "4 dan katta sonlar 5..17 (13 ta): P = 13/17 = 13/17."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 17 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 5 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "5/17",
+        "1/17",
+        "13/17",
+        "12/17"
+      ],
+      "answer": 3,
+      "explain": "5 dan katta sonlar 6..17 (12 ta): P = 12/17 = 12/17."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 17 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 6 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/17",
+        "12/17",
+        "11/17",
+        "6/17"
+      ],
+      "answer": 2,
+      "explain": "6 dan katta sonlar 7..17 (11 ta): P = 11/17 = 11/17."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 17 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 7 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "10/17",
+        "11/17",
+        "7/17",
+        "1/17"
+      ],
+      "answer": 0,
+      "explain": "7 dan katta sonlar 8..17 (10 ta): P = 10/17 = 10/17."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 17 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 8 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "9/17",
+        "8/17",
+        "10/17",
+        "1/17"
+      ],
+      "answer": 0,
+      "explain": "8 dan katta sonlar 9..17 (9 ta): P = 9/17 = 9/17."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 2 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "8/9",
+        "17/18",
+        "1/9",
+        "1/18"
+      ],
+      "answer": 0,
+      "explain": "2 dan katta sonlar 3..18 (16 ta): P = 16/18 = 8/9."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 3 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/6",
+        "8/9",
+        "1/18",
+        "5/6"
+      ],
+      "answer": 3,
+      "explain": "3 dan katta sonlar 4..18 (15 ta): P = 15/18 = 5/6."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 4 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/18",
+        "7/9",
+        "5/6",
+        "2/9"
+      ],
+      "answer": 1,
+      "explain": "4 dan katta sonlar 5..18 (14 ta): P = 14/18 = 7/9."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 5 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "7/9",
+        "5/18",
+        "13/18",
+        "1/18"
+      ],
+      "answer": 2,
+      "explain": "5 dan katta sonlar 6..18 (13 ta): P = 13/18 = 13/18."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 6 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "1/18",
+        "13/18",
+        "2/3"
+      ],
+      "answer": 3,
+      "explain": "6 dan katta sonlar 7..18 (12 ta): P = 12/18 = 2/3."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 7 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/18",
+        "11/18",
+        "7/18",
+        "2/3"
+      ],
+      "answer": 1,
+      "explain": "7 dan katta sonlar 8..18 (11 ta): P = 11/18 = 11/18."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 18 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 8 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/18",
+        "11/18",
+        "5/9",
+        "4/9"
+      ],
+      "answer": 2,
+      "explain": "8 dan katta sonlar 9..18 (10 ta): P = 10/18 = 5/9."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 19 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 2 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "17/19",
+        "2/19",
+        "18/19",
+        "1/19"
+      ],
+      "answer": 0,
+      "explain": "2 dan katta sonlar 3..19 (17 ta): P = 17/19 = 17/19."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 19 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 3 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "3/19",
+        "16/19",
+        "17/19",
+        "1/19"
+      ],
+      "answer": 1,
+      "explain": "3 dan katta sonlar 4..19 (16 ta): P = 16/19 = 16/19."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 19 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 4 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "4/19",
+        "16/19",
+        "15/19",
+        "1/19"
+      ],
+      "answer": 2,
+      "explain": "4 dan katta sonlar 5..19 (15 ta): P = 15/19 = 15/19."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 19 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 5 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/19",
+        "5/19",
+        "14/19",
+        "15/19"
+      ],
+      "answer": 2,
+      "explain": "5 dan katta sonlar 6..19 (14 ta): P = 14/19 = 14/19."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 19 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 6 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "13/19",
+        "1/19",
+        "14/19",
+        "6/19"
+      ],
+      "answer": 0,
+      "explain": "6 dan katta sonlar 7..19 (13 ta): P = 13/19 = 13/19."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 19 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 7 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/19",
+        "12/19",
+        "13/19",
+        "7/19"
+      ],
+      "answer": 1,
+      "explain": "7 dan katta sonlar 8..19 (12 ta): P = 12/19 = 12/19."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 19 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 8 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "12/19",
+        "11/19",
+        "8/19",
+        "1/19"
+      ],
+      "answer": 1,
+      "explain": "8 dan katta sonlar 9..19 (11 ta): P = 11/19 = 11/19."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 2 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "9/10",
+        "1/20",
+        "19/20",
+        "1/10"
+      ],
+      "answer": 0,
+      "explain": "2 dan katta sonlar 3..20 (18 ta): P = 18/20 = 9/10."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 3 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "3/20",
+        "1/20",
+        "9/10",
+        "17/20"
+      ],
+      "answer": 3,
+      "explain": "3 dan katta sonlar 4..20 (17 ta): P = 17/20 = 17/20."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 4 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "17/20",
+        "1/5",
+        "1/20",
+        "4/5"
+      ],
+      "answer": 3,
+      "explain": "4 dan katta sonlar 5..20 (16 ta): P = 16/20 = 4/5."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 5 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/20",
+        "4/5",
+        "3/4",
+        "1/4"
+      ],
+      "answer": 2,
+      "explain": "5 dan katta sonlar 6..20 (15 ta): P = 15/20 = 3/4."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 6 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "7/10",
+        "1/20",
+        "3/4",
+        "3/10"
+      ],
+      "answer": 0,
+      "explain": "6 dan katta sonlar 7..20 (14 ta): P = 14/20 = 7/10."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 7 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "13/20",
+        "7/20",
+        "1/20",
+        "7/10"
+      ],
+      "answer": 0,
+      "explain": "7 dan katta sonlar 8..20 (13 ta): P = 13/20 = 13/20."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 20 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 8 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "2/5",
+        "13/20",
+        "3/5",
+        "1/20"
+      ],
+      "answer": 2,
+      "explain": "8 dan katta sonlar 9..20 (12 ta): P = 12/20 = 3/5."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 21 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 2 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "20/21",
+        "1/21",
+        "2/21",
+        "19/21"
+      ],
+      "answer": 3,
+      "explain": "2 dan katta sonlar 3..21 (19 ta): P = 19/21 = 19/21."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 21 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 3 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "6/7",
+        "19/21",
+        "1/21",
+        "1/7"
+      ],
+      "answer": 0,
+      "explain": "3 dan katta sonlar 4..21 (18 ta): P = 18/21 = 6/7."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 21 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 4 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "4/21",
+        "17/21",
+        "6/7",
+        "1/21"
+      ],
+      "answer": 1,
+      "explain": "4 dan katta sonlar 5..21 (17 ta): P = 17/21 = 17/21."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 21 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 5 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "5/21",
+        "16/21",
+        "1/21",
+        "17/21"
+      ],
+      "answer": 1,
+      "explain": "5 dan katta sonlar 6..21 (16 ta): P = 16/21 = 16/21."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 21 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 6 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "5/7",
+        "1/21",
+        "16/21",
+        "2/7"
+      ],
+      "answer": 0,
+      "explain": "6 dan katta sonlar 7..21 (15 ta): P = 15/21 = 5/7."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 21 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 7 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/3",
+        "1/21",
+        "5/7",
+        "2/3"
+      ],
+      "answer": 3,
+      "explain": "7 dan katta sonlar 8..21 (14 ta): P = 14/21 = 2/3."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 21 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 8 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "8/21",
+        "1/21",
+        "2/3",
+        "13/21"
+      ],
+      "answer": 3,
+      "explain": "8 dan katta sonlar 9..21 (13 ta): P = 13/21 = 13/21."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 2 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "10/11",
+        "21/22",
+        "1/22",
+        "1/11"
+      ],
+      "answer": 0,
+      "explain": "2 dan katta sonlar 3..22 (20 ta): P = 20/22 = 10/11."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 3 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "19/22",
+        "3/22",
+        "10/11",
+        "1/22"
+      ],
+      "answer": 0,
+      "explain": "3 dan katta sonlar 4..22 (19 ta): P = 19/22 = 19/22."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 4 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/22",
+        "19/22",
+        "9/11",
+        "2/11"
+      ],
+      "answer": 2,
+      "explain": "4 dan katta sonlar 5..22 (18 ta): P = 18/22 = 9/11."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 5 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "5/22",
+        "9/11",
+        "17/22",
+        "1/22"
+      ],
+      "answer": 2,
+      "explain": "5 dan katta sonlar 6..22 (17 ta): P = 17/22 = 17/22."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 6 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "17/22",
+        "8/11",
+        "1/22",
+        "3/11"
+      ],
+      "answer": 1,
+      "explain": "6 dan katta sonlar 7..22 (16 ta): P = 16/22 = 8/11."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 7 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "7/22",
+        "1/22",
+        "8/11",
+        "15/22"
+      ],
+      "answer": 3,
+      "explain": "7 dan katta sonlar 8..22 (15 ta): P = 15/22 = 15/22."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 22 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 8 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/22",
+        "15/22",
+        "7/11",
+        "4/11"
+      ],
+      "answer": 2,
+      "explain": "8 dan katta sonlar 9..22 (14 ta): P = 14/22 = 7/11."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 23 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 2 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "22/23",
+        "2/23",
+        "1/23",
+        "21/23"
+      ],
+      "answer": 3,
+      "explain": "2 dan katta sonlar 3..23 (21 ta): P = 21/23 = 21/23."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 23 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 3 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "20/23",
+        "21/23",
+        "3/23",
+        "1/23"
+      ],
+      "answer": 0,
+      "explain": "3 dan katta sonlar 4..23 (20 ta): P = 20/23 = 20/23."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 23 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 4 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "4/23",
+        "20/23",
+        "1/23",
+        "19/23"
+      ],
+      "answer": 3,
+      "explain": "4 dan katta sonlar 5..23 (19 ta): P = 19/23 = 19/23."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 23 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 5 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "18/23",
+        "1/23",
+        "5/23",
+        "19/23"
+      ],
+      "answer": 0,
+      "explain": "5 dan katta sonlar 6..23 (18 ta): P = 18/23 = 18/23."
+    },
+    {
+      "type": "choice",
+      "q": "1 dan 23 gacha raqamlangan kartochkalardan bittasi olindi. Raqamning 6 dan katta bo'lish ehtimolligini toping.",
+      "options": [
+        "1/23",
+        "18/23",
+        "6/23",
+        "17/23"
+      ],
+      "answer": 3,
+      "explain": "6 dan katta sonlar 7..23 (17 ta): P = 17/23 = 17/23."
+    }
+  ],
+  "cards": [
+    [
+      "Ehtimollik",
+      "P(A) = m / n hodisa yuz berish imkoniyati o'lchovi"
+    ],
+    [
+      "Klassik",
+      "Teng imkoniyatli natijalar soni nisbatiga asoslangan ta'rif"
+    ],
+    [
+      "Paskal",
+      "1654-yilda ehtimolliklar nazariyasiga asos solgan fransuz olimi"
+    ],
+    [
+      "Ferma",
+      "Paskal bilan ehtimollik muammolarini yozishgan matematik"
+    ],
+    [
+      "Qulay",
+      "A hodisani yuzaga keltiruvchi m ta natija"
+    ],
+    [
+      "Qaramaqarshi",
+      "P(Ā) = 1 − P(A) formulasi"
+    ],
+    [
+      "Yig'indi",
+      "Uyg'unmas hodisalar uchun P(A∪B) = P(A) + P(B)"
+    ],
+    [
+      "Chegara",
+      "0 ≤ P(A) ≤ 1 ehtimollik xossasi"
+    ],
+    [
+      "P(Ω) = 1",
+      "Muqarrar hodisa ehtimolligi 1 ga teng"
+    ],
+    [
+      "P(∅) = 0",
+      "Mumkin bo'lmagan hodisa ehtimolligi 0 ga teng"
+    ],
+    [
+      "P(A) = m / n",
+      "Ehtimollikning klassik formulasi"
+    ],
+    [
+      "P(Ā) = 1 − P(A)",
+      "Qarama-qarshi hodisa ehtimolligi"
+    ],
+    [
+      "Tanga gerbi",
+      "P = 1/2 (0,5)"
+    ],
+    [
+      "Kubik 6 ochko",
+      "P = 1/6"
+    ],
+    [
+      "Kubik juft son",
+      "P = 3/6 = 1/2"
+    ],
+    [
+      "Blez Paskal",
+      "1623–1662 yillarda yashagan fransuz olimi"
+    ],
+    [
+      "Pyer Ferma",
+      "1601–1665 yillarda yashagan fransuz matematigi"
+    ],
+    [
+      "1654-yil",
+      "Ehtimolliklar nazariyasi vujudga kelgan yil"
+    ],
+    [
+      "Shar chiqarish",
+      "m/(m+k) formulali klassik masala"
+    ],
+    [
+      "Sifatli mahsulot",
+      "(n − k)/n ehtimollik"
+    ],
+    [
+      "Lotereya chiptasi",
+      "Yutuqli chiptalar soni / jami chiptalar"
+    ],
+    [
+      "Ikki tanga",
+      "Ikkala marta gerb tushishi P = 1/4"
+    ],
+    [
+      "m ≤ n sharti",
+      "Qulay natijalar jami natijalardan oshmaydi"
+    ],
+    [
+      "Uyg'unmas yig'indi",
+      "P(A) + P(B) ≤ 1"
+    ]
+  ]
+}

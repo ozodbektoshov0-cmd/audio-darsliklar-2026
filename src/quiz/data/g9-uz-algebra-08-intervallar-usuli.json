@@ -1,0 +1,3862 @@
+{
+  "id": "g9-uz-algebra-08-intervallar-usuli",
+  "subjectId": "g9-uz-algebra",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Algebra",
+  "topicTitle": "8-§. Intervallar usuli",
+  "title": "8-§. Intervallar usuli",
+  "source": "Algebra 9-sinf (2019), I bob, 8-§, 32–36-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "Intervallar usulida ratsional P(x)/Q(x) ≥ 0 tengsizlik yechilganda Q(x) = 0 ildizlar qanday belgilanadi?",
+      "options": [
+        "Bo'yalgan nuqta",
+        "Har doim yechimga kiradi",
+        "Ochiq nuqta (yechimga kirmaydi)",
+        "E'tiborga olinmaydi"
+      ],
+      "answer": 2,
+      "explain": "Maxraj nolga teng bo'la olmagani uchun Q(x) = 0 nuqtalar doimo ochiq (kirmaydi)."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 2)²(x − 5) < 0 tengsizlikda x = 2 nuqtadan o'tganda ishora qanday o'zgaradi?",
+      "options": [
+        "Nolga teng bo'lib qoladi",
+        "Musbatdan manfiyga o'tadi",
+        "Manfiydan musbatga o'tadi",
+        "Ishora o'zgarmaydi"
+      ],
+      "answer": 3,
+      "explain": "(x − 2)² juft daraja bo'lgani uchun x = 2 atrofida ishora saqlanadi."
+    },
+    {
+      "type": "truefalse",
+      "q": "Intervallar usuli ikkinchi darajadan yuqori ko'phadli va kasrli tengsizliklarni yechishda qo'llaniladi.",
+      "answer": true,
+      "explain": "Bu usul ixtiyoriy darajali ko'paytuvchili va ratsional tengsizliklar uchun universaldir."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x − 1)/(x + 3) ≤ 0 tengsizlik yechimiga x = −3 nuqta kiradi.",
+      "answer": false,
+      "explain": "x = −3 maxrajni nolga aylantiradi, shuning uchun kirmaydi."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 5)/(x + 4) > 0 tengsizlik (−∞; -5) ∪ (-4; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)/(x + 3) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[-5; -3)",
+        "(-5; -3)",
+        "(−∞; -5) ∪ (-3; +∞)",
+        "(-5; -3]"
+      ],
+      "answer": 1,
+      "explain": "Nollar -5 va -3. O'rta interval (-5; -3) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)/(x + 2) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-5; -2]",
+        "[-5; -2)",
+        "[-5; -2]",
+        "(-5; -2)"
+      ],
+      "answer": 1,
+      "explain": "Surat ildizi -5 kiradi, maxraj ildizi -2 kirmaydi: [-5; -2)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 5)/(x + 1) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "4",
+      "explain": "[-5; -1) yarim intervalda 4 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 5)/x > 0 tengsizlik (−∞; -5) ∪ (0; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)/(x − 1) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(-5; 1)",
+        "[-5; 1)",
+        "(-5; 1]",
+        "(−∞; -5) ∪ (1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Nollar -5 va 1. O'rta interval (-5; 1) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)/(x − 2) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-5; 2)",
+        "(-5; 2]",
+        "[-5; 2)",
+        "[-5; 2]"
+      ],
+      "answer": 2,
+      "explain": "Surat ildizi -5 kiradi, maxraj ildizi 2 kirmaydi: [-5; 2)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 5)/(x − 3) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "8",
+      "explain": "[-5; 3) yarim intervalda 8 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 5)/(x − 4) > 0 tengsizlik (−∞; -5) ∪ (4; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)/(x − 5) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(-5; 5)",
+        "[-5; 5)",
+        "(-5; 5]",
+        "(−∞; -5) ∪ (5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Nollar -5 va 5. O'rta interval (-5; 5) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)/(x − 6) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[-5; 6]",
+        "(-5; 6]",
+        "(-5; 6)",
+        "[-5; 6)"
+      ],
+      "answer": 3,
+      "explain": "Surat ildizi -5 kiradi, maxraj ildizi 6 kirmaydi: [-5; 6)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 5)/(x − 7) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "12",
+      "explain": "[-5; 7) yarim intervalda 12 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)/(x + 3) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-4; -3]",
+        "[-4; -3)",
+        "[-4; -3]",
+        "(-4; -3)"
+      ],
+      "answer": 1,
+      "explain": "Surat ildizi -4 kiradi, maxraj ildizi -3 kirmaydi: [-4; -3)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 4)/(x + 2) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "2",
+      "explain": "[-4; -2) yarim intervalda 2 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 4)/(x + 1) > 0 tengsizlik (−∞; -4) ∪ (-1; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)/x < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[-4; 0)",
+        "(-4; 0]",
+        "(−∞; -4) ∪ (0; +∞)",
+        "(-4; 0)"
+      ],
+      "answer": 3,
+      "explain": "Nollar -4 va 0. O'rta interval (-4; 0) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)/(x − 1) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-4; 1]",
+        "[-4; 1]",
+        "(-4; 1)",
+        "[-4; 1)"
+      ],
+      "answer": 3,
+      "explain": "Surat ildizi -4 kiradi, maxraj ildizi 1 kirmaydi: [-4; 1)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 4)/(x − 2) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "6",
+      "explain": "[-4; 2) yarim intervalda 6 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 4)/(x − 3) > 0 tengsizlik (−∞; -4) ∪ (3; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)/(x − 4) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; -4) ∪ (4; +∞)",
+        "(-4; 4)",
+        "(-4; 4]",
+        "[-4; 4)"
+      ],
+      "answer": 1,
+      "explain": "Nollar -4 va 4. O'rta interval (-4; 4) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)/(x − 5) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[-4; 5)",
+        "(-4; 5)",
+        "[-4; 5]",
+        "(-4; 5]"
+      ],
+      "answer": 0,
+      "explain": "Surat ildizi -4 kiradi, maxraj ildizi 5 kirmaydi: [-4; 5)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 4)/(x − 6) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "10",
+      "explain": "[-4; 6) yarim intervalda 10 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 4)/(x − 7) > 0 tengsizlik (−∞; -4) ∪ (7; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 3)/(x + 2) > 0 tengsizlik (−∞; -3) ∪ (-2; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)/(x + 1) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[-3; -1)",
+        "(-3; -1]",
+        "(-3; -1)",
+        "(−∞; -3) ∪ (-1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Nollar -3 va -1. O'rta interval (-3; -1) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)/x ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-3; 0]",
+        "[-3; 0]",
+        "(-3; 0)",
+        "[-3; 0)"
+      ],
+      "answer": 3,
+      "explain": "Surat ildizi -3 kiradi, maxraj ildizi 0 kirmaydi: [-3; 0)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 3)/(x − 1) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "4",
+      "explain": "[-3; 1) yarim intervalda 4 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 3)/(x − 2) > 0 tengsizlik (−∞; -3) ∪ (2; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)/(x − 3) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; -3) ∪ (3; +∞)",
+        "(-3; 3)",
+        "(-3; 3]",
+        "[-3; 3)"
+      ],
+      "answer": 1,
+      "explain": "Nollar -3 va 3. O'rta interval (-3; 3) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)/(x − 4) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[-3; 4]",
+        "(-3; 4)",
+        "(-3; 4]",
+        "[-3; 4)"
+      ],
+      "answer": 3,
+      "explain": "Surat ildizi -3 kiradi, maxraj ildizi 4 kirmaydi: [-3; 4)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 3)/(x − 5) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "8",
+      "explain": "[-3; 5) yarim intervalda 8 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 3)/(x − 6) > 0 tengsizlik (−∞; -3) ∪ (6; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)/(x − 7) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; -3) ∪ (7; +∞)",
+        "[-3; 7)",
+        "(-3; 7)",
+        "(-3; 7]"
+      ],
+      "answer": 2,
+      "explain": "Nollar -3 va 7. O'rta interval (-3; 7) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)/(x + 1) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-2; -1)",
+        "(-2; -1]",
+        "[-2; -1)",
+        "[-2; -1]"
+      ],
+      "answer": 2,
+      "explain": "Surat ildizi -2 kiradi, maxraj ildizi -1 kirmaydi: [-2; -1)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 2)/x ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "2",
+      "explain": "[-2; 0) yarim intervalda 2 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 2)/(x − 1) > 0 tengsizlik (−∞; -2) ∪ (1; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)/(x − 2) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; -2) ∪ (2; +∞)",
+        "(-2; 2]",
+        "(-2; 2)",
+        "[-2; 2)"
+      ],
+      "answer": 2,
+      "explain": "Nollar -2 va 2. O'rta interval (-2; 2) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)/(x − 3) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[-2; 3]",
+        "(-2; 3]",
+        "[-2; 3)",
+        "(-2; 3)"
+      ],
+      "answer": 2,
+      "explain": "Surat ildizi -2 kiradi, maxraj ildizi 3 kirmaydi: [-2; 3)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 2)/(x − 4) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "6",
+      "explain": "[-2; 4) yarim intervalda 6 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 2)/(x − 5) > 0 tengsizlik (−∞; -2) ∪ (5; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)/(x − 6) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; -2) ∪ (6; +∞)",
+        "(-2; 6]",
+        "[-2; 6)",
+        "(-2; 6)"
+      ],
+      "answer": 3,
+      "explain": "Nollar -2 va 6. O'rta interval (-2; 6) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)/(x − 7) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-2; 7]",
+        "(-2; 7)",
+        "[-2; 7)",
+        "[-2; 7]"
+      ],
+      "answer": 2,
+      "explain": "Surat ildizi -2 kiradi, maxraj ildizi 7 kirmaydi: [-2; 7)."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 1)/x > 0 tengsizlik (−∞; -1) ∪ (0; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)/(x − 1) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(-1; 1)",
+        "[-1; 1)",
+        "(-1; 1]",
+        "(−∞; -1) ∪ (1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Nollar -1 va 1. O'rta interval (-1; 1) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)/(x − 2) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-1; 2)",
+        "[-1; 2)",
+        "[-1; 2]",
+        "(-1; 2]"
+      ],
+      "answer": 1,
+      "explain": "Surat ildizi -1 kiradi, maxraj ildizi 2 kirmaydi: [-1; 2)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 1)/(x − 3) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "4",
+      "explain": "[-1; 3) yarim intervalda 4 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x + 1)/(x − 4) > 0 tengsizlik (−∞; -1) ∪ (4; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)/(x − 5) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[-1; 5)",
+        "(-1; 5)",
+        "(-1; 5]",
+        "(−∞; -1) ∪ (5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Nollar -1 va 5. O'rta interval (-1; 5) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)/(x − 6) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-1; 6)",
+        "(-1; 6]",
+        "[-1; 6)",
+        "[-1; 6]"
+      ],
+      "answer": 2,
+      "explain": "Surat ildizi -1 kiradi, maxraj ildizi 6 kirmaydi: [-1; 6)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 1)/(x − 7) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "8",
+      "explain": "[-1; 7) yarim intervalda 8 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "x/(x − 1) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[0; 1]",
+        "(0; 1]",
+        "(0; 1)",
+        "[0; 1)"
+      ],
+      "answer": 3,
+      "explain": "Surat ildizi 0 kiradi, maxraj ildizi 1 kirmaydi: [0; 1)."
+    },
+    {
+      "type": "fill",
+      "q": "x/(x − 2) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "2",
+      "explain": "[0; 2) yarim intervalda 2 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x/(x − 3) > 0 tengsizlik (−∞; 0) ∪ (3; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "x/(x − 4) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 0) ∪ (4; +∞)",
+        "(0; 4)",
+        "[0; 4)",
+        "(0; 4]"
+      ],
+      "answer": 1,
+      "explain": "Nollar 0 va 4. O'rta interval (0; 4) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "x/(x − 5) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(0; 5)",
+        "(0; 5]",
+        "[0; 5]",
+        "[0; 5)"
+      ],
+      "answer": 3,
+      "explain": "Surat ildizi 0 kiradi, maxraj ildizi 5 kirmaydi: [0; 5)."
+    },
+    {
+      "type": "fill",
+      "q": "x/(x − 6) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "6",
+      "explain": "[0; 6) yarim intervalda 6 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "x/(x − 7) > 0 tengsizlik (−∞; 0) ∪ (7; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x − 1)/(x − 2) > 0 tengsizlik (−∞; 1) ∪ (2; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 1)/(x − 3) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(−∞; 1) ∪ (3; +∞)",
+        "[1; 3)",
+        "(1; 3)",
+        "(1; 3]"
+      ],
+      "answer": 2,
+      "explain": "Nollar 1 va 3. O'rta interval (1; 3) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 1)/(x − 4) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(1; 4]",
+        "[1; 4]",
+        "[1; 4)",
+        "(1; 4)"
+      ],
+      "answer": 2,
+      "explain": "Surat ildizi 1 kiradi, maxraj ildizi 4 kirmaydi: [1; 4)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 1)/(x − 5) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "4",
+      "explain": "[1; 5) yarim intervalda 4 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x − 1)/(x − 6) > 0 tengsizlik (−∞; 1) ∪ (6; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 1)/(x − 7) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(1; 7)",
+        "[1; 7)",
+        "(1; 7]",
+        "(−∞; 1) ∪ (7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Nollar 1 va 7. O'rta interval (1; 7) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 2)/(x − 3) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(2; 3)",
+        "[2; 3]",
+        "(2; 3]",
+        "[2; 3)"
+      ],
+      "answer": 3,
+      "explain": "Surat ildizi 2 kiradi, maxraj ildizi 3 kirmaydi: [2; 3)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 2)/(x − 4) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "2",
+      "explain": "[2; 4) yarim intervalda 2 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x − 2)/(x − 5) > 0 tengsizlik (−∞; 2) ∪ (5; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 2)/(x − 6) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "[2; 6)",
+        "(2; 6]",
+        "(−∞; 2) ∪ (6; +∞)",
+        "(2; 6)"
+      ],
+      "answer": 3,
+      "explain": "Nollar 2 va 6. O'rta interval (2; 6) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 2)/(x − 7) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[2; 7)",
+        "(2; 7]",
+        "(2; 7)",
+        "[2; 7]"
+      ],
+      "answer": 0,
+      "explain": "Surat ildizi 2 kiradi, maxraj ildizi 7 kirmaydi: [2; 7)."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x − 3)/(x − 4) > 0 tengsizlik (−∞; 3) ∪ (4; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 3)/(x − 5) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(3; 5]",
+        "(3; 5)",
+        "[3; 5)",
+        "(−∞; 3) ∪ (5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Nollar 3 va 5. O'rta interval (3; 5) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 3)/(x − 6) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[3; 6)",
+        "(3; 6]",
+        "(3; 6)",
+        "[3; 6]"
+      ],
+      "answer": 0,
+      "explain": "Surat ildizi 3 kiradi, maxraj ildizi 6 kirmaydi: [3; 6)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 3)/(x − 7) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "4",
+      "explain": "[3; 7) yarim intervalda 4 ta butun son bor."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 4)/(x − 5) ≤ 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "[4; 5)",
+        "(4; 5]",
+        "(4; 5)",
+        "[4; 5]"
+      ],
+      "answer": 0,
+      "explain": "Surat ildizi 4 kiradi, maxraj ildizi 5 kirmaydi: [4; 5)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 4)/(x − 6) ≤ 0 tengsizlikning nechta butun yechimi mavjud?",
+      "answer": "2",
+      "explain": "[4; 6) yarim intervalda 2 ta butun son bor."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x − 4)/(x − 7) > 0 tengsizlik (−∞; 4) ∪ (7; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "truefalse",
+      "q": "(x − 5)/(x − 6) > 0 tengsizlik (−∞; 5) ∪ (6; +∞) da bajariladi.",
+      "answer": true,
+      "explain": "Chetki intervallarda surat va maxraj bir xil ishorali."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 5)/(x − 7) < 0 tengsizlikning yechimini toping.",
+      "options": [
+        "(5; 7)",
+        "(5; 7]",
+        "[5; 7)",
+        "(−∞; 5) ∪ (7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Nollar 5 va 7. O'rta interval (5; 7) da kasr manfiy."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)(x + 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; -4) ∪ (-3; +∞)",
+        "(-5; -3)",
+        "(−∞; -5) ∪ (-4; -3)",
+        "[-5; -4] ∪ [-3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -4) ∪ (-3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)(x + 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-5; -4) ∪ (-2; +∞)",
+        "(−∞; -5) ∪ (-2; +∞)",
+        "(-4; -2)",
+        "(−∞; -5) ∪ (-4; -2)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-4; -2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)(x + 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-5; -4] ∪ [-1; +∞)",
+        "(−∞; -5) ∪ (-4; -1)",
+        "(-5; -4) ∪ (-1; +∞)",
+        "(-5; -1)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -4) ∪ (-1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)x < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; 0)",
+        "(−∞; -5) ∪ (0; +∞)",
+        "(-5; -4) ∪ (0; +∞)",
+        "(−∞; -5) ∪ (-4; 0)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-4; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)(x − 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-5; -4] ∪ [1; +∞)",
+        "(-5; 1)",
+        "(-5; -4) ∪ (1; +∞)",
+        "(−∞; -5) ∪ (-4; 1)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -4) ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; 2)",
+        "(−∞; -5) ∪ (2; +∞)",
+        "(−∞; -5) ∪ (-4; 2)",
+        "(-5; -4) ∪ (2; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-4; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-5; -4] ∪ [3; +∞)",
+        "(-5; -4) ∪ (3; +∞)",
+        "(−∞; -5) ∪ (-4; 3)",
+        "(-5; 3)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -4) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-5; -4) ∪ (4; +∞)",
+        "(−∞; -5) ∪ (4; +∞)",
+        "(−∞; -5) ∪ (-4; 4)",
+        "(-4; 4)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-4; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-5; -4] ∪ [5; +∞)",
+        "(−∞; -5) ∪ (-4; 5)",
+        "(-5; 5)",
+        "(-5; -4) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -4) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (-4; 6)",
+        "(−∞; -5) ∪ (6; +∞)",
+        "(-4; 6)",
+        "(-5; -4) ∪ (6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-4; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 4)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 7)",
+        "[-5; -4] ∪ [7; +∞)",
+        "(−∞; -5) ∪ (-4; 7)",
+        "(-5; -4) ∪ (7; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -4) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 3)(x + 2) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; -3) ∪ (-2; +∞)",
+        "[-5; -3] ∪ [-2; +∞)",
+        "(−∞; -5) ∪ (-3; -2)",
+        "(-5; -2)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -3) ∪ (-2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 3)(x + 1) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; -1)",
+        "(−∞; -5) ∪ (-3; -1)",
+        "(−∞; -5) ∪ (-1; +∞)",
+        "(-5; -3) ∪ (-1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-3; -1)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 3)x > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 0)",
+        "[-5; -3] ∪ [0; +∞)",
+        "(−∞; -5) ∪ (-3; 0)",
+        "(-5; -3) ∪ (0; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -3) ∪ (0; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 3)(x − 1) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (1; +∞)",
+        "(-5; -3) ∪ (1; +∞)",
+        "(-3; 1)",
+        "(−∞; -5) ∪ (-3; 1)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-3; 1)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 3)(x − 2) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 2)",
+        "(-5; -3) ∪ (2; +∞)",
+        "(−∞; -5) ∪ (-3; 2)",
+        "[-5; -3] ∪ [2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -3) ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 3)(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-5; -3) ∪ (3; +∞)",
+        "(−∞; -5) ∪ (3; +∞)",
+        "(−∞; -5) ∪ (-3; 3)",
+        "(-3; 3)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-3; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 3)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-5; -3] ∪ [4; +∞)",
+        "(-5; -3) ∪ (4; +∞)",
+        "(-5; 4)",
+        "(−∞; -5) ∪ (-3; 4)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -3) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 3)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (-3; 5)",
+        "(-3; 5)",
+        "(-5; -3) ∪ (5; +∞)",
+        "(−∞; -5) ∪ (5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-3; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 3)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 6)",
+        "(-5; -3) ∪ (6; +∞)",
+        "(−∞; -5) ∪ (-3; 6)",
+        "[-5; -3] ∪ [6; +∞)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -3) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 3)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (-3; 7)",
+        "(-3; 7)",
+        "(−∞; -5) ∪ (7; +∞)",
+        "(-5; -3) ∪ (7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-3; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 2)(x + 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; -1)",
+        "(-5; -2) ∪ (-1; +∞)",
+        "(−∞; -5) ∪ (-2; -1)",
+        "[-5; -2] ∪ [-1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -2) ∪ (-1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 2)x < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; 0)",
+        "(−∞; -5) ∪ (-2; 0)",
+        "(-5; -2) ∪ (0; +∞)",
+        "(−∞; -5) ∪ (0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-2; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 2)(x − 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; -2) ∪ (1; +∞)",
+        "(-5; 1)",
+        "[-5; -2] ∪ [1; +∞)",
+        "(−∞; -5) ∪ (-2; 1)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -2) ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 2)(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (2; +∞)",
+        "(-5; -2) ∪ (2; +∞)",
+        "(−∞; -5) ∪ (-2; 2)",
+        "(-2; 2)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-2; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 2)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -5) ∪ (-2; 3)",
+        "[-5; -2] ∪ [3; +∞)",
+        "(-5; -2) ∪ (3; +∞)",
+        "(-5; 3)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -2) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 2)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (-2; 4)",
+        "(-2; 4)",
+        "(−∞; -5) ∪ (4; +∞)",
+        "(-5; -2) ∪ (4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-2; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 2)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; -2) ∪ (5; +∞)",
+        "(−∞; -5) ∪ (-2; 5)",
+        "(-5; 5)",
+        "[-5; -2] ∪ [5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -2) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 2)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-5; -2) ∪ (6; +∞)",
+        "(−∞; -5) ∪ (6; +∞)",
+        "(−∞; -5) ∪ (-2; 6)",
+        "(-2; 6)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-2; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 2)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; -2) ∪ (7; +∞)",
+        "(−∞; -5) ∪ (-2; 7)",
+        "[-5; -2] ∪ [7; +∞)",
+        "(-5; 7)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -2) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 1)x > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 0)",
+        "(-5; -1) ∪ (0; +∞)",
+        "(−∞; -5) ∪ (-1; 0)",
+        "[-5; -1] ∪ [0; +∞)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -1) ∪ (0; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 1)(x − 1) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (1; +∞)",
+        "(−∞; -5) ∪ (-1; 1)",
+        "(-5; -1) ∪ (1; +∞)",
+        "(-1; 1)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-1; 1)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 1)(x − 2) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; -1) ∪ (2; +∞)",
+        "(−∞; -5) ∪ (-1; 2)",
+        "(-5; 2)",
+        "[-5; -1] ∪ [2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -1) ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 1)(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (3; +∞)",
+        "(−∞; -5) ∪ (-1; 3)",
+        "(-5; -1) ∪ (3; +∞)",
+        "(-1; 3)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-1; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 1)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 4)",
+        "[-5; -1] ∪ [4; +∞)",
+        "(−∞; -5) ∪ (-1; 4)",
+        "(-5; -1) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -1) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 1)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-1; 5)",
+        "(−∞; -5) ∪ (-1; 5)",
+        "(-5; -1) ∪ (5; +∞)",
+        "(−∞; -5) ∪ (5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-1; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 1)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-5; -1] ∪ [6; +∞)",
+        "(−∞; -5) ∪ (-1; 6)",
+        "(-5; 6)",
+        "(-5; -1) ∪ (6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; -1) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x + 1)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (-1; 7)",
+        "(-1; 7)",
+        "(-5; -1) ∪ (7; +∞)",
+        "(−∞; -5) ∪ (7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (-1; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)x(x − 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 1)",
+        "(−∞; -5) ∪ (0; 1)",
+        "[-5; 0] ∪ [1; +∞)",
+        "(-5; 0) ∪ (1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 0) ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)x(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-5; 0) ∪ (2; +∞)",
+        "(−∞; -5) ∪ (0; 2)",
+        "(0; 2)",
+        "(−∞; -5) ∪ (2; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (0; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)x(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 3)",
+        "[-5; 0] ∪ [3; +∞)",
+        "(−∞; -5) ∪ (0; 3)",
+        "(-5; 0) ∪ (3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 0) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)x(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (4; +∞)",
+        "(0; 4)",
+        "(−∞; -5) ∪ (0; 4)",
+        "(-5; 0) ∪ (4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (0; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)x(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 5)",
+        "(−∞; -5) ∪ (0; 5)",
+        "(-5; 0) ∪ (5; +∞)",
+        "[-5; 0] ∪ [5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 0) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)x(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (6; +∞)",
+        "(−∞; -5) ∪ (0; 6)",
+        "(-5; 0) ∪ (6; +∞)",
+        "(0; 6)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (0; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)x(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 0) ∪ (7; +∞)",
+        "(-5; 7)",
+        "(−∞; -5) ∪ (0; 7)",
+        "[-5; 0] ∪ [7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 0) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 1)(x − 2) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 2)",
+        "[-5; 1] ∪ [2; +∞)",
+        "(−∞; -5) ∪ (1; 2)",
+        "(-5; 1) ∪ (2; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 1) ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 1)(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-5; 1) ∪ (3; +∞)",
+        "(−∞; -5) ∪ (1; 3)",
+        "(−∞; -5) ∪ (3; +∞)",
+        "(1; 3)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (1; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 1)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-5; 1] ∪ [4; +∞)",
+        "(-5; 1) ∪ (4; +∞)",
+        "(-5; 4)",
+        "(−∞; -5) ∪ (1; 4)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 1) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 1)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-5; 1) ∪ (5; +∞)",
+        "(1; 5)",
+        "(−∞; -5) ∪ (1; 5)",
+        "(−∞; -5) ∪ (5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (1; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 1)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 1) ∪ (6; +∞)",
+        "(−∞; -5) ∪ (1; 6)",
+        "[-5; 1] ∪ [6; +∞)",
+        "(-5; 6)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 1) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 1)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (7; +∞)",
+        "(-5; 1) ∪ (7; +∞)",
+        "(1; 7)",
+        "(−∞; -5) ∪ (1; 7)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (1; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 2)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-5; 2] ∪ [3; +∞)",
+        "(−∞; -5) ∪ (2; 3)",
+        "(-5; 3)",
+        "(-5; 2) ∪ (3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 2) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 2)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (2; 4)",
+        "(2; 4)",
+        "(-5; 2) ∪ (4; +∞)",
+        "(−∞; -5) ∪ (4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (2; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 2)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -5) ∪ (2; 5)",
+        "(-5; 5)",
+        "[-5; 2] ∪ [5; +∞)",
+        "(-5; 2) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 2) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 2)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (6; +∞)",
+        "(2; 6)",
+        "(-5; 2) ∪ (6; +∞)",
+        "(−∞; -5) ∪ (2; 6)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (2; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 2)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-5; 2] ∪ [7; +∞)",
+        "(−∞; -5) ∪ (2; 7)",
+        "(-5; 2) ∪ (7; +∞)",
+        "(-5; 7)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 2) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 3)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -5) ∪ (3; 4)",
+        "(-5; 3) ∪ (4; +∞)",
+        "[-5; 3] ∪ [4; +∞)",
+        "(-5; 4)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 3) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 3)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (3; 5)",
+        "(−∞; -5) ∪ (5; +∞)",
+        "(-5; 3) ∪ (5; +∞)",
+        "(3; 5)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (3; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 3)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-5; 3) ∪ (6; +∞)",
+        "(−∞; -5) ∪ (3; 6)",
+        "[-5; 3] ∪ [6; +∞)",
+        "(-5; 6)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-5; 3) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 5)(x − 3)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -5) ∪ (7; +∞)",
+        "(-5; 3) ∪ (7; +∞)",
+        "(3; 7)",
+        "(−∞; -5) ∪ (3; 7)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -5) ∪ (3; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 3)(x + 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (-2; +∞)",
+        "(-3; -2)",
+        "(-4; -3) ∪ (-2; +∞)",
+        "(−∞; -4) ∪ (-3; -2)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-3; -2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 3)(x + 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -4) ∪ (-3; -1)",
+        "(-4; -3) ∪ (-1; +∞)",
+        "[-4; -3] ∪ [-1; +∞)",
+        "(-4; -1)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -3) ∪ (-1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 3)x < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; 0)",
+        "(-4; -3) ∪ (0; +∞)",
+        "(−∞; -4) ∪ (-3; 0)",
+        "(−∞; -4) ∪ (0; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-3; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 3)(x − 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-4; -3] ∪ [1; +∞)",
+        "(-4; -3) ∪ (1; +∞)",
+        "(−∞; -4) ∪ (-3; 1)",
+        "(-4; 1)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -3) ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 3)(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; -3) ∪ (2; +∞)",
+        "(−∞; -4) ∪ (2; +∞)",
+        "(−∞; -4) ∪ (-3; 2)",
+        "(-3; 2)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-3; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 3)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; -3) ∪ (3; +∞)",
+        "(−∞; -4) ∪ (-3; 3)",
+        "(-4; 3)",
+        "[-4; -3] ∪ [3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -3) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 3)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; -3) ∪ (4; +∞)",
+        "(-3; 4)",
+        "(−∞; -4) ∪ (4; +∞)",
+        "(−∞; -4) ∪ (-3; 4)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-3; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 3)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -4) ∪ (-3; 5)",
+        "(-4; -3) ∪ (5; +∞)",
+        "(-4; 5)",
+        "[-4; -3] ∪ [5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -3) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 3)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; 6)",
+        "(-4; -3) ∪ (6; +∞)",
+        "(−∞; -4) ∪ (-3; 6)",
+        "(−∞; -4) ∪ (6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-3; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 3)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; -3) ∪ (7; +∞)",
+        "(-4; 7)",
+        "(−∞; -4) ∪ (-3; 7)",
+        "[-4; -3] ∪ [7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -3) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 2)(x + 1) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; -1)",
+        "(−∞; -4) ∪ (-2; -1)",
+        "(-4; -2) ∪ (-1; +∞)",
+        "(−∞; -4) ∪ (-1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-2; -1)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 2)x > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; 0)",
+        "(−∞; -4) ∪ (-2; 0)",
+        "(-4; -2) ∪ (0; +∞)",
+        "[-4; -2] ∪ [0; +∞)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -2) ∪ (0; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 2)(x − 1) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (-2; 1)",
+        "(-4; -2) ∪ (1; +∞)",
+        "(-2; 1)",
+        "(−∞; -4) ∪ (1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-2; 1)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 2)(x − 2) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-4; -2] ∪ [2; +∞)",
+        "(-4; -2) ∪ (2; +∞)",
+        "(−∞; -4) ∪ (-2; 2)",
+        "(-4; 2)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -2) ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 2)(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; 3)",
+        "(−∞; -4) ∪ (-2; 3)",
+        "(-4; -2) ∪ (3; +∞)",
+        "(−∞; -4) ∪ (3; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-2; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 2)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -4) ∪ (-2; 4)",
+        "(-4; 4)",
+        "[-4; -2] ∪ [4; +∞)",
+        "(-4; -2) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -2) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 2)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; -2) ∪ (5; +∞)",
+        "(−∞; -4) ∪ (-2; 5)",
+        "(-2; 5)",
+        "(−∞; -4) ∪ (5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-2; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 2)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; -2) ∪ (6; +∞)",
+        "[-4; -2] ∪ [6; +∞)",
+        "(−∞; -4) ∪ (-2; 6)",
+        "(-4; 6)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -2) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 2)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; 7)",
+        "(−∞; -4) ∪ (-2; 7)",
+        "(−∞; -4) ∪ (7; +∞)",
+        "(-4; -2) ∪ (7; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-2; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 1)x < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (-1; 0)",
+        "(-4; -1) ∪ (0; +∞)",
+        "(-1; 0)",
+        "(−∞; -4) ∪ (0; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-1; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 1)(x − 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-4; -1] ∪ [1; +∞)",
+        "(-4; -1) ∪ (1; +∞)",
+        "(-4; 1)",
+        "(−∞; -4) ∪ (-1; 1)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -1) ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 1)(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (2; +∞)",
+        "(−∞; -4) ∪ (-1; 2)",
+        "(-4; -1) ∪ (2; +∞)",
+        "(-1; 2)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-1; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 1)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; -1) ∪ (3; +∞)",
+        "(−∞; -4) ∪ (-1; 3)",
+        "[-4; -1] ∪ [3; +∞)",
+        "(-4; 3)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -1) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 1)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; -1) ∪ (4; +∞)",
+        "(−∞; -4) ∪ (4; +∞)",
+        "(−∞; -4) ∪ (-1; 4)",
+        "(-1; 4)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-1; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 1)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -4) ∪ (-1; 5)",
+        "[-4; -1] ∪ [5; +∞)",
+        "(-4; -1) ∪ (5; +∞)",
+        "(-4; 5)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -1) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 1)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (-1; 6)",
+        "(-1; 6)",
+        "(−∞; -4) ∪ (6; +∞)",
+        "(-4; -1) ∪ (6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (-1; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x + 1)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; -1) ∪ (7; +∞)",
+        "(-4; 7)",
+        "(−∞; -4) ∪ (-1; 7)",
+        "[-4; -1] ∪ [7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; -1) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)x(x − 1) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; 0) ∪ (1; +∞)",
+        "(−∞; -4) ∪ (1; +∞)",
+        "(−∞; -4) ∪ (0; 1)",
+        "(0; 1)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (0; 1)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)x(x − 2) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-4; 0] ∪ [2; +∞)",
+        "(-4; 0) ∪ (2; +∞)",
+        "(-4; 2)",
+        "(−∞; -4) ∪ (0; 2)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; 0) ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)x(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(0; 3)",
+        "(−∞; -4) ∪ (3; +∞)",
+        "(−∞; -4) ∪ (0; 3)",
+        "(-4; 0) ∪ (3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (0; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)x(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; 0) ∪ (4; +∞)",
+        "[-4; 0] ∪ [4; +∞)",
+        "(-4; 4)",
+        "(−∞; -4) ∪ (0; 4)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; 0) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)x(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; 0) ∪ (5; +∞)",
+        "(−∞; -4) ∪ (5; +∞)",
+        "(0; 5)",
+        "(−∞; -4) ∪ (0; 5)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (0; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)x(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-4; 0] ∪ [6; +∞)",
+        "(-4; 6)",
+        "(-4; 0) ∪ (6; +∞)",
+        "(−∞; -4) ∪ (0; 6)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; 0) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)x(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (0; 7)",
+        "(0; 7)",
+        "(-4; 0) ∪ (7; +∞)",
+        "(−∞; -4) ∪ (7; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (0; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 1)(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; 1) ∪ (2; +∞)",
+        "(1; 2)",
+        "(−∞; -4) ∪ (2; +∞)",
+        "(−∞; -4) ∪ (1; 2)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (1; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 1)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-4; 1] ∪ [3; +∞)",
+        "(-4; 1) ∪ (3; +∞)",
+        "(−∞; -4) ∪ (1; 3)",
+        "(-4; 3)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; 1) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 1)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (4; +∞)",
+        "(−∞; -4) ∪ (1; 4)",
+        "(-4; 1) ∪ (4; +∞)",
+        "(1; 4)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (1; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 1)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; 1) ∪ (5; +∞)",
+        "(−∞; -4) ∪ (1; 5)",
+        "(-4; 5)",
+        "[-4; 1] ∪ [5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; 1) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 1)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; 1) ∪ (6; +∞)",
+        "(−∞; -4) ∪ (1; 6)",
+        "(−∞; -4) ∪ (6; +∞)",
+        "(1; 6)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (1; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 1)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; 7)",
+        "(-4; 1) ∪ (7; +∞)",
+        "[-4; 1] ∪ [7; +∞)",
+        "(−∞; -4) ∪ (1; 7)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; 1) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 2)(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(2; 3)",
+        "(-4; 2) ∪ (3; +∞)",
+        "(−∞; -4) ∪ (3; +∞)",
+        "(−∞; -4) ∪ (2; 3)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (2; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 2)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; 4)",
+        "(−∞; -4) ∪ (2; 4)",
+        "(-4; 2) ∪ (4; +∞)",
+        "[-4; 2] ∪ [4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; 2) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 2)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (2; 5)",
+        "(-4; 2) ∪ (5; +∞)",
+        "(2; 5)",
+        "(−∞; -4) ∪ (5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (2; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 2)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -4) ∪ (2; 6)",
+        "[-4; 2] ∪ [6; +∞)",
+        "(-4; 6)",
+        "(-4; 2) ∪ (6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; 2) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 2)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; 2) ∪ (7; +∞)",
+        "(−∞; -4) ∪ (7; +∞)",
+        "(2; 7)",
+        "(−∞; -4) ∪ (2; 7)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (2; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 3)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -4) ∪ (3; 4)",
+        "(3; 4)",
+        "(−∞; -4) ∪ (4; +∞)",
+        "(-4; 3) ∪ (4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (3; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 3)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-4; 3] ∪ [5; +∞)",
+        "(-4; 3) ∪ (5; +∞)",
+        "(-4; 5)",
+        "(−∞; -4) ∪ (3; 5)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; 3) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 3)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-4; 3) ∪ (6; +∞)",
+        "(−∞; -4) ∪ (6; +∞)",
+        "(−∞; -4) ∪ (3; 6)",
+        "(3; 6)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -4) ∪ (3; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)(x − 3)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-4; 3) ∪ (7; +∞)",
+        "[-4; 3] ∪ [7; +∞)",
+        "(-4; 7)",
+        "(−∞; -4) ∪ (3; 7)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-4; 3) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 2)(x + 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-3; -1)",
+        "(−∞; -3) ∪ (-2; -1)",
+        "(-3; -2) ∪ (-1; +∞)",
+        "[-3; -2] ∪ [-1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; -2) ∪ (-1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 2)x < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; 0)",
+        "(−∞; -3) ∪ (0; +∞)",
+        "(-3; -2) ∪ (0; +∞)",
+        "(−∞; -3) ∪ (-2; 0)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (-2; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 2)(x − 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-3; -2) ∪ (1; +∞)",
+        "[-3; -2] ∪ [1; +∞)",
+        "(−∞; -3) ∪ (-2; 1)",
+        "(-3; 1)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; -2) ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 2)(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; 2)",
+        "(−∞; -3) ∪ (2; +∞)",
+        "(-3; -2) ∪ (2; +∞)",
+        "(−∞; -3) ∪ (-2; 2)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (-2; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 2)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-3; -2) ∪ (3; +∞)",
+        "(-3; 3)",
+        "[-3; -2] ∪ [3; +∞)",
+        "(−∞; -3) ∪ (-2; 3)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; -2) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 2)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; -2) ∪ (4; +∞)",
+        "(−∞; -3) ∪ (-2; 4)",
+        "(−∞; -3) ∪ (4; +∞)",
+        "(-2; 4)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (-2; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 2)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-3; 5)",
+        "(-3; -2) ∪ (5; +∞)",
+        "[-3; -2] ∪ [5; +∞)",
+        "(−∞; -3) ∪ (-2; 5)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; -2) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 2)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; 6)",
+        "(−∞; -3) ∪ (-2; 6)",
+        "(-3; -2) ∪ (6; +∞)",
+        "(−∞; -3) ∪ (6; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (-2; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 2)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-3; -2] ∪ [7; +∞)",
+        "(-3; 7)",
+        "(−∞; -3) ∪ (-2; 7)",
+        "(-3; -2) ∪ (7; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; -2) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 1)x > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-3; 0)",
+        "(-3; -1) ∪ (0; +∞)",
+        "[-3; -1] ∪ [0; +∞)",
+        "(−∞; -3) ∪ (-1; 0)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; -1) ∪ (0; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 1)(x − 1) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -3) ∪ (-1; 1)",
+        "(-1; 1)",
+        "(−∞; -3) ∪ (1; +∞)",
+        "(-3; -1) ∪ (1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (-1; 1)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 1)(x − 2) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-3; -1) ∪ (2; +∞)",
+        "[-3; -1] ∪ [2; +∞)",
+        "(-3; 2)",
+        "(−∞; -3) ∪ (-1; 2)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; -1) ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 1)(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-1; 3)",
+        "(-3; -1) ∪ (3; +∞)",
+        "(−∞; -3) ∪ (-1; 3)",
+        "(−∞; -3) ∪ (3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (-1; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 1)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-3; 4)",
+        "(−∞; -3) ∪ (-1; 4)",
+        "[-3; -1] ∪ [4; +∞)",
+        "(-3; -1) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; -1) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 1)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; -1) ∪ (5; +∞)",
+        "(−∞; -3) ∪ (5; +∞)",
+        "(-1; 5)",
+        "(−∞; -3) ∪ (-1; 5)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (-1; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 1)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-3; -1) ∪ (6; +∞)",
+        "(-3; 6)",
+        "[-3; -1] ∪ [6; +∞)",
+        "(−∞; -3) ∪ (-1; 6)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; -1) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x + 1)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; -1) ∪ (7; +∞)",
+        "(−∞; -3) ∪ (-1; 7)",
+        "(−∞; -3) ∪ (7; +∞)",
+        "(-1; 7)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (-1; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)x(x − 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -3) ∪ (0; 1)",
+        "[-3; 0] ∪ [1; +∞)",
+        "(-3; 1)",
+        "(-3; 0) ∪ (1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 0) ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)x(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -3) ∪ (2; +∞)",
+        "(0; 2)",
+        "(−∞; -3) ∪ (0; 2)",
+        "(-3; 0) ∪ (2; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (0; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)x(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -3) ∪ (0; 3)",
+        "(-3; 0) ∪ (3; +∞)",
+        "[-3; 0] ∪ [3; +∞)",
+        "(-3; 3)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 0) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)x(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; 0) ∪ (4; +∞)",
+        "(−∞; -3) ∪ (0; 4)",
+        "(−∞; -3) ∪ (4; +∞)",
+        "(0; 4)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (0; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)x(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-3; 0] ∪ [5; +∞)",
+        "(-3; 5)",
+        "(−∞; -3) ∪ (0; 5)",
+        "(-3; 0) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 0) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)x(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -3) ∪ (0; 6)",
+        "(0; 6)",
+        "(-3; 0) ∪ (6; +∞)",
+        "(−∞; -3) ∪ (6; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (0; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)x(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -3) ∪ (0; 7)",
+        "[-3; 0] ∪ [7; +∞)",
+        "(-3; 7)",
+        "(-3; 0) ∪ (7; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 0) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 1)(x − 2) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-3; 1) ∪ (2; +∞)",
+        "(−∞; -3) ∪ (1; 2)",
+        "(-3; 2)",
+        "[-3; 1] ∪ [2; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 1) ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 1)(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; 1) ∪ (3; +∞)",
+        "(−∞; -3) ∪ (3; +∞)",
+        "(−∞; -3) ∪ (1; 3)",
+        "(1; 3)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (1; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 1)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-3; 1] ∪ [4; +∞)",
+        "(−∞; -3) ∪ (1; 4)",
+        "(-3; 1) ∪ (4; +∞)",
+        "(-3; 4)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 1) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 1)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(1; 5)",
+        "(−∞; -3) ∪ (1; 5)",
+        "(-3; 1) ∪ (5; +∞)",
+        "(−∞; -3) ∪ (5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (1; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 1)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -3) ∪ (1; 6)",
+        "(-3; 1) ∪ (6; +∞)",
+        "[-3; 1] ∪ [6; +∞)",
+        "(-3; 6)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 1) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 1)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(1; 7)",
+        "(-3; 1) ∪ (7; +∞)",
+        "(−∞; -3) ∪ (7; +∞)",
+        "(−∞; -3) ∪ (1; 7)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (1; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 2)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-3; 2] ∪ [3; +∞)",
+        "(-3; 3)",
+        "(−∞; -3) ∪ (2; 3)",
+        "(-3; 2) ∪ (3; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 2) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 2)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; 2) ∪ (4; +∞)",
+        "(2; 4)",
+        "(−∞; -3) ∪ (2; 4)",
+        "(−∞; -3) ∪ (4; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (2; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 2)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -3) ∪ (2; 5)",
+        "(-3; 5)",
+        "(-3; 2) ∪ (5; +∞)",
+        "[-3; 2] ∪ [5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 2) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 2)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(2; 6)",
+        "(-3; 2) ∪ (6; +∞)",
+        "(−∞; -3) ∪ (2; 6)",
+        "(−∞; -3) ∪ (6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (2; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 2)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -3) ∪ (2; 7)",
+        "(-3; 7)",
+        "(-3; 2) ∪ (7; +∞)",
+        "[-3; 2] ∪ [7; +∞)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 2) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 3)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-3; 3) ∪ (4; +∞)",
+        "(-3; 4)",
+        "(−∞; -3) ∪ (3; 4)",
+        "[-3; 3] ∪ [4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 3) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 3)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(3; 5)",
+        "(-3; 3) ∪ (5; +∞)",
+        "(−∞; -3) ∪ (5; +∞)",
+        "(−∞; -3) ∪ (3; 5)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (3; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 3)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -3) ∪ (3; 6)",
+        "(-3; 3) ∪ (6; +∞)",
+        "(-3; 6)",
+        "[-3; 3] ∪ [6; +∞)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-3; 3) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)(x − 3)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-3; 3) ∪ (7; +∞)",
+        "(3; 7)",
+        "(−∞; -3) ∪ (3; 7)",
+        "(−∞; -3) ∪ (7; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -3) ∪ (3; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x + 1)x < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (-1; 0)",
+        "(-1; 0)",
+        "(-2; -1) ∪ (0; +∞)",
+        "(−∞; -2) ∪ (0; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (-1; 0)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x + 1)(x − 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -2) ∪ (-1; 1)",
+        "[-2; -1] ∪ [1; +∞)",
+        "(-2; 1)",
+        "(-2; -1) ∪ (1; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; -1) ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x + 1)(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-1; 2)",
+        "(-2; -1) ∪ (2; +∞)",
+        "(−∞; -2) ∪ (-1; 2)",
+        "(−∞; -2) ∪ (2; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (-1; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x + 1)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-2; -1] ∪ [3; +∞)",
+        "(−∞; -2) ∪ (-1; 3)",
+        "(-2; -1) ∪ (3; +∞)",
+        "(-2; 3)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; -1) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x + 1)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (-1; 4)",
+        "(−∞; -2) ∪ (4; +∞)",
+        "(-2; -1) ∪ (4; +∞)",
+        "(-1; 4)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (-1; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x + 1)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -2) ∪ (-1; 5)",
+        "(-2; 5)",
+        "(-2; -1) ∪ (5; +∞)",
+        "[-2; -1] ∪ [5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; -1) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x + 1)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; -1) ∪ (6; +∞)",
+        "(−∞; -2) ∪ (6; +∞)",
+        "(-1; 6)",
+        "(−∞; -2) ∪ (-1; 6)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (-1; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x + 1)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -2) ∪ (-1; 7)",
+        "(-2; -1) ∪ (7; +∞)",
+        "[-2; -1] ∪ [7; +∞)",
+        "(-2; 7)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; -1) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)x(x − 1) < 0 tengsizlikni yeching.",
+      "options": [
+        "(0; 1)",
+        "(−∞; -2) ∪ (0; 1)",
+        "(−∞; -2) ∪ (1; +∞)",
+        "(-2; 0) ∪ (1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (0; 1)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)x(x − 2) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -2) ∪ (0; 2)",
+        "[-2; 0] ∪ [2; +∞)",
+        "(-2; 0) ∪ (2; +∞)",
+        "(-2; 2)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; 0) ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)x(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(0; 3)",
+        "(−∞; -2) ∪ (3; +∞)",
+        "(-2; 0) ∪ (3; +∞)",
+        "(−∞; -2) ∪ (0; 3)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (0; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)x(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-2; 0) ∪ (4; +∞)",
+        "(-2; 4)",
+        "(−∞; -2) ∪ (0; 4)",
+        "[-2; 0] ∪ [4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; 0) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)x(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (0; 5)",
+        "(-2; 0) ∪ (5; +∞)",
+        "(0; 5)",
+        "(−∞; -2) ∪ (5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (0; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)x(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-2; 0] ∪ [6; +∞)",
+        "(−∞; -2) ∪ (0; 6)",
+        "(-2; 6)",
+        "(-2; 0) ∪ (6; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; 0) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)x(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (7; +∞)",
+        "(0; 7)",
+        "(−∞; -2) ∪ (0; 7)",
+        "(-2; 0) ∪ (7; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (0; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 1)(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (2; +∞)",
+        "(-2; 1) ∪ (2; +∞)",
+        "(−∞; -2) ∪ (1; 2)",
+        "(1; 2)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (1; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 1)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-2; 3)",
+        "(-2; 1) ∪ (3; +∞)",
+        "[-2; 1] ∪ [3; +∞)",
+        "(−∞; -2) ∪ (1; 3)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; 1) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 1)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (1; 4)",
+        "(−∞; -2) ∪ (4; +∞)",
+        "(-2; 1) ∪ (4; +∞)",
+        "(1; 4)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (1; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 1)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-2; 5)",
+        "(−∞; -2) ∪ (1; 5)",
+        "[-2; 1] ∪ [5; +∞)",
+        "(-2; 1) ∪ (5; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; 1) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 1)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; 1) ∪ (6; +∞)",
+        "(−∞; -2) ∪ (6; +∞)",
+        "(−∞; -2) ∪ (1; 6)",
+        "(1; 6)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (1; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 1)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -2) ∪ (1; 7)",
+        "[-2; 1] ∪ [7; +∞)",
+        "(-2; 1) ∪ (7; +∞)",
+        "(-2; 7)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; 1) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 2)(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (2; 3)",
+        "(-2; 2) ∪ (3; +∞)",
+        "(2; 3)",
+        "(−∞; -2) ∪ (3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (2; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 2)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-2; 4)",
+        "[-2; 2] ∪ [4; +∞)",
+        "(−∞; -2) ∪ (2; 4)",
+        "(-2; 2) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; 2) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 2)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; 2) ∪ (5; +∞)",
+        "(2; 5)",
+        "(−∞; -2) ∪ (2; 5)",
+        "(−∞; -2) ∪ (5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (2; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 2)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-2; 6)",
+        "(-2; 2) ∪ (6; +∞)",
+        "[-2; 2] ∪ [6; +∞)",
+        "(−∞; -2) ∪ (2; 6)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; 2) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 2)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-2; 2) ∪ (7; +∞)",
+        "(−∞; -2) ∪ (7; +∞)",
+        "(2; 7)",
+        "(−∞; -2) ∪ (2; 7)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (2; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 3)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (4; +∞)",
+        "(−∞; -2) ∪ (3; 4)",
+        "(-2; 3) ∪ (4; +∞)",
+        "(3; 4)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (3; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 3)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -2) ∪ (3; 5)",
+        "(-2; 3) ∪ (5; +∞)",
+        "(-2; 5)",
+        "[-2; 3] ∪ [5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; 3) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 3)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -2) ∪ (3; 6)",
+        "(-2; 3) ∪ (6; +∞)",
+        "(−∞; -2) ∪ (6; +∞)",
+        "(3; 6)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -2) ∪ (3; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)(x − 3)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-2; 7)",
+        "(-2; 3) ∪ (7; +∞)",
+        "(−∞; -2) ∪ (3; 7)",
+        "[-2; 3] ∪ [7; +∞)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-2; 3) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)x(x − 1) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-1; 0) ∪ (1; +∞)",
+        "[-1; 0] ∪ [1; +∞)",
+        "(-1; 1)",
+        "(−∞; -1) ∪ (0; 1)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 0) ∪ (1; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)x(x − 2) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -1) ∪ (0; 2)",
+        "(−∞; -1) ∪ (2; +∞)",
+        "(-1; 0) ∪ (2; +∞)",
+        "(0; 2)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -1) ∪ (0; 2)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)x(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -1) ∪ (0; 3)",
+        "(-1; 3)",
+        "(-1; 0) ∪ (3; +∞)",
+        "[-1; 0] ∪ [3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 0) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)x(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -1) ∪ (4; +∞)",
+        "(-1; 0) ∪ (4; +∞)",
+        "(0; 4)",
+        "(−∞; -1) ∪ (0; 4)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -1) ∪ (0; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)x(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -1) ∪ (0; 5)",
+        "[-1; 0] ∪ [5; +∞)",
+        "(-1; 0) ∪ (5; +∞)",
+        "(-1; 5)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 0) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)x(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(0; 6)",
+        "(−∞; -1) ∪ (6; +∞)",
+        "(-1; 0) ∪ (6; +∞)",
+        "(−∞; -1) ∪ (0; 6)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -1) ∪ (0; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)x(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(−∞; -1) ∪ (0; 7)",
+        "(-1; 0) ∪ (7; +∞)",
+        "[-1; 0] ∪ [7; +∞)",
+        "(-1; 7)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 0) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 1)(x − 2) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-1; 1] ∪ [2; +∞)",
+        "(-1; 1) ∪ (2; +∞)",
+        "(−∞; -1) ∪ (1; 2)",
+        "(-1; 2)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 1) ∪ (2; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 1)(x − 3) < 0 tengsizlikni yeching.",
+      "options": [
+        "(1; 3)",
+        "(-1; 1) ∪ (3; +∞)",
+        "(−∞; -1) ∪ (1; 3)",
+        "(−∞; -1) ∪ (3; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -1) ∪ (1; 3)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 1)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-1; 1] ∪ [4; +∞)",
+        "(-1; 4)",
+        "(−∞; -1) ∪ (1; 4)",
+        "(-1; 1) ∪ (4; +∞)"
+      ],
+      "answer": 3,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 1) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 1)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -1) ∪ (5; +∞)",
+        "(1; 5)",
+        "(-1; 1) ∪ (5; +∞)",
+        "(−∞; -1) ∪ (1; 5)"
+      ],
+      "answer": 3,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -1) ∪ (1; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 1)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-1; 1) ∪ (6; +∞)",
+        "[-1; 1] ∪ [6; +∞)",
+        "(-1; 6)",
+        "(−∞; -1) ∪ (1; 6)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 1) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 1)(x − 7) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -1) ∪ (7; +∞)",
+        "(−∞; -1) ∪ (1; 7)",
+        "(-1; 1) ∪ (7; +∞)",
+        "(1; 7)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -1) ∪ (1; 7)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 2)(x − 3) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-1; 2) ∪ (3; +∞)",
+        "(−∞; -1) ∪ (2; 3)",
+        "(-1; 3)",
+        "[-1; 2] ∪ [3; +∞)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 2) ∪ (3; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 2)(x − 4) < 0 tengsizlikni yeching.",
+      "options": [
+        "(−∞; -1) ∪ (2; 4)",
+        "(-1; 2) ∪ (4; +∞)",
+        "(2; 4)",
+        "(−∞; -1) ∪ (4; +∞)"
+      ],
+      "answer": 0,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -1) ∪ (2; 4)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 2)(x − 5) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-1; 2] ∪ [5; +∞)",
+        "(-1; 5)",
+        "(-1; 2) ∪ (5; +∞)",
+        "(−∞; -1) ∪ (2; 5)"
+      ],
+      "answer": 2,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 2) ∪ (5; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 2)(x − 6) < 0 tengsizlikni yeching.",
+      "options": [
+        "(2; 6)",
+        "(−∞; -1) ∪ (6; +∞)",
+        "(−∞; -1) ∪ (2; 6)",
+        "(-1; 2) ∪ (6; +∞)"
+      ],
+      "answer": 2,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -1) ∪ (2; 6)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 2)(x − 7) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-1; 2) ∪ (7; +∞)",
+        "(-1; 7)",
+        "[-1; 2] ∪ [7; +∞)",
+        "(−∞; -1) ∪ (2; 7)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 2) ∪ (7; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 3)(x − 4) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "[-1; 3] ∪ [4; +∞)",
+        "(-1; 3) ∪ (4; +∞)",
+        "(−∞; -1) ∪ (3; 4)",
+        "(-1; 4)"
+      ],
+      "answer": 1,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 3) ∪ (4; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 3)(x − 5) < 0 tengsizlikni yeching.",
+      "options": [
+        "(-1; 3) ∪ (5; +∞)",
+        "(−∞; -1) ∪ (3; 5)",
+        "(3; 5)",
+        "(−∞; -1) ∪ (5; +∞)"
+      ],
+      "answer": 1,
+      "explain": "Ishoralar +, −, +, −. Manfiy intervallar: (−∞; -1) ∪ (3; 5)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)(x − 3)(x − 6) > 0 tengsizlikni intervallar usulida yeching.",
+      "options": [
+        "(-1; 3) ∪ (6; +∞)",
+        "(-1; 6)",
+        "[-1; 3] ∪ [6; +∞)",
+        "(−∞; -1) ∪ (3; 6)"
+      ],
+      "answer": 0,
+      "explain": "O'ngdan chapga ishoralar +, −, +, − almashadi. '+' lar: (-1; 3) ∪ (6; +∞)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)²(x + 3) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-3; +∞)",
+        "(−∞; -3)",
+        "(−∞; -4) ∪ (-4; -3)",
+        "(-4; -3)"
+      ],
+      "answer": 2,
+      "explain": "x < -3 bo'lganda manfiy, ammo x = -4 da nol bo'lib qolgani uchun -4 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)²(x + 2) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; -4) ∪ (-4; -2)",
+        "(−∞; -2)",
+        "(-2; +∞)",
+        "(-4; -2)"
+      ],
+      "answer": 0,
+      "explain": "x < -2 bo'lganda manfiy, ammo x = -4 da nol bo'lib qolgani uchun -4 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)²(x + 1) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-4; -1)",
+        "(-1; +∞)",
+        "(−∞; -1)",
+        "(−∞; -4) ∪ (-4; -1)"
+      ],
+      "answer": 3,
+      "explain": "x < -1 bo'lganda manfiy, ammo x = -4 da nol bo'lib qolgani uchun -4 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)²x < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(0; +∞)",
+        "(−∞; 0)",
+        "(-4; 0)",
+        "(−∞; -4) ∪ (-4; 0)"
+      ],
+      "answer": 3,
+      "explain": "x < 0 bo'lganda manfiy, ammo x = -4 da nol bo'lib qolgani uchun -4 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)²(x − 1) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(1; +∞)",
+        "(−∞; 1)",
+        "(−∞; -4) ∪ (-4; 1)",
+        "(-4; 1)"
+      ],
+      "answer": 2,
+      "explain": "x < 1 bo'lganda manfiy, ammo x = -4 da nol bo'lib qolgani uchun -4 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)²(x − 2) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; -4) ∪ (-4; 2)",
+        "(2; +∞)",
+        "(−∞; 2)",
+        "(-4; 2)"
+      ],
+      "answer": 0,
+      "explain": "x < 2 bo'lganda manfiy, ammo x = -4 da nol bo'lib qolgani uchun -4 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)²(x − 3) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; -4) ∪ (-4; 3)",
+        "(3; +∞)",
+        "(-4; 3)",
+        "(−∞; 3)"
+      ],
+      "answer": 0,
+      "explain": "x < 3 bo'lganda manfiy, ammo x = -4 da nol bo'lib qolgani uchun -4 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)²(x − 4) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 4)",
+        "(4; +∞)",
+        "(-4; 4)",
+        "(−∞; -4) ∪ (-4; 4)"
+      ],
+      "answer": 3,
+      "explain": "x < 4 bo'lganda manfiy, ammo x = -4 da nol bo'lib qolgani uchun -4 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)²(x − 5) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-4; 5)",
+        "(−∞; -4) ∪ (-4; 5)",
+        "(5; +∞)",
+        "(−∞; 5)"
+      ],
+      "answer": 1,
+      "explain": "x < 5 bo'lganda manfiy, ammo x = -4 da nol bo'lib qolgani uchun -4 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 4)²(x − 6) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-4; 6)",
+        "(−∞; -4) ∪ (-4; 6)",
+        "(6; +∞)",
+        "(−∞; 6)"
+      ],
+      "answer": 1,
+      "explain": "x < 6 bo'lganda manfiy, ammo x = -4 da nol bo'lib qolgani uchun -4 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)²(x + 2) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; -2)",
+        "(-3; -2)",
+        "(-2; +∞)",
+        "(−∞; -3) ∪ (-3; -2)"
+      ],
+      "answer": 3,
+      "explain": "x < -2 bo'lganda manfiy, ammo x = -3 da nol bo'lib qolgani uchun -3 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)²(x + 1) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; -3) ∪ (-3; -1)",
+        "(-3; -1)",
+        "(−∞; -1)",
+        "(-1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x < -1 bo'lganda manfiy, ammo x = -3 da nol bo'lib qolgani uchun -3 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)²x < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 0)",
+        "(-3; 0)",
+        "(0; +∞)",
+        "(−∞; -3) ∪ (-3; 0)"
+      ],
+      "answer": 3,
+      "explain": "x < 0 bo'lganda manfiy, ammo x = -3 da nol bo'lib qolgani uchun -3 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)²(x − 1) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; -3) ∪ (-3; 1)",
+        "(−∞; 1)",
+        "(-3; 1)",
+        "(1; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x < 1 bo'lganda manfiy, ammo x = -3 da nol bo'lib qolgani uchun -3 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)²(x − 2) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-3; 2)",
+        "(2; +∞)",
+        "(−∞; 2)",
+        "(−∞; -3) ∪ (-3; 2)"
+      ],
+      "answer": 3,
+      "explain": "x < 2 bo'lganda manfiy, ammo x = -3 da nol bo'lib qolgani uchun -3 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)²(x − 3) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(3; +∞)",
+        "(−∞; -3) ∪ (-3; 3)",
+        "(-3; 3)",
+        "(−∞; 3)"
+      ],
+      "answer": 1,
+      "explain": "x < 3 bo'lganda manfiy, ammo x = -3 da nol bo'lib qolgani uchun -3 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)²(x − 4) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-3; 4)",
+        "(−∞; -3) ∪ (-3; 4)",
+        "(4; +∞)",
+        "(−∞; 4)"
+      ],
+      "answer": 1,
+      "explain": "x < 4 bo'lganda manfiy, ammo x = -3 da nol bo'lib qolgani uchun -3 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)²(x − 5) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-3; 5)",
+        "(−∞; -3) ∪ (-3; 5)",
+        "(5; +∞)",
+        "(−∞; 5)"
+      ],
+      "answer": 1,
+      "explain": "x < 5 bo'lganda manfiy, ammo x = -3 da nol bo'lib qolgani uchun -3 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 3)²(x − 6) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(6; +∞)",
+        "(−∞; 6)",
+        "(-3; 6)",
+        "(−∞; -3) ∪ (-3; 6)"
+      ],
+      "answer": 3,
+      "explain": "x < 6 bo'lganda manfiy, ammo x = -3 da nol bo'lib qolgani uchun -3 chiqariladi."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 2)²(x + 3) ≤ 0 tengsizlikni qanoatlantiruvchi x > -3 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -3 uchun faqat juft ildiz nuqtasi x = -2 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)²(x + 1) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-2; -1)",
+        "(−∞; -1)",
+        "(−∞; -2) ∪ (-2; -1)",
+        "(-1; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x < -1 bo'lganda manfiy, ammo x = -2 da nol bo'lib qolgani uchun -2 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)²x < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 0)",
+        "(0; +∞)",
+        "(-2; 0)",
+        "(−∞; -2) ∪ (-2; 0)"
+      ],
+      "answer": 3,
+      "explain": "x < 0 bo'lganda manfiy, ammo x = -2 da nol bo'lib qolgani uchun -2 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)²(x − 1) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-2; 1)",
+        "(−∞; -2) ∪ (-2; 1)",
+        "(−∞; 1)",
+        "(1; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x < 1 bo'lganda manfiy, ammo x = -2 da nol bo'lib qolgani uchun -2 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)²(x − 2) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-2; 2)",
+        "(−∞; 2)",
+        "(2; +∞)",
+        "(−∞; -2) ∪ (-2; 2)"
+      ],
+      "answer": 3,
+      "explain": "x < 2 bo'lganda manfiy, ammo x = -2 da nol bo'lib qolgani uchun -2 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)²(x − 3) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(3; +∞)",
+        "(−∞; 3)",
+        "(-2; 3)",
+        "(−∞; -2) ∪ (-2; 3)"
+      ],
+      "answer": 3,
+      "explain": "x < 3 bo'lganda manfiy, ammo x = -2 da nol bo'lib qolgani uchun -2 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)²(x − 4) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 4)",
+        "(−∞; -2) ∪ (-2; 4)",
+        "(4; +∞)",
+        "(-2; 4)"
+      ],
+      "answer": 1,
+      "explain": "x < 4 bo'lganda manfiy, ammo x = -2 da nol bo'lib qolgani uchun -2 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)²(x − 5) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; -2) ∪ (-2; 5)",
+        "(-2; 5)",
+        "(−∞; 5)",
+        "(5; +∞)"
+      ],
+      "answer": 0,
+      "explain": "x < 5 bo'lganda manfiy, ammo x = -2 da nol bo'lib qolgani uchun -2 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 2)²(x − 6) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; -2) ∪ (-2; 6)",
+        "(6; +∞)",
+        "(−∞; 6)",
+        "(-2; 6)"
+      ],
+      "answer": 0,
+      "explain": "x < 6 bo'lganda manfiy, ammo x = -2 da nol bo'lib qolgani uchun -2 chiqariladi."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 1)²(x + 3) ≤ 0 tengsizlikni qanoatlantiruvchi x > -3 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -3 uchun faqat juft ildiz nuqtasi x = -1 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "fill",
+      "q": "(x + 1)²(x + 2) ≤ 0 tengsizlikni qanoatlantiruvchi x > -2 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -2 uchun faqat juft ildiz nuqtasi x = -1 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)²x < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(0; +∞)",
+        "(−∞; 0)",
+        "(-1; 0)",
+        "(−∞; -1) ∪ (-1; 0)"
+      ],
+      "answer": 3,
+      "explain": "x < 0 bo'lganda manfiy, ammo x = -1 da nol bo'lib qolgani uchun -1 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)²(x − 1) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-1; 1)",
+        "(−∞; 1)",
+        "(1; +∞)",
+        "(−∞; -1) ∪ (-1; 1)"
+      ],
+      "answer": 3,
+      "explain": "x < 1 bo'lganda manfiy, ammo x = -1 da nol bo'lib qolgani uchun -1 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)²(x − 2) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(2; +∞)",
+        "(-1; 2)",
+        "(−∞; -1) ∪ (-1; 2)",
+        "(−∞; 2)"
+      ],
+      "answer": 2,
+      "explain": "x < 2 bo'lganda manfiy, ammo x = -1 da nol bo'lib qolgani uchun -1 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)²(x − 3) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(-1; 3)",
+        "(3; +∞)",
+        "(−∞; 3)",
+        "(−∞; -1) ∪ (-1; 3)"
+      ],
+      "answer": 3,
+      "explain": "x < 3 bo'lganda manfiy, ammo x = -1 da nol bo'lib qolgani uchun -1 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)²(x − 4) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(4; +∞)",
+        "(−∞; -1) ∪ (-1; 4)",
+        "(−∞; 4)",
+        "(-1; 4)"
+      ],
+      "answer": 1,
+      "explain": "x < 4 bo'lganda manfiy, ammo x = -1 da nol bo'lib qolgani uchun -1 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)²(x − 5) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(5; +∞)",
+        "(−∞; 5)",
+        "(−∞; -1) ∪ (-1; 5)",
+        "(-1; 5)"
+      ],
+      "answer": 2,
+      "explain": "x < 5 bo'lganda manfiy, ammo x = -1 da nol bo'lib qolgani uchun -1 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x + 1)²(x − 6) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 6)",
+        "(-1; 6)",
+        "(6; +∞)",
+        "(−∞; -1) ∪ (-1; 6)"
+      ],
+      "answer": 3,
+      "explain": "x < 6 bo'lganda manfiy, ammo x = -1 da nol bo'lib qolgani uchun -1 chiqariladi."
+    },
+    {
+      "type": "fill",
+      "q": "x²(x + 3) ≤ 0 tengsizlikni qanoatlantiruvchi x > -3 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -3 uchun faqat juft ildiz nuqtasi x = 0 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "fill",
+      "q": "x²(x + 2) ≤ 0 tengsizlikni qanoatlantiruvchi x > -2 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -2 uchun faqat juft ildiz nuqtasi x = 0 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "fill",
+      "q": "x²(x + 1) ≤ 0 tengsizlikni qanoatlantiruvchi x > -1 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -1 uchun faqat juft ildiz nuqtasi x = 0 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "choice",
+      "q": "x²(x − 1) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(0; 1)",
+        "(−∞; 0) ∪ (0; 1)",
+        "(1; +∞)",
+        "(−∞; 1)"
+      ],
+      "answer": 1,
+      "explain": "x < 1 bo'lganda manfiy, ammo x = 0 da nol bo'lib qolgani uchun 0 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x²(x − 2) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(2; +∞)",
+        "(0; 2)",
+        "(−∞; 0) ∪ (0; 2)",
+        "(−∞; 2)"
+      ],
+      "answer": 2,
+      "explain": "x < 2 bo'lganda manfiy, ammo x = 0 da nol bo'lib qolgani uchun 0 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x²(x − 3) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(0; 3)",
+        "(−∞; 0) ∪ (0; 3)",
+        "(3; +∞)",
+        "(−∞; 3)"
+      ],
+      "answer": 1,
+      "explain": "x < 3 bo'lganda manfiy, ammo x = 0 da nol bo'lib qolgani uchun 0 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x²(x − 4) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 4)",
+        "(−∞; 0) ∪ (0; 4)",
+        "(0; 4)",
+        "(4; +∞)"
+      ],
+      "answer": 1,
+      "explain": "x < 4 bo'lganda manfiy, ammo x = 0 da nol bo'lib qolgani uchun 0 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x²(x − 5) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 5)",
+        "(0; 5)",
+        "(−∞; 0) ∪ (0; 5)",
+        "(5; +∞)"
+      ],
+      "answer": 2,
+      "explain": "x < 5 bo'lganda manfiy, ammo x = 0 da nol bo'lib qolgani uchun 0 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "x²(x − 6) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(0; 6)",
+        "(−∞; 0) ∪ (0; 6)",
+        "(6; +∞)",
+        "(−∞; 6)"
+      ],
+      "answer": 1,
+      "explain": "x < 6 bo'lganda manfiy, ammo x = 0 da nol bo'lib qolgani uchun 0 chiqariladi."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 1)²(x + 3) ≤ 0 tengsizlikni qanoatlantiruvchi x > -3 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -3 uchun faqat juft ildiz nuqtasi x = 1 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 1)²(x + 2) ≤ 0 tengsizlikni qanoatlantiruvchi x > -2 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -2 uchun faqat juft ildiz nuqtasi x = 1 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 1)²(x + 1) ≤ 0 tengsizlikni qanoatlantiruvchi x > -1 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -1 uchun faqat juft ildiz nuqtasi x = 1 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 1)²x ≤ 0 tengsizlikni qanoatlantiruvchi x > 0 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > 0 uchun faqat juft ildiz nuqtasi x = 1 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 1)²(x − 2) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(1; 2)",
+        "(2; +∞)",
+        "(−∞; 1) ∪ (1; 2)",
+        "(−∞; 2)"
+      ],
+      "answer": 2,
+      "explain": "x < 2 bo'lganda manfiy, ammo x = 1 da nol bo'lib qolgani uchun 1 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 1)²(x − 3) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 1) ∪ (1; 3)",
+        "(−∞; 3)",
+        "(3; +∞)",
+        "(1; 3)"
+      ],
+      "answer": 0,
+      "explain": "x < 3 bo'lganda manfiy, ammo x = 1 da nol bo'lib qolgani uchun 1 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 1)²(x − 4) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 4)",
+        "(−∞; 1) ∪ (1; 4)",
+        "(4; +∞)",
+        "(1; 4)"
+      ],
+      "answer": 1,
+      "explain": "x < 4 bo'lganda manfiy, ammo x = 1 da nol bo'lib qolgani uchun 1 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 1)²(x − 5) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 1) ∪ (1; 5)",
+        "(1; 5)",
+        "(5; +∞)",
+        "(−∞; 5)"
+      ],
+      "answer": 0,
+      "explain": "x < 5 bo'lganda manfiy, ammo x = 1 da nol bo'lib qolgani uchun 1 chiqariladi."
+    },
+    {
+      "type": "choice",
+      "q": "(x − 1)²(x − 6) < 0 tengsizlikning yechimi qaysi?",
+      "options": [
+        "(−∞; 6)",
+        "(6; +∞)",
+        "(1; 6)",
+        "(−∞; 1) ∪ (1; 6)"
+      ],
+      "answer": 3,
+      "explain": "x < 6 bo'lganda manfiy, ammo x = 1 da nol bo'lib qolgani uchun 1 chiqariladi."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 2)²(x + 3) ≤ 0 tengsizlikni qanoatlantiruvchi x > -3 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -3 uchun faqat juft ildiz nuqtasi x = 2 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 2)²(x + 2) ≤ 0 tengsizlikni qanoatlantiruvchi x > -2 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -2 uchun faqat juft ildiz nuqtasi x = 2 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 2)²(x + 1) ≤ 0 tengsizlikni qanoatlantiruvchi x > -1 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > -1 uchun faqat juft ildiz nuqtasi x = 2 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 2)²x ≤ 0 tengsizlikni qanoatlantiruvchi x > 0 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > 0 uchun faqat juft ildiz nuqtasi x = 2 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    },
+    {
+      "type": "fill",
+      "q": "(x − 2)²(x − 1) ≤ 0 tengsizlikni qanoatlantiruvchi x > 1 butun sonlardan nechtasi bor?",
+      "answer": "1",
+      "explain": "x > 1 uchun faqat juft ildiz nuqtasi x = 2 tenglikni nolga aylantirib yechim bo'ladi (1 ta)."
+    }
+  ],
+  "cards": [
+    [
+      "Algebra",
+      "Tenglama, tengsizlik va funksiyalarni o'rganuvchi fan"
+    ],
+    [
+      "Kvadrat",
+      "Ikkinchi darajaga ko'tarilgan hadli ifoda"
+    ],
+    [
+      "Funksiya",
+      "Har bir x ga yagona y mos qo'yuvchi bog'lanish"
+    ],
+    [
+      "Parabola",
+      "Kvadrat funksiyaning grafigi bo'lgan egri chiziq"
+    ],
+    [
+      "Diskriminant",
+      "D = b² − 4ac ildizlar sonini aniqlovchi ifoda"
+    ],
+    [
+      "Viyet",
+      "Ildizlar yig'indisi va ko'paytmasini bog'lovchi teorema"
+    ],
+    [
+      "Ildiz",
+      "Tenglamani to'g'ri tenglikka aylantiruvchi qiymat"
+    ],
+    [
+      "Argumеnt",
+      "Erkin o'zgaruvchi x ning boshqacha nomi"
+    ],
+    [
+      "Simmetriya",
+      "Parabola uchidan o'tuvchi tik o'q xossasi"
+    ],
+    [
+      "Interval",
+      "Sonlar o'qidagi uzluksiz oraliq"
+    ],
+    [
+      "Tengsizlik",
+      "Taqqoslash belgilari qatnashgan munosabat"
+    ],
+    [
+      "Qiymat",
+      "Funksiyaning biror nuqtadagi natijasi"
+    ],
+    [
+      "Ratsional",
+      "P(x)/Q(x) ko'rinishidagi tengsizlik"
+    ],
+    [
+      "Maxraj",
+      "Hech qachon nolga teng bo'lmaydigan ifoda"
+    ],
+    [
+      "Karrali",
+      "Juft darajada qatnashgan ildiz nuqtasi"
+    ],
+    [
+      "Ishora",
+      "Har bir intervalda o'zgarmaydigan (+/−) holat"
+    ],
+    [
+      "Intervallar usuli",
+      "Ildizlar bilan son o'qini bo'lib ishora tekshirish"
+    ],
+    [
+      "Qat'iy tengsizlik",
+      "Chetki nuqtalar bo'yalmaydi (ochiq doira)"
+    ],
+    [
+      "Maxraj nollari",
+      "Har doim yechimdan chiqarib tashlanadi"
+    ],
+    [
+      "Juft karrali ildiz",
+      "Bu nuqtadan o'tganda ifoda ishorasi o'zgarmaydi"
+    ],
+    [
+      "Toq karrali ildiz",
+      "Bu nuqtadan o'tganda ifoda ishorasi almashadi"
+    ],
+    [
+      "O'ng ekstremal interval",
+      "Barcha (x − xᵢ) ko'paytma uchun '+' ishorali"
+    ],
+    [
+      "(x−a)/(x−b) ≤ 0",
+      "(x−a)(x−b) ≤ 0 va x ≠ b ga teng kuchli"
+    ],
+    [
+      "Uch hadli ko'paytma",
+      "(x−a)(x−b)(x−c) > 0 ikkita oraliq beradi"
+    ],
+    [
+      "Bo'yalgan nuqta",
+      "≤ yoki ≥ tengsizlikdagi surat ildizi"
+    ],
+    [
+      "Ochiq nuqta",
+      "Qat'iy tengsizlik yoki maxraj ildizi"
+    ]
+  ]
+}
