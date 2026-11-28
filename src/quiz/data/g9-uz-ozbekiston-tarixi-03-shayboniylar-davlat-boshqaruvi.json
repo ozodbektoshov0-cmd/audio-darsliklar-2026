@@ -1,0 +1,2592 @@
+{
+  "id": "g9-uz-ozbekiston-tarixi-03-shayboniylar-davlat-boshqaruvi",
+  "subjectId": "g9-uz-ozbekiston-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "O'zbekiston tarixi",
+  "topicTitle": "4-§. Shayboniylar davrida davlat boshqaruvi",
+  "title": "4-§. Shayboniylar davrida davlat boshqaruvi",
+  "source": "O'zbekiston tarixi 9-sinf (2024), 4-§, 19–21-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): qaysi yilda valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan?",
+      "options": [
+        "1510-yil",
+        "1533-yil",
+        "1529-yil",
+        "1557-yil"
+      ],
+      "answer": 2,
+      "explain": "1529-yilda valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) tarixida 1529-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan",
+        "shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan",
+        "poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan",
+        "valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan"
+      ],
+      "answer": 3,
+      "explain": "1529-yilda valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi) davrida ____-yilda valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan. (Yilni kiriting)",
+      "answer": [
+        "1529",
+        "1529-yil",
+        "1529-yilda"
+      ],
+      "explain": "1529-yilda valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): 1529-yilda valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan.",
+      "answer": true,
+      "explain": "1529-yilda valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha 1541-yilda valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1529-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): qaysi yilda qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan?",
+      "options": [
+        "XVI asr ikkinchi yarmi",
+        "XV asr boshi",
+        "XVII asr oxiri",
+        "XVIII asr boshi"
+      ],
+      "answer": 0,
+      "explain": "XVI asr ikkinchi yarmi qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) tarixida XVI asr ikkinchi yarmi qanday muhim voqea yuz bergan?",
+      "options": [
+        "valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan",
+        "qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan",
+        "shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan",
+        "poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan"
+      ],
+      "answer": 1,
+      "explain": "XVI asr ikkinchi yarmi qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): XVI asr ikkinchi yarmi qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan.",
+      "answer": true,
+      "explain": "XVI asr ikkinchi yarmi qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha XV asr boshi qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea XVI asr ikkinchi yarmi sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): qaysi yilda shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan?",
+      "options": [
+        "1428-yil",
+        "1601-yil",
+        "1500-yil",
+        "1756-yil"
+      ],
+      "answer": 2,
+      "explain": "1500-yilda shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) tarixida 1500-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan",
+        "qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan",
+        "poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan",
+        "shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan"
+      ],
+      "answer": 3,
+      "explain": "1500-yilda shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi) davrida ____-yilda shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan. (Yilni kiriting)",
+      "answer": [
+        "1500",
+        "1500-yil",
+        "1500-yilda"
+      ],
+      "explain": "1500-yilda shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): 1500-yilda shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan.",
+      "answer": true,
+      "explain": "1500-yilda shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha 1512-yilda shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1500-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): qaysi yilda poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan?",
+      "options": [
+        "1533-yil",
+        "1512-yil",
+        "1582-yil",
+        "1611-yil"
+      ],
+      "answer": 0,
+      "explain": "1533-yilda poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) tarixida 1533-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan",
+        "poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan",
+        "qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan",
+        "shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan"
+      ],
+      "answer": 1,
+      "explain": "1533-yilda poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi) davrida ____-yilda poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan. (Yilni kiriting)",
+      "answer": [
+        "1533",
+        "1533-yil",
+        "1533-yilda"
+      ],
+      "explain": "1533-yilda poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): 1533-yilda poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan.",
+      "answer": true,
+      "explain": "1533-yilda poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha 1522-yilda poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1533-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): qaysi yilda abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan?",
+      "options": [
+        "1501-yil",
+        "1529-yil",
+        "1557-yil",
+        "1645-yil"
+      ],
+      "answer": 2,
+      "explain": "1557-yilda abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) tarixida 1557-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan",
+        "qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan",
+        "shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan",
+        "Abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan"
+      ],
+      "answer": 3,
+      "explain": "1557-yilda abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi) davrida ____-yilda abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan. (Yilni kiriting)",
+      "answer": [
+        "1557",
+        "1557-yil",
+        "1557-yilda"
+      ],
+      "explain": "1557-yilda abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): 1557-yilda abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan.",
+      "answer": true,
+      "explain": "1557-yilda abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha 1569-yilda abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1557-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): qaysi yilda abdullaxon II davrida davlat hududi Qashqardan Kaspiygacha, Turkistondan Sharqiy Xurosongacha kengaygan?",
+      "options": [
+        "1584-yil",
+        "1499-yil",
+        "1521-yil",
+        "1681-yil"
+      ],
+      "answer": 0,
+      "explain": "1584-yilda abdullaxon II davrida davlat hududi Qashqardan Kaspiygacha, Turkistondan Sharqiy Xurosongacha kengaygan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) tarixida 1584-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan",
+        "Abdullaxon II davrida davlat hududi Qashqardan Kaspiygacha, Turkistondan Sharqiy Xurosongacha kengaygan",
+        "qo'shin Usmonli sultonligi va Rossiyadan keltirilgan pilta miltiq va zambaraklar bilan qurollantirila boshlangan",
+        "shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan"
+      ],
+      "answer": 1,
+      "explain": "1584-yilda abdullaxon II davrida davlat hududi Qashqardan Kaspiygacha, Turkistondan Sharqiy Xurosongacha kengaygan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi) davrida ____-yilda abdullaxon II davrida davlat hududi Qashqardan Kaspiygacha, Turkistondan Sharqiy Xurosongacha kengaygan. (Yilni kiriting)",
+      "answer": [
+        "1584",
+        "1584-yil",
+        "1584-yilda"
+      ],
+      "explain": "1584-yilda abdullaxon II davrida davlat hududi Qashqardan Kaspiygacha, Turkistondan Sharqiy Xurosongacha kengaygan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): 1584-yilda abdullaxon II davrida davlat hududi Qashqardan Kaspiygacha, Turkistondan Sharqiy Xurosongacha kengaygan.",
+      "answer": true,
+      "explain": "1584-yilda abdullaxon II davrida davlat hududi Qashqardan Kaspiygacha, Turkistondan Sharqiy Xurosongacha kengaygan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha 1573-yilda abdullaxon II davrida davlat hududi Qashqardan Kaspiygacha, Turkistondan Sharqiy Xurosongacha kengaygan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1584-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan",
+        "poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan",
+        "shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan",
+        "Abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan"
+      ],
+      "answer": 2,
+      "explain": "Eng avvalgi voqea — «shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan» (1500).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+      "options": [
+        "shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan",
+        "valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan",
+        "poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan",
+        "Abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan"
+      ],
+      "answer": 3,
+      "explain": "Eng keyingi voqea — «Abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan» (1557).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (4-§ (Shayboniylar boshqaruvi)): «shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan» voqeasi «valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan» voqeasidan oldin sodir bo'lgan.",
+      "answer": true,
+      "explain": "1500 < 1529, shu sababli fikr to'g'ri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (4-§ (Shayboniylar boshqaruvi)): «Abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan» voqeasi «poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan» voqeasidan oldin sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan (1533) Abdullaxon II davrida oliy hukmdorlikning otadan o'g'ilga o'tish va valiahdga Balxni berish an'anasi shakllana boshlagan (1557) voqeasidan oldin ro'y bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): quyidagi uch voqeaning to'g'ri xronologik ketma-ketligini aniqlang.",
+      "options": [
+        "1) shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan; 2) valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan; 3) poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan",
+        "1) valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan; 2) shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan; 3) poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan",
+        "1) poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan; 2) valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan; 3) shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan",
+        "1) shayboniylar davlat boshqaruvida o'troq idora va yarimko'chmanchi jamiyat an'analari uyg'unlasha boshlagan; 2) poytaxt Buxoroga ko'chgach, poytaxt qozisi qozikalonga boshqa viloyat qozilari bo'ysungan; 3) valiahd Jonibek sulton hayotdan ko'z yumib, Abu Said va Abdulla navbatma-navbat «qolg'a» bo'lgan"
+      ],
+      "answer": 0,
+      "explain": "To'g'ri xronologiya: 1500 -> 1529 -> 1533.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Suyunchxo'ja",
+        "Ko'chkunchixon",
+        "Jonibek sulton",
+        "Abu Said"
+      ],
+      "answer": 1,
+      "explain": "Ko'chkunchixon — Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon. Shayboniylar davrida taxt avval yoshi kattaga o'tgani sababli ukasini taxt vorisi etib tayinlagan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Ko'chkunchixon tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda",
+        "Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi",
+        "Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon",
+        "Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda"
+      ],
+      "answer": 2,
+      "explain": "Ko'chkunchixon — Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon. Shayboniylar davrida taxt avval yoshi kattaga o'tgani sababli ukasini taxt vorisi etib tayinlagan hukmdor",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Shayboniylar davrida taxt avval yoshi kattaga o'tgani sababli ukasini taxt vorisi etib tayinlagan hukmdor — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Ko'chkunchixon"
+      ],
+      "explain": "Ko'chkunchixon — Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon. Shayboniylar davrida taxt avval yoshi kattaga o'tgani sababli ukasini taxt vorisi etib tayinlagan hukmdor",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) shaxslari: Ko'chkunchixon — Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon.",
+      "answer": true,
+      "explain": "Ko'chkunchixon — Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon. Shayboniylar davrida taxt avval yoshi kattaga o'tgani sababli ukasini taxt vorisi etib tayinlagan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon» ta'rifi Suyunchxo'ja faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Ko'chkunchixon haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Ko'chkunchixon",
+        "Jonibek sulton",
+        "Abu Said",
+        "Suyunchxo'ja"
+      ],
+      "answer": 3,
+      "explain": "Suyunchxo'ja — Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda. Vafotidan keyin taxt vorisligi Jonibek sultonga o'tgan Ko'chkunchixonning ukasi",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Suyunchxo'ja tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda",
+        "Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon",
+        "Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi",
+        "Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda"
+      ],
+      "answer": 0,
+      "explain": "Suyunchxo'ja — Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda. Vafotidan keyin taxt vorisligi Jonibek sultonga o'tgan Ko'chkunchixonning ukasi",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Vafotidan keyin taxt vorisligi Jonibek sultonga o'tgan Ko'chkunchixonning ukasi — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Suyunchxo'ja"
+      ],
+      "explain": "Suyunchxo'ja — Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda. Vafotidan keyin taxt vorisligi Jonibek sultonga o'tgan Ko'chkunchixonning ukasi",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) shaxslari: Suyunchxo'ja — Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda.",
+      "answer": true,
+      "explain": "Suyunchxo'ja — Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda. Vafotidan keyin taxt vorisligi Jonibek sultonga o'tgan Ko'chkunchixonning ukasi",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda» ta'rifi Ko'chkunchixon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Suyunchxo'ja haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Ko'chkunchixon",
+        "Jonibek sulton",
+        "Suyunchxo'ja",
+        "Abu Said"
+      ],
+      "answer": 1,
+      "explain": "Jonibek sulton — Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi. 1529-yilda vafot etgach, Abu Said va Abdulla birin-ketin «qolg'a» bo'lgan yoshi ulug' shahzoda",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Jonibek sulton tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon",
+        "Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda",
+        "Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi",
+        "Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda"
+      ],
+      "answer": 2,
+      "explain": "Jonibek sulton — Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi. 1529-yilda vafot etgach, Abu Said va Abdulla birin-ketin «qolg'a» bo'lgan yoshi ulug' shahzoda",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): 1529-yilda vafot etgach, Abu Said va Abdulla birin-ketin «qolg'a» bo'lgan yoshi ulug' shahzoda — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Jonibek sulton"
+      ],
+      "explain": "Jonibek sulton — Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi. 1529-yilda vafot etgach, Abu Said va Abdulla birin-ketin «qolg'a» bo'lgan yoshi ulug' shahzoda",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) shaxslari: Jonibek sulton — Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi.",
+      "answer": true,
+      "explain": "Jonibek sulton — Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi. 1529-yilda vafot etgach, Abu Said va Abdulla birin-ketin «qolg'a» bo'lgan yoshi ulug' shahzoda",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi» ta'rifi Ko'chkunchixon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Jonibek sulton haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Ko'chkunchixon",
+        "Suyunchxo'ja",
+        "Jonibek sulton",
+        "Abu Said"
+      ],
+      "answer": 3,
+      "explain": "Abu Said — Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda. Yoshi ulug'lik tartibi bo'yicha valiahdlikdan xonlik darajasiga chiqqan shayboniy vakili",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Abu Said tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda",
+        "Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon",
+        "Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda",
+        "Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi"
+      ],
+      "answer": 0,
+      "explain": "Abu Said — Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda. Yoshi ulug'lik tartibi bo'yicha valiahdlikdan xonlik darajasiga chiqqan shayboniy vakili",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Yoshi ulug'lik tartibi bo'yicha valiahdlikdan xonlik darajasiga chiqqan shayboniy vakili — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Abu Said"
+      ],
+      "explain": "Abu Said — Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda. Yoshi ulug'lik tartibi bo'yicha valiahdlikdan xonlik darajasiga chiqqan shayboniy vakili",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) shaxslari: Abu Said — Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda.",
+      "answer": true,
+      "explain": "Abu Said — Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda. Yoshi ulug'lik tartibi bo'yicha valiahdlikdan xonlik darajasiga chiqqan shayboniy vakili",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Jonibek sultondan keyin «qolg'a» va so'ngra oliy hukmdorlik martabasiga ko'tarilgan shahzoda» ta'rifi Ko'chkunchixon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Abu Said haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Abu Saiddan keyin navbat bo'yicha «qolg'a» va oliy hukmdor bo'lgan shahzoda sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Ko'chkunchixon",
+        "Abdulla (Abdullaxon I)",
+        "Suyunchxo'ja",
+        "Jonibek sulton"
+      ],
+      "answer": 1,
+      "explain": "Abdulla (Abdullaxon I) — Abu Saiddan keyin navbat bo'yicha «qolg'a» va oliy hukmdor bo'lgan shahzoda. 1529-yildan so'ng yoshi ulug'lik tartibida taxt vorisi va hukmdor bo'lgan shayboniy shahzodasi",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Abdulla (Abdullaxon I) tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon",
+        "Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda",
+        "Abu Saiddan keyin navbat bo'yicha «qolg'a» va oliy hukmdor bo'lgan shahzoda",
+        "Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi"
+      ],
+      "answer": 2,
+      "explain": "Abdulla (Abdullaxon I) — Abu Saiddan keyin navbat bo'yicha «qolg'a» va oliy hukmdor bo'lgan shahzoda. 1529-yildan so'ng yoshi ulug'lik tartibida taxt vorisi va hukmdor bo'lgan shayboniy shahzodasi",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): 1529-yildan so'ng yoshi ulug'lik tartibida taxt vorisi va hukmdor bo'lgan shayboniy shahzodasi — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Abdulla (Abdullaxon I)"
+      ],
+      "explain": "Abdulla (Abdullaxon I) — Abu Saiddan keyin navbat bo'yicha «qolg'a» va oliy hukmdor bo'lgan shahzoda. 1529-yildan so'ng yoshi ulug'lik tartibida taxt vorisi va hukmdor bo'lgan shayboniy shahzodasi",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) shaxslari: Abdulla (Abdullaxon I) — Abu Saiddan keyin navbat bo'yicha «qolg'a» va oliy hukmdor bo'lgan shahzoda.",
+      "answer": true,
+      "explain": "Abdulla (Abdullaxon I) — Abu Saiddan keyin navbat bo'yicha «qolg'a» va oliy hukmdor bo'lgan shahzoda. 1529-yildan so'ng yoshi ulug'lik tartibida taxt vorisi va hukmdor bo'lgan shayboniy shahzodasi",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Abu Saiddan keyin navbat bo'yicha «qolg'a» va oliy hukmdor bo'lgan shahzoda» ta'rifi Ko'chkunchixon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Abdulla (Abdullaxon I) haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Taxtni otadan o'g'ilga o'tkazish va valiahdga Balxni berish tartibini kiritgan xon sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Ko'chkunchixon",
+        "Suyunchxo'ja",
+        "Jonibek sulton",
+        "Abdullaxon II"
+      ],
+      "answer": 3,
+      "explain": "Abdullaxon II — Taxtni otadan o'g'ilga o'tkazish va valiahdga Balxni berish tartibini kiritgan xon. Davrida harbiy san'at taraqqiy etib, mamlakat Qashqardan Kaspiygacha kengaygan hukmdor",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): Abdullaxon II tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Taxtni otadan o'g'ilga o'tkazish va valiahdga Balxni berish tartibini kiritgan xon",
+        "Oliy hukmdor bo'lgach ukasi Suyunchxo'jani «qolg'a» qilib belgilagan shayboniy xon",
+        "Ko'chkunchixon hukmronligida yosh jihatdan ikkinchi o'rinda turib «qolg'a» bo'lgan shahzoda",
+        "Suyunchxo'ja vafotidan so'ng 1529-yilgacha valiahd bo'lgan shayboniy shahzodasi"
+      ],
+      "answer": 0,
+      "explain": "Abdullaxon II — Taxtni otadan o'g'ilga o'tkazish va valiahdga Balxni berish tartibini kiritgan xon. Davrida harbiy san'at taraqqiy etib, mamlakat Qashqardan Kaspiygacha kengaygan hukmdor",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Davrida harbiy san'at taraqqiy etib, mamlakat Qashqardan Kaspiygacha kengaygan hukmdor — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Abdullaxon II"
+      ],
+      "explain": "Abdullaxon II — Taxtni otadan o'g'ilga o'tkazish va valiahdga Balxni berish tartibini kiritgan xon. Davrida harbiy san'at taraqqiy etib, mamlakat Qashqardan Kaspiygacha kengaygan hukmdor",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) shaxslari: Abdullaxon II — Taxtni otadan o'g'ilga o'tkazish va valiahdga Balxni berish tartibini kiritgan xon.",
+      "answer": true,
+      "explain": "Abdullaxon II — Taxtni otadan o'g'ilga o'tkazish va valiahdga Balxni berish tartibini kiritgan xon. Davrida harbiy san'at taraqqiy etib, mamlakat Qashqardan Kaspiygacha kengaygan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Taxtni otadan o'g'ilga o'tkazish va valiahdga Balxni berish tartibini kiritgan xon» ta'rifi Ko'chkunchixon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Abdullaxon II haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Dargoh» tushunchasi nimani anglatadi?",
+      "options": [
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom",
+        "Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi"
+      ],
+      "answer": 1,
+      "explain": "Dargoh — Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Oq kigiz",
+        "Qolg'a",
+        "Dargoh",
+        "Naqib"
+      ],
+      "answer": 2,
+      "explain": "Dargoh — Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Dargoh"
+      ],
+      "explain": "Dargoh — Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Dargoh» — Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi.",
+      "answer": true,
+      "explain": "Dargoh — Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Dargoh» tushunchasi «Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Dargoh» — Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Oq kigiz» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom",
+        "Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum"
+      ],
+      "answer": 3,
+      "explain": "Oq kigiz — Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Oq kigiz",
+        "Dargoh",
+        "Qolg'a",
+        "Naqib"
+      ],
+      "answer": 0,
+      "explain": "Oq kigiz — Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Oq kigiz"
+      ],
+      "explain": "Oq kigiz — Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Oq kigiz» — Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum.",
+      "answer": true,
+      "explain": "Oq kigiz — Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Oq kigiz» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Oq kigiz» — Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Qolg'a» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi"
+      ],
+      "answer": 1,
+      "explain": "Qolg'a — Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Dargoh",
+        "Oq kigiz",
+        "Qolg'a",
+        "Naqib"
+      ],
+      "answer": 2,
+      "explain": "Qolg'a — Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Qolg'a"
+      ],
+      "explain": "Qolg'a — Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Qolg'a» — Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom.",
+      "answer": true,
+      "explain": "Qolg'a — Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Qolg'a» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Qolg'a» — Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Naqib» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom",
+        "Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi"
+      ],
+      "answer": 3,
+      "explain": "Naqib — Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Naqib",
+        "Dargoh",
+        "Oq kigiz",
+        "Qolg'a"
+      ],
+      "answer": 0,
+      "explain": "Naqib — Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Naqib"
+      ],
+      "explain": "Naqib — Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Naqib» — Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi.",
+      "answer": true,
+      "explain": "Naqib — Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Naqib» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Naqib» — Oliy hukmdorning eng yaqin ishonchli kishisi, ichki-tashqi siyosat va harbiy maslahatchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Otaliq» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Shahzodalar tarbiyasiga mutasaddi bo'lgan va qabilalarning yoshi katta amirlaridan tayinlangan mansab",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom"
+      ],
+      "answer": 1,
+      "explain": "Otaliq — Shahzodalar tarbiyasiga mutasaddi bo'lgan va qabilalarning yoshi katta amirlaridan tayinlangan mansab.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Shahzodalar tarbiyasiga mutasaddi bo'lgan va qabilalarning yoshi katta amirlaridan tayinlangan mansab» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Dargoh",
+        "Oq kigiz",
+        "Otaliq",
+        "Qolg'a"
+      ],
+      "answer": 2,
+      "explain": "Otaliq — Shahzodalar tarbiyasiga mutasaddi bo'lgan va qabilalarning yoshi katta amirlaridan tayinlangan mansab.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Shahzodalar tarbiyasiga mutasaddi bo'lgan va qabilalarning yoshi katta amirlaridan tayinlangan mansab — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Otaliq"
+      ],
+      "explain": "Otaliq — Shahzodalar tarbiyasiga mutasaddi bo'lgan va qabilalarning yoshi katta amirlaridan tayinlangan mansab.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Otaliq» — Shahzodalar tarbiyasiga mutasaddi bo'lgan va qabilalarning yoshi katta amirlaridan tayinlangan mansab.",
+      "answer": true,
+      "explain": "Otaliq — Shahzodalar tarbiyasiga mutasaddi bo'lgan va qabilalarning yoshi katta amirlaridan tayinlangan mansab.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Otaliq» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Otaliq» — Shahzodalar tarbiyasiga mutasaddi bo'lgan va qabilalarning yoshi katta amirlaridan tayinlangan mansab.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Parvonachi» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom",
+        "Xon yorliqlarini ijrochilarga yetkazuvchi hamda harbiy harakatlarda qo'shin qo'mondoni"
+      ],
+      "answer": 3,
+      "explain": "Parvonachi — Xon yorliqlarini ijrochilarga yetkazuvchi hamda harbiy harakatlarda qo'shin qo'mondoni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Xon yorliqlarini ijrochilarga yetkazuvchi hamda harbiy harakatlarda qo'shin qo'mondoni» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Parvonachi",
+        "Dargoh",
+        "Oq kigiz",
+        "Qolg'a"
+      ],
+      "answer": 0,
+      "explain": "Parvonachi — Xon yorliqlarini ijrochilarga yetkazuvchi hamda harbiy harakatlarda qo'shin qo'mondoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Xon yorliqlarini ijrochilarga yetkazuvchi hamda harbiy harakatlarda qo'shin qo'mondoni — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Parvonachi"
+      ],
+      "explain": "Parvonachi — Xon yorliqlarini ijrochilarga yetkazuvchi hamda harbiy harakatlarda qo'shin qo'mondoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Parvonachi» — Xon yorliqlarini ijrochilarga yetkazuvchi hamda harbiy harakatlarda qo'shin qo'mondoni.",
+      "answer": true,
+      "explain": "Parvonachi — Xon yorliqlarini ijrochilarga yetkazuvchi hamda harbiy harakatlarda qo'shin qo'mondoni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Parvonachi» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Parvonachi» — Xon yorliqlarini ijrochilarga yetkazuvchi hamda harbiy harakatlarda qo'shin qo'mondoni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Dodxoh» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Aholi arz-dodlarini qabul qiluvchi, adolat nazoratchisi hamda elchilik ishlarini yurituvchi amaldor",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom"
+      ],
+      "answer": 1,
+      "explain": "Dodxoh — Aholi arz-dodlarini qabul qiluvchi, adolat nazoratchisi hamda elchilik ishlarini yurituvchi amaldor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Aholi arz-dodlarini qabul qiluvchi, adolat nazoratchisi hamda elchilik ishlarini yurituvchi amaldor» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Dargoh",
+        "Oq kigiz",
+        "Dodxoh",
+        "Qolg'a"
+      ],
+      "answer": 2,
+      "explain": "Dodxoh — Aholi arz-dodlarini qabul qiluvchi, adolat nazoratchisi hamda elchilik ishlarini yurituvchi amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Aholi arz-dodlarini qabul qiluvchi, adolat nazoratchisi hamda elchilik ishlarini yurituvchi amaldor — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Dodxoh"
+      ],
+      "explain": "Dodxoh — Aholi arz-dodlarini qabul qiluvchi, adolat nazoratchisi hamda elchilik ishlarini yurituvchi amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Dodxoh» — Aholi arz-dodlarini qabul qiluvchi, adolat nazoratchisi hamda elchilik ishlarini yurituvchi amaldor.",
+      "answer": true,
+      "explain": "Dodxoh — Aholi arz-dodlarini qabul qiluvchi, adolat nazoratchisi hamda elchilik ishlarini yurituvchi amaldor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Dodxoh» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Dodxoh» — Aholi arz-dodlarini qabul qiluvchi, adolat nazoratchisi hamda elchilik ishlarini yurituvchi amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Ko'kaldosh» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom",
+        "Hukmron sulola vakili bilan bir onani emgan, xonga eng yaqin lavozim egasi"
+      ],
+      "answer": 3,
+      "explain": "Ko'kaldosh — Hukmron sulola vakili bilan bir onani emgan, xonga eng yaqin lavozim egasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Hukmron sulola vakili bilan bir onani emgan, xonga eng yaqin lavozim egasi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ko'kaldosh",
+        "Dargoh",
+        "Oq kigiz",
+        "Qolg'a"
+      ],
+      "answer": 0,
+      "explain": "Ko'kaldosh — Hukmron sulola vakili bilan bir onani emgan, xonga eng yaqin lavozim egasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Hukmron sulola vakili bilan bir onani emgan, xonga eng yaqin lavozim egasi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Ko'kaldosh"
+      ],
+      "explain": "Ko'kaldosh — Hukmron sulola vakili bilan bir onani emgan, xonga eng yaqin lavozim egasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Ko'kaldosh» — Hukmron sulola vakili bilan bir onani emgan, xonga eng yaqin lavozim egasi.",
+      "answer": true,
+      "explain": "Ko'kaldosh — Hukmron sulola vakili bilan bir onani emgan, xonga eng yaqin lavozim egasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Ko'kaldosh» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Ko'kaldosh» — Hukmron sulola vakili bilan bir onani emgan, xonga eng yaqin lavozim egasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Devonbegi» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Moliya, soliq, yer-suv va mansablar haqida xonga har kuni hisobot beruvchi bosh vazir",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom"
+      ],
+      "answer": 1,
+      "explain": "Devonbegi — Moliya, soliq, yer-suv va mansablar haqida xonga har kuni hisobot beruvchi bosh vazir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Moliya, soliq, yer-suv va mansablar haqida xonga har kuni hisobot beruvchi bosh vazir» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Dargoh",
+        "Oq kigiz",
+        "Devonbegi",
+        "Qolg'a"
+      ],
+      "answer": 2,
+      "explain": "Devonbegi — Moliya, soliq, yer-suv va mansablar haqida xonga har kuni hisobot beruvchi bosh vazir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Moliya, soliq, yer-suv va mansablar haqida xonga har kuni hisobot beruvchi bosh vazir — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Devonbegi"
+      ],
+      "explain": "Devonbegi — Moliya, soliq, yer-suv va mansablar haqida xonga har kuni hisobot beruvchi bosh vazir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Devonbegi» — Moliya, soliq, yer-suv va mansablar haqida xonga har kuni hisobot beruvchi bosh vazir.",
+      "answer": true,
+      "explain": "Devonbegi — Moliya, soliq, yer-suv va mansablar haqida xonga har kuni hisobot beruvchi bosh vazir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Devonbegi» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Devonbegi» — Moliya, soliq, yer-suv va mansablar haqida xonga har kuni hisobot beruvchi bosh vazir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Mushrif» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom",
+        "Xon tortiq qilgan kiyim-anjomlar va soliq daftarlariga yig'ilgan xirojni yozib boruvchi amaldor"
+      ],
+      "answer": 3,
+      "explain": "Mushrif — Xon tortiq qilgan kiyim-anjomlar va soliq daftarlariga yig'ilgan xirojni yozib boruvchi amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Xon tortiq qilgan kiyim-anjomlar va soliq daftarlariga yig'ilgan xirojni yozib boruvchi amaldor» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Mushrif",
+        "Dargoh",
+        "Oq kigiz",
+        "Qolg'a"
+      ],
+      "answer": 0,
+      "explain": "Mushrif — Xon tortiq qilgan kiyim-anjomlar va soliq daftarlariga yig'ilgan xirojni yozib boruvchi amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Xon tortiq qilgan kiyim-anjomlar va soliq daftarlariga yig'ilgan xirojni yozib boruvchi amaldor — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Mushrif"
+      ],
+      "explain": "Mushrif — Xon tortiq qilgan kiyim-anjomlar va soliq daftarlariga yig'ilgan xirojni yozib boruvchi amaldor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Mushrif» — Xon tortiq qilgan kiyim-anjomlar va soliq daftarlariga yig'ilgan xirojni yozib boruvchi amaldor.",
+      "answer": true,
+      "explain": "Mushrif — Xon tortiq qilgan kiyim-anjomlar va soliq daftarlariga yig'ilgan xirojni yozib boruvchi amaldor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Mushrif» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Mushrif» — Xon tortiq qilgan kiyim-anjomlar va soliq daftarlariga yig'ilgan xirojni yozib boruvchi amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Miroxur» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Oliy hukmdorga tegishli yilqi, ot-ulov va ularning ta'minotiga javobgar mansabdor",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom"
+      ],
+      "answer": 1,
+      "explain": "Miroxur — Oliy hukmdorga tegishli yilqi, ot-ulov va ularning ta'minotiga javobgar mansabdor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Oliy hukmdorga tegishli yilqi, ot-ulov va ularning ta'minotiga javobgar mansabdor» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Dargoh",
+        "Oq kigiz",
+        "Miroxur",
+        "Qolg'a"
+      ],
+      "answer": 2,
+      "explain": "Miroxur — Oliy hukmdorga tegishli yilqi, ot-ulov va ularning ta'minotiga javobgar mansabdor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Oliy hukmdorga tegishli yilqi, ot-ulov va ularning ta'minotiga javobgar mansabdor — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Miroxur"
+      ],
+      "explain": "Miroxur — Oliy hukmdorga tegishli yilqi, ot-ulov va ularning ta'minotiga javobgar mansabdor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Miroxur» — Oliy hukmdorga tegishli yilqi, ot-ulov va ularning ta'minotiga javobgar mansabdor.",
+      "answer": true,
+      "explain": "Miroxur — Oliy hukmdorga tegishli yilqi, ot-ulov va ularning ta'minotiga javobgar mansabdor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Miroxur» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Miroxur» — Oliy hukmdorga tegishli yilqi, ot-ulov va ularning ta'minotiga javobgar mansabdor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «To'qsoba» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom",
+        "Shayboniylar saroyida ovqat suzuvchi va ichimlik quyuvchi lavozim egasi"
+      ],
+      "answer": 3,
+      "explain": "To'qsoba — Shayboniylar saroyida ovqat suzuvchi va ichimlik quyuvchi lavozim egasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Shayboniylar saroyida ovqat suzuvchi va ichimlik quyuvchi lavozim egasi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "To'qsoba",
+        "Dargoh",
+        "Oq kigiz",
+        "Qolg'a"
+      ],
+      "answer": 0,
+      "explain": "To'qsoba — Shayboniylar saroyida ovqat suzuvchi va ichimlik quyuvchi lavozim egasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Shayboniylar saroyida ovqat suzuvchi va ichimlik quyuvchi lavozim egasi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "To'qsoba"
+      ],
+      "explain": "To'qsoba — Shayboniylar saroyida ovqat suzuvchi va ichimlik quyuvchi lavozim egasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «To'qsoba» — Shayboniylar saroyida ovqat suzuvchi va ichimlik quyuvchi lavozim egasi.",
+      "answer": true,
+      "explain": "To'qsoba — Shayboniylar saroyida ovqat suzuvchi va ichimlik quyuvchi lavozim egasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «To'qsoba» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «To'qsoba» — Shayboniylar saroyida ovqat suzuvchi va ichimlik quyuvchi lavozim egasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Qushbegi» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Hukmdorning ov qurol-aslahalari, ov qushlari va itlariga mas'ul amaldor",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom"
+      ],
+      "answer": 1,
+      "explain": "Qushbegi — Hukmdorning ov qurol-aslahalari, ov qushlari va itlariga mas'ul amaldor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Hukmdorning ov qurol-aslahalari, ov qushlari va itlariga mas'ul amaldor» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Dargoh",
+        "Oq kigiz",
+        "Qushbegi",
+        "Qolg'a"
+      ],
+      "answer": 2,
+      "explain": "Qushbegi — Hukmdorning ov qurol-aslahalari, ov qushlari va itlariga mas'ul amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Hukmdorning ov qurol-aslahalari, ov qushlari va itlariga mas'ul amaldor — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Qushbegi"
+      ],
+      "explain": "Qushbegi — Hukmdorning ov qurol-aslahalari, ov qushlari va itlariga mas'ul amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Qushbegi» — Hukmdorning ov qurol-aslahalari, ov qushlari va itlariga mas'ul amaldor.",
+      "answer": true,
+      "explain": "Qushbegi — Hukmdorning ov qurol-aslahalari, ov qushlari va itlariga mas'ul amaldor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Qushbegi» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Qushbegi» — Hukmdorning ov qurol-aslahalari, ov qushlari va itlariga mas'ul amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Qozikalon» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom",
+        "Barcha viloyat qozilari bo'ysungan poytaxt Buxoroning bosh qozisi"
+      ],
+      "answer": 3,
+      "explain": "Qozikalon — Barcha viloyat qozilari bo'ysungan poytaxt Buxoroning bosh qozisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Barcha viloyat qozilari bo'ysungan poytaxt Buxoroning bosh qozisi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Qozikalon",
+        "Dargoh",
+        "Oq kigiz",
+        "Qolg'a"
+      ],
+      "answer": 0,
+      "explain": "Qozikalon — Barcha viloyat qozilari bo'ysungan poytaxt Buxoroning bosh qozisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Barcha viloyat qozilari bo'ysungan poytaxt Buxoroning bosh qozisi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Qozikalon"
+      ],
+      "explain": "Qozikalon — Barcha viloyat qozilari bo'ysungan poytaxt Buxoroning bosh qozisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Qozikalon» — Barcha viloyat qozilari bo'ysungan poytaxt Buxoroning bosh qozisi.",
+      "answer": true,
+      "explain": "Qozikalon — Barcha viloyat qozilari bo'ysungan poytaxt Buxoroning bosh qozisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Qozikalon» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Qozikalon» — Barcha viloyat qozilari bo'ysungan poytaxt Buxoroning bosh qozisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) mavzusidagi «Shig'ovul» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi",
+        "Dargohda xorijiy elchilarni qabul qilishga mutasaddi bo'lgan lavozim egasi",
+        "Xonlikka nomzodni taxtga o'tqazishda to'rt uchini amirlar va ulamolar ushlab ko'taradigan udum",
+        "Shayboniylar davrida taxt vorisiga berilgan «navvob» yoki «kichik xon» maqomidagi nom"
+      ],
+      "answer": 1,
+      "explain": "Shig'ovul — Dargohda xorijiy elchilarni qabul qilishga mutasaddi bo'lgan lavozim egasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Dargohda xorijiy elchilarni qabul qilishga mutasaddi bo'lgan lavozim egasi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Dargoh",
+        "Oq kigiz",
+        "Shig'ovul",
+        "Qolg'a"
+      ],
+      "answer": 2,
+      "explain": "Shig'ovul — Dargohda xorijiy elchilarni qabul qilishga mutasaddi bo'lgan lavozim egasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): Dargohda xorijiy elchilarni qabul qilishga mutasaddi bo'lgan lavozim egasi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Shig'ovul"
+      ],
+      "explain": "Shig'ovul — Dargohda xorijiy elchilarni qabul qilishga mutasaddi bo'lgan lavozim egasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Shig'ovul» — Dargohda xorijiy elchilarni qabul qilishga mutasaddi bo'lgan lavozim egasi.",
+      "answer": true,
+      "explain": "Shig'ovul — Dargohda xorijiy elchilarni qabul qilishga mutasaddi bo'lgan lavozim egasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (4-§ (Shayboniylar boshqaruvi)): «Shig'ovul» tushunchasi «Shayboniylar davrida devonlar vazifasini ham olgan davlat boshqaruvining oliy organi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Shig'ovul» — Dargohda xorijiy elchilarni qabul qilishga mutasaddi bo'lgan lavozim egasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davrida devonlar va dargoh o'rtasidagi munosabat qanday o'zgargan?",
+      "options": [
+        "Dargoh tugatilib, faqat yettita devon qoldirilgan",
+        "Devonlar viloyat hokimlariga berilgan",
+        "Dargoh faqat diniy marosimlar bilan shug'ullangan",
+        "Devonlarning ish vazifalari dargoh huzuridagi xizmatlar zimmasiga yuklanib, devonlarning o'rni yo'qolib borgan"
+      ],
+      "answer": 3,
+      "explain": "Shayboniylar davrida devonlarning ish vazifalari dargoh huzuridagi xizmatlar zimmasiga o'tib, devonlarning boshqaruvdagi o'rni yo'qolib borgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida davlat boshqaruv tizimi o'troq aholining idora an'analari bilan yarimko'chmanchi jamiyat an'analarini birlashtirgan.",
+      "answer": true,
+      "explain": "Shayboniylar davrida devonlarning ish vazifalari dargoh huzuridagi xizmatlar zimmasiga o'tib, devonlarning boshqaruvdagi o'rni yo'qolib borgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davlat boshqaruvida faqat ko'chmanchi dasht qoidalariga tayanib, o'troq an'analarni butunlay rad etgan.",
+      "answer": false,
+      "explain": "Shayboniylar davrida devonlarning ish vazifalari dargoh huzuridagi xizmatlar zimmasiga o'tib, devonlarning boshqaruvdagi o'rni yo'qolib borgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Shayboniylarda davlat boshqaruvining oliy organi ____ hisoblangan.",
+      "answer": [
+        "dargoh"
+      ],
+      "explain": "Shayboniylar davrida devonlarning ish vazifalari dargoh huzuridagi xizmatlar zimmasiga o'tib, devonlarning boshqaruvdagi o'rni yo'qolib borgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Xonlikka nomzodni taxtga o'tqazishda oq kigizning to'rt uchini kimlar ushlab ko'tarishgan?",
+      "options": [
+        "Xonga mansub urug'ning qudratli vakillari, asilzoda amirlar va ulamolar",
+        "Faqat shahar bozori savdogarlari va dehqonlar",
+        "Chet el elchilari va qo'shni xonlar",
+        "Xonning kichik yoshli farzandlari"
+      ],
+      "answer": 0,
+      "explain": "Xonni oq kigizga solib ko'tarish marosimida kigizning to'rt uchini xon urug'ining qudratli vakillari, asilzoda amirlar va ulamolar ushlashgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Oq kigizda ko'tarish marosimi xonlikka nomzodni taxtga o'tqazishning rasmiy udumi edi.",
+      "answer": true,
+      "explain": "Xonni oq kigizga solib ko'tarish marosimida kigizning to'rt uchini xon urug'ining qudratli vakillari, asilzoda amirlar va ulamolar ushlashgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida xonni ko'tarishda qora gilamdan foydalanilgan.",
+      "answer": false,
+      "explain": "Xonni oq kigizga solib ko'tarish marosimida kigizning to'rt uchini xon urug'ining qudratli vakillari, asilzoda amirlar va ulamolar ushlashgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Nomzodni taxtga o'tqazish uni ____ ga solib ko'tarish orqali amalga oshirilgan.",
+      "answer": [
+        "oq kigiz",
+        "kigiz"
+      ],
+      "explain": "Xonni oq kigizga solib ko'tarish marosimida kigizning to'rt uchini xon urug'ining qudratli vakillari, asilzoda amirlar va ulamolar ushlashgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Abdullaxon II davriga kelib taxt vorisligi va valiahd mulkida qanday muhim yangi tartib shakllangan?",
+      "options": [
+        "Taxt faqat qur'a tashlash yo'li bilan berilib, valiahdga Xiva berilgan",
+        "Oliy hukmdorlikning otadan o'g'ilga o'tish an'anasi shakllanib, valiahdga boshqarish uchun Balx viloyati beriladigan bo'lgan",
+        "Valiahdga faqat Toshkent shahri va Sirdaryo berilgan",
+        "Taxt vorisligi bekor qilinib har yili saylov o'tkazilgan"
+      ],
+      "answer": 1,
+      "explain": "Avval taxt yoshi kattaga o'tgan bo'lsa, Abdullaxon II davrida otadan o'g'ilga o'tish an'anasi shakllanib, valiahdga Balx viloyati berilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida taxt vorisi «navvob», «qolg'a» va «kichik xon» deb atalgan.",
+      "answer": true,
+      "explain": "Avval taxt yoshi kattaga o'tgan bo'lsa, Abdullaxon II davrida otadan o'g'ilga o'tish an'anasi shakllanib, valiahdga Balx viloyati berilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Abdullaxon II kiritgan tartibga ko'ra valiahdga boshqarish uchun Farg'ona viloyati berilgan.",
+      "answer": false,
+      "explain": "Avval taxt yoshi kattaga o'tgan bo'lsa, Abdullaxon II davrida otadan o'g'ilga o'tish an'anasi shakllanib, valiahdga Balx viloyati berilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Abdullaxon II kiritgan tartibga ko'ra valiahdga boshqarish uchun ____ viloyati beriladigan bo'lgan.",
+      "answer": [
+        "Balx"
+      ],
+      "explain": "Avval taxt yoshi kattaga o'tgan bo'lsa, Abdullaxon II davrida otadan o'g'ilga o'tish an'anasi shakllanib, valiahdga Balx viloyati berilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Oliy hukmdor huzuridagi majlislar va qabul marosimlarida o'tirish tartibi qanday qoidaga bo'ysungan?",
+      "options": [
+        "Hamma lavozim egalari xohlagan bo'sh joyga o'tiravergan",
+        "Majlislarda faqat xon o'tirib, barcha vazirlar tashqarida kutgan",
+        "Lavozim katta-kichikligiga qarab xonning o'ng yoki so'l tarafida belgilangan joyda o'tirishgan, ba'zilar esa tik turgan",
+        "O'rinlar har haftada almashtirib turilgan"
+      ],
+      "answer": 2,
+      "explain": "Majlis va qabul marosimlarida har bir mansab egasi lavozimiga qarab xonning o'ng yoki so'l tarafida ajratilgan joyda o'tirgan, ayrimlar esa tik turgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniy hukmdorlar viloyatlarni birinchi navbatda sulola vakillari va qarindosh-urug'lariga mulk hamda hokimlik qilib berganlar.",
+      "answer": true,
+      "explain": "Majlis va qabul marosimlarida har bir mansab egasi lavozimiga qarab xonning o'ng yoki so'l tarafida ajratilgan joyda o'tirgan, ayrimlar esa tik turgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniy viloyat hokimlari markaziy hokimiyatnikiga o'xshash boshqaruv tizimi tuza olmas edilar.",
+      "answer": false,
+      "explain": "Majlis va qabul marosimlarida har bir mansab egasi lavozimiga qarab xonning o'ng yoki so'l tarafida ajratilgan joyda o'tirgan, ayrimlar esa tik turgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Oliy hukmdor bilan shahzodalar o'rtasidagi aloqalarni o'rnatilgan tartibda yo'lga qo'yish bilan ____ shug'ullangan.",
+      "answer": [
+        "xon yasovuli",
+        "yasovul"
+      ],
+      "explain": "Majlis va qabul marosimlarida har bir mansab egasi lavozimiga qarab xonning o'ng yoki so'l tarafida ajratilgan joyda o'tirgan, ayrimlar esa tik turgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Hukmron sulolaga tegishli yer-suv, mol-mulk boshqaruvi va soliq ishlarini olib borgan maxsus tuzilma manbalarda qanday ataladi?",
+      "options": [
+        "Devoni ulamo",
+        "Devoni lashkar",
+        "Mahkamayi oliya",
+        "Devoni sarkorixossa"
+      ],
+      "answer": 3,
+      "explain": "Sulolaga tegishli yer-suv, mol-mulk boshqaruvi, nazorati va soliq ishlarini olib borgan maxsus tuzilma «devoni sarkorixossa» deb atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Devoni sarkorixossa hukmron sulolaga qarashli yer-suv va mol-mulk ishlarini boshqargan.",
+      "answer": true,
+      "explain": "Sulolaga tegishli yer-suv, mol-mulk boshqaruvi, nazorati va soliq ishlarini olib borgan maxsus tuzilma «devoni sarkorixossa» deb atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Devoni sarkorixossa faqat xorijiy savdogarlar karvonlarini qo'riqlash tuzilmasi edi.",
+      "answer": false,
+      "explain": "Sulolaga tegishli yer-suv, mol-mulk boshqaruvi, nazorati va soliq ishlarini olib borgan maxsus tuzilma «devoni sarkorixossa» deb atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Sulolaga tegishli yer-suv va mol-mulk boshqaruvini olib borgan tuzilma ____ deb atalgan.",
+      "answer": [
+        "devoni sarkorixossa",
+        "sarkorixossa"
+      ],
+      "explain": "Sulolaga tegishli yer-suv, mol-mulk boshqaruvi, nazorati va soliq ishlarini olib borgan maxsus tuzilma «devoni sarkorixossa» deb atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Saroy xavfsizligi, tartib va keldi-ketdidan xabardorlik hamda tungi qo'riqlash ishlariga qaysi lavozim egalari javobgar edi?",
+      "options": [
+        "Saroy xavfsizligi va keldi-ketdiga eshik og'asi, tungi qo'riqlashga mirshab javobgar edi",
+        "Saroy xavfsizligiga to'qsoba, tungi qo'riqlashga muhtasib mas'ul edi",
+        "Har ikkisini kitobdor va mirzaboshi bajargan",
+        "Faqat shayxulislom nazorat qilgan"
+      ],
+      "answer": 0,
+      "explain": "Eshik og'asi saroy xavfsizligi, tartib va keldi-ketdiga mas'ul bo'lsa, mirshab tungi qo'riqlash boshlig'i edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar saroyida tungi qo'riqlash boshlig'i «mirshab» deb atalgan.",
+      "answer": true,
+      "explain": "Eshik og'asi saroy xavfsizligi, tartib va keldi-ketdiga mas'ul bo'lsa, mirshab tungi qo'riqlash boshlig'i edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Eshik og'asi faqat saroy kutubxonasi kitoblarini saqlashga mas'ul edi.",
+      "answer": false,
+      "explain": "Eshik og'asi saroy xavfsizligi, tartib va keldi-ketdiga mas'ul bo'lsa, mirshab tungi qo'riqlash boshlig'i edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Shayboniylar davrida tungi qo'riqlash boshlig'i ____ deb atalgan.",
+      "answer": [
+        "mirshab"
+      ],
+      "explain": "Eshik og'asi saroy xavfsizligi, tartib va keldi-ketdiga mas'ul bo'lsa, mirshab tungi qo'riqlash boshlig'i edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davrida qozi tayinlash va qozilik lavozimlarining tarkibi qanday edi?",
+      "options": [
+        "Qozilar har yili aholi ovozi bilan saylangan",
+        "Qozilar xon tomonidan (ko'pincha qozilar avlodidan) tayinlanib, bosh qozi — qozikalon bilan birga qo'shinda qozi askar ham bo'lgan",
+        "Qozilik faqat harbiy qo'mondonlarga berilgan",
+        "Qo'shinda alohida qozi lavozimi bo'lmagan"
+      ],
+      "answer": 1,
+      "explain": "Qozilarni xon tayinlagan, ko'pincha ular qozilar avlodidan bo'lgan; Buxorodagi qozikalonga viloyat qozilari bo'ysungan va qo'shinda qozi askar bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayxulislom, muftiy va qozilar jamiyatda intizom va tartibni shariat qonunlari bo'yicha saqlab turishgan.",
+      "answer": true,
+      "explain": "Qozilarni xon tayinlagan, ko'pincha ular qozilar avlodidan bo'lgan; Buxorodagi qozikalonga viloyat qozilari bo'ysungan va qo'shinda qozi askar bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida qozilarni viloyat boshliqlari o'zboshimchalik bilan tayinlagan.",
+      "answer": false,
+      "explain": "Qozilarni xon tayinlagan, ko'pincha ular qozilar avlodidan bo'lgan; Buxorodagi qozikalonga viloyat qozilari bo'ysungan va qo'shinda qozi askar bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Shayboniy qo'shinidagi harbiy qozi lavozimi ____ deb atalgan.",
+      "answer": [
+        "qozi askar",
+        "qoziaskar"
+      ],
+      "explain": "Qozilarni xon tayinlagan, ko'pincha ular qozilar avlodidan bo'lgan; Buxorodagi qozikalonga viloyat qozilari bo'ysungan va qo'shinda qozi askar bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Abdullaxon II davrida qo'shin tarkibidagi an'anaviy qurollar hamda XVI asr ikkinchi yarmidagi yangi qurollar qaysilar edi?",
+      "options": [
+        "Faqat kamon va o'q bo'lib, o'tochar qurol keltirilmagan",
+        "Faqat Xitoydan keltirilgan poroxli raketalar",
+        "An'anaviy qurollar nayza, qilich, manjaniq, naftandoz va shotular; yangi qurollar Usmonli va Rossiyadan keltirilgan pilta miltiq va zambaraklar",
+        "Temir zirhli jangovar aravalar"
+      ],
+      "answer": 2,
+      "explain": "Qo'shin nayza, qilich, manjaniq, naftandoz va shotular bilan qurollangan, XVI asr ikkinchi yarmidan esa Usmonli va Rossiyadan pilta miltiq va zambarak keltirilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Abdullaxon II davrida Usmonli sultonligi va Rossiyadan pilta miltiq hamda zambaraklar keltirila boshlangan.",
+      "answer": true,
+      "explain": "Qo'shin nayza, qilich, manjaniq, naftandoz va shotular bilan qurollangan, XVI asr ikkinchi yarmidan esa Usmonli va Rossiyadan pilta miltiq va zambarak keltirilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Abdullaxon II davrida qo'shin faqat piyoda qismlardan iborat bo'lib, otliq qism tugatilgan.",
+      "answer": false,
+      "explain": "Qo'shin nayza, qilich, manjaniq, naftandoz va shotular bilan qurollangan, XVI asr ikkinchi yarmidan esa Usmonli va Rossiyadan pilta miltiq va zambarak keltirilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "XVI asr ikkinchi yarmidan shayboniy qo'shini Usmonli va Rossiyadan keltirilgan ____ va zambaraklar bilan qurollantirilgan.",
+      "answer": [
+        "pilta miltiq",
+        "pilta miltiqlar"
+      ],
+      "explain": "Qo'shin nayza, qilich, manjaniq, naftandoz va shotular bilan qurollangan, XVI asr ikkinchi yarmidan esa Usmonli va Rossiyadan pilta miltiq va zambarak keltirilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Abdullaxon II hukmronligi davrida mamlakatning geografik chegaralari qayergacha yetgan?",
+      "options": [
+        "Faqat Samarqanddan Buxorogacha",
+        "Volgadan Qora dengizgacha",
+        "Badaxshondan Hindiston janubigacha",
+        "Qashqardan Orol va Kaspiy dengizlari sohillarigacha, Turkiston va Sayramdan Xurosonning sharqiy qismigacha"
+      ],
+      "answer": 3,
+      "explain": "Darslikdagi «Bilasizmi?» qismida Abdullaxon II davrida hudud Qashqardan Orol va Kaspiy dengizlari sohillarigacha, Turkiston va Sayramdan Xurosonning sharqigacha cho'zilgani qayd etilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Abdullaxon II davrida Buxoro xonligi chegarasi sharqda Qashqardan g'arbda Orol va Kaspiygacha yetgan.",
+      "answer": true,
+      "explain": "Darslikdagi «Bilasizmi?» qismida Abdullaxon II davrida hudud Qashqardan Orol va Kaspiy dengizlari sohillarigacha, Turkiston va Sayramdan Xurosonning sharqigacha cho'zilgani qayd etilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Abdullaxon II davrida Turkiston va Sayram shaharlari xonlik tarkibiga kirmagan.",
+      "answer": false,
+      "explain": "Darslikdagi «Bilasizmi?» qismida Abdullaxon II davrida hudud Qashqardan Orol va Kaspiy dengizlari sohillarigacha, Turkiston va Sayramdan Xurosonning sharqigacha cho'zilgani qayd etilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Abdullaxon II davrida mamlakat shimolda ____ va Sayramgacha bo'lgan yerlarni o'z ichiga olgan.",
+      "answer": [
+        "Turkiston"
+      ],
+      "explain": "Darslikdagi «Bilasizmi?» qismida Abdullaxon II davrida hudud Qashqardan Orol va Kaspiy dengizlari sohillarigacha, Turkiston va Sayramdan Xurosonning sharqigacha cho'zilgani qayd etilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar boshqaruvida hujjatlar, xattotlik, kitoblar, xazina va muhr bilan bog'liq qaysi mansablar mavjud edi?",
+      "options": [
+        "Kitobdor, mirzaboshi, munshiy, muhrdor, xazinachi va mehtar",
+        "To'pchiboshi, qushbegi, oqsoqol va yuzboshi",
+        "Bakovul, kutvol, udaychi va biylarbiyi",
+        "Jirov, baxshi, qissaxon va chechan"
+      ],
+      "answer": 0,
+      "explain": "Xonlikda kitobdor, mirzaboshi, munshiy, muhrdor, xazinachi, mehtar hamda jibochi, jarchi, qorovulbegi, sadr, muhtasib, rais kabi lavozimlar bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Parvonachi tinchlik davrida xon yorliqlarini yetkazgan bo'lsa, harbiy harakatlarda qo'shinga qo'mondonlik ham qilgan.",
+      "answer": true,
+      "explain": "Xonlikda kitobdor, mirzaboshi, munshiy, muhrdor, xazinachi, mehtar hamda jibochi, jarchi, qorovulbegi, sadr, muhtasib, rais kabi lavozimlar bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Parvonachi harbiy harakatlarda umuman qatnashmaydigan faqat qog'ozboz amaldor bo'lgan.",
+      "answer": false,
+      "explain": "Xonlikda kitobdor, mirzaboshi, munshiy, muhrdor, xazinachi, mehtar hamda jibochi, jarchi, qorovulbegi, sadr, muhtasib, rais kabi lavozimlar bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Bosh vazir — ____ mamlakatning barcha muhim ishlari haqida oliy hukmdorga har kuni hisobot berib turgan.",
+      "answer": [
+        "devonbegi"
+      ],
+      "explain": "Xonlikda kitobdor, mirzaboshi, munshiy, muhrdor, xazinachi, mehtar hamda jibochi, jarchi, qorovulbegi, sadr, muhtasib, rais kabi lavozimlar bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Dodxoh mansabi egasining ichki boshqaruv va tashqi aloqalardagi vazifalari nimadan iborat edi?",
+      "options": [
+        "Faqat tungi bozorlarni qo'riqlash va narxlarni belgilash",
+        "Aholining arz-dodlari aks etgan xatlarni qabul qilib javob qaytarish, adolatni nazorat qilish, elchilarni kutish-kuzatish va o'zi ham elchi bo'lib borish",
+        "Faqat shahzodalarni kamondan otishga o'rgatish",
+        "Xazinadagi oltin tangalarni zarb etish"
+      ],
+      "answer": 1,
+      "explain": "Dodxoh arz-dod xatlarini qabul qilib adolat tartiblarini nazorat qilgan, shuningdek elchilarni qabul qilib kutib-kuzatgan va o'zi ham elchi bo'lib borgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Dodxoh lavozimi egasi ba'zan o'zi ham elchi sifatida boshqa mamlakatlarga borib kelgan.",
+      "answer": true,
+      "explain": "Dodxoh arz-dod xatlarini qabul qilib adolat tartiblarini nazorat qilgan, shuningdek elchilarni qabul qilib kutib-kuzatgan va o'zi ham elchi bo'lib borgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Dodxoh lavozimi faqat harbiy qurol-aslahalarni saqlash bilan cheklangan.",
+      "answer": false,
+      "explain": "Dodxoh arz-dod xatlarini qabul qilib adolat tartiblarini nazorat qilgan, shuningdek elchilarni qabul qilib kutib-kuzatgan va o'zi ham elchi bo'lib borgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Hukmdor xonadoniga yaqin bo'lib, ko'pincha sulola vakili bilan bir onani emgan amaldor ____ deb atalgan.",
+      "answer": [
+        "ko'kaldosh",
+        "kokaldosh"
+      ],
+      "explain": "Dodxoh arz-dod xatlarini qabul qilib adolat tartiblarini nazorat qilgan, shuningdek elchilarni qabul qilib kutib-kuzatgan va o'zi ham elchi bo'lib borgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Dargohda qaysi mansab egalari diniy-huquqiy va jamoatchilik nazorati sohalarida faoliyat yuritganlar?",
+      "options": [
+        "Faqat mirshab va jarchi",
+        "Miroxur, to'qsoba va qushbegi",
+        "Shayxulislom, muftiy, qozikalon, qozi askar, sadr, muhtasib va rais",
+        "Devonbegi, naqib va parvonachi"
+      ],
+      "answer": 2,
+      "explain": "Diniy va shariat tartiboti tizimida shayxulislom, muftiy, qozikalon, qozi askar, sadr, muhtasib va rais lavozimlari faoliyat yuritgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida xon saroyida dasturxonchi va munshiy lavozimlari ham mavjud bo'lgan.",
+      "answer": true,
+      "explain": "Diniy va shariat tartiboti tizimida shayxulislom, muftiy, qozikalon, qozi askar, sadr, muhtasib va rais lavozimlari faoliyat yuritgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida muhtasib va sadr lavozimlari butunlay bekor qilingan edi.",
+      "answer": false,
+      "explain": "Diniy va shariat tartiboti tizimida shayxulislom, muftiy, qozikalon, qozi askar, sadr, muhtasib va rais lavozimlari faoliyat yuritgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Shayboniyxondan boshlab Ko'chkunchixon, Suyunchxo'ja va Jonibek sulton davrida taxt dastlab otadan bolaga emas, balki ____ ga nasib etgan.",
+      "answer": [
+        "yoshi katta shaxs",
+        "yoshi ulug'ga",
+        "yoshi katta"
+      ],
+      "explain": "Diniy va shariat tartiboti tizimida shayxulislom, muftiy, qozikalon, qozi askar, sadr, muhtasib va rais lavozimlari faoliyat yuritgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davri saroyidagi ma'muriy va xo'jalik lavozimlari qatoriga qaysi biri KIRMAYDI?",
+      "options": [
+        "Mushrif",
+        "Miroxur",
+        "To'qsoba",
+        "Oliy Kengash raisi"
+      ],
+      "answer": 3,
+      "explain": "Oliy Kengash Qo'ng'irotlar boshqaruviga xos edi; mushrif, miroxur va to'qsoba shayboniylar dargohi lavozimlaridir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davrida taxt vorisiga berilgan nomlar qatoriga qaysi biri KIRMAYDI?",
+      "options": [
+        "Otaliq",
+        "Navvob",
+        "Qolg'a",
+        "Kichik xon"
+      ],
+      "answer": 0,
+      "explain": "Taxt vorisi «navvob», «qolg'a» yoki «kichik xon» deb atalgan; otaliq esa shahzodalar tarbiyachisi edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Abdullaxon II davrida qo'shinda qo'llangan an'anaviy qurollar ro'yxatiga qaysi biri KIRMAYDI?",
+      "options": [
+        "Manjaniq",
+        "Pulemyot",
+        "Naftandoz",
+        "Shotu"
+      ],
+      "answer": 1,
+      "explain": "Qo'shinda nayza, qilich, manjaniq, naftandoz, shotu hamda XVI asr ikkinchi yarmidan pilta miltiq va zambarak qo'llangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davri diniy-huquqiy lavozimlari qatoriga qaysi biri KIRMAYDI?",
+      "options": [
+        "Shayxulislom",
+        "Qozikalon",
+        "To'qsoba",
+        "Muhtasib"
+      ],
+      "answer": 2,
+      "explain": "To'qsoba saroyda ovqat suzuvchi va ichimlik quyuvchi lavozim bo'lib, diniy-huquqiy lavozim emas.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Abdullaxon II davrida mamlakat hududini belgilovchi chegara nuqtalariga qaysi biri KIRMAYDI?",
+      "options": [
+        "Qashqar",
+        "Orol va Kaspiy sohillari",
+        "Turkiston va Sayram",
+        "Qora dengiz bo'ylari"
+      ],
+      "answer": 3,
+      "explain": "Abdullaxon II davrida mamlakat Qashqardan Orol va Kaspiy dengizlari sohillarigacha, Turkiston va Sayramdan Sharqiy Xurosongacha cho'zilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Jibochi» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Qo'riqchi va posbonlar boshlig'i",
+        "Saroy kutubxonasi boshlig'i"
+      ],
+      "answer": 0,
+      "explain": "Jibochi — Qurol-aslaha saqlovchi amaldor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Qurol-aslaha saqlovchi amaldor» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jarchi",
+        "Jibochi",
+        "Qorovulbegi",
+        "Kitobdor"
+      ],
+      "answer": 1,
+      "explain": "Jibochi — Qurol-aslaha saqlovchi amaldor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Jibochi» — Qurol-aslaha saqlovchi amaldor.",
+      "answer": true,
+      "explain": "Jibochi — Qurol-aslaha saqlovchi amaldor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Jibochi» — «Farmonlarni elga e'lon qiluvchi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Jibochi — Qurol-aslaha saqlovchi amaldor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Qurol-aslaha saqlovchi amaldor» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Jibochi",
+      "explain": "Jibochi — Qurol-aslaha saqlovchi amaldor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Jarchi» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Qurol-aslaha saqlovchi amaldor",
+        "Qo'riqchi va posbonlar boshlig'i",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Saroy kutubxonasi boshlig'i"
+      ],
+      "answer": 2,
+      "explain": "Jarchi — Farmonlarni elga e'lon qiluvchi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Farmonlarni elga e'lon qiluvchi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Qorovulbegi",
+        "Kitobdor",
+        "Jarchi"
+      ],
+      "answer": 3,
+      "explain": "Jarchi — Farmonlarni elga e'lon qiluvchi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Jarchi» — Farmonlarni elga e'lon qiluvchi.",
+      "answer": true,
+      "explain": "Jarchi — Farmonlarni elga e'lon qiluvchi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Jarchi» — «Qo'riqchi va posbonlar boshlig'i» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Jarchi — Farmonlarni elga e'lon qiluvchi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Farmonlarni elga e'lon qiluvchi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Jarchi",
+      "explain": "Jarchi — Farmonlarni elga e'lon qiluvchi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Qorovulbegi» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Qo'riqchi va posbonlar boshlig'i",
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Saroy kutubxonasi boshlig'i"
+      ],
+      "answer": 0,
+      "explain": "Qorovulbegi — Qo'riqchi va posbonlar boshlig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Qo'riqchi va posbonlar boshlig'i» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Qorovulbegi",
+        "Jarchi",
+        "Kitobdor"
+      ],
+      "answer": 1,
+      "explain": "Qorovulbegi — Qo'riqchi va posbonlar boshlig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Qorovulbegi» — Qo'riqchi va posbonlar boshlig'i.",
+      "answer": true,
+      "explain": "Qorovulbegi — Qo'riqchi va posbonlar boshlig'i.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Qorovulbegi» — «Saroy kutubxonasi boshlig'i» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Qorovulbegi — Qo'riqchi va posbonlar boshlig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Qo'riqchi va posbonlar boshlig'i» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Qorovulbegi",
+      "explain": "Qorovulbegi — Qo'riqchi va posbonlar boshlig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Kitobdor» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Saroy kutubxonasi boshlig'i",
+        "Qo'riqchi va posbonlar boshlig'i"
+      ],
+      "answer": 2,
+      "explain": "Kitobdor — Saroy kutubxonasi boshlig'i.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Saroy kutubxonasi boshlig'i» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Jarchi",
+        "Qorovulbegi",
+        "Kitobdor"
+      ],
+      "answer": 3,
+      "explain": "Kitobdor — Saroy kutubxonasi boshlig'i.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Kitobdor» — Saroy kutubxonasi boshlig'i.",
+      "answer": true,
+      "explain": "Kitobdor — Saroy kutubxonasi boshlig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Kitobdor» — «Kotiblar va yozuvchilar boshlig'i» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Kitobdor — Saroy kutubxonasi boshlig'i.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Saroy kutubxonasi boshlig'i» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Kitobdor",
+      "explain": "Kitobdor — Saroy kutubxonasi boshlig'i.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Mirzaboshi» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Kotiblar va yozuvchilar boshlig'i",
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Qo'riqchi va posbonlar boshlig'i"
+      ],
+      "answer": 0,
+      "explain": "Mirzaboshi — Kotiblar va yozuvchilar boshlig'i.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Kotiblar va yozuvchilar boshlig'i» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Mirzaboshi",
+        "Jarchi",
+        "Qorovulbegi"
+      ],
+      "answer": 1,
+      "explain": "Mirzaboshi — Kotiblar va yozuvchilar boshlig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Mirzaboshi» — Kotiblar va yozuvchilar boshlig'i.",
+      "answer": true,
+      "explain": "Mirzaboshi — Kotiblar va yozuvchilar boshlig'i.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Mirzaboshi» — «Davlat muhrini saqlovchi amaldor» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Mirzaboshi — Kotiblar va yozuvchilar boshlig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Kotiblar va yozuvchilar boshlig'i» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Mirzaboshi",
+      "explain": "Mirzaboshi — Kotiblar va yozuvchilar boshlig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Muhrdor» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Davlat muhrini saqlovchi amaldor",
+        "Qo'riqchi va posbonlar boshlig'i"
+      ],
+      "answer": 2,
+      "explain": "Muhrdor — Davlat muhrini saqlovchi amaldor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Davlat muhrini saqlovchi amaldor» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Jarchi",
+        "Qorovulbegi",
+        "Muhrdor"
+      ],
+      "answer": 3,
+      "explain": "Muhrdor — Davlat muhrini saqlovchi amaldor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Muhrdor» — Davlat muhrini saqlovchi amaldor.",
+      "answer": true,
+      "explain": "Muhrdor — Davlat muhrini saqlovchi amaldor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Muhrdor» — «Davlat xazinasi mutasaddisi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Muhrdor — Davlat muhrini saqlovchi amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Davlat muhrini saqlovchi amaldor» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Muhrdor",
+      "explain": "Muhrdor — Davlat muhrini saqlovchi amaldor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Xazinachi» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Davlat xazinasi mutasaddisi",
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Qo'riqchi va posbonlar boshlig'i"
+      ],
+      "answer": 0,
+      "explain": "Xazinachi — Davlat xazinasi mutasaddisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Davlat xazinasi mutasaddisi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Xazinachi",
+        "Jarchi",
+        "Qorovulbegi"
+      ],
+      "answer": 1,
+      "explain": "Xazinachi — Davlat xazinasi mutasaddisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Xazinachi» — Davlat xazinasi mutasaddisi.",
+      "answer": true,
+      "explain": "Xazinachi — Davlat xazinasi mutasaddisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Xazinachi» — «Saroy moliyasi va xo'jaligi amaldori» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Xazinachi — Davlat xazinasi mutasaddisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Davlat xazinasi mutasaddisi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Xazinachi",
+      "explain": "Xazinachi — Davlat xazinasi mutasaddisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Mehtar» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Saroy moliyasi va xo'jaligi amaldori",
+        "Qo'riqchi va posbonlar boshlig'i"
+      ],
+      "answer": 2,
+      "explain": "Mehtar — Saroy moliyasi va xo'jaligi amaldori.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Saroy moliyasi va xo'jaligi amaldori» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Jarchi",
+        "Qorovulbegi",
+        "Mehtar"
+      ],
+      "answer": 3,
+      "explain": "Mehtar — Saroy moliyasi va xo'jaligi amaldori.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Mehtar» — Saroy moliyasi va xo'jaligi amaldori.",
+      "answer": true,
+      "explain": "Mehtar — Saroy moliyasi va xo'jaligi amaldori.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Mehtar» — «Vaqf mulklari hisobini yurituvchi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Mehtar — Saroy moliyasi va xo'jaligi amaldori.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Saroy moliyasi va xo'jaligi amaldori» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Mehtar",
+      "explain": "Mehtar — Saroy moliyasi va xo'jaligi amaldori.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Sadr» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Vaqf mulklari hisobini yurituvchi",
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Qo'riqchi va posbonlar boshlig'i"
+      ],
+      "answer": 0,
+      "explain": "Sadr — Vaqf mulklari hisobini yurituvchi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Vaqf mulklari hisobini yurituvchi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Sadr",
+        "Jarchi",
+        "Qorovulbegi"
+      ],
+      "answer": 1,
+      "explain": "Sadr — Vaqf mulklari hisobini yurituvchi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Sadr» — Vaqf mulklari hisobini yurituvchi.",
+      "answer": true,
+      "explain": "Sadr — Vaqf mulklari hisobini yurituvchi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Sadr» — «Shariat va bozor tartibini nazoratchi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Sadr — Vaqf mulklari hisobini yurituvchi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Vaqf mulklari hisobini yurituvchi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Sadr",
+      "explain": "Sadr — Vaqf mulklari hisobini yurituvchi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Muhtasib» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Shariat va bozor tartibini nazoratchi",
+        "Qo'riqchi va posbonlar boshlig'i"
+      ],
+      "answer": 2,
+      "explain": "Muhtasib — Shariat va bozor tartibini nazoratchi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Shariat va bozor tartibini nazoratchi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Jarchi",
+        "Qorovulbegi",
+        "Muhtasib"
+      ],
+      "answer": 3,
+      "explain": "Muhtasib — Shariat va bozor tartibini nazoratchi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Muhtasib» — Shariat va bozor tartibini nazoratchi.",
+      "answer": true,
+      "explain": "Muhtasib — Shariat va bozor tartibini nazoratchi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Muhtasib» — «Qadimiy tosh otuvchi harbiy qurol» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Muhtasib — Shariat va bozor tartibini nazoratchi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Shariat va bozor tartibini nazoratchi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Muhtasib",
+      "explain": "Muhtasib — Shariat va bozor tartibini nazoratchi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Manjaniq» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Qadimiy tosh otuvchi harbiy qurol",
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Qo'riqchi va posbonlar boshlig'i"
+      ],
+      "answer": 0,
+      "explain": "Manjaniq — Qadimiy tosh otuvchi harbiy qurol.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Qadimiy tosh otuvchi harbiy qurol» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Manjaniq",
+        "Jarchi",
+        "Qorovulbegi"
+      ],
+      "answer": 1,
+      "explain": "Manjaniq — Qadimiy tosh otuvchi harbiy qurol.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Manjaniq» — Qadimiy tosh otuvchi harbiy qurol.",
+      "answer": true,
+      "explain": "Manjaniq — Qadimiy tosh otuvchi harbiy qurol.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Manjaniq» — «Yonuvchi neft otuvchi harbiy qurol» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Manjaniq — Qadimiy tosh otuvchi harbiy qurol.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Qadimiy tosh otuvchi harbiy qurol» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Manjaniq",
+      "explain": "Manjaniq — Qadimiy tosh otuvchi harbiy qurol.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Naftandoz» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Qurol-aslaha saqlovchi amaldor",
+        "Farmonlarni elga e'lon qiluvchi",
+        "Yonuvchi neft otuvchi harbiy qurol",
+        "Qo'riqchi va posbonlar boshlig'i"
+      ],
+      "answer": 2,
+      "explain": "Naftandoz — Yonuvchi neft otuvchi harbiy qurol.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Yonuvchi neft otuvchi harbiy qurol» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Jibochi",
+        "Jarchi",
+        "Qorovulbegi",
+        "Naftandoz"
+      ],
+      "answer": 3,
+      "explain": "Naftandoz — Yonuvchi neft otuvchi harbiy qurol.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) ma'lumoti: «Naftandoz» — Yonuvchi neft otuvchi harbiy qurol.",
+      "answer": true,
+      "explain": "Naftandoz — Yonuvchi neft otuvchi harbiy qurol.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-§ (Shayboniylar boshqaruvi) bo'yicha «Naftandoz» — «Davlat boshqaruvining oliy organi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Naftandoz — Yonuvchi neft otuvchi harbiy qurol.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-§ (Shayboniylar boshqaruvi): «Yonuvchi neft otuvchi harbiy qurol» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Naftandoz",
+      "explain": "Naftandoz — Yonuvchi neft otuvchi harbiy qurol.",
+      "difficulty": "medium"
+    }
+  ],
+  "cards": [
+    [
+      "Dargoh",
+      "Davlat boshqaruvining oliy organi"
+    ],
+    [
+      "Oq kigiz",
+      "Xon ko'tarish marosimi kigizi"
+    ],
+    [
+      "Qolg'a",
+      "Taxt vorisi (navvob, kichik xon)"
+    ],
+    [
+      "Naqib",
+      "Xonning eng yaqin maslahatchisi"
+    ],
+    [
+      "Otaliq",
+      "Shahzodalar tarbiyachisi"
+    ],
+    [
+      "Parvonachi",
+      "Yorliq yetkazuvchi va qo'mondon"
+    ],
+    [
+      "Dodxoh",
+      "Arz-dod va elchilar mutasaddisi"
+    ],
+    [
+      "Ko'kaldosh",
+      "Xon bilan emikdosh yaqin amaldor"
+    ],
+    [
+      "Devonbegi",
+      "Kundalik hisobot beruvchi bosh vazir"
+    ],
+    [
+      "Mushrif",
+      "Soliq va tortiqlar hisobchisi"
+    ],
+    [
+      "Miroxur",
+      "Xon yilqisi va ot-ulov boshlig'i"
+    ],
+    [
+      "To'qsoba",
+      "Saroyda ovqat va ichimlik mutasaddisi"
+    ],
+    [
+      "Qushbegi",
+      "Xon ov qushlari va itlari mas'uli"
+    ],
+    [
+      "Qozikalon",
+      "Bosh qozi (Buxoroda)"
+    ],
+    [
+      "Shig'ovul",
+      "Xorijiy elchilarni qabul qiluvchi"
+    ],
+    [
+      "Jibochi",
+      "Qurol-aslaha saqlovchi amaldor"
+    ],
+    [
+      "Jarchi",
+      "Farmonlarni elga e'lon qiluvchi"
+    ],
+    [
+      "Qorovulbegi",
+      "Qo'riqchi va posbonlar boshlig'i"
+    ],
+    [
+      "Kitobdor",
+      "Saroy kutubxonasi boshlig'i"
+    ],
+    [
+      "Mirzaboshi",
+      "Kotiblar va yozuvchilar boshlig'i"
+    ],
+    [
+      "Muhrdor",
+      "Davlat muhrini saqlovchi amaldor"
+    ],
+    [
+      "Xazinachi",
+      "Davlat xazinasi mutasaddisi"
+    ],
+    [
+      "Mehtar",
+      "Saroy moliyasi va xo'jaligi amaldori"
+    ],
+    [
+      "Sadr",
+      "Vaqf mulklari hisobini yurituvchi"
+    ],
+    [
+      "Muhtasib",
+      "Shariat va bozor tartibini nazoratchi"
+    ],
+    [
+      "Manjaniq",
+      "Qadimiy tosh otuvchi harbiy qurol"
+    ],
+    [
+      "Naftandoz",
+      "Yonuvchi neft otuvchi harbiy qurol"
+    ],
+    [
+      "Ko'chkunchixon",
+      "Suyunchxo'jani qolg'a qilgan xon"
+    ],
+    [
+      "Suyunchxo'ja",
+      "Ko'chkunchixonning ukasi va qolg'asi"
+    ],
+    [
+      "Jonibek sulton",
+      "1529-yilgacha valiahd bo'lgan shahzoda"
+    ],
+    [
+      "Abu Said",
+      "Qolg'adan xonlikka chiqqan shayboniy"
+    ],
+    [
+      "Abdulla (Abdullaxon I)",
+      "Seniorat tartibida ko'tarilgan shahzoda"
+    ],
+    [
+      "Abdullaxon II",
+      "Valiahdga Balxni berish tartibini kiritgan xon"
+    ]
+  ]
+}

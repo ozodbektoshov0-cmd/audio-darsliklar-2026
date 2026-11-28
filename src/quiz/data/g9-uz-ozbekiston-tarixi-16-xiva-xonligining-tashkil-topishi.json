@@ -1,0 +1,2502 @@
+{
+  "id": "g9-uz-ozbekiston-tarixi-16-xiva-xonligining-tashkil-topishi",
+  "subjectId": "g9-uz-ozbekiston-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "O'zbekiston tarixi",
+  "topicTitle": "17-§. Xiva xonligining tashkil topishi",
+  "title": "17-§. Xiva xonligining tashkil topishi",
+  "source": "O'zbekiston tarixi 9-sinf (2024), 17-§, 90–94-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): qaysi yilda muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan?",
+      "options": [
+        "1510-yil",
+        "1511-yil",
+        "1505-yil",
+        "1538-yil"
+      ],
+      "answer": 2,
+      "explain": "1505-yilda muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) tarixida 1505-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan",
+        "Dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan",
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan"
+      ],
+      "answer": 3,
+      "explain": "1505-yilda muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi) davrida ____-yilda muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan. (Yilni kiriting)",
+      "answer": [
+        "1505",
+        "1505-yil",
+        "1505-yilda"
+      ],
+      "explain": "1505-yilda muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1505-yilda muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan.",
+      "answer": true,
+      "explain": "1505-yilda muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha 1517-yilda muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1505-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): qaysi yilda shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan?",
+      "options": [
+        "1510-yil",
+        "1505-yil",
+        "1511-yil",
+        "1538-yil"
+      ],
+      "answer": 0,
+      "explain": "1510-yilda shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) tarixida 1510-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan",
+        "Dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan"
+      ],
+      "answer": 1,
+      "explain": "1510-yilda shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi) davrida ____-yilda shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan. (Yilni kiriting)",
+      "answer": [
+        "1510",
+        "1510-yil",
+        "1510-yilda"
+      ],
+      "explain": "1510-yilda shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1510-yilda shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan.",
+      "answer": true,
+      "explain": "1510-yilda shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha 1499-yilda shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1510-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): qaysi yilda umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan?",
+      "options": [
+        "1505-yil",
+        "1510-yil",
+        "1511-yil",
+        "1538-yil"
+      ],
+      "answer": 2,
+      "explain": "1511-yilda umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) tarixida 1511-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan"
+      ],
+      "answer": 3,
+      "explain": "1511-yilda umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi) davrida ____-yilda umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan. (Yilni kiriting)",
+      "answer": [
+        "1511",
+        "1511-yil",
+        "1511-yilda"
+      ],
+      "explain": "1511-yilda umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1511-yilda umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan.",
+      "answer": true,
+      "explain": "1511-yilda umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha 1523-yilda umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1511-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): qaysi yilda dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan?",
+      "options": [
+        "1538-yil",
+        "1505-yil",
+        "1510-yil",
+        "1511-yil"
+      ],
+      "answer": 0,
+      "explain": "1538-yilda dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) tarixida 1538-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan",
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan"
+      ],
+      "answer": 1,
+      "explain": "1538-yilda dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi) davrida ____-yilda dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan. (Yilni kiriting)",
+      "answer": [
+        "1538",
+        "1538-yil",
+        "1538-yilda"
+      ],
+      "explain": "1538-yilda dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1538-yilda dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan.",
+      "answer": true,
+      "explain": "1538-yilda dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha 1527-yilda dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1538-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): qaysi yilda xiva xonligida siyosiy vaziyat nisbatan barqarorlashib, Xiva shahri poytaxt sifatida yuksalgan?",
+      "options": [
+        "1505-yil",
+        "1510-yil",
+        "1558-yil",
+        "1511-yil"
+      ],
+      "answer": 2,
+      "explain": "1558-yilda xiva xonligida siyosiy vaziyat nisbatan barqarorlashib, Xiva shahri poytaxt sifatida yuksalgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) tarixida 1558-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan",
+        "Xiva xonligida siyosiy vaziyat nisbatan barqarorlashib, Xiva shahri poytaxt sifatida yuksalgan"
+      ],
+      "answer": 3,
+      "explain": "1558-yilda xiva xonligida siyosiy vaziyat nisbatan barqarorlashib, Xiva shahri poytaxt sifatida yuksalgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi) davrida ____-yilda xiva xonligida siyosiy vaziyat nisbatan barqarorlashib, Xiva shahri poytaxt sifatida yuksalgan. (Yilni kiriting)",
+      "answer": [
+        "1558",
+        "1558-yil",
+        "1558-yilda"
+      ],
+      "explain": "1558-yilda xiva xonligida siyosiy vaziyat nisbatan barqarorlashib, Xiva shahri poytaxt sifatida yuksalgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1558-yilda xiva xonligida siyosiy vaziyat nisbatan barqarorlashib, Xiva shahri poytaxt sifatida yuksalgan.",
+      "answer": true,
+      "explain": "1558-yilda xiva xonligida siyosiy vaziyat nisbatan barqarorlashib, Xiva shahri poytaxt sifatida yuksalgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha 1570-yilda xiva xonligida siyosiy vaziyat nisbatan barqarorlashib, Xiva shahri poytaxt sifatida yuksalgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1558-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): qaysi yilda buxoro xoni Abdullaxon II Urganchni bosib olgan?",
+      "options": [
+        "1575-yil",
+        "1505-yil",
+        "1510-yil",
+        "1511-yil"
+      ],
+      "answer": 0,
+      "explain": "1575-yilda buxoro xoni Abdullaxon II Urganchni bosib olgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) tarixida 1575-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Buxoro xoni Abdullaxon II Urganchni bosib olgan",
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan"
+      ],
+      "answer": 1,
+      "explain": "1575-yilda buxoro xoni Abdullaxon II Urganchni bosib olgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi) davrida ____-yilda buxoro xoni Abdullaxon II Urganchni bosib olgan. (Yilni kiriting)",
+      "answer": [
+        "1575",
+        "1575-yil",
+        "1575-yilda"
+      ],
+      "explain": "1575-yilda buxoro xoni Abdullaxon II Urganchni bosib olgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1575-yilda buxoro xoni Abdullaxon II Urganchni bosib olgan.",
+      "answer": true,
+      "explain": "1575-yilda buxoro xoni Abdullaxon II Urganchni bosib olgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha 1564-yilda buxoro xoni Abdullaxon II Urganchni bosib olgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1575-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): qaysi yilda abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan?",
+      "options": [
+        "1505-yil",
+        "1510-yil",
+        "1593-yil",
+        "1511-yil"
+      ],
+      "answer": 2,
+      "explain": "1593-yilda abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) tarixida 1593-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan",
+        "Abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan"
+      ],
+      "answer": 3,
+      "explain": "1593-yilda abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi) davrida ____-yilda abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan. (Yilni kiriting)",
+      "answer": [
+        "1593",
+        "1593-yil",
+        "1593-yilda"
+      ],
+      "explain": "1593-yilda abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1593-yilda abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan.",
+      "answer": true,
+      "explain": "1593-yilda abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha 1605-yilda abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1593-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): qaysi yilda eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan?",
+      "options": [
+        "1739-yil",
+        "1505-yil",
+        "1510-yil",
+        "1511-yil"
+      ],
+      "answer": 0,
+      "explain": "1739-yilda eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) tarixida 1739-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan",
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan"
+      ],
+      "answer": 1,
+      "explain": "1739-yilda eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi) davrida ____-yilda eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan. (Yilni kiriting)",
+      "answer": [
+        "1739",
+        "1739-yil",
+        "1739-yilda"
+      ],
+      "explain": "1739-yilda eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1739-yilda eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan.",
+      "answer": true,
+      "explain": "1739-yilda eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha 1728-yilda eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1739-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): qaysi yilda qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq otaliq lavozimini egallagan?",
+      "options": [
+        "1505-yil",
+        "1510-yil",
+        "1762-yil",
+        "1511-yil"
+      ],
+      "answer": 2,
+      "explain": "1762-yilda qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq otaliq lavozimini egallagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) tarixida 1762-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan",
+        "qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq otaliq lavozimini egallagan"
+      ],
+      "answer": 3,
+      "explain": "1762-yilda qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq otaliq lavozimini egallagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi) davrida ____-yilda qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq otaliq lavozimini egallagan. (Yilni kiriting)",
+      "answer": [
+        "1762",
+        "1762-yil",
+        "1762-yilda"
+      ],
+      "explain": "1762-yilda qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq otaliq lavozimini egallagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1762-yilda qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq otaliq lavozimini egallagan.",
+      "answer": true,
+      "explain": "1762-yilda qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq otaliq lavozimini egallagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha 1774-yilda qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq otaliq lavozimini egallagan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1762-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): qaysi yilda muhammad Amin inoq qo'ng'irotlar sulolasining amaldagi hukmronligini o'rnatib, arabshohiylar (1511–1770) yakunlangan?",
+      "options": [
+        "1770-yil",
+        "1505-yil",
+        "1510-yil",
+        "1511-yil"
+      ],
+      "answer": 0,
+      "explain": "1770-yilda muhammad Amin inoq qo'ng'irotlar sulolasining amaldagi hukmronligini o'rnatib, arabshohiylar (1511–1770) yakunlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) tarixida 1770-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Muhammad Amin inoq qo'ng'irotlar sulolasining amaldagi hukmronligini o'rnatib, arabshohiylar (1511–1770) yakunlangan",
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan"
+      ],
+      "answer": 1,
+      "explain": "1770-yilda muhammad Amin inoq qo'ng'irotlar sulolasining amaldagi hukmronligini o'rnatib, arabshohiylar (1511–1770) yakunlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi) davrida ____-yilda muhammad Amin inoq qo'ng'irotlar sulolasining amaldagi hukmronligini o'rnatib, arabshohiylar (1511–1770) yakunlangan. (Yilni kiriting)",
+      "answer": [
+        "1770",
+        "1770-yil",
+        "1770-yilda"
+      ],
+      "explain": "1770-yilda muhammad Amin inoq qo'ng'irotlar sulolasining amaldagi hukmronligini o'rnatib, arabshohiylar (1511–1770) yakunlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1770-yilda muhammad Amin inoq qo'ng'irotlar sulolasining amaldagi hukmronligini o'rnatib, arabshohiylar (1511–1770) yakunlangan.",
+      "answer": true,
+      "explain": "1770-yilda muhammad Amin inoq qo'ng'irotlar sulolasining amaldagi hukmronligini o'rnatib, arabshohiylar (1511–1770) yakunlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha 1759-yilda muhammad Amin inoq qo'ng'irotlar sulolasining amaldagi hukmronligini o'rnatib, arabshohiylar (1511–1770) yakunlangan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1770-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan",
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan"
+      ],
+      "answer": 2,
+      "explain": "Eng avvalgi voqea — «Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan» (1505).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+      "options": [
+        "Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan",
+        "Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan",
+        "Dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan"
+      ],
+      "answer": 3,
+      "explain": "Eng keyingi voqea — «Dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan» (1538).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (17-§ (Xiva xonligi tashkil topishi)): «Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan» voqeasi «Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan» voqeasidan oldin sodir bo'lgan.",
+      "answer": true,
+      "explain": "1505 < 1510, shu sababli fikr to'g'ri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (17-§ (Xiva xonligi tashkil topishi)): «Dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan» voqeasi «Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan» voqeasidan oldin sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan (1511) Dinmuhammad sulton Buxoroning Ubaydullaxon yuborgan qo'shinini Xorazmdan quvib chiqargan (1538) voqeasidan oldin ro'y bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (17-§ (Xiva xonligi tashkil topishi)): «Xiva xonligida siyosiy vaziyat nisbatan barqarorlashib, Xiva shahri poytaxt sifatida yuksalgan» voqeasi «Buxoro xoni Abdullaxon II Urganchni bosib olgan» voqeasidan oldin sodir bo'lgan.",
+      "answer": true,
+      "explain": "1558 < 1575, shu sababli fikr to'g'ri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (17-§ (Xiva xonligi tashkil topishi)): «Eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan» voqeasi «Abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan» voqeasidan oldin sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: Abdullaxon II butun Xorazmni bo'ysundirib, 1598-yilgacha o'z nazoratida tutgan (1593) Eron shohi Nodirshoh Xiva xonligiga bostirib kirib (1739–1740), qaram xonlar davrini boshlagan (1739) voqeasidan oldin ro'y bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (17-§ (Xiva xonligi tashkil topishi)): «qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq otaliq lavozimini egallagan» voqeasi «Muhammad Amin inoq qo'ng'irotlar sulolasining amaldagi hukmronligini o'rnatib, arabshohiylar (1511–1770) yakunlangan» voqeasidan oldin sodir bo'lgan.",
+      "answer": true,
+      "explain": "1762 < 1770, shu sababli fikr to'g'ri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): quyidagi uch voqeaning to'g'ri xronologik ketma-ketligini aniqlang.",
+      "options": [
+        "1) Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan; 2) Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan; 3) Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan",
+        "1) Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan; 2) Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan; 3) Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan",
+        "1) Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan; 2) Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan; 3) Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan",
+        "1) Muhammad Shayboniyxon Xorazmning markazi Urganchni egallagan; 2) Umar Shayx boshchiligida qo'zg'olon ko'tarilib, Elbarsxon taxtga chiqqan va Xiva xonligiga asos solingan; 3) Shayboniyxon halok bo'lgach Xorazm Eron safaviylari qo'liga o'tgan"
+      ],
+      "answer": 2,
+      "explain": "To'g'ri xronologiya: 1505 -> 1510 -> 1511.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Umar Shayx",
+        "Elbarsxon",
+        "Dinmuhammad sulton",
+        "Muhammad Amin inoq"
+      ],
+      "answer": 1,
+      "explain": "Elbarsxon — 1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon. Shaybonning avlodlaridan bo'lgan Berka sulton o'g'li; safaviylarni quvib chiqarib mustaqil Xiva xonligini tuzgan",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Elbarsxon tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi",
+        "1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton",
+        "1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon",
+        "1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi"
+      ],
+      "answer": 2,
+      "explain": "Elbarsxon — 1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon. Shaybonning avlodlaridan bo'lgan Berka sulton o'g'li; safaviylarni quvib chiqarib mustaqil Xiva xonligini tuzgan",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Shaybonning avlodlaridan bo'lgan Berka sulton o'g'li; safaviylarni quvib chiqarib mustaqil Xiva xonligini tuzgan — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Elbarsxon"
+      ],
+      "explain": "Elbarsxon — 1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon. Shaybonning avlodlaridan bo'lgan Berka sulton o'g'li; safaviylarni quvib chiqarib mustaqil Xiva xonligini tuzgan",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) shaxslari: Elbarsxon — 1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon.",
+      "answer": true,
+      "explain": "Elbarsxon — 1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon. Shaybonning avlodlaridan bo'lgan Berka sulton o'g'li; safaviylarni quvib chiqarib mustaqil Xiva xonligini tuzgan",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon» ta'rifi Umar Shayx faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Elbarsxon haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Elbarsxon",
+        "Dinmuhammad sulton",
+        "Muhammad Amin inoq",
+        "Umar Shayx"
+      ],
+      "answer": 3,
+      "explain": "Umar Shayx — 1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi. Shayx Ota avlodlari bilan birga Elbarsxonni taxtga taklif qilgan vatanparvar qozi",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Umar Shayx tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi",
+        "1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon",
+        "1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton",
+        "1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi"
+      ],
+      "answer": 0,
+      "explain": "Umar Shayx — 1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi. Shayx Ota avlodlari bilan birga Elbarsxonni taxtga taklif qilgan vatanparvar qozi",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Shayx Ota avlodlari bilan birga Elbarsxonni taxtga taklif qilgan vatanparvar qozi — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Umar Shayx"
+      ],
+      "explain": "Umar Shayx — 1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi. Shayx Ota avlodlari bilan birga Elbarsxonni taxtga taklif qilgan vatanparvar qozi",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) shaxslari: Umar Shayx — 1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi.",
+      "answer": true,
+      "explain": "Umar Shayx — 1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi. Shayx Ota avlodlari bilan birga Elbarsxonni taxtga taklif qilgan vatanparvar qozi",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi» ta'rifi Elbarsxon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Umar Shayx haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Elbarsxon",
+        "Dinmuhammad sulton",
+        "Umar Shayx",
+        "Muhammad Amin inoq"
+      ],
+      "answer": 1,
+      "explain": "Dinmuhammad sulton — 1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton. Xiva xonligi mustaqilligini saqlab qolish uchun Buxoro bilan kurashgan arabshohiy shahzoda",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Dinmuhammad sulton tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon",
+        "1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi",
+        "1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton",
+        "1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi"
+      ],
+      "answer": 2,
+      "explain": "Dinmuhammad sulton — 1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton. Xiva xonligi mustaqilligini saqlab qolish uchun Buxoro bilan kurashgan arabshohiy shahzoda",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Xiva xonligi mustaqilligini saqlab qolish uchun Buxoro bilan kurashgan arabshohiy shahzoda — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Dinmuhammad sulton"
+      ],
+      "explain": "Dinmuhammad sulton — 1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton. Xiva xonligi mustaqilligini saqlab qolish uchun Buxoro bilan kurashgan arabshohiy shahzoda",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) shaxslari: Dinmuhammad sulton — 1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton.",
+      "answer": true,
+      "explain": "Dinmuhammad sulton — 1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton. Xiva xonligi mustaqilligini saqlab qolish uchun Buxoro bilan kurashgan arabshohiy shahzoda",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton» ta'rifi Elbarsxon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Dinmuhammad sulton haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Elbarsxon",
+        "Umar Shayx",
+        "Dinmuhammad sulton",
+        "Muhammad Amin inoq"
+      ],
+      "answer": 3,
+      "explain": "Muhammad Amin inoq — 1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi. Xiva xonligini Nodirshohdan keyingi parokandalikdan chiqarib qo'ng'irotlar sulolasiga zamin yaratgan arbob",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Muhammad Amin inoq tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi",
+        "1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon",
+        "1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi",
+        "1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton"
+      ],
+      "answer": 0,
+      "explain": "Muhammad Amin inoq — 1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi. Xiva xonligini Nodirshohdan keyingi parokandalikdan chiqarib qo'ng'irotlar sulolasiga zamin yaratgan arbob",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Xiva xonligini Nodirshohdan keyingi parokandalikdan chiqarib qo'ng'irotlar sulolasiga zamin yaratgan arbob — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Muhammad Amin inoq"
+      ],
+      "explain": "Muhammad Amin inoq — 1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi. Xiva xonligini Nodirshohdan keyingi parokandalikdan chiqarib qo'ng'irotlar sulolasiga zamin yaratgan arbob",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) shaxslari: Muhammad Amin inoq — 1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi.",
+      "answer": true,
+      "explain": "Muhammad Amin inoq — 1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi. Xiva xonligini Nodirshohdan keyingi parokandalikdan chiqarib qo'ng'irotlar sulolasiga zamin yaratgan arbob",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi» ta'rifi Elbarsxon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Muhammad Amin inoq haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Xorazm qabilalarini boshqarish uchun ularni to'rtta «to'p»ga bo'lgan mashhur Xiva xoni va tarixchisi sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Elbarsxon",
+        "Abulg'ozixon",
+        "Umar Shayx",
+        "Dinmuhammad sulton"
+      ],
+      "answer": 1,
+      "explain": "Abulg'ozixon — Xorazm qabilalarini boshqarish uchun ularni to'rtta «to'p»ga bo'lgan mashhur Xiva xoni va tarixchisi. Uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq to'plarini tuzgan davlat arbobi",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Abulg'ozixon tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon",
+        "1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi",
+        "Xorazm qabilalarini boshqarish uchun ularni to'rtta «to'p»ga bo'lgan mashhur Xiva xoni va tarixchisi",
+        "1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton"
+      ],
+      "answer": 2,
+      "explain": "Abulg'ozixon — Xorazm qabilalarini boshqarish uchun ularni to'rtta «to'p»ga bo'lgan mashhur Xiva xoni va tarixchisi. Uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq to'plarini tuzgan davlat arbobi",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq to'plarini tuzgan davlat arbobi — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Abulg'ozixon"
+      ],
+      "explain": "Abulg'ozixon — Xorazm qabilalarini boshqarish uchun ularni to'rtta «to'p»ga bo'lgan mashhur Xiva xoni va tarixchisi. Uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq to'plarini tuzgan davlat arbobi",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) shaxslari: Abulg'ozixon — Xorazm qabilalarini boshqarish uchun ularni to'rtta «to'p»ga bo'lgan mashhur Xiva xoni va tarixchisi.",
+      "answer": true,
+      "explain": "Abulg'ozixon — Xorazm qabilalarini boshqarish uchun ularni to'rtta «to'p»ga bo'lgan mashhur Xiva xoni va tarixchisi. Uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq to'plarini tuzgan davlat arbobi",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xorazm qabilalarini boshqarish uchun ularni to'rtta «to'p»ga bo'lgan mashhur Xiva xoni va tarixchisi» ta'rifi Elbarsxon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Abulg'ozixon haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Amaldorlar sonini 360 tadan 100 taga qisqartirib, Oliy va Kichik Kengash tuzgan qo'ng'irot xoni sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Elbarsxon",
+        "Umar Shayx",
+        "Dinmuhammad sulton",
+        "Muhammad Rahimxon I"
+      ],
+      "answer": 3,
+      "explain": "Muhammad Rahimxon I — Amaldorlar sonini 360 tadan 100 taga qisqartirib, Oliy va Kichik Kengash tuzgan qo'ng'irot xoni. Biy, otaliq, inoq lavozimlarini bekor qilib masjid birliklari va yangi soliq-boshqaruv tartibini joriy etgan xon",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Muhammad Rahimxon I tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Amaldorlar sonini 360 tadan 100 taga qisqartirib, Oliy va Kichik Kengash tuzgan qo'ng'irot xoni",
+        "1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon",
+        "1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi",
+        "1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton"
+      ],
+      "answer": 0,
+      "explain": "Muhammad Rahimxon I — Amaldorlar sonini 360 tadan 100 taga qisqartirib, Oliy va Kichik Kengash tuzgan qo'ng'irot xoni. Biy, otaliq, inoq lavozimlarini bekor qilib masjid birliklari va yangi soliq-boshqaruv tartibini joriy etgan xon",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Biy, otaliq, inoq lavozimlarini bekor qilib masjid birliklari va yangi soliq-boshqaruv tartibini joriy etgan xon — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Muhammad Rahimxon I"
+      ],
+      "explain": "Muhammad Rahimxon I — Amaldorlar sonini 360 tadan 100 taga qisqartirib, Oliy va Kichik Kengash tuzgan qo'ng'irot xoni. Biy, otaliq, inoq lavozimlarini bekor qilib masjid birliklari va yangi soliq-boshqaruv tartibini joriy etgan xon",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) shaxslari: Muhammad Rahimxon I — Amaldorlar sonini 360 tadan 100 taga qisqartirib, Oliy va Kichik Kengash tuzgan qo'ng'irot xoni.",
+      "answer": true,
+      "explain": "Muhammad Rahimxon I — Amaldorlar sonini 360 tadan 100 taga qisqartirib, Oliy va Kichik Kengash tuzgan qo'ng'irot xoni. Biy, otaliq, inoq lavozimlarini bekor qilib masjid birliklari va yangi soliq-boshqaruv tartibini joriy etgan xon",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Amaldorlar sonini 360 tadan 100 taga qisqartirib, Oliy va Kichik Kengash tuzgan qo'ng'irot xoni» ta'rifi Elbarsxon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Muhammad Rahimxon I haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Arabshohiylar» tushunchasi nimani anglatadi?",
+      "options": [
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon",
+        "Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma"
+      ],
+      "answer": 1,
+      "explain": "Arabshohiylar — 1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Vazir shahri",
+        "Qolxon",
+        "Arabshohiylar",
+        "To'p"
+      ],
+      "answer": 2,
+      "explain": "Arabshohiylar — 1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Arabshohiylar"
+      ],
+      "explain": "Arabshohiylar — 1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Arabshohiylar» — 1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi.",
+      "answer": true,
+      "explain": "Arabshohiylar — 1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Arabshohiylar» tushunchasi «Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Arabshohiylar» — 1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Vazir shahri» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon",
+        "Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi"
+      ],
+      "answer": 3,
+      "explain": "Vazir shahri — Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Vazir shahri",
+        "Arabshohiylar",
+        "Qolxon",
+        "To'p"
+      ],
+      "answer": 0,
+      "explain": "Vazir shahri — Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Vazir shahri"
+      ],
+      "explain": "Vazir shahri — Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Vazir shahri» — Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi.",
+      "answer": true,
+      "explain": "Vazir shahri — Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Vazir shahri» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Vazir shahri» — Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Qolxon» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma"
+      ],
+      "answer": 1,
+      "explain": "Qolxon — Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Arabshohiylar",
+        "Vazir shahri",
+        "Qolxon",
+        "To'p"
+      ],
+      "answer": 2,
+      "explain": "Qolxon — Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Qolxon"
+      ],
+      "explain": "Qolxon — Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Qolxon» — Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon.",
+      "answer": true,
+      "explain": "Qolxon — Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Qolxon» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Qolxon» — Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «To'p» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon",
+        "Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma"
+      ],
+      "answer": 3,
+      "explain": "To'p — Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "To'p",
+        "Arabshohiylar",
+        "Vazir shahri",
+        "Qolxon"
+      ],
+      "answer": 0,
+      "explain": "To'p — Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "To'p"
+      ],
+      "explain": "To'p — Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «To'p» — Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma.",
+      "answer": true,
+      "explain": "To'p — Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «To'p» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «To'p» — Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta yirik harbiy-ma'muriy uyushma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Mehtar» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Qo'ng'irotlar davrida bosh vazir («vaziri a'zam», «dasturi mukarram», «nizom ul-mulk»)",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon"
+      ],
+      "answer": 1,
+      "explain": "Mehtar — Qo'ng'irotlar davrida bosh vazir («vaziri a'zam», «dasturi mukarram», «nizom ul-mulk»).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Qo'ng'irotlar davrida bosh vazir («vaziri a'zam», «dasturi mukarram», «nizom ul-mulk»)» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Arabshohiylar",
+        "Vazir shahri",
+        "Mehtar",
+        "Qolxon"
+      ],
+      "answer": 2,
+      "explain": "Mehtar — Qo'ng'irotlar davrida bosh vazir («vaziri a'zam», «dasturi mukarram», «nizom ul-mulk»).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Qo'ng'irotlar davrida bosh vazir («vaziri a'zam», «dasturi mukarram», «nizom ul-mulk») — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Mehtar"
+      ],
+      "explain": "Mehtar — Qo'ng'irotlar davrida bosh vazir («vaziri a'zam», «dasturi mukarram», «nizom ul-mulk»).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Mehtar» — Qo'ng'irotlar davrida bosh vazir («vaziri a'zam», «dasturi mukarram», «nizom ul-mulk»).",
+      "answer": true,
+      "explain": "Mehtar — Qo'ng'irotlar davrida bosh vazir («vaziri a'zam», «dasturi mukarram», «nizom ul-mulk»).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Mehtar» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Mehtar» — Qo'ng'irotlar davrida bosh vazir («vaziri a'zam», «dasturi mukarram», «nizom ul-mulk»).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Qo'ng'irotlar» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon",
+        "1770-yildan boshlab Xiva xonligida Muhammad Amin inoq asos solgan hukmron sulola"
+      ],
+      "answer": 3,
+      "explain": "Qo'ng'irotlar — 1770-yildan boshlab Xiva xonligida Muhammad Amin inoq asos solgan hukmron sulola.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «1770-yildan boshlab Xiva xonligida Muhammad Amin inoq asos solgan hukmron sulola» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Qo'ng'irotlar",
+        "Arabshohiylar",
+        "Vazir shahri",
+        "Qolxon"
+      ],
+      "answer": 0,
+      "explain": "Qo'ng'irotlar — 1770-yildan boshlab Xiva xonligida Muhammad Amin inoq asos solgan hukmron sulola.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): 1770-yildan boshlab Xiva xonligida Muhammad Amin inoq asos solgan hukmron sulola — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Qo'ng'irotlar"
+      ],
+      "explain": "Qo'ng'irotlar — 1770-yildan boshlab Xiva xonligida Muhammad Amin inoq asos solgan hukmron sulola.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Qo'ng'irotlar» — 1770-yildan boshlab Xiva xonligida Muhammad Amin inoq asos solgan hukmron sulola.",
+      "answer": true,
+      "explain": "Qo'ng'irotlar — 1770-yildan boshlab Xiva xonligida Muhammad Amin inoq asos solgan hukmron sulola.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Qo'ng'irotlar» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Qo'ng'irotlar» — 1770-yildan boshlab Xiva xonligida Muhammad Amin inoq asos solgan hukmron sulola.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Masjid birliklari» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Muhammad Rahimxon I davrida an'anaviy kentlar o'rniga joriy etilgan ma'muriy birliklar",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon"
+      ],
+      "answer": 1,
+      "explain": "Masjid birliklari — Muhammad Rahimxon I davrida an'anaviy kentlar o'rniga joriy etilgan ma'muriy birliklar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Muhammad Rahimxon I davrida an'anaviy kentlar o'rniga joriy etilgan ma'muriy birliklar» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Arabshohiylar",
+        "Vazir shahri",
+        "Masjid birliklari",
+        "Qolxon"
+      ],
+      "answer": 2,
+      "explain": "Masjid birliklari — Muhammad Rahimxon I davrida an'anaviy kentlar o'rniga joriy etilgan ma'muriy birliklar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Muhammad Rahimxon I davrida an'anaviy kentlar o'rniga joriy etilgan ma'muriy birliklar — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Masjid birliklari"
+      ],
+      "explain": "Masjid birliklari — Muhammad Rahimxon I davrida an'anaviy kentlar o'rniga joriy etilgan ma'muriy birliklar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Masjid birliklari» — Muhammad Rahimxon I davrida an'anaviy kentlar o'rniga joriy etilgan ma'muriy birliklar.",
+      "answer": true,
+      "explain": "Masjid birliklari — Muhammad Rahimxon I davrida an'anaviy kentlar o'rniga joriy etilgan ma'muriy birliklar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Masjid birliklari» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Masjid birliklari» — Muhammad Rahimxon I davrida an'anaviy kentlar o'rniga joriy etilgan ma'muriy birliklar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Oqsoqol» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon",
+        "Xiva xonligida quyi ma'muriy boshqaruv va mahalla/ovul tartibi uchun mas'ul shaxs"
+      ],
+      "answer": 3,
+      "explain": "Oqsoqol — Xiva xonligida quyi ma'muriy boshqaruv va mahalla/ovul tartibi uchun mas'ul shaxs.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xiva xonligida quyi ma'muriy boshqaruv va mahalla/ovul tartibi uchun mas'ul shaxs» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Oqsoqol",
+        "Arabshohiylar",
+        "Vazir shahri",
+        "Qolxon"
+      ],
+      "answer": 0,
+      "explain": "Oqsoqol — Xiva xonligida quyi ma'muriy boshqaruv va mahalla/ovul tartibi uchun mas'ul shaxs.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Xiva xonligida quyi ma'muriy boshqaruv va mahalla/ovul tartibi uchun mas'ul shaxs — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Oqsoqol"
+      ],
+      "explain": "Oqsoqol — Xiva xonligida quyi ma'muriy boshqaruv va mahalla/ovul tartibi uchun mas'ul shaxs.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Oqsoqol» — Xiva xonligida quyi ma'muriy boshqaruv va mahalla/ovul tartibi uchun mas'ul shaxs.",
+      "answer": true,
+      "explain": "Oqsoqol — Xiva xonligida quyi ma'muriy boshqaruv va mahalla/ovul tartibi uchun mas'ul shaxs.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Oqsoqol» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Oqsoqol» — Xiva xonligida quyi ma'muriy boshqaruv va mahalla/ovul tartibi uchun mas'ul shaxs.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Qushbegi (Xiva)» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Xiva xonligida soliq yig'ish, moliya va qo'shinning jangovar tayyorgarligiga mas'ul mansabdor",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon"
+      ],
+      "answer": 1,
+      "explain": "Qushbegi (Xiva) — Xiva xonligida soliq yig'ish, moliya va qo'shinning jangovar tayyorgarligiga mas'ul mansabdor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xiva xonligida soliq yig'ish, moliya va qo'shinning jangovar tayyorgarligiga mas'ul mansabdor» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Arabshohiylar",
+        "Vazir shahri",
+        "Qushbegi (Xiva)",
+        "Qolxon"
+      ],
+      "answer": 2,
+      "explain": "Qushbegi (Xiva) — Xiva xonligida soliq yig'ish, moliya va qo'shinning jangovar tayyorgarligiga mas'ul mansabdor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Xiva xonligida soliq yig'ish, moliya va qo'shinning jangovar tayyorgarligiga mas'ul mansabdor — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Qushbegi (Xiva)"
+      ],
+      "explain": "Qushbegi (Xiva) — Xiva xonligida soliq yig'ish, moliya va qo'shinning jangovar tayyorgarligiga mas'ul mansabdor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Qushbegi (Xiva)» — Xiva xonligida soliq yig'ish, moliya va qo'shinning jangovar tayyorgarligiga mas'ul mansabdor.",
+      "answer": true,
+      "explain": "Qushbegi (Xiva) — Xiva xonligida soliq yig'ish, moliya va qo'shinning jangovar tayyorgarligiga mas'ul mansabdor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Qushbegi (Xiva)» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Qushbegi (Xiva)» — Xiva xonligida soliq yig'ish, moliya va qo'shinning jangovar tayyorgarligiga mas'ul mansabdor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Hukumat devonxonasi» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon",
+        "Xiva xonligida beklik hokimlari faoliyatini va davlat ishlarini yuritgan ma'muriy idora"
+      ],
+      "answer": 3,
+      "explain": "Hukumat devonxonasi — Xiva xonligida beklik hokimlari faoliyatini va davlat ishlarini yuritgan ma'muriy idora.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xiva xonligida beklik hokimlari faoliyatini va davlat ishlarini yuritgan ma'muriy idora» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Hukumat devonxonasi",
+        "Arabshohiylar",
+        "Vazir shahri",
+        "Qolxon"
+      ],
+      "answer": 0,
+      "explain": "Hukumat devonxonasi — Xiva xonligida beklik hokimlari faoliyatini va davlat ishlarini yuritgan ma'muriy idora.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Xiva xonligida beklik hokimlari faoliyatini va davlat ishlarini yuritgan ma'muriy idora — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Hukumat devonxonasi"
+      ],
+      "explain": "Hukumat devonxonasi — Xiva xonligida beklik hokimlari faoliyatini va davlat ishlarini yuritgan ma'muriy idora.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Hukumat devonxonasi» — Xiva xonligida beklik hokimlari faoliyatini va davlat ishlarini yuritgan ma'muriy idora.",
+      "answer": true,
+      "explain": "Hukumat devonxonasi — Xiva xonligida beklik hokimlari faoliyatini va davlat ishlarini yuritgan ma'muriy idora.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Hukumat devonxonasi» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Hukumat devonxonasi» — Xiva xonligida beklik hokimlari faoliyatini va davlat ishlarini yuritgan ma'muriy idora.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Berka sulton» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Elbarsxonning otasi bo'lib, Shaybonning o'g'li Arabshoh avlodiga mansub sulton",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon"
+      ],
+      "answer": 1,
+      "explain": "Berka sulton — Elbarsxonning otasi bo'lib, Shaybonning o'g'li Arabshoh avlodiga mansub sulton.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Elbarsxonning otasi bo'lib, Shaybonning o'g'li Arabshoh avlodiga mansub sulton» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Arabshohiylar",
+        "Vazir shahri",
+        "Berka sulton",
+        "Qolxon"
+      ],
+      "answer": 2,
+      "explain": "Berka sulton — Elbarsxonning otasi bo'lib, Shaybonning o'g'li Arabshoh avlodiga mansub sulton.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Elbarsxonning otasi bo'lib, Shaybonning o'g'li Arabshoh avlodiga mansub sulton — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Berka sulton"
+      ],
+      "explain": "Berka sulton — Elbarsxonning otasi bo'lib, Shaybonning o'g'li Arabshoh avlodiga mansub sulton.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Berka sulton» — Elbarsxonning otasi bo'lib, Shaybonning o'g'li Arabshoh avlodiga mansub sulton.",
+      "answer": true,
+      "explain": "Berka sulton — Elbarsxonning otasi bo'lib, Shaybonning o'g'li Arabshoh avlodiga mansub sulton.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Berka sulton» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Berka sulton» — Elbarsxonning otasi bo'lib, Shaybonning o'g'li Arabshoh avlodiga mansub sulton.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) mavzusidagi «Atrok» tushunchasi nimani anglatadi?",
+      "options": [
+        "1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi",
+        "Ustyurt platosining chetida, Ko'hna Urganchdan 60 km uzoqlikda joylashgan tarixiy qo'zg'olon markazi",
+        "Arabshohiylar davrida Xiva xonligi taxtining vorisi (kolxon)ga berilgan unvon",
+        "XVI asrda Xiva xonligining g'arbiy-janubiy sarhadlari yetib borgan hududlardan biri"
+      ],
+      "answer": 3,
+      "explain": "Atrok — XVI asrda Xiva xonligining g'arbiy-janubiy sarhadlari yetib borgan hududlardan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «XVI asrda Xiva xonligining g'arbiy-janubiy sarhadlari yetib borgan hududlardan biri» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Atrok",
+        "Arabshohiylar",
+        "Vazir shahri",
+        "Qolxon"
+      ],
+      "answer": 0,
+      "explain": "Atrok — XVI asrda Xiva xonligining g'arbiy-janubiy sarhadlari yetib borgan hududlardan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): XVI asrda Xiva xonligining g'arbiy-janubiy sarhadlari yetib borgan hududlardan biri — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Atrok"
+      ],
+      "explain": "Atrok — XVI asrda Xiva xonligining g'arbiy-janubiy sarhadlari yetib borgan hududlardan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Atrok» — XVI asrda Xiva xonligining g'arbiy-janubiy sarhadlari yetib borgan hududlardan biri.",
+      "answer": true,
+      "explain": "Atrok — XVI asrda Xiva xonligining g'arbiy-janubiy sarhadlari yetib borgan hududlardan biri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (17-§ (Xiva xonligi tashkil topishi)): «Atrok» tushunchasi «1511–1770-yillarda Xiva xonligini boshqargan Shaybonning beshinchi o'g'li Arabshoh avlodlari sulolasi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Atrok» — XVI asrda Xiva xonligining g'arbiy-janubiy sarhadlari yetib borgan hududlardan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1511-yilda Xiva xonligining tashkil topishi qanday voqealar bilan bog'liq edi?",
+      "options": [
+        "Muhammad Shayboniyxon Xivani poytaxt qilib e'lon qilgan",
+        "Vazir qozisi Umar Shayx boshchiligida safaviylarga qarshi qo'zg'olon ko'tarilib, Shayx Ota avlodlari ko'magida Elbarsxon taxtga taklif qilingan",
+        "Nodirshoh Xivada yangi davlat tuzgan",
+        "Pyotr I Elbarsxonga yorliq bergan"
+      ],
+      "answer": 1,
+      "explain": "1510-yilda Xorazm safaviylar qo'liga o'tgach, 1511-yilda Vazir qozisi Umar Shayx qo'zg'olon ko'tarib Elbarsxonni chaqirdi va Xiva xonligiga asos solindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Arabshohiylar sulolasi Xiva xonligida 1511-yildan 1770-yilgacha hukmronlik qilgan.",
+      "answer": true,
+      "explain": "1510-yilda Xorazm safaviylar qo'liga o'tgach, 1511-yilda Vazir qozisi Umar Shayx qo'zg'olon ko'tarib Elbarsxonni chaqirdi va Xiva xonligiga asos solindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1511-yilda Xiva xonligiga Muhammad Rahimxon I asos solgan.",
+      "answer": false,
+      "explain": "1510-yilda Xorazm safaviylar qo'liga o'tgach, 1511-yilda Vazir qozisi Umar Shayx qo'zg'olon ko'tarib Elbarsxonni chaqirdi va Xiva xonligiga asos solindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1511-yilda Vazir shahrida safaviylarga qarshi ko'tarilgan qo'zg'olonga qozi ____ boshchilik qilgan.",
+      "answer": [
+        "Umar Shayx"
+      ],
+      "explain": "1510-yilda Xorazm safaviylar qo'liga o'tgach, 1511-yilda Vazir qozisi Umar Shayx qo'zg'olon ko'tarib Elbarsxonni chaqirdi va Xiva xonligiga asos solindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "XVI asrda Xiva xonligi hududi qaysi jug'rofiy chegaralargacha yetgan edi?",
+      "options": [
+        "Faqat Xiva shahri devorlari ichini",
+        "Balxashdan Dehlighacha bo'lgan o'lkalarni",
+        "Kaspiy va Orol dengizlaridan Atrok va Saraxsgacha bo'lgan hududlarni qamrab olgan",
+        "Volgadan Qora dengizgacha"
+      ],
+      "answer": 2,
+      "explain": "Arabshohiylar davrida Xiva xonligi Kaspiy va Orol dengizlaridan Atrok va Saraxsgacha cho'zilgan hududlarda hukmronlik qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Vazir shahri Ustyurt platosining chetida, Ko'hna Urganchdan 60 kilometr uzoqlikda joylashgan edi.",
+      "answer": true,
+      "explain": "Arabshohiylar davrida Xiva xonligi Kaspiy va Orol dengizlaridan Atrok va Saraxsgacha cho'zilgan hududlarda hukmronlik qilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1505-yilda Shayboniyxon Urganchni egallay olmagan.",
+      "answer": false,
+      "explain": "Arabshohiylar davrida Xiva xonligi Kaspiy va Orol dengizlaridan Atrok va Saraxsgacha cho'zilgan hududlarda hukmronlik qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Vazir shahri Ko'hna Urganchdan ____ kilometr uzoqlikda, Ustyurt platosi chetida joylashgan.",
+      "answer": [
+        "60",
+        "oltmish"
+      ],
+      "explain": "Arabshohiylar davrida Xiva xonligi Kaspiy va Orol dengizlaridan Atrok va Saraxsgacha cho'zilgan hududlarda hukmronlik qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "XVI asrda Buxoro xonlari (Ubaydullaxon va Abdullaxon II) Xorazmga nisbatan qanday yurishlar qilganlar?",
+      "options": [
+        "Buxoro xonlari hech qachon Xorazmga yurish qilmagan",
+        "Xiva xonlari 1538-yilda Buxoroni butunlay tugatgan",
+        "1575-yilda Ubaydullaxon Xivani olgan",
+        "Ubaydullaxon o'g'li Abdulazizxonni yuborgan (1538-yilda quvilgan); Abdullaxon II 1575-yilda Urganchni, 1593-yilda butun Xorazmni egallagan"
+      ],
+      "answer": 3,
+      "explain": "Ubaydullaxon yurishi 1538-yilda Dinmuhammad sulton tomonidan qaytarildi; Abdullaxon II esa 1575-yilda Urganchni va 1593-yilda Xorazmni egallab, 1598-yilgacha boshqardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Abdullaxon II vafotidan (1598) so'ng Xiva xonligida arabshohiylar hukmronligi yana tiklangan.",
+      "answer": true,
+      "explain": "Ubaydullaxon yurishi 1538-yilda Dinmuhammad sulton tomonidan qaytarildi; Abdullaxon II esa 1575-yilda Urganchni va 1593-yilda Xorazmni egallab, 1598-yilgacha boshqardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1593-yilda Xorazmni Rossiya qo'shinlari egallab olgan.",
+      "answer": false,
+      "explain": "Ubaydullaxon yurishi 1538-yilda Dinmuhammad sulton tomonidan qaytarildi; Abdullaxon II esa 1575-yilda Urganchni va 1593-yilda Xorazmni egallab, 1598-yilgacha boshqardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "1538-yilda Buxoro qo'shinini Xorazmdan quvib chiqargan arabshohiy shahzodasi ____ sulton edi.",
+      "answer": [
+        "Dinmuhammad"
+      ],
+      "explain": "Ubaydullaxon yurishi 1538-yilda Dinmuhammad sulton tomonidan qaytarildi; Abdullaxon II esa 1575-yilda Urganchni va 1593-yilda Xorazmni egallab, 1598-yilgacha boshqardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Abulg'ozixon Xorazmdagi o'zbek qabilalarini qaysi to'rtta «to'p»ga bo'lgan edi?",
+      "options": [
+        "Uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq to'plariga",
+        "Buxoro, Samarqand, Qarshi va Balx to'plariga",
+        "Qushchi, do'rmon, kenagas va saroy to'plariga",
+        "Rus, qozoq, eron va afg'on to'plariga"
+      ],
+      "answer": 0,
+      "explain": "Abulg'ozixon Xorazmdagi qabilalarni boshqarish uchun ularni uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq kabi 4 «to'p»ga bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Arabshohiylar davrida xonlik taxti chingiziylarning eng yoshi kattasiga o'tar, valiahd «qolxon» (kolxon), shahzodalar «sulton» deb atalardi.",
+      "answer": true,
+      "explain": "Abulg'ozixon Xorazmdagi qabilalarni boshqarish uchun ularni uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq kabi 4 «to'p»ga bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Abulg'ozixon Xorazm qabilalarini o'n ikkita viloyatga bo'lib yuborgan.",
+      "answer": false,
+      "explain": "Abulg'ozixon Xorazmdagi qabilalarni boshqarish uchun ularni uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq kabi 4 «to'p»ga bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Arabshohiylar davrida Xiva xonligida taxt vorisi «____» (yoki kolxon) unvoni bilan atalgan.",
+      "answer": [
+        "qolxon",
+        "kolxon"
+      ],
+      "explain": "Abulg'ozixon Xorazmdagi qabilalarni boshqarish uchun ularni uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq kabi 4 «to'p»ga bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Muhammad Rahimxon I Xiva xonligida davlat boshqaruvini isloh qilish uchun qanday o'zgarishlar kiritgan?",
+      "options": [
+        "Amaldorlar sonini 1000 taga ko'paytirdi va Kengashlarni tugatdi",
+        "Amaldorlar sonini 360 tadan 100 taga qisqartirdi, biy-otaliq-inoq mansablarini bekor qildi, kentlar o'rniga masjid birliklari va Oliy-Kichik Kengash tuzdi",
+        "Poytaxtni Xivadan Vazir shahriga ko'chirdi",
+        "Faqat shayboniy qonunlarini tikladi"
+      ],
+      "answer": 1,
+      "explain": "Muhammad Rahimxon I amaldorlarni 360 tadan 100 taga kamaytirdi, biy/otaliq/inoq mansablarini bekor qildi, masjid birliklari hamda Oliy va Kichik Kengashni tuzdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Qo'ng'irotlar davrida Xiva xonligida bosh vazir «mehtar» (vaziri a'zam, dasturi mukarram, nizom ul-mulk) deb nomlangan.",
+      "answer": true,
+      "explain": "Muhammad Rahimxon I amaldorlarni 360 tadan 100 taga kamaytirdi, biy/otaliq/inoq mansablarini bekor qildi, masjid birliklari hamda Oliy va Kichik Kengashni tuzdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Muhammad Rahimxon I davrida amaldorlar soni 360 tadan 700 taga oshirilgan.",
+      "answer": false,
+      "explain": "Muhammad Rahimxon I amaldorlarni 360 tadan 100 taga kamaytirdi, biy/otaliq/inoq mansablarini bekor qildi, masjid birliklari hamda Oliy va Kichik Kengashni tuzdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Muhammad Rahimxon I davlat boshqaruvidagi amaldorlar sonini 360 tadan ____ taga qisqartirgan.",
+      "answer": [
+        "100",
+        "yuz"
+      ],
+      "explain": "Muhammad Rahimxon I amaldorlarni 360 tadan 100 taga kamaytirdi, biy/otaliq/inoq mansablarini bekor qildi, masjid birliklari hamda Oliy va Kichik Kengashni tuzdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Xiva xonligining qo'ng'irotlar davrida mehtar va qushbegi mansablarining asosiy farqi nimada edi?",
+      "options": [
+        "Ikkala mansab ham faqat qishloq ariqlarini tozalagan",
+        "Mehtar haramga, qushbegi faqat elchilarga javob bergan",
+        "Mehtar bosh vazir sifatida umumiy davlat boshqaruviga, qushbegi esa soliq yig'ish, moliya va qo'shin tayyorgarligiga mas'ul edi",
+        "Xiva xonligida mehtar lavozimi umuman bo'lmagan"
+      ],
+      "answer": 2,
+      "explain": "Qo'ng'irotlar Xivasida bosh vazir «mehtar», soliq-moliya va qo'shinning jangovar tayyorgarligiga mas'ul amaldor esa «qushbegi» bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xiva xonligida bekliklar hokimlar tomonidan boshqarilgan, quyi ma'muriy ishlar esa oqsoqollar zimmasida bo'lgan.",
+      "answer": true,
+      "explain": "Qo'ng'irotlar Xivasida bosh vazir «mehtar», soliq-moliya va qo'shinning jangovar tayyorgarligiga mas'ul amaldor esa «qushbegi» bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xiva xonligida soliq yig'ish bilan faqat oqsoqollar shug'ullanib, qushbegining moliyaga daxli bo'lmagan.",
+      "answer": false,
+      "explain": "Qo'ng'irotlar Xivasida bosh vazir «mehtar», soliq-moliya va qo'shinning jangovar tayyorgarligiga mas'ul amaldor esa «qushbegi» bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Xiva xonligining qo'ng'irotlar davrida bosh vazir lavozimi «____» deb yuritilgan.",
+      "answer": [
+        "mehtar"
+      ],
+      "explain": "Qo'ng'irotlar Xivasida bosh vazir «mehtar», soliq-moliya va qo'shinning jangovar tayyorgarligiga mas'ul amaldor esa «qushbegi» bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1739–1740-yillardagi Nodirshoh bosqinidan so'ng Xivada qanday siyosiy ahvol yuzaga keldi va u qanday yakunlandi?",
+      "options": [
+        "Xiva darhol Rossiya tarkibiga qo'shildi",
+        "Arabshohiylar yana 200 yil uzluksiz hukmronlik qildi",
+        "Xiva aholisi to'liq Eronga ko'chib ketdi",
+        "Qo'g'irchoq xonlar davri boshlanib siyosiy tanglik kuchaydi; 1770-yilda Muhammad Amin inoq to'liq hokimiyatni qo'lga olib qo'ng'irotlar sulolasini boshladi"
+      ],
+      "answer": 3,
+      "explain": "Nodirshoh hujumidan keyin Xivada qo'g'irchoq xonlar davri yuzaga keldi, biroq 1762-yilda otaliq bo'lgan Muhammad Amin inoq 1770-yilda hokimiyatni egalladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Qo'ng'irotlar sulolasining dastlabki davrlarida muhim masalalarni hal qiluvchi «Oliy Kengash» faoliyat yuritgan.",
+      "answer": true,
+      "explain": "Nodirshoh hujumidan keyin Xivada qo'g'irchoq xonlar davri yuzaga keldi, biroq 1762-yilda otaliq bo'lgan Muhammad Amin inoq 1770-yilda hokimiyatni egalladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1770-yilda Muhammad Amin inoq hokimiyatni arabshohiylar sulolasiga topshirgan.",
+      "answer": false,
+      "explain": "Nodirshoh hujumidan keyin Xivada qo'g'irchoq xonlar davri yuzaga keldi, biroq 1762-yilda otaliq bo'lgan Muhammad Amin inoq 1770-yilda hokimiyatni egalladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Qo'ng'irotlar yo'lboshchisi Muhammad Amin inoq ____-yilda Xivada hokimiyatni to'liq qo'lga kiritgan.",
+      "answer": [
+        "1770"
+      ],
+      "explain": "Nodirshoh hujumidan keyin Xivada qo'g'irchoq xonlar davri yuzaga keldi, biroq 1762-yilda otaliq bo'lgan Muhammad Amin inoq 1770-yilda hokimiyatni egalladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Abulg'ozixon Xorazm qabilalarini bo'lgan to'rtta «to'p» ro'yxatiga qaysi biri KIRMAYDI?",
+      "options": [
+        "Kenagas–saroy",
+        "Uyg'ur–nayman",
+        "Qiyot–qo'ng'irot",
+        "Nukus–mang'it"
+      ],
+      "answer": 0,
+      "explain": "To'rtta «to'p» — uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Muhammad Rahimxon I tomonidan bekor qilingan qadimgi mansablar ro'yxatiga qaysi biri KIRMAYDI?",
+      "options": [
+        "Biy",
+        "Mehtar",
+        "Otaliq",
+        "Inoq"
+      ],
+      "answer": 1,
+      "explain": "Muhammad Rahimxon I biy, otaliq, inoq mansablarini bekor qilib, mehtar (bosh vazir) lavozimini saqlab kuchaytirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Qo'ng'irotlar davrida Xiva bosh vaziri «mehtar»ga berilgan unvonlar qatoriga qaysi biri KIRMAYDI?",
+      "options": [
+        "Vaziri a'zam",
+        "Dasturi mukarram",
+        "Amiri ma'sum",
+        "Nizom ul-mulk"
+      ],
+      "answer": 2,
+      "explain": "«Amiri ma'sum» Buxoro amiri Shohmurodga berilgan xalqona unvondir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1511-yilda Xiva xonligi tashkil topishida qatnashgan shaxs va hududlarga qaysi biri ALOQADOR EMAS?",
+      "options": [
+        "Elbarsxon",
+        "Qozi Umar Shayx",
+        "Vazir shahri",
+        "Yalangto'sh Bahodir"
+      ],
+      "answer": 3,
+      "explain": "Yalangto'sh Bahodir XVII asrda Samarqand va Balxda faoliyat yuritgan ashtarxoniylar davri sarkardasidir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Xiva xonligining XVI asrdagi chegaralari va tarixiy nuqtalariga qaysi biri KIRMAYDI?",
+      "options": [
+        "Panipat",
+        "Kaspiy dengizi",
+        "Orol dengizi",
+        "Atrok va Saraxs"
+      ],
+      "answer": 0,
+      "explain": "Panipat Hindistondagi Bobur jang qilgan joy; Xiva sarhadlari Kaspiy, Orol, Atrok va Saraxsgacha cho'zilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Ko'hna Urganch» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "XVI asrda Xiva janubiy chegaralaridan biri",
+        "Vazir shahridan 60 km uzoqdagi shahar",
+        "Arabshohiylar davrida shahzoda unvoni",
+        "Qo'ng'irotlarda muhim davlat kengashi"
+      ],
+      "answer": 1,
+      "explain": "Ko'hna Urganch — Vazir shahridan 60 km uzoqdagi shahar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Vazir shahridan 60 km uzoqdagi shahar» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Saraxs",
+        "Sulton",
+        "Ko'hna Urganch",
+        "Oliy Kengash"
+      ],
+      "answer": 2,
+      "explain": "Ko'hna Urganch — Vazir shahridan 60 km uzoqdagi shahar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) ma'lumoti: «Ko'hna Urganch» — Vazir shahridan 60 km uzoqdagi shahar.",
+      "answer": true,
+      "explain": "Ko'hna Urganch — Vazir shahridan 60 km uzoqdagi shahar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Ko'hna Urganch» — «XVI asrda Xiva janubiy chegaralaridan biri» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Ko'hna Urganch — Vazir shahridan 60 km uzoqdagi shahar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Vazir shahridan 60 km uzoqdagi shahar» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Ko'hna Urganch",
+      "explain": "Ko'hna Urganch — Vazir shahridan 60 km uzoqdagi shahar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Saraxs» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Vazir shahridan 60 km uzoqdagi shahar",
+        "Arabshohiylar davrida shahzoda unvoni",
+        "Qo'ng'irotlarda muhim davlat kengashi",
+        "XVI asrda Xiva janubiy chegaralaridan biri"
+      ],
+      "answer": 3,
+      "explain": "Saraxs — XVI asrda Xiva janubiy chegaralaridan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «XVI asrda Xiva janubiy chegaralaridan biri» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Saraxs",
+        "Ko'hna Urganch",
+        "Sulton",
+        "Oliy Kengash"
+      ],
+      "answer": 0,
+      "explain": "Saraxs — XVI asrda Xiva janubiy chegaralaridan biri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) ma'lumoti: «Saraxs» — XVI asrda Xiva janubiy chegaralaridan biri.",
+      "answer": true,
+      "explain": "Saraxs — XVI asrda Xiva janubiy chegaralaridan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Saraxs» — «Arabshohiylar davrida shahzoda unvoni» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Saraxs — XVI asrda Xiva janubiy chegaralaridan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «XVI asrda Xiva janubiy chegaralaridan biri» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Saraxs",
+      "explain": "Saraxs — XVI asrda Xiva janubiy chegaralaridan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Sulton» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Vazir shahridan 60 km uzoqdagi shahar",
+        "Arabshohiylar davrida shahzoda unvoni",
+        "XVI asrda Xiva janubiy chegaralaridan biri",
+        "Qo'ng'irotlarda muhim davlat kengashi"
+      ],
+      "answer": 1,
+      "explain": "Sulton — Arabshohiylar davrida shahzoda unvoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Arabshohiylar davrida shahzoda unvoni» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Ko'hna Urganch",
+        "Saraxs",
+        "Sulton",
+        "Oliy Kengash"
+      ],
+      "answer": 2,
+      "explain": "Sulton — Arabshohiylar davrida shahzoda unvoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) ma'lumoti: «Sulton» — Arabshohiylar davrida shahzoda unvoni.",
+      "answer": true,
+      "explain": "Sulton — Arabshohiylar davrida shahzoda unvoni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Sulton» — «Qo'ng'irotlarda muhim davlat kengashi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Sulton — Arabshohiylar davrida shahzoda unvoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Arabshohiylar davrida shahzoda unvoni» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Sulton",
+      "explain": "Sulton — Arabshohiylar davrida shahzoda unvoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Oliy Kengash» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Vazir shahridan 60 km uzoqdagi shahar",
+        "XVI asrda Xiva janubiy chegaralaridan biri",
+        "Arabshohiylar davrida shahzoda unvoni",
+        "Qo'ng'irotlarda muhim davlat kengashi"
+      ],
+      "answer": 3,
+      "explain": "Oliy Kengash — Qo'ng'irotlarda muhim davlat kengashi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Qo'ng'irotlarda muhim davlat kengashi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Oliy Kengash",
+        "Ko'hna Urganch",
+        "Saraxs",
+        "Sulton"
+      ],
+      "answer": 0,
+      "explain": "Oliy Kengash — Qo'ng'irotlarda muhim davlat kengashi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) ma'lumoti: «Oliy Kengash» — Qo'ng'irotlarda muhim davlat kengashi.",
+      "answer": true,
+      "explain": "Oliy Kengash — Qo'ng'irotlarda muhim davlat kengashi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Oliy Kengash» — «Muhammad Rahimxon I tuzgan kengash» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Oliy Kengash — Qo'ng'irotlarda muhim davlat kengashi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Qo'ng'irotlarda muhim davlat kengashi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Oliy Kengash",
+      "explain": "Oliy Kengash — Qo'ng'irotlarda muhim davlat kengashi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Kichik Kengash» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Vazir shahridan 60 km uzoqdagi shahar",
+        "Muhammad Rahimxon I tuzgan kengash",
+        "XVI asrda Xiva janubiy chegaralaridan biri",
+        "Arabshohiylar davrida shahzoda unvoni"
+      ],
+      "answer": 1,
+      "explain": "Kichik Kengash — Muhammad Rahimxon I tuzgan kengash.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Muhammad Rahimxon I tuzgan kengash» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Ko'hna Urganch",
+        "Saraxs",
+        "Kichik Kengash",
+        "Sulton"
+      ],
+      "answer": 2,
+      "explain": "Kichik Kengash — Muhammad Rahimxon I tuzgan kengash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) ma'lumoti: «Kichik Kengash» — Muhammad Rahimxon I tuzgan kengash.",
+      "answer": true,
+      "explain": "Kichik Kengash — Muhammad Rahimxon I tuzgan kengash.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Kichik Kengash» — «1511-yilda Elbarsxonni chaqirgan avlodlar» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Kichik Kengash — Muhammad Rahimxon I tuzgan kengash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Muhammad Rahimxon I tuzgan kengash» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Kichik Kengash",
+      "explain": "Kichik Kengash — Muhammad Rahimxon I tuzgan kengash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Shayx Ota» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Vazir shahridan 60 km uzoqdagi shahar",
+        "XVI asrda Xiva janubiy chegaralaridan biri",
+        "Arabshohiylar davrida shahzoda unvoni",
+        "1511-yilda Elbarsxonni chaqirgan avlodlar"
+      ],
+      "answer": 3,
+      "explain": "Shayx Ota — 1511-yilda Elbarsxonni chaqirgan avlodlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «1511-yilda Elbarsxonni chaqirgan avlodlar» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Shayx Ota",
+        "Ko'hna Urganch",
+        "Saraxs",
+        "Sulton"
+      ],
+      "answer": 0,
+      "explain": "Shayx Ota — 1511-yilda Elbarsxonni chaqirgan avlodlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) ma'lumoti: «Shayx Ota» — 1511-yilda Elbarsxonni chaqirgan avlodlar.",
+      "answer": true,
+      "explain": "Shayx Ota — 1511-yilda Elbarsxonni chaqirgan avlodlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Shayx Ota» — «Xorazmdagi to'rtta to'pdan biri» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Shayx Ota — 1511-yilda Elbarsxonni chaqirgan avlodlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «1511-yilda Elbarsxonni chaqirgan avlodlar» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Shayx Ota",
+      "explain": "Shayx Ota — 1511-yilda Elbarsxonni chaqirgan avlodlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Uyg'ur-nayman» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Vazir shahridan 60 km uzoqdagi shahar",
+        "Xorazmdagi to'rtta to'pdan biri",
+        "XVI asrda Xiva janubiy chegaralaridan biri",
+        "Arabshohiylar davrida shahzoda unvoni"
+      ],
+      "answer": 1,
+      "explain": "Uyg'ur-nayman — Xorazmdagi to'rtta to'pdan biri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xorazmdagi to'rtta to'pdan biri» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Ko'hna Urganch",
+        "Saraxs",
+        "Uyg'ur-nayman",
+        "Sulton"
+      ],
+      "answer": 2,
+      "explain": "Uyg'ur-nayman — Xorazmdagi to'rtta to'pdan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) ma'lumoti: «Uyg'ur-nayman» — Xorazmdagi to'rtta to'pdan biri.",
+      "answer": true,
+      "explain": "Uyg'ur-nayman — Xorazmdagi to'rtta to'pdan biri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Uyg'ur-nayman» — «Abulg'ozixon tuzgan qabila to'pi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Uyg'ur-nayman — Xorazmdagi to'rtta to'pdan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xorazmdagi to'rtta to'pdan biri» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Uyg'ur-nayman",
+      "explain": "Uyg'ur-nayman — Xorazmdagi to'rtta to'pdan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Qiyot-qo'ng'irot» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Vazir shahridan 60 km uzoqdagi shahar",
+        "XVI asrda Xiva janubiy chegaralaridan biri",
+        "Arabshohiylar davrida shahzoda unvoni",
+        "Abulg'ozixon tuzgan qabila to'pi"
+      ],
+      "answer": 3,
+      "explain": "Qiyot-qo'ng'irot — Abulg'ozixon tuzgan qabila to'pi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Abulg'ozixon tuzgan qabila to'pi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Qiyot-qo'ng'irot",
+        "Ko'hna Urganch",
+        "Saraxs",
+        "Sulton"
+      ],
+      "answer": 0,
+      "explain": "Qiyot-qo'ng'irot — Abulg'ozixon tuzgan qabila to'pi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) ma'lumoti: «Qiyot-qo'ng'irot» — Abulg'ozixon tuzgan qabila to'pi.",
+      "answer": true,
+      "explain": "Qiyot-qo'ng'irot — Abulg'ozixon tuzgan qabila to'pi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Qiyot-qo'ng'irot» — «Xorazmdagi to'p birlashmasi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Qiyot-qo'ng'irot — Abulg'ozixon tuzgan qabila to'pi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Abulg'ozixon tuzgan qabila to'pi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Qiyot-qo'ng'irot",
+      "explain": "Qiyot-qo'ng'irot — Abulg'ozixon tuzgan qabila to'pi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Nukus-mang'it» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Vazir shahridan 60 km uzoqdagi shahar",
+        "Xorazmdagi to'p birlashmasi",
+        "XVI asrda Xiva janubiy chegaralaridan biri",
+        "Arabshohiylar davrida shahzoda unvoni"
+      ],
+      "answer": 1,
+      "explain": "Nukus-mang'it — Xorazmdagi to'p birlashmasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xorazmdagi to'p birlashmasi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Ko'hna Urganch",
+        "Saraxs",
+        "Nukus-mang'it",
+        "Sulton"
+      ],
+      "answer": 2,
+      "explain": "Nukus-mang'it — Xorazmdagi to'p birlashmasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) ma'lumoti: «Nukus-mang'it» — Xorazmdagi to'p birlashmasi.",
+      "answer": true,
+      "explain": "Nukus-mang'it — Xorazmdagi to'p birlashmasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Nukus-mang'it» — «Xorazm qabilalarining to'rtinchi to'pi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Nukus-mang'it — Xorazmdagi to'p birlashmasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xorazmdagi to'p birlashmasi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Nukus-mang'it",
+      "explain": "Nukus-mang'it — Xorazmdagi to'p birlashmasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Qang'li-qipchoq» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Vazir shahridan 60 km uzoqdagi shahar",
+        "XVI asrda Xiva janubiy chegaralaridan biri",
+        "Arabshohiylar davrida shahzoda unvoni",
+        "Xorazm qabilalarining to'rtinchi to'pi"
+      ],
+      "answer": 3,
+      "explain": "Qang'li-qipchoq — Xorazm qabilalarining to'rtinchi to'pi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xorazm qabilalarining to'rtinchi to'pi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Qang'li-qipchoq",
+        "Ko'hna Urganch",
+        "Saraxs",
+        "Sulton"
+      ],
+      "answer": 0,
+      "explain": "Qang'li-qipchoq — Xorazm qabilalarining to'rtinchi to'pi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) ma'lumoti: «Qang'li-qipchoq» — Xorazm qabilalarining to'rtinchi to'pi.",
+      "answer": true,
+      "explain": "Qang'li-qipchoq — Xorazm qabilalarining to'rtinchi to'pi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi) bo'yicha «Qang'li-qipchoq» — «1511–1770-yillar Xiva sulolasi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Qang'li-qipchoq — Xorazm qabilalarining to'rtinchi to'pi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xorazm qabilalarining to'rtinchi to'pi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Qang'li-qipchoq",
+      "explain": "Qang'li-qipchoq — Xorazm qabilalarining to'rtinchi to'pi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Shaybonning avlodlaridan bo'lgan Berka sulton o'g'li; safaviylarni quvib chiqarib mustaqil Xiva xonligini tuzgan» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Umar Shayx",
+        "Elbarsxon",
+        "Dinmuhammad sulton",
+        "Muhammad Amin inoq"
+      ],
+      "answer": 1,
+      "explain": "Elbarsxon — 1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon. Shaybonning avlodlaridan bo'lgan Berka sulton o'g'li; safaviylarni quvib chiqarib mustaqil Xiva xonligini tuzgan",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Elbarsxon — shaybonning avlodlaridan bo'lgan Berka sulton o'g'li; safaviylarni quvib chiqarib mustaqil Xiva xonligini tuzgan.",
+      "answer": true,
+      "explain": "Elbarsxon — 1511-yilda Vazir aholisi taklifi bilan taxtga o'tirib Xiva xonligi va arabshohiylar sulolasiga asos solgan xon. Shaybonning avlodlaridan bo'lgan Berka sulton o'g'li; safaviylarni quvib chiqarib mustaqil Xiva xonligini tuzgan",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Shayx Ota avlodlari bilan birga Elbarsxonni taxtga taklif qilgan vatanparvar qozi» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Elbarsxon",
+        "Dinmuhammad sulton",
+        "Umar Shayx",
+        "Muhammad Amin inoq"
+      ],
+      "answer": 2,
+      "explain": "Umar Shayx — 1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi. Shayx Ota avlodlari bilan birga Elbarsxonni taxtga taklif qilgan vatanparvar qozi",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Umar Shayx — shayx Ota avlodlari bilan birga Elbarsxonni taxtga taklif qilgan vatanparvar qozi.",
+      "answer": true,
+      "explain": "Umar Shayx — 1511-yilda Vazir shahrida safaviylarga qarshi ozodlik qo'zg'oloniga boshchilik qilgan qozi. Shayx Ota avlodlari bilan birga Elbarsxonni taxtga taklif qilgan vatanparvar qozi",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xiva xonligi mustaqilligini saqlab qolish uchun Buxoro bilan kurashgan arabshohiy shahzoda» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Elbarsxon",
+        "Umar Shayx",
+        "Muhammad Amin inoq",
+        "Dinmuhammad sulton"
+      ],
+      "answer": 3,
+      "explain": "Dinmuhammad sulton — 1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton. Xiva xonligi mustaqilligini saqlab qolish uchun Buxoro bilan kurashgan arabshohiy shahzoda",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Dinmuhammad sulton — xiva xonligi mustaqilligini saqlab qolish uchun Buxoro bilan kurashgan arabshohiy shahzoda.",
+      "answer": true,
+      "explain": "Dinmuhammad sulton — 1538-yilda Ubaydullaxon o'g'li Abdulazizxon boshliq Buxoro qo'shinini Xorazmdan quvib chiqargan sulton. Xiva xonligi mustaqilligini saqlab qolish uchun Buxoro bilan kurashgan arabshohiy shahzoda",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Xiva xonligini Nodirshohdan keyingi parokandalikdan chiqarib qo'ng'irotlar sulolasiga zamin yaratgan arbob» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Muhammad Amin inoq",
+        "Elbarsxon",
+        "Umar Shayx",
+        "Dinmuhammad sulton"
+      ],
+      "answer": 0,
+      "explain": "Muhammad Amin inoq — 1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi. Xiva xonligini Nodirshohdan keyingi parokandalikdan chiqarib qo'ng'irotlar sulolasiga zamin yaratgan arbob",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Muhammad Amin inoq — xiva xonligini Nodirshohdan keyingi parokandalikdan chiqarib qo'ng'irotlar sulolasiga zamin yaratgan arbob.",
+      "answer": true,
+      "explain": "Muhammad Amin inoq — 1762-yilda otaliq bo'lib, 1770-yilda Xiva xonligida qo'ng'irotlar hukmronligini boshlagan yo'lboshchi. Xiva xonligini Nodirshohdan keyingi parokandalikdan chiqarib qo'ng'irotlar sulolasiga zamin yaratgan arbob",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq to'plarini tuzgan davlat arbobi» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Elbarsxon",
+        "Abulg'ozixon",
+        "Umar Shayx",
+        "Dinmuhammad sulton"
+      ],
+      "answer": 1,
+      "explain": "Abulg'ozixon — Xorazm qabilalarini boshqarish uchun ularni to'rtta «to'p»ga bo'lgan mashhur Xiva xoni va tarixchisi. Uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq to'plarini tuzgan davlat arbobi",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Abulg'ozixon — uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq to'plarini tuzgan davlat arbobi.",
+      "answer": true,
+      "explain": "Abulg'ozixon — Xorazm qabilalarini boshqarish uchun ularni to'rtta «to'p»ga bo'lgan mashhur Xiva xoni va tarixchisi. Uyg'ur-nayman, qiyot-qo'ng'irot, nukus-mang'it va qang'li-qipchoq to'plarini tuzgan davlat arbobi",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-§ (Xiva xonligi tashkil topishi): «Biy, otaliq, inoq lavozimlarini bekor qilib masjid birliklari va yangi soliq-boshqaruv tartibini joriy etgan xon» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Elbarsxon",
+        "Umar Shayx",
+        "Muhammad Rahimxon I",
+        "Dinmuhammad sulton"
+      ],
+      "answer": 2,
+      "explain": "Muhammad Rahimxon I — Amaldorlar sonini 360 tadan 100 taga qisqartirib, Oliy va Kichik Kengash tuzgan qo'ng'irot xoni. Biy, otaliq, inoq lavozimlarini bekor qilib masjid birliklari va yangi soliq-boshqaruv tartibini joriy etgan xon",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-§ (Xiva xonligi tashkil topishi): Muhammad Rahimxon I — biy, otaliq, inoq lavozimlarini bekor qilib masjid birliklari va yangi soliq-boshqaruv tartibini joriy etgan xon.",
+      "answer": true,
+      "explain": "Muhammad Rahimxon I — Amaldorlar sonini 360 tadan 100 taga qisqartirib, Oliy va Kichik Kengash tuzgan qo'ng'irot xoni. Biy, otaliq, inoq lavozimlarini bekor qilib masjid birliklari va yangi soliq-boshqaruv tartibini joriy etgan xon",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "Arabshohiylar",
+      "1511–1770-yillar Xiva sulolasi"
+    ],
+    [
+      "Vazir shahri",
+      "1511-yilgi qo'zg'olon markazi"
+    ],
+    [
+      "Qolxon",
+      "Xiva xonligi taxt vorisi unvoni"
+    ],
+    [
+      "To'p",
+      "Abulg'ozixon tuzgan 4 qabila birligi"
+    ],
+    [
+      "Mehtar",
+      "Xiva xonligida bosh vazir"
+    ],
+    [
+      "Qo'ng'irotlar",
+      "1770-yildan boshqargan Xiva sulolasi"
+    ],
+    [
+      "Masjid birliklari",
+      "Kentlar o'rniga tuzilgan birliklar"
+    ],
+    [
+      "Oqsoqol",
+      "Quyi ma'muriy boshqaruv vakili"
+    ],
+    [
+      "Qushbegi (Xiva)",
+      "Xiva moliya va qo'shin mas'uli"
+    ],
+    [
+      "Hukumat devonxonasi",
+      "Xiva xonligi markaziy idorasi"
+    ],
+    [
+      "Berka sulton",
+      "Elbarsxonning otasi"
+    ],
+    [
+      "Atrok",
+      "Xiva xonligi janubiy chegarasi"
+    ],
+    [
+      "Ko'hna Urganch",
+      "Vazir shahridan 60 km uzoqdagi shahar"
+    ],
+    [
+      "Saraxs",
+      "XVI asrda Xiva janubiy chegaralaridan biri"
+    ],
+    [
+      "Sulton",
+      "Arabshohiylar davrida shahzoda unvoni"
+    ],
+    [
+      "Oliy Kengash",
+      "Qo'ng'irotlarda muhim davlat kengashi"
+    ],
+    [
+      "Kichik Kengash",
+      "Muhammad Rahimxon I tuzgan kengash"
+    ],
+    [
+      "Shayx Ota",
+      "1511-yilda Elbarsxonni chaqirgan avlodlar"
+    ],
+    [
+      "Uyg'ur-nayman",
+      "Xorazmdagi to'rtta to'pdan biri"
+    ],
+    [
+      "Qiyot-qo'ng'irot",
+      "Abulg'ozixon tuzgan qabila to'pi"
+    ],
+    [
+      "Nukus-mang'it",
+      "Xorazmdagi to'p birlashmasi"
+    ],
+    [
+      "Qang'li-qipchoq",
+      "Xorazm qabilalarining to'rtinchi to'pi"
+    ],
+    [
+      "Elbarsxon",
+      "1511-yilda Xiva xonligini tuzgan xon"
+    ],
+    [
+      "Umar Shayx",
+      "1511-yilgi qo'zg'olon rahbari, qozi"
+    ],
+    [
+      "Dinmuhammad sulton",
+      "1538-yilda Xorazmni ozod qilgan sulton"
+    ],
+    [
+      "Muhammad Amin inoq",
+      "Qo'ng'irotlar hukmronligi asoschisi (1770)"
+    ],
+    [
+      "Abulg'ozixon",
+      "Qabilalarni 4 to'pga bo'lgan Xiva xoni"
+    ],
+    [
+      "Muhammad Rahimxon I",
+      "Amaldorlarni 100 taga qisqartirgan xon"
+    ]
+  ]
+}

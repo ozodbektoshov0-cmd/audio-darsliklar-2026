@@ -1,0 +1,2233 @@
+{
+  "id": "g9-uz-ozbekiston-tarixi-05-shayboniylar-savdo",
+  "subjectId": "g9-uz-ozbekiston-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "O'zbekiston tarixi",
+  "topicTitle": "6-§. Shayboniylar davrida ichki va tashqi savdo",
+  "title": "6-§. Shayboniylar davrida ichki va tashqi savdo",
+  "source": "O'zbekiston tarixi 9-sinf (2024), 6-§, 28–30-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): qaysi yilda muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan?",
+      "options": [
+        "1558-yil",
+        "XVI asr birinchi choragi",
+        "1510-yil",
+        "1508-yil"
+      ],
+      "answer": 2,
+      "explain": "1510-yilda muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) tarixida 1510-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan",
+        "ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan",
+        "Muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi)",
+        "Muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan"
+      ],
+      "answer": 3,
+      "explain": "1510-yilda muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) davrida ____-yilda muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan. (Yilni kiriting)",
+      "answer": [
+        "1510",
+        "1510-yil",
+        "1510-yilda"
+      ],
+      "explain": "1510-yilda muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): 1510-yilda muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan.",
+      "answer": true,
+      "explain": "1510-yilda muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha 1522-yilda muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1510-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): qaysi yilda ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan?",
+      "options": [
+        "1558-yil",
+        "1510-yil",
+        "XVI asr birinchi choragi",
+        "1508-yil"
+      ],
+      "answer": 0,
+      "explain": "1558-yilda ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) tarixida 1558-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan",
+        "ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan",
+        "ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan",
+        "Muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi)"
+      ],
+      "answer": 1,
+      "explain": "1558-yilda ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) davrida ____-yilda ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan. (Yilni kiriting)",
+      "answer": [
+        "1558",
+        "1558-yil",
+        "1558-yilda"
+      ],
+      "explain": "1558-yilda ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): 1558-yilda ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan.",
+      "answer": true,
+      "explain": "1558-yilda ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha 1547-yilda ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1558-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): qaysi yilda ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan?",
+      "options": [
+        "XV asr oxiri",
+        "XVII asr boshi",
+        "XVI asr birinchi choragi",
+        "XVIII asr o'rtasi"
+      ],
+      "answer": 2,
+      "explain": "XVI asr birinchi choragi ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) tarixida XVI asr birinchi choragi qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan",
+        "ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan",
+        "Muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi)",
+        "ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan"
+      ],
+      "answer": 3,
+      "explain": "XVI asr birinchi choragi ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): XVI asr birinchi choragi ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan.",
+      "answer": true,
+      "explain": "XVI asr birinchi choragi ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha XV asr oxiri ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea XVI asr birinchi choragi sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): qaysi yilda muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi)?",
+      "options": [
+        "1508-yil",
+        "1446-yil",
+        "1611-yil",
+        "1708-yil"
+      ],
+      "answer": 0,
+      "explain": "1508-yilda muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) tarixida 1508-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan",
+        "Muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi)",
+        "ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan",
+        "ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan"
+      ],
+      "answer": 1,
+      "explain": "1508-yilda muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) davrida ____-yilda muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi). (Yilni kiriting)",
+      "answer": [
+        "1508",
+        "1508-yil",
+        "1508-yilda"
+      ],
+      "explain": "1508-yilda muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): 1508-yilda muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi).",
+      "answer": true,
+      "explain": "1508-yilda muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha 1497-yilda muhammad Shayboniyxon bir xil og'irlik o'lchoviga ega 5,2 grammlik kumush tanga islohotini o'tkazgan (XVI asr boshi).",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1508-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): qaysi yilda abdullaxon II kumush tanqisligi sharoitida pul islohotini o'tkazib zarbni Buxoroda markazlashtirgan?",
+      "options": [
+        "1500-yil",
+        "1533-yil",
+        "1575-yil",
+        "1645-yil"
+      ],
+      "answer": 2,
+      "explain": "1575-yilda abdullaxon II kumush tanqisligi sharoitida pul islohotini o'tkazib zarbni Buxoroda markazlashtirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) tarixida 1575-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Muhammad Shayboniyxon Buxoroda unvonlari bitilgan tangalar zarb qildirgan",
+        "ingliz savdo agenti va diplomati Antoni Jenkinson Buxoroga tashrif buyurgan",
+        "ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor mis tangalar muomalaga chiqarilgan",
+        "Abdullaxon II kumush tanqisligi sharoitida pul islohotini o'tkazib zarbni Buxoroda markazlashtirgan"
+      ],
+      "answer": 3,
+      "explain": "1575-yilda abdullaxon II kumush tanqisligi sharoitida pul islohotini o'tkazib zarbni Buxoroda markazlashtirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) davrida ____-yilda abdullaxon II kumush tanqisligi sharoitida pul islohotini o'tkazib zarbni Buxoroda markazlashtirgan. (Yilni kiriting)",
+      "answer": [
+        "1575",
+        "1575-yil",
+        "1575-yilda"
+      ],
+      "explain": "1575-yilda abdullaxon II kumush tanqisligi sharoitida pul islohotini o'tkazib zarbni Buxoroda markazlashtirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): 1575-yilda abdullaxon II kumush tanqisligi sharoitida pul islohotini o'tkazib zarbni Buxoroda markazlashtirgan.",
+      "answer": true,
+      "explain": "1575-yilda abdullaxon II kumush tanqisligi sharoitida pul islohotini o'tkazib zarbni Buxoroda markazlashtirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha 1587-yilda abdullaxon II kumush tanqisligi sharoitida pul islohotini o'tkazib zarbni Buxoroda markazlashtirgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1575-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): 1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Antoni Jenkinson",
+        "Muhammad Shayboniyxon",
+        "Abdullaxon II",
+        "Zahiriddin Muhammad Bobur"
+      ],
+      "answer": 0,
+      "explain": "Antoni Jenkinson — 1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati. Yevropa, Osiyo va Afrikaga sayohat qilib, Amudaryo, Mang'it ulusi, Xorazm va Buxoro haqida ma'lumot yozgan ingliz",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Antoni Jenkinson tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor",
+        "1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati",
+        "Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon",
+        "«Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif"
+      ],
+      "answer": 1,
+      "explain": "Antoni Jenkinson — 1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati. Yevropa, Osiyo va Afrikaga sayohat qilib, Amudaryo, Mang'it ulusi, Xorazm va Buxoro haqida ma'lumot yozgan ingliz",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Yevropa, Osiyo va Afrikaga sayohat qilib, Amudaryo, Mang'it ulusi, Xorazm va Buxoro haqida ma'lumot yozgan ingliz — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Antoni Jenkinson",
+        "Jenkinson"
+      ],
+      "explain": "Antoni Jenkinson — 1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati. Yevropa, Osiyo va Afrikaga sayohat qilib, Amudaryo, Mang'it ulusi, Xorazm va Buxoro haqida ma'lumot yozgan ingliz",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) shaxslari: Antoni Jenkinson — 1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati.",
+      "answer": true,
+      "explain": "Antoni Jenkinson — 1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati. Yevropa, Osiyo va Afrikaga sayohat qilib, Amudaryo, Mang'it ulusi, Xorazm va Buxoro haqida ma'lumot yozgan ingliz",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati» ta'rifi Muhammad Shayboniyxon faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Antoni Jenkinson haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Antoni Jenkinson",
+        "Abdullaxon II",
+        "Muhammad Shayboniyxon",
+        "Zahiriddin Muhammad Bobur"
+      ],
+      "answer": 2,
+      "explain": "Muhammad Shayboniyxon — Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor. 1510-yilgi Buxoro tangalarida o'zini «Eng buyuk sulton» va «O'z davrining imomi» deb yozdirgan xon",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Muhammad Shayboniyxon tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati",
+        "Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon",
+        "«Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif",
+        "Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor"
+      ],
+      "answer": 3,
+      "explain": "Muhammad Shayboniyxon — Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor. 1510-yilgi Buxoro tangalarida o'zini «Eng buyuk sulton» va «O'z davrining imomi» deb yozdirgan xon",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): 1510-yilgi Buxoro tangalarida o'zini «Eng buyuk sulton» va «O'z davrining imomi» deb yozdirgan xon — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Muhammad Shayboniyxon"
+      ],
+      "explain": "Muhammad Shayboniyxon — Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor. 1510-yilgi Buxoro tangalarida o'zini «Eng buyuk sulton» va «O'z davrining imomi» deb yozdirgan xon",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) shaxslari: Muhammad Shayboniyxon — Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor.",
+      "answer": true,
+      "explain": "Muhammad Shayboniyxon — Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor. 1510-yilgi Buxoro tangalarida o'zini «Eng buyuk sulton» va «O'z davrining imomi» deb yozdirgan xon",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor» ta'rifi Antoni Jenkinson faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Muhammad Shayboniyxon haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Abdullaxon II",
+        "Antoni Jenkinson",
+        "Muhammad Shayboniyxon",
+        "Zahiriddin Muhammad Bobur"
+      ],
+      "answer": 0,
+      "explain": "Abdullaxon II — Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon. Pul islohoti natijasida kumush tanga qiymati 1,5 barobar oshgan va asosiy zarbxona Buxoro bo'lgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Abdullaxon II tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati",
+        "Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon",
+        "Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor",
+        "«Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif"
+      ],
+      "answer": 1,
+      "explain": "Abdullaxon II — Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon. Pul islohoti natijasida kumush tanga qiymati 1,5 barobar oshgan va asosiy zarbxona Buxoro bo'lgan hukmdor",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Pul islohoti natijasida kumush tanga qiymati 1,5 barobar oshgan va asosiy zarbxona Buxoro bo'lgan hukmdor — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Abdullaxon II"
+      ],
+      "explain": "Abdullaxon II — Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon. Pul islohoti natijasida kumush tanga qiymati 1,5 barobar oshgan va asosiy zarbxona Buxoro bo'lgan hukmdor",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) shaxslari: Abdullaxon II — Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon.",
+      "answer": true,
+      "explain": "Abdullaxon II — Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon. Pul islohoti natijasida kumush tanga qiymati 1,5 barobar oshgan va asosiy zarbxona Buxoro bo'lgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon» ta'rifi Antoni Jenkinson faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Abdullaxon II haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Antoni Jenkinson",
+        "Muhammad Shayboniyxon",
+        "Zahiriddin Muhammad Bobur",
+        "Abdullaxon II"
+      ],
+      "answer": 2,
+      "explain": "Zahiriddin Muhammad Bobur — «Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif. Samarqandning orasta bozor tizimini «bunaqasi kamdan kam shaharda bo'ladi» deb ta'riflagan alloma",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Zahiriddin Muhammad Bobur tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati",
+        "Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor",
+        "Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon",
+        "«Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif"
+      ],
+      "answer": 3,
+      "explain": "Zahiriddin Muhammad Bobur — «Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif. Samarqandning orasta bozor tizimini «bunaqasi kamdan kam shaharda bo'ladi» deb ta'riflagan alloma",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Samarqandning orasta bozor tizimini «bunaqasi kamdan kam shaharda bo'ladi» deb ta'riflagan alloma — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Zahiriddin Muhammad Bobur"
+      ],
+      "explain": "Zahiriddin Muhammad Bobur — «Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif. Samarqandning orasta bozor tizimini «bunaqasi kamdan kam shaharda bo'ladi» deb ta'riflagan alloma",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) shaxslari: Zahiriddin Muhammad Bobur — «Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif.",
+      "answer": true,
+      "explain": "Zahiriddin Muhammad Bobur — «Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif. Samarqandning orasta bozor tizimini «bunaqasi kamdan kam shaharda bo'ladi» deb ta'riflagan alloma",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): ««Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif» ta'rifi Antoni Jenkinson faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Zahiriddin Muhammad Bobur haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Ashrafiy» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi",
+        "XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga"
+      ],
+      "answer": 0,
+      "explain": "Ashrafiy — Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Xoniy",
+        "Ashrafiy",
+        "Mis dinor",
+        "Pul"
+      ],
+      "answer": 1,
+      "explain": "Ashrafiy — Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Ashrafiy"
+      ],
+      "explain": "Ashrafiy — Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Ashrafiy» — Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi.",
+      "answer": true,
+      "explain": "Ashrafiy — Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Ashrafiy» tushunchasi «Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Ashrafiy» — Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Xoniy» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga"
+      ],
+      "answer": 2,
+      "explain": "Xoniy — Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Mis dinor",
+        "Pul",
+        "Xoniy"
+      ],
+      "answer": 3,
+      "explain": "Xoniy — Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Xoniy"
+      ],
+      "explain": "Xoniy — Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Xoniy» — Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri.",
+      "answer": true,
+      "explain": "Xoniy — Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Xoniy» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Xoniy» — Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Mis dinor» tushunchasi nimani anglatadi?",
+      "options": [
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi",
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga"
+      ],
+      "answer": 0,
+      "explain": "Mis dinor — Kumush va mis aralashmasidan tayyorlangan mis tanga nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Kumush va mis aralashmasidan tayyorlangan mis tanga nomi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Mis dinor",
+        "Xoniy",
+        "Pul"
+      ],
+      "answer": 1,
+      "explain": "Mis dinor — Kumush va mis aralashmasidan tayyorlangan mis tanga nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Kumush va mis aralashmasidan tayyorlangan mis tanga nomi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Mis dinor"
+      ],
+      "explain": "Mis dinor — Kumush va mis aralashmasidan tayyorlangan mis tanga nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Mis dinor» — Kumush va mis aralashmasidan tayyorlangan mis tanga nomi.",
+      "answer": true,
+      "explain": "Mis dinor — Kumush va mis aralashmasidan tayyorlangan mis tanga nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Mis dinor» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Mis dinor» — Kumush va mis aralashmasidan tayyorlangan mis tanga nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Pul» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 2,
+      "explain": "Pul — XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Xoniy",
+        "Mis dinor",
+        "Pul"
+      ],
+      "answer": 3,
+      "explain": "Pul — XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Pul"
+      ],
+      "explain": "Pul — XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Pul» — XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga.",
+      "answer": true,
+      "explain": "Pul — XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Pul» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Pul» — XVI asr birinchi choragida muomalaga chiqarilgan eng kichik mis tanga.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Xiroj» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida temuriylar zamonidagi kabi «mol» ham deb atalgan asosiy yer solig'i",
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 0,
+      "explain": "Xiroj — Shayboniylar davrida temuriylar zamonidagi kabi «mol» ham deb atalgan asosiy yer solig'i.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Shayboniylar davrida temuriylar zamonidagi kabi «mol» ham deb atalgan asosiy yer solig'i» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Xiroj",
+        "Xoniy",
+        "Mis dinor"
+      ],
+      "answer": 1,
+      "explain": "Xiroj — Shayboniylar davrida temuriylar zamonidagi kabi «mol» ham deb atalgan asosiy yer solig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Shayboniylar davrida temuriylar zamonidagi kabi «mol» ham deb atalgan asosiy yer solig'i — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Xiroj"
+      ],
+      "explain": "Xiroj — Shayboniylar davrida temuriylar zamonidagi kabi «mol» ham deb atalgan asosiy yer solig'i.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Xiroj» — Shayboniylar davrida temuriylar zamonidagi kabi «mol» ham deb atalgan asosiy yer solig'i.",
+      "answer": true,
+      "explain": "Xiroj — Shayboniylar davrida temuriylar zamonidagi kabi «mol» ham deb atalgan asosiy yer solig'i.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Xiroj» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Xiroj» — Shayboniylar davrida temuriylar zamonidagi kabi «mol» ham deb atalgan asosiy yer solig'i.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Tanobona» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Bog'-polizlardan olinadigan tanob puli va bedazorlardan olinadigan alaf pulining yagona nomi",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 2,
+      "explain": "Tanobona — Bog'-polizlardan olinadigan tanob puli va bedazorlardan olinadigan alaf pulining yagona nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Bog'-polizlardan olinadigan tanob puli va bedazorlardan olinadigan alaf pulining yagona nomi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Xoniy",
+        "Mis dinor",
+        "Tanobona"
+      ],
+      "answer": 3,
+      "explain": "Tanobona — Bog'-polizlardan olinadigan tanob puli va bedazorlardan olinadigan alaf pulining yagona nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Bog'-polizlardan olinadigan tanob puli va bedazorlardan olinadigan alaf pulining yagona nomi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Tanobona"
+      ],
+      "explain": "Tanobona — Bog'-polizlardan olinadigan tanob puli va bedazorlardan olinadigan alaf pulining yagona nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Tanobona» — Bog'-polizlardan olinadigan tanob puli va bedazorlardan olinadigan alaf pulining yagona nomi.",
+      "answer": true,
+      "explain": "Tanobona — Bog'-polizlardan olinadigan tanob puli va bedazorlardan olinadigan alaf pulining yagona nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Tanobona» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Tanobona» — Bog'-polizlardan olinadigan tanob puli va bedazorlardan olinadigan alaf pulining yagona nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Alaf puli» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida bedazorlardan undirilgan soliq turi",
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 0,
+      "explain": "Alaf puli — Shayboniylar davrida bedazorlardan undirilgan soliq turi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Shayboniylar davrida bedazorlardan undirilgan soliq turi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Alaf puli",
+        "Xoniy",
+        "Mis dinor"
+      ],
+      "answer": 1,
+      "explain": "Alaf puli — Shayboniylar davrida bedazorlardan undirilgan soliq turi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Shayboniylar davrida bedazorlardan undirilgan soliq turi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Alaf puli"
+      ],
+      "explain": "Alaf puli — Shayboniylar davrida bedazorlardan undirilgan soliq turi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Alaf puli» — Shayboniylar davrida bedazorlardan undirilgan soliq turi.",
+      "answer": true,
+      "explain": "Alaf puli — Shayboniylar davrida bedazorlardan undirilgan soliq turi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Alaf puli» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Alaf puli» — Shayboniylar davrida bedazorlardan undirilgan soliq turi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Ixrojot» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Xon saroyi, boshqaruv tuzilmasi va harbiy kuchlarni ta'minlash uchun turli soliqlar to'plami",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 2,
+      "explain": "Ixrojot — Xon saroyi, boshqaruv tuzilmasi va harbiy kuchlarni ta'minlash uchun turli soliqlar to'plami.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Xon saroyi, boshqaruv tuzilmasi va harbiy kuchlarni ta'minlash uchun turli soliqlar to'plami» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Xoniy",
+        "Mis dinor",
+        "Ixrojot"
+      ],
+      "answer": 3,
+      "explain": "Ixrojot — Xon saroyi, boshqaruv tuzilmasi va harbiy kuchlarni ta'minlash uchun turli soliqlar to'plami.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Xon saroyi, boshqaruv tuzilmasi va harbiy kuchlarni ta'minlash uchun turli soliqlar to'plami — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Ixrojot"
+      ],
+      "explain": "Ixrojot — Xon saroyi, boshqaruv tuzilmasi va harbiy kuchlarni ta'minlash uchun turli soliqlar to'plami.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Ixrojot» — Xon saroyi, boshqaruv tuzilmasi va harbiy kuchlarni ta'minlash uchun turli soliqlar to'plami.",
+      "answer": true,
+      "explain": "Ixrojot — Xon saroyi, boshqaruv tuzilmasi va harbiy kuchlarni ta'minlash uchun turli soliqlar to'plami.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Ixrojot» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Ixrojot» — Xon saroyi, boshqaruv tuzilmasi va harbiy kuchlarni ta'minlash uchun turli soliqlar to'plami.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Zakot» tushunchasi nimani anglatadi?",
+      "options": [
+        "Har bir musulmon daromadining 1/40 qismi yoki ko'chmanchilardan 40 qo'ydan bir qo'y miqdorida olingan soliq",
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 0,
+      "explain": "Zakot — Har bir musulmon daromadining 1/40 qismi yoki ko'chmanchilardan 40 qo'ydan bir qo'y miqdorida olingan soliq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Har bir musulmon daromadining 1/40 qismi yoki ko'chmanchilardan 40 qo'ydan bir qo'y miqdorida olingan soliq» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Zakot",
+        "Xoniy",
+        "Mis dinor"
+      ],
+      "answer": 1,
+      "explain": "Zakot — Har bir musulmon daromadining 1/40 qismi yoki ko'chmanchilardan 40 qo'ydan bir qo'y miqdorida olingan soliq.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Har bir musulmon daromadining 1/40 qismi yoki ko'chmanchilardan 40 qo'ydan bir qo'y miqdorida olingan soliq — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Zakot"
+      ],
+      "explain": "Zakot — Har bir musulmon daromadining 1/40 qismi yoki ko'chmanchilardan 40 qo'ydan bir qo'y miqdorida olingan soliq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Zakot» — Har bir musulmon daromadining 1/40 qismi yoki ko'chmanchilardan 40 qo'ydan bir qo'y miqdorida olingan soliq.",
+      "answer": true,
+      "explain": "Zakot — Har bir musulmon daromadining 1/40 qismi yoki ko'chmanchilardan 40 qo'ydan bir qo'y miqdorida olingan soliq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Zakot» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Zakot» — Har bir musulmon daromadining 1/40 qismi yoki ko'chmanchilardan 40 qo'ydan bir qo'y miqdorida olingan soliq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Tog'ar» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Shayboniylar davrida qo'shin ta'minoti uchun undirilgan soliq turi",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 2,
+      "explain": "Tog'ar — Shayboniylar davrida qo'shin ta'minoti uchun undirilgan soliq turi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Shayboniylar davrida qo'shin ta'minoti uchun undirilgan soliq turi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Xoniy",
+        "Mis dinor",
+        "Tog'ar"
+      ],
+      "answer": 3,
+      "explain": "Tog'ar — Shayboniylar davrida qo'shin ta'minoti uchun undirilgan soliq turi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Shayboniylar davrida qo'shin ta'minoti uchun undirilgan soliq turi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Tog'ar"
+      ],
+      "explain": "Tog'ar — Shayboniylar davrida qo'shin ta'minoti uchun undirilgan soliq turi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Tog'ar» — Shayboniylar davrida qo'shin ta'minoti uchun undirilgan soliq turi.",
+      "answer": true,
+      "explain": "Tog'ar — Shayboniylar davrida qo'shin ta'minoti uchun undirilgan soliq turi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Tog'ar» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Tog'ar» — Shayboniylar davrida qo'shin ta'minoti uchun undirilgan soliq turi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Oshlig'» tushunchasi nimani anglatadi?",
+      "options": [
+        "Askarlar uchun oziq-ovqat hamda ot va tuyalar uchun yem-xashak tarzida undirilgan soliq",
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 0,
+      "explain": "Oshlig' — Askarlar uchun oziq-ovqat hamda ot va tuyalar uchun yem-xashak tarzida undirilgan soliq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Askarlar uchun oziq-ovqat hamda ot va tuyalar uchun yem-xashak tarzida undirilgan soliq» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Oshlig'",
+        "Xoniy",
+        "Mis dinor"
+      ],
+      "answer": 1,
+      "explain": "Oshlig' — Askarlar uchun oziq-ovqat hamda ot va tuyalar uchun yem-xashak tarzida undirilgan soliq.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Askarlar uchun oziq-ovqat hamda ot va tuyalar uchun yem-xashak tarzida undirilgan soliq — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Oshlig'"
+      ],
+      "explain": "Oshlig' — Askarlar uchun oziq-ovqat hamda ot va tuyalar uchun yem-xashak tarzida undirilgan soliq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Oshlig'» — Askarlar uchun oziq-ovqat hamda ot va tuyalar uchun yem-xashak tarzida undirilgan soliq.",
+      "answer": true,
+      "explain": "Oshlig' — Askarlar uchun oziq-ovqat hamda ot va tuyalar uchun yem-xashak tarzida undirilgan soliq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Oshlig'» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Oshlig'» — Askarlar uchun oziq-ovqat hamda ot va tuyalar uchun yem-xashak tarzida undirilgan soliq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Rizoyi» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Hindistonlik savdogarlar keltirgan bir xil rangdagi noyob shol mato turi",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 2,
+      "explain": "Rizoyi — Hindistonlik savdogarlar keltirgan bir xil rangdagi noyob shol mato turi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindistonlik savdogarlar keltirgan bir xil rangdagi noyob shol mato turi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Xoniy",
+        "Mis dinor",
+        "Rizoyi"
+      ],
+      "answer": 3,
+      "explain": "Rizoyi — Hindistonlik savdogarlar keltirgan bir xil rangdagi noyob shol mato turi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Hindistonlik savdogarlar keltirgan bir xil rangdagi noyob shol mato turi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Rizoyi"
+      ],
+      "explain": "Rizoyi — Hindistonlik savdogarlar keltirgan bir xil rangdagi noyob shol mato turi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Rizoyi» — Hindistonlik savdogarlar keltirgan bir xil rangdagi noyob shol mato turi.",
+      "answer": true,
+      "explain": "Rizoyi — Hindistonlik savdogarlar keltirgan bir xil rangdagi noyob shol mato turi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Rizoyi» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Rizoyi» — Hindistonlik savdogarlar keltirgan bir xil rangdagi noyob shol mato turi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Raxdor» tushunchasi nimani anglatadi?",
+      "options": [
+        "Hindiston savdogarlari olib kelgan yo'l-yo'l naqshli shol matosi",
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 0,
+      "explain": "Raxdor — Hindiston savdogarlari olib kelgan yo'l-yo'l naqshli shol matosi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindiston savdogarlari olib kelgan yo'l-yo'l naqshli shol matosi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Raxdor",
+        "Xoniy",
+        "Mis dinor"
+      ],
+      "answer": 1,
+      "explain": "Raxdor — Hindiston savdogarlari olib kelgan yo'l-yo'l naqshli shol matosi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Hindiston savdogarlari olib kelgan yo'l-yo'l naqshli shol matosi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Raxdor"
+      ],
+      "explain": "Raxdor — Hindiston savdogarlari olib kelgan yo'l-yo'l naqshli shol matosi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Raxdor» — Hindiston savdogarlari olib kelgan yo'l-yo'l naqshli shol matosi.",
+      "answer": true,
+      "explain": "Raxdor — Hindiston savdogarlari olib kelgan yo'l-yo'l naqshli shol matosi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Raxdor» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Raxdor» — Hindiston savdogarlari olib kelgan yo'l-yo'l naqshli shol matosi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) mavzusidagi «Butador» tushunchasi nimani anglatadi?",
+      "options": [
+        "Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi",
+        "Shayboniylar davridagi kumush tanga («tanga», «tangacha») nomlaridan biri",
+        "Hindiston savdogarlari keltirgan palma tasviri tushirilgan noyob shol matosi",
+        "Kumush va mis aralashmasidan tayyorlangan mis tanga nomi"
+      ],
+      "answer": 2,
+      "explain": "Butador — Hindiston savdogarlari keltirgan palma tasviri tushirilgan noyob shol matosi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindiston savdogarlari keltirgan palma tasviri tushirilgan noyob shol matosi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ashrafiy",
+        "Xoniy",
+        "Mis dinor",
+        "Butador"
+      ],
+      "answer": 3,
+      "explain": "Butador — Hindiston savdogarlari keltirgan palma tasviri tushirilgan noyob shol matosi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Hindiston savdogarlari keltirgan palma tasviri tushirilgan noyob shol matosi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Butador"
+      ],
+      "explain": "Butador — Hindiston savdogarlari keltirgan palma tasviri tushirilgan noyob shol matosi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Butador» — Hindiston savdogarlari keltirgan palma tasviri tushirilgan noyob shol matosi.",
+      "answer": true,
+      "explain": "Butador — Hindiston savdogarlari keltirgan palma tasviri tushirilgan noyob shol matosi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (6-§ (Shayboniylar savdosi va soliqlari)): «Butador» tushunchasi «Shayboniylar davrida muomalada bo'lgan oltin tangalarning umumiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Butador» — Hindiston savdogarlari keltirgan palma tasviri tushirilgan noyob shol matosi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "XVI asr o'rtalarida Buxoroga kelgan Antoni Jenkinson shahardagi savdo haqida nima deb yozgan?",
+      "options": [
+        "«Shaharda har yili Hindiston, Eron, Balx, Rossiya va boshqa ko'plab mamlakatlardan keluvchi savdogarlarning yig'ilishi bo'ladi»",
+        "«Buxoroda xorijiy savdogarlar kelishiga ruxsat berilmaydi»",
+        "«Shaharda faqat rus savdogarlari savdo qiladilar»",
+        "«Buxoro bozorlari faqat qish faslida ishlaydi»"
+      ],
+      "answer": 0,
+      "explain": "Ingliz diplomati Antoni Jenkinson Buxoroda har yili Hindiston, Eron, Balx, Rossiya va boshqa yurt savdogarlari yig'ilishini qayd etgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Antoni Jenkinson XVI asr o'rtalaridagi Amudaryo, Mang'it ulusi, Xorazm va Buxoro xonligining ijtimoiy-siyosiy ahvolini yozib qoldirgan.",
+      "answer": true,
+      "explain": "Ingliz diplomati Antoni Jenkinson Buxoroda har yili Hindiston, Eron, Balx, Rossiya va boshqa yurt savdogarlari yig'ilishini qayd etgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Antoni Jenkinson Buxoroga XVIII asrda fransuz elchisi sifatida kelgan.",
+      "answer": false,
+      "explain": "Ingliz diplomati Antoni Jenkinson Buxoroda har yili Hindiston, Eron, Balx, Rossiya va boshqa yurt savdogarlari yig'ilishini qayd etgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "XVI asr o'rtalarida Buxoroda bo'lgan ingliz savdo agenti va diplomati ____ edi.",
+      "answer": [
+        "Antoni Jenkinson",
+        "Jenkinson"
+      ],
+      "explain": "Ingliz diplomati Antoni Jenkinson Buxoroda har yili Hindiston, Eron, Balx, Rossiya va boshqa yurt savdogarlari yig'ilishini qayd etgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Hindistonlik savdogarlar shayboniylar davlatiga qanday maxsus mahsulotlarni olib kelishgan?",
+      "options": [
+        "Faqat temir ruda, ko'mir va yog'och taxtalar",
+        "Qimmatbaho toshlar, marvarid, novshadil, kimxob, doka, chubi sandal, shakar, novvot, xina, sano, o'sma, zarchuba, haqiq, shol, juroblar va qo'lyozmalar",
+        "Faqat qoraqalpoq kigizi va qozoq otlari",
+        "Faqat shisha ko'zalar va mis tangalar"
+      ],
+      "answer": 1,
+      "explain": "Hind savdogarlari dorivorlar, bo'yoqlar (xina, o'sma, zarchuba), ziravorlar, qimmatbaho toshlar, shol matolari, belbog'lik mato, jurob, qalamdon va qo'lyozmalar keltirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Hindistonlik savdogarlar olib kelgan «juroblar» yarimetik paypoqlarni anglatgan.",
+      "answer": true,
+      "explain": "Hind savdogarlari dorivorlar, bo'yoqlar (xina, o'sma, zarchuba), ziravorlar, qimmatbaho toshlar, shol matolari, belbog'lik mato, jurob, qalamdon va qo'lyozmalar keltirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Hindiston savdogarlari O'rta Osiyoga faqat g'alla va arpa olib kelishgan.",
+      "answer": false,
+      "explain": "Hind savdogarlari dorivorlar, bo'yoqlar (xina, o'sma, zarchuba), ziravorlar, qimmatbaho toshlar, shol matolari, belbog'lik mato, jurob, qalamdon va qo'lyozmalar keltirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Hindiston savdogarlari olib kelgan ____ so'zi «yo'l-yo'l» shol matoni anglatgan.",
+      "answer": [
+        "raxdor"
+      ],
+      "explain": "Hind savdogarlari dorivorlar, bo'yoqlar (xina, o'sma, zarchuba), ziravorlar, qimmatbaho toshlar, shol matolari, belbog'lik mato, jurob, qalamdon va qo'lyozmalar keltirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniyxon tomonidan zarb etilgan kumush tangalarning bir xil og'irlik o'lchovi necha grammni tashkil etgan?",
+      "options": [
+        "10,5 gramm",
+        "1,8 gramm",
+        "5,2 gramm",
+        "25 gramm"
+      ],
+      "answer": 2,
+      "explain": "Muhammad Shayboniyxon turli og'irlikdagi tangalar o'rniga bir xil 5,2 gramm og'irlikdagi kumush va mis tangalar zarb ettirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida bir kumush tanga qiymati 20–21 mis tangaga teng bo'lgan.",
+      "answer": true,
+      "explain": "Muhammad Shayboniyxon turli og'irlikdagi tangalar o'rniga bir xil 5,2 gramm og'irlikdagi kumush va mis tangalar zarb ettirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniyxon tanga islohotida bir kumush tanga og'irligini 50 gramm qilib belgilagan.",
+      "answer": false,
+      "explain": "Muhammad Shayboniyxon turli og'irlikdagi tangalar o'rniga bir xil 5,2 gramm og'irlikdagi kumush va mis tangalar zarb ettirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Muhammad Shayboniyxon joriy etgan bir xil og'irlikdagi kumush tanganing og'irligi ____ gramm edi.",
+      "answer": [
+        "5,2",
+        "5.2"
+      ],
+      "explain": "Muhammad Shayboniyxon turli og'irlikdagi tangalar o'rniga bir xil 5,2 gramm og'irlikdagi kumush va mis tangalar zarb ettirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniyxon 1510-yilda Buxoroda zarb qildirgan tangalarda qanday unvon va yozuvlar bitilgan edi?",
+      "options": [
+        "«Xitoy va Hind imperatori» deb yozilgan",
+        "Hech qanday yozuvsiz faqat qush rasmi tushirilgan",
+        "«Faqat Buxoro amiri va qozisi» deb bitilgan",
+        "«Eng buyuk sulton, rahmdil (Allohning) podshohi, din himoyachisi» hamda «O'z davrining imomi, rahmdil (Allohning) hokimi Abulfath»"
+      ],
+      "answer": 3,
+      "explain": "1510-yilgi Buxoro tangasining birida «Eng buyuk sulton...», ikkinchisida «O'z davrining imomi, rahmdil hokimi Abulfath» yozuvi bor edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1510-yilgi Buxoro tangasi sarlavhasida Shayboniyxon o'z davrining imomi ekanligi ta'kidlangan.",
+      "answer": true,
+      "explain": "1510-yilgi Buxoro tangasining birida «Eng buyuk sulton...», ikkinchisida «O'z davrining imomi, rahmdil hokimi Abulfath» yozuvi bor edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniyxon tangalarida «Abulfath» unvoni umuman ishlatilmagan.",
+      "answer": false,
+      "explain": "1510-yilgi Buxoro tangasining birida «Eng buyuk sulton...», ikkinchisida «O'z davrining imomi, rahmdil hokimi Abulfath» yozuvi bor edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "1510-yilgi Buxoro tangasida Shayboniyxonning «O'z davrining ____» degan unvoni bitilgan.",
+      "answer": [
+        "imomi"
+      ],
+      "explain": "1510-yilgi Buxoro tangasining birida «Eng buyuk sulton...», ikkinchisida «O'z davrining imomi, rahmdil hokimi Abulfath» yozuvi bor edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Nima sababdan Abdullaxon II pul islohotini o'tkazishga majbur bo'ldi va uning natijasi nima bo'ldi?",
+      "options": [
+        "Kumush narxi oshib chetga chiqib ketgani tufayli kichik oltin tanga zarb ettirdi, kumush qiymati 1,5 barobar oshdi va zarb Buxoroda markazlashtirildi",
+        "Oltin tangalar butunlay bekor qilinib, faqat mis pul qoldirildi",
+        "Kumush narxi tushib ketgani uchun barcha zarbxonalar yopildi",
+        "Chet el pullariga o'tib, mahalliy tangalar taqiqlandi"
+      ],
+      "answer": 0,
+      "explain": "Kumush tangalar chetga chiqib ketib zarbxonada metall kamaygach, Abdullaxon II kichik oltin tanga zarb qildirdi, kumush qiymati 1,5 barobar oshdi va Buxoro asosiy zarbxona bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Abdullaxon II pul islohotidan keyin asosiy zarbxona Buxoro bo'lib, Balx, Samarqand va Toshkentda ham tanga zarb etilgan.",
+      "answer": true,
+      "explain": "Kumush tangalar chetga chiqib ketib zarbxonada metall kamaygach, Abdullaxon II kichik oltin tanga zarb qildirdi, kumush qiymati 1,5 barobar oshdi va Buxoro asosiy zarbxona bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Abdullaxon II davrida faqat poytaxt Buxorodagina tanga zarb qilishga ruxsat berilib, Balx va Samarqand zarbxonalari yopilgan.",
+      "answer": false,
+      "explain": "Kumush tangalar chetga chiqib ketib zarbxonada metall kamaygach, Abdullaxon II kichik oltin tanga zarb qildirdi, kumush qiymati 1,5 barobar oshdi va Buxoro asosiy zarbxona bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Abdullaxon II pul islohotidan so'ng kumushning tanqisligi tufayli kumush tanganing qiymati ____ barobar oshgan.",
+      "answer": [
+        "bir yarim",
+        "1,5",
+        "1.5"
+      ],
+      "explain": "Kumush tangalar chetga chiqib ketib zarbxonada metall kamaygach, Abdullaxon II kichik oltin tanga zarb qildirdi, kumush qiymati 1,5 barobar oshdi va Buxoro asosiy zarbxona bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "XVI asr birinchi choragida muomalada qanday qiymatdagi mis tangalar mavjud edi?",
+      "options": [
+        "Faqat yuz dinor va ellik dinor qiymatli tangalar",
+        "Ikki dinor, uchdan ikki, yarim, uchdan bir va oltidan bir dinor qiymatiga ega mis tangalar",
+        "Faqat yarim miri va o'n tangalik pullar",
+        "Faqat kumush bilan qoplangan chervonlar"
+      ],
+      "answer": 1,
+      "explain": "XVI asr birinchi choragida 2 dinor, 2/3, 1/2, 1/3 va 1/6 dinor qiymatli mis tangalar chiqarilgan, eng kichigi «pul» deb atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida oltin tangalar «ashrafiy», kumush tangalar «tanga, tangacha, xoniy» deb atalgan.",
+      "answer": true,
+      "explain": "XVI asr birinchi choragida 2 dinor, 2/3, 1/2, 1/3 va 1/6 dinor qiymatli mis tangalar chiqarilgan, eng kichigi «pul» deb atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "XVI asr birinchi choragidagi eng kichik mis tanga «ashrafiy» deb atalgan.",
+      "answer": false,
+      "explain": "XVI asr birinchi choragida 2 dinor, 2/3, 1/2, 1/3 va 1/6 dinor qiymatli mis tangalar chiqarilgan, eng kichigi «pul» deb atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Shayboniylar davrida eng kichik mis tanga ____ deb atalgan.",
+      "answer": [
+        "pul"
+      ],
+      "explain": "XVI asr birinchi choragida 2 dinor, 2/3, 1/2, 1/3 va 1/6 dinor qiymatli mis tangalar chiqarilgan, eng kichigi «pul» deb atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davrida ko'chmanchi va yarimko'chmanchi aholi zakot solig'ini qanday shaklda to'lagan?",
+      "options": [
+        "Faqat oltin tanga shaklida to'lagan",
+        "Har 10 bosh qoramoldan 5 tasini bergan",
+        "Tovar bilan — har 40 ta qo'ydan bitta qo'y miqdorida to'lagan",
+        "Zakot to'lashdan butunlay ozod qilingan"
+      ],
+      "answer": 2,
+      "explain": "Musulmon daromadining 1/40 qismini zakot qilib to'lashi lozim edi; ko'chmanchi va yarimko'chmanchilar zakotni tovar (40 qo'ydan 1 qo'y) bilan to'lagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida bog' va polizlarning har tanobidan tanob puli, bedazorlardan alaf puli olingan.",
+      "answer": true,
+      "explain": "Musulmon daromadining 1/40 qismini zakot qilib to'lashi lozim edi; ko'chmanchi va yarimko'chmanchilar zakotni tovar (40 qo'ydan 1 qo'y) bilan to'lagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida ko'chmanchilar zakot sifatida 10 ta qo'ydan 1 ta qo'y topshirishgan.",
+      "answer": false,
+      "explain": "Musulmon daromadining 1/40 qismini zakot qilib to'lashi lozim edi; ko'chmanchi va yarimko'chmanchilar zakotni tovar (40 qo'ydan 1 qo'y) bilan to'lagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Shayboniylar davrida xon saroyi, boshqaruv va qo'shinni ta'minlash uchun yig'ilgan turli soliqlar to'plami ____ deb atalgan.",
+      "answer": [
+        "ixrojot"
+      ],
+      "explain": "Musulmon daromadining 1/40 qismini zakot qilib to'lashi lozim edi; ko'chmanchi va yarimko'chmanchilar zakotni tovar (40 qo'ydan 1 qo'y) bilan to'lagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davrida aholi soliqlardan tashqari qanday mehnat majburiyatlarini bajarishga jalb etilgan?",
+      "options": [
+        "Faqat chet el elchixonalarida tarjimonlik qilishga",
+        "Faqat shoh saroyida xattotlik bilan shug'ullanishga",
+        "Dengiz kemalarida baliq ovlashga",
+        "Sug'orish tizimlarini barpo etish, ta'mirlash va tozalash, qal'a-qo'rg'onlar va shahar devorlarini qurish-ta'mirlash ishlariga"
+      ],
+      "answer": 3,
+      "explain": "Aholi sug'orish tizimlarini qurish-tozalash hamda qal'a, qo'rg'on va shahar devorlarini qurish-ta'mirlash kabi mehnat majburiyatlariga jalb etilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida bog' va polizlardan olinadigan tanob puli bilan alaf puli ba'zan birgalikda «tanobona» deyilgan.",
+      "answer": true,
+      "explain": "Aholi sug'orish tizimlarini qurish-tozalash hamda qal'a, qo'rg'on va shahar devorlarini qurish-ta'mirlash kabi mehnat majburiyatlariga jalb etilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida aholi shahar devorlarini ta'mirlash kabi mehnat majburiyatlaridan ozod edi.",
+      "answer": false,
+      "explain": "Aholi sug'orish tizimlarini qurish-tozalash hamda qal'a, qo'rg'on va shahar devorlarini qurish-ta'mirlash kabi mehnat majburiyatlariga jalb etilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Shayboniylar davrida askarlar uchun oziq-ovqat hamda ot-tuyalar uchun yem-xashak sifatida ____ solig'i undirilgan.",
+      "answer": [
+        "oshlig'",
+        "oshlig"
+      ],
+      "explain": "Aholi sug'orish tizimlarini qurish-tozalash hamda qal'a, qo'rg'on va shahar devorlarini qurish-ta'mirlash kabi mehnat majburiyatlariga jalb etilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Bobur Samarqand shahri bozorlarining qanday noyob xususiyatini alohida qayd etgan?",
+      "options": [
+        "Har bir hunarmandning alohida bozori borligi va ular bir-biriga aralashmaganini",
+        "Bozorda umuman pul ishlatilmasdan mol ayirboshlanishini",
+        "Bozorning butunlay yer ostida joylashganini",
+        "Hamma hunarmandlar bitta umumiy rastada o'tirishini"
+      ],
+      "answer": 0,
+      "explain": "«Boburnoma»da: «har hunarmandning alohida bozori bor, bir-biriga aralashgan emas, bu qiziq rasmdir», deb ta'kidlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida mamlakatning turli markazlari o'zining ixtisoslashgan bozorlari bilan mashhur bo'lgan.",
+      "answer": true,
+      "explain": "«Boburnoma»da: «har hunarmandning alohida bozori bor, bir-biriga aralashgan emas, bu qiziq rasmdir», deb ta'kidlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Bobur Samarqand bozorlarida barcha hunar mollari tartibsiz aralashib sotilishini tanqid qilgan.",
+      "answer": false,
+      "explain": "«Boburnoma»da: «har hunarmandning alohida bozori bor, bir-biriga aralashgan emas, bu qiziq rasmdir», deb ta'kidlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Buxoro tangalarida 1510-yilda Shayboniyxonga berilgan «____» (g'alaba otasi) unvoni ham bitilgan.",
+      "answer": [
+        "Abulfath"
+      ],
+      "explain": "«Boburnoma»da: «har hunarmandning alohida bozori bor, bir-biriga aralashgan emas, bu qiziq rasmdir», deb ta'kidlangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davrida mamlakatning harbiy ta'minoti bilan bog'liq qaysi ikki soliq turi undirilgan?",
+      "options": [
+        "Faqat zakot va alaf puli",
+        "Qo'shin ta'minoti uchun tog'ar, askar oziq-ovqati va hayvonlar yem-xashaki uchun oshlig'",
+        "Faqat qozon va ushur soliqlari",
+        "Faqat bojxona yig'imlari"
+      ],
+      "answer": 1,
+      "explain": "Darslikda qo'shin ta'minoti uchun «tog'ar», askarlar uchun oziq-ovqat va ot-tuyalar uchun yem-xashak «oshlig'» undirilgani ko'rsatilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Kumushning narxi asta-sekin oshib borishi kumush tangalarning davlat hududidan olib chiqib ketilishiga sabab bo'lgan.",
+      "answer": true,
+      "explain": "Darslikda qo'shin ta'minoti uchun «tog'ar», askarlar uchun oziq-ovqat va ot-tuyalar uchun yem-xashak «oshlig'» undirilgani ko'rsatilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar davrida oltin tangalar umuman zarb etilmagan.",
+      "answer": false,
+      "explain": "Darslikda qo'shin ta'minoti uchun «tog'ar», askarlar uchun oziq-ovqat va ot-tuyalar uchun yem-xashak «oshlig'» undirilgani ko'rsatilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Shayboniylar davrida asosiy yer solig'i temuriylar zamonidagi kabi ____ (mol) deb atalgan.",
+      "answer": [
+        "xiroj"
+      ],
+      "explain": "Darslikda qo'shin ta'minoti uchun «tog'ar», askarlar uchun oziq-ovqat va ot-tuyalar uchun yem-xashak «oshlig'» undirilgani ko'rsatilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davrida muomalada bo'lgan tanga nomlari qatoriga qaysi biri KIRMAYDI?",
+      "options": [
+        "Ashrafiy",
+        "Xoniy",
+        "Miri",
+        "Mis dinor"
+      ],
+      "answer": 2,
+      "explain": "Ashrafiy, tanga/tangacha/xoniy va mis dinor shayboniylar davriga oid; miri esa XVIII asr amir Muhammad Rahim tangasidir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Hindistonlik savdogarlar keltirgan «shol» matosi turlariga qaysi biri KIRMAYDI?",
+      "options": [
+        "Rizoyi",
+        "Raxdor",
+        "Butador",
+        "Zandanachi"
+      ],
+      "answer": 3,
+      "explain": "Rizoyi (bir xil rangli), raxdor (yo'l-yo'l) va butador (palma tasvirli) hind shol matolari; zandanachi mahalliy ip gazlamadir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Abdullaxon II pul islohotidan keyin tanga zarb etilgan shaharlar ro'yxatiga qaysi biri KIRMAYDI?",
+      "options": [
+        "Astrobod",
+        "Buxoro",
+        "Balx",
+        "Samarqand"
+      ],
+      "answer": 0,
+      "explain": "Asosiy zarbxona Buxoro bo'lib, Balx, Samarqand va Toshkentda ham tanga zarb etilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davridagi soliq turlari qatoriga qaysi biri KIRMAYDI?",
+      "options": [
+        "Xiroj",
+        "Qozon solig'i",
+        "Tanobona",
+        "Ixrojot"
+      ],
+      "answer": 1,
+      "explain": "Xiroj, tanobona, ixrojot, zakot, tog'ar va oshlig' shayboniylarga xos; qozon solig'i qoraqalpoqlarda harbiy xavf chog'ida undirilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Antoni Jenkinsonning Buxoro haqidagi 1558-yilgi qaydlarida tilga olingan mamlakatlar qatoriga qaysi biri KIRMAYDI?",
+      "options": [
+        "Hindiston",
+        "Eron",
+        "Ispaniya",
+        "Rossiya"
+      ],
+      "answer": 2,
+      "explain": "Jenkinson Buxoroda Hindiston, Eron, Balx, Rossiya va boshqa mamlakatlardan savdogarlar yig'ilishini qayd etgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Chubi sandal» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Hindistondan keltirilgan kimyoviy modda",
+        "Hindistondan keltirilgan ziravor-bo'yoq",
+        "Yarimetik paypoq (hind molidan)",
+        "Hindistondan keltirilgan sandal daraxti"
+      ],
+      "answer": 3,
+      "explain": "Chubi sandal — Hindistondan keltirilgan sandal daraxti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindistondan keltirilgan sandal daraxti» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Chubi sandal",
+        "Novshadil",
+        "Zarchuba",
+        "Jurob"
+      ],
+      "answer": 0,
+      "explain": "Chubi sandal — Hindistondan keltirilgan sandal daraxti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) ma'lumoti: «Chubi sandal» — Hindistondan keltirilgan sandal daraxti.",
+      "answer": true,
+      "explain": "Chubi sandal — Hindistondan keltirilgan sandal daraxti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Chubi sandal» — «Hindistondan keltirilgan kimyoviy modda» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Chubi sandal — Hindistondan keltirilgan sandal daraxti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindistondan keltirilgan sandal daraxti» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Chubi sandal",
+      "explain": "Chubi sandal — Hindistondan keltirilgan sandal daraxti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Novshadil» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Hindistondan keltirilgan sandal daraxti",
+        "Hindistondan keltirilgan kimyoviy modda",
+        "Hindistondan keltirilgan ziravor-bo'yoq",
+        "Yarimetik paypoq (hind molidan)"
+      ],
+      "answer": 1,
+      "explain": "Novshadil — Hindistondan keltirilgan kimyoviy modda.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindistondan keltirilgan kimyoviy modda» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Chubi sandal",
+        "Zarchuba",
+        "Novshadil",
+        "Jurob"
+      ],
+      "answer": 2,
+      "explain": "Novshadil — Hindistondan keltirilgan kimyoviy modda.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) ma'lumoti: «Novshadil» — Hindistondan keltirilgan kimyoviy modda.",
+      "answer": true,
+      "explain": "Novshadil — Hindistondan keltirilgan kimyoviy modda.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Novshadil» — «Hindistondan keltirilgan ziravor-bo'yoq» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Novshadil — Hindistondan keltirilgan kimyoviy modda.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindistondan keltirilgan kimyoviy modda» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Novshadil",
+      "explain": "Novshadil — Hindistondan keltirilgan kimyoviy modda.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Zarchuba» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Hindistondan keltirilgan sandal daraxti",
+        "Hindistondan keltirilgan kimyoviy modda",
+        "Yarimetik paypoq (hind molidan)",
+        "Hindistondan keltirilgan ziravor-bo'yoq"
+      ],
+      "answer": 3,
+      "explain": "Zarchuba — Hindistondan keltirilgan ziravor-bo'yoq.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindistondan keltirilgan ziravor-bo'yoq» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Zarchuba",
+        "Chubi sandal",
+        "Novshadil",
+        "Jurob"
+      ],
+      "answer": 0,
+      "explain": "Zarchuba — Hindistondan keltirilgan ziravor-bo'yoq.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) ma'lumoti: «Zarchuba» — Hindistondan keltirilgan ziravor-bo'yoq.",
+      "answer": true,
+      "explain": "Zarchuba — Hindistondan keltirilgan ziravor-bo'yoq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Zarchuba» — «Yarimetik paypoq (hind molidan)» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Zarchuba — Hindistondan keltirilgan ziravor-bo'yoq.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindistondan keltirilgan ziravor-bo'yoq» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Zarchuba",
+      "explain": "Zarchuba — Hindistondan keltirilgan ziravor-bo'yoq.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Jurob» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Hindistondan keltirilgan sandal daraxti",
+        "Yarimetik paypoq (hind molidan)",
+        "Hindistondan keltirilgan kimyoviy modda",
+        "Hindistondan keltirilgan ziravor-bo'yoq"
+      ],
+      "answer": 1,
+      "explain": "Jurob — Yarimetik paypoq (hind molidan).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Yarimetik paypoq (hind molidan)» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Chubi sandal",
+        "Novshadil",
+        "Jurob",
+        "Zarchuba"
+      ],
+      "answer": 2,
+      "explain": "Jurob — Yarimetik paypoq (hind molidan).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) ma'lumoti: «Jurob» — Yarimetik paypoq (hind molidan).",
+      "answer": true,
+      "explain": "Jurob — Yarimetik paypoq (hind molidan).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Jurob» — «Hindistondan keltirilgan rangli mato» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Jurob — Yarimetik paypoq (hind molidan).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Yarimetik paypoq (hind molidan)» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Jurob",
+      "explain": "Jurob — Yarimetik paypoq (hind molidan).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Alvon» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Hindistondan keltirilgan sandal daraxti",
+        "Hindistondan keltirilgan kimyoviy modda",
+        "Hindistondan keltirilgan ziravor-bo'yoq",
+        "Hindistondan keltirilgan rangli mato"
+      ],
+      "answer": 3,
+      "explain": "Alvon — Hindistondan keltirilgan rangli mato.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindistondan keltirilgan rangli mato» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Alvon",
+        "Chubi sandal",
+        "Novshadil",
+        "Zarchuba"
+      ],
+      "answer": 0,
+      "explain": "Alvon — Hindistondan keltirilgan rangli mato.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) ma'lumoti: «Alvon» — Hindistondan keltirilgan rangli mato.",
+      "answer": true,
+      "explain": "Alvon — Hindistondan keltirilgan rangli mato.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Alvon» — «Hind savdogarlari keltirgan tosh» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Alvon — Hindistondan keltirilgan rangli mato.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hindistondan keltirilgan rangli mato» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Alvon",
+      "explain": "Alvon — Hindistondan keltirilgan rangli mato.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Haqiq» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Hindistondan keltirilgan sandal daraxti",
+        "Hind savdogarlari keltirgan tosh",
+        "Hindistondan keltirilgan kimyoviy modda",
+        "Hindistondan keltirilgan ziravor-bo'yoq"
+      ],
+      "answer": 1,
+      "explain": "Haqiq — Hind savdogarlari keltirgan tosh.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hind savdogarlari keltirgan tosh» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Chubi sandal",
+        "Novshadil",
+        "Haqiq",
+        "Zarchuba"
+      ],
+      "answer": 2,
+      "explain": "Haqiq — Hind savdogarlari keltirgan tosh.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) ma'lumoti: «Haqiq» — Hind savdogarlari keltirgan tosh.",
+      "answer": true,
+      "explain": "Haqiq — Hind savdogarlari keltirgan tosh.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Haqiq» — «Shayboniy kumush tangasi (5,2 g)» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Haqiq — Hind savdogarlari keltirgan tosh.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Hind savdogarlari keltirgan tosh» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Haqiq",
+      "explain": "Haqiq — Hind savdogarlari keltirgan tosh.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Tanga» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Hindistondan keltirilgan sandal daraxti",
+        "Hindistondan keltirilgan kimyoviy modda",
+        "Hindistondan keltirilgan ziravor-bo'yoq",
+        "Shayboniy kumush tangasi (5,2 g)"
+      ],
+      "answer": 3,
+      "explain": "Tanga — Shayboniy kumush tangasi (5,2 g).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Shayboniy kumush tangasi (5,2 g)» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Tanga",
+        "Chubi sandal",
+        "Novshadil",
+        "Zarchuba"
+      ],
+      "answer": 0,
+      "explain": "Tanga — Shayboniy kumush tangasi (5,2 g).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) ma'lumoti: «Tanga» — Shayboniy kumush tangasi (5,2 g).",
+      "answer": true,
+      "explain": "Tanga — Shayboniy kumush tangasi (5,2 g).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Tanga» — «Mis va kumush aralash tanga» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Tanga — Shayboniy kumush tangasi (5,2 g).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Shayboniy kumush tangasi (5,2 g)» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Tanga",
+      "explain": "Tanga — Shayboniy kumush tangasi (5,2 g).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Dinor» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Hindistondan keltirilgan sandal daraxti",
+        "Mis va kumush aralash tanga",
+        "Hindistondan keltirilgan kimyoviy modda",
+        "Hindistondan keltirilgan ziravor-bo'yoq"
+      ],
+      "answer": 1,
+      "explain": "Dinor — Mis va kumush aralash tanga.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Mis va kumush aralash tanga» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Chubi sandal",
+        "Novshadil",
+        "Dinor",
+        "Zarchuba"
+      ],
+      "answer": 2,
+      "explain": "Dinor — Mis va kumush aralash tanga.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) ma'lumoti: «Dinor» — Mis va kumush aralash tanga.",
+      "answer": true,
+      "explain": "Dinor — Mis va kumush aralash tanga.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Dinor» — «Bog' va poliz yerlari solig'i» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Dinor — Mis va kumush aralash tanga.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Mis va kumush aralash tanga» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Dinor",
+      "explain": "Dinor — Mis va kumush aralash tanga.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Tanob puli» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Hindistondan keltirilgan sandal daraxti",
+        "Hindistondan keltirilgan kimyoviy modda",
+        "Hindistondan keltirilgan ziravor-bo'yoq",
+        "Bog' va poliz yerlari solig'i"
+      ],
+      "answer": 3,
+      "explain": "Tanob puli — Bog' va poliz yerlari solig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Bog' va poliz yerlari solig'i» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Tanob puli",
+        "Chubi sandal",
+        "Novshadil",
+        "Zarchuba"
+      ],
+      "answer": 0,
+      "explain": "Tanob puli — Bog' va poliz yerlari solig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) ma'lumoti: «Tanob puli» — Bog' va poliz yerlari solig'i.",
+      "answer": true,
+      "explain": "Tanob puli — Bog' va poliz yerlari solig'i.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Tanob puli» — «Abdullaxon II davridagi zarbxona shahri» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Tanob puli — Bog' va poliz yerlari solig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Bog' va poliz yerlari solig'i» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Tanob puli",
+      "explain": "Tanob puli — Bog' va poliz yerlari solig'i.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Toshkent» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Hindistondan keltirilgan sandal daraxti",
+        "Abdullaxon II davridagi zarbxona shahri",
+        "Hindistondan keltirilgan kimyoviy modda",
+        "Hindistondan keltirilgan ziravor-bo'yoq"
+      ],
+      "answer": 1,
+      "explain": "Toshkent — Abdullaxon II davridagi zarbxona shahri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Abdullaxon II davridagi zarbxona shahri» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Chubi sandal",
+        "Novshadil",
+        "Toshkent",
+        "Zarchuba"
+      ],
+      "answer": 2,
+      "explain": "Toshkent — Abdullaxon II davridagi zarbxona shahri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) ma'lumoti: «Toshkent» — Abdullaxon II davridagi zarbxona shahri.",
+      "answer": true,
+      "explain": "Toshkent — Abdullaxon II davridagi zarbxona shahri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari) bo'yicha «Toshkent» — «Oltin tanga nomi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Toshkent — Abdullaxon II davridagi zarbxona shahri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Abdullaxon II davridagi zarbxona shahri» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Toshkent",
+      "explain": "Toshkent — Abdullaxon II davridagi zarbxona shahri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Yevropa, Osiyo va Afrikaga sayohat qilib, Amudaryo, Mang'it ulusi, Xorazm va Buxoro haqida ma'lumot yozgan ingliz» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Muhammad Shayboniyxon",
+        "Abdullaxon II",
+        "Zahiriddin Muhammad Bobur",
+        "Antoni Jenkinson"
+      ],
+      "answer": 3,
+      "explain": "Antoni Jenkinson — 1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati. Yevropa, Osiyo va Afrikaga sayohat qilib, Amudaryo, Mang'it ulusi, Xorazm va Buxoro haqida ma'lumot yozgan ingliz",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Antoni Jenkinson — yevropa, Osiyo va Afrikaga sayohat qilib, Amudaryo, Mang'it ulusi, Xorazm va Buxoro haqida ma'lumot yozgan ingliz.",
+      "answer": true,
+      "explain": "Antoni Jenkinson — 1558-yilda Buxoroga kelgan ingliz sayyohi, savdo agenti va diplomati. Yevropa, Osiyo va Afrikaga sayohat qilib, Amudaryo, Mang'it ulusi, Xorazm va Buxoro haqida ma'lumot yozgan ingliz",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «1510-yilgi Buxoro tangalarida o'zini «Eng buyuk sulton» va «O'z davrining imomi» deb yozdirgan xon» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Muhammad Shayboniyxon",
+        "Antoni Jenkinson",
+        "Abdullaxon II",
+        "Zahiriddin Muhammad Bobur"
+      ],
+      "answer": 0,
+      "explain": "Muhammad Shayboniyxon — Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor. 1510-yilgi Buxoro tangalarida o'zini «Eng buyuk sulton» va «O'z davrining imomi» deb yozdirgan xon",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Muhammad Shayboniyxon — 1510-yilgi Buxoro tangalarida o'zini «Eng buyuk sulton» va «O'z davrining imomi» deb yozdirgan xon.",
+      "answer": true,
+      "explain": "Muhammad Shayboniyxon — Bir xil og'irlikdagi 5,2 grammlik kumush tanga va mis tangalar zarb ettirgan hukmdor. 1510-yilgi Buxoro tangalarida o'zini «Eng buyuk sulton» va «O'z davrining imomi» deb yozdirgan xon",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Pul islohoti natijasida kumush tanga qiymati 1,5 barobar oshgan va asosiy zarbxona Buxoro bo'lgan hukmdor» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Antoni Jenkinson",
+        "Abdullaxon II",
+        "Muhammad Shayboniyxon",
+        "Zahiriddin Muhammad Bobur"
+      ],
+      "answer": 1,
+      "explain": "Abdullaxon II — Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon. Pul islohoti natijasida kumush tanga qiymati 1,5 barobar oshgan va asosiy zarbxona Buxoro bo'lgan hukmdor",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Abdullaxon II — pul islohoti natijasida kumush tanga qiymati 1,5 barobar oshgan va asosiy zarbxona Buxoro bo'lgan hukmdor.",
+      "answer": true,
+      "explain": "Abdullaxon II — Kumush tanqisligi davrida juda kichik oltin tanga zarb ettirib, zarbxonani markazlashtirgan xon. Pul islohoti natijasida kumush tanga qiymati 1,5 barobar oshgan va asosiy zarbxona Buxoro bo'lgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): «Samarqandning orasta bozor tizimini «bunaqasi kamdan kam shaharda bo'ladi» deb ta'riflagan alloma» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Antoni Jenkinson",
+        "Muhammad Shayboniyxon",
+        "Zahiriddin Muhammad Bobur",
+        "Abdullaxon II"
+      ],
+      "answer": 2,
+      "explain": "Zahiriddin Muhammad Bobur — «Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif. Samarqandning orasta bozor tizimini «bunaqasi kamdan kam shaharda bo'ladi» deb ta'riflagan alloma",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "6-§ (Shayboniylar savdosi va soliqlari): Zahiriddin Muhammad Bobur — samarqandning orasta bozor tizimini «bunaqasi kamdan kam shaharda bo'ladi» deb ta'riflagan alloma.",
+      "answer": true,
+      "explain": "Zahiriddin Muhammad Bobur — «Boburnoma»da Samarqandda har hunarmandning alohida, aralashmagan bozori borligini yozgan muallif. Samarqandning orasta bozor tizimini «bunaqasi kamdan kam shaharda bo'ladi» deb ta'riflagan alloma",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "Ashrafiy",
+      "Oltin tanga nomi"
+    ],
+    [
+      "Xoniy",
+      "Kumush tanga nomlaridan biri"
+    ],
+    [
+      "Mis dinor",
+      "Mis tanga nomi"
+    ],
+    [
+      "Pul",
+      "Eng kichik mis tanga"
+    ],
+    [
+      "Xiroj",
+      "Asosiy yer solig'i (mol)"
+    ],
+    [
+      "Tanobona",
+      "Tanob va alaf pulining umumiy nomi"
+    ],
+    [
+      "Alaf puli",
+      "Bedazorlardan olinadigan soliq"
+    ],
+    [
+      "Ixrojot",
+      "Saroy va qo'shin ta'minoti soliqlari"
+    ],
+    [
+      "Zakot",
+      "Daromadning 1/40 qismi solig'i"
+    ],
+    [
+      "Tog'ar",
+      "Qo'shin ta'minoti solig'i"
+    ],
+    [
+      "Oshlig'",
+      "Askar oziq-ovqati va ot yem-xashagi"
+    ],
+    [
+      "Rizoyi",
+      "Bir xil rangli hind shol matosi"
+    ],
+    [
+      "Raxdor",
+      "Yo'l-yo'l naqshli shol matosi"
+    ],
+    [
+      "Butador",
+      "Palma tasvirli shol matosi"
+    ],
+    [
+      "Chubi sandal",
+      "Hindistondan keltirilgan sandal daraxti"
+    ],
+    [
+      "Novshadil",
+      "Hindistondan keltirilgan kimyoviy modda"
+    ],
+    [
+      "Zarchuba",
+      "Hindistondan keltirilgan ziravor-bo'yoq"
+    ],
+    [
+      "Jurob",
+      "Yarimetik paypoq (hind molidan)"
+    ],
+    [
+      "Alvon",
+      "Hindistondan keltirilgan rangli mato"
+    ],
+    [
+      "Haqiq",
+      "Hind savdogarlari keltirgan tosh"
+    ],
+    [
+      "Tanga",
+      "Shayboniy kumush tangasi (5,2 g)"
+    ],
+    [
+      "Dinor",
+      "Mis va kumush aralash tanga"
+    ],
+    [
+      "Tanob puli",
+      "Bog' va poliz yerlari solig'i"
+    ],
+    [
+      "Toshkent",
+      "Abdullaxon II davridagi zarbxona shahri"
+    ],
+    [
+      "Antoni Jenkinson",
+      "1558-yilda Buxoroga kelgan ingliz diplomati"
+    ],
+    [
+      "Muhammad Shayboniyxon",
+      "5,2 g kumush tanga zarb ettirgan xon"
+    ],
+    [
+      "Abdullaxon II",
+      "Zarbni Buxoroda markazlashtirgan xon"
+    ],
+    [
+      "Zahiriddin Muhammad Bobur",
+      "Samarqand bozorlarini maqtagan muallif"
+    ]
+  ]
+}

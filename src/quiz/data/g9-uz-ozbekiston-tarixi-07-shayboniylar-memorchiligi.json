@@ -1,0 +1,2614 @@
+{
+  "id": "g9-uz-ozbekiston-tarixi-07-shayboniylar-memorchiligi",
+  "subjectId": "g9-uz-ozbekiston-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "O'zbekiston tarixi",
+  "topicTitle": "8-§. Shayboniylar davri me'morchiligi",
+  "title": "8-§. Shayboniylar davri me'morchiligi",
+  "source": "O'zbekiston tarixi 9-sinf (2024), 8-§, 35–42-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): qaysi yilda shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan?",
+      "options": [
+        "1500-yil",
+        "1530-yil",
+        "1531-yil",
+        "1536-yil"
+      ],
+      "answer": 0,
+      "explain": "1500-yilda shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) tarixida 1500-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan",
+        "shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan",
+        "yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan"
+      ],
+      "answer": 1,
+      "explain": "1500-yilda shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi) davrida ____-yilda shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan. (Yilni kiriting)",
+      "answer": [
+        "1500",
+        "1500-yil",
+        "1500-yilda"
+      ],
+      "explain": "1500-yilda shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): 1500-yilda shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan.",
+      "answer": true,
+      "explain": "1500-yilda shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha 1512-yilda shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1500-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): qaysi yilda buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan?",
+      "options": [
+        "1500-yil",
+        "1531-yil",
+        "1530-yil",
+        "1536-yil"
+      ],
+      "answer": 2,
+      "explain": "1530-yilda buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) tarixida 1530-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan",
+        "yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan",
+        "Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan"
+      ],
+      "answer": 3,
+      "explain": "1530-yilda buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi) davrida ____-yilda buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan. (Yilni kiriting)",
+      "answer": [
+        "1530",
+        "1530-yil",
+        "1530-yilda"
+      ],
+      "explain": "1530-yilda buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): 1530-yilda buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan.",
+      "answer": true,
+      "explain": "1530-yilda buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha 1519-yilda buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1530-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): qaysi yilda toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan?",
+      "options": [
+        "1531-yil",
+        "1500-yil",
+        "1530-yil",
+        "1536-yil"
+      ],
+      "answer": 0,
+      "explain": "1531-yilda toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) tarixida 1531-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan",
+        "Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan",
+        "yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan"
+      ],
+      "answer": 1,
+      "explain": "1531-yilda toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi) davrida ____-yilda toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan. (Yilni kiriting)",
+      "answer": [
+        "1531",
+        "1531-yil",
+        "1531-yilda"
+      ],
+      "explain": "1531-yilda toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): 1531-yilda toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan.",
+      "answer": true,
+      "explain": "1531-yilda toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha 1543-yilda toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1531-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): qaysi yilda yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan?",
+      "options": [
+        "1500-yil",
+        "1530-yil",
+        "1536-yil",
+        "1531-yil"
+      ],
+      "answer": 2,
+      "explain": "1536-yilda yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) tarixida 1536-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan",
+        "Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan",
+        "yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan"
+      ],
+      "answer": 3,
+      "explain": "1536-yilda yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi) davrida ____-yilda yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan. (Yilni kiriting)",
+      "answer": [
+        "1536",
+        "1536-yil",
+        "1536-yilda"
+      ],
+      "explain": "1536-yilda yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): 1536-yilda yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan.",
+      "answer": true,
+      "explain": "1536-yilda yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha 1525-yilda yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1536-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): qaysi yilda toshkentda Ko'kaldosh madrasasi qurilishi (1551–1575) boshlangan?",
+      "options": [
+        "1551-yil",
+        "1500-yil",
+        "1530-yil",
+        "1531-yil"
+      ],
+      "answer": 0,
+      "explain": "1551-yilda toshkentda Ko'kaldosh madrasasi qurilishi (1551–1575) boshlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) tarixida 1551-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "Toshkentda Ko'kaldosh madrasasi qurilishi (1551–1575) boshlangan",
+        "Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan",
+        "Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan"
+      ],
+      "answer": 1,
+      "explain": "1551-yilda toshkentda Ko'kaldosh madrasasi qurilishi (1551–1575) boshlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi) davrida ____-yilda toshkentda Ko'kaldosh madrasasi qurilishi (1551–1575) boshlangan. (Yilni kiriting)",
+      "answer": [
+        "1551",
+        "1551-yil",
+        "1551-yilda"
+      ],
+      "explain": "1551-yilda toshkentda Ko'kaldosh madrasasi qurilishi (1551–1575) boshlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): 1551-yilda toshkentda Ko'kaldosh madrasasi qurilishi (1551–1575) boshlangan.",
+      "answer": true,
+      "explain": "1551-yilda toshkentda Ko'kaldosh madrasasi qurilishi (1551–1575) boshlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha 1563-yilda toshkentda Ko'kaldosh madrasasi qurilishi (1551–1575) boshlangan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1551-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): qaysi yilda antoni Jenkinson Buxoro hammomlarini «bunaqasi dunyoning hech qayerida yo'q» deb ta'riflagan?",
+      "options": [
+        "1500-yil",
+        "1530-yil",
+        "1558-yil",
+        "1531-yil"
+      ],
+      "answer": 2,
+      "explain": "1558-yilda antoni Jenkinson Buxoro hammomlarini «bunaqasi dunyoning hech qayerida yo'q» deb ta'riflagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) tarixida 1558-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan",
+        "Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan",
+        "Antoni Jenkinson Buxoro hammomlarini «bunaqasi dunyoning hech qayerida yo'q» deb ta'riflagan"
+      ],
+      "answer": 3,
+      "explain": "1558-yilda antoni Jenkinson Buxoro hammomlarini «bunaqasi dunyoning hech qayerida yo'q» deb ta'riflagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi) davrida ____-yilda antoni Jenkinson Buxoro hammomlarini «bunaqasi dunyoning hech qayerida yo'q» deb ta'riflagan. (Yilni kiriting)",
+      "answer": [
+        "1558",
+        "1558-yil",
+        "1558-yilda"
+      ],
+      "explain": "1558-yilda antoni Jenkinson Buxoro hammomlarini «bunaqasi dunyoning hech qayerida yo'q» deb ta'riflagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): 1558-yilda antoni Jenkinson Buxoro hammomlarini «bunaqasi dunyoning hech qayerida yo'q» deb ta'riflagan.",
+      "answer": true,
+      "explain": "1558-yilda antoni Jenkinson Buxoro hammomlarini «bunaqasi dunyoning hech qayerida yo'q» deb ta'riflagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha 1547-yilda antoni Jenkinson Buxoro hammomlarini «bunaqasi dunyoning hech qayerida yo'q» deb ta'riflagan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1558-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): qaysi yilda toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan?",
+      "options": [
+        "1575-yil",
+        "1500-yil",
+        "1530-yil",
+        "1531-yil"
+      ],
+      "answer": 0,
+      "explain": "1575-yilda toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) tarixida 1575-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "Toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan",
+        "Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan",
+        "Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan"
+      ],
+      "answer": 1,
+      "explain": "1575-yilda toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi) davrida ____-yilda toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan. (Yilni kiriting)",
+      "answer": [
+        "1575",
+        "1575-yil",
+        "1575-yilda"
+      ],
+      "explain": "1575-yilda toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): 1575-yilda toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan.",
+      "answer": true,
+      "explain": "1575-yilda toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha 1587-yilda toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1575-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): qaysi yilda shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan?",
+      "options": [
+        "1500-yil",
+        "1530-yil",
+        "1601-yil",
+        "1531-yil"
+      ],
+      "answer": 2,
+      "explain": "1601-yilda shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) tarixida 1601-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan",
+        "Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan",
+        "shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan"
+      ],
+      "answer": 3,
+      "explain": "1601-yilda shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi) davrida ____-yilda shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan. (Yilni kiriting)",
+      "answer": [
+        "1601",
+        "1601-yil",
+        "1601-yilda"
+      ],
+      "explain": "1601-yilda shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): 1601-yilda shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan.",
+      "answer": true,
+      "explain": "1601-yilda shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha 1590-yilda shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1601-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan",
+        "Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan",
+        "yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan"
+      ],
+      "answer": 0,
+      "explain": "Eng avvalgi voqea — «shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan» (1500).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+      "options": [
+        "shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan",
+        "Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan",
+        "Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan"
+      ],
+      "answer": 1,
+      "explain": "Eng keyingi voqea — «yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan» (1536).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (8-§ (Shayboniylar me'morchiligi)): «shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan» voqeasi «Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan» voqeasidan oldin sodir bo'lgan.",
+      "answer": true,
+      "explain": "1500 < 1530, shu sababli fikr to'g'ri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (8-§ (Shayboniylar me'morchiligi)): «yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan» voqeasi «Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan» voqeasidan oldin sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan (1531) yil boshida Mir Arab vafot etib, qurilishni kuyovi Shayx Zakariyo yakunlagan (1536) voqeasidan oldin ro'y bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (8-§ (Shayboniylar me'morchiligi)): «Toshkentda Ko'kaldosh madrasasi qurilishi (1551–1575) boshlangan» voqeasi «Antoni Jenkinson Buxoro hammomlarini «bunaqasi dunyoning hech qayerida yo'q» deb ta'riflagan» voqeasidan oldin sodir bo'lgan.",
+      "answer": true,
+      "explain": "1551 < 1558, shu sababli fikr to'g'ri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (8-§ (Shayboniylar me'morchiligi)): «shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan» voqeasi «Toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan» voqeasidan oldin sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: Toshkentdagi 38 hujrali Ko'kaldosh madrasasi qurib ishga tushirilgan (1575) shayboniylar sulolasining 100 yillik (1500–1601) hukmronligi nihoyasiga yetgan (1601) voqeasidan oldin ro'y bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): quyidagi uch voqeaning to'g'ri xronologik ketma-ketligini aniqlang.",
+      "options": [
+        "1) Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan; 2) shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan; 3) Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan",
+        "1) Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan; 2) Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan; 3) shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan",
+        "1) shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan; 2) Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan; 3) Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan",
+        "1) shayboniylar Markaziy Osiyoda 100 yillik (1500–1601) hukmronlik davrini boshlagan; 2) Toshkentda Baroqxon madrasasi qurilishi (1531–1532) boshlangan; 3) Buxoroda Mir Arab madrasasi qurilishi (1530–1536) boshlangan"
+      ],
+      "answer": 2,
+      "explain": "To'g'ri xronologiya: 1500 -> 1530 -> 1531.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Muhammad Bakr",
+        "Shayx Zakariyo",
+        "Baroqxon"
+      ],
+      "answer": 0,
+      "explain": "Mir Arab (Sayyid Abdulloh Yamaniy) — Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx. 22 yoshida Samarqandga kelib Xoja Ahror Valiyga shogird tushgan va Ubaydullaxon bilan tanishgan olim",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Mir Arab (Sayyid Abdulloh Yamaniy) tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li",
+        "Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx",
+        "1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov",
+        "Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li"
+      ],
+      "answer": 1,
+      "explain": "Mir Arab (Sayyid Abdulloh Yamaniy) — Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx. 22 yoshida Samarqandga kelib Xoja Ahror Valiyga shogird tushgan va Ubaydullaxon bilan tanishgan olim",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): 22 yoshida Samarqandga kelib Xoja Ahror Valiyga shogird tushgan va Ubaydullaxon bilan tanishgan olim — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Mir Arab",
+        "Sayyid Abdulloh Yamaniy"
+      ],
+      "explain": "Mir Arab (Sayyid Abdulloh Yamaniy) — Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx. 22 yoshida Samarqandga kelib Xoja Ahror Valiyga shogird tushgan va Ubaydullaxon bilan tanishgan olim",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) shaxslari: Mir Arab (Sayyid Abdulloh Yamaniy) — Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx.",
+      "answer": true,
+      "explain": "Mir Arab (Sayyid Abdulloh Yamaniy) — Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx. 22 yoshida Samarqandga kelib Xoja Ahror Valiyga shogird tushgan va Ubaydullaxon bilan tanishgan olim",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx» ta'rifi Muhammad Bakr faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Mir Arab (Sayyid Abdulloh Yamaniy) haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Shayx Zakariyo",
+        "Muhammad Bakr",
+        "Baroqxon"
+      ],
+      "answer": 2,
+      "explain": "Muhammad Bakr — Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li. Mir Arabning Buxoro amiri Ubaydullaxon bilan yaqinlashishiga sababchi bo'lgan tarixiy shaxs",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Muhammad Bakr tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx",
+        "1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov",
+        "Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li",
+        "Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li"
+      ],
+      "answer": 3,
+      "explain": "Muhammad Bakr — Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li. Mir Arabning Buxoro amiri Ubaydullaxon bilan yaqinlashishiga sababchi bo'lgan tarixiy shaxs",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Mir Arabning Buxoro amiri Ubaydullaxon bilan yaqinlashishiga sababchi bo'lgan tarixiy shaxs — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Muhammad Bakr"
+      ],
+      "explain": "Muhammad Bakr — Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li. Mir Arabning Buxoro amiri Ubaydullaxon bilan yaqinlashishiga sababchi bo'lgan tarixiy shaxs",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) shaxslari: Muhammad Bakr — Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li.",
+      "answer": true,
+      "explain": "Muhammad Bakr — Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li. Mir Arabning Buxoro amiri Ubaydullaxon bilan yaqinlashishiga sababchi bo'lgan tarixiy shaxs",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li» ta'rifi Mir Arab (Sayyid Abdulloh Yamaniy) faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Muhammad Bakr haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): 1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Shayx Zakariyo",
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Muhammad Bakr",
+        "Baroqxon"
+      ],
+      "answer": 0,
+      "explain": "Shayx Zakariyo — 1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov. Mir Arab madrasasi qurilishini yakunlagan merosxo'r me'mor va shayx",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Shayx Zakariyo tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx",
+        "1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov",
+        "Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li",
+        "Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li"
+      ],
+      "answer": 1,
+      "explain": "Shayx Zakariyo — 1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov. Mir Arab madrasasi qurilishini yakunlagan merosxo'r me'mor va shayx",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Mir Arab madrasasi qurilishini yakunlagan merosxo'r me'mor va shayx — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Shayx Zakariyo"
+      ],
+      "explain": "Shayx Zakariyo — 1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov. Mir Arab madrasasi qurilishini yakunlagan merosxo'r me'mor va shayx",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) shaxslari: Shayx Zakariyo — 1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov.",
+      "answer": true,
+      "explain": "Shayx Zakariyo — 1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov. Mir Arab madrasasi qurilishini yakunlagan merosxo'r me'mor va shayx",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): «1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov» ta'rifi Mir Arab (Sayyid Abdulloh Yamaniy) faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Shayx Zakariyo haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Muhammad Bakr",
+        "Baroqxon",
+        "Shayx Zakariyo"
+      ],
+      "answer": 2,
+      "explain": "Baroqxon — Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li. 1531–1532-yillarda Toshkentda ikki maqbarani o'z ichiga olgan madrasa bunyod ettirgan xon",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Baroqxon tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx",
+        "Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li",
+        "1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov",
+        "Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li"
+      ],
+      "answer": 3,
+      "explain": "Baroqxon — Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li. 1531–1532-yillarda Toshkentda ikki maqbarani o'z ichiga olgan madrasa bunyod ettirgan xon",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): 1531–1532-yillarda Toshkentda ikki maqbarani o'z ichiga olgan madrasa bunyod ettirgan xon — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Baroqxon"
+      ],
+      "explain": "Baroqxon — Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li. 1531–1532-yillarda Toshkentda ikki maqbarani o'z ichiga olgan madrasa bunyod ettirgan xon",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) shaxslari: Baroqxon — Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li.",
+      "answer": true,
+      "explain": "Baroqxon — Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li. 1531–1532-yillarda Toshkentda ikki maqbarani o'z ichiga olgan madrasa bunyod ettirgan xon",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li» ta'rifi Mir Arab (Sayyid Abdulloh Yamaniy) faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Baroqxon haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Buxoroda Toqi Zargaron hamda onasi madrasasi bilan «qo'sh» shaklidagi Abdullaxon madrasasini qurdirgan xon sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Abdullaxon II",
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Muhammad Bakr",
+        "Shayx Zakariyo"
+      ],
+      "answer": 0,
+      "explain": "Abdullaxon II — Buxoroda Toqi Zargaron hamda onasi madrasasi bilan «qo'sh» shaklidagi Abdullaxon madrasasini qurdirgan xon. Darvozasi xotamkori uslubida terilgan mashhur madrasa va zargarlik toqini barpo ettirgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Abdullaxon II tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx",
+        "Buxoroda Toqi Zargaron hamda onasi madrasasi bilan «qo'sh» shaklidagi Abdullaxon madrasasini qurdirgan xon",
+        "Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li",
+        "1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov"
+      ],
+      "answer": 1,
+      "explain": "Abdullaxon II — Buxoroda Toqi Zargaron hamda onasi madrasasi bilan «qo'sh» shaklidagi Abdullaxon madrasasini qurdirgan xon. Darvozasi xotamkori uslubida terilgan mashhur madrasa va zargarlik toqini barpo ettirgan hukmdor",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Darvozasi xotamkori uslubida terilgan mashhur madrasa va zargarlik toqini barpo ettirgan hukmdor — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Abdullaxon II"
+      ],
+      "explain": "Abdullaxon II — Buxoroda Toqi Zargaron hamda onasi madrasasi bilan «qo'sh» shaklidagi Abdullaxon madrasasini qurdirgan xon. Darvozasi xotamkori uslubida terilgan mashhur madrasa va zargarlik toqini barpo ettirgan hukmdor",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) shaxslari: Abdullaxon II — Buxoroda Toqi Zargaron hamda onasi madrasasi bilan «qo'sh» shaklidagi Abdullaxon madrasasini qurdirgan xon.",
+      "answer": true,
+      "explain": "Abdullaxon II — Buxoroda Toqi Zargaron hamda onasi madrasasi bilan «qo'sh» shaklidagi Abdullaxon madrasasini qurdirgan xon. Darvozasi xotamkori uslubida terilgan mashhur madrasa va zargarlik toqini barpo ettirgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Buxoroda Toqi Zargaron hamda onasi madrasasi bilan «qo'sh» shaklidagi Abdullaxon madrasasini qurdirgan xon» ta'rifi Mir Arab (Sayyid Abdulloh Yamaniy) faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Abdullaxon II haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Mir Arab madrasasi go'rxonasida yog'ochdan xotamkori usulida ishlangan sag'anasi qo'yilgan amir sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Muhammad Bakr",
+        "Ubaydullaxon",
+        "Shayx Zakariyo"
+      ],
+      "answer": 2,
+      "explain": "Ubaydullaxon — Mir Arab madrasasi go'rxonasida yog'ochdan xotamkori usulida ishlangan sag'anasi qo'yilgan amir. Sayyid Abdulloh Yamaniyni Buxoroda qo'llab-quvvatlagan va o'sha madrasada dafn etilgan hukmdor",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): Ubaydullaxon tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx",
+        "Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li",
+        "1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov",
+        "Mir Arab madrasasi go'rxonasida yog'ochdan xotamkori usulida ishlangan sag'anasi qo'yilgan amir"
+      ],
+      "answer": 3,
+      "explain": "Ubaydullaxon — Mir Arab madrasasi go'rxonasida yog'ochdan xotamkori usulida ishlangan sag'anasi qo'yilgan amir. Sayyid Abdulloh Yamaniyni Buxoroda qo'llab-quvvatlagan va o'sha madrasada dafn etilgan hukmdor",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Sayyid Abdulloh Yamaniyni Buxoroda qo'llab-quvvatlagan va o'sha madrasada dafn etilgan hukmdor — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Ubaydullaxon"
+      ],
+      "explain": "Ubaydullaxon — Mir Arab madrasasi go'rxonasida yog'ochdan xotamkori usulida ishlangan sag'anasi qo'yilgan amir. Sayyid Abdulloh Yamaniyni Buxoroda qo'llab-quvvatlagan va o'sha madrasada dafn etilgan hukmdor",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) shaxslari: Ubaydullaxon — Mir Arab madrasasi go'rxonasida yog'ochdan xotamkori usulida ishlangan sag'anasi qo'yilgan amir.",
+      "answer": true,
+      "explain": "Ubaydullaxon — Mir Arab madrasasi go'rxonasida yog'ochdan xotamkori usulida ishlangan sag'anasi qo'yilgan amir. Sayyid Abdulloh Yamaniyni Buxoroda qo'llab-quvvatlagan va o'sha madrasada dafn etilgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Mir Arab madrasasi go'rxonasida yog'ochdan xotamkori usulida ishlangan sag'anasi qo'yilgan amir» ta'rifi Mir Arab (Sayyid Abdulloh Yamaniy) faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Ubaydullaxon haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Toqi Sarrofon» tushunchasi nimani anglatadi?",
+      "options": [
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak",
+        "Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi"
+      ],
+      "answer": 0,
+      "explain": "Toqi Sarrofon — Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Ko'kaldosh",
+        "Toqi Sarrofon",
+        "Qafasa",
+        "Miyonsaroy"
+      ],
+      "answer": 1,
+      "explain": "Toqi Sarrofon — Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Toqi Sarrofon"
+      ],
+      "explain": "Toqi Sarrofon — Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Toqi Sarrofon» — Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi.",
+      "answer": true,
+      "explain": "Toqi Sarrofon — Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Toqi Sarrofon» tushunchasi «Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Toqi Sarrofon» — Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Ko'kaldosh» tushunchasi nimani anglatadi?",
+      "options": [
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi"
+      ],
+      "answer": 2,
+      "explain": "Ko'kaldosh — Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Qafasa",
+        "Miyonsaroy",
+        "Ko'kaldosh"
+      ],
+      "answer": 3,
+      "explain": "Ko'kaldosh — Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Ko'kaldosh"
+      ],
+      "explain": "Ko'kaldosh — Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Ko'kaldosh» — Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa.",
+      "answer": true,
+      "explain": "Ko'kaldosh — Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Ko'kaldosh» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Ko'kaldosh» — Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Qafasa» tushunchasi nimani anglatadi?",
+      "options": [
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak",
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi"
+      ],
+      "answer": 0,
+      "explain": "Qafasa — Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Qafasa",
+        "Ko'kaldosh",
+        "Miyonsaroy"
+      ],
+      "answer": 1,
+      "explain": "Qafasa — Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Qafasa"
+      ],
+      "explain": "Qafasa — Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Qafasa» — Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak.",
+      "answer": true,
+      "explain": "Qafasa — Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Qafasa» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Qafasa» — Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Miyonsaroy» tushunchasi nimani anglatadi?",
+      "options": [
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 2,
+      "explain": "Miyonsaroy — Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Ko'kaldosh",
+        "Qafasa",
+        "Miyonsaroy"
+      ],
+      "answer": 3,
+      "explain": "Miyonsaroy — Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Miyonsaroy"
+      ],
+      "explain": "Miyonsaroy — Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Miyonsaroy» — Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi.",
+      "answer": true,
+      "explain": "Miyonsaroy — Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Miyonsaroy» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Miyonsaroy» — Mir Arab madrasasida darvoza orqasida joylashgan 5 gumbazli kirish xonasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Xotamkori» tushunchasi nimani anglatadi?",
+      "options": [
+        "Girih shaklli mayda yog'och parchalaridan qadama usulida bezak va sag'ana yasash san'ati",
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 0,
+      "explain": "Xotamkori — Girih shaklli mayda yog'och parchalaridan qadama usulida bezak va sag'ana yasash san'ati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Girih shaklli mayda yog'och parchalaridan qadama usulida bezak va sag'ana yasash san'ati» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Xotamkori",
+        "Ko'kaldosh",
+        "Qafasa"
+      ],
+      "answer": 1,
+      "explain": "Xotamkori — Girih shaklli mayda yog'och parchalaridan qadama usulida bezak va sag'ana yasash san'ati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Girih shaklli mayda yog'och parchalaridan qadama usulida bezak va sag'ana yasash san'ati — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Xotamkori"
+      ],
+      "explain": "Xotamkori — Girih shaklli mayda yog'och parchalaridan qadama usulida bezak va sag'ana yasash san'ati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Xotamkori» — Girih shaklli mayda yog'och parchalaridan qadama usulida bezak va sag'ana yasash san'ati.",
+      "answer": true,
+      "explain": "Xotamkori — Girih shaklli mayda yog'och parchalaridan qadama usulida bezak va sag'ana yasash san'ati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Xotamkori» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Xotamkori» — Girih shaklli mayda yog'och parchalaridan qadama usulida bezak va sag'ana yasash san'ati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Toqi Zargaron» tushunchasi nimani anglatadi?",
+      "options": [
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Ulug'bek madrasasi yonida 36 ta zargarlik ustaxonasi bo'lgan sakkiz burchakli savdo gumbazi",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 2,
+      "explain": "Toqi Zargaron — Ulug'bek madrasasi yonida 36 ta zargarlik ustaxonasi bo'lgan sakkiz burchakli savdo gumbazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Ulug'bek madrasasi yonida 36 ta zargarlik ustaxonasi bo'lgan sakkiz burchakli savdo gumbazi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Ko'kaldosh",
+        "Qafasa",
+        "Toqi Zargaron"
+      ],
+      "answer": 3,
+      "explain": "Toqi Zargaron — Ulug'bek madrasasi yonida 36 ta zargarlik ustaxonasi bo'lgan sakkiz burchakli savdo gumbazi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Ulug'bek madrasasi yonida 36 ta zargarlik ustaxonasi bo'lgan sakkiz burchakli savdo gumbazi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Toqi Zargaron"
+      ],
+      "explain": "Toqi Zargaron — Ulug'bek madrasasi yonida 36 ta zargarlik ustaxonasi bo'lgan sakkiz burchakli savdo gumbazi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Toqi Zargaron» — Ulug'bek madrasasi yonida 36 ta zargarlik ustaxonasi bo'lgan sakkiz burchakli savdo gumbazi.",
+      "answer": true,
+      "explain": "Toqi Zargaron — Ulug'bek madrasasi yonida 36 ta zargarlik ustaxonasi bo'lgan sakkiz burchakli savdo gumbazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Toqi Zargaron» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Toqi Zargaron» — Ulug'bek madrasasi yonida 36 ta zargarlik ustaxonasi bo'lgan sakkiz burchakli savdo gumbazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Qo'sh uslub» tushunchasi nimani anglatadi?",
+      "options": [
+        "Abdullaxon madrasasi bilan ro'paradagi Modarixon madrasasining yagona me'moriy ko'rinishi",
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 0,
+      "explain": "Qo'sh uslub — Abdullaxon madrasasi bilan ro'paradagi Modarixon madrasasining yagona me'moriy ko'rinishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Abdullaxon madrasasi bilan ro'paradagi Modarixon madrasasining yagona me'moriy ko'rinishi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Qo'sh uslub",
+        "Ko'kaldosh",
+        "Qafasa"
+      ],
+      "answer": 1,
+      "explain": "Qo'sh uslub — Abdullaxon madrasasi bilan ro'paradagi Modarixon madrasasining yagona me'moriy ko'rinishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Abdullaxon madrasasi bilan ro'paradagi Modarixon madrasasining yagona me'moriy ko'rinishi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Qo'sh uslub"
+      ],
+      "explain": "Qo'sh uslub — Abdullaxon madrasasi bilan ro'paradagi Modarixon madrasasining yagona me'moriy ko'rinishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Qo'sh uslub» — Abdullaxon madrasasi bilan ro'paradagi Modarixon madrasasining yagona me'moriy ko'rinishi.",
+      "answer": true,
+      "explain": "Qo'sh uslub — Abdullaxon madrasasi bilan ro'paradagi Modarixon madrasasining yagona me'moriy ko'rinishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Qo'sh uslub» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Qo'sh uslub» — Abdullaxon madrasasi bilan ro'paradagi Modarixon madrasasining yagona me'moriy ko'rinishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Qir» tushunchasi nimani anglatadi?",
+      "options": [
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Buxorodagi Abdullaxon madrasasi qurilishida ishlatilgan maxsus qotishma",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 2,
+      "explain": "Qir — Buxorodagi Abdullaxon madrasasi qurilishida ishlatilgan maxsus qotishma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Buxorodagi Abdullaxon madrasasi qurilishida ishlatilgan maxsus qotishma» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Ko'kaldosh",
+        "Qafasa",
+        "Qir"
+      ],
+      "answer": 3,
+      "explain": "Qir — Buxorodagi Abdullaxon madrasasi qurilishida ishlatilgan maxsus qotishma.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Buxorodagi Abdullaxon madrasasi qurilishida ishlatilgan maxsus qotishma — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Qir"
+      ],
+      "explain": "Qir — Buxorodagi Abdullaxon madrasasi qurilishida ishlatilgan maxsus qotishma.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Qir» — Buxorodagi Abdullaxon madrasasi qurilishida ishlatilgan maxsus qotishma.",
+      "answer": true,
+      "explain": "Qir — Buxorodagi Abdullaxon madrasasi qurilishida ishlatilgan maxsus qotishma.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Qir» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Qir» — Buxorodagi Abdullaxon madrasasi qurilishida ishlatilgan maxsus qotishma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Garmoba» tushunchasi nimani anglatadi?",
+      "options": [
+        "O'rta asrlarda Buxoro hammomlarining umumiy tarixiy nomi",
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 0,
+      "explain": "Garmoba — O'rta asrlarda Buxoro hammomlarining umumiy tarixiy nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «O'rta asrlarda Buxoro hammomlarining umumiy tarixiy nomi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Garmoba",
+        "Ko'kaldosh",
+        "Qafasa"
+      ],
+      "answer": 1,
+      "explain": "Garmoba — O'rta asrlarda Buxoro hammomlarining umumiy tarixiy nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): O'rta asrlarda Buxoro hammomlarining umumiy tarixiy nomi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Garmoba"
+      ],
+      "explain": "Garmoba — O'rta asrlarda Buxoro hammomlarining umumiy tarixiy nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Garmoba» — O'rta asrlarda Buxoro hammomlarining umumiy tarixiy nomi.",
+      "answer": true,
+      "explain": "Garmoba — O'rta asrlarda Buxoro hammomlarining umumiy tarixiy nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Garmoba» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Garmoba» — O'rta asrlarda Buxoro hammomlarining umumiy tarixiy nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Go'lax» tushunchasi nimani anglatadi?",
+      "options": [
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Buxoro hammomlari yerosti qismidagi chuqurlikda joylashgan olovxona",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 2,
+      "explain": "Go'lax — Buxoro hammomlari yerosti qismidagi chuqurlikda joylashgan olovxona.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Buxoro hammomlari yerosti qismidagi chuqurlikda joylashgan olovxona» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Ko'kaldosh",
+        "Qafasa",
+        "Go'lax"
+      ],
+      "answer": 3,
+      "explain": "Go'lax — Buxoro hammomlari yerosti qismidagi chuqurlikda joylashgan olovxona.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Buxoro hammomlari yerosti qismidagi chuqurlikda joylashgan olovxona — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Go'lax"
+      ],
+      "explain": "Go'lax — Buxoro hammomlari yerosti qismidagi chuqurlikda joylashgan olovxona.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Go'lax» — Buxoro hammomlari yerosti qismidagi chuqurlikda joylashgan olovxona.",
+      "answer": true,
+      "explain": "Go'lax — Buxoro hammomlari yerosti qismidagi chuqurlikda joylashgan olovxona.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Go'lax» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Go'lax» — Buxoro hammomlari yerosti qismidagi chuqurlikda joylashgan olovxona.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Sovuqxona» tushunchasi nimani anglatadi?",
+      "options": [
+        "Buxoro hammomlarida yarim metr balandlikdagi marmartosh supali oyoq yuviladigan birinchi xona",
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 0,
+      "explain": "Sovuqxona — Buxoro hammomlarida yarim metr balandlikdagi marmartosh supali oyoq yuviladigan birinchi xona.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Buxoro hammomlarida yarim metr balandlikdagi marmartosh supali oyoq yuviladigan birinchi xona» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Sovuqxona",
+        "Ko'kaldosh",
+        "Qafasa"
+      ],
+      "answer": 1,
+      "explain": "Sovuqxona — Buxoro hammomlarida yarim metr balandlikdagi marmartosh supali oyoq yuviladigan birinchi xona.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Buxoro hammomlarida yarim metr balandlikdagi marmartosh supali oyoq yuviladigan birinchi xona — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Sovuqxona"
+      ],
+      "explain": "Sovuqxona — Buxoro hammomlarida yarim metr balandlikdagi marmartosh supali oyoq yuviladigan birinchi xona.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Sovuqxona» — Buxoro hammomlarida yarim metr balandlikdagi marmartosh supali oyoq yuviladigan birinchi xona.",
+      "answer": true,
+      "explain": "Sovuqxona — Buxoro hammomlarida yarim metr balandlikdagi marmartosh supali oyoq yuviladigan birinchi xona.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Sovuqxona» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Sovuqxona» — Buxoro hammomlarida yarim metr balandlikdagi marmartosh supali oyoq yuviladigan birinchi xona.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Kunjak» tushunchasi nimani anglatadi?",
+      "options": [
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "XVI asrda Buxoroda qurilgan va hali-hamon xizmat qilayotgan ayollar hammomi (Hammomi Kunjak)",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 2,
+      "explain": "Kunjak — XVI asrda Buxoroda qurilgan va hali-hamon xizmat qilayotgan ayollar hammomi (Hammomi Kunjak).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «XVI asrda Buxoroda qurilgan va hali-hamon xizmat qilayotgan ayollar hammomi (Hammomi Kunjak)» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Ko'kaldosh",
+        "Qafasa",
+        "Kunjak"
+      ],
+      "answer": 3,
+      "explain": "Kunjak — XVI asrda Buxoroda qurilgan va hali-hamon xizmat qilayotgan ayollar hammomi (Hammomi Kunjak).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): XVI asrda Buxoroda qurilgan va hali-hamon xizmat qilayotgan ayollar hammomi (Hammomi Kunjak) — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Kunjak"
+      ],
+      "explain": "Kunjak — XVI asrda Buxoroda qurilgan va hali-hamon xizmat qilayotgan ayollar hammomi (Hammomi Kunjak).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Kunjak» — XVI asrda Buxoroda qurilgan va hali-hamon xizmat qilayotgan ayollar hammomi (Hammomi Kunjak).",
+      "answer": true,
+      "explain": "Kunjak — XVI asrda Buxoroda qurilgan va hali-hamon xizmat qilayotgan ayollar hammomi (Hammomi Kunjak).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Kunjak» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Kunjak» — XVI asrda Buxoroda qurilgan va hali-hamon xizmat qilayotgan ayollar hammomi (Hammomi Kunjak).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Bozori kord» tushunchasi nimani anglatadi?",
+      "options": [
+        "XVI asrda Buxoroda qurilgan va hozirgacha ishlab turgan erkaklar hammomi",
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 0,
+      "explain": "Bozori kord — XVI asrda Buxoroda qurilgan va hozirgacha ishlab turgan erkaklar hammomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «XVI asrda Buxoroda qurilgan va hozirgacha ishlab turgan erkaklar hammomi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Bozori kord",
+        "Ko'kaldosh",
+        "Qafasa"
+      ],
+      "answer": 1,
+      "explain": "Bozori kord — XVI asrda Buxoroda qurilgan va hozirgacha ishlab turgan erkaklar hammomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): XVI asrda Buxoroda qurilgan va hozirgacha ishlab turgan erkaklar hammomi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Bozori kord"
+      ],
+      "explain": "Bozori kord — XVI asrda Buxoroda qurilgan va hozirgacha ishlab turgan erkaklar hammomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Bozori kord» — XVI asrda Buxoroda qurilgan va hozirgacha ishlab turgan erkaklar hammomi.",
+      "answer": true,
+      "explain": "Bozori kord — XVI asrda Buxoroda qurilgan va hozirgacha ishlab turgan erkaklar hammomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Bozori kord» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Bozori kord» — XVI asrda Buxoroda qurilgan va hozirgacha ishlab turgan erkaklar hammomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) mavzusidagi «Poygumbaz» tushunchasi nimani anglatadi?",
+      "options": [
+        "Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi",
+        "Toshkent Chorsu maydoni Shahriston tepaligida 1551–1575-yillarda qurilgan 38 hujrali madrasa",
+        "Baroqxon madrasasining 22 metrli ko'k gumbazi ostidagi 4,5 metrli koshinli asos qismi",
+        "Toshkentdagi Ko'kaldosh madrasasi bosh tarzining ikki burchagi guldastalari tepasiga o'rnatilgan bezak"
+      ],
+      "answer": 2,
+      "explain": "Poygumbaz — Baroqxon madrasasining 22 metrli ko'k gumbazi ostidagi 4,5 metrli koshinli asos qismi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Baroqxon madrasasining 22 metrli ko'k gumbazi ostidagi 4,5 metrli koshinli asos qismi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Toqi Sarrofon",
+        "Ko'kaldosh",
+        "Qafasa",
+        "Poygumbaz"
+      ],
+      "answer": 3,
+      "explain": "Poygumbaz — Baroqxon madrasasining 22 metrli ko'k gumbazi ostidagi 4,5 metrli koshinli asos qismi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): Baroqxon madrasasining 22 metrli ko'k gumbazi ostidagi 4,5 metrli koshinli asos qismi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Poygumbaz"
+      ],
+      "explain": "Poygumbaz — Baroqxon madrasasining 22 metrli ko'k gumbazi ostidagi 4,5 metrli koshinli asos qismi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Poygumbaz» — Baroqxon madrasasining 22 metrli ko'k gumbazi ostidagi 4,5 metrli koshinli asos qismi.",
+      "answer": true,
+      "explain": "Poygumbaz — Baroqxon madrasasining 22 metrli ko'k gumbazi ostidagi 4,5 metrli koshinli asos qismi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (8-§ (Shayboniylar me'morchiligi)): «Poygumbaz» tushunchasi «Buxoro shahrida shayboniylar davrida barpo etilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Poygumbaz» — Baroqxon madrasasining 22 metrli ko'k gumbazi ostidagi 4,5 metrli koshinli asos qismi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Toshkentdagi Ko'kaldosh madrasasi qayerda joylashgan va dastlabki tuzilishi qanday edi?",
+      "options": [
+        "Chorsu maydoni Shahriston tepaligida, Xo'ja Ahror Valiy jome masjidi yonida; 38 hujrali va dastlab 3 qavatli bo'lgan",
+        "Hazrati Imom maydonida; 114 hujrali va 4 qavatli bo'lgan",
+        "Sebzor dahasida; 20 hujrali va 1 qavatli bo'lgan",
+        "Anhor bo'yida; faqat masjid va minoradan iborat bo'lgan"
+      ],
+      "answer": 0,
+      "explain": "Ko'kaldosh madrasasi (1551–1575) Chorsu maydoni Shahriston tepaligida, Xo'ja Ahror Valiy masjidi yonida 38 hujrali va dastlab 3 qavatli qilib qurilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Toshkentdagi Ko'kaldosh madrasasining darvozasidan kiraverishda chapda masjid, o'ngda darsxona joylashgan.",
+      "answer": true,
+      "explain": "Ko'kaldosh madrasasi (1551–1575) Chorsu maydoni Shahriston tepaligida, Xo'ja Ahror Valiy masjidi yonida 38 hujrali va dastlab 3 qavatli qilib qurilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Ko'kaldosh madrasasida hujralar soni 114 ta bo'lgan.",
+      "answer": false,
+      "explain": "Ko'kaldosh madrasasi (1551–1575) Chorsu maydoni Shahriston tepaligida, Xo'ja Ahror Valiy masjidi yonida 38 hujrali va dastlab 3 qavatli qilib qurilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Toshkentdagi Ko'kaldosh madrasasi Chorsu maydonidagi ____ tepaligida bunyod etilgan.",
+      "answer": [
+        "Shahriston"
+      ],
+      "explain": "Ko'kaldosh madrasasi (1551–1575) Chorsu maydoni Shahriston tepaligida, Xo'ja Ahror Valiy masjidi yonida 38 hujrali va dastlab 3 qavatli qilib qurilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Buxorodagi Mir Arab madrasasi qayerda joylashgan va nechta xona hamda qavatdan iborat?",
+      "options": [
+        "Ulug'bek madrasasi ichida; bir qavatli va 29 ta hujrali",
+        "Minorayi Kalon qarshisida; to'rt qavatli bo'lib, unda 114 ta xona va ikki ulkan gumbaz bor",
+        "Registon maydonida; uch qavatli va 55 ta hujrali",
+        "Ark tashqarisida; ikki qavatli va 38 ta xonali"
+      ],
+      "answer": 1,
+      "explain": "Mir Arab madrasasi Minorayi Kalon qarshisida, kirishi kunbotar tomonda, 4 qavatli, 114 xonali va hujralari 4 ulkan peshtoq bilan ajratilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Mir Arab madrasasi Go'rxonasining gumbazosti bag'ali qalqonsimon muqarnasli bo'lib, unda Ubaydullaxonning sag'anasi bor.",
+      "answer": true,
+      "explain": "Mir Arab madrasasi Minorayi Kalon qarshisida, kirishi kunbotar tomonda, 4 qavatli, 114 xonali va hujralari 4 ulkan peshtoq bilan ajratilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Mir Arab madrasasiga kirish qismi sharq (kunchiqar) tomonda joylashgan.",
+      "answer": false,
+      "explain": "Mir Arab madrasasi Minorayi Kalon qarshisida, kirishi kunbotar tomonda, 4 qavatli, 114 xonali va hujralari 4 ulkan peshtoq bilan ajratilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Mir Arab madrasasi to'rt qavatdan iborat bo'lib, unda ____ ta xona mavjud.",
+      "answer": [
+        "114",
+        "bir yuz o'n to'rt"
+      ],
+      "explain": "Mir Arab madrasasi Minorayi Kalon qarshisida, kirishi kunbotar tomonda, 4 qavatli, 114 xonali va hujralari 4 ulkan peshtoq bilan ajratilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Mir Arab madrasasida talabalarning yosh chegarasi qanday bo'lgan va hozir necha yil o'qitiladi?",
+      "options": [
+        "Faqat 6–8 yoshli bolalar 26 yil o'qigan",
+        "Faqat 40 yoshdan kattalar 1 yil o'qigan",
+        "Ilgari 10 yoshdan 40 yoshgacha talabalar tahsil olgan, hozirgi kunda 3 yil davomida diniy va umumta'lim fanlari o'qitiladi",
+        "Ilgari ham, hozir ham faqat 8 yil o'qitiladi"
+      ],
+      "answer": 2,
+      "explain": "Madrasada 10 yoshdan 40 yoshgacha talabalar o'qigan; hozir O'zbekiston musulmonlari idorasi tasarrufida 3 yillik ta'lim olib boriladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Sayyid Abdulloh Yamaniy 22 yoshida Samarqandga ilm izlab kelib Xoja Ahror Valiyga shogird tushgan.",
+      "answer": true,
+      "explain": "Madrasada 10 yoshdan 40 yoshgacha talabalar o'qigan; hozir O'zbekiston musulmonlari idorasi tasarrufida 3 yillik ta'lim olib boriladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Mir Arab madrasasi sho'rolar davrida bir kun ham faoliyatini to'xtatmagan.",
+      "answer": false,
+      "explain": "Madrasada 10 yoshdan 40 yoshgacha talabalar o'qigan; hozir O'zbekiston musulmonlari idorasi tasarrufida 3 yillik ta'lim olib boriladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Xalq orasida «Mir Arab» nomi bilan mashhur bo'lgan olimning asl ismi ____ dir.",
+      "answer": [
+        "Sayyid Abdulloh Yamaniy",
+        "Sayyid Abdulloh"
+      ],
+      "explain": "Madrasada 10 yoshdan 40 yoshgacha talabalar o'qigan; hozir O'zbekiston musulmonlari idorasi tasarrufida 3 yillik ta'lim olib boriladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Buxorodagi Toqi Zargaron me'moriy tuzilishi va unda sotilgan xorijiy mollar qaysilar edi?",
+      "options": [
+        "To'rtburchak ochiq maydon bo'lib, faqat ot va tuyalar sotilgan",
+        "Ikki qavatli yog'och saroy bo'lib, faqat g'alla saqlangan",
+        "O'n ikki qirrali prizma shaklida Amir Shohmurod qurdirgan",
+        "Sakkiz burchakli asosiy xona ulkan gumbaz bilan yopilgan, 36 ta zargarlik ustaxonasi bo'lib, Xitoy shoyisi, Kashmir ro'moli, Misr zarbofi, arab joynamozi va Tibet ziravorlari sotilgan"
+      ],
+      "answer": 3,
+      "explain": "Abdullaxon II Ulug'bek madrasasi yonida qurdirgan Toqi Zargaronda 36 ustaxona bo'lgan, Xitoy shoyisi, Kashmir ro'moli, Misr zarbofi, arab joynamozi, Tibet ziravori sotilgan va farmonlar e'lon qilingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Toqi Zargaron qadimiy shahriston markazidagi ikkita katta ko'cha kesishgan chorraha ustini qoplab turadi va u yerda farmonlar ham e'lon qilingan.",
+      "answer": true,
+      "explain": "Abdullaxon II Ulug'bek madrasasi yonida qurdirgan Toqi Zargaronda 36 ustaxona bo'lgan, Xitoy shoyisi, Kashmir ro'moli, Misr zarbofi, arab joynamozi, Tibet ziravori sotilgan va farmonlar e'lon qilingan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Toqi Zargaronda faqatgina zargarlik ashyolari yasash bilan cheklanib, oziq-ovqat sotish taqiqlangan.",
+      "answer": false,
+      "explain": "Abdullaxon II Ulug'bek madrasasi yonida qurdirgan Toqi Zargaronda 36 ustaxona bo'lgan, Xitoy shoyisi, Kashmir ro'moli, Misr zarbofi, arab joynamozi, Tibet ziravori sotilgan va farmonlar e'lon qilingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "O'tmishda Toqi Zargaron dalonlarida ____ ta zargarlik ustaxonasi va do'konlar bo'lgan.",
+      "answer": [
+        "36",
+        "o'ttiz olti"
+      ],
+      "explain": "Abdullaxon II Ulug'bek madrasasi yonida qurdirgan Toqi Zargaronda 36 ustaxona bo'lgan, Xitoy shoyisi, Kashmir ro'moli, Misr zarbofi, arab joynamozi, Tibet ziravori sotilgan va farmonlar e'lon qilingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Buxorodagi Abdullaxon madrasasi ro'paradagi Modarixon madrasasiga nisbatan qanday o'ziga xos tarzda qurilgan?",
+      "options": [
+        "Modarixon madrasasiga qarab biroz egilgan holatda «qo'sh» uslubida qurilgan bo'lib, bu onaga hurmat ramzi hisoblanadi",
+        "Modarixon madrasasiga teskari qaratib shahar chetida qurilgan",
+        "Modarixon madrasasidan uch barobar kichik bir qavatli qilib qurilgan",
+        "Faqat yog'ochdan sinchli qilib tiklangan"
+      ],
+      "answer": 0,
+      "explain": "Abdullaxon madrasasining katta peshtoqi janubga qaragan, darvozasi xotamkori uslubida, binosi esa onasi sharafiga qurilgan Modarixon madrasasiga biroz egilgan holda «qo'sh» uslubidadir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Modarixon madrasasi Abdullaxon II ning onasiga atab qurilgan.",
+      "answer": true,
+      "explain": "Abdullaxon madrasasining katta peshtoqi janubga qaragan, darvozasi xotamkori uslubida, binosi esa onasi sharafiga qurilgan Modarixon madrasasiga biroz egilgan holda «qo'sh» uslubidadir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Abdullaxon madrasasi darvozasi faqat temirdan quyib ishlangan.",
+      "answer": false,
+      "explain": "Abdullaxon madrasasining katta peshtoqi janubga qaragan, darvozasi xotamkori uslubida, binosi esa onasi sharafiga qurilgan Modarixon madrasasiga biroz egilgan holda «qo'sh» uslubidadir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Buxorodagi Abdullaxon va Modarixon madrasalarining ro'parama-ro'para joylashuvi «____» uslubi namunasidir.",
+      "answer": [
+        "qo'sh",
+        "qosh"
+      ],
+      "explain": "Abdullaxon madrasasining katta peshtoqi janubga qaragan, darvozasi xotamkori uslubida, binosi esa onasi sharafiga qurilgan Modarixon madrasasiga biroz egilgan holda «qo'sh» uslubidadir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Buxoro hammomlari («garmoba») necha xonadan iborat bo'lib, isitish va devor tuzilishi qanday edi?",
+      "options": [
+        "Bor-yo'g'i 2 xonali bo'lib, ochiq gulxan bilan isitilgan",
+        "Ichma-ich qurilgan 7 ta xonali bo'lib, polosti kanallari va go'lax bilan isitilgan; sovuq xonalar devori bir qavatli, issiqxonalar devori ikki qavatli edi",
+        "Yer ustida yog'ochdan 15 xonali qilib qurilgan",
+        "Suv isitish uchun faqat quyosh nuridan foydalanilgan"
+      ],
+      "answer": 1,
+      "explain": "7 ta xona ichma-ich qurilgan, asosiy yuvinish xonasiga 1 m pastga tushilgan, birinchi sovuqxonada 0,5 m balandlikda marmar supa bo'lgan, issiqxona devori ikki qavatli bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "XVI asrda qurilgan Hammomi Sarrofon (erkaklar hammomi) bizning davrimizgacha buzilmay yetib kelgan.",
+      "answer": true,
+      "explain": "7 ta xona ichma-ich qurilgan, asosiy yuvinish xonasiga 1 m pastga tushilgan, birinchi sovuqxonada 0,5 m balandlikda marmar supa bo'lgan, issiqxona devori ikki qavatli bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Buxoro hammomlarida xonalarning barchasi yer sathidan ikki metr balandlikda qurilgan.",
+      "answer": false,
+      "explain": "7 ta xona ichma-ich qurilgan, asosiy yuvinish xonasiga 1 m pastga tushilgan, birinchi sovuqxonada 0,5 m balandlikda marmar supa bo'lgan, issiqxona devori ikki qavatli bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Buxoro hammomlarida sovuqxona devorlaridagi nafis marmar supalarning balandligi ____ metr bo'lgan.",
+      "answer": [
+        "yarim",
+        "0,5",
+        "0.5"
+      ],
+      "explain": "7 ta xona ichma-ich qurilgan, asosiy yuvinish xonasiga 1 m pastga tushilgan, birinchi sovuqxonada 0,5 m balandlikda marmar supa bo'lgan, issiqxona devori ikki qavatli bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Buxoro hammomlaridagi havo yangilanishi va yorug'lik tushishi me'moriy jihatdan qanday hal qilingan?",
+      "options": [
+        "Devorda katta ochiq derazalar qoldirilgan",
+        "Shift umuman yopilmay ochiq qoldirilgan",
+        "Gumbazlar cho'qqisi oynaband qilib ishlangan",
+        "Faqat shamchiroqlar bilan yoritilgan"
+      ],
+      "answer": 2,
+      "explain": "Hammomlarni yoritish va havosini yangilab turish maqsadida gumbazlar cho'qqisi oynaband qilib ishlangan, kul suv (ishqorli suv) uchun hovuzchalar qilingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Buxoro hammomlarida xushbo'y moddalar va kul suv (ishqorli suv) uchun hovuzchalar sirti suvga chidamli qorishmalar bilan qoplangan.",
+      "answer": true,
+      "explain": "Hammomlarni yoritish va havosini yangilab turish maqsadida gumbazlar cho'qqisi oynaband qilib ishlangan, kul suv (ishqorli suv) uchun hovuzchalar qilingan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Buxoro hammomlarining gumbazlari yorug'lik tushmasligi uchun butunlay berk qilib yopilgan.",
+      "answer": false,
+      "explain": "Hammomlarni yoritish va havosini yangilab turish maqsadida gumbazlar cho'qqisi oynaband qilib ishlangan, kul suv (ishqorli suv) uchun hovuzchalar qilingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "O'rta asrlarda Buxoro hammomlarida oqova suvlar uchun ariqchalar hamda ishqorli «____» uchun hovuzchalar bo'lgan.",
+      "answer": [
+        "kul suv"
+      ],
+      "explain": "Hammomlarni yoritish va havosini yangilab turish maqsadida gumbazlar cho'qqisi oynaband qilib ishlangan, kul suv (ishqorli suv) uchun hovuzchalar qilingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Toshkentdagi Baroqxon madrasasi (1531–1532) o'rnida dastlab nima bo'lgan va uning asosiy gumbazi necha metr?",
+      "options": [
+        "Dastlab savdo timi bo'lgan; gumbazi 70 metr",
+        "Dastlab hammom bo'lgan; gumbazi 5 metr",
+        "Dastlab qal'a minorasi bo'lgan; gumbazi yo'q",
+        "Dastlab ikkita (katta va kichik) maqbara bo'lgan; uning ko'k gumbazi 22 metr, poygumbazi 4,5 metr"
+      ],
+      "answer": 3,
+      "explain": "Baroqxon ikki maqbarani o'z ichiga olgan madrasa qurdirgan (kichik maqbarada o'z qabri bor); 22 m li ko'k gumbazi, 4,5 m li poygumbazi va to'rt burchagida qorixonalari bor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Baroqxon madrasasi naqshlarining go'zalligi va qurilish uslubi jihatidan XV asr ikkinchi yarmiga oid Samarqanddagi Oqsaroyga yaqin turadi.",
+      "answer": true,
+      "explain": "Baroqxon ikki maqbarani o'z ichiga olgan madrasa qurdirgan (kichik maqbarada o'z qabri bor); 22 m li ko'k gumbazi, 4,5 m li poygumbazi va to'rt burchagida qorixonalari bor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Baroqxon madrasasi pastki izorasi naqshsiz xom g'ishtdan terilgan.",
+      "answer": false,
+      "explain": "Baroqxon ikki maqbarani o'z ichiga olgan madrasa qurdirgan (kichik maqbarada o'z qabri bor); 22 m li ko'k gumbazi, 4,5 m li poygumbazi va to'rt burchagida qorixonalari bor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Baroqxon madrasasi uslub va naqsh go'zalligi jihatidan Samarqanddagi XV asr yodgorligi ____ ga yaqin turadi.",
+      "answer": [
+        "Oqsaroy"
+      ],
+      "explain": "Baroqxon ikki maqbarani o'z ichiga olgan madrasa qurdirgan (kichik maqbarada o'z qabri bor); 22 m li ko'k gumbazi, 4,5 m li poygumbazi va to'rt burchagida qorixonalari bor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Baroqxon madrasasining ichki devori qanday bezaklar bilan pardozlangan?",
+      "options": [
+        "Tepa qismida oltin suvi yugurtirilgan ganch naqshlar, pastki qismida yashil sirkor va zarhalli g'ishtchalar bilan ajratilgan olti burchakli sopol izora",
+        "Faqat oq ohak bilan suvalib hech qanday naqsh berilmagan",
+        "Yog'och taxtalar va qora marmar bilan qoplangan",
+        "To'liq hayvon rasmlari bilan bezatilgan"
+      ],
+      "answer": 0,
+      "explain": "Ichki devor tepa qismida oltin suvi yugurtirilgan ganch naqshlar, pastki qismida esa yashil sirkor, zarhalli g'ishtchalar bilan ajratilgan olti burchakli sopol izora bor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Baroqxon madrasasining to'rt burchagida cho'ziq xona (qorixona)lar bo'lib, poygumbaziga Qur'on suralari bitilgan.",
+      "answer": true,
+      "explain": "Ichki devor tepa qismida oltin suvi yugurtirilgan ganch naqshlar, pastki qismida esa yashil sirkor, zarhalli g'ishtchalar bilan ajratilgan olti burchakli sopol izora bor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Baroqxon madrasasida gumbaz ostida poygumbaz qismi umuman bo'lmagan.",
+      "answer": false,
+      "explain": "Ichki devor tepa qismida oltin suvi yugurtirilgan ganch naqshlar, pastki qismida esa yashil sirkor, zarhalli g'ishtchalar bilan ajratilgan olti burchakli sopol izora bor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Baroqxon madrasasining ko'k sirkor g'ishtchalar bilan pardozlangan ulkan gumbazi balandligi ____ metrni tashkil etadi.",
+      "answer": [
+        "22",
+        "22 m"
+      ],
+      "explain": "Ichki devor tepa qismida oltin suvi yugurtirilgan ganch naqshlar, pastki qismida esa yashil sirkor, zarhalli g'ishtchalar bilan ajratilgan olti burchakli sopol izora bor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Shayboniylar davri qurilishlarida qaysi shaharlar ustalari ishtirok etganlar?",
+      "options": [
+        "Faqat Moskva va Qozon ustalari",
+        "Movarounnahr, Hirot va Balx ustalari",
+        "Faqat Xitoy va Tibet ustalari",
+        "Faqat Misr va Suriya ustalari"
+      ],
+      "answer": 1,
+      "explain": "Buxoro shahridagi bunyodkorlik ishlarida va ularni bezashda Movarounnahr, Hirot hamda Balx ustalari ishtirok etganlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar dastlab temuriylar davridagi me'morchilik an'analarini davom ettirib, Buxoro mudofaa devorlarini mustahkamlaganlar.",
+      "answer": true,
+      "explain": "Buxoro shahridagi bunyodkorlik ishlarida va ularni bezashda Movarounnahr, Hirot hamda Balx ustalari ishtirok etganlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Shayboniylar Buxoro mudofaa devorlarini buzib tashlab, hech qanday jamoat binosi qurdirmaganlar.",
+      "answer": false,
+      "explain": "Buxoro shahridagi bunyodkorlik ishlarida va ularni bezashda Movarounnahr, Hirot hamda Balx ustalari ishtirok etganlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Toshkentdagi Ko'kaldosh madrasasi dastlab ____ qavatli bo'lgan, hozirda ikkinchi qavat hujralari faqat peshtoqning ikki yonida saqlangan.",
+      "answer": [
+        "3",
+        "uch"
+      ],
+      "explain": "Buxoro shahridagi bunyodkorlik ishlarida va ularni bezashda Movarounnahr, Hirot hamda Balx ustalari ishtirok etganlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "XVI asrda Buxoroda qurilgan tarixiy hammomlar qatoriga qaysi biri KIRMAYDI?",
+      "options": [
+        "Hammomi Bozori kord",
+        "Hammomi Kunjak",
+        "Anushaxon hammomi",
+        "Hammomi Sarrofon"
+      ],
+      "answer": 2,
+      "explain": "Bozori kord, Kunjak va Sarrofon Buxoroda XVI asrda qurilgan; Anushaxon hammomi XVII asrda Xivada qurilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Toqi Zargaronda xorijiy savdogarlar sotgan mahsulotlar ro'yxatiga qaysi biri KIRMAYDI?",
+      "options": [
+        "Xitoy shoyisi",
+        "Kashmir ro'moli",
+        "Tibet ziravorlari",
+        "Rossiya bug' mashinalari"
+      ],
+      "answer": 3,
+      "explain": "Toqi Zargaronda Xitoy shoyisi, Kashmir ro'moli, Misr zarbofi, arab joynamozlari va Tibet ziravorlari sotilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Mir Arab madrasasi bilan bog'liq tarixiy shaxslar qatoriga qaysi biri KIRMAYDI?",
+      "options": [
+        "Amir Nasrulla",
+        "Sayyid Abdulloh Yamaniy",
+        "Muhammad Bakr",
+        "Shayx Zakariyo"
+      ],
+      "answer": 0,
+      "explain": "Mir Arab madrasasi Ubaydullaxon davrida Sayyid Abdulloh Yamaniy boshlab, Shayx Zakariyo bitirgan; Muhammad Bakr uni xonga tanishtirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Toshkentdagi Ko'kaldosh madrasasi me'moriy xususiyatlariga qaysi biri MOS KELMAYDI?",
+      "options": [
+        "38 ta hujrali keng chorsu hovlisi",
+        "To'rt qavatli va 114 ta xonali bino",
+        "Dastlab 3 qavatli bo'lganligi",
+        "Kiraverishda chapda masjid, o'ngda darsxona"
+      ],
+      "answer": 1,
+      "explain": "To'rt qavat va 114 xona Buxorodagi Mir Arab madrasasiga tegishli.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Buxoro hammomlarining xonalari va qismlari ro'yxatiga qaysi biri KIRMAYDI?",
+      "options": [
+        "Go'lax",
+        "Sovuqxona",
+        "Ko'rishishxona",
+        "Issiqxona"
+      ],
+      "answer": 2,
+      "explain": "Ko'rishishxona Xiva Ko'hna Arkdagi xon qabulxonasidir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Minorayi Kalon» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Baroqxon burchaklaridagi cho'ziq xona",
+        "Baroqxon uslubi yaqin turadigan yodgorlik",
+        "Sovuqxonadagi yarim metrlik marmar o'rindiq",
+        "Mir Arab madrasasi ro'parasidagi minora"
+      ],
+      "answer": 3,
+      "explain": "Minorayi Kalon — Mir Arab madrasasi ro'parasidagi minora.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Mir Arab madrasasi ro'parasidagi minora» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Minorayi Kalon",
+        "Qorixona",
+        "Oqsaroy",
+        "Supa"
+      ],
+      "answer": 0,
+      "explain": "Minorayi Kalon — Mir Arab madrasasi ro'parasidagi minora.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) ma'lumoti: «Minorayi Kalon» — Mir Arab madrasasi ro'parasidagi minora.",
+      "answer": true,
+      "explain": "Minorayi Kalon — Mir Arab madrasasi ro'parasidagi minora.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Minorayi Kalon» — «Baroqxon burchaklaridagi cho'ziq xona» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Minorayi Kalon — Mir Arab madrasasi ro'parasidagi minora.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Mir Arab madrasasi ro'parasidagi minora» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Minorayi Kalon",
+      "explain": "Minorayi Kalon — Mir Arab madrasasi ro'parasidagi minora.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Qorixona» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mir Arab madrasasi ro'parasidagi minora",
+        "Baroqxon burchaklaridagi cho'ziq xona",
+        "Baroqxon uslubi yaqin turadigan yodgorlik",
+        "Sovuqxonadagi yarim metrlik marmar o'rindiq"
+      ],
+      "answer": 1,
+      "explain": "Qorixona — Baroqxon burchaklaridagi cho'ziq xona.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Baroqxon burchaklaridagi cho'ziq xona» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Minorayi Kalon",
+        "Oqsaroy",
+        "Qorixona",
+        "Supa"
+      ],
+      "answer": 2,
+      "explain": "Qorixona — Baroqxon burchaklaridagi cho'ziq xona.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) ma'lumoti: «Qorixona» — Baroqxon burchaklaridagi cho'ziq xona.",
+      "answer": true,
+      "explain": "Qorixona — Baroqxon burchaklaridagi cho'ziq xona.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Qorixona» — «Baroqxon uslubi yaqin turadigan yodgorlik» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Qorixona — Baroqxon burchaklaridagi cho'ziq xona.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Baroqxon burchaklaridagi cho'ziq xona» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Qorixona",
+      "explain": "Qorixona — Baroqxon burchaklaridagi cho'ziq xona.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Oqsaroy» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mir Arab madrasasi ro'parasidagi minora",
+        "Baroqxon burchaklaridagi cho'ziq xona",
+        "Sovuqxonadagi yarim metrlik marmar o'rindiq",
+        "Baroqxon uslubi yaqin turadigan yodgorlik"
+      ],
+      "answer": 3,
+      "explain": "Oqsaroy — Baroqxon uslubi yaqin turadigan yodgorlik.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Baroqxon uslubi yaqin turadigan yodgorlik» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Oqsaroy",
+        "Minorayi Kalon",
+        "Qorixona",
+        "Supa"
+      ],
+      "answer": 0,
+      "explain": "Oqsaroy — Baroqxon uslubi yaqin turadigan yodgorlik.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) ma'lumoti: «Oqsaroy» — Baroqxon uslubi yaqin turadigan yodgorlik.",
+      "answer": true,
+      "explain": "Oqsaroy — Baroqxon uslubi yaqin turadigan yodgorlik.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Oqsaroy» — «Sovuqxonadagi yarim metrlik marmar o'rindiq» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Oqsaroy — Baroqxon uslubi yaqin turadigan yodgorlik.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Baroqxon uslubi yaqin turadigan yodgorlik» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Oqsaroy",
+      "explain": "Oqsaroy — Baroqxon uslubi yaqin turadigan yodgorlik.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Supa» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mir Arab madrasasi ro'parasidagi minora",
+        "Sovuqxonadagi yarim metrlik marmar o'rindiq",
+        "Baroqxon burchaklaridagi cho'ziq xona",
+        "Baroqxon uslubi yaqin turadigan yodgorlik"
+      ],
+      "answer": 1,
+      "explain": "Supa — Sovuqxonadagi yarim metrlik marmar o'rindiq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Sovuqxonadagi yarim metrlik marmar o'rindiq» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Minorayi Kalon",
+        "Qorixona",
+        "Supa",
+        "Oqsaroy"
+      ],
+      "answer": 2,
+      "explain": "Supa — Sovuqxonadagi yarim metrlik marmar o'rindiq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) ma'lumoti: «Supa» — Sovuqxonadagi yarim metrlik marmar o'rindiq.",
+      "answer": true,
+      "explain": "Supa — Sovuqxonadagi yarim metrlik marmar o'rindiq.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Supa» — «Handasiy chiziqli an'anaviy naqsh» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Supa — Sovuqxonadagi yarim metrlik marmar o'rindiq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Sovuqxonadagi yarim metrlik marmar o'rindiq» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Supa",
+      "explain": "Supa — Sovuqxonadagi yarim metrlik marmar o'rindiq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Girih» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mir Arab madrasasi ro'parasidagi minora",
+        "Baroqxon burchaklaridagi cho'ziq xona",
+        "Baroqxon uslubi yaqin turadigan yodgorlik",
+        "Handasiy chiziqli an'anaviy naqsh"
+      ],
+      "answer": 3,
+      "explain": "Girih — Handasiy chiziqli an'anaviy naqsh.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Handasiy chiziqli an'anaviy naqsh» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Girih",
+        "Minorayi Kalon",
+        "Qorixona",
+        "Oqsaroy"
+      ],
+      "answer": 0,
+      "explain": "Girih — Handasiy chiziqli an'anaviy naqsh.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) ma'lumoti: «Girih» — Handasiy chiziqli an'anaviy naqsh.",
+      "answer": true,
+      "explain": "Girih — Handasiy chiziqli an'anaviy naqsh.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Girih» — «Rangli sir bilan qoplangan bezak» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Girih — Handasiy chiziqli an'anaviy naqsh.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Handasiy chiziqli an'anaviy naqsh» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Girih",
+      "explain": "Girih — Handasiy chiziqli an'anaviy naqsh.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Sirkor» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mir Arab madrasasi ro'parasidagi minora",
+        "Rangli sir bilan qoplangan bezak",
+        "Baroqxon burchaklaridagi cho'ziq xona",
+        "Baroqxon uslubi yaqin turadigan yodgorlik"
+      ],
+      "answer": 1,
+      "explain": "Sirkor — Rangli sir bilan qoplangan bezak.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Rangli sir bilan qoplangan bezak» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Minorayi Kalon",
+        "Qorixona",
+        "Sirkor",
+        "Oqsaroy"
+      ],
+      "answer": 2,
+      "explain": "Sirkor — Rangli sir bilan qoplangan bezak.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) ma'lumoti: «Sirkor» — Rangli sir bilan qoplangan bezak.",
+      "answer": true,
+      "explain": "Sirkor — Rangli sir bilan qoplangan bezak.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Sirkor» — «Dafn etiladigan gumbazli xona» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Sirkor — Rangli sir bilan qoplangan bezak.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Rangli sir bilan qoplangan bezak» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Sirkor",
+      "explain": "Sirkor — Rangli sir bilan qoplangan bezak.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Go'rxona» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mir Arab madrasasi ro'parasidagi minora",
+        "Baroqxon burchaklaridagi cho'ziq xona",
+        "Baroqxon uslubi yaqin turadigan yodgorlik",
+        "Dafn etiladigan gumbazli xona"
+      ],
+      "answer": 3,
+      "explain": "Go'rxona — Dafn etiladigan gumbazli xona.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Dafn etiladigan gumbazli xona» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Go'rxona",
+        "Minorayi Kalon",
+        "Qorixona",
+        "Oqsaroy"
+      ],
+      "answer": 0,
+      "explain": "Go'rxona — Dafn etiladigan gumbazli xona.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) ma'lumoti: «Go'rxona» — Dafn etiladigan gumbazli xona.",
+      "answer": true,
+      "explain": "Go'rxona — Dafn etiladigan gumbazli xona.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Go'rxona» — «Madrasada o'quv mashg'uloti xonasi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Go'rxona — Dafn etiladigan gumbazli xona.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Dafn etiladigan gumbazli xona» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Go'rxona",
+      "explain": "Go'rxona — Dafn etiladigan gumbazli xona.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Darsxona» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mir Arab madrasasi ro'parasidagi minora",
+        "Madrasada o'quv mashg'uloti xonasi",
+        "Baroqxon burchaklaridagi cho'ziq xona",
+        "Baroqxon uslubi yaqin turadigan yodgorlik"
+      ],
+      "answer": 1,
+      "explain": "Darsxona — Madrasada o'quv mashg'uloti xonasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Madrasada o'quv mashg'uloti xonasi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Minorayi Kalon",
+        "Qorixona",
+        "Darsxona",
+        "Oqsaroy"
+      ],
+      "answer": 2,
+      "explain": "Darsxona — Madrasada o'quv mashg'uloti xonasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) ma'lumoti: «Darsxona» — Madrasada o'quv mashg'uloti xonasi.",
+      "answer": true,
+      "explain": "Darsxona — Madrasada o'quv mashg'uloti xonasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Darsxona» — «Bino burchaklaridagi minora-ustun» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Darsxona — Madrasada o'quv mashg'uloti xonasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Madrasada o'quv mashg'uloti xonasi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Darsxona",
+      "explain": "Darsxona — Madrasada o'quv mashg'uloti xonasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Guldasta» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mir Arab madrasasi ro'parasidagi minora",
+        "Baroqxon burchaklaridagi cho'ziq xona",
+        "Baroqxon uslubi yaqin turadigan yodgorlik",
+        "Bino burchaklaridagi minora-ustun"
+      ],
+      "answer": 3,
+      "explain": "Guldasta — Bino burchaklaridagi minora-ustun.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Bino burchaklaridagi minora-ustun» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Guldasta",
+        "Minorayi Kalon",
+        "Qorixona",
+        "Oqsaroy"
+      ],
+      "answer": 0,
+      "explain": "Guldasta — Bino burchaklaridagi minora-ustun.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) ma'lumoti: «Guldasta» — Bino burchaklaridagi minora-ustun.",
+      "answer": true,
+      "explain": "Guldasta — Bino burchaklaridagi minora-ustun.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Guldasta» — «Mir Arab madrasasi kirish tomoni» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Guldasta — Bino burchaklaridagi minora-ustun.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Bino burchaklaridagi minora-ustun» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Guldasta",
+      "explain": "Guldasta — Bino burchaklaridagi minora-ustun.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Kunbotar» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mir Arab madrasasi ro'parasidagi minora",
+        "Mir Arab madrasasi kirish tomoni",
+        "Baroqxon burchaklaridagi cho'ziq xona",
+        "Baroqxon uslubi yaqin turadigan yodgorlik"
+      ],
+      "answer": 1,
+      "explain": "Kunbotar — Mir Arab madrasasi kirish tomoni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Mir Arab madrasasi kirish tomoni» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Minorayi Kalon",
+        "Qorixona",
+        "Kunbotar",
+        "Oqsaroy"
+      ],
+      "answer": 2,
+      "explain": "Kunbotar — Mir Arab madrasasi kirish tomoni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) ma'lumoti: «Kunbotar» — Mir Arab madrasasi kirish tomoni.",
+      "answer": true,
+      "explain": "Kunbotar — Mir Arab madrasasi kirish tomoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi) bo'yicha «Kunbotar» — «Buxorodagi sarroflar savdo gumbazi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Kunbotar — Mir Arab madrasasi kirish tomoni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Mir Arab madrasasi kirish tomoni» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Kunbotar",
+      "explain": "Kunbotar — Mir Arab madrasasi kirish tomoni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «22 yoshida Samarqandga kelib Xoja Ahror Valiyga shogird tushgan va Ubaydullaxon bilan tanishgan olim» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Muhammad Bakr",
+        "Shayx Zakariyo",
+        "Baroqxon",
+        "Mir Arab (Sayyid Abdulloh Yamaniy)"
+      ],
+      "answer": 3,
+      "explain": "Mir Arab (Sayyid Abdulloh Yamaniy) — Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx. 22 yoshida Samarqandga kelib Xoja Ahror Valiyga shogird tushgan va Ubaydullaxon bilan tanishgan olim",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): Mir Arab (Sayyid Abdulloh Yamaniy) — 22 yoshida Samarqandga kelib Xoja Ahror Valiyga shogird tushgan va Ubaydullaxon bilan tanishgan olim.",
+      "answer": true,
+      "explain": "Mir Arab (Sayyid Abdulloh Yamaniy) — Buxorodagi Minorayi Kalon qarshisida 114 xonali mashhur madrasa qurdirgan shayx. 22 yoshida Samarqandga kelib Xoja Ahror Valiyga shogird tushgan va Ubaydullaxon bilan tanishgan olim",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Mir Arabning Buxoro amiri Ubaydullaxon bilan yaqinlashishiga sababchi bo'lgan tarixiy shaxs» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Muhammad Bakr",
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Shayx Zakariyo",
+        "Baroqxon"
+      ],
+      "answer": 0,
+      "explain": "Muhammad Bakr — Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li. Mir Arabning Buxoro amiri Ubaydullaxon bilan yaqinlashishiga sababchi bo'lgan tarixiy shaxs",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): Muhammad Bakr — mir Arabning Buxoro amiri Ubaydullaxon bilan yaqinlashishiga sababchi bo'lgan tarixiy shaxs.",
+      "answer": true,
+      "explain": "Muhammad Bakr — Xoja Ahror Valiy vafotidan so'ng Sayyid Abdullohni Ubaydullaxon bilan tanishtirgan o'g'li. Mir Arabning Buxoro amiri Ubaydullaxon bilan yaqinlashishiga sababchi bo'lgan tarixiy shaxs",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Mir Arab madrasasi qurilishini yakunlagan merosxo'r me'mor va shayx» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Shayx Zakariyo",
+        "Muhammad Bakr",
+        "Baroqxon"
+      ],
+      "answer": 1,
+      "explain": "Shayx Zakariyo — 1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov. Mir Arab madrasasi qurilishini yakunlagan merosxo'r me'mor va shayx",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): Shayx Zakariyo — mir Arab madrasasi qurilishini yakunlagan merosxo'r me'mor va shayx.",
+      "answer": true,
+      "explain": "Shayx Zakariyo — 1536-yil boshida vafot etgan Mir Arabning vasiyatiga ko'ra madrasa qurilishini oxiriga yetkazgan kuyov. Mir Arab madrasasi qurilishini yakunlagan merosxo'r me'mor va shayx",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «1531–1532-yillarda Toshkentda ikki maqbarani o'z ichiga olgan madrasa bunyod ettirgan xon» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Muhammad Bakr",
+        "Baroqxon",
+        "Shayx Zakariyo"
+      ],
+      "answer": 2,
+      "explain": "Baroqxon — Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li. 1531–1532-yillarda Toshkentda ikki maqbarani o'z ichiga olgan madrasa bunyod ettirgan xon",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): Baroqxon — 1531–1532-yillarda Toshkentda ikki maqbarani o'z ichiga olgan madrasa bunyod ettirgan xon.",
+      "answer": true,
+      "explain": "Baroqxon — Abulxayrxonning nevarasi, Toshkent hokimi Suyunchxo'janing ikki maqbarali madrasa qurdirgan kichik o'g'li. 1531–1532-yillarda Toshkentda ikki maqbarani o'z ichiga olgan madrasa bunyod ettirgan xon",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Darvozasi xotamkori uslubida terilgan mashhur madrasa va zargarlik toqini barpo ettirgan hukmdor» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Muhammad Bakr",
+        "Shayx Zakariyo",
+        "Abdullaxon II"
+      ],
+      "answer": 3,
+      "explain": "Abdullaxon II — Buxoroda Toqi Zargaron hamda onasi madrasasi bilan «qo'sh» shaklidagi Abdullaxon madrasasini qurdirgan xon. Darvozasi xotamkori uslubida terilgan mashhur madrasa va zargarlik toqini barpo ettirgan hukmdor",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): Abdullaxon II — darvozasi xotamkori uslubida terilgan mashhur madrasa va zargarlik toqini barpo ettirgan hukmdor.",
+      "answer": true,
+      "explain": "Abdullaxon II — Buxoroda Toqi Zargaron hamda onasi madrasasi bilan «qo'sh» shaklidagi Abdullaxon madrasasini qurdirgan xon. Darvozasi xotamkori uslubida terilgan mashhur madrasa va zargarlik toqini barpo ettirgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "8-§ (Shayboniylar me'morchiligi): «Sayyid Abdulloh Yamaniyni Buxoroda qo'llab-quvvatlagan va o'sha madrasada dafn etilgan hukmdor» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Ubaydullaxon",
+        "Mir Arab (Sayyid Abdulloh Yamaniy)",
+        "Muhammad Bakr",
+        "Shayx Zakariyo"
+      ],
+      "answer": 0,
+      "explain": "Ubaydullaxon — Mir Arab madrasasi go'rxonasida yog'ochdan xotamkori usulida ishlangan sag'anasi qo'yilgan amir. Sayyid Abdulloh Yamaniyni Buxoroda qo'llab-quvvatlagan va o'sha madrasada dafn etilgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "8-§ (Shayboniylar me'morchiligi): Ubaydullaxon — sayyid Abdulloh Yamaniyni Buxoroda qo'llab-quvvatlagan va o'sha madrasada dafn etilgan hukmdor.",
+      "answer": true,
+      "explain": "Ubaydullaxon — Mir Arab madrasasi go'rxonasida yog'ochdan xotamkori usulida ishlangan sag'anasi qo'yilgan amir. Sayyid Abdulloh Yamaniyni Buxoroda qo'llab-quvvatlagan va o'sha madrasada dafn etilgan hukmdor",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "Toqi Sarrofon",
+      "Buxorodagi sarroflar savdo gumbazi"
+    ],
+    [
+      "Ko'kaldosh",
+      "Toshkentdagi 38 hujrali madrasa"
+    ],
+    [
+      "Qafasa",
+      "Guldasta tepasiga o'rnatilgan qism"
+    ],
+    [
+      "Miyonsaroy",
+      "5 gumbazli markaziy kirish xonasi"
+    ],
+    [
+      "Xotamkori",
+      "Mayda yog'och bo'laklaridan qadama san'at"
+    ],
+    [
+      "Toqi Zargaron",
+      "36 ustaxonali zargarlik toqi"
+    ],
+    [
+      "Qo'sh uslub",
+      "Ikki inshootni ro'parama-ro'para qurish"
+    ],
+    [
+      "Qir",
+      "Madrasa qurilishidagi maxsus qotishma"
+    ],
+    [
+      "Garmoba",
+      "Buxoro hammomlarining o'rta asr nomi"
+    ],
+    [
+      "Go'lax",
+      "Hammom yerostidagi olovxona"
+    ],
+    [
+      "Sovuqxona",
+      "Marmar supali birinchi hammom xonasi"
+    ],
+    [
+      "Kunjak",
+      "Buxorodagi ayollar hammomi"
+    ],
+    [
+      "Bozori kord",
+      "Buxorodagi erkaklar hammomi"
+    ],
+    [
+      "Poygumbaz",
+      "Gumbaz ostidagi 4,5 m li baraban"
+    ],
+    [
+      "Minorayi Kalon",
+      "Mir Arab madrasasi ro'parasidagi minora"
+    ],
+    [
+      "Qorixona",
+      "Baroqxon burchaklaridagi cho'ziq xona"
+    ],
+    [
+      "Oqsaroy",
+      "Baroqxon uslubi yaqin turadigan yodgorlik"
+    ],
+    [
+      "Supa",
+      "Sovuqxonadagi yarim metrlik marmar o'rindiq"
+    ],
+    [
+      "Girih",
+      "Handasiy chiziqli an'anaviy naqsh"
+    ],
+    [
+      "Sirkor",
+      "Rangli sir bilan qoplangan bezak"
+    ],
+    [
+      "Go'rxona",
+      "Dafn etiladigan gumbazli xona"
+    ],
+    [
+      "Darsxona",
+      "Madrasada o'quv mashg'uloti xonasi"
+    ],
+    [
+      "Guldasta",
+      "Bino burchaklaridagi minora-ustun"
+    ],
+    [
+      "Kunbotar",
+      "Mir Arab madrasasi kirish tomoni"
+    ],
+    [
+      "Mir Arab (Sayyid Abdulloh Yamaniy)",
+      "1530–1536-yillarda Mir Arab madrasasi asoschisi"
+    ],
+    [
+      "Muhammad Bakr",
+      "Mir Arabni Ubaydullaxon bilan tanishtirgan"
+    ],
+    [
+      "Shayx Zakariyo",
+      "Mir Arab madrasasini bitkazgan kuyov"
+    ],
+    [
+      "Baroqxon",
+      "Toshkent hokimi Suyunchxo'janing kichik o'g'li"
+    ],
+    [
+      "Abdullaxon II",
+      "Toqi Zargaron va qo'sh madrasa bunyodkori"
+    ],
+    [
+      "Ubaydullaxon",
+      "Sag'anasi Mir Arab madrasasida qo'yilgan xon"
+    ]
+  ]
+}

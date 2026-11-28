@@ -1576,39 +1576,39 @@
     },
     {
       "type": "fill",
-      "q": "x > 0 bo'lganda 2x + 2/x ifodaning eng kichik qiymatini toping.",
-      "answer": "4",
-      "explain": "Koshi bo'yicha ≥ 2√(2²) = 4."
+      "q": "Yakuniy takrorlash: y = (x − 4)² + 7 kvadrat funksiyaning eng kichik qiymatini toping.",
+      "answer": "7",
+      "explain": "(x − 4)² ≥ 0 bo'lgani uchun funksiyaning eng kichik qiymati 7 ga teng."
     },
     {
       "type": "fill",
-      "q": "x > 0 bo'lganda 3x + 3/x ifodaning eng kichik qiymatini toping.",
+      "q": "Yakuniy takrorlash: y = (x + 5)² − 9 parabolaning uchidagi koordinatalar yig'indisini toping.",
+      "answer": "-14",
+      "explain": "Parabola uchi (−5; −9) nuqtada, koordinatalar yig'indisi −5 + (−9) = −14."
+    },
+    {
+      "type": "fill",
+      "q": "Yakuniy takrorlash: x² − 11x + 28 = 0 kvadrat tenglama ildizlari ko'paytmasini toping.",
+      "answer": "28",
+      "explain": "Viyet teoremasiga ko'ra D = 121 − 112 = 9 > 0 va x₁ · x₂ = 28."
+    },
+    {
+      "type": "fill",
+      "q": "Yakuniy takrorlash: 3x² − 18x + 5 = 0 kvadrat tenglama ildizlari yig'indisini toping.",
       "answer": "6",
-      "explain": "Koshi bo'yicha ≥ 2√(3²) = 6."
+      "explain": "Viyet teoremasiga ko'ra D = 324 − 60 = 264 > 0 va x₁ + x₂ = 18 / 3 = 6."
     },
     {
       "type": "fill",
-      "q": "x > 0 bo'lganda 4x + 4/x ifodaning eng kichik qiymatini toping.",
-      "answer": "8",
-      "explain": "Koshi bo'yicha ≥ 2√(4²) = 8."
+      "q": "Yakuniy takrorlash: a₁ = 4, d = 3 bo'lgan arifmetik progressiyaning 12-hadini toping.",
+      "answer": "37",
+      "explain": "a₁₂ = a₁ + 11d = 4 + 11 · 3 = 37."
     },
     {
       "type": "fill",
-      "q": "x > 0 bo'lganda 5x + 5/x ifodaning eng kichik qiymatini toping.",
-      "answer": "10",
-      "explain": "Koshi bo'yicha ≥ 2√(5²) = 10."
-    },
-    {
-      "type": "fill",
-      "q": "x > 0 bo'lganda 6x + 6/x ifodaning eng kichik qiymatini toping.",
-      "answer": "12",
-      "explain": "Koshi bo'yicha ≥ 2√(6²) = 12."
-    },
-    {
-      "type": "fill",
-      "q": "x > 0 bo'lganda 7x + 7/x ifodaning eng kichik qiymatini toping.",
-      "answer": "14",
-      "explain": "Koshi bo'yicha ≥ 2√(7²) = 14."
+      "q": "Yakuniy takrorlash: b₁ = 3, q = 2 bo'lgan geometrik progressiyaning dastlabki 5 ta hadi yig'indisini toping.",
+      "answer": "93",
+      "explain": "S₅ = 3 · (2⁵ − 1) / (2 − 1) = 3 · 31 = 93."
     },
     {
       "type": "fill",

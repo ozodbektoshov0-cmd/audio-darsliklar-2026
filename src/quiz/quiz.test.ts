@@ -36,6 +36,10 @@ const ALGEBRA_FILES = fs
   .readdirSync(DATA_DIR)
   .filter((f) => f.startsWith("g9-uz-algebra-") && f.endsWith(".json"))
   .sort();
+const TARIX_FILES = fs
+  .readdirSync(DATA_DIR)
+  .filter((f) => f.startsWith("g9-uz-ozbekiston-tarixi-") && f.endsWith(".json"))
+  .sort();
 
 test("utility functions normalize, isFillCorrect, shuffleOptions, getCards work accurately", () => {
   assert.equal(normalize("  Choʻlponʼning   sheʼri "), "cho'lpon'ning she'ri");
@@ -237,3 +241,132 @@ test("difficulty classification, summary, and easy/medium/hard/progressive filte
   };
   assert.equal(classifyQuestionDifficulty(explicitQ), "hard");
 });
+
+test("all 24 topics of 9-sinf O'zbekiston tarixi (2024) exist and pass strict validation (200..300 Qs + game cards)", () => {
+  assert.equal(TARIX_FILES.length, 24, `Expected 24 Tarix topic files, found ${TARIX_FILES.length}`);
+
+  const seenIds = new Set<string>();
+  const loadedQuizzes: Quiz[] = [];
+
+  for (const file of TARIX_FILES) {
+    const raw = fs.readFileSync(path.join(DATA_DIR, file), "utf8");
+    const parsed = JSON.parse(raw) as Quiz;
+
+    assert.equal(isValidQuiz(parsed), true, `${file} failed isValidQuiz()`);
+    assert.equal(parsed.subjectId, "g9-uz-ozbekiston-tarixi", `${file} has wrong subjectId`);
+    assert.equal(parsed.grade, "9", `${file} has wrong grade`);
+    assert.equal(parsed.lang, "uz", `${file} has wrong lang`);
+    assert.ok(!seenIds.has(parsed.id), `Duplicate quiz id: ${parsed.id}`);
+    seenIds.add(parsed.id);
+
+    assert.ok(
+      parsed.questions.length >= 200 && parsed.questions.length <= 300,
+      `${file} should have 200..300 questions, got ${parsed.questions.length}`,
+    );
+
+    const summary = summarizeQuizDifficulties(parsed.questions);
+    assert.ok(summary.easy >= 50, `${file} needs >= 50 easy questions, got ${summary.easy}`);
+    assert.ok(summary.medium >= 50, `${file} needs >= 50 medium questions, got ${summary.medium}`);
+    assert.ok(summary.hard >= 50, `${file} needs >= 50 hard questions, got ${summary.hard}`);
+
+    const seenQuestions = new Set<string>();
+    const ansCounts = [0, 0, 0, 0];
+    for (let idx = 0; idx < parsed.questions.length; idx++) {
+      const q = parsed.questions[idx];
+      const normQ = normalize(q.q);
+      assert.ok(normQ.length >= 10, `${file} question #${idx} is too short: ${q.q}`);
+      assert.ok(!seenQuestions.has(normQ), `${file} has duplicate question #${idx}: ${q.q}`);
+      seenQuestions.add(normQ);
+
+      if (q.type === "choice") {
+        assert.equal(q.options.length, 4, `${file} choice Q#${idx} must have 4 options`);
+        const distinctOpts = new Set(q.options.map(normalize));
+        assert.equal(distinctOpts.size, 4, `${file} choice Q#${idx} has duplicate options: ${q.options.join(" | ")}`);
+        assert.ok(q.answer >= 0 && q.answer <= 3, `${file} choice Q#${idx} answer out of bounds`);
+        ansCounts[q.answer]++;
+      }
+      assert.ok(typeof q.explain === "string" && q.explain.trim().length > 0, `${file} Q#${idx} missing explain`);
+    }
+
+    for (let i = 0; i < 4; i++) {
+      assert.ok(ansCounts[i] >= 12, `${file} answer index ${i} under-represented: ${ansCounts[i]}`);
+    }
+
+    assert.ok(Array.isArray(parsed.cards) && parsed.cards.length >= 20, `${file} needs >= 20 cards`);
+    const shortCards = parsed.cards.filter(([a, b]) => a.length <= 70 && b.length <= 70);
+    assert.ok(
+      shortCards.length >= 15,
+      `${file} has only ${shortCards.length} MatchGame-eligible cards (<= 70 chars)`,
+    );
+
+    const words = extractWordPuzzles(parsed);
+    assert.ok(words.length >= 6, `${file} extracted only ${words.length} WordPuzzles`);
+
+    loadedQuizzes.push(parsed);
+  }
+
+  // Test game engines on sample Tarix topic and combined 24-topic book quiz
+  const sampleTopic = loadedQuizzes[0];
+  const bookQuiz = buildBookQuiz("g9-uz-ozbekiston-tarixi", loadedQuizzes, "O'zbekiston tarixi", true);
+  assert.ok(bookQuiz);
+  assert.ok(bookQuiz.questions.length >= 4800, `Expected >= 4800 Tarix book questions, got ${bookQuiz.questions.length}`);
+
+  const t0 = performance.now();
+  const playableTopic = toPlayableChoiceQuestions(sampleTopic, true);
+  const playableBook = toPlayableChoiceQuestions(bookQuiz, true);
+  const wordsBook = extractWordPuzzles(bookQuiz);
+  const ws = generateWordSearch(wordsBook, 10);
+  const cw = buildCrosswordGrid(wordsBook, 6);
+  const sentences = extractSentencePuzzles(bookQuiz);
+  const cloze = extractClozePuzzles(bookQuiz);
+  const boxes = buildMysteryBoxes(bookQuiz, 12, true);
+  const jeopardy = buildJeopardyBoard(loadedQuizzes.slice(0, 4), bookQuiz, true);
+  const deck = buildMemoryDeck(bookQuiz, sampleTopic, 6);
+  const chain = buildWordChain(wordsBook, 8);
+  const elapsedMs = performance.now() - t0;
+
+  assert.ok(playableTopic.length > 0);
+  assert.ok(playableBook.length > 0);
+  assert.ok(ws.placements.length >= 4);
+  assert.ok(cw.entries.length >= 2);
+  assert.ok(sentences.length >= 5);
+  assert.ok(cloze.length >= 5);
+  assert.equal(boxes.length, 12);
+  assert.equal(jeopardy.length, 4);
+  assert.equal(deck.length, 12);
+  assert.ok(chain.length >= 4);
+  assert.ok(elapsedMs < 1500, `Combined Tarix game engine generation took too long: ${elapsedMs.toFixed(1)} ms`);
+});
+
+test("zero duplicate questions exist globally across ALL quiz files in src/quiz/data", () => {
+  const allFiles = fs
+    .readdirSync(DATA_DIR)
+    .filter((f) => f.endsWith(".json"))
+    .sort();
+  assert.ok(allFiles.length >= 78, `Expected all subject files, found ${allFiles.length}`);
+
+  const globalSeen = new Map<string, string>();
+  const duplicates: string[] = [];
+
+  for (const file of allFiles) {
+    const raw = fs.readFileSync(path.join(DATA_DIR, file), "utf8");
+    const parsed = JSON.parse(raw) as Quiz;
+    for (let idx = 0; idx < parsed.questions.length; idx++) {
+      const q = parsed.questions[idx];
+      const normQ = normalize(q.q);
+      const prev = globalSeen.get(normQ);
+      if (prev) {
+        duplicates.push(`"${q.q}" in ${file}#${idx} duplicates ${prev}`);
+      } else {
+        globalSeen.set(normQ, `${file}#${idx}`);
+      }
+    }
+  }
+
+  assert.equal(
+    duplicates.length,
+    0,
+    `Found ${duplicates.length} duplicate questions across quiz data:\n${duplicates.slice(0, 10).join("\n")}`,
+  );
+});
+

@@ -1,0 +1,2403 @@
+{
+  "id": "g9-uz-ozbekiston-tarixi-15-mangitlar-ilm-fan-madaniyat",
+  "subjectId": "g9-uz-ozbekiston-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "O'zbekiston tarixi",
+  "topicTitle": "16-§. Mang'itlar davrida ilm-fan va madaniyat",
+  "title": "16-§. Mang'itlar davrida ilm-fan va madaniyat",
+  "source": "O'zbekiston tarixi 9-sinf (2024), 16-§, 83–88-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): qaysi yilda jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan?",
+      "options": [
+        "1646-yil",
+        "1671-yil",
+        "1777-yil",
+        "1643-yil"
+      ],
+      "answer": 3,
+      "explain": "1643-yilda jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) tarixida 1643-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan",
+        "nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan",
+        "Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan",
+        "Buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan"
+      ],
+      "answer": 0,
+      "explain": "1643-yilda jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) davrida ____-yilda jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan. (Yilni kiriting)",
+      "answer": [
+        "1643",
+        "1643-yil",
+        "1643-yilda"
+      ],
+      "explain": "1643-yilda jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1643-yilda jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan.",
+      "answer": true,
+      "explain": "1643-yilda jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha 1655-yilda jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1643-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): qaysi yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan?",
+      "options": [
+        "1643-yil",
+        "1646-yil",
+        "1671-yil",
+        "1777-yil"
+      ],
+      "answer": 1,
+      "explain": "1646-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) tarixida 1646-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan",
+        "Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan",
+        "nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan",
+        "Buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan"
+      ],
+      "answer": 2,
+      "explain": "1646-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) davrida ____-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan. (Yilni kiriting)",
+      "answer": [
+        "1646",
+        "1646-yil",
+        "1646-yilda"
+      ],
+      "explain": "1646-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1646-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan.",
+      "answer": true,
+      "explain": "1646-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha 1635-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1646-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): qaysi yilda isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan?",
+      "options": [
+        "1643-yil",
+        "1646-yil",
+        "1777-yil",
+        "1671-yil"
+      ],
+      "answer": 3,
+      "explain": "1671-yilda isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) tarixida 1671-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan",
+        "jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan",
+        "nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan",
+        "Buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan"
+      ],
+      "answer": 0,
+      "explain": "1671-yilda isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) davrida ____-yilda isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan. (Yilni kiriting)",
+      "answer": [
+        "1671",
+        "1671-yil",
+        "1671-yilda"
+      ],
+      "explain": "1671-yilda isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1671-yilda isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan.",
+      "answer": true,
+      "explain": "1671-yilda isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha 1683-yilda isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1671-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): qaysi yilda buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan?",
+      "options": [
+        "1643-yil",
+        "1777-yil",
+        "1646-yil",
+        "1671-yil"
+      ],
+      "answer": 1,
+      "explain": "1777-yilda buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) tarixida 1777-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan",
+        "nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan",
+        "Buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan",
+        "Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan"
+      ],
+      "answer": 2,
+      "explain": "1777-yilda buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) davrida ____-yilda buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan. (Yilni kiriting)",
+      "answer": [
+        "1777",
+        "1777-yil",
+        "1777-yilda"
+      ],
+      "explain": "1777-yilda buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1777-yilda buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan.",
+      "answer": true,
+      "explain": "1777-yilda buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha 1766-yilda buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1777-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): qaysi yilda shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy madrasa qurish uchun 12 tanob yer sotib olgan?",
+      "options": [
+        "1643-yil",
+        "1646-yil",
+        "1671-yil",
+        "1786-yil"
+      ],
+      "answer": 3,
+      "explain": "1786-yilda shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy madrasa qurish uchun 12 tanob yer sotib olgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) tarixida 1786-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy madrasa qurish uchun 12 tanob yer sotib olgan",
+        "jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan",
+        "nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan",
+        "Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan"
+      ],
+      "answer": 0,
+      "explain": "1786-yilda shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy madrasa qurish uchun 12 tanob yer sotib olgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) davrida ____-yilda shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy madrasa qurish uchun 12 tanob yer sotib olgan. (Yilni kiriting)",
+      "answer": [
+        "1786",
+        "1786-yil",
+        "1786-yilda"
+      ],
+      "explain": "1786-yilda shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy madrasa qurish uchun 12 tanob yer sotib olgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1786-yilda shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy madrasa qurish uchun 12 tanob yer sotib olgan.",
+      "answer": true,
+      "explain": "1786-yilda shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy madrasa qurish uchun 12 tanob yer sotib olgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha 1798-yilda shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy madrasa qurish uchun 12 tanob yer sotib olgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1786-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): qaysi yilda buxoroda to'rt minorali mashhur «Chor Minor» me'moriy yodgorligi qurilgan?",
+      "options": [
+        "1643-yil",
+        "1807-yil",
+        "1646-yil",
+        "1671-yil"
+      ],
+      "answer": 1,
+      "explain": "1807-yilda buxoroda to'rt minorali mashhur «Chor Minor» me'moriy yodgorligi qurilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) tarixida 1807-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan",
+        "nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan",
+        "Buxoroda to'rt minorali mashhur «Chor Minor» me'moriy yodgorligi qurilgan",
+        "Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan"
+      ],
+      "answer": 2,
+      "explain": "1807-yilda buxoroda to'rt minorali mashhur «Chor Minor» me'moriy yodgorligi qurilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) davrida ____-yilda buxoroda to'rt minorali mashhur «Chor Minor» me'moriy yodgorligi qurilgan. (Yilni kiriting)",
+      "answer": [
+        "1807",
+        "1807-yil",
+        "1807-yilda"
+      ],
+      "explain": "1807-yilda buxoroda to'rt minorali mashhur «Chor Minor» me'moriy yodgorligi qurilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1807-yilda buxoroda to'rt minorali mashhur «Chor Minor» me'moriy yodgorligi qurilgan.",
+      "answer": true,
+      "explain": "1807-yilda buxoroda to'rt minorali mashhur «Chor Minor» me'moriy yodgorligi qurilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha 1796-yilda buxoroda to'rt minorali mashhur «Chor Minor» me'moriy yodgorligi qurilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1807-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): qaysi yilda samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan?",
+      "options": [
+        "1643-yil",
+        "1646-yil",
+        "1671-yil",
+        "1826-yil"
+      ],
+      "answer": 3,
+      "explain": "1826-yilda samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) tarixida 1826-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "Samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan",
+        "jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan",
+        "nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan",
+        "Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan"
+      ],
+      "answer": 0,
+      "explain": "1826-yilda samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) davrida ____-yilda samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan. (Yilni kiriting)",
+      "answer": [
+        "1826",
+        "1826-yil",
+        "1826-yilda"
+      ],
+      "explain": "1826-yilda samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1826-yilda samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan.",
+      "answer": true,
+      "explain": "1826-yilda samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha 1838-yilda samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1826-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): qaysi yilda buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan?",
+      "options": [
+        "1643-yil",
+        "1995-yil",
+        "1646-yil",
+        "1671-yil"
+      ],
+      "answer": 1,
+      "explain": "1995-yilda buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) tarixida 1995-yilda qanday muhim voqea yuz bergan?",
+      "options": [
+        "jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan",
+        "nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan",
+        "Buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan",
+        "Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan"
+      ],
+      "answer": 2,
+      "explain": "1995-yilda buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) davrida ____-yilda buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan. (Yilni kiriting)",
+      "answer": [
+        "1995",
+        "1995-yil",
+        "1995-yilda"
+      ],
+      "explain": "1995-yilda buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1995-yilda buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan.",
+      "answer": true,
+      "explain": "1995-yilda buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha 1984-yilda buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: aslida bu voqea 1995-yilda sodir bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): quyidagi voqealardan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan",
+        "Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan",
+        "Buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan",
+        "jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan"
+      ],
+      "answer": 3,
+      "explain": "Eng avvalgi voqea — «jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan» (1643).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): quyidagi voqealardan qaysi biri eng keyin sodir bo'lgan?",
+      "options": [
+        "Buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan",
+        "jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan",
+        "nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan",
+        "Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan"
+      ],
+      "answer": 0,
+      "explain": "Eng keyingi voqea — «Buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan» (1777).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (16-§ (Mang'itlar ilm-fan va madaniyati)): «jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan» voqeasi «nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan» voqeasidan oldin sodir bo'lgan.",
+      "answer": true,
+      "explain": "1643 < 1646, shu sababli fikr to'g'ri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (16-§ (Mang'itlar ilm-fan va madaniyati)): «Buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan» voqeasi «Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan» voqeasidan oldin sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan (1671) Buxoroda mashhur Xalifa Xudoydod majmuasi qurilishi davri (1777–1855) boshlangan (1777) voqeasidan oldin ro'y bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (16-§ (Mang'itlar ilm-fan va madaniyati)): «Shayx Xudoydod ibn Toshmuhammad Azizon al-Buxoriy madrasa qurish uchun 12 tanob yer sotib olgan» voqeasi «Buxoroda to'rt minorali mashhur «Chor Minor» me'moriy yodgorligi qurilgan» voqeasidan oldin sodir bo'lgan.",
+      "answer": true,
+      "explain": "1786 < 1807, shu sababli fikr to'g'ri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xronologiya (16-§ (Mang'itlar ilm-fan va madaniyati)): «Buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan» voqeasi «Samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan» voqeasidan oldin sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri: Samarqandda madrasa qurdirgan va 1800-yildan boshqargan Amir Haydar hukmronligi yakunlangan (1826) Buxorodagi Chor Minor majmuasi YuNESKOning Jahon merosi ro'yxatiga kiritilgan (1995) voqeasidan oldin ro'y bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): quyidagi uch voqeaning to'g'ri xronologik ketma-ketligini aniqlang.",
+      "options": [
+        "1) nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan; 2) jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan; 3) Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan",
+        "1) jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan; 2) nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan; 3) Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan",
+        "1) Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan; 2) nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan; 3) jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan",
+        "1) jahon ilm-fanida ulkan kashfiyotlar qilgan ingliz olimi Isaak Nyuton (1643–1727) tavallud topgan; 2) Isaak Nyuton ko'zguli teleskopni yaratib, hali 30 yoshga to'lmasdan Qirollik jamiyatiga a'zo bo'lgan; 3) nemis olimi va faylasufi Gotfrid Vilgelm Leybnis (1646–1716) tavallud topgan"
+      ],
+      "answer": 1,
+      "explain": "To'g'ri xronologiya: 1643 -> 1646 -> 1671.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar",
+        "Shayx Xudoydod Azizon",
+        "Isaak Nyuton"
+      ],
+      "answer": 3,
+      "explain": "Isaak Nyuton — 1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi. Yevropada tabiiy va aniq fanlar jadallashayotgan bir paytda Xonlik ta'limining ortda qolishiga qiyos sifatida tilga olingan olim",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Isaak Nyuton tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi",
+        "1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi",
+        "1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir",
+        "1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx"
+      ],
+      "answer": 0,
+      "explain": "Isaak Nyuton — 1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi. Yevropada tabiiy va aniq fanlar jadallashayotgan bir paytda Xonlik ta'limining ortda qolishiga qiyos sifatida tilga olingan olim",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Yevropada tabiiy va aniq fanlar jadallashayotgan bir paytda Xonlik ta'limining ortda qolishiga qiyos sifatida tilga olingan olim — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Isaak Nyuton"
+      ],
+      "explain": "Isaak Nyuton — 1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi. Yevropada tabiiy va aniq fanlar jadallashayotgan bir paytda Xonlik ta'limining ortda qolishiga qiyos sifatida tilga olingan olim",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) shaxslari: Isaak Nyuton — 1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi.",
+      "answer": true,
+      "explain": "Isaak Nyuton — 1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi. Yevropada tabiiy va aniq fanlar jadallashayotgan bir paytda Xonlik ta'limining ortda qolishiga qiyos sifatida tilga olingan olim",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi» ta'rifi Gotfrid Vilgelm Leybnis faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Isaak Nyuton haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Isaak Nyuton",
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar",
+        "Shayx Xudoydod Azizon"
+      ],
+      "answer": 1,
+      "explain": "Gotfrid Vilgelm Leybnis — 1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi. XVII–XVIII asrlarda Yevropada ilm-fan yuksalishini ko'rsatuvchi buyuk alloma",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Gotfrid Vilgelm Leybnis tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi",
+        "1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir",
+        "1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi",
+        "1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx"
+      ],
+      "answer": 2,
+      "explain": "Gotfrid Vilgelm Leybnis — 1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi. XVII–XVIII asrlarda Yevropada ilm-fan yuksalishini ko'rsatuvchi buyuk alloma",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): XVII–XVIII asrlarda Yevropada ilm-fan yuksalishini ko'rsatuvchi buyuk alloma — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Gotfrid Vilgelm Leybnis",
+        "G.V.Leybnis"
+      ],
+      "explain": "Gotfrid Vilgelm Leybnis — 1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi. XVII–XVIII asrlarda Yevropada ilm-fan yuksalishini ko'rsatuvchi buyuk alloma",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) shaxslari: Gotfrid Vilgelm Leybnis — 1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi.",
+      "answer": true,
+      "explain": "Gotfrid Vilgelm Leybnis — 1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi. XVII–XVIII asrlarda Yevropada ilm-fan yuksalishini ko'rsatuvchi buyuk alloma",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi» ta'rifi Isaak Nyuton faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Gotfrid Vilgelm Leybnis haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Isaak Nyuton",
+        "Gotfrid Vilgelm Leybnis",
+        "Shayx Xudoydod Azizon",
+        "Amir Haydar"
+      ],
+      "answer": 3,
+      "explain": "Amir Haydar — 1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir. Amir Shohmurod boshlagan Samarqandni qayta tiklash va madaniy qurilishlarni davom ettirgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Amir Haydar tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir",
+        "1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi",
+        "1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi",
+        "1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx"
+      ],
+      "answer": 0,
+      "explain": "Amir Haydar — 1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir. Amir Shohmurod boshlagan Samarqandni qayta tiklash va madaniy qurilishlarni davom ettirgan hukmdor",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Amir Shohmurod boshlagan Samarqandni qayta tiklash va madaniy qurilishlarni davom ettirgan hukmdor — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Amir Haydar"
+      ],
+      "explain": "Amir Haydar — 1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir. Amir Shohmurod boshlagan Samarqandni qayta tiklash va madaniy qurilishlarni davom ettirgan hukmdor",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) shaxslari: Amir Haydar — 1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir.",
+      "answer": true,
+      "explain": "Amir Haydar — 1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir. Amir Shohmurod boshlagan Samarqandni qayta tiklash va madaniy qurilishlarni davom ettirgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir» ta'rifi Isaak Nyuton faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Amir Haydar haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Isaak Nyuton",
+        "Shayx Xudoydod Azizon",
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar"
+      ],
+      "answer": 1,
+      "explain": "Shayx Xudoydod Azizon — 1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx. «Tuhfat az-zohirin» asariga ko'ra Xorazm shahzodalaridan bo'lgan va 39 hujrali madrasa-xonaqoh qurdirgan ulamo",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Shayx Xudoydod Azizon tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi",
+        "1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi",
+        "1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx",
+        "1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir"
+      ],
+      "answer": 2,
+      "explain": "Shayx Xudoydod Azizon — 1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx. «Tuhfat az-zohirin» asariga ko'ra Xorazm shahzodalaridan bo'lgan va 39 hujrali madrasa-xonaqoh qurdirgan ulamo",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Tuhfat az-zohirin» asariga ko'ra Xorazm shahzodalaridan bo'lgan va 39 hujrali madrasa-xonaqoh qurdirgan ulamo — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Shayx Xudoydod Azizon",
+        "Xalifa Xudoydod"
+      ],
+      "explain": "Shayx Xudoydod Azizon — 1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx. «Tuhfat az-zohirin» asariga ko'ra Xorazm shahzodalaridan bo'lgan va 39 hujrali madrasa-xonaqoh qurdirgan ulamo",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) shaxslari: Shayx Xudoydod Azizon — 1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx.",
+      "answer": true,
+      "explain": "Shayx Xudoydod Azizon — 1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx. «Tuhfat az-zohirin» asariga ko'ra Xorazm shahzodalaridan bo'lgan va 39 hujrali madrasa-xonaqoh qurdirgan ulamo",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx» ta'rifi Isaak Nyuton faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Shayx Xudoydod Azizon haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Amir Haydar davrida Qarshi shahrida o'z mablag'iga madrasa qurdirgan sutchi ayol sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Isaak Nyuton",
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar",
+        "Guli"
+      ],
+      "answer": 3,
+      "explain": "Guli — Amir Haydar davrida Qarshi shahrida o'z mablag'iga madrasa qurdirgan sutchi ayol. Halol mehnati bilan to'plagan mablag'iga Qarshida ma'rifat maskani barpo ettirgan saxovatli ayol",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Guli tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "Amir Haydar davrida Qarshi shahrida o'z mablag'iga madrasa qurdirgan sutchi ayol",
+        "1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi",
+        "1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi",
+        "1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir"
+      ],
+      "answer": 0,
+      "explain": "Guli — Amir Haydar davrida Qarshi shahrida o'z mablag'iga madrasa qurdirgan sutchi ayol. Halol mehnati bilan to'plagan mablag'iga Qarshida ma'rifat maskani barpo ettirgan saxovatli ayol",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Halol mehnati bilan to'plagan mablag'iga Qarshida ma'rifat maskani barpo ettirgan saxovatli ayol — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Guli"
+      ],
+      "explain": "Guli — Amir Haydar davrida Qarshi shahrida o'z mablag'iga madrasa qurdirgan sutchi ayol. Halol mehnati bilan to'plagan mablag'iga Qarshida ma'rifat maskani barpo ettirgan saxovatli ayol",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) shaxslari: Guli — Amir Haydar davrida Qarshi shahrida o'z mablag'iga madrasa qurdirgan sutchi ayol.",
+      "answer": true,
+      "explain": "Guli — Amir Haydar davrida Qarshi shahrida o'z mablag'iga madrasa qurdirgan sutchi ayol. Halol mehnati bilan to'plagan mablag'iga Qarshida ma'rifat maskani barpo ettirgan saxovatli ayol",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Amir Haydar davrida Qarshi shahrida o'z mablag'iga madrasa qurdirgan sutchi ayol» ta'rifi Isaak Nyuton faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Guli haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Mang'itlar davrida «Mizan at-tibb» («Tib tarozisi») asariga sharhlar yozilgan tabib va olim sifatida tanilgan tarixiy shaxs kim?",
+      "options": [
+        "Isaak Nyuton",
+        "Muhammad Sharif Buxoriy",
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar"
+      ],
+      "answer": 1,
+      "explain": "Muhammad Sharif Buxoriy — Mang'itlar davrida «Mizan at-tibb» («Tib tarozisi») asariga sharhlar yozilgan tabib va olim. Tibbiyot ilmiga oid qo'llanmalari XVIII–XIX asrlarda madrasalarda o'rganilgan olim",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Muhammad Sharif Buxoriy tarixda qaysi faoliyati bilan ajralib turadi?",
+      "options": [
+        "1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi",
+        "1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi",
+        "Mang'itlar davrida «Mizan at-tibb» («Tib tarozisi») asariga sharhlar yozilgan tabib va olim",
+        "1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir"
+      ],
+      "answer": 2,
+      "explain": "Muhammad Sharif Buxoriy — Mang'itlar davrida «Mizan at-tibb» («Tib tarozisi») asariga sharhlar yozilgan tabib va olim. Tibbiyot ilmiga oid qo'llanmalari XVIII–XIX asrlarda madrasalarda o'rganilgan olim",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Tibbiyot ilmiga oid qo'llanmalari XVIII–XIX asrlarda madrasalarda o'rganilgan olim — gap qaysi shaxs haqida ketmoqda?",
+      "answer": [
+        "Muhammad Sharif Buxoriy"
+      ],
+      "explain": "Muhammad Sharif Buxoriy — Mang'itlar davrida «Mizan at-tibb» («Tib tarozisi») asariga sharhlar yozilgan tabib va olim. Tibbiyot ilmiga oid qo'llanmalari XVIII–XIX asrlarda madrasalarda o'rganilgan olim",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) shaxslari: Muhammad Sharif Buxoriy — Mang'itlar davrida «Mizan at-tibb» («Tib tarozisi») asariga sharhlar yozilgan tabib va olim.",
+      "answer": true,
+      "explain": "Muhammad Sharif Buxoriy — Mang'itlar davrida «Mizan at-tibb» («Tib tarozisi») asariga sharhlar yozilgan tabib va olim. Tibbiyot ilmiga oid qo'llanmalari XVIII–XIX asrlarda madrasalarda o'rganilgan olim",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mang'itlar davrida «Mizan at-tibb» («Tib tarozisi») asariga sharhlar yozilgan tabib va olim» ta'rifi Isaak Nyuton faoliyatiga tegishli.",
+      "answer": false,
+      "explain": "Noto'g'ri: bu ta'rif Muhammad Sharif Buxoriy haqida.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Chorsu» tushunchasi nimani anglatadi?",
+      "options": [
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot",
+        "O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti",
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi"
+      ],
+      "answer": 3,
+      "explain": "Chorsu — Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Chorsu",
+        "Toqi musaddas",
+        "Chor Minor",
+        "Tim"
+      ],
+      "answer": 0,
+      "explain": "Chorsu — Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Chorsu"
+      ],
+      "explain": "Chorsu — Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Chorsu» — Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi.",
+      "answer": true,
+      "explain": "Chorsu — Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Chorsu» tushunchasi «Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Chorsu» — Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Toqi musaddas» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot",
+        "O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti"
+      ],
+      "answer": 1,
+      "explain": "Toqi musaddas — Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Chorsu",
+        "Chor Minor",
+        "Toqi musaddas",
+        "Tim"
+      ],
+      "answer": 2,
+      "explain": "Toqi musaddas — Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Toqi musaddas"
+      ],
+      "explain": "Toqi musaddas — Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Toqi musaddas» — Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi.",
+      "answer": true,
+      "explain": "Toqi musaddas — Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Toqi musaddas» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Toqi musaddas» — Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Chor Minor» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot"
+      ],
+      "answer": 3,
+      "explain": "Chor Minor — 1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Chor Minor",
+        "Chorsu",
+        "Toqi musaddas",
+        "Tim"
+      ],
+      "answer": 0,
+      "explain": "Chor Minor — 1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): 1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Chor Minor"
+      ],
+      "explain": "Chor Minor — 1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Chor Minor» — 1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot.",
+      "answer": true,
+      "explain": "Chor Minor — 1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Chor Minor» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Chor Minor» — 1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Tim» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot"
+      ],
+      "answer": 1,
+      "explain": "Tim — O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Chorsu",
+        "Toqi musaddas",
+        "Tim",
+        "Chor Minor"
+      ],
+      "answer": 2,
+      "explain": "Tim — O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Tim"
+      ],
+      "explain": "Tim — O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Tim» — O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti.",
+      "answer": true,
+      "explain": "Tim — O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Tim» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Tim» — O'rta asrlarda usti yopiq bozor yoki ko'p gumbazli savdo rasta inshooti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Registon» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot",
+        "«Qumloq joy» ma'nosini bildirib, shaharning markaziy tantana va yig'in maydoni"
+      ],
+      "answer": 3,
+      "explain": "Registon — «Qumloq joy» ma'nosini bildirib, shaharning markaziy tantana va yig'in maydoni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): ««Qumloq joy» ma'nosini bildirib, shaharning markaziy tantana va yig'in maydoni» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Registon",
+        "Chorsu",
+        "Toqi musaddas",
+        "Chor Minor"
+      ],
+      "answer": 0,
+      "explain": "Registon — «Qumloq joy» ma'nosini bildirib, shaharning markaziy tantana va yig'in maydoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Qumloq joy» ma'nosini bildirib, shaharning markaziy tantana va yig'in maydoni — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Registon"
+      ],
+      "explain": "Registon — «Qumloq joy» ma'nosini bildirib, shaharning markaziy tantana va yig'in maydoni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Registon» — «Qumloq joy» ma'nosini bildirib, shaharning markaziy tantana va yig'in maydoni.",
+      "answer": true,
+      "explain": "Registon — «Qumloq joy» ma'nosini bildirib, shaharning markaziy tantana va yig'in maydoni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Registon» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Registon» — «Qumloq joy» ma'nosini bildirib, shaharning markaziy tantana va yig'in maydoni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Sardoba» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "Xalifa Xudoydod majmuasi tarkibida ikki kirishli qilib qurilgan suv saqlash inshooti",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot"
+      ],
+      "answer": 1,
+      "explain": "Sardoba — Xalifa Xudoydod majmuasi tarkibida ikki kirishli qilib qurilgan suv saqlash inshooti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Xalifa Xudoydod majmuasi tarkibida ikki kirishli qilib qurilgan suv saqlash inshooti» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Chorsu",
+        "Toqi musaddas",
+        "Sardoba",
+        "Chor Minor"
+      ],
+      "answer": 2,
+      "explain": "Sardoba — Xalifa Xudoydod majmuasi tarkibida ikki kirishli qilib qurilgan suv saqlash inshooti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Xalifa Xudoydod majmuasi tarkibida ikki kirishli qilib qurilgan suv saqlash inshooti — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Sardoba"
+      ],
+      "explain": "Sardoba — Xalifa Xudoydod majmuasi tarkibida ikki kirishli qilib qurilgan suv saqlash inshooti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Sardoba» — Xalifa Xudoydod majmuasi tarkibida ikki kirishli qilib qurilgan suv saqlash inshooti.",
+      "answer": true,
+      "explain": "Sardoba — Xalifa Xudoydod majmuasi tarkibida ikki kirishli qilib qurilgan suv saqlash inshooti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Sardoba» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Sardoba» — Xalifa Xudoydod majmuasi tarkibida ikki kirishli qilib qurilgan suv saqlash inshooti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Mir Bekoybiy madrasasi» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot",
+        "Qarshi shahrining shimoliy Tutak darvozasi yaqinida qurilgan va Amir Shohmurod vaqf yerlari ajratgan madrasa"
+      ],
+      "answer": 3,
+      "explain": "Mir Bekoybiy madrasasi — Qarshi shahrining shimoliy Tutak darvozasi yaqinida qurilgan va Amir Shohmurod vaqf yerlari ajratgan madrasa.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Qarshi shahrining shimoliy Tutak darvozasi yaqinida qurilgan va Amir Shohmurod vaqf yerlari ajratgan madrasa» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Mir Bekoybiy madrasasi",
+        "Chorsu",
+        "Toqi musaddas",
+        "Chor Minor"
+      ],
+      "answer": 0,
+      "explain": "Mir Bekoybiy madrasasi — Qarshi shahrining shimoliy Tutak darvozasi yaqinida qurilgan va Amir Shohmurod vaqf yerlari ajratgan madrasa.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Qarshi shahrining shimoliy Tutak darvozasi yaqinida qurilgan va Amir Shohmurod vaqf yerlari ajratgan madrasa — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Mir Bekoybiy madrasasi"
+      ],
+      "explain": "Mir Bekoybiy madrasasi — Qarshi shahrining shimoliy Tutak darvozasi yaqinida qurilgan va Amir Shohmurod vaqf yerlari ajratgan madrasa.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Mir Bekoybiy madrasasi» — Qarshi shahrining shimoliy Tutak darvozasi yaqinida qurilgan va Amir Shohmurod vaqf yerlari ajratgan madrasa.",
+      "answer": true,
+      "explain": "Mir Bekoybiy madrasasi — Qarshi shahrining shimoliy Tutak darvozasi yaqinida qurilgan va Amir Shohmurod vaqf yerlari ajratgan madrasa.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Mir Bekoybiy madrasasi» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Mir Bekoybiy madrasasi» — Qarshi shahrining shimoliy Tutak darvozasi yaqinida qurilgan va Amir Shohmurod vaqf yerlari ajratgan madrasa.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Tuhfat al-xoniy» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "Mang'itlar hukmronligi davrida yaratilgan yirik tarixiy asarlardan biri",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot"
+      ],
+      "answer": 1,
+      "explain": "Tuhfat al-xoniy — Mang'itlar hukmronligi davrida yaratilgan yirik tarixiy asarlardan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mang'itlar hukmronligi davrida yaratilgan yirik tarixiy asarlardan biri» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Chorsu",
+        "Toqi musaddas",
+        "Tuhfat al-xoniy",
+        "Chor Minor"
+      ],
+      "answer": 2,
+      "explain": "Tuhfat al-xoniy — Mang'itlar hukmronligi davrida yaratilgan yirik tarixiy asarlardan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Mang'itlar hukmronligi davrida yaratilgan yirik tarixiy asarlardan biri — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Tuhfat al-xoniy"
+      ],
+      "explain": "Tuhfat al-xoniy — Mang'itlar hukmronligi davrida yaratilgan yirik tarixiy asarlardan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Tuhfat al-xoniy» — Mang'itlar hukmronligi davrida yaratilgan yirik tarixiy asarlardan biri.",
+      "answer": true,
+      "explain": "Tuhfat al-xoniy — Mang'itlar hukmronligi davrida yaratilgan yirik tarixiy asarlardan biri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Tuhfat al-xoniy» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Tuhfat al-xoniy» — Mang'itlar hukmronligi davrida yaratilgan yirik tarixiy asarlardan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Fathnomayi sultoniy» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot",
+        "Mang'itlar davri tarixi va harbiy yurishlarini aks ettirgan tarixiy asar"
+      ],
+      "answer": 3,
+      "explain": "Fathnomayi sultoniy — Mang'itlar davri tarixi va harbiy yurishlarini aks ettirgan tarixiy asar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mang'itlar davri tarixi va harbiy yurishlarini aks ettirgan tarixiy asar» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Fathnomayi sultoniy",
+        "Chorsu",
+        "Toqi musaddas",
+        "Chor Minor"
+      ],
+      "answer": 0,
+      "explain": "Fathnomayi sultoniy — Mang'itlar davri tarixi va harbiy yurishlarini aks ettirgan tarixiy asar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Mang'itlar davri tarixi va harbiy yurishlarini aks ettirgan tarixiy asar — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Fathnomayi sultoniy"
+      ],
+      "explain": "Fathnomayi sultoniy — Mang'itlar davri tarixi va harbiy yurishlarini aks ettirgan tarixiy asar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Fathnomayi sultoniy» — Mang'itlar davri tarixi va harbiy yurishlarini aks ettirgan tarixiy asar.",
+      "answer": true,
+      "explain": "Fathnomayi sultoniy — Mang'itlar davri tarixi va harbiy yurishlarini aks ettirgan tarixiy asar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Fathnomayi sultoniy» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Fathnomayi sultoniy» — Mang'itlar davri tarixi va harbiy yurishlarini aks ettirgan tarixiy asar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Mizan at-tibb» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "Muhammad Sharif Buxoriy tomonidan tibbiyot sohasida yozilib ko'plab sharhlar bitilgan asar",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot"
+      ],
+      "answer": 1,
+      "explain": "Mizan at-tibb — Muhammad Sharif Buxoriy tomonidan tibbiyot sohasida yozilib ko'plab sharhlar bitilgan asar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Muhammad Sharif Buxoriy tomonidan tibbiyot sohasida yozilib ko'plab sharhlar bitilgan asar» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Chorsu",
+        "Toqi musaddas",
+        "Mizan at-tibb",
+        "Chor Minor"
+      ],
+      "answer": 2,
+      "explain": "Mizan at-tibb — Muhammad Sharif Buxoriy tomonidan tibbiyot sohasida yozilib ko'plab sharhlar bitilgan asar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Muhammad Sharif Buxoriy tomonidan tibbiyot sohasida yozilib ko'plab sharhlar bitilgan asar — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Mizan at-tibb"
+      ],
+      "explain": "Mizan at-tibb — Muhammad Sharif Buxoriy tomonidan tibbiyot sohasida yozilib ko'plab sharhlar bitilgan asar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Mizan at-tibb» — Muhammad Sharif Buxoriy tomonidan tibbiyot sohasida yozilib ko'plab sharhlar bitilgan asar.",
+      "answer": true,
+      "explain": "Mizan at-tibb — Muhammad Sharif Buxoriy tomonidan tibbiyot sohasida yozilib ko'plab sharhlar bitilgan asar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Mizan at-tibb» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Mizan at-tibb» — Muhammad Sharif Buxoriy tomonidan tibbiyot sohasida yozilib ko'plab sharhlar bitilgan asar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Tutak darvozasi» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot",
+        "Qarshi shahrining Mir Bekoybiy madrasasi joylashgan shimoliy qal'a darvozasi"
+      ],
+      "answer": 3,
+      "explain": "Tutak darvozasi — Qarshi shahrining Mir Bekoybiy madrasasi joylashgan shimoliy qal'a darvozasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Qarshi shahrining Mir Bekoybiy madrasasi joylashgan shimoliy qal'a darvozasi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Tutak darvozasi",
+        "Chorsu",
+        "Toqi musaddas",
+        "Chor Minor"
+      ],
+      "answer": 0,
+      "explain": "Tutak darvozasi — Qarshi shahrining Mir Bekoybiy madrasasi joylashgan shimoliy qal'a darvozasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Qarshi shahrining Mir Bekoybiy madrasasi joylashgan shimoliy qal'a darvozasi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Tutak darvozasi"
+      ],
+      "explain": "Tutak darvozasi — Qarshi shahrining Mir Bekoybiy madrasasi joylashgan shimoliy qal'a darvozasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Tutak darvozasi» — Qarshi shahrining Mir Bekoybiy madrasasi joylashgan shimoliy qal'a darvozasi.",
+      "answer": true,
+      "explain": "Tutak darvozasi — Qarshi shahrining Mir Bekoybiy madrasasi joylashgan shimoliy qal'a darvozasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Tutak darvozasi» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Tutak darvozasi» — Qarshi shahrining Mir Bekoybiy madrasasi joylashgan shimoliy qal'a darvozasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) mavzusidagi «Siyob bozori» tushunchasi nimani anglatadi?",
+      "options": [
+        "Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi",
+        "Samarqanddagi Amir Shohmurod qurdirgan Chorsu yodgorligi joylashgan tarixiy bozor hududi",
+        "Amir Shohmurod Samarqandda qurdirgan Chorsu binosining olti yo'lakli va o'n ikki qirrali ilmiy nomi",
+        "1807-yilda Buxoroda to'rt burchagida gumbazli minora bilan qurilgan va 1995-yilda YuNESKO ro'yxatiga kirgan inshoot"
+      ],
+      "answer": 1,
+      "explain": "Siyob bozori — Samarqanddagi Amir Shohmurod qurdirgan Chorsu yodgorligi joylashgan tarixiy bozor hududi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Samarqanddagi Amir Shohmurod qurdirgan Chorsu yodgorligi joylashgan tarixiy bozor hududi» ta'rifiga mos keluvchi atama yoki nomni toping.",
+      "options": [
+        "Chorsu",
+        "Toqi musaddas",
+        "Siyob bozori",
+        "Chor Minor"
+      ],
+      "answer": 2,
+      "explain": "Siyob bozori — Samarqanddagi Amir Shohmurod qurdirgan Chorsu yodgorligi joylashgan tarixiy bozor hududi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Samarqanddagi Amir Shohmurod qurdirgan Chorsu yodgorligi joylashgan tarixiy bozor hududi — bu atama yoki nomni yozing: ____",
+      "answer": [
+        "Siyob bozori"
+      ],
+      "explain": "Siyob bozori — Samarqanddagi Amir Shohmurod qurdirgan Chorsu yodgorligi joylashgan tarixiy bozor hududi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Siyob bozori» — Samarqanddagi Amir Shohmurod qurdirgan Chorsu yodgorligi joylashgan tarixiy bozor hududi.",
+      "answer": true,
+      "explain": "Siyob bozori — Samarqanddagi Amir Shohmurod qurdirgan Chorsu yodgorligi joylashgan tarixiy bozor hududi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Atama (16-§ (Mang'itlar ilm-fan va madaniyati)): «Siyob bozori» tushunchasi «Forscha «to'rtta yo'l» ma'nosini anglatib, ko'chalar chorrahasida qurilgan savdo gumbazi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri: «Siyob bozori» — Samarqanddagi Amir Shohmurod qurdirgan Chorsu yodgorligi joylashgan tarixiy bozor hududi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Nima uchun XVIII asrda O'zbekiston hududidagi ta'lim jahon fanidan ortda qola boshladi?",
+      "options": [
+        "Xonlikda barcha madrasalar yopilib ketgani uchun",
+        "Faqat kimyo va fizika o'qitilib adabiyot o'qitilmagani uchun",
+        "Talabalar 1 yildan ortiq o'qimaganligi uchun",
+        "Yevropada I.Nyuton va G.V.Leybnis davrida tabiiy-aniq fanlar jadal rivojlanayotgan bir paytda Xonlik madrasalarida aniq va tabiiy fanlarga yetarli e'tibor berilmagani tufayli"
+      ],
+      "answer": 3,
+      "explain": "Yevropada Nyuton (1671-yil teleskop) va Leybnislar fan inqilobini boshlaganda, Xonlik madrasalarida tabiiy-aniq fanlarga yetarlicha e'tibor berilmagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "XIX asr boshlarida Buxoroda ko'chalar soniga teng ravishda 360 ta masjid faoliyat yuritgan.",
+      "answer": true,
+      "explain": "Yevropada Nyuton (1671-yil teleskop) va Leybnislar fan inqilobini boshlaganda, Xonlik madrasalarida tabiiy-aniq fanlarga yetarlicha e'tibor berilmagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "XIX asr boshlarida Buxoro madrasalarida o'qish muddati bor-yo'g'i 6 oy edi.",
+      "answer": false,
+      "explain": "Yevropada Nyuton (1671-yil teleskop) va Leybnislar fan inqilobini boshlaganda, Xonlik madrasalarida tabiiy-aniq fanlarga yetarlicha e'tibor berilmagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Ingliz sayyohi Aleksandr Byorns ma'lumotiga ko'ra XIX asr boshida Buxoroda ____ ta madrasa bo'lgan.",
+      "answer": [
+        "366"
+      ],
+      "explain": "Yevropada Nyuton (1671-yil teleskop) va Leybnislar fan inqilobini boshlaganda, Xonlik madrasalarida tabiiy-aniq fanlarga yetarlicha e'tibor berilmagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Buxoro madrasalarida o'quv muddati va talabalar tarkibi haqida Aleksandr Byorns qanday ma'lumot keltirgan?",
+      "options": [
+        "Madrasalarda 7–8 yil o'qitilgan, ularda Erondan tashqari barcha musulmon o'lkalardan kelgan talabalar tahsil olgan",
+        "Faqat eronlik talabalar 20 yil o'qigan",
+        "Faqat buxorolik bolalar 3 oy o'qigan",
+        "Madrasalar faqat ayollar uchun bo'lgan"
+      ],
+      "answer": 0,
+      "explain": "Byorns ma'lumotiga ko'ra Buxoroda 366 ta madrasa bo'lib, 7–8 yil o'qitilgan va Erondan tashqari barcha qo'shni mamlakatlardan talabalar kelgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Buxoro madrasalarida o'qish jarayoni 7–8 yil davom etgan.",
+      "answer": true,
+      "explain": "Byorns ma'lumotiga ko'ra Buxoroda 366 ta madrasa bo'lib, 7–8 yil o'qitilgan va Erondan tashqari barcha qo'shni mamlakatlardan talabalar kelgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Buxoroda madrasa ta'limi tizimi XIX asr boshida butunlay tugab ketgan.",
+      "answer": false,
+      "explain": "Byorns ma'lumotiga ko'ra Buxoroda 366 ta madrasa bo'lib, 7–8 yil o'qitilgan va Erondan tashqari barcha qo'shni mamlakatlardan talabalar kelgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Mang'itlar davrida «Amiri Jannatmakon» nomini olgan ____ Mir Arab madrasasidagi hujralardan birida yashagan.",
+      "answer": [
+        "Amir Shohmurod",
+        "Shohmurod"
+      ],
+      "explain": "Byorns ma'lumotiga ko'ra Buxoroda 366 ta madrasa bo'lib, 7–8 yil o'qitilgan va Erondan tashqari barcha qo'shni mamlakatlardan talabalar kelgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Amir Shohmurod Samarqand shahrini qayta obod qilishda qanday bunyodkorlik rejasini amalga oshirgan?",
+      "options": [
+        "Shaharni butunlay buzdirib bog'ga aylantirgan",
+        "Shaxsan o'zi chizma-reja tuzib, sharqiy viloyatlardan oilalarni ko'chirib keltirgan va shaharni 24 mavzega bo'lib tiklagan",
+        "Faqat bitta hammom qurish bilan cheklangan",
+        "Samarqand aholisini Buxoroga ko'chirgan"
+      ],
+      "answer": 1,
+      "explain": "Amir Shohmurod Samarqandni qayta tiklash rejasini shaxsan chizib, sharqiy viloyatlardan oilalarni ko'chirgan va shaharni 24 ta mavzedan iborat qilib obod etgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Amir Haydar davrida Qarshi shahrida oddiy sutchi ayol Guli ham o'z mablag'iga madrasa qurdirgan.",
+      "answer": true,
+      "explain": "Amir Shohmurod Samarqandni qayta tiklash rejasini shaxsan chizib, sharqiy viloyatlardan oilalarni ko'chirgan va shaharni 24 ta mavzedan iborat qilib obod etgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Amir Shohmurod Samarqandni tiklash ishlariga umuman e'tibor bermagan.",
+      "answer": false,
+      "explain": "Amir Shohmurod Samarqandni qayta tiklash rejasini shaxsan chizib, sharqiy viloyatlardan oilalarni ko'chirgan va shaharni 24 ta mavzedan iborat qilib obod etgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Amir Shohmurod Samarqand shahrini qayta tiklab uni ____ ta mavzega bo'lgan.",
+      "answer": [
+        "24",
+        "yigirma to'rt"
+      ],
+      "explain": "Amir Shohmurod Samarqandni qayta tiklash rejasini shaxsan chizib, sharqiy viloyatlardan oilalarni ko'chirgan va shaharni 24 ta mavzedan iborat qilib obod etgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Xalifa Xudoydod majmuasi (1777–1855) qanday inshootlardan tashkil topgan?",
+      "options": [
+        "To'rtta 70 metrlik minora va ikkita karvonsaroy",
+        "Faqat uch qavatli hammom va bozor",
+        "Tosh xonaqoh, 39 ta bir qavatli hujra (150–200 talaba), ikki kirishli sardoba, 25×25,4 m masjid va qabriston",
+        "Bitta katta yog'och saroy"
+      ],
+      "answer": 2,
+      "explain": "1786-yilda 12 tanob yer sotib olib qurilgan Xalifa Xudoydod majmuasida tosh xonaqoh, 39 hujra (150–200 talaba), 2 kirishli sardoba, 25×25,4 m masjid va qabriston bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "«Tuhfat az-zohirin» asariga ko'ra Xalifa Xudoydod Xorazm shahzodalaridan biri bo'lgan.",
+      "answer": true,
+      "explain": "1786-yilda 12 tanob yer sotib olib qurilgan Xalifa Xudoydod majmuasida tosh xonaqoh, 39 hujra (150–200 talaba), 2 kirishli sardoba, 25×25,4 m masjid va qabriston bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Xalifa Xudoydod majmuasida talabalar uchun birorta ham hujra va sardoba qurilmagan.",
+      "answer": false,
+      "explain": "1786-yilda 12 tanob yer sotib olib qurilgan Xalifa Xudoydod majmuasida tosh xonaqoh, 39 hujra (150–200 talaba), 2 kirishli sardoba, 25×25,4 m masjid va qabriston bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Xalifa Xudoydod majmuasida ____ ta bir qavatli hujra mavjud bo'lib, unda 150–200 nafar talaba o'qigan.",
+      "answer": [
+        "39"
+      ],
+      "explain": "1786-yilda 12 tanob yer sotib olib qurilgan Xalifa Xudoydod majmuasida tosh xonaqoh, 39 hujra (150–200 talaba), 2 kirishli sardoba, 25×25,4 m masjid va qabriston bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Samarqanddagi Chorsu («Toqi musaddas») binosining me'moriy tuzilishi qanday edi?",
+      "options": [
+        "Sakkiz burchakli bo'lib 36 ta zargarlik ustaxonasidan iborat",
+        "To'rt burchakli minorali masjid shaklida",
+        "Faqat g'ishtsiz chodir ko'rinishida",
+        "Amir Shohmurod qurdirgan bu bino 6 tomonli (tashqi ko'rinishi 12 qirrali prizma), shaharning 6 darvozasiga mos 6 yo'lakli va uchburchak do'konli"
+      ],
+      "answer": 3,
+      "explain": "Siyob bozori yonidagi Chorsu («Toqi musaddas») Amir Shohmurod tomonidan 6 yo'lakli (6 darvozaga qaragan), tashqi tomoni 12 qirrali prizma shaklida qurilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Samarqanddagi Chorsu majmuasi ham YuNESKO Jahon merosi ro'yxatiga kiritilgan yodgorlikdir.",
+      "answer": true,
+      "explain": "Siyob bozori yonidagi Chorsu («Toqi musaddas») Amir Shohmurod tomonidan 6 yo'lakli (6 darvozaga qaragan), tashqi tomoni 12 qirrali prizma shaklida qurilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "Samarqanddagi Chorsu binosini XVI asrda Muhammad Shayboniyxon qurdirgan.",
+      "answer": false,
+      "explain": "Siyob bozori yonidagi Chorsu («Toqi musaddas») Amir Shohmurod tomonidan 6 yo'lakli (6 darvozaga qaragan), tashqi tomoni 12 qirrali prizma shaklida qurilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "Samarqanddagi Chorsu binosi 6 yo'lakli bo'lgani uchun tarixda «____» nomi bilan ham atalgan.",
+      "answer": [
+        "Toqi musaddas"
+      ],
+      "explain": "Siyob bozori yonidagi Chorsu («Toqi musaddas») Amir Shohmurod tomonidan 6 yo'lakli (6 darvozaga qaragan), tashqi tomoni 12 qirrali prizma shaklida qurilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1807-yilda qurilgan Buxorodagi Chor Minor me'moriy majmuasi qanday qismlardan iborat bo'lgan?",
+      "options": [
+        "To'rtta gumbazli minora, ikkinchi qavatida kutubxona hamda sho'rolar davrida buzilib tuz omboriga aylantirilgan masjid",
+        "Bitta ulkan 100 metrlik minora va yerosti hammomi",
+        "O'n ikki qavatli darvozaxona",
+        "Faqat mudofaa qal'asi devori"
+      ],
+      "answer": 0,
+      "explain": "1807-yilda qurilgan Chor Minor 4 gumbazli minorasi, 2-qavat kutubxonasi va sho'ro davrida buzilgan masjiddan iborat; 1995-yilda YuNESKO ro'yxatiga kiritildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Chor Minor majmuasining ikkinchi qavatida kutubxona joylashgan bo'lgan.",
+      "answer": true,
+      "explain": "1807-yilda qurilgan Chor Minor 4 gumbazli minorasi, 2-qavat kutubxonasi va sho'ro davrida buzilgan masjiddan iborat; 1995-yilda YuNESKO ro'yxatiga kiritildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Chor Minor 1995-yilda emas, balki 1807-yilda YuNESKO ro'yxatiga kiritilgan.",
+      "answer": false,
+      "explain": "1807-yilda qurilgan Chor Minor 4 gumbazli minorasi, 2-qavat kutubxonasi va sho'ro davrida buzilgan masjiddan iborat; 1995-yilda YuNESKO ro'yxatiga kiritildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Buxorodagi Chor Minor yodgorligi ____-yilda bunyod etilgan va 1995-yilda YuNESKO ro'yxatiga kiritilgan.",
+      "answer": [
+        "1807"
+      ],
+      "explain": "1807-yilda qurilgan Chor Minor 4 gumbazli minorasi, 2-qavat kutubxonasi va sho'ro davrida buzilgan masjiddan iborat; 1995-yilda YuNESKO ro'yxatiga kiritildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "Qarshidagi Mir Bekoybiy madrasasining joylashuvi va vaqf mulki haqida nimalar ma'lum?",
+      "options": [
+        "Buxoro Arki ichida joylashgan va vaqfi bo'lmagan",
+        "Shimoliy Tutak darvozasi yaqinida joylashgan; hijriy 1208-yilda Amir Shohmurod Nasaf tumanidagi 4 qishloq yerini unga vaqf qilib sotib olgan",
+        "Samarqand Registonida joylashgan",
+        "Vafotidan keyin Amir Nasrulla buzib tashlagan"
+      ],
+      "answer": 1,
+      "explain": "Mir Bekoybiy madrasasi Qarshining Tutak darvozasi yaqinida bo'lib, hijriy 1208-yilda Amir Shohmurod 4 qishloq yerini unga vaqf qilib bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "«Chorsu» so'zi «to'rtta yo'l», «Registon» esa «qumloq joy» ma'nosini bildiradi.",
+      "answer": true,
+      "explain": "Mir Bekoybiy madrasasi Qarshining Tutak darvozasi yaqinida bo'lib, hijriy 1208-yilda Amir Shohmurod 4 qishloq yerini unga vaqf qilib bergan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Mir Bekoybiy madrasasi Toshkentning Chorsu maydonida joylashgan.",
+      "answer": false,
+      "explain": "Mir Bekoybiy madrasasi Qarshining Tutak darvozasi yaqinida bo'lib, hijriy 1208-yilda Amir Shohmurod 4 qishloq yerini unga vaqf qilib bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "«Registon» atamasi forscha «____» degan ma'noni anglatadi.",
+      "answer": [
+        "qumloq joy"
+      ],
+      "explain": "Mir Bekoybiy madrasasi Qarshining Tutak darvozasi yaqinida bo'lib, hijriy 1208-yilda Amir Shohmurod 4 qishloq yerini unga vaqf qilib bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Mang'itlar davrida yaratilgan tarixiy asarlar ro'yxatiga qaysilar kiradi?",
+      "options": [
+        "«Boburnoma», «Abdullanoma» va «Shajarayi turk»",
+        "«Firdavs ul-iqbol» va «Bo'zatov»",
+        "«Tuhfat al-xoniy», «Tarixi amir Haydar», «Fathnomayi sultoniy», «Mang'itlar xonadoni saltanatining qisqacha tarixi», «O'zbek podshohlari zikri»",
+        "«Qirqqiz» va «Alpomish»"
+      ],
+      "answer": 2,
+      "explain": "Darslikda mang'itlar davri tarixshunosligiga oid «Tuhfat al-xoniy», «Tarixi amir Haydar», «Fathnomayi sultoniy», «O'zbek podshohlari zikri» va «Tarixi salotini mang'itiya» keltirilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "Mang'itlar davrida Buxoroda Shayx Jalol xonaqohi, Rahmonquli, Ernazar Elchi va Tursunjon madrasalari ham bunyod etilgan.",
+      "answer": true,
+      "explain": "Darslikda mang'itlar davri tarixshunosligiga oid «Tuhfat al-xoniy», «Tarixi amir Haydar», «Fathnomayi sultoniy», «O'zbek podshohlari zikri» va «Tarixi salotini mang'itiya» keltirilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "Mang'itlar davrida birorta ham tarixiy asar yoki tibbiy sharh yozilmagan.",
+      "answer": false,
+      "explain": "Darslikda mang'itlar davri tarixshunosligiga oid «Tuhfat al-xoniy», «Tarixi amir Haydar», «Fathnomayi sultoniy», «O'zbek podshohlari zikri» va «Tarixi salotini mang'itiya» keltirilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "Buxorodagi Ernazar Elchi, Tursunjon, Rahmonquli madrasalari ____ sulolasi davrida qurilgan.",
+      "answer": [
+        "mang'itlar",
+        "mangitlar"
+      ],
+      "explain": "Darslikda mang'itlar davri tarixshunosligiga oid «Tuhfat al-xoniy», «Tarixi amir Haydar», «Fathnomayi sultoniy», «O'zbek podshohlari zikri» va «Tarixi salotini mang'itiya» keltirilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Mang'itlar davrida Buxoroda qurilgan madrasa va inshootlar qatoriga qaysi biri KIRMAYDI?",
+      "options": [
+        "Xalifa Xudoydod masjidi",
+        "Ernazar Elchi madrasasi",
+        "Chor Minor",
+        "Kaltaminor"
+      ],
+      "answer": 3,
+      "explain": "Kaltaminor XIX asr o'rtasida Xiva shahrida Muhammad Aminxon tomonidan qurilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Mang'itlar davrida yaratilgan tarixiy asarlar ro'yxatiga qaysi biri KIRMAYDI?",
+      "options": [
+        "«Firdavs ul-iqbol»",
+        "«Tuhfat al-xoniy»",
+        "«Tarixi amir Haydar»",
+        "«Fathnomayi sultoniy»"
+      ],
+      "answer": 0,
+      "explain": "«Firdavs ul-iqbol» Xiva xonligi tarixiga bag'ishlab Munis Xorazmiy va Ogahiy tomonidan yozilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Xalifa Xudoydod majmuasi tarkibiga qaysi qism KIRMAYDI?",
+      "options": [
+        "39 ta bir qavatli hujra",
+        "Besh qavatli minora",
+        "Ikki kirishli sardoba",
+        "25×25,4 m o'lchamdagi masjid"
+      ],
+      "answer": 1,
+      "explain": "Xalifa Xudoydod majmuasida tosh xonaqoh, 39 ta 1 qavatli hujra, sardoba, masjid va qabriston mavjud; 5 qavatli minora yo'q.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ dagi shahar me'morchilik atamalarining ma'nolaridan qaysi biri XATO?",
+      "options": [
+        "Chorsu — «to'rtta yo'l»",
+        "Registon — «qumloq joy»",
+        "Registon — «to'rtta yo'l»",
+        "Tim — usti yopiq bozor"
+      ],
+      "answer": 2,
+      "explain": "«To'rtta yo'l» — Chorsu so'zining ma'nosi, Registon esa «qumloq joy» demakdir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "Chor Minor yodgorligi bilan bog'liq faktlar qatoriga qaysi biri TO'G'RI KELMAYDI?",
+      "options": [
+        "1807-yilda Buxoroda qurilgani",
+        "Ikkinchi qavatida kutubxona bo'lgani",
+        "1995-yilda YuNESKO ro'yxatiga kirgani",
+        "1652-yilda Mimxoqon tomonidan qurilgani"
+      ],
+      "answer": 3,
+      "explain": "1652-yilda Mimxoqon Buxorodagi Abdulazizxon madrasasini qurgan; Chor Minor 1807-yilda bunyod etilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Shayx Jalol» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mang'itlar davridagi Buxoro xonaqohi",
+        "Mang'itlar davrida qurilgan Buxoro madrasasi",
+        "Buxorodagi mang'itlar davri madrasasi",
+        "Mang'itlar davri Buxoro madrasasi"
+      ],
+      "answer": 0,
+      "explain": "Shayx Jalol — Mang'itlar davridagi Buxoro xonaqohi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mang'itlar davridagi Buxoro xonaqohi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Ernazar Elchi",
+        "Shayx Jalol",
+        "Tursunjon",
+        "Rahmonquli"
+      ],
+      "answer": 1,
+      "explain": "Shayx Jalol — Mang'itlar davridagi Buxoro xonaqohi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) ma'lumoti: «Shayx Jalol» — Mang'itlar davridagi Buxoro xonaqohi.",
+      "answer": true,
+      "explain": "Shayx Jalol — Mang'itlar davridagi Buxoro xonaqohi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Shayx Jalol» — «Mang'itlar davrida qurilgan Buxoro madrasasi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Shayx Jalol — Mang'itlar davridagi Buxoro xonaqohi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mang'itlar davridagi Buxoro xonaqohi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Shayx Jalol",
+      "explain": "Shayx Jalol — Mang'itlar davridagi Buxoro xonaqohi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Ernazar Elchi» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mang'itlar davridagi Buxoro xonaqohi",
+        "Buxorodagi mang'itlar davri madrasasi",
+        "Mang'itlar davrida qurilgan Buxoro madrasasi",
+        "Mang'itlar davri Buxoro madrasasi"
+      ],
+      "answer": 2,
+      "explain": "Ernazar Elchi — Mang'itlar davrida qurilgan Buxoro madrasasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mang'itlar davrida qurilgan Buxoro madrasasi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Shayx Jalol",
+        "Tursunjon",
+        "Rahmonquli",
+        "Ernazar Elchi"
+      ],
+      "answer": 3,
+      "explain": "Ernazar Elchi — Mang'itlar davrida qurilgan Buxoro madrasasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) ma'lumoti: «Ernazar Elchi» — Mang'itlar davrida qurilgan Buxoro madrasasi.",
+      "answer": true,
+      "explain": "Ernazar Elchi — Mang'itlar davrida qurilgan Buxoro madrasasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Ernazar Elchi» — «Buxorodagi mang'itlar davri madrasasi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Ernazar Elchi — Mang'itlar davrida qurilgan Buxoro madrasasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mang'itlar davrida qurilgan Buxoro madrasasi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Ernazar Elchi",
+      "explain": "Ernazar Elchi — Mang'itlar davrida qurilgan Buxoro madrasasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Tursunjon» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Buxorodagi mang'itlar davri madrasasi",
+        "Mang'itlar davridagi Buxoro xonaqohi",
+        "Mang'itlar davrida qurilgan Buxoro madrasasi",
+        "Mang'itlar davri Buxoro madrasasi"
+      ],
+      "answer": 0,
+      "explain": "Tursunjon — Buxorodagi mang'itlar davri madrasasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Buxorodagi mang'itlar davri madrasasi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Shayx Jalol",
+        "Tursunjon",
+        "Ernazar Elchi",
+        "Rahmonquli"
+      ],
+      "answer": 1,
+      "explain": "Tursunjon — Buxorodagi mang'itlar davri madrasasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) ma'lumoti: «Tursunjon» — Buxorodagi mang'itlar davri madrasasi.",
+      "answer": true,
+      "explain": "Tursunjon — Buxorodagi mang'itlar davri madrasasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Tursunjon» — «Mang'itlar davri Buxoro madrasasi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Tursunjon — Buxorodagi mang'itlar davri madrasasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Buxorodagi mang'itlar davri madrasasi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Tursunjon",
+      "explain": "Tursunjon — Buxorodagi mang'itlar davri madrasasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Rahmonquli» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mang'itlar davridagi Buxoro xonaqohi",
+        "Mang'itlar davrida qurilgan Buxoro madrasasi",
+        "Mang'itlar davri Buxoro madrasasi",
+        "Buxorodagi mang'itlar davri madrasasi"
+      ],
+      "answer": 2,
+      "explain": "Rahmonquli — Mang'itlar davri Buxoro madrasasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mang'itlar davri Buxoro madrasasi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Shayx Jalol",
+        "Ernazar Elchi",
+        "Tursunjon",
+        "Rahmonquli"
+      ],
+      "answer": 3,
+      "explain": "Rahmonquli — Mang'itlar davri Buxoro madrasasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) ma'lumoti: «Rahmonquli» — Mang'itlar davri Buxoro madrasasi.",
+      "answer": true,
+      "explain": "Rahmonquli — Mang'itlar davri Buxoro madrasasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Rahmonquli» — «Xalifa Xudoydod 1786-yilda olgan yer» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Rahmonquli — Mang'itlar davri Buxoro madrasasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mang'itlar davri Buxoro madrasasi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Rahmonquli",
+      "explain": "Rahmonquli — Mang'itlar davri Buxoro madrasasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «12 tanob» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Xalifa Xudoydod 1786-yilda olgan yer",
+        "Mang'itlar davridagi Buxoro xonaqohi",
+        "Mang'itlar davrida qurilgan Buxoro madrasasi",
+        "Buxorodagi mang'itlar davri madrasasi"
+      ],
+      "answer": 0,
+      "explain": "12 tanob — Xalifa Xudoydod 1786-yilda olgan yer.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Xalifa Xudoydod 1786-yilda olgan yer» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Shayx Jalol",
+        "12 tanob",
+        "Ernazar Elchi",
+        "Tursunjon"
+      ],
+      "answer": 1,
+      "explain": "12 tanob — Xalifa Xudoydod 1786-yilda olgan yer.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) ma'lumoti: «12 tanob» — Xalifa Xudoydod 1786-yilda olgan yer.",
+      "answer": true,
+      "explain": "12 tanob — Xalifa Xudoydod 1786-yilda olgan yer.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «12 tanob» — «XIX asr boshida Buxorodagi masjidlar soni» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: 12 tanob — Xalifa Xudoydod 1786-yilda olgan yer.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «360 masjid» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mang'itlar davridagi Buxoro xonaqohi",
+        "Mang'itlar davrida qurilgan Buxoro madrasasi",
+        "XIX asr boshida Buxorodagi masjidlar soni",
+        "Buxorodagi mang'itlar davri madrasasi"
+      ],
+      "answer": 2,
+      "explain": "360 masjid — XIX asr boshida Buxorodagi masjidlar soni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «XIX asr boshida Buxorodagi masjidlar soni» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Shayx Jalol",
+        "Ernazar Elchi",
+        "Tursunjon",
+        "360 masjid"
+      ],
+      "answer": 3,
+      "explain": "360 masjid — XIX asr boshida Buxorodagi masjidlar soni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) ma'lumoti: «360 masjid» — XIX asr boshida Buxorodagi masjidlar soni.",
+      "answer": true,
+      "explain": "360 masjid — XIX asr boshida Buxorodagi masjidlar soni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «360 masjid» — «A.Byorns keltirgan Buxoro madrasalari soni» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: 360 masjid — XIX asr boshida Buxorodagi masjidlar soni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «366 madrasa» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "A.Byorns keltirgan Buxoro madrasalari soni",
+        "Mang'itlar davridagi Buxoro xonaqohi",
+        "Mang'itlar davrida qurilgan Buxoro madrasasi",
+        "Buxorodagi mang'itlar davri madrasasi"
+      ],
+      "answer": 0,
+      "explain": "366 madrasa — A.Byorns keltirgan Buxoro madrasalari soni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «A.Byorns keltirgan Buxoro madrasalari soni» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Shayx Jalol",
+        "366 madrasa",
+        "Ernazar Elchi",
+        "Tursunjon"
+      ],
+      "answer": 1,
+      "explain": "366 madrasa — A.Byorns keltirgan Buxoro madrasalari soni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) ma'lumoti: «366 madrasa» — A.Byorns keltirgan Buxoro madrasalari soni.",
+      "answer": true,
+      "explain": "366 madrasa — A.Byorns keltirgan Buxoro madrasalari soni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «366 madrasa» — «Xalifa Xudoydod majmuasidagi bino» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: 366 madrasa — A.Byorns keltirgan Buxoro madrasalari soni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Tosh xonaqoh» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mang'itlar davridagi Buxoro xonaqohi",
+        "Mang'itlar davrida qurilgan Buxoro madrasasi",
+        "Xalifa Xudoydod majmuasidagi bino",
+        "Buxorodagi mang'itlar davri madrasasi"
+      ],
+      "answer": 2,
+      "explain": "Tosh xonaqoh — Xalifa Xudoydod majmuasidagi bino.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Xalifa Xudoydod majmuasidagi bino» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Shayx Jalol",
+        "Ernazar Elchi",
+        "Tursunjon",
+        "Tosh xonaqoh"
+      ],
+      "answer": 3,
+      "explain": "Tosh xonaqoh — Xalifa Xudoydod majmuasidagi bino.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) ma'lumoti: «Tosh xonaqoh» — Xalifa Xudoydod majmuasidagi bino.",
+      "answer": true,
+      "explain": "Tosh xonaqoh — Xalifa Xudoydod majmuasidagi bino.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Tosh xonaqoh» — «Mir Bekoybiy madrasasi vaqf qishloqlari hududi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Tosh xonaqoh — Xalifa Xudoydod majmuasidagi bino.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Xalifa Xudoydod majmuasidagi bino» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Tosh xonaqoh",
+      "explain": "Tosh xonaqoh — Xalifa Xudoydod majmuasidagi bino.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Nasaf» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mir Bekoybiy madrasasi vaqf qishloqlari hududi",
+        "Mang'itlar davridagi Buxoro xonaqohi",
+        "Mang'itlar davrida qurilgan Buxoro madrasasi",
+        "Buxorodagi mang'itlar davri madrasasi"
+      ],
+      "answer": 0,
+      "explain": "Nasaf — Mir Bekoybiy madrasasi vaqf qishloqlari hududi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mir Bekoybiy madrasasi vaqf qishloqlari hududi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Shayx Jalol",
+        "Nasaf",
+        "Ernazar Elchi",
+        "Tursunjon"
+      ],
+      "answer": 1,
+      "explain": "Nasaf — Mir Bekoybiy madrasasi vaqf qishloqlari hududi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) ma'lumoti: «Nasaf» — Mir Bekoybiy madrasasi vaqf qishloqlari hududi.",
+      "answer": true,
+      "explain": "Nasaf — Mir Bekoybiy madrasasi vaqf qishloqlari hududi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «Nasaf» — «Amir Shohmurod tiklagan Samarqand bo'linishi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: Nasaf — Mir Bekoybiy madrasasi vaqf qishloqlari hududi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Mir Bekoybiy madrasasi vaqf qishloqlari hududi» tavsifiga mos keladigan atamani yozing: ____",
+      "answer": "Nasaf",
+      "explain": "Nasaf — Mir Bekoybiy madrasasi vaqf qishloqlari hududi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «24 mavze» tushunchasi yoki ko'rsatkichi nimani anglatadi?",
+      "options": [
+        "Mang'itlar davridagi Buxoro xonaqohi",
+        "Mang'itlar davrida qurilgan Buxoro madrasasi",
+        "Amir Shohmurod tiklagan Samarqand bo'linishi",
+        "Buxorodagi mang'itlar davri madrasasi"
+      ],
+      "answer": 2,
+      "explain": "24 mavze — Amir Shohmurod tiklagan Samarqand bo'linishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Amir Shohmurod tiklagan Samarqand bo'linishi» ta'rifiga mos atama, nom yoki ko'rsatkichni aniqlang.",
+      "options": [
+        "Shayx Jalol",
+        "Ernazar Elchi",
+        "Tursunjon",
+        "24 mavze"
+      ],
+      "answer": 3,
+      "explain": "24 mavze — Amir Shohmurod tiklagan Samarqand bo'linishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) ma'lumoti: «24 mavze» — Amir Shohmurod tiklagan Samarqand bo'linishi.",
+      "answer": true,
+      "explain": "24 mavze — Amir Shohmurod tiklagan Samarqand bo'linishi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati) bo'yicha «24 mavze» — ««To'rtta yo'l» ma'nosidagi savdo binosi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri: 24 mavze — Amir Shohmurod tiklagan Samarqand bo'linishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Yevropada tabiiy va aniq fanlar jadallashayotgan bir paytda Xonlik ta'limining ortda qolishiga qiyos sifatida tilga olingan olim» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Isaak Nyuton",
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar",
+        "Shayx Xudoydod Azizon"
+      ],
+      "answer": 0,
+      "explain": "Isaak Nyuton — 1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi. Yevropada tabiiy va aniq fanlar jadallashayotgan bir paytda Xonlik ta'limining ortda qolishiga qiyos sifatida tilga olingan olim",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Isaak Nyuton — yevropada tabiiy va aniq fanlar jadallashayotgan bir paytda Xonlik ta'limining ortda qolishiga qiyos sifatida tilga olingan olim.",
+      "answer": true,
+      "explain": "Isaak Nyuton — 1643–1727-yillarda yashagan, 1671-yilda ko'zguli teleskop yaratib jahon fanini oldinga siljitgan ingliz olimi. Yevropada tabiiy va aniq fanlar jadallashayotgan bir paytda Xonlik ta'limining ortda qolishiga qiyos sifatida tilga olingan olim",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «XVII–XVIII asrlarda Yevropada ilm-fan yuksalishini ko'rsatuvchi buyuk alloma» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Isaak Nyuton",
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar",
+        "Shayx Xudoydod Azizon"
+      ],
+      "answer": 1,
+      "explain": "Gotfrid Vilgelm Leybnis — 1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi. XVII–XVIII asrlarda Yevropada ilm-fan yuksalishini ko'rsatuvchi buyuk alloma",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Gotfrid Vilgelm Leybnis — xVII–XVIII asrlarda Yevropada ilm-fan yuksalishini ko'rsatuvchi buyuk alloma.",
+      "answer": true,
+      "explain": "Gotfrid Vilgelm Leybnis — 1646–1716-yillarda yashab matematika va falsafaga ulkan hissa qo'shgan nemis olimi. XVII–XVIII asrlarda Yevropada ilm-fan yuksalishini ko'rsatuvchi buyuk alloma",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Amir Shohmurod boshlagan Samarqandni qayta tiklash va madaniy qurilishlarni davom ettirgan hukmdor» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Isaak Nyuton",
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar",
+        "Shayx Xudoydod Azizon"
+      ],
+      "answer": 2,
+      "explain": "Amir Haydar — 1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir. Amir Shohmurod boshlagan Samarqandni qayta tiklash va madaniy qurilishlarni davom ettirgan hukmdor",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Amir Haydar — amir Shohmurod boshlagan Samarqandni qayta tiklash va madaniy qurilishlarni davom ettirgan hukmdor.",
+      "answer": true,
+      "explain": "Amir Haydar — 1800–1826-yillarda boshqargan, Samarqandda madrasa qurdirgan va Qarshida Guli madrasasiga ruxsat bergan amir. Amir Shohmurod boshlagan Samarqandni qayta tiklash va madaniy qurilishlarni davom ettirgan hukmdor",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): ««Tuhfat az-zohirin» asariga ko'ra Xorazm shahzodalaridan bo'lgan va 39 hujrali madrasa-xonaqoh qurdirgan ulamo» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Isaak Nyuton",
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar",
+        "Shayx Xudoydod Azizon"
+      ],
+      "answer": 3,
+      "explain": "Shayx Xudoydod Azizon — 1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx. «Tuhfat az-zohirin» asariga ko'ra Xorazm shahzodalaridan bo'lgan va 39 hujrali madrasa-xonaqoh qurdirgan ulamo",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Shayx Xudoydod Azizon — «Tuhfat az-zohirin» asariga ko'ra Xorazm shahzodalaridan bo'lgan va 39 hujrali madrasa-xonaqoh qurdirgan ulamo.",
+      "answer": true,
+      "explain": "Shayx Xudoydod Azizon — 1786-yilda 12 tanob yer sotib olib Buxoroda Xalifa Xudoydod majmuasini barpo etgan shayx. «Tuhfat az-zohirin» asariga ko'ra Xorazm shahzodalaridan bo'lgan va 39 hujrali madrasa-xonaqoh qurdirgan ulamo",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Halol mehnati bilan to'plagan mablag'iga Qarshida ma'rifat maskani barpo ettirgan saxovatli ayol» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Guli",
+        "Isaak Nyuton",
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar"
+      ],
+      "answer": 0,
+      "explain": "Guli — Amir Haydar davrida Qarshi shahrida o'z mablag'iga madrasa qurdirgan sutchi ayol. Halol mehnati bilan to'plagan mablag'iga Qarshida ma'rifat maskani barpo ettirgan saxovatli ayol",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Guli — halol mehnati bilan to'plagan mablag'iga Qarshida ma'rifat maskani barpo ettirgan saxovatli ayol.",
+      "answer": true,
+      "explain": "Guli — Amir Haydar davrida Qarshi shahrida o'z mablag'iga madrasa qurdirgan sutchi ayol. Halol mehnati bilan to'plagan mablag'iga Qarshida ma'rifat maskani barpo ettirgan saxovatli ayol",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): «Tibbiyot ilmiga oid qo'llanmalari XVIII–XIX asrlarda madrasalarda o'rganilgan olim» ta'rifi qaysi tarixiy shaxsga tegishli?",
+      "options": [
+        "Isaak Nyuton",
+        "Muhammad Sharif Buxoriy",
+        "Gotfrid Vilgelm Leybnis",
+        "Amir Haydar"
+      ],
+      "answer": 1,
+      "explain": "Muhammad Sharif Buxoriy — Mang'itlar davrida «Mizan at-tibb» («Tib tarozisi») asariga sharhlar yozilgan tabib va olim. Tibbiyot ilmiga oid qo'llanmalari XVIII–XIX asrlarda madrasalarda o'rganilgan olim",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "16-§ (Mang'itlar ilm-fan va madaniyati): Muhammad Sharif Buxoriy — tibbiyot ilmiga oid qo'llanmalari XVIII–XIX asrlarda madrasalarda o'rganilgan olim.",
+      "answer": true,
+      "explain": "Muhammad Sharif Buxoriy — Mang'itlar davrida «Mizan at-tibb» («Tib tarozisi») asariga sharhlar yozilgan tabib va olim. Tibbiyot ilmiga oid qo'llanmalari XVIII–XIX asrlarda madrasalarda o'rganilgan olim",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "Chorsu",
+      "«To'rtta yo'l» ma'nosidagi savdo binosi"
+    ],
+    [
+      "Toqi musaddas",
+      "Samarqand Chorsusining tarixiy nomi"
+    ],
+    [
+      "Chor Minor",
+      "1807-yilda qurilgan to'rt minorali obida"
+    ],
+    [
+      "Tim",
+      "Usti yopiq bozor va rasta"
+    ],
+    [
+      "Registon",
+      "«Qumloq joy», markaziy maydon"
+    ],
+    [
+      "Sardoba",
+      "Gumbazli ichimlik suvi hovuzi"
+    ],
+    [
+      "Mir Bekoybiy madrasasi",
+      "Qarshidagi vaqf yerli madrasa"
+    ],
+    [
+      "Tuhfat al-xoniy",
+      "Mang'itlar davri tarixiy asari"
+    ],
+    [
+      "Fathnomayi sultoniy",
+      "Mang'itlar davri tarixiy asari"
+    ],
+    [
+      "Mizan at-tibb",
+      "Tibbiyotga oid ilmiy asar"
+    ],
+    [
+      "Tutak darvozasi",
+      "Qarshi shahrining shimoliy darvozasi"
+    ],
+    [
+      "Siyob bozori",
+      "Samarqand Chorsusi joylashgan hudud"
+    ],
+    [
+      "Shayx Jalol",
+      "Mang'itlar davridagi Buxoro xonaqohi"
+    ],
+    [
+      "Ernazar Elchi",
+      "Mang'itlar davrida qurilgan Buxoro madrasasi"
+    ],
+    [
+      "Tursunjon",
+      "Buxorodagi mang'itlar davri madrasasi"
+    ],
+    [
+      "Rahmonquli",
+      "Mang'itlar davri Buxoro madrasasi"
+    ],
+    [
+      "12 tanob",
+      "Xalifa Xudoydod 1786-yilda olgan yer"
+    ],
+    [
+      "360 masjid",
+      "XIX asr boshida Buxorodagi masjidlar soni"
+    ],
+    [
+      "366 madrasa",
+      "A.Byorns keltirgan Buxoro madrasalari soni"
+    ],
+    [
+      "Tosh xonaqoh",
+      "Xalifa Xudoydod majmuasidagi bino"
+    ],
+    [
+      "Nasaf",
+      "Mir Bekoybiy madrasasi vaqf qishloqlari hududi"
+    ],
+    [
+      "24 mavze",
+      "Amir Shohmurod tiklagan Samarqand bo'linishi"
+    ],
+    [
+      "Isaak Nyuton",
+      "1671-yilda teleskop yaratgan ingliz olimi"
+    ],
+    [
+      "Gotfrid Vilgelm Leybnis",
+      "XVII–XVIII asr nemis allomasi"
+    ],
+    [
+      "Amir Haydar",
+      "1800–1826-yillar Buxoro amiri"
+    ],
+    [
+      "Shayx Xudoydod Azizon",
+      "Xalifa Xudoydod majmuasi asoschisi"
+    ],
+    [
+      "Guli",
+      "Qarshida madrasa qurdirgan sutchi ayol"
+    ],
+    [
+      "Muhammad Sharif Buxoriy",
+      "«Mizan at-tibb» asari muallifi"
+    ]
+  ]
+}
