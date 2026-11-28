@@ -1,0 +1,2277 @@
+{
+  "id": "g9-uz-jahon-tarixi-14-osiyo-afrika-ananaviy-jamiyatlar",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "14-mavzu. Osiyo va Afrika mamlakatlari: an’anaviy jamiyatlarda taraqqiyot muammolari",
+  "title": "14-mavzu. Osiyo va Afrika mamlakatlari: an’anaviy jamiyatlarda taraqqiyot muammolari",
+  "source": "Jahon tarixi 9-sinf (2024), 14-mavzu, 78–83-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): qaysi yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi?",
+      "options": [
+        "1789-yil",
+        "1400-yil",
+        "1868-yil",
+        "1918-yil"
+      ],
+      "answer": 1,
+      "explain": "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari) mavzusiga ko'ra 1400-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi",
+        "Sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "Darslik sxemasida jamiyat taraqqiyoti agrar, industrial va postindustrial bosqichlarga ajratilgan"
+      ],
+      "answer": 2,
+      "explain": "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): ____-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi. (Yilni kiriting)",
+      "answer": [
+        "1400",
+        "1400-yil",
+        "1400-yilda"
+      ],
+      "explain": "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda",
+        "XIV asrda"
+      ],
+      "answer": 3,
+      "explain": "1400-yil XIV asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): 1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi.",
+      "answer": true,
+      "explain": "To'g'ri. 1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): 1789-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1789-yilda emas, 1400-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik xronologiyasiga ko'ra 1868-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): qaysi yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi?",
+      "options": [
+        "1500-yil",
+        "1200-yil",
+        "1870-yil",
+        "1945-yil"
+      ],
+      "answer": 0,
+      "explain": "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari) mavzusiga ko'ra 1500-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi",
+        "Darslik sxemasida jamiyat taraqqiyoti agrar, industrial va postindustrial bosqichlarga ajratilgan"
+      ],
+      "answer": 1,
+      "explain": "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): ____-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi. (Yilni kiriting)",
+      "answer": [
+        "1500",
+        "1500-yil",
+        "1500-yilda"
+      ],
+      "explain": "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1500-yil XV asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): 1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi.",
+      "answer": true,
+      "explain": "To'g'ri. 1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): 1200-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1200-yilda emas, 1500-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik xronologiyasiga ko'ra 1870-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): qaysi yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi?",
+      "options": [
+        "1400-yil",
+        "1500-yil",
+        "1453-yil",
+        "1603-yil"
+      ],
+      "answer": 3,
+      "explain": "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari) mavzusiga ko'ra 1603-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi",
+        "Sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "Darslik sxemasida jamiyat taraqqiyoti agrar, industrial va postindustrial bosqichlarga ajratilgan"
+      ],
+      "answer": 0,
+      "explain": "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): ____-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi. (Yilni kiriting)",
+      "answer": [
+        "1603",
+        "1603-yil",
+        "1603-yilda"
+      ],
+      "explain": "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1603-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): 1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): 1400-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1400-yilda emas, 1603-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik xronologiyasiga ko'ra 1500-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): xronologiyaga ko'ra sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi voqeasi XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1400-yil 1500-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy ketma-ketlikka ko'ra XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi voqeasi sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi, 1500-yilda esa XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): xronologiyaga ko'ra sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi voqeasi Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1400-yil 1603-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy ketma-ketlikka ko'ra Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi voqeasi sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi, 1603-yilda esa Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): xronologiyaga ko'ra XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi voqeasi Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1500-yil 1603-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy ketma-ketlikka ko'ra Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi voqeasi XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi, 1603-yilda esa Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): ««Oila — kichik davlat, davlat — katta oila» g'oyasi bilan Xitoy an'anasini belgilagan mutafakkir» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Lev Delyusin",
+        "Tokugava",
+        "Konfutsiy",
+        "Xristofor Kolumb"
+      ],
+      "answer": 2,
+      "explain": "Konfutsiylik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Konfutsiyning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Sharq jamiyati urf-odatlari va an'anaviy tartiblar haqida 14-mavzuda iqtibosi keltirilgan sharqshunos",
+        "Yaponiyada daymyo va samuraylar tartibini mustahkamlab mamlakatni ajratib qo'ygan syogunlar sulolasi",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi",
+        "«Oila — kichik davlat, davlat — katta oila» g'oyasi bilan Xitoy an'anasini belgilagan mutafakkir"
+      ],
+      "answer": 3,
+      "explain": "Konfutsiylik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Oila — kichik davlat, davlat — katta oila» g'oyasi bilan Xitoy an'anasini belgilagan mutafakkir bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Konfutsiy"
+      ],
+      "explain": "Konfutsiylik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Konfutsiylik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan.",
+      "answer": true,
+      "explain": "To'g'ri. Konfutsiylik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Konfutsiy — sharq jamiyati urf-odatlari va an'anaviy tartiblar haqida 14-mavzuda iqtibosi keltirilgan sharqshunos.",
+      "answer": false,
+      "explain": "Noto'g'ri. Konfutsiylik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikda Konfutsiy «Yaponiyada daymyo va samuraylar tartibini mustahkamlab mamlakatni ajratib qo'ygan syogunlar sulolasi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Konfutsiylik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____lik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan».",
+      "options": [
+        "Konfutsiy",
+        "Lev Delyusin",
+        "Tokugava",
+        "Xristofor Kolumb"
+      ],
+      "answer": 0,
+      "explain": "Konfutsiylik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «____lik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Konfutsiy"
+      ],
+      "explain": "Konfutsiylik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «sharq jamiyati urf-odatlari va an'anaviy tartiblar haqida 14-mavzuda iqtibosi keltirilgan sharqshunos» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Konfutsiy",
+        "Lev Delyusin",
+        "Tokugava",
+        "Xristofor Kolumb"
+      ],
+      "answer": 1,
+      "explain": "Darslik kirishida sharqshunos L. Delyusinning Sharq an'analari haqidagi fikri keltirilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Lev Delyusinning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Oila — kichik davlat, davlat — katta oila» g'oyasi bilan Xitoy an'anasini belgilagan mutafakkir",
+        "Yaponiyada daymyo va samuraylar tartibini mustahkamlab mamlakatni ajratib qo'ygan syogunlar sulolasi",
+        "Sharq jamiyati urf-odatlari va an'anaviy tartiblar haqida 14-mavzuda iqtibosi keltirilgan sharqshunos",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 2,
+      "explain": "Darslik kirishida sharqshunos L. Delyusinning Sharq an'analari haqidagi fikri keltirilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): sharq jamiyati urf-odatlari va an'anaviy tartiblar haqida 14-mavzuda iqtibosi keltirilgan sharqshunos bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Lev Delyusin"
+      ],
+      "explain": "Darslik kirishida sharqshunos L. Delyusinning Sharq an'analari haqidagi fikri keltirilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Darslik kirishida sharqshunos L. Delyusinning Sharq an'analari haqidagi fikri keltirilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Darslik kirishida sharqshunos L. Delyusinning Sharq an'analari haqidagi fikri keltirilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Lev Delyusin — «Oila — kichik davlat, davlat — katta oila» g'oyasi bilan Xitoy an'anasini belgilagan mutafakkir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Darslik kirishida sharqshunos L. Delyusinning Sharq an'analari haqidagi fikri keltirilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikda Lev Delyusin «Yaponiyada daymyo va samuraylar tartibini mustahkamlab mamlakatni ajratib qo'ygan syogunlar sulolasi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Darslik kirishida sharqshunos L. Delyusinning Sharq an'analari haqidagi fikri keltirilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Yaponiyada daymyo va samuraylar tartibini mustahkamlab mamlakatni ajratib qo'ygan syogunlar sulolasi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Konfutsiy",
+        "Lev Delyusin",
+        "Xristofor Kolumb",
+        "Tokugava"
+      ],
+      "answer": 3,
+      "explain": "Tokugava syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Tokugavaning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Yaponiyada daymyo va samuraylar tartibini mustahkamlab mamlakatni ajratib qo'ygan syogunlar sulolasi",
+        "«Oila — kichik davlat, davlat — katta oila» g'oyasi bilan Xitoy an'anasini belgilagan mutafakkir",
+        "Sharq jamiyati urf-odatlari va an'anaviy tartiblar haqida 14-mavzuda iqtibosi keltirilgan sharqshunos",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 0,
+      "explain": "Tokugava syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Yaponiyada daymyo va samuraylar tartibini mustahkamlab mamlakatni ajratib qo'ygan syogunlar sulolasi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Tokugava"
+      ],
+      "explain": "Tokugava syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Tokugava syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan.",
+      "answer": true,
+      "explain": "To'g'ri. Tokugava syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Tokugava — «Oila — kichik davlat, davlat — katta oila» g'oyasi bilan Xitoy an'anasini belgilagan mutafakkir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Tokugava syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikda Tokugava «sharq jamiyati urf-odatlari va an'anaviy tartiblar haqida 14-mavzuda iqtibosi keltirilgan sharqshunos» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tokugava syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan».",
+      "options": [
+        "Konfutsiy",
+        "Tokugava",
+        "Lev Delyusin",
+        "Xristofor Kolumb"
+      ],
+      "answer": 1,
+      "explain": "Tokugava syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «____ syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Tokugava"
+      ],
+      "explain": "Tokugava syogunlari Yaponiyada an'anaviy tabaqaviy tartibni ikki asrdan ortiq saqlab turgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Kasta",
+        "Yopiq eshiklar siyosati",
+        "An'anaviy jamiyat",
+        "Samuray"
+      ],
+      "answer": 2,
+      "explain": "An'anaviy jamiyat — qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «An'anaviy jamiyat» atamasi nimani anglatadi?",
+      "options": [
+        "Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh",
+        "Sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati",
+        "Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami",
+        "Qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat"
+      ],
+      "answer": 3,
+      "explain": "An'anaviy jamiyat — qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "An'anaviy jamiyat",
+        "an'anaviy jamiyat"
+      ],
+      "explain": "An'anaviy jamiyat — qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «An'anaviy jamiyat» tushunchasi «qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. An'anaviy jamiyat — qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «An'anaviy jamiyat» deganda Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida An'anaviy jamiyat — qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy lug'atga ko'ra «An'anaviy jamiyat» — «sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. An'anaviy jamiyat — qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Kasta",
+        "An'anaviy jamiyat",
+        "Yopiq eshiklar siyosati",
+        "Samuray"
+      ],
+      "answer": 0,
+      "explain": "Kasta — Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Kasta» atamasi nimani anglatadi?",
+      "options": [
+        "Qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat",
+        "Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh",
+        "Sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati",
+        "Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami"
+      ],
+      "answer": 1,
+      "explain": "Kasta — Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Kasta",
+        "kasta"
+      ],
+      "explain": "Kasta — Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Kasta» tushunchasi «Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Kasta — Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Kasta» deganda qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kasta — Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy lug'atga ko'ra «Kasta» — «sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kasta — Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "An'anaviy jamiyat",
+        "Kasta",
+        "Yopiq eshiklar siyosati",
+        "Samuray"
+      ],
+      "answer": 2,
+      "explain": "Yopiq eshiklar siyosati — sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Yopiq eshiklar siyosati» atamasi nimani anglatadi?",
+      "options": [
+        "Qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat",
+        "Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh",
+        "Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami",
+        "Sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati"
+      ],
+      "answer": 3,
+      "explain": "Yopiq eshiklar siyosati — sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Yopiq eshiklar siyosati",
+        "yopiq eshiklar siyosati"
+      ],
+      "explain": "Yopiq eshiklar siyosati — sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Yopiq eshiklar siyosati» tushunchasi «sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Yopiq eshiklar siyosati — sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Yopiq eshiklar siyosati» deganda qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Yopiq eshiklar siyosati — sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy lug'atga ko'ra «Yopiq eshiklar siyosati» — «Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Yopiq eshiklar siyosati — sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Samuray",
+        "An'anaviy jamiyat",
+        "Kasta",
+        "Yopiq eshiklar siyosati"
+      ],
+      "answer": 0,
+      "explain": "Samuray — Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Samuray» atamasi nimani anglatadi?",
+      "options": [
+        "Qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat",
+        "Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami",
+        "Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh",
+        "Sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati"
+      ],
+      "answer": 1,
+      "explain": "Samuray — Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Samuray",
+        "samuray"
+      ],
+      "explain": "Samuray — Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Samuray» tushunchasi «Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Samuray — Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Samuray» deganda qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Samuray — Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy lug'atga ko'ra «Samuray» — «Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Samuray — Yaponiya an'anaviy jamiyatida harbiy xizmatni o'tovchi imtiyozli dvoryan-jangchi qatlami.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Yaponiyada yirik yer-mulk va viloyatlarga egalik qilgan mahalliy knyaz» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "An'anaviy jamiyat",
+        "Kasta",
+        "Daymyo",
+        "Yopiq eshiklar siyosati"
+      ],
+      "answer": 2,
+      "explain": "Daymyo — Yaponiyada yirik yer-mulk va viloyatlarga egalik qilgan mahalliy knyaz.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Daymyo» atamasi nimani anglatadi?",
+      "options": [
+        "Qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat",
+        "Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh",
+        "Sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati",
+        "Yaponiyada yirik yer-mulk va viloyatlarga egalik qilgan mahalliy knyaz"
+      ],
+      "answer": 3,
+      "explain": "Daymyo — Yaponiyada yirik yer-mulk va viloyatlarga egalik qilgan mahalliy knyaz.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Yaponiyada yirik yer-mulk va viloyatlarga egalik qilgan mahalliy knyaz» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Daymyo",
+        "daymyo"
+      ],
+      "explain": "Daymyo — Yaponiyada yirik yer-mulk va viloyatlarga egalik qilgan mahalliy knyaz.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Daymyo» tushunchasi «Yaponiyada yirik yer-mulk va viloyatlarga egalik qilgan mahalliy knyaz» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Daymyo — Yaponiyada yirik yer-mulk va viloyatlarga egalik qilgan mahalliy knyaz.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Daymyo» deganda qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Daymyo — Yaponiyada yirik yer-mulk va viloyatlarga egalik qilgan mahalliy knyaz.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy lug'atga ko'ra «Daymyo» — «Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Daymyo — Yaponiyada yirik yer-mulk va viloyatlarga egalik qilgan mahalliy knyaz.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish yetakchi bo'lgan uchinchi bosqichi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Postindustrial jamiyat",
+        "An'anaviy jamiyat",
+        "Kasta",
+        "Yopiq eshiklar siyosati"
+      ],
+      "answer": 0,
+      "explain": "Postindustrial jamiyat — jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish yetakchi bo'lgan uchinchi bosqichi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Postindustrial jamiyat» atamasi nimani anglatadi?",
+      "options": [
+        "Qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat",
+        "Jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish yetakchi bo'lgan uchinchi bosqichi",
+        "Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh",
+        "Sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi savdo va aloqalarni cheklash siyosati"
+      ],
+      "answer": 1,
+      "explain": "Postindustrial jamiyat — jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish yetakchi bo'lgan uchinchi bosqichi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish yetakchi bo'lgan uchinchi bosqichi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Postindustrial jamiyat",
+        "postindustrial jamiyat"
+      ],
+      "explain": "Postindustrial jamiyat — jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish yetakchi bo'lgan uchinchi bosqichi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Postindustrial jamiyat» tushunchasi «jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish yetakchi bo'lgan uchinchi bosqichi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Postindustrial jamiyat — jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish yetakchi bo'lgan uchinchi bosqichi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Postindustrial jamiyat» deganda qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Postindustrial jamiyat — jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish yetakchi bo'lgan uchinchi bosqichi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy lug'atga ko'ra «Postindustrial jamiyat» — «Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Postindustrial jamiyat — jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish yetakchi bo'lgan uchinchi bosqichi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Tarixiy rivojlanish sxemasiga ko'ra insoniyat taraqqiyotining uchta asosiy bosqichi qaysilar?",
+      "options": [
+        "1) Ibtidoiy, 2) Qulchilik, 3) Kosmik jamiyat",
+        "1) Savdo, 2) Harbiy, 3) Diniy jamiyat",
+        "1) Agrar (an'anaviy), 2) Industrial (mashinali), 3) Postindustrial (axborot) jamiyat",
+        "Faqat bitta agrar bosqich"
+      ],
+      "answer": 2,
+      "explain": "XVI–XVIII asrlarda Sharq mamlakatlari hamon an'anaviy agrar bosqichda qolgan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Tarixiy rivojlanish sxemasiga ko'ra insoniyat taraqqiyotining uchta asosiy bosqichi qaysilar» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan",
+        "Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi",
+        "Barcha qadimgi ixtirolar avval G'arbiy Yevropada paydo bo'lib, so'ng Sharqqa o'tgan",
+        "Darslik sxemasida jamiyat taraqqiyoti agrar, industrial va postindustrial bosqichlarga ajratilgan"
+      ],
+      "answer": 3,
+      "explain": "XVI–XVIII asrlarda Sharq mamlakatlari hamon an'anaviy agrar bosqichda qolgan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Tarixiy rivojlanish sxemasiga ko'ra insoniyat taraqqiyotining uchta asosiy bosqichi qaysilar» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan",
+        "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan. Aslida: XVI–XVIII asrlarda Sharq mamlakatlari hamon an'anaviy agrar bosqichda qolgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Darslik sxemasida jamiyat taraqqiyoti agrar, industrial va postindustrial bosqichlarga ajratilgan.",
+      "answer": true,
+      "explain": "To'g'ri. XVI–XVIII asrlarda Sharq mamlakatlari hamon an'anaviy agrar bosqichda qolgan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. XVI–XVIII asrlarda Sharq mamlakatlari hamon an'anaviy agrar bosqichda qolgan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik izohiga ko'ra XVI–XVIII asrlarda Sharq mamlakatlari hamon an'anaviy agrar bosqichda qolgan edi.",
+      "answer": true,
+      "explain": "To'g'ri. XVI–XVIII asrlarda Sharq mamlakatlari hamon an'anaviy agrar bosqichda qolgan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): XVI–XVIII asrlarda Sharq imperiyalarining G'arb bilan tashqi savdosi ularning umumiy iqtisodiyotida qancha ulushni egallardi?",
+      "options": [
+        "95 foizini",
+        "Taxminan 10–20 foizini",
+        "80 foizini",
+        "0 foiz — umuman savdo bo'lmagan"
+      ],
+      "answer": 1,
+      "explain": "Yopiq o'zini o'zi ta'minlash iqtisodiyoti Sharqda tashqi raqobat va texnik yangilanish rag'batini kamaytirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «XVI–XVIII asrlarda Sharq imperiyalarining G'arb bilan tashqi savdosi ularning umumiy iqtisodiyotida qancha ulushni egallardi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi",
+        "Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan",
+        "Yirik Sharq imperiyalari o'z ichki bozoriga tayangan, G'arb bilan savdo esa atigi 10–20 foizni tashkil etgan",
+        "Barcha qadimgi ixtirolar avval G'arbiy Yevropada paydo bo'lib, so'ng Sharqqa o'tgan"
+      ],
+      "answer": 2,
+      "explain": "Yopiq o'zini o'zi ta'minlash iqtisodiyoti Sharqda tashqi raqobat va texnik yangilanish rag'batini kamaytirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «XVI–XVIII asrlarda Sharq imperiyalarining G'arb bilan tashqi savdosi ularning umumiy iqtisodiyotida qancha ulushni egallardi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi",
+        "Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi. Aslida: Yopiq o'zini o'zi ta'minlash iqtisodiyoti Sharqda tashqi raqobat va texnik yangilanish rag'batini kamaytirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Yirik Sharq imperiyalari o'z ichki bozoriga tayangan, G'arb bilan savdo esa atigi 10–20 foizni tashkil etgan.",
+      "answer": true,
+      "explain": "To'g'ri. Yopiq o'zini o'zi ta'minlash iqtisodiyoti Sharqda tashqi raqobat va texnik yangilanish rag'batini kamaytirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Yopiq o'zini o'zi ta'minlash iqtisodiyoti Sharqda tashqi raqobat va texnik yangilanish rag'batini kamaytirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik izohiga ko'ra yopiq o'zini o'zi ta'minlash iqtisodiyoti Sharqda tashqi raqobat va texnik yangilanish rag'batini kamaytirgan.",
+      "answer": true,
+      "explain": "To'g'ri. Yopiq o'zini o'zi ta'minlash iqtisodiyoti Sharqda tashqi raqobat va texnik yangilanish rag'batini kamaytirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Qadimda va o'rta asrlarda Xitoy, Hindiston va Islom olamidagi ko'plab ixtirolar Yevropadan qancha vaqt oldin yaratilgan edi?",
+      "options": [
+        "300 yildan 1000 yilgacha oldin",
+        "5 yil oldin",
+        "50 yildan keyin",
+        "Hyech qanday ixtiro bo'lmagan"
+      ],
+      "answer": 0,
+      "explain": "Shunga qaramay, Yangi davrda Yevropa ilmiy-texnik sakrash qilib Sharqdan o'zib ketdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Qadimda va o'rta asrlarda Xitoy, Hindiston va Islom olamidagi ko'plab ixtirolar Yevropadan qancha vaqt oldin yaratilgan edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Barcha qadimgi ixtirolar avval G'arbiy Yevropada paydo bo'lib, so'ng Sharqqa o'tgan",
+        "Qog'oz, kompas, porox va ko'plab ilmiy yutuqlar Sharqda Yevropadan 300–1000 yil oldin paydo bo'lgan",
+        "Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan",
+        "Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi"
+      ],
+      "answer": 1,
+      "explain": "Shunga qaramay, Yangi davrda Yevropa ilmiy-texnik sakrash qilib Sharqdan o'zib ketdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Qadimda va o'rta asrlarda Xitoy, Hindiston va Islom olamidagi ko'plab ixtirolar Yevropadan qancha vaqt oldin yaratilgan edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "Barcha qadimgi ixtirolar avval G'arbiy Yevropada paydo bo'lib, so'ng Sharqqa o'tgan",
+        "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Barcha qadimgi ixtirolar avval G'arbiy Yevropada paydo bo'lib, so'ng Sharqqa o'tgan. Aslida: Shunga qaramay, Yangi davrda Yevropa ilmiy-texnik sakrash qilib Sharqdan o'zib ketdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Qog'oz, kompas, porox va ko'plab ilmiy yutuqlar Sharqda Yevropadan 300–1000 yil oldin paydo bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. Shunga qaramay, Yangi davrda Yevropa ilmiy-texnik sakrash qilib Sharqdan o'zib ketdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Barcha qadimgi ixtirolar avval G'arbiy Yevropada paydo bo'lib, so'ng Sharqqa o'tgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Shunga qaramay, Yangi davrda Yevropa ilmiy-texnik sakrash qilib Sharqdan o'zib ketdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik izohiga ko'ra shunga qaramay, Yangi davrda Yevropa ilmiy-texnik sakrash qilib Sharqdan o'zib ketdi.",
+      "answer": true,
+      "explain": "To'g'ri. Shunga qaramay, Yangi davrda Yevropa ilmiy-texnik sakrash qilib Sharqdan o'zib ketdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Sharq mamlakatlarining XVI–XVIII asrlarda G'arbdan orqada qolishining besh asosiy sababidan biri qaysi?",
+      "options": [
+        "Sharqda aholi sonining nolga tushib ketishi",
+        "Sharqda qishloq xo'jaligi yo'qligi",
+        "Dengizlarga chiqish imkoni bo'lmagani",
+        "Katta harbiy xarajatlar, ekstensiv xo'jalik inqirozi va «yopiq eshiklar» siyosati"
+      ],
+      "answer": 3,
+      "explain": "Shuningdek, yangi okean yo'llarining Yevropa qo'liga o'tishi ham quruqlik savdosini zaiflashtirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Sharq mamlakatlarining XVI–XVIII asrlarda G'arbdan orqada qolishining besh asosiy sababidan biri qaysi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Yopiq eshiklar» siyosati, kommunikatsiya sekinlashuvi va katta harbiy sarflar Sharq taraqqiyotini sekinlashtirdi",
+        "Sharq imperiyalarining orqada qolishiga harbiy xarajatlar umuman ta'sir ko'rsatmagan",
+        "Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan",
+        "Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi"
+      ],
+      "answer": 0,
+      "explain": "Shuningdek, yangi okean yo'llarining Yevropa qo'liga o'tishi ham quruqlik savdosini zaiflashtirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Sharq mamlakatlarining XVI–XVIII asrlarda G'arbdan orqada qolishining besh asosiy sababidan biri qaysi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "Sharq imperiyalarining orqada qolishiga harbiy xarajatlar umuman ta'sir ko'rsatmagan",
+        "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Sharq imperiyalarining orqada qolishiga harbiy xarajatlar umuman ta'sir ko'rsatmagan. Aslida: Shuningdek, yangi okean yo'llarining Yevropa qo'liga o'tishi ham quruqlik savdosini zaiflashtirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Yopiq eshiklar» siyosati, kommunikatsiya sekinlashuvi va katta harbiy sarflar Sharq taraqqiyotini sekinlashtirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Shuningdek, yangi okean yo'llarining Yevropa qo'liga o'tishi ham quruqlik savdosini zaiflashtirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Sharq imperiyalarining orqada qolishiga harbiy xarajatlar umuman ta'sir ko'rsatmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Shuningdek, yangi okean yo'llarining Yevropa qo'liga o'tishi ham quruqlik savdosini zaiflashtirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik izohiga ko'ra shuningdek, yangi okean yo'llarining Yevropa qo'liga o'tishi ham quruqlik savdosini zaiflashtirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Shuningdek, yangi okean yo'llarining Yevropa qo'liga o'tishi ham quruqlik savdosini zaiflashtirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Osiyodagi an'anaviy jamiyatlarda yerga egalikning asosiy va o'ziga xos shakli nima edi?",
+      "options": [
+        "Erkin fermerlik mulkchiligi",
+        "Aksionerlik banklari egaligi",
+        "Yerga oliy davlat mulkchiligi (hukmdorning yerga egaligi)",
+        "Mutlaqo mulkchilik yo'qligi"
+      ],
+      "answer": 2,
+      "explain": "Davlat mulkchiligi tadbirkorlarning mustaqil burjuaziyaga aylanishiga to'sqinlik qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Osiyodagi an'anaviy jamiyatlarda yerga egalikning asosiy va o'ziga xos shakli nima edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XVI–XVIII asrlarda Osiyoda davlat yerlari umuman bo'lmagan",
+        "Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan",
+        "Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi",
+        "Osiyo an'anaviy davlatlarida yerning oliy egasi davlat (hukmdor) bo'lib, xususiy mulk zaif himoyalangan edi"
+      ],
+      "answer": 3,
+      "explain": "Davlat mulkchiligi tadbirkorlarning mustaqil burjuaziyaga aylanishiga to'sqinlik qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Osiyodagi an'anaviy jamiyatlarda yerga egalikning asosiy va o'ziga xos shakli nima edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "XVI–XVIII asrlarda Osiyoda davlat yerlari umuman bo'lmagan",
+        "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: XVI–XVIII asrlarda Osiyoda davlat yerlari umuman bo'lmagan. Aslida: Davlat mulkchiligi tadbirkorlarning mustaqil burjuaziyaga aylanishiga to'sqinlik qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Osiyo an'anaviy davlatlarida yerning oliy egasi davlat (hukmdor) bo'lib, xususiy mulk zaif himoyalangan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Davlat mulkchiligi tadbirkorlarning mustaqil burjuaziyaga aylanishiga to'sqinlik qilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): XVI–XVIII asrlarda Osiyoda davlat yerlari umuman bo'lmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Davlat mulkchiligi tadbirkorlarning mustaqil burjuaziyaga aylanishiga to'sqinlik qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik izohiga ko'ra davlat mulkchiligi tadbirkorlarning mustaqil burjuaziyaga aylanishiga to'sqinlik qilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Davlat mulkchiligi tadbirkorlarning mustaqil burjuaziyaga aylanishiga to'sqinlik qilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Islom sivilizatsiyasi tarkibidagi jamiyatlarning qaysi muhim xususiyati XVI–XVIII asrlarda o'zgara boshladi?",
+      "options": [
+        "Barcha musulmonlar tengligi qonun bilan bekor qilindi",
+        "Yerga davlat mulkchiligi buzilib, mulk harbiy amaldorlar qo'lida to'planishi kuchaydi",
+        "Xitoy kasta tizimi joriy etildi",
+        "Dengiz savdosi taqiqlandi"
+      ],
+      "answer": 1,
+      "explain": "Harbiy-ma'muriy yer taqsimoti ichki ziddiyatlarni kuchaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Islom sivilizatsiyasi tarkibidagi jamiyatlarning qaysi muhim xususiyati XVI–XVIII asrlarda o'zgara boshladi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Islom sivilizatsiyasida Hindistondagi kabi kasta tizimi asosiy qonun bo'lgan",
+        "Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan",
+        "Islom sivilizatsiyasida barcha musulmonlar tengligi tamoyili mavjud bo'lib, XVI–XVIII asrlarda yer munosabatlarida o'zgarishlar yuz berdi",
+        "Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi"
+      ],
+      "answer": 2,
+      "explain": "Harbiy-ma'muriy yer taqsimoti ichki ziddiyatlarni kuchaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Islom sivilizatsiyasi tarkibidagi jamiyatlarning qaysi muhim xususiyati XVI–XVIII asrlarda o'zgara boshladi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi",
+        "Islom sivilizatsiyasida Hindistondagi kabi kasta tizimi asosiy qonun bo'lgan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Islom sivilizatsiyasida Hindistondagi kabi kasta tizimi asosiy qonun bo'lgan. Aslida: Harbiy-ma'muriy yer taqsimoti ichki ziddiyatlarni kuchaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Islom sivilizatsiyasida barcha musulmonlar tengligi tamoyili mavjud bo'lib, XVI–XVIII asrlarda yer munosabatlarida o'zgarishlar yuz berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Harbiy-ma'muriy yer taqsimoti ichki ziddiyatlarni kuchaytirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Islom sivilizatsiyasida Hindistondagi kabi kasta tizimi asosiy qonun bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Harbiy-ma'muriy yer taqsimoti ichki ziddiyatlarni kuchaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik izohiga ko'ra harbiy-ma'muriy yer taqsimoti ichki ziddiyatlarni kuchaytirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Harbiy-ma'muriy yer taqsimoti ichki ziddiyatlarni kuchaytirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Afrika qit'asining tarixiy-geografik jihatdan uch asosiy mintaqasi qaysilar?",
+      "options": [
+        "Shimoliy Afrika, Tropik Afrika (Sahroyi Kabirdan janubda) va Janubiy Afrika",
+        "Markaziy Yevropa, Nil va Sibir",
+        "Faqat Misr va Jazoir",
+        "Kuba, Braziliya va Gaiti"
+      ],
+      "answer": 0,
+      "explain": "Sahroyi Kabir Shimoliy va Tropik Afrikani ajratib tursa-da, ular karvon yo'llari bilan bog'langan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Afrika qit'asining tarixiy-geografik jihatdan uch asosiy mintaqasi qaysilar» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Sahroyi Kabir Janubiy Afrikaning eng janubiy nuqtasida joylashgan",
+        "Afrika qit'asi tarixda Shimoliy, Tropik va Janubiy Afrika hududlariga bo'lib o'rganiladi",
+        "Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan",
+        "Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi"
+      ],
+      "answer": 1,
+      "explain": "Sahroyi Kabir Shimoliy va Tropik Afrikani ajratib tursa-da, ular karvon yo'llari bilan bog'langan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Afrika qit'asining tarixiy-geografik jihatdan uch asosiy mintaqasi qaysilar» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "Sahroyi Kabir Janubiy Afrikaning eng janubiy nuqtasida joylashgan",
+        "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Sahroyi Kabir Janubiy Afrikaning eng janubiy nuqtasida joylashgan. Aslida: Sahroyi Kabir Shimoliy va Tropik Afrikani ajratib tursa-da, ular karvon yo'llari bilan bog'langan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Afrika qit'asi tarixda Shimoliy, Tropik va Janubiy Afrika hududlariga bo'lib o'rganiladi.",
+      "answer": true,
+      "explain": "To'g'ri. Sahroyi Kabir Shimoliy va Tropik Afrikani ajratib tursa-da, ular karvon yo'llari bilan bog'langan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Sahroyi Kabir Janubiy Afrikaning eng janubiy nuqtasida joylashgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Sahroyi Kabir Shimoliy va Tropik Afrikani ajratib tursa-da, ular karvon yo'llari bilan bog'langan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik izohiga ko'ra Sahroyi Kabir Shimoliy va Tropik Afrikani ajratib tursa-da, ular karvon yo'llari bilan bog'langan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Sahroyi Kabir Shimoliy va Tropik Afrikani ajratib tursa-da, ular karvon yo'llari bilan bog'langan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): XVI–XVIII asrlarda Janubiy Afrikadagi bushmen qabilalari ijtimoiy rivojlanishning qaysi darajasida yashar edilar?",
+      "options": [
+        "Industrial fabrika bosqichida",
+        "Parlamentli respublika darajasida",
+        "Okean floti imperiyasi darajasida",
+        "Yuqori paleolit (tosh davri) ovchilik va terimchilik darajasida"
+      ],
+      "answer": 3,
+      "explain": "Afrika qit'asida bir vaqtning o'zida davlatlar ham, qabila boshlig'i, sarkarda va shaman boshqaradigan jamoalar ham mavjud edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «XVI–XVIII asrlarda Janubiy Afrikadagi bushmen qabilalari ijtimoiy rivojlanishning qaysi darajasida yashar edilar» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Afrika xalqlari turlicha rivojlangan: Misrda qadimgi davlatchilik, bushmenlarda esa yuqori paleolit turmushi saqlangan",
+        "XVI asrda bushmenlar Afrikada yirik temiryo'l tarmog'ini qurishgan",
+        "Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan",
+        "Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi"
+      ],
+      "answer": 0,
+      "explain": "Afrika qit'asida bir vaqtning o'zida davlatlar ham, qabila boshlig'i, sarkarda va shaman boshqaradigan jamoalar ham mavjud edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «XVI–XVIII asrlarda Janubiy Afrikadagi bushmen qabilalari ijtimoiy rivojlanishning qaysi darajasida yashar edilar» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi",
+        "XVI asrda bushmenlar Afrikada yirik temiryo'l tarmog'ini qurishgan",
+        "1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi",
+        "1603-yilda Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'yish siyosatiga zamin yaratdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: XVI asrda bushmenlar Afrikada yirik temiryo'l tarmog'ini qurishgan. Aslida: Afrika qit'asida bir vaqtning o'zida davlatlar ham, qabila boshlig'i, sarkarda va shaman boshqaradigan jamoalar ham mavjud edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Afrika xalqlari turlicha rivojlangan: Misrda qadimgi davlatchilik, bushmenlarda esa yuqori paleolit turmushi saqlangan.",
+      "answer": true,
+      "explain": "To'g'ri. Afrika qit'asida bir vaqtning o'zida davlatlar ham, qabila boshlig'i, sarkarda va shaman boshqaradigan jamoalar ham mavjud edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): XVI asrda bushmenlar Afrikada yirik temiryo'l tarmog'ini qurishgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Afrika qit'asida bir vaqtning o'zida davlatlar ham, qabila boshlig'i, sarkarda va shaman boshqaradigan jamoalar ham mavjud edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik izohiga ko'ra Afrika qit'asida bir vaqtning o'zida davlatlar ham, qabila boshlig'i, sarkarda va shaman boshqaradigan jamoalar ham mavjud edi.",
+      "answer": true,
+      "explain": "To'g'ri. Afrika qit'asida bir vaqtning o'zida davlatlar ham, qabila boshlig'i, sarkarda va shaman boshqaradigan jamoalar ham mavjud edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): 14-mavzuda ajratib ko'rsatilgan Sharqdagi to'rt yirik an'anaviy sivilizatsiya qatoriga qaysi biri kirmaydi?",
+      "options": [
+        "Xitoy-konfutsiylik sivilizatsiyasi",
+        "Yaponiya sivilizatsiyasi",
+        "Lotin Amerikasi sivilizatsiyasi",
+        "Hind va Islom sivilizatsiyalari"
+      ],
+      "answer": 2,
+      "explain": "Osiyodagi to'rt asosiy an'anaviy sivilizatsiya — Xitoy, Yaponiya, Hind va Islom sivilizatsiyalaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Osiyodagi to'rt asosiy an'anaviy sivilizatsiya — Xitoy, Yaponiya, Hind va Islom sivilizatsiyalaridir.",
+      "answer": true,
+      "explain": "To'g'ri. Osiyodagi to'rt asosiy an'anaviy sivilizatsiya — Xitoy, Yaponiya, Hind va Islom sivilizatsiyalaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Sharq davlatlarining G'arbdan iqtisodiy-texnik jihatdan orqada qolish sabablariga qaysi biri kirmaydi?",
+      "options": [
+        "«Yopiq eshiklar» siyosati",
+        "Harbiy xarajatlarning haddan tashqari kattaligi",
+        "Yangi okean savdo yo'llarining Yevropa qo'liga o'tishi",
+        "Keng ko'lamli demokratik parlament saylovlarining o'tkazilishi"
+      ],
+      "answer": 3,
+      "explain": "Sharq imperiyalari an'anaviy yakka boshqaruvda qolib, izolyatsiya va harbiy xarajatlar tufayli orqada qoldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Sharq imperiyalari an'anaviy yakka boshqaruvda qolib, izolyatsiya va harbiy xarajatlar tufayli orqada qoldi.",
+      "answer": true,
+      "explain": "To'g'ri. Sharq imperiyalari an'anaviy yakka boshqaruvda qolib, izolyatsiya va harbiy xarajatlar tufayli orqada qoldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): An'anaviy jamiyat belgilariga qaysi xususiyat to'g'ri kelmaydi?",
+      "options": [
+        "Jadal sanoat to'ntarishi va robototexnikaning hukmronligi",
+        "Qadimiy urf-odatlarga sodiqlik",
+        "Dehqonchilikning ustunligi",
+        "O'zgarishlarning juda sekin kechishi"
+      ],
+      "answer": 0,
+      "explain": "An'anaviy jamiyat agrar xususiyatga ega bo'lib, an'analarni saqlashga tayanadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): An'anaviy jamiyat agrar xususiyatga ega bo'lib, an'analarni saqlashga tayanadi.",
+      "answer": true,
+      "explain": "To'g'ri. An'anaviy jamiyat agrar xususiyatga ega bo'lib, an'analarni saqlashga tayanadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): Nima uchun Afrika qit'asida yagona tarixiy taraqqiyot darajasi bo'lmagan?",
+      "options": [
+        "Afrikada hamma hududlar bir xil iqlimga ega bo'lgani uchun",
+        "Tabiiy-geografik to'siqlar (Sahroyi Kabir, tropik o'rmonlar) tufayli ayrim hududlar rivojlangan, ba'zilari ibtidoiy qolgan",
+        "Afrikada XV asrgacha odam yashamagani uchun",
+        "Barcha Afrika xalqlari bir tilda gaplashgani uchun"
+      ],
+      "answer": 1,
+      "explain": "Nil vodiysi va Shimoliy Afrikada qadimiy shaharlar bo'lsa, Tropik va Janubiy Afrikaning ayrim joylarida qabilaviy tuzum saqlangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): XV asrdayoq Sudan orqali o'tgan karvon yo'llari bilan birga Afrikada qul savdosi boshlangan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Keyinchalik yevropaliklar Atlantika qul savdosini misli ko'rilmagan ko'lamga yetkazdilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Agrar -> Industrial -> Postindustrial» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "10–20 foiz",
+        "300–1000 yil",
+        "3 bosqich sxemasi",
+        "Davlat mulkchiligi"
+      ],
+      "answer": 2,
+      "explain": "3 bosqich sxemasi — agrar -> Industrial -> Postindustrial.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): mavzudagi «3 bosqich sxemasi» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Sharq imperiyalarining G'arb bilan savdo ulushi",
+        "Sharq ixtirolarining G'arbdan ilgarilash muddati",
+        "Osiyoda yerning asosiy mulk shakli",
+        "Agrar -> Industrial -> Postindustrial"
+      ],
+      "answer": 3,
+      "explain": "3 bosqich sxemasi — agrar -> Industrial -> Postindustrial.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikning tayanch ma'lumotlarida «3 bosqich sxemasi» — agrar -> Industrial -> Postindustrial sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 3 bosqich sxemasi — agrar -> Industrial -> Postindustrial.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik ma'lumotlariga ko'ra «3 bosqich sxemasi» — sharq imperiyalarining G'arb bilan savdo ulushi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «3 bosqich sxemasi» — agrar -> Industrial -> Postindustrial.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Sharq imperiyalarining G'arb bilan savdo ulushi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "10–20 foiz",
+        "3 bosqich sxemasi",
+        "300–1000 yil",
+        "Davlat mulkchiligi"
+      ],
+      "answer": 0,
+      "explain": "10–20 foiz — sharq imperiyalarining G'arb bilan savdo ulushi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): mavzudagi «10–20 foiz» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Agrar -> Industrial -> Postindustrial",
+        "Sharq imperiyalarining G'arb bilan savdo ulushi",
+        "Sharq ixtirolarining G'arbdan ilgarilash muddati",
+        "Osiyoda yerning asosiy mulk shakli"
+      ],
+      "answer": 1,
+      "explain": "10–20 foiz — sharq imperiyalarining G'arb bilan savdo ulushi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikning tayanch ma'lumotlarida «10–20 foiz» — sharq imperiyalarining G'arb bilan savdo ulushi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 10–20 foiz — sharq imperiyalarining G'arb bilan savdo ulushi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik ma'lumotlariga ko'ra «10–20 foiz» — agrar -> Industrial -> Postindustrial deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «10–20 foiz» — sharq imperiyalarining G'arb bilan savdo ulushi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Sharq ixtirolarining G'arbdan ilgarilash muddati» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "3 bosqich sxemasi",
+        "10–20 foiz",
+        "300–1000 yil",
+        "Davlat mulkchiligi"
+      ],
+      "answer": 2,
+      "explain": "300–1000 yil — sharq ixtirolarining G'arbdan ilgarilash muddati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): mavzudagi «300–1000 yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Agrar -> Industrial -> Postindustrial",
+        "Sharq imperiyalarining G'arb bilan savdo ulushi",
+        "Osiyoda yerning asosiy mulk shakli",
+        "Sharq ixtirolarining G'arbdan ilgarilash muddati"
+      ],
+      "answer": 3,
+      "explain": "300–1000 yil — sharq ixtirolarining G'arbdan ilgarilash muddati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikning tayanch ma'lumotlarida «300–1000 yil» — sharq ixtirolarining G'arbdan ilgarilash muddati sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 300–1000 yil — sharq ixtirolarining G'arbdan ilgarilash muddati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik ma'lumotlariga ko'ra «300–1000 yil» — agrar -> Industrial -> Postindustrial deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «300–1000 yil» — sharq ixtirolarining G'arbdan ilgarilash muddati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Osiyoda yerning asosiy mulk shakli» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "Davlat mulkchiligi",
+        "3 bosqich sxemasi",
+        "10–20 foiz",
+        "300–1000 yil"
+      ],
+      "answer": 0,
+      "explain": "Davlat mulkchiligi — Osiyoda yerning asosiy mulk shakli.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): mavzudagi «Davlat mulkchiligi» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Agrar -> Industrial -> Postindustrial",
+        "Osiyoda yerning asosiy mulk shakli",
+        "Sharq imperiyalarining G'arb bilan savdo ulushi",
+        "Sharq ixtirolarining G'arbdan ilgarilash muddati"
+      ],
+      "answer": 1,
+      "explain": "Davlat mulkchiligi — Osiyoda yerning asosiy mulk shakli.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikning tayanch ma'lumotlarida «Davlat mulkchiligi» — Osiyoda yerning asosiy mulk shakli sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Davlat mulkchiligi — Osiyoda yerning asosiy mulk shakli.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik ma'lumotlariga ko'ra «Davlat mulkchiligi» — agrar -> Industrial -> Postindustrial deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Davlat mulkchiligi» — Osiyoda yerning asosiy mulk shakli.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Oila — kichik davlat, davlat — katta oila»» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "3 bosqich sxemasi",
+        "10–20 foiz",
+        "Konfutsiy hikmati",
+        "300–1000 yil"
+      ],
+      "answer": 2,
+      "explain": "Konfutsiy hikmati — «Oila — kichik davlat, davlat — katta oila».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): mavzudagi «Konfutsiy hikmati» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Agrar -> Industrial -> Postindustrial",
+        "Sharq imperiyalarining G'arb bilan savdo ulushi",
+        "Sharq ixtirolarining G'arbdan ilgarilash muddati",
+        "«Oila — kichik davlat, davlat — katta oila»"
+      ],
+      "answer": 3,
+      "explain": "Konfutsiy hikmati — «Oila — kichik davlat, davlat — katta oila».",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikning tayanch ma'lumotlarida «Konfutsiy hikmati» — «Oila — kichik davlat, davlat — katta oila» sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Konfutsiy hikmati — «Oila — kichik davlat, davlat — katta oila».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik ma'lumotlariga ko'ra «Konfutsiy hikmati» — agrar -> Industrial -> Postindustrial deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Konfutsiy hikmati» — «Oila — kichik davlat, davlat — katta oila».",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Xitoy, Yaponiya, Hind va Islom» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "4 sivilizatsiya",
+        "3 bosqich sxemasi",
+        "10–20 foiz",
+        "300–1000 yil"
+      ],
+      "answer": 0,
+      "explain": "4 sivilizatsiya — Xitoy, Yaponiya, Hind va Islom.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): mavzudagi «4 sivilizatsiya» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Agrar -> Industrial -> Postindustrial",
+        "Xitoy, Yaponiya, Hind va Islom",
+        "Sharq imperiyalarining G'arb bilan savdo ulushi",
+        "Sharq ixtirolarining G'arbdan ilgarilash muddati"
+      ],
+      "answer": 1,
+      "explain": "4 sivilizatsiya — Xitoy, Yaponiya, Hind va Islom.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikning tayanch ma'lumotlarida «4 sivilizatsiya» — Xitoy, Yaponiya, Hind va Islom sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 4 sivilizatsiya — Xitoy, Yaponiya, Hind va Islom.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik ma'lumotlariga ko'ra «4 sivilizatsiya» — agrar -> Industrial -> Postindustrial deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «4 sivilizatsiya» — Xitoy, Yaponiya, Hind va Islom.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Tashqi ta'sirni cheklash siyosati» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "3 bosqich sxemasi",
+        "10–20 foiz",
+        "«Yopiq eshiklar»",
+        "300–1000 yil"
+      ],
+      "answer": 2,
+      "explain": "«Yopiq eshiklar» — tashqi ta'sirni cheklash siyosati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): mavzudagi ««Yopiq eshiklar»» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Agrar -> Industrial -> Postindustrial",
+        "Sharq imperiyalarining G'arb bilan savdo ulushi",
+        "Sharq ixtirolarining G'arbdan ilgarilash muddati",
+        "Tashqi ta'sirni cheklash siyosati"
+      ],
+      "answer": 3,
+      "explain": "«Yopiq eshiklar» — tashqi ta'sirni cheklash siyosati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikning tayanch ma'lumotlarida ««Yopiq eshiklar»» — tashqi ta'sirni cheklash siyosati sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Yopiq eshiklar» — tashqi ta'sirni cheklash siyosati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik ma'lumotlariga ko'ra ««Yopiq eshiklar»» — agrar -> Industrial -> Postindustrial deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida ««Yopiq eshiklar»» — tashqi ta'sirni cheklash siyosati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Shimoliy, Tropik va Janubiy Afrika» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "3 Afrika mintaqasi",
+        "3 bosqich sxemasi",
+        "10–20 foiz",
+        "300–1000 yil"
+      ],
+      "answer": 0,
+      "explain": "3 Afrika mintaqasi — shimoliy, Tropik va Janubiy Afrika.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): mavzudagi «3 Afrika mintaqasi» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Agrar -> Industrial -> Postindustrial",
+        "Shimoliy, Tropik va Janubiy Afrika",
+        "Sharq imperiyalarining G'arb bilan savdo ulushi",
+        "Sharq ixtirolarining G'arbdan ilgarilash muddati"
+      ],
+      "answer": 1,
+      "explain": "3 Afrika mintaqasi — shimoliy, Tropik va Janubiy Afrika.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslikning tayanch ma'lumotlarida «3 Afrika mintaqasi» — shimoliy, Tropik va Janubiy Afrika sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 3 Afrika mintaqasi — shimoliy, Tropik va Janubiy Afrika.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik ma'lumotlariga ko'ra «3 Afrika mintaqasi» — agrar -> Industrial -> Postindustrial deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «3 Afrika mintaqasi» — shimoliy, Tropik va Janubiy Afrika.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Xitoy an'anaviy axloqi asoschisi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Kasta",
+        "Samuray",
+        "Konfutsiy",
+        "Daymyo"
+      ],
+      "answer": 2,
+      "explain": "Konfutsiy — Xitoy an'anaviy axloqi asoschisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Xitoy an'anaviy axloqi asoschisi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Konfutsiy",
+        "konfutsiy",
+        "KONFUTSIY"
+      ],
+      "explain": "Konfutsiy — Xitoy an'anaviy axloqi asoschisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Konfutsiy» tayanch atamasi/nomi «Xitoy an'anaviy axloqi asoschisi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Konfutsiy — Xitoy an'anaviy axloqi asoschisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Konfutsiy» atamasi/nomi darslikda «hindistondagi tug'ma yopiq ijtimoiy guruh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Konfutsiy — Xitoy an'anaviy axloqi asoschisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «hindistondagi tug'ma yopiq ijtimoiy guruh» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Konfutsiy",
+        "Samuray",
+        "Daymyo",
+        "Kasta"
+      ],
+      "answer": 3,
+      "explain": "Kasta — hindistondagi tug'ma yopiq ijtimoiy guruh.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «hindistondagi tug'ma yopiq ijtimoiy guruh» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Kasta",
+        "kasta",
+        "KASTA"
+      ],
+      "explain": "Kasta — hindistondagi tug'ma yopiq ijtimoiy guruh.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Kasta» tayanch atamasi/nomi «hindistondagi tug'ma yopiq ijtimoiy guruh» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Kasta — hindistondagi tug'ma yopiq ijtimoiy guruh.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Kasta» atamasi/nomi darslikda «Xitoy an'anaviy axloqi asoschisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kasta — hindistondagi tug'ma yopiq ijtimoiy guruh.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «yaponiyaning harbiy-dvoryan tabaqasi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Samuray",
+        "Konfutsiy",
+        "Kasta",
+        "Daymyo"
+      ],
+      "answer": 0,
+      "explain": "Samuray — yaponiyaning harbiy-dvoryan tabaqasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «yaponiyaning harbiy-dvoryan tabaqasi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Samuray",
+        "samuray",
+        "SAMURAY"
+      ],
+      "explain": "Samuray — yaponiyaning harbiy-dvoryan tabaqasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Samuray» tayanch atamasi/nomi «yaponiyaning harbiy-dvoryan tabaqasi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Samuray — yaponiyaning harbiy-dvoryan tabaqasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Samuray» atamasi/nomi darslikda «Xitoy an'anaviy axloqi asoschisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Samuray — yaponiyaning harbiy-dvoryan tabaqasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «yaponiyadagi yirik viloyat knyazi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Konfutsiy",
+        "Daymyo",
+        "Kasta",
+        "Samuray"
+      ],
+      "answer": 1,
+      "explain": "Daymyo — yaponiyadagi yirik viloyat knyazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «yaponiyadagi yirik viloyat knyazi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Daymyo",
+        "daymyo",
+        "DAYMYO"
+      ],
+      "explain": "Daymyo — yaponiyadagi yirik viloyat knyazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Daymyo» tayanch atamasi/nomi «yaponiyadagi yirik viloyat knyazi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Daymyo — yaponiyadagi yirik viloyat knyazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Daymyo» atamasi/nomi darslikda «Xitoy an'anaviy axloqi asoschisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Daymyo — yaponiyadagi yirik viloyat knyazi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «yaponiyani ajratib qo'ygan syogun sulolasi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Konfutsiy",
+        "Kasta",
+        "Tokugava",
+        "Samuray"
+      ],
+      "answer": 2,
+      "explain": "Tokugava — yaponiyani ajratib qo'ygan syogun sulolasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «yaponiyani ajratib qo'ygan syogun sulolasi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Tokugava",
+        "tokugava",
+        "TOKUGAVA"
+      ],
+      "explain": "Tokugava — yaponiyani ajratib qo'ygan syogun sulolasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Tokugava» tayanch atamasi/nomi «yaponiyani ajratib qo'ygan syogun sulolasi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Tokugava — yaponiyani ajratib qo'ygan syogun sulolasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Tokugava» atamasi/nomi darslikda «Xitoy an'anaviy axloqi asoschisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tokugava — yaponiyani ajratib qo'ygan syogun sulolasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «janubiy Afrikadagi qadimiy ovchi qabilalar» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Konfutsiy",
+        "Kasta",
+        "Samuray",
+        "Bushmenlar"
+      ],
+      "answer": 3,
+      "explain": "Bushmenlar — janubiy Afrikadagi qadimiy ovchi qabilalar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «janubiy Afrikadagi qadimiy ovchi qabilalar» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Bushmenlar",
+        "bushmenlar",
+        "BUSHMENLAR"
+      ],
+      "explain": "Bushmenlar — janubiy Afrikadagi qadimiy ovchi qabilalar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Bushmenlar» tayanch atamasi/nomi «janubiy Afrikadagi qadimiy ovchi qabilalar» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Bushmenlar — janubiy Afrikadagi qadimiy ovchi qabilalar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Bushmenlar» atamasi/nomi darslikda «Xitoy an'anaviy axloqi asoschisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Bushmenlar — janubiy Afrikadagi qadimiy ovchi qabilalar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «dehqonchilikka asoslangan an'anaviy bosqich» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Agrar",
+        "Konfutsiy",
+        "Kasta",
+        "Samuray"
+      ],
+      "answer": 0,
+      "explain": "Agrar — dehqonchilikka asoslangan an'anaviy bosqich.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «dehqonchilikka asoslangan an'anaviy bosqich» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Agrar",
+        "agrar",
+        "AGRAR"
+      ],
+      "explain": "Agrar — dehqonchilikka asoslangan an'anaviy bosqich.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Agrar» tayanch atamasi/nomi «dehqonchilikka asoslangan an'anaviy bosqich» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Agrar — dehqonchilikka asoslangan an'anaviy bosqich.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Agrar» atamasi/nomi darslikda «Xitoy an'anaviy axloqi asoschisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Agrar — dehqonchilikka asoslangan an'anaviy bosqich.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «mashina ishlab chiqarishiga asoslangan bosqich» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Konfutsiy",
+        "Industrial",
+        "Kasta",
+        "Samuray"
+      ],
+      "answer": 1,
+      "explain": "Industrial — mashina ishlab chiqarishiga asoslangan bosqich.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «mashina ishlab chiqarishiga asoslangan bosqich» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Industrial",
+        "industrial",
+        "INDUSTRIAL"
+      ],
+      "explain": "Industrial — mashina ishlab chiqarishiga asoslangan bosqich.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Industrial» tayanch atamasi/nomi «mashina ishlab chiqarishiga asoslangan bosqich» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Industrial — mashina ishlab chiqarishiga asoslangan bosqich.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Industrial» atamasi/nomi darslikda «Xitoy an'anaviy axloqi asoschisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Industrial — mashina ishlab chiqarishiga asoslangan bosqich.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «shimoliy va Tropik Afrikani ajratuvchi cho'l» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Konfutsiy",
+        "Kasta",
+        "Sahroyi",
+        "Samuray"
+      ],
+      "answer": 2,
+      "explain": "Sahroyi — shimoliy va Tropik Afrikani ajratuvchi cho'l.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «shimoliy va Tropik Afrikani ajratuvchi cho'l» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Sahroyi",
+        "sahroyi",
+        "SAHROYI"
+      ],
+      "explain": "Sahroyi — shimoliy va Tropik Afrikani ajratuvchi cho'l.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Sahroyi» tayanch atamasi/nomi «shimoliy va Tropik Afrikani ajratuvchi cho'l» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Sahroyi — shimoliy va Tropik Afrikani ajratuvchi cho'l.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Sahroyi» atamasi/nomi darslikda «Xitoy an'anaviy axloqi asoschisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Sahroyi — shimoliy va Tropik Afrikani ajratuvchi cho'l.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «XV asrdayoq qul savdosi kechgan Afrika hududi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Konfutsiy",
+        "Kasta",
+        "Samuray",
+        "Sudan"
+      ],
+      "answer": 3,
+      "explain": "Sudan — XV asrdayoq qul savdosi kechgan Afrika hududi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «XV asrdayoq qul savdosi kechgan Afrika hududi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Sudan",
+        "sudan",
+        "SUDAN"
+      ],
+      "explain": "Sudan — XV asrdayoq qul savdosi kechgan Afrika hududi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Sudan» tayanch atamasi/nomi «XV asrdayoq qul savdosi kechgan Afrika hududi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Sudan — XV asrdayoq qul savdosi kechgan Afrika hududi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Sudan» atamasi/nomi darslikda «Xitoy an'anaviy axloqi asoschisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Sudan — XV asrdayoq qul savdosi kechgan Afrika hududi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy manbada 1400-yil sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi bilan bog'liq sana sifatida ko'rsatilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1400-yilda sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yuzlab yil oldinda edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik lug'atiga ko'ra «qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat» deganda nima tushuniladi?",
+      "options": [
+        "An'anaviy jamiyat",
+        "Kasta",
+        "Yopiq eshiklar siyosati",
+        "Samuray"
+      ],
+      "answer": 0,
+      "explain": "An'anaviy jamiyat — qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va sust o'zgarishlarga xos agrar jamiyat.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «14-mavzu. Osiyo va Afrika mamlakatlari: an’anaviy jamiyatlarda taraqqiyot muammolari» mavzusida Konfutsiy — «Oila — kichik davlat, davlat — katta oila» g'oyasi bilan Xitoy an'anasini belgilagan mutafakkir sifatida o'rganiladi.",
+      "answer": true,
+      "explain": "Konfutsiylik sivilizatsiyasi oila, kattaga hurmat va qat'iy davlat tartibiga tayangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik faktiga binoan «Industrial jamiyat agrar bosqichdan oldin paydo bo'lgan» degan fikr haqiqatga to'g'ri keladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. XVI–XVIII asrlarda Sharq mamlakatlari hamon an'anaviy agrar bosqichda qolgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Konfutsiy» tayanch so'zi darslikda qaysi mazmunni anglatadi?",
+      "options": [
+        "Hindistondagi tug'ma yopiq ijtimoiy guruh",
+        "Xitoy an'anaviy axloqi asoschisi",
+        "Yaponiyaning harbiy-dvoryan tabaqasi",
+        "Yaponiyadagi yirik viloyat knyazi"
+      ],
+      "answer": 1,
+      "explain": "Konfutsiy — Xitoy an'anaviy axloqi asoschisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): tarixiy manbada 1500-yil XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi bilan bog'liq sana sifatida ko'rsatilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1500-yilda XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'anaviy imperiyalar gullab-yashnadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik lug'atiga ko'ra «Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh» deganda nima tushuniladi?",
+      "options": [
+        "An'anaviy jamiyat",
+        "Yopiq eshiklar siyosati",
+        "Kasta",
+        "Samuray"
+      ],
+      "answer": 2,
+      "explain": "Kasta — Hindiston jamiyatida tug'ilish bilan belgilanadigan, bir tabaqadan boshqasiga o'tib bo'lmaydigan yopiq guruh.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «14-mavzu. Osiyo va Afrika mamlakatlari: an’anaviy jamiyatlarda taraqqiyot muammolari» mavzusida Lev Delyusin — sharq jamiyati urf-odatlari va an'anaviy tartiblar haqida 14-mavzuda iqtibosi keltirilgan sharqshunos sifatida o'rganiladi.",
+      "answer": true,
+      "explain": "Darslik kirishida sharqshunos L. Delyusinning Sharq an'analari haqidagi fikri keltirilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): darslik faktiga binoan «Xitoy va Hindiston iqtisodiyoti XVI asrda to'liq G'arb bozoriga qaram edi» degan fikr haqiqatga to'g'ri keladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Yopiq o'zini o'zi ta'minlash iqtisodiyoti Sharqda tashqi raqobat va texnik yangilanish rag'batini kamaytirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "14-mavzu (Osiyo va Afrika jamiyatlari): «Kasta» tayanch so'zi darslikda qaysi mazmunni anglatadi?",
+      "options": [
+        "Xitoy an'anaviy axloqi asoschisi",
+        "Yaponiyaning harbiy-dvoryan tabaqasi",
+        "Yaponiyadagi yirik viloyat knyazi",
+        "Hindistondagi tug'ma yopiq ijtimoiy guruh"
+      ],
+      "answer": 3,
+      "explain": "Kasta — hindistondagi tug'ma yopiq ijtimoiy guruh.",
+      "difficulty": "medium"
+    }
+  ],
+  "cards": [
+    [
+      "KONFUTSIY",
+      "Xitoy an'anaviy axloqi asoschisi"
+    ],
+    [
+      "KASTA",
+      "Hindistondagi tug'ma yopiq ijtimoiy guruh"
+    ],
+    [
+      "SAMURAY",
+      "Yaponiyaning harbiy-dvoryan tabaqasi"
+    ],
+    [
+      "DAYMYO",
+      "Yaponiyadagi yirik viloyat knyazi"
+    ],
+    [
+      "TOKUGAVA",
+      "Yaponiyani ajratib qo'ygan syogun sulolasi"
+    ],
+    [
+      "BUSHMENLAR",
+      "Janubiy Afrikadagi qadimiy ovchi qabilalar"
+    ],
+    [
+      "AGRAR",
+      "Dehqonchilikka asoslangan an'anaviy bosqich"
+    ],
+    [
+      "INDUSTRIAL",
+      "Mashina ishlab chiqarishiga asoslangan bosqich"
+    ],
+    [
+      "SAHROYI",
+      "Shimoliy va Tropik Afrikani ajratuvchi cho'l"
+    ],
+    [
+      "SUDAN",
+      "XV asrdayoq qul savdosi kechgan Afrika hududi"
+    ],
+    [
+      "3 bosqich sxemasi",
+      "Agrar -> Industrial -> Postindustrial"
+    ],
+    [
+      "10–20 foiz",
+      "Sharq imperiyalarining G'arb bilan savdo ulushi"
+    ],
+    [
+      "300–1000 yil",
+      "Sharq ixtirolarining G'arbdan ilgarilash muddati"
+    ],
+    [
+      "Davlat mulkchiligi",
+      "Osiyoda yerning asosiy mulk shakli"
+    ],
+    [
+      "Konfutsiy hikmati",
+      "«Oila — kichik davlat, davlat — katta oila»"
+    ],
+    [
+      "4 sivilizatsiya",
+      "Xitoy, Yaponiya, Hind va Islom"
+    ],
+    [
+      "«Yopiq eshiklar»",
+      "Tashqi ta'sirni cheklash siyosati"
+    ],
+    [
+      "3 Afrika mintaqasi",
+      "Shimoliy, Tropik va Janubiy Afrika"
+    ],
+    [
+      "An'anaviy jamiyat",
+      "Qadimiy urf-odatlar ustunligi, tabiiy-iqlim sharoitiga bog'liqlik va"
+    ],
+    [
+      "Yopiq eshiklar siyosati",
+      "Sharq davlatlarining chet elliklar ta'siridan saqlanish uchun tashqi"
+    ],
+    [
+      "Postindustrial jamiyat",
+      "Jamiyat taraqqiyotining axborot texnologiyalari va xizmat ko'rsatish"
+    ],
+    [
+      "Lev Delyusin",
+      "Sharq jamiyati urf-odatlari va an'anaviy tartiblar haqida 14-mavzuda"
+    ],
+    [
+      "1400-yil",
+      "Sharq imperiyalari ko'plab ilmiy va texnik ixtirolarda Yevropadan yu"
+    ],
+    [
+      "1500-yil",
+      "XVI asrda Osiyoda Xitoy, Usmoniylar va Safaviylar kabi qudratli an'a"
+    ],
+    [
+      "1603-yil",
+      "Yaponiyada Tokugava sulolasi mamlakatni tashqi dunyodan ajratib qo'y"
+    ]
+  ]
+}

@@ -1,0 +1,2937 @@
+{
+  "id": "g9-uz-jahon-tarixi-03-gumanizm-madaniyat-va-fan",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "3-mavzu. Gumanizm: G‘arbiy Yevropada Yangi davr madaniyati va fani",
+  "title": "3-mavzu. Gumanizm: G‘arbiy Yevropada Yangi davr madaniyati va fani",
+  "source": "Jahon tarixi 9-sinf (2024), 3-mavzu, 16–19-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): qaysi yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi?",
+      "options": [
+        "1473-yil",
+        "1475-yil",
+        "1452-yil",
+        "1478-yil"
+      ],
+      "answer": 2,
+      "explain": "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan) mavzusiga ko'ra 1452-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi",
+        "«Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi",
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi"
+      ],
+      "answer": 3,
+      "explain": "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ____-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi. (Yilni kiriting)",
+      "answer": [
+        "1452",
+        "1452-yil",
+        "1452-yilda"
+      ],
+      "explain": "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XV asrda",
+        "XIV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 0,
+      "explain": "1452-yil XV asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1473-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1473-yilda emas, 1452-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik xronologiyasiga ko'ra 1475-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): qaysi yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi?",
+      "options": [
+        "1452-yil",
+        "1473-yil",
+        "1475-yil",
+        "1478-yil"
+      ],
+      "answer": 1,
+      "explain": "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan) mavzusiga ko'ra 1473-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "«Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi"
+      ],
+      "answer": 2,
+      "explain": "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ____-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi. (Yilni kiriting)",
+      "answer": [
+        "1473",
+        "1473-yil",
+        "1473-yilda"
+      ],
+      "explain": "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XVII asrda",
+        "XV asrda"
+      ],
+      "answer": 3,
+      "explain": "1473-yil XV asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1452-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1452-yilda emas, 1473-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik xronologiyasiga ko'ra 1475-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): qaysi yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi?",
+      "options": [
+        "1475-yil",
+        "1452-yil",
+        "1473-yil",
+        "1478-yil"
+      ],
+      "answer": 0,
+      "explain": "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan) mavzusiga ko'ra 1475-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "«Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi"
+      ],
+      "answer": 1,
+      "explain": "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ____-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi. (Yilni kiriting)",
+      "answer": [
+        "1475",
+        "1475-yil",
+        "1475-yilda"
+      ],
+      "explain": "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1475-yil XV asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1452-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1452-yilda emas, 1475-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik xronologiyasiga ko'ra 1473-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): qaysi yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi?",
+      "options": [
+        "1452-yil",
+        "1473-yil",
+        "1475-yil",
+        "1478-yil"
+      ],
+      "answer": 3,
+      "explain": "1478-yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan) mavzusiga ko'ra 1478-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "«Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi",
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 0,
+      "explain": "1478-yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ____-yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi. (Yilni kiriting)",
+      "answer": [
+        "1478",
+        "1478-yil",
+        "1478-yilda"
+      ],
+      "explain": "1478-yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ««Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 1,
+      "explain": "1478-yil XV asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1478-yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1478-yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1452-yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1452-yilda emas, 1478-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik xronologiyasiga ko'ra 1473-yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1478-yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): qaysi yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi?",
+      "options": [
+        "1452-yil",
+        "1473-yil",
+        "1543-yil",
+        "1475-yil"
+      ],
+      "answer": 2,
+      "explain": "1543-yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan) mavzusiga ko'ra 1543-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi",
+        "Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi"
+      ],
+      "answer": 3,
+      "explain": "1543-yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ____-yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi. (Yilni kiriting)",
+      "answer": [
+        "1543",
+        "1543-yil",
+        "1543-yilda"
+      ],
+      "explain": "1543-yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVI asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 0,
+      "explain": "1543-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1543-yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1543-yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1452-yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1452-yilda emas, 1543-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik xronologiyasiga ko'ra 1473-yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1543-yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): qaysi yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi?",
+      "options": [
+        "1452-yil",
+        "1564-yil",
+        "1473-yil",
+        "1475-yil"
+      ],
+      "answer": 1,
+      "explain": "1564-yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan) mavzusiga ko'ra 1564-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 2,
+      "explain": "1564-yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ____-yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi. (Yilni kiriting)",
+      "answer": [
+        "1564",
+        "1564-yil",
+        "1564-yilda"
+      ],
+      "explain": "1564-yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 3,
+      "explain": "1564-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1564-yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1564-yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1452-yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1452-yilda emas, 1564-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik xronologiyasiga ko'ra 1473-yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1564-yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): qaysi yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi?",
+      "options": [
+        "1599-yil",
+        "1452-yil",
+        "1473-yil",
+        "1475-yil"
+      ],
+      "answer": 0,
+      "explain": "1599-yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan) mavzusiga ko'ra 1599-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 1,
+      "explain": "1599-yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ____-yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi. (Yilni kiriting)",
+      "answer": [
+        "1599",
+        "1599-yil",
+        "1599-yilda"
+      ],
+      "explain": "1599-yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1599-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1599-yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1599-yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1452-yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1452-yilda emas, 1599-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik xronologiyasiga ko'ra 1473-yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1599-yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): qaysi yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi?",
+      "options": [
+        "1452-yil",
+        "1473-yil",
+        "1475-yil",
+        "1600-yil"
+      ],
+      "answer": 3,
+      "explain": "1600-yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan) mavzusiga ko'ra 1600-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi",
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 0,
+      "explain": "1600-yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ____-yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi. (Yilni kiriting)",
+      "answer": [
+        "1600",
+        "1600-yil",
+        "1600-yilda"
+      ],
+      "explain": "1600-yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 1,
+      "explain": "1600-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1600-yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1600-yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1452-yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1452-yilda emas, 1600-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik xronologiyasiga ko'ra 1473-yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1600-yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): qaysi yilda buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi)?",
+      "options": [
+        "1452-yil",
+        "1473-yil",
+        "1642-yil",
+        "1475-yil"
+      ],
+      "answer": 2,
+      "explain": "1642-yilda buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan) mavzusiga ko'ra 1642-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi",
+        "Buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi)"
+      ],
+      "answer": 3,
+      "explain": "1642-yilda buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ____-yilda buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi). (Yilni kiriting)",
+      "answer": [
+        "1642",
+        "1642-yil",
+        "1642-yilda"
+      ],
+      "explain": "1642-yilda buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi)» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1642-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1642-yilda buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi).",
+      "answer": true,
+      "explain": "To'g'ri. 1642-yilda buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1452-yilda buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi).",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1452-yilda emas, 1642-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik xronologiyasiga ko'ra 1473-yilda buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi).",
+      "answer": false,
+      "explain": "Noto'g'ri. 1642-yilda buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): qaysi yilda londondagi mashhur «Globus» teatri buzib tashlandi?",
+      "options": [
+        "1452-yil",
+        "1644-yil",
+        "1473-yil",
+        "1475-yil"
+      ],
+      "answer": 1,
+      "explain": "1644-yilda londondagi mashhur «Globus» teatri buzib tashlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan) mavzusiga ko'ra 1644-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Londondagi mashhur «Globus» teatri buzib tashlandi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 2,
+      "explain": "1644-yilda londondagi mashhur «Globus» teatri buzib tashlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ____-yilda londondagi mashhur «Globus» teatri buzib tashlandi. (Yilni kiriting)",
+      "answer": [
+        "1644",
+        "1644-yil",
+        "1644-yilda"
+      ],
+      "explain": "1644-yilda londondagi mashhur «Globus» teatri buzib tashlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Londondagi mashhur «Globus» teatri buzib tashlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 3,
+      "explain": "1644-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1644-yilda londondagi mashhur «Globus» teatri buzib tashlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1644-yilda londondagi mashhur «Globus» teatri buzib tashlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 1452-yilda londondagi mashhur «Globus» teatri buzib tashlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1452-yilda emas, 1644-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik xronologiyasiga ko'ra 1473-yilda londondagi mashhur «Globus» teatri buzib tashlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1644-yilda londondagi mashhur «Globus» teatri buzib tashlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Uyg'onish davrining buyuk rassom...» hamda ««Utopiya» asari muallifi ingliz...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi",
+        "«Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi"
+      ],
+      "answer": 0,
+      "explain": "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Uyg'onish davrining buyuk rassom...» hamda ««Utopiya» asari muallifi ingliz...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "«Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi",
+        "Kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 1,
+      "explain": "1478-yilda «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Buyuk haykaltarosh va rassom Mik...» hamda «Buyuk ingliz dramaturgi Uilyam S...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "«Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi",
+        "Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi",
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi",
+        "Buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi"
+      ],
+      "answer": 2,
+      "explain": "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Buyuk haykaltarosh va rassom Mik...» hamda «Buyuk ingliz dramaturgi Uilyam S...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi",
+        "«Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi",
+        "Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi",
+        "Buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi"
+      ],
+      "answer": 3,
+      "explain": "1564-yilda buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Nikolay Kopernikning 30 yillik k...» hamda «Italyan faylasufi Jordano Bruno...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi",
+        "Buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi",
+        "Londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi",
+        "Italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi"
+      ],
+      "answer": 0,
+      "explain": "1543-yilda Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Nikolay Kopernikning 30 yillik k...» hamda «Italyan faylasufi Jordano Bruno...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi",
+        "Italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi",
+        "Buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi",
+        "Londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi"
+      ],
+      "answer": 1,
+      "explain": "1600-yilda italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Londonda Uilyam Shekspir faoliya...» hamda «Londondagi mashhur «Globus» teat...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi",
+        "Buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi)",
+        "Londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi",
+        "Londondagi mashhur «Globus» teatri buzib tashlandi"
+      ],
+      "answer": 2,
+      "explain": "1599-yilda londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Londonda Uilyam Shekspir faoliya...» hamda «Londondagi mashhur «Globus» teat...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi",
+        "Italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi",
+        "Buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi)",
+        "Londondagi mashhur «Globus» teatri buzib tashlandi"
+      ],
+      "answer": 3,
+      "explain": "1644-yilda londondagi mashhur «Globus» teatri buzib tashlandi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi voqeasi kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1452-yil 1473-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi voqeasi uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi, 1473-yilda esa kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi voqeasi buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1452-yil 1475-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi voqeasi uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi, 1475-yilda esa buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi voqeasi «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1452-yil 1478-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi voqeasi uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi, 1478-yilda esa «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi voqeasi Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1452-yil 1543-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi voqeasi uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi, 1543-yilda esa Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi voqeasi buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1452-yil 1564-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi voqeasi uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi, 1564-yilda esa buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi voqeasi londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1452-yil 1599-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi voqeasi uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi, 1599-yilda esa londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi voqeasi italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1452-yil 1600-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi voqeasi uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi, 1600-yilda esa italyan faylasufi Jordano Bruno Rimda inkvizitsiya hukmi bilan gulxanda yoqildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi voqeasi buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1452-yil 1642-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi) voqeasi uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi, 1642-yilda esa buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vafot etdi).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi voqeasi londondagi mashhur «Globus» teatri buzib tashlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1452-yil 1644-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra londondagi mashhur «Globus» teatri buzib tashlandi voqeasi uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi, 1644-yilda esa londondagi mashhur «Globus» teatri buzib tashlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi voqeasi buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1473-yil 1475-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi voqeasi kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi, 1475-yilda esa buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi voqeasi «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1473-yil 1478-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi voqeasi kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi, 1478-yilda esa «Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi voqeasi Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1473-yil 1543-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi voqeasi kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi, 1543-yilda esa Nikolay Kopernikning 30 yillik kuzatuvlariga asoslangan asari nashr etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi voqeasi buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1473-yil 1564-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi voqeasi kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi, 1564-yilda esa buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Galiley tug'ildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): xronologiyaga ko'ra kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi voqeasi londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1473-yil 1599-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy ketma-ketlikka ko'ra londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi voqeasi kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi, 1599-yilda esa londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ««Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes",
+        "Leonardo da Vinchi"
+      ],
+      "answer": 0,
+      "explain": "Ingliz gumanisti Tomas Mor (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Tomas Morning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi",
+        "«Mona Liza» («Jokonda») portreti muallifi va ko'plab texnik ixtirolar loyihachisi"
+      ],
+      "answer": 1,
+      "explain": "Ingliz gumanisti Tomas Mor (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Tomas Mor"
+      ],
+      "explain": "Ingliz gumanisti Tomas Mor (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Ingliz gumanisti Tomas Mor (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan.",
+      "answer": true,
+      "explain": "To'g'ri. Ingliz gumanisti Tomas Mor (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Tomas Mor — «Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ingliz gumanisti Tomas Mor (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Tomas Mor «o'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Ingliz gumanisti Tomas Mor (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Ingliz gumanisti ____ (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan».",
+      "options": [
+        "Uilyam Shekspir",
+        "Migel de Servantes",
+        "Tomas Mor",
+        "Leonardo da Vinchi"
+      ],
+      "answer": 2,
+      "explain": "Ingliz gumanisti Tomas Mor (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Ingliz gumanisti ____ (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Tomas Mor"
+      ],
+      "explain": "Ingliz gumanisti Tomas Mor (1478–1535) xususiy mulksiz adolatli jamiyat haqidagi «Utopiya» asarini yozgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Tomas Mor",
+        "Migel de Servantes",
+        "Leonardo da Vinchi",
+        "Uilyam Shekspir"
+      ],
+      "answer": 3,
+      "explain": "Uilyam Shekspir (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Uilyam Shekspirning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi",
+        "«Mona Liza» («Jokonda») portreti muallifi va ko'plab texnik ixtirolar loyihachisi"
+      ],
+      "answer": 0,
+      "explain": "Uilyam Shekspir (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Uilyam Shekspir"
+      ],
+      "explain": "Uilyam Shekspir (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Uilyam Shekspir (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan.",
+      "answer": true,
+      "explain": "To'g'ri. Uilyam Shekspir (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Uilyam Shekspir — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Uilyam Shekspir (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Uilyam Shekspir «o'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Uilyam Shekspir (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan».",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes",
+        "Leonardo da Vinchi"
+      ],
+      "answer": 1,
+      "explain": "Uilyam Shekspir (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «____ (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Uilyam Shekspir"
+      ],
+      "explain": "Uilyam Shekspir (1564–1616) Londondagi «Globus» teatri uchun o'lmas sahna asarlari yozgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «o'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes",
+        "Leonardo da Vinchi"
+      ],
+      "answer": 2,
+      "explain": "Migel de Servantes (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Migel de Servantesning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "«Mona Liza» («Jokonda») portreti muallifi va ko'plab texnik ixtirolar loyihachisi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi"
+      ],
+      "answer": 3,
+      "explain": "Migel de Servantes (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): o'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Migel de Servantes"
+      ],
+      "explain": "Migel de Servantes (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Migel de Servantes (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan.",
+      "answer": true,
+      "explain": "To'g'ri. Migel de Servantes (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Migel de Servantes — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Migel de Servantes (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Migel de Servantes ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Migel de Servantes (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan».",
+      "options": [
+        "Migel de Servantes",
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Leonardo da Vinchi"
+      ],
+      "answer": 0,
+      "explain": "Migel de Servantes (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «____ (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Migel de Servantes"
+      ],
+      "explain": "Migel de Servantes (1547–1616) jahon adabiyotining shoh asarlaridan biri — «Don Kixot»ni yaratgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ««Mona Liza» («Jokonda») portreti muallifi va ko'plab texnik ixtirolar loyihachisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Tomas Mor",
+        "Leonardo da Vinchi",
+        "Uilyam Shekspir",
+        "Migel de Servantes"
+      ],
+      "answer": 1,
+      "explain": "Leonardo da Vinchi (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Leonardo da Vinchining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "«Mona Liza» («Jokonda») portreti muallifi va ko'plab texnik ixtirolar loyihachisi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi"
+      ],
+      "answer": 2,
+      "explain": "Leonardo da Vinchi (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Mona Liza» («Jokonda») portreti muallifi va ko'plab texnik ixtirolar loyihachisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Leonardo da Vinchi"
+      ],
+      "explain": "Leonardo da Vinchi (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Leonardo da Vinchi (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan.",
+      "answer": true,
+      "explain": "To'g'ri. Leonardo da Vinchi (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Leonardo da Vinchi — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Leonardo da Vinchi (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Leonardo da Vinchi ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Leonardo da Vinchi (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan».",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes",
+        "Leonardo da Vinchi"
+      ],
+      "answer": 3,
+      "explain": "Leonardo da Vinchi (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «____ (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Leonardo da Vinchi"
+      ],
+      "explain": "Leonardo da Vinchi (1452–1519) rangtasvirni «san'atlar malikasi» deb atagan va 18 dan ortiq ixtiro loyihasini chizgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «37 yillik umri davomida «Sikstin madonnasi» kabi go'zal asarlarni yaratgan italyan rassomi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Rafael Santi",
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes"
+      ],
+      "answer": 0,
+      "explain": "Rafael Santi (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Rafael Santining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "37 yillik umri davomida «Sikstin madonnasi» kabi go'zal asarlarni yaratgan italyan rassomi",
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi"
+      ],
+      "answer": 1,
+      "explain": "Rafael Santi (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 37 yillik umri davomida «Sikstin madonnasi» kabi go'zal asarlarni yaratgan italyan rassomi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Rafael Santi"
+      ],
+      "explain": "Rafael Santi (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Rafael Santi (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan.",
+      "answer": true,
+      "explain": "To'g'ri. Rafael Santi (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Rafael Santi — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Rafael Santi (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Rafael Santi ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Rafael Santi (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan».",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Rafael Santi",
+        "Migel de Servantes"
+      ],
+      "answer": 2,
+      "explain": "Rafael Santi (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «____ (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Rafael Santi"
+      ],
+      "explain": "Rafael Santi (1483–1520) insonga mehr va ma'naviy go'zallikni tarannum etgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «26 yoshida balandligi 5,2 metrli «David» haykalini yaratgan buyuk haykaltarosh» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes",
+        "Mikelanjelo Buonarroti"
+      ],
+      "answer": 3,
+      "explain": "Mikelanjelo (1475–1564) marmardan 5,7 tonnalik «David» haykalini yaratib jahonga mashhur bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Mikelanjelo Buonarrotining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "26 yoshida balandligi 5,2 metrli «David» haykalini yaratgan buyuk haykaltarosh",
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi"
+      ],
+      "answer": 0,
+      "explain": "Mikelanjelo (1475–1564) marmardan 5,7 tonnalik «David» haykalini yaratib jahonga mashhur bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 26 yoshida balandligi 5,2 metrli «David» haykalini yaratgan buyuk haykaltarosh bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Mikelanjelo Buonarroti"
+      ],
+      "explain": "Mikelanjelo (1475–1564) marmardan 5,7 tonnalik «David» haykalini yaratib jahonga mashhur bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Mikelanjelo (1475–1564) marmardan 5,7 tonnalik «David» haykalini yaratib jahonga mashhur bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. Mikelanjelo (1475–1564) marmardan 5,7 tonnalik «David» haykalini yaratib jahonga mashhur bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Mikelanjelo Buonarroti — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Mikelanjelo (1475–1564) marmardan 5,7 tonnalik «David» haykalini yaratib jahonga mashhur bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Mikelanjelo Buonarroti ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Mikelanjelo (1475–1564) marmardan 5,7 tonnalik «David» haykalini yaratib jahonga mashhur bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ««Adashgan o'g'ilning qaytishi» kabi chuqur psixologik asarlar yaratgan golland rassomi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Tomas Mor",
+        "Rembrandt",
+        "Uilyam Shekspir",
+        "Migel de Servantes"
+      ],
+      "answer": 1,
+      "explain": "Rembrandt rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Rembrandtning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "«Adashgan o'g'ilning qaytishi» kabi chuqur psixologik asarlar yaratgan golland rassomi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi"
+      ],
+      "answer": 2,
+      "explain": "Rembrandt rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Adashgan o'g'ilning qaytishi» kabi chuqur psixologik asarlar yaratgan golland rassomi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Rembrandt"
+      ],
+      "explain": "Rembrandt rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Rembrandt rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan.",
+      "answer": true,
+      "explain": "To'g'ri. Rembrandt rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Rembrandt — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Rembrandt rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Rembrandt ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Rembrandt rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan».",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes",
+        "Rembrandt"
+      ],
+      "answer": 3,
+      "explain": "Rembrandt rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «____ rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Rembrandt"
+      ],
+      "explain": "Rembrandt rangtasvirda inson ichki kechinmalari, mehr va kechirim tuyg'ularini mahorat bilan aks ettirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «30 yillik kuzatuvlardan so'ng Yer Quyosh atrofida aylanishini isbotlagan polyak astronomi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Nikolay Kopernik",
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes"
+      ],
+      "answer": 0,
+      "explain": "Nikolay Kopernik (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Nikolay Kopernikning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "30 yillik kuzatuvlardan so'ng Yer Quyosh atrofida aylanishini isbotlagan polyak astronomi",
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi"
+      ],
+      "answer": 1,
+      "explain": "Nikolay Kopernik (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): 30 yillik kuzatuvlardan so'ng Yer Quyosh atrofida aylanishini isbotlagan polyak astronomi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Nikolay Kopernik"
+      ],
+      "explain": "Nikolay Kopernik (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Nikolay Kopernik (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi.",
+      "answer": true,
+      "explain": "To'g'ri. Nikolay Kopernik (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Nikolay Kopernik — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Nikolay Kopernik (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Nikolay Kopernik ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Nikolay Kopernik (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi».",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Nikolay Kopernik",
+        "Migel de Servantes"
+      ],
+      "answer": 2,
+      "explain": "Nikolay Kopernik (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «____ (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Nikolay Kopernik"
+      ],
+      "explain": "Nikolay Kopernik (1473–1543) olamning geotsentrik manzarasini inkor etib, geliotsentrik ta'limot yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «koinotning cheksizligi va abadiyligi haqidagi qarashlari uchun gulxanda yoqilgan mutafakkir» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes",
+        "Jordano Bruno"
+      ],
+      "answer": 3,
+      "explain": "Jordano Bruno (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Jordano Brunoning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Koinotning cheksizligi va abadiyligi haqidagi qarashlari uchun gulxanda yoqilgan mutafakkir",
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi"
+      ],
+      "answer": 0,
+      "explain": "Jordano Bruno (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): koinotning cheksizligi va abadiyligi haqidagi qarashlari uchun gulxanda yoqilgan mutafakkir bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Jordano Bruno"
+      ],
+      "explain": "Jordano Bruno (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Jordano Bruno (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan.",
+      "answer": true,
+      "explain": "To'g'ri. Jordano Bruno (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Jordano Bruno — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Jordano Bruno (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Jordano Bruno ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Jordano Bruno (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan».",
+      "options": [
+        "Tomas Mor",
+        "Jordano Bruno",
+        "Uilyam Shekspir",
+        "Migel de Servantes"
+      ],
+      "answer": 1,
+      "explain": "Jordano Bruno (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «____ (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Jordano Bruno"
+      ],
+      "explain": "Jordano Bruno (1548–1600) quyosh tizimidan tashqarida ham cheksiz olamlar borligini ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «teleskop yaratib, sayyoralar va Oyni kuzatish orqali Kopernik nazariyasini tasdiqlagan olim» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Galileo Galiley",
+        "Migel de Servantes"
+      ],
+      "answer": 2,
+      "explain": "Galileo Galiley (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Galileo Galileyning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi",
+        "Teleskop yaratib, sayyoralar va Oyni kuzatish orqali Kopernik nazariyasini tasdiqlagan olim"
+      ],
+      "answer": 3,
+      "explain": "Galileo Galiley (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): teleskop yaratib, sayyoralar va Oyni kuzatish orqali Kopernik nazariyasini tasdiqlagan olim bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Galileo Galiley"
+      ],
+      "explain": "Galileo Galiley (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Galileo Galiley (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi.",
+      "answer": true,
+      "explain": "To'g'ri. Galileo Galiley (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Galileo Galiley — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Galileo Galiley (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Galileo Galiley ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Galileo Galiley (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi».",
+      "options": [
+        "Galileo Galiley",
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes"
+      ],
+      "answer": 0,
+      "explain": "Galileo Galiley (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «____ (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Galileo Galiley"
+      ],
+      "explain": "Galileo Galiley (1564–1642) teleskop yordamida osmon jismlarini o'rganib zamonaviy fizikaga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «butun olam tortishish qonunini kashf etgan va ko'zguli teleskop yasagan ingliz olimi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Tomas Mor",
+        "Isaak Nyuton",
+        "Uilyam Shekspir",
+        "Migel de Servantes"
+      ],
+      "answer": 1,
+      "explain": "Isaak Nyuton (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Isaak Nyutonning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "Butun olam tortishish qonunini kashf etgan va ko'zguli teleskop yasagan ingliz olimi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi"
+      ],
+      "answer": 2,
+      "explain": "Isaak Nyuton (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): butun olam tortishish qonunini kashf etgan va ko'zguli teleskop yasagan ingliz olimi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Isaak Nyuton"
+      ],
+      "explain": "Isaak Nyuton (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Isaak Nyuton (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Isaak Nyuton (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Isaak Nyuton — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Isaak Nyuton (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Isaak Nyuton ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Isaak Nyuton (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi».",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes",
+        "Isaak Nyuton"
+      ],
+      "answer": 3,
+      "explain": "Isaak Nyuton (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «____ (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Isaak Nyuton"
+      ],
+      "explain": "Isaak Nyuton (1642–1727) osmon jismlari va Yerdagi harakatni yagona qonunlarga bo'ysundirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «yashash, erkinlik va mulk kabi tabiiy huquqlar hamda hokimiyat bo'linishini asoslagan faylasuf» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Jon Lokk",
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Migel de Servantes"
+      ],
+      "answer": 0,
+      "explain": "Jon Lokk (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Jon Lokkning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi",
+        "Yashash, erkinlik va mulk kabi tabiiy huquqlar hamda hokimiyat bo'linishini asoslagan faylasuf",
+        "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi",
+        "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanini yozgan ispan adibi"
+      ],
+      "answer": 1,
+      "explain": "Jon Lokk (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): yashash, erkinlik va mulk kabi tabiiy huquqlar hamda hokimiyat bo'linishini asoslagan faylasuf bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Jon Lokk"
+      ],
+      "explain": "Jon Lokk (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Jon Lokk (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi.",
+      "answer": true,
+      "explain": "To'g'ri. Jon Lokk (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Jon Lokk — «Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallifi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Jon Lokk (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslikda Jon Lokk ««Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalarini yaratgan ingliz dramaturgi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Jon Lokk (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi».",
+      "options": [
+        "Tomas Mor",
+        "Uilyam Shekspir",
+        "Jon Lokk",
+        "Migel de Servantes"
+      ],
+      "answer": 2,
+      "explain": "Jon Lokk (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «____ (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Jon Lokk"
+      ],
+      "explain": "Jon Lokk (1632–1704) davlat hokimiyatining qonun chiqaruvchi va ijro etuvchi tarmoqlarga bo'linishini ilgari surdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Antik davr",
+        "Utopiya",
+        "Geliotsentrik tizim",
+        "Gumanizm"
+      ],
+      "answer": 3,
+      "explain": "Gumanizm — inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Gumanizm» atamasi nimani anglatadi?",
+      "options": [
+        "Inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash",
+        "Qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama",
+        "Tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi",
+        "Quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot"
+      ],
+      "answer": 0,
+      "explain": "Gumanizm — inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Gumanizm",
+        "gumanizm"
+      ],
+      "explain": "Gumanizm — inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Gumanizm» tushunchasi «inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Gumanizm — inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Gumanizm» deganda qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Gumanizm — inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy lug'atga ko'ra «Gumanizm» — «tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Gumanizm — inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Gumanizm",
+        "Antik davr",
+        "Utopiya",
+        "Geliotsentrik tizim"
+      ],
+      "answer": 1,
+      "explain": "Antik davr — qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Antik davr» atamasi nimani anglatadi?",
+      "options": [
+        "Inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash",
+        "Tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi",
+        "Qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama",
+        "Quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot"
+      ],
+      "answer": 2,
+      "explain": "Antik davr — qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Antik davr",
+        "antik davr"
+      ],
+      "explain": "Antik davr — qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Antik davr» tushunchasi «qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Antik davr — qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Antik davr» deganda inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Antik davr — qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy lug'atga ko'ra «Antik davr» — «tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Antik davr — qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Gumanizm",
+        "Antik davr",
+        "Geliotsentrik tizim",
+        "Utopiya"
+      ],
+      "answer": 3,
+      "explain": "Utopiya — tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Utopiya» atamasi nimani anglatadi?",
+      "options": [
+        "Tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi",
+        "Inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash",
+        "Qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama",
+        "Quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot"
+      ],
+      "answer": 0,
+      "explain": "Utopiya — tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Utopiya",
+        "utopiya"
+      ],
+      "explain": "Utopiya — tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Utopiya» tushunchasi «tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Utopiya — tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Utopiya» deganda inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Utopiya — tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy lug'atga ko'ra «Utopiya» — «qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Utopiya — tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Gumanizm",
+        "Geliotsentrik tizim",
+        "Antik davr",
+        "Utopiya"
+      ],
+      "answer": 1,
+      "explain": "Geliotsentrik tizim — quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Geliotsentrik tizim» atamasi nimani anglatadi?",
+      "options": [
+        "Inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash",
+        "Qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama",
+        "Quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot",
+        "Tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi"
+      ],
+      "answer": 2,
+      "explain": "Geliotsentrik tizim — quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Geliotsentrik tizim",
+        "geliotsentrik tizim"
+      ],
+      "explain": "Geliotsentrik tizim — quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Geliotsentrik tizim» tushunchasi «quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Geliotsentrik tizim — quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Geliotsentrik tizim» deganda inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Geliotsentrik tizim — quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy lug'atga ko'ra «Geliotsentrik tizim» — «qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Geliotsentrik tizim — quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atrofida aylanishini tushuntiruvchi ta'limot.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli yashash, erkinlik va mulk huquqlari» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Gumanizm",
+        "Antik davr",
+        "Utopiya",
+        "Tabiiy huquqlar"
+      ],
+      "answer": 3,
+      "explain": "Tabiiy huquqlar — jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli yashash, erkinlik va mulk huquqlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Tabiiy huquqlar» atamasi nimani anglatadi?",
+      "options": [
+        "Jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli yashash, erkinlik va mulk huquqlari",
+        "Inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash",
+        "Qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama",
+        "Tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi"
+      ],
+      "answer": 0,
+      "explain": "Tabiiy huquqlar — jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli yashash, erkinlik va mulk huquqlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli yashash, erkinlik va mulk huquqlari» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Tabiiy huquqlar",
+        "tabiiy huquqlar"
+      ],
+      "explain": "Tabiiy huquqlar — jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli yashash, erkinlik va mulk huquqlari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Tabiiy huquqlar» tushunchasi «jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli yashash, erkinlik va mulk huquqlari» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Tabiiy huquqlar — jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli yashash, erkinlik va mulk huquqlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Tabiiy huquqlar» deganda inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tabiiy huquqlar — jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli yashash, erkinlik va mulk huquqlari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy lug'atga ko'ra «Tabiiy huquqlar» — «qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Tabiiy huquqlar — jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli yashash, erkinlik va mulk huquqlari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari sahnalashtirilgan teatr» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Gumanizm",
+        "Globus teatri",
+        "Antik davr",
+        "Utopiya"
+      ],
+      "answer": 1,
+      "explain": "Globus teatri — 1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari sahnalashtirilgan teatr.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Globus teatri» atamasi nimani anglatadi?",
+      "options": [
+        "Inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash",
+        "Qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama",
+        "1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari sahnalashtirilgan teatr",
+        "Tomas Mor tomonidan tasvirlangan, xususiy mulk bo'lmagan xayoliy adolatli jamiyat nomi"
+      ],
+      "answer": 2,
+      "explain": "Globus teatri — 1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari sahnalashtirilgan teatr.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari sahnalashtirilgan teatr» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Globus teatri",
+        "globus teatri"
+      ],
+      "explain": "Globus teatri — 1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari sahnalashtirilgan teatr.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Globus teatri» tushunchasi «1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari sahnalashtirilgan teatr» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Globus teatri — 1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari sahnalashtirilgan teatr.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Globus teatri» deganda inson qadr-qimmati, aqli va ijodiy imkoniyatlarini eng oliy qadriyat deb biluvchi dunyoqarash tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Globus teatri — 1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari sahnalashtirilgan teatr.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): tarixiy lug'atga ko'ra «Globus teatri» — «qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan qo'llaniladigan atama» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Globus teatri — 1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari sahnalashtirilgan teatr.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Gumanist» atamasi qaysi lotincha so'zdan kelib chiqqan?",
+      "options": [
+        "«Historia» — tarix so'zidan",
+        "«Humus» — tuproq so'zidan",
+        "«Manus» — qo'l so'zidan",
+        "«Humanus» — insoniy, insonparvar so'zidan"
+      ],
+      "answer": 3,
+      "explain": "Gumanizm Italiyada XIV–XV asrlarda shakllanib, insonni olam markaziga qo'ydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ««Gumanist» atamasi qaysi lotincha so'zdan kelib chiqqan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Gumanist» so'zi lotincha «humanus» (insoniy) so'zidan kelib chiqqan",
+        "«Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi",
+        "Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi",
+        "«Utopiya» so'zi «Eng boy savdo porti» degan ma'noni anglatadi"
+      ],
+      "answer": 0,
+      "explain": "Gumanizm Italiyada XIV–XV asrlarda shakllanib, insonni olam markaziga qo'ydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): ««Gumanist» atamasi qaysi lotincha so'zdan kelib chiqqan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "«Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi",
+        "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: «Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi. Aslida: Gumanizm Italiyada XIV–XV asrlarda shakllanib, insonni olam markaziga qo'ydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Gumanist» so'zi lotincha «humanus» (insoniy) so'zidan kelib chiqqan.",
+      "answer": true,
+      "explain": "To'g'ri. Gumanizm Italiyada XIV–XV asrlarda shakllanib, insonni olam markaziga qo'ydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Gumanizm Italiyada XIV–XV asrlarda shakllanib, insonni olam markaziga qo'ydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik izohiga ko'ra gumanizm Italiyada XIV–XV asrlarda shakllanib, insonni olam markaziga qo'ydi.",
+      "answer": true,
+      "explain": "To'g'ri. Gumanizm Italiyada XIV–XV asrlarda shakllanib, insonni olam markaziga qo'ydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Gumanist» atamasi lotincha «____» (insoniy) so'zidan olingan. (So'zni kiriting)",
+      "answer": [
+        "humanus"
+      ],
+      "explain": "Gumanizm Italiyada XIV–XV asrlarda shakllanib, insonni olam markaziga qo'ydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Uyg'onish davrida ilmiy va badiiy adabiyot lotin tili bilan birga yana qaysi tillarda yaratila boshlandi?",
+      "options": [
+        "Faqat qadimgi yunon tilida",
+        "Faqat sanskrit va misr tillarida",
+        "Xalq tillarida — italyan, ispan va fransuz tillarida",
+        "Xalq tillarida yozish qat'iyan man etildi"
+      ],
+      "answer": 2,
+      "explain": "Antik davr ilhomidan so'ng adiblar o'z ona xalq tillarida asarlar yozishga kirishdilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Uyg'onish davrida ilmiy va badiiy adabiyot lotin tili bilan birga yana qaysi tillarda yaratila boshlandi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi",
+        "«Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi",
+        "«Utopiya» so'zi «Eng boy savdo porti» degan ma'noni anglatadi",
+        "Yangi davr madaniyatida xalq tillari — italyan, ispan va fransuz tillari adabiy tilga aylandi"
+      ],
+      "answer": 3,
+      "explain": "Antik davr ilhomidan so'ng adiblar o'z ona xalq tillarida asarlar yozishga kirishdilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Uyg'onish davrida ilmiy va badiiy adabiyot lotin tili bilan birga yana qaysi tillarda yaratila boshlandi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi",
+        "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi. Aslida: Antik davr ilhomidan so'ng adiblar o'z ona xalq tillarida asarlar yozishga kirishdilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Yangi davr madaniyatida xalq tillari — italyan, ispan va fransuz tillari adabiy tilga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. Antik davr ilhomidan so'ng adiblar o'z ona xalq tillarida asarlar yozishga kirishdilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Antik davr ilhomidan so'ng adiblar o'z ona xalq tillarida asarlar yozishga kirishdilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik izohiga ko'ra antik davr ilhomidan so'ng adiblar o'z ona xalq tillarida asarlar yozishga kirishdilar.",
+      "answer": true,
+      "explain": "To'g'ri. Antik davr ilhomidan so'ng adiblar o'z ona xalq tillarida asarlar yozishga kirishdilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Darslikda keltirilgan «Utopiya» so'zining aynan ma'nosi nima?",
+      "options": [
+        "«Oltin imperiya»",
+        "«Mavjud bo'lmagan yer»",
+        "«Quyosh shahri»",
+        "«Abadiy qonun»"
+      ],
+      "answer": 1,
+      "explain": "Tomas Mor bu xayoliy orol tasvirida xususiy mulk yo'q va hamma teng bo'lgan jamiyatni ko'rsatgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Darslikda keltirilgan «Utopiya» so'zining aynan ma'nosi nima» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Utopiya» so'zi «Eng boy savdo porti» degan ma'noni anglatadi",
+        "«Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi",
+        "Tomas Morning «Utopiya» asari nomi «Mavjud bo'lmagan yer» degan ma'noni bildiradi",
+        "Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi"
+      ],
+      "answer": 2,
+      "explain": "Tomas Mor bu xayoliy orol tasvirida xususiy mulk yo'q va hamma teng bo'lgan jamiyatni ko'rsatgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Darslikda keltirilgan «Utopiya» so'zining aynan ma'nosi nima» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi",
+        "«Utopiya» so'zi «Eng boy savdo porti» degan ma'noni anglatadi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: «Utopiya» so'zi «Eng boy savdo porti» degan ma'noni anglatadi. Aslida: Tomas Mor bu xayoliy orol tasvirida xususiy mulk yo'q va hamma teng bo'lgan jamiyatni ko'rsatgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Tomas Morning «Utopiya» asari nomi «Mavjud bo'lmagan yer» degan ma'noni bildiradi.",
+      "answer": true,
+      "explain": "To'g'ri. Tomas Mor bu xayoliy orol tasvirida xususiy mulk yo'q va hamma teng bo'lgan jamiyatni ko'rsatgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Utopiya» so'zi «Eng boy savdo porti» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Tomas Mor bu xayoliy orol tasvirida xususiy mulk yo'q va hamma teng bo'lgan jamiyatni ko'rsatgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik izohiga ko'ra tomas Mor bu xayoliy orol tasvirida xususiy mulk yo'q va hamma teng bo'lgan jamiyatni ko'rsatgan.",
+      "answer": true,
+      "explain": "To'g'ri. Tomas Mor bu xayoliy orol tasvirida xususiy mulk yo'q va hamma teng bo'lgan jamiyatni ko'rsatgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Leonardo da Vinchi qaysi san'at turini «san'atlar malikasi» deb ta'riflagan?",
+      "options": [
+        "Rangtasvirni",
+        "Haykaltaroshlikni",
+        "Arxitekturani",
+        "Musiqani"
+      ],
+      "answer": 0,
+      "explain": "Buyuk rassom rangtasvir olamni eng aniq va go'zal aks ettiruvchi san'at ekanini ta'kidlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Leonardo da Vinchi qaysi san'at turini «san'atlar malikasi» deb ta'riflagan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Leonardo da Vinchi rangtasvirni ikkinchi darajali hunar deb hisoblagan",
+        "Leonardo da Vinchi rangtasvirni «san'atlar malikasi» deb atagan",
+        "«Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi",
+        "Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi"
+      ],
+      "answer": 1,
+      "explain": "Buyuk rassom rangtasvir olamni eng aniq va go'zal aks ettiruvchi san'at ekanini ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Leonardo da Vinchi qaysi san'at turini «san'atlar malikasi» deb ta'riflagan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Leonardo da Vinchi rangtasvirni ikkinchi darajali hunar deb hisoblagan",
+        "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Leonardo da Vinchi rangtasvirni ikkinchi darajali hunar deb hisoblagan. Aslida: Buyuk rassom rangtasvir olamni eng aniq va go'zal aks ettiruvchi san'at ekanini ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Leonardo da Vinchi rangtasvirni «san'atlar malikasi» deb atagan.",
+      "answer": true,
+      "explain": "To'g'ri. Buyuk rassom rangtasvir olamni eng aniq va go'zal aks ettiruvchi san'at ekanini ta'kidlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Leonardo da Vinchi rangtasvirni ikkinchi darajali hunar deb hisoblagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Buyuk rassom rangtasvir olamni eng aniq va go'zal aks ettiruvchi san'at ekanini ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik izohiga ko'ra Buyuk rassom rangtasvir olamni eng aniq va go'zal aks ettiruvchi san'at ekanini ta'kidlagan.",
+      "answer": true,
+      "explain": "To'g'ri. Buyuk rassom rangtasvir olamni eng aniq va go'zal aks ettiruvchi san'at ekanini ta'kidlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Leonardo da Vinchi ijodiy merosida nechadan ortiq texnik ixtiro va loyiha chizmalari aniqlangan?",
+      "options": [
+        "Faqat 2 ta",
+        "Atigi 3 ta",
+        "Birorta ham texnik chizmasi saqlanmagan",
+        "18 dan ortiq (parashyut, uchish apparati, suvosti kemasi va b.)"
+      ],
+      "answer": 3,
+      "explain": "Leonardoning daftarlarida zamonasidan yuz yillar ilgarilab ketgan ko'plab mexanik ixtiro loyihalari bor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Leonardo da Vinchi ijodiy merosida nechadan ortiq texnik ixtiro va loyiha chizmalari aniqlangan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Leonardo da Vinchi uchish apparatlari, parashyut va harbiy texnikaga oid 18 dan ortiq loyiha qoldirgan",
+        "Leonardo da Vinchi faqat portretlar chizgan, texnika bilan qiziqmagan",
+        "«Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi",
+        "Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi"
+      ],
+      "answer": 0,
+      "explain": "Leonardoning daftarlarida zamonasidan yuz yillar ilgarilab ketgan ko'plab mexanik ixtiro loyihalari bor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Leonardo da Vinchi ijodiy merosida nechadan ortiq texnik ixtiro va loyiha chizmalari aniqlangan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "Leonardo da Vinchi faqat portretlar chizgan, texnika bilan qiziqmagan",
+        "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Leonardo da Vinchi faqat portretlar chizgan, texnika bilan qiziqmagan. Aslida: Leonardoning daftarlarida zamonasidan yuz yillar ilgarilab ketgan ko'plab mexanik ixtiro loyihalari bor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Leonardo da Vinchi uchish apparatlari, parashyut va harbiy texnikaga oid 18 dan ortiq loyiha qoldirgan.",
+      "answer": true,
+      "explain": "To'g'ri. Leonardoning daftarlarida zamonasidan yuz yillar ilgarilab ketgan ko'plab mexanik ixtiro loyihalari bor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Leonardo da Vinchi faqat portretlar chizgan, texnika bilan qiziqmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Leonardoning daftarlarida zamonasidan yuz yillar ilgarilab ketgan ko'plab mexanik ixtiro loyihalari bor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik izohiga ko'ra leonardoning daftarlarida zamonasidan yuz yillar ilgarilab ketgan ko'plab mexanik ixtiro loyihalari bor.",
+      "answer": true,
+      "explain": "To'g'ri. Leonardoning daftarlarida zamonasidan yuz yillar ilgarilab ketgan ko'plab mexanik ixtiro loyihalari bor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Mikelanjeloning mashhur «David» haykalining balandligi va og'irligi qancha?",
+      "options": [
+        "Balandligi 1 metr, og'irligi 200 kg",
+        "Balandligi 12 metr, og'irligi 40 tonna",
+        "Balandligi 5,2 metr, og'irligi 5,7 tonna",
+        "Balandligi 2,5 metr, og'irligi 1 tonna"
+      ],
+      "answer": 2,
+      "explain": "Haykal bahaybat Goliaf bilan jangga tayyorlanayotgan mard yigit obrazini gavdalantiradi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Mikelanjeloning mashhur «David» haykalining balandligi va og'irligi qancha» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«David» haykali kichik bronza haykalcha bo'lib, balandligi yarim metrga yetmaydi",
+        "«Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi",
+        "Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi",
+        "Mikelanjelo 26 yoshida yaratgan «David» haykalining balandligi 5,2 metr, og'irligi 5,7 tonnadir"
+      ],
+      "answer": 3,
+      "explain": "Haykal bahaybat Goliaf bilan jangga tayyorlanayotgan mard yigit obrazini gavdalantiradi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Mikelanjeloning mashhur «David» haykalining balandligi va og'irligi qancha» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "«David» haykali kichik bronza haykalcha bo'lib, balandligi yarim metrga yetmaydi",
+        "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: «David» haykali kichik bronza haykalcha bo'lib, balandligi yarim metrga yetmaydi. Aslida: Haykal bahaybat Goliaf bilan jangga tayyorlanayotgan mard yigit obrazini gavdalantiradi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Mikelanjelo 26 yoshida yaratgan «David» haykalining balandligi 5,2 metr, og'irligi 5,7 tonnadir.",
+      "answer": true,
+      "explain": "To'g'ri. Haykal bahaybat Goliaf bilan jangga tayyorlanayotgan mard yigit obrazini gavdalantiradi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «David» haykali kichik bronza haykalcha bo'lib, balandligi yarim metrga yetmaydi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Haykal bahaybat Goliaf bilan jangga tayyorlanayotgan mard yigit obrazini gavdalantiradi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik izohiga ko'ra haykal bahaybat Goliaf bilan jangga tayyorlanayotgan mard yigit obrazini gavdalantiradi.",
+      "answer": true,
+      "explain": "To'g'ri. Haykal bahaybat Goliaf bilan jangga tayyorlanayotgan mard yigit obrazini gavdalantiradi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Rafael Santining eng mashhur asarlaridan biri bo'lgan kartina qaysi?",
+      "options": [
+        "«Adashgan o'g'ilning qaytishi»",
+        "«Sikstin madonnasi»",
+        "«Mona Liza»",
+        "«Don Kixot»"
+      ],
+      "answer": 1,
+      "explain": "Rafaelning «Sikstin madonnasi» asarida onalik mehri va yuksak insoniy go'zallik ulug'lanadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Rafael Santining eng mashhur asarlaridan biri bo'lgan kartina qaysi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Sikstin madonnasi» asarini Rembrandt chizgan",
+        "«Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi",
+        "Rafael Santi 37 yillik umrida «Sikstin madonnasi» kabi o'lmas asarlar yaratdi",
+        "Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi"
+      ],
+      "answer": 2,
+      "explain": "Rafaelning «Sikstin madonnasi» asarida onalik mehri va yuksak insoniy go'zallik ulug'lanadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Rafael Santining eng mashhur asarlaridan biri bo'lgan kartina qaysi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi",
+        "«Sikstin madonnasi» asarini Rembrandt chizgan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: «Sikstin madonnasi» asarini Rembrandt chizgan. Aslida: Rafaelning «Sikstin madonnasi» asarida onalik mehri va yuksak insoniy go'zallik ulug'lanadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Rafael Santi 37 yillik umrida «Sikstin madonnasi» kabi o'lmas asarlar yaratdi.",
+      "answer": true,
+      "explain": "To'g'ri. Rafaelning «Sikstin madonnasi» asarida onalik mehri va yuksak insoniy go'zallik ulug'lanadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Sikstin madonnasi» asarini Rembrandt chizgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Rafaelning «Sikstin madonnasi» asarida onalik mehri va yuksak insoniy go'zallik ulug'lanadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik izohiga ko'ra rafaelning «Sikstin madonnasi» asarida onalik mehri va yuksak insoniy go'zallik ulug'lanadi.",
+      "answer": true,
+      "explain": "To'g'ri. Rafaelning «Sikstin madonnasi» asarida onalik mehri va yuksak insoniy go'zallik ulug'lanadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Nikolay Kopernik o'zining olam tuzilishi haqidagi kashfiyotini necha yillik kuzatuvlar asosida yaratgan?",
+      "options": [
+        "30 yillik kuzatuvlar asosida",
+        "1 yillik kuzatuv asosida",
+        "3 oylik safar davomida",
+        "5 yillik tajriba bilan"
+      ],
+      "answer": 0,
+      "explain": "Kopernik 30 yillik tinimsiz kuzatuvlari orqali Yer va sayyoralar Quyosh atrofida aylanishini asosladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Nikolay Kopernik o'zining olam tuzilishi haqidagi kashfiyotini necha yillik kuzatuvlar asosida yaratgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Kopernik osmon jismlarini umuman kuzatmasdan faraz qilgan",
+        "Kopernik 30 yil davomida osmon jismlarini kuzatib geliotsentrik nazariyani isbotladi",
+        "«Gumanist» so'zi lotincha «qonun chiqaruvchi» degan ma'noni anglatadi",
+        "Uyg'onish davrida yozuvchilar xalq tillaridan butunlay voz kechishdi"
+      ],
+      "answer": 1,
+      "explain": "Kopernik 30 yillik tinimsiz kuzatuvlari orqali Yer va sayyoralar Quyosh atrofida aylanishini asosladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): «Nikolay Kopernik o'zining olam tuzilishi haqidagi kashfiyotini necha yillik kuzatuvlar asosida yaratgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1452-yilda uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavallud topdi",
+        "1473-yilda kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi",
+        "Kopernik osmon jismlarini umuman kuzatmasdan faraz qilgan",
+        "1475-yilda buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Kopernik osmon jismlarini umuman kuzatmasdan faraz qilgan. Aslida: Kopernik 30 yillik tinimsiz kuzatuvlari orqali Yer va sayyoralar Quyosh atrofida aylanishini asosladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Kopernik 30 yil davomida osmon jismlarini kuzatib geliotsentrik nazariyani isbotladi.",
+      "answer": true,
+      "explain": "To'g'ri. Kopernik 30 yillik tinimsiz kuzatuvlari orqali Yer va sayyoralar Quyosh atrofida aylanishini asosladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): Kopernik osmon jismlarini umuman kuzatmasdan faraz qilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kopernik 30 yillik tinimsiz kuzatuvlari orqali Yer va sayyoralar Quyosh atrofida aylanishini asosladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "3-mavzu (Gumanizm, madaniyat va fan): darslik izohiga ko'ra kopernik 30 yillik tinimsiz kuzatuvlari orqali Yer va sayyoralar Quyosh atrofida aylanishini asosladi.",
+      "answer": true,
+      "explain": "To'g'ri. Kopernik 30 yillik tinimsiz kuzatuvlari orqali Yer va sayyoralar Quyosh atrofida aylanishini asosladi.",
+      "difficulty": "easy"
+    }
+  ],
+  "cards": [
+    [
+      "GUMANIZM",
+      "Insonni oliy qadriyat deb biluvchi dunyoqarash"
+    ],
+    [
+      "UTOPIYA",
+      "Tomas Mor yaratgan xayoliy jamiyat asari"
+    ],
+    [
+      "SHEKSPIR",
+      "«Hamlet» va «Otello» muallifi"
+    ],
+    [
+      "SERVANTES",
+      "«Don Kixot» romanini yozgan ispan adibi"
+    ],
+    [
+      "LEONARDO",
+      "«Mona Liza» asari muallifi"
+    ],
+    [
+      "RAFAEL",
+      "«Sikstin madonnasi» rassomi"
+    ],
+    [
+      "MIKELANJELO",
+      "«David» haykalini yaratgan usta"
+    ],
+    [
+      "KOPERNIK",
+      "Geliotsentrik ta'limot asoschisi"
+    ],
+    [
+      "GALILEY",
+      "Teleskop bilan osmonni kuzatgan olim"
+    ],
+    [
+      "NYUTON",
+      "Butun olam tortishish qonuni kashfiyotchisi"
+    ],
+    [
+      "REMBRANDT",
+      "«Adashgan o'g'ilning qaytishi» muallifi"
+    ],
+    [
+      "GLOBUS",
+      "Londondagi mashhur Shekspir teatri"
+    ],
+    [
+      "«Mona Liza»",
+      "Leonardo da Vinchining mashhur portreti"
+    ],
+    [
+      "«David» haykali",
+      "Mikelanjelo ishlagan 5,2 m marmar haykal"
+    ],
+    [
+      "«Sikstin madonnasi»",
+      "Rafael Santining mashhur kartinasi"
+    ],
+    [
+      "1600-yil",
+      "Jordano Bruno gulxanda yoqilgan yil"
+    ],
+    [
+      "1543-yil",
+      "Kopernik geliotsentrik asari nashr yili"
+    ],
+    [
+      "Jon Lokk",
+      "Yashash, erkinlik va mulk huquqi himoyachisi"
+    ],
+    [
+      "«Don Kixot»",
+      "Migel de Servantes romani"
+    ],
+    [
+      "«Antiquitas»",
+      "Qadimgi yunon-rim davri ma'nosi"
+    ],
+    [
+      "Antik davr",
+      "Qadimgi Yunoniston va Qadimgi Rim madaniyati hamda merosiga nisbatan"
+    ],
+    [
+      "Geliotsentrik tizim",
+      "Quyoshni olam markazi deb bilib, Yer va boshqa sayyoralar uning atro"
+    ],
+    [
+      "Tabiiy huquqlar",
+      "Jon Lokk nazariyasiga ko'ra har bir insonga tug'ilganidan tegishli y"
+    ],
+    [
+      "Globus teatri",
+      "1599–1644-yillarda Londonda faoliyat yuritgan va Shekspir pyesalari"
+    ],
+    [
+      "Tomas Mor",
+      "«Mavjud bo'lmagan yer» ma'nosini anglatuvchi «Utopiya» asari muallif"
+    ],
+    [
+      "Uilyam Shekspir",
+      "«Otello», «Hamlet», «Qirol Lir» va «Romeo va Julyetta» tragediyalari"
+    ],
+    [
+      "Migel de Servantes",
+      "O'z davri ritsarlik romanlariga hajviya sifatida «Don Kixot» romanin"
+    ],
+    [
+      "Leonardo da Vinchi",
+      "«Mona Liza» («Jokonda») portreti muallifi va ko'plab texnik ixtirola"
+    ],
+    [
+      "Rafael Santi",
+      "37 yillik umri davomida «Sikstin madonnasi» kabi go'zal asarlarni ya"
+    ],
+    [
+      "Mikelanjelo Buonarroti",
+      "26 yoshida balandligi 5,2 metrli «David» haykalini yaratgan buyuk ha"
+    ],
+    [
+      "Nikolay Kopernik",
+      "30 yillik kuzatuvlardan so'ng Yer Quyosh atrofida aylanishini isbotl"
+    ],
+    [
+      "Jordano Bruno",
+      "Koinotning cheksizligi va abadiyligi haqidagi qarashlari uchun gulxa"
+    ],
+    [
+      "Galileo Galiley",
+      "Teleskop yaratib, sayyoralar va Oyni kuzatish orqali Kopernik nazari"
+    ],
+    [
+      "Isaak Nyuton",
+      "Butun olam tortishish qonunini kashf etgan va ko'zguli teleskop yasa"
+    ],
+    [
+      "1452-yil",
+      "Uyg'onish davrining buyuk rassomi va olimi Leonardo da Vinchi tavall"
+    ],
+    [
+      "1473-yil",
+      "kuyosh markazli tizim asoschisi Nikolay Kopernik tavallud topdi"
+    ],
+    [
+      "1475-yil",
+      "buyuk haykaltarosh va rassom Mikelanjelo Buonarroti tavallud topdi"
+    ],
+    [
+      "1478-yil",
+      "«Utopiya» asari muallifi ingliz mutafakkiri Tomas Mor tavallud topdi"
+    ],
+    [
+      "1564-yil",
+      "buyuk ingliz dramaturgi Uilyam Shekspir va italyan olimi Galileo Gal"
+    ],
+    [
+      "1599-yil",
+      "Londonda Uilyam Shekspir faoliyat yuritgan «Globus» teatri ochildi"
+    ],
+    [
+      "1642-yil",
+      "buyuk ingliz fizigi va matematigi Isaak Nyuton tug'ildi (Galiley vaf"
+    ],
+    [
+      "1644-yil",
+      "Londondagi mashhur «Globus» teatri buzib tashlandi"
+    ]
+  ]
+}

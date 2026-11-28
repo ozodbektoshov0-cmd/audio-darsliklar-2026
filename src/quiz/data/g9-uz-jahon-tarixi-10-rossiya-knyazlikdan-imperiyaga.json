@@ -1,0 +1,2931 @@
+{
+  "id": "g9-uz-jahon-tarixi-10-rossiya-knyazlikdan-imperiyaga",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "10-mavzu. Rossiya — Buyuk knyazlikdan imperiya sari",
+  "title": "10-mavzu. Rossiya — Buyuk knyazlikdan imperiya sari",
+  "source": "Jahon tarixi 9-sinf (2024), 10-mavzu, 51–56-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi?",
+      "options": [
+        "1549-yil",
+        "1547-yil",
+        "1552-yil",
+        "1556-yil"
+      ],
+      "answer": 1,
+      "explain": "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1547-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi",
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi"
+      ],
+      "answer": 2,
+      "explain": "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi. (Yilni kiriting)",
+      "answer": [
+        "1547",
+        "1547-yil",
+        "1547-yilda"
+      ],
+      "explain": "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 3,
+      "explain": "1547-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1549-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1549-yilda emas, 1547-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1552-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi?",
+      "options": [
+        "1549-yil",
+        "1547-yil",
+        "1552-yil",
+        "1556-yil"
+      ],
+      "answer": 0,
+      "explain": "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1549-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi",
+        "Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi"
+      ],
+      "answer": 1,
+      "explain": "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1549",
+        "1549-yil",
+        "1549-yilda"
+      ],
+      "explain": "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1549-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1549-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1552-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda ivan IV qo'shinlari Qozon xonligini bosib oldi?",
+      "options": [
+        "1547-yil",
+        "1549-yil",
+        "1556-yil",
+        "1552-yil"
+      ],
+      "answer": 3,
+      "explain": "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1552-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi",
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi"
+      ],
+      "answer": 0,
+      "explain": "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi. (Yilni kiriting)",
+      "answer": [
+        "1552",
+        "1552-yil",
+        "1552-yilda"
+      ],
+      "explain": "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Ivan IV qo'shinlari Qozon xonligini bosib oldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 1,
+      "explain": "1552-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1552-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1549-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi?",
+      "options": [
+        "1547-yil",
+        "1549-yil",
+        "1556-yil",
+        "1552-yil"
+      ],
+      "answer": 2,
+      "explain": "1556-yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1556-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi",
+        "Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi"
+      ],
+      "answer": 3,
+      "explain": "1556-yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi. (Yilni kiriting)",
+      "answer": [
+        "1556",
+        "1556-yil",
+        "1556-yilda"
+      ],
+      "explain": "1556-yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVI asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 0,
+      "explain": "1556-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1556-yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1556-yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1556-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1549-yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1556-yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha)?",
+      "options": [
+        "1547-yil",
+        "1565-yil",
+        "1549-yil",
+        "1552-yil"
+      ],
+      "answer": 1,
+      "explain": "1565-yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1565-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha)",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 2,
+      "explain": "1565-yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha). (Yilni kiriting)",
+      "answer": [
+        "1565",
+        "1565-yil",
+        "1565-yilda"
+      ],
+      "explain": "1565-yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha)» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 3,
+      "explain": "1565-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1565-yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha).",
+      "answer": true,
+      "explain": "To'g'ri. 1565-yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1565-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1549-yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. 1565-yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi?",
+      "options": [
+        "1598-yil",
+        "1547-yil",
+        "1549-yil",
+        "1552-yil"
+      ],
+      "answer": 0,
+      "explain": "1598-yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1598-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 1,
+      "explain": "1598-yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi. (Yilni kiriting)",
+      "answer": [
+        "1598",
+        "1598-yil",
+        "1598-yilda"
+      ],
+      "explain": "1598-yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1598-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1598-yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi.",
+      "answer": true,
+      "explain": "To'g'ri. 1598-yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1598-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1549-yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1598-yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi?",
+      "options": [
+        "1547-yil",
+        "1549-yil",
+        "1552-yil",
+        "1612-yil"
+      ],
+      "answer": 3,
+      "explain": "1612-yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1612-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi",
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 0,
+      "explain": "1612-yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi. (Yilni kiriting)",
+      "answer": [
+        "1612",
+        "1612-yil",
+        "1612-yilda"
+      ],
+      "explain": "1612-yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1612-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1612-yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1612-yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1612-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1549-yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1612-yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi?",
+      "options": [
+        "1547-yil",
+        "1549-yil",
+        "1613-yil",
+        "1552-yil"
+      ],
+      "answer": 2,
+      "explain": "1613-yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1613-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi",
+        "Zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi"
+      ],
+      "answer": 3,
+      "explain": "1613-yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1613",
+        "1613-yil",
+        "1613-yilda"
+      ],
+      "explain": "1613-yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1613-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1613-yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1613-yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1613-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1549-yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1613-yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi?",
+      "options": [
+        "1547-yil",
+        "1703-yil",
+        "1549-yil",
+        "1552-yil"
+      ],
+      "answer": 1,
+      "explain": "1703-yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1703-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 2,
+      "explain": "1703-yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi. (Yilni kiriting)",
+      "answer": [
+        "1703",
+        "1703-yil",
+        "1703-yilda"
+      ],
+      "explain": "1703-yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVIII asrda"
+      ],
+      "answer": 3,
+      "explain": "1703-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1703-yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1703-yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1703-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1549-yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1703-yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi?",
+      "options": [
+        "1721-yil",
+        "1547-yil",
+        "1549-yil",
+        "1552-yil"
+      ],
+      "answer": 0,
+      "explain": "1721-yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1721-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 1,
+      "explain": "1721-yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi. (Yilni kiriting)",
+      "answer": [
+        "1721",
+        "1721-yil",
+        "1721-yilda"
+      ],
+      "explain": "1721-yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVIII asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1721-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1721-yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1721-yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1721-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1549-yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1721-yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi?",
+      "options": [
+        "1547-yil",
+        "1549-yil",
+        "1552-yil",
+        "1755-yil"
+      ],
+      "answer": 3,
+      "explain": "1755-yilda m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1755-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "M. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi",
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 0,
+      "explain": "1755-yilda m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi. (Yilni kiriting)",
+      "answer": [
+        "1755",
+        "1755-yil",
+        "1755-yilda"
+      ],
+      "explain": "1755-yilda m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «M. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVIII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1755-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1755-yilda m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1755-yilda m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1755-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1549-yilda m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1755-yilda m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): qaysi yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha)?",
+      "options": [
+        "1547-yil",
+        "1549-yil",
+        "1773-yil",
+        "1552-yil"
+      ],
+      "answer": 2,
+      "explain": "1773-yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari) mavzusiga ko'ra 1773-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi",
+        "Yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha)"
+      ],
+      "answer": 3,
+      "explain": "1773-yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ____-yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha). (Yilni kiriting)",
+      "answer": [
+        "1773",
+        "1773-yil",
+        "1773-yilda"
+      ],
+      "explain": "1773-yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha)» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVIII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1773-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1773-yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha).",
+      "answer": true,
+      "explain": "To'g'ri. 1773-yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1547-yilda emas, 1773-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik xronologiyasiga ko'ra 1549-yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. 1773-yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Moskva knyazi Ivan IV rus tarixi...» hamda «Rossiya Volga bo'yidagi Astraxon...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi",
+        "Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi"
+      ],
+      "answer": 1,
+      "explain": "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Moskva knyazi Ivan IV rus tarixi...» hamda «Rossiya Volga bo'yidagi Astraxon...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 2,
+      "explain": "1556-yilda Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Ivan IV qo'shinlari Qozon xonlig...» hamda «Fyodor Ivanovich vafot etib, 700...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi",
+        "Ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha)",
+        "Fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 3,
+      "explain": "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Ivan IV qo'shinlari Qozon xonlig...» hamda «Fyodor Ivanovich vafot etib, 700...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi",
+        "Ivan IV qo'shinlari Qozon xonligini bosib oldi",
+        "Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi",
+        "Ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha)"
+      ],
+      "answer": 0,
+      "explain": "1598-yilda fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Ivan IV mamlakatda «oprichnina»...» hamda «Zemstvo soborida Mixail Romanov...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi",
+        "Ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha)",
+        "Kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi",
+        "Zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi"
+      ],
+      "answer": 1,
+      "explain": "1565-yilda ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha) — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Ivan IV mamlakatda «oprichnina»...» hamda «Zemstvo soborida Mixail Romanov...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha)",
+        "Fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi",
+        "Zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi",
+        "Kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi"
+      ],
+      "answer": 2,
+      "explain": "1613-yilda zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Kuzma Minin va Dmitriy Pojarskiy...» hamda «Shimoliy urush Nishtadt sulhi bi...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi",
+        "Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi",
+        "Shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi",
+        "Kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi"
+      ],
+      "answer": 3,
+      "explain": "1612-yilda kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Kuzma Minin va Dmitriy Pojarskiy...» hamda «Shimoliy urush Nishtadt sulhi bi...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi",
+        "Kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi",
+        "Zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi",
+        "Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi"
+      ],
+      "answer": 0,
+      "explain": "1721-yilda shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Pyotr I Neva daryosi bo'yida San...» hamda «Yemelyan Pugachyov boshchiligida...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi",
+        "Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi",
+        "M. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi",
+        "Yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha)"
+      ],
+      "answer": 1,
+      "explain": "1703-yilda Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Pyotr I Neva daryosi bo'yida San...» hamda «Yemelyan Pugachyov boshchiligida...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi",
+        "Shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi",
+        "Yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha)",
+        "M. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi"
+      ],
+      "answer": 2,
+      "explain": "1773-yilda yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha) — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1549-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1549-yilda esa Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi ivan IV qo'shinlari Qozon xonligini bosib oldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1552-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra ivan IV qo'shinlari Qozon xonligini bosib oldi voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1552-yilda esa ivan IV qo'shinlari Qozon xonligini bosib oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1556-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1556-yilda esa Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1565-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha) voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1565-yilda esa ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1598-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1598-yilda esa fyodor Ivanovich vafot etib, 700 yillik Ryuriklar sulolasi hukmronligi tugadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1612-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1612-yilda esa kuzma Minin va Dmitriy Pojarskiy boshchiligidagi ko'ngillilar Moskvani polyaklardan ozod qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1613-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1613-yilda esa zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sulolasi boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1703-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1703-yilda esa Pyotr I Neva daryosi bo'yida Sankt-Peterburg shahriga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1721-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1721-yilda esa shimoliy urush Nishtadt sulhi bilan yakunlanib, Pyotr I «Imperator» unvonini qabul qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1755-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1755-yilda esa m. V. Lomonosov tashabbusi bilan Moskva universiteti tashkil etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi voqeasi yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1547-yil 1773-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha) voqeasi Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi, 1773-yilda esa yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlandi (1775-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi voqeasi ivan IV qo'shinlari Qozon xonligini bosib oldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1549-yil 1552-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra ivan IV qo'shinlari Qozon xonligini bosib oldi voqeasi Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi, 1552-yilda esa ivan IV qo'shinlari Qozon xonligini bosib oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi voqeasi Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1549-yil 1556-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi voqeasi Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi, 1556-yilda esa Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): xronologiyaga ko'ra Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi voqeasi ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1549-yil 1565-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy ketma-ketlikka ko'ra ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha) voqeasi Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi, 1565-yilda esa ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Boris Godunov",
+        "Kuzma Minin",
+        "Dmitriy Pojarskiy",
+        "Ivan IV Grozniy"
+      ],
+      "answer": 3,
+      "explain": "Ivan IV (Grozniy) 1549-yilda Sudebnik qabul qilib, zemstvolar va muntazam harbiy qismlar tuzdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Ivan IV Grozniyning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor",
+        "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho",
+        "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari",
+        "Minin bilan birga 1612-yilda Moskvani polyak bosqinchilaridan ozod qilgan rus sarkardasi"
+      ],
+      "answer": 0,
+      "explain": "Ivan IV (Grozniy) 1549-yilda Sudebnik qabul qilib, zemstvolar va muntazam harbiy qismlar tuzdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Ivan IV Grozniy"
+      ],
+      "explain": "Ivan IV (Grozniy) 1549-yilda Sudebnik qabul qilib, zemstvolar va muntazam harbiy qismlar tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Ivan IV (Grozniy) 1549-yilda Sudebnik qabul qilib, zemstvolar va muntazam harbiy qismlar tuzdi.",
+      "answer": true,
+      "explain": "To'g'ri. Ivan IV (Grozniy) 1549-yilda Sudebnik qabul qilib, zemstvolar va muntazam harbiy qismlar tuzdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Ivan IV Grozniy — fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ivan IV (Grozniy) 1549-yilda Sudebnik qabul qilib, zemstvolar va muntazam harbiy qismlar tuzdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslikda Ivan IV Grozniy «1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Ivan IV (Grozniy) 1549-yilda Sudebnik qabul qilib, zemstvolar va muntazam harbiy qismlar tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Ivan IV Grozniy",
+        "Boris Godunov",
+        "Kuzma Minin",
+        "Dmitriy Pojarskiy"
+      ],
+      "answer": 1,
+      "explain": "Ryuriklar sulolasi tugagach taxtga chiqqan Boris Godunov davridan so'ng Rossiyada g'alayonlar boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Boris Godunovning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor",
+        "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari",
+        "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho",
+        "Minin bilan birga 1612-yilda Moskvani polyak bosqinchilaridan ozod qilgan rus sarkardasi"
+      ],
+      "answer": 2,
+      "explain": "Ryuriklar sulolasi tugagach taxtga chiqqan Boris Godunov davridan so'ng Rossiyada g'alayonlar boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Boris Godunov"
+      ],
+      "explain": "Ryuriklar sulolasi tugagach taxtga chiqqan Boris Godunov davridan so'ng Rossiyada g'alayonlar boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Ryuriklar sulolasi tugagach taxtga chiqqan Boris Godunov davridan so'ng Rossiyada g'alayonlar boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. Ryuriklar sulolasi tugagach taxtga chiqqan Boris Godunov davridan so'ng Rossiyada g'alayonlar boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Boris Godunov — 1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ryuriklar sulolasi tugagach taxtga chiqqan Boris Godunov davridan so'ng Rossiyada g'alayonlar boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslikda Boris Godunov «1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Ryuriklar sulolasi tugagach taxtga chiqqan Boris Godunov davridan so'ng Rossiyada g'alayonlar boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Ryuriklar sulolasi tugagach taxtga chiqqan ____ davridan so'ng Rossiyada g'alayonlar boshlandi».",
+      "options": [
+        "Ivan IV Grozniy",
+        "Kuzma Minin",
+        "Dmitriy Pojarskiy",
+        "Boris Godunov"
+      ],
+      "answer": 3,
+      "explain": "Ryuriklar sulolasi tugagach taxtga chiqqan Boris Godunov davridan so'ng Rossiyada g'alayonlar boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Ryuriklar sulolasi tugagach taxtga chiqqan ____ davridan so'ng Rossiyada g'alayonlar boshlandi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Boris Godunov"
+      ],
+      "explain": "Ryuriklar sulolasi tugagach taxtga chiqqan Boris Godunov davridan so'ng Rossiyada g'alayonlar boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Kuzma Minin",
+        "Ivan IV Grozniy",
+        "Boris Godunov",
+        "Dmitriy Pojarskiy"
+      ],
+      "answer": 0,
+      "explain": "Kuzma Minin va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Kuzma Mininning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor",
+        "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari",
+        "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho",
+        "Minin bilan birga 1612-yilda Moskvani polyak bosqinchilaridan ozod qilgan rus sarkardasi"
+      ],
+      "answer": 1,
+      "explain": "Kuzma Minin va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Kuzma Minin"
+      ],
+      "explain": "Kuzma Minin va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Kuzma Minin va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar.",
+      "answer": true,
+      "explain": "To'g'ri. Kuzma Minin va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Kuzma Minin — 1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kuzma Minin va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslikda Kuzma Minin «fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kuzma Minin va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar».",
+      "options": [
+        "Ivan IV Grozniy",
+        "Boris Godunov",
+        "Kuzma Minin",
+        "Dmitriy Pojarskiy"
+      ],
+      "answer": 2,
+      "explain": "Kuzma Minin va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «____ va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Kuzma Minin"
+      ],
+      "explain": "Kuzma Minin va knyaz Dmitriy Pojarskiy 1612-yilda Rossiya mustaqilligini saqlab qoldilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «minin bilan birga 1612-yilda Moskvani polyak bosqinchilaridan ozod qilgan rus sarkardasi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Ivan IV Grozniy",
+        "Boris Godunov",
+        "Kuzma Minin",
+        "Dmitriy Pojarskiy"
+      ],
+      "answer": 3,
+      "explain": "Minin va Pojarskiy rahbarligidagi xalq lashkari g'alayonlar davriga chek qo'ydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Dmitriy Pojarskiyning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Minin bilan birga 1612-yilda Moskvani polyak bosqinchilaridan ozod qilgan rus sarkardasi",
+        "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor",
+        "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho",
+        "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari"
+      ],
+      "answer": 0,
+      "explain": "Minin va Pojarskiy rahbarligidagi xalq lashkari g'alayonlar davriga chek qo'ydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): minin bilan birga 1612-yilda Moskvani polyak bosqinchilaridan ozod qilgan rus sarkardasi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Dmitriy Pojarskiy"
+      ],
+      "explain": "Minin va Pojarskiy rahbarligidagi xalq lashkari g'alayonlar davriga chek qo'ydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Minin va Pojarskiy rahbarligidagi xalq lashkari g'alayonlar davriga chek qo'ydi.",
+      "answer": true,
+      "explain": "To'g'ri. Minin va Pojarskiy rahbarligidagi xalq lashkari g'alayonlar davriga chek qo'ydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Dmitriy Pojarskiy — 1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor.",
+      "answer": false,
+      "explain": "Noto'g'ri. Minin va Pojarskiy rahbarligidagi xalq lashkari g'alayonlar davriga chek qo'ydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslikda Dmitriy Pojarskiy «fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Minin va Pojarskiy rahbarligidagi xalq lashkari g'alayonlar davriga chek qo'ydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1613-yilda Zemstvo soborida saylanib 1917-yilgacha davom etgan Romanovlar sulolasiga asos solgan podsho» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Ivan IV Grozniy",
+        "Mixail Romanov",
+        "Boris Godunov",
+        "Kuzma Minin"
+      ],
+      "answer": 1,
+      "explain": "Mixail Romanov saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Mixail Romanovning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor",
+        "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho",
+        "1613-yilda Zemstvo soborida saylanib 1917-yilgacha davom etgan Romanovlar sulolasiga asos solgan podsho",
+        "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari"
+      ],
+      "answer": 2,
+      "explain": "Mixail Romanov saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1613-yilda Zemstvo soborida saylanib 1917-yilgacha davom etgan Romanovlar sulolasiga asos solgan podsho bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Mixail Romanov"
+      ],
+      "explain": "Mixail Romanov saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Mixail Romanov saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi.",
+      "answer": true,
+      "explain": "To'g'ri. Mixail Romanov saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Mixail Romanov — 1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor.",
+      "answer": false,
+      "explain": "Noto'g'ri. Mixail Romanov saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslikda Mixail Romanov «fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Mixail Romanov saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi».",
+      "options": [
+        "Ivan IV Grozniy",
+        "Boris Godunov",
+        "Kuzma Minin",
+        "Mixail Romanov"
+      ],
+      "answer": 3,
+      "explain": "Mixail Romanov saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «____ saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Mixail Romanov"
+      ],
+      "explain": "Mixail Romanov saylanishi bilan Rossiyada markaziy davlat hokimiyati qayta tiklandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1689–1725-yillarda yirik islohotlar o'tkazib, 1721-yilda Rossiyani imperiya deb e'lon qilgan Buyuk podsho» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Pyotr I",
+        "Ivan IV Grozniy",
+        "Boris Godunov",
+        "Kuzma Minin"
+      ],
+      "answer": 0,
+      "explain": "Pyotr I Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Pyotr Ining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor",
+        "1689–1725-yillarda yirik islohotlar o'tkazib, 1721-yilda Rossiyani imperiya deb e'lon qilgan Buyuk podsho",
+        "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho",
+        "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari"
+      ],
+      "answer": 1,
+      "explain": "Pyotr I Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1689–1725-yillarda yirik islohotlar o'tkazib, 1721-yilda Rossiyani imperiya deb e'lon qilgan Buyuk podsho bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Pyotr I"
+      ],
+      "explain": "Pyotr I Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Pyotr I Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Pyotr I Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Pyotr I — 1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor.",
+      "answer": false,
+      "explain": "Noto'g'ri. Pyotr I Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslikda Pyotr I «fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Pyotr I Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi».",
+      "options": [
+        "Ivan IV Grozniy",
+        "Boris Godunov",
+        "Pyotr I",
+        "Kuzma Minin"
+      ],
+      "answer": 2,
+      "explain": "Pyotr I Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «____ Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Pyotr I"
+      ],
+      "explain": "Pyotr I Shimoliy urushda g'alaba qozonib Boltiq dengiziga chiqdi va Sankt-Peterburgni qurdirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1773–1775-yillarda krepostnoy dehqonlar va kazaklar qo'zg'oloniga boshchilik qilgan shaxs» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Ivan IV Grozniy",
+        "Boris Godunov",
+        "Kuzma Minin",
+        "Yemelyan Pugachyov"
+      ],
+      "answer": 3,
+      "explain": "Pugachyov qo'zg'oloni Yekaterina II davrida krepostnoylik zulmining kuchayishiga qarshi ko'tarilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Yemelyan Pugachyovning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1773–1775-yillarda krepostnoy dehqonlar va kazaklar qo'zg'oloniga boshchilik qilgan shaxs",
+        "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor",
+        "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho",
+        "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari"
+      ],
+      "answer": 0,
+      "explain": "Pugachyov qo'zg'oloni Yekaterina II davrida krepostnoylik zulmining kuchayishiga qarshi ko'tarilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1773–1775-yillarda krepostnoy dehqonlar va kazaklar qo'zg'oloniga boshchilik qilgan shaxs bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Yemelyan Pugachyov"
+      ],
+      "explain": "Pugachyov qo'zg'oloni Yekaterina II davrida krepostnoylik zulmining kuchayishiga qarshi ko'tarilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Pugachyov qo'zg'oloni Yekaterina II davrida krepostnoylik zulmining kuchayishiga qarshi ko'tarilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Pugachyov qo'zg'oloni Yekaterina II davrida krepostnoylik zulmining kuchayishiga qarshi ko'tarilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Yemelyan Pugachyov — 1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor.",
+      "answer": false,
+      "explain": "Noto'g'ri. Pugachyov qo'zg'oloni Yekaterina II davrida krepostnoylik zulmining kuchayishiga qarshi ko'tarilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslikda Yemelyan Pugachyov «fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Pugachyov qo'zg'oloni Yekaterina II davrida krepostnoylik zulmining kuchayishiga qarshi ko'tarilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1755-yilda Moskva universiteti ochilishiga asos solgan buyuk rus qomusiy olimi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Ivan IV Grozniy",
+        "Mixail Lomonosov",
+        "Boris Godunov",
+        "Kuzma Minin"
+      ],
+      "answer": 1,
+      "explain": "M. V. Lomonosov Rossiya ilm-fani va ta'limining yuksalishida ulkan hissa qo'shdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Mixail Lomonosovning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor",
+        "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho",
+        "1755-yilda Moskva universiteti ochilishiga asos solgan buyuk rus qomusiy olimi",
+        "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari"
+      ],
+      "answer": 2,
+      "explain": "M. V. Lomonosov Rossiya ilm-fani va ta'limining yuksalishida ulkan hissa qo'shdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1755-yilda Moskva universiteti ochilishiga asos solgan buyuk rus qomusiy olimi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Mixail Lomonosov"
+      ],
+      "explain": "M. V. Lomonosov Rossiya ilm-fani va ta'limining yuksalishida ulkan hissa qo'shdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): M. V. Lomonosov Rossiya ilm-fani va ta'limining yuksalishida ulkan hissa qo'shdi.",
+      "answer": true,
+      "explain": "To'g'ri. M. V. Lomonosov Rossiya ilm-fani va ta'limining yuksalishida ulkan hissa qo'shdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Mixail Lomonosov — 1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor.",
+      "answer": false,
+      "explain": "Noto'g'ri. M. V. Lomonosov Rossiya ilm-fani va ta'limining yuksalishida ulkan hissa qo'shdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslikda Mixail Lomonosov «fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida M. V. Lomonosov Rossiya ilm-fani va ta'limining yuksalishida ulkan hissa qo'shdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Rossiyada birinchi bug' mashinasini (dunyodagi ilk ikki silindrli bug' dvigatelini) yasagan ixtirochi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Ivan IV Grozniy",
+        "Boris Godunov",
+        "Kuzma Minin",
+        "Ivan Polzunov"
+      ],
+      "answer": 3,
+      "explain": "I. I. Polzunov XVIII asr o'rtalarida bug' dvigateli qurib rus texnikasini yangi bosqichga ko'tardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Ivan Polzunovning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Rossiyada birinchi bug' mashinasini (dunyodagi ilk ikki silindrli bug' dvigatelini) yasagan ixtirochi",
+        "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor",
+        "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho",
+        "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari"
+      ],
+      "answer": 0,
+      "explain": "I. I. Polzunov XVIII asr o'rtalarida bug' dvigateli qurib rus texnikasini yangi bosqichga ko'tardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Rossiyada birinchi bug' mashinasini (dunyodagi ilk ikki silindrli bug' dvigatelini) yasagan ixtirochi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Ivan Polzunov"
+      ],
+      "explain": "I. I. Polzunov XVIII asr o'rtalarida bug' dvigateli qurib rus texnikasini yangi bosqichga ko'tardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): I. I. Polzunov XVIII asr o'rtalarida bug' dvigateli qurib rus texnikasini yangi bosqichga ko'tardi.",
+      "answer": true,
+      "explain": "To'g'ri. I. I. Polzunov XVIII asr o'rtalarida bug' dvigateli qurib rus texnikasini yangi bosqichga ko'tardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Ivan Polzunov — 1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor.",
+      "answer": false,
+      "explain": "Noto'g'ri. I. I. Polzunov XVIII asr o'rtalarida bug' dvigateli qurib rus texnikasini yangi bosqichga ko'tardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslikda Ivan Polzunov «fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida I. I. Polzunov XVIII asr o'rtalarida bug' dvigateli qurib rus texnikasini yangi bosqichga ko'tardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): ««Rus Leonardo da Vinchisi» deb nomlangan va ko'plab mexanik soatlar, ko'priklar loyihachisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Ivan IV Grozniy",
+        "Ivan Kulibin",
+        "Boris Godunov",
+        "Kuzma Minin"
+      ],
+      "answer": 1,
+      "explain": "I. P. Kulibin XVIII asrda 7 dan ortiq noyob mexanik ixtiro yaratgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Ivan Kulibinning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor",
+        "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho",
+        "«Rus Leonardo da Vinchisi» deb nomlangan va ko'plab mexanik soatlar, ko'priklar loyihachisi",
+        "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijniy Novgorod savdogari"
+      ],
+      "answer": 2,
+      "explain": "I. P. Kulibin XVIII asrda 7 dan ortiq noyob mexanik ixtiro yaratgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Rus Leonardo da Vinchisi» deb nomlangan va ko'plab mexanik soatlar, ko'priklar loyihachisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Ivan Kulibin"
+      ],
+      "explain": "I. P. Kulibin XVIII asrda 7 dan ortiq noyob mexanik ixtiro yaratgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): I. P. Kulibin XVIII asrda 7 dan ortiq noyob mexanik ixtiro yaratgan.",
+      "answer": true,
+      "explain": "To'g'ri. I. P. Kulibin XVIII asrda 7 dan ortiq noyob mexanik ixtiro yaratgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Ivan Kulibin — 1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon hamda Astraxonni egallagan hukmdor.",
+      "answer": false,
+      "explain": "Noto'g'ri. I. P. Kulibin XVIII asrda 7 dan ortiq noyob mexanik ixtiro yaratgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslikda Ivan Kulibin «fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafasida boshqargan podsho» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida I. P. Kulibin XVIII asrda 7 dan ortiq noyob mexanik ixtiro yaratgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Boyarlar",
+        "Dvoryanlar",
+        "Krepostnoylik",
+        "Oprichnina"
+      ],
+      "answer": 3,
+      "explain": "Oprichnina — 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Oprichnina» atamasi nimani anglatadi?",
+      "options": [
+        "1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi",
+        "Votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari",
+        "Xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami",
+        "Dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi"
+      ],
+      "answer": 0,
+      "explain": "Oprichnina — 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Oprichnina",
+        "oprichnina"
+      ],
+      "explain": "Oprichnina — 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Oprichnina» tushunchasi «1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Oprichnina — 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Oprichnina» deganda votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Oprichnina — 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy lug'atga ko'ra «Oprichnina» — «xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Oprichnina — 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Oprichnina",
+        "Boyarlar",
+        "Dvoryanlar",
+        "Krepostnoylik"
+      ],
+      "answer": 1,
+      "explain": "Boyarlar — votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Boyarlar» atamasi nimani anglatadi?",
+      "options": [
+        "1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi",
+        "Xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami",
+        "Votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari",
+        "Dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi"
+      ],
+      "answer": 2,
+      "explain": "Boyarlar — votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Boyarlar",
+        "boyarlar"
+      ],
+      "explain": "Boyarlar — votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Boyarlar» tushunchasi «votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Boyarlar — votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Boyarlar» deganda 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Boyarlar — votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy lug'atga ko'ra «Boyarlar» — «xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Boyarlar — votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Oprichnina",
+        "Boyarlar",
+        "Krepostnoylik",
+        "Dvoryanlar"
+      ],
+      "answer": 3,
+      "explain": "Dvoryanlar — xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Dvoryanlar» atamasi nimani anglatadi?",
+      "options": [
+        "Xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami",
+        "1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi",
+        "Votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari",
+        "Dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi"
+      ],
+      "answer": 0,
+      "explain": "Dvoryanlar — xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Dvoryanlar",
+        "dvoryanlar"
+      ],
+      "explain": "Dvoryanlar — xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Dvoryanlar» tushunchasi «xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Dvoryanlar — xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Dvoryanlar» deganda 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Dvoryanlar — xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy lug'atga ko'ra «Dvoryanlar» — «votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Dvoryanlar — xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Oprichnina",
+        "Krepostnoylik",
+        "Boyarlar",
+        "Dvoryanlar"
+      ],
+      "answer": 1,
+      "explain": "Krepostnoylik — dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Krepostnoylik» atamasi nimani anglatadi?",
+      "options": [
+        "1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi",
+        "Votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari",
+        "Dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi",
+        "Xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami"
+      ],
+      "answer": 2,
+      "explain": "Krepostnoylik — dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Krepostnoylik",
+        "krepostnoylik"
+      ],
+      "explain": "Krepostnoylik — dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Krepostnoylik» tushunchasi «dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Krepostnoylik — dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Krepostnoylik» deganda 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Krepostnoylik — dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy lug'atga ko'ra «Krepostnoylik» — «votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Krepostnoylik — dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'yilishi tartibi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uchun chaqirilgan tabaqalar majlisi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Oprichnina",
+        "Boyarlar",
+        "Dvoryanlar",
+        "Zemstvo sobori"
+      ],
+      "answer": 3,
+      "explain": "Zemstvo sobori — Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uchun chaqirilgan tabaqalar majlisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Zemstvo sobori» atamasi nimani anglatadi?",
+      "options": [
+        "Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uchun chaqirilgan tabaqalar majlisi",
+        "1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi",
+        "Votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari",
+        "Xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami"
+      ],
+      "answer": 0,
+      "explain": "Zemstvo sobori — Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uchun chaqirilgan tabaqalar majlisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uchun chaqirilgan tabaqalar majlisi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Zemstvo sobori",
+        "zemstvo sobori"
+      ],
+      "explain": "Zemstvo sobori — Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uchun chaqirilgan tabaqalar majlisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Zemstvo sobori» tushunchasi «Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uchun chaqirilgan tabaqalar majlisi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Zemstvo sobori — Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uchun chaqirilgan tabaqalar majlisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Zemstvo sobori» deganda 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Zemstvo sobori — Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uchun chaqirilgan tabaqalar majlisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy lug'atga ko'ra «Zemstvo sobori» — «votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Zemstvo sobori — Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uchun chaqirilgan tabaqalar majlisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chiqish huquqini bergan shartnoma» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Oprichnina",
+        "Nishtadt sulhi",
+        "Boyarlar",
+        "Dvoryanlar"
+      ],
+      "answer": 1,
+      "explain": "Nishtadt sulhi — 1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chiqish huquqini bergan shartnoma.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Nishtadt sulhi» atamasi nimani anglatadi?",
+      "options": [
+        "1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi",
+        "Votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari",
+        "1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chiqish huquqini bergan shartnoma",
+        "Xizmat evaziga «pomestye» yer oluvchi va podshoning asosiy tayanchi bo'lgan harbiy-xizmat qatlami"
+      ],
+      "answer": 2,
+      "explain": "Nishtadt sulhi — 1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chiqish huquqini bergan shartnoma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chiqish huquqini bergan shartnoma» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Nishtadt sulhi",
+        "nishtadt sulhi"
+      ],
+      "explain": "Nishtadt sulhi — 1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chiqish huquqini bergan shartnoma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Nishtadt sulhi» tushunchasi «1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chiqish huquqini bergan shartnoma» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Nishtadt sulhi — 1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chiqish huquqini bergan shartnoma.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Nishtadt sulhi» deganda 1565–1572-yillarda Ivan IV tomonidan boyarlar qarshiligini sindirish uchun joriy etilgan jazo tartibi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Nishtadt sulhi — 1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chiqish huquqini bergan shartnoma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): tarixiy lug'atga ko'ra «Nishtadt sulhi» — «votchina deb atalgan merosiy yerlarga ega bo'lgan yirik qadimgi rus zodagonlari» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Nishtadt sulhi — 1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chiqish huquqini bergan shartnoma.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1549-yilgi islohotlarda Ivan IV necha nafar dvoryanga Moskva atrofidan yer berib, boyar soliqlarining bir qismini bekor qildi?",
+      "options": [
+        "10 nafar knyazga",
+        "50 ming dehqonga",
+        "Faqat chet ellik savdogarlarga",
+        "1000 nafar dvoryanga"
+      ],
+      "answer": 3,
+      "explain": "Bu islohot podshoning markaziy hokimiyatini qo'llab-quvvatlaydigan sodiq dvoryanlar qatlamini kuchaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1549-yilgi islohotlarda Ivan IV necha nafar dvoryanga Moskva atrofidan yer berib, boyar soliqlarining bir qismini bekor qildi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1549-yilda Ivan IV Sudebnik chiqarib, 1000 nafar dvoryanga yer ajratib berdi",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan",
+        "Shimoliy urushda Shvetsiya Sankt-Peterburgni egallab oldi"
+      ],
+      "answer": 0,
+      "explain": "Bu islohot podshoning markaziy hokimiyatini qo'llab-quvvatlaydigan sodiq dvoryanlar qatlamini kuchaytirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1549-yilgi islohotlarda Ivan IV necha nafar dvoryanga Moskva atrofidan yer berib, boyar soliqlarining bir qismini bekor qildi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan. Aslida: Bu islohot podshoning markaziy hokimiyatini qo'llab-quvvatlaydigan sodiq dvoryanlar qatlamini kuchaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1549-yilda Ivan IV Sudebnik chiqarib, 1000 nafar dvoryanga yer ajratib berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Bu islohot podshoning markaziy hokimiyatini qo'llab-quvvatlaydigan sodiq dvoryanlar qatlamini kuchaytirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Bu islohot podshoning markaziy hokimiyatini qo'llab-quvvatlaydigan sodiq dvoryanlar qatlamini kuchaytirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik izohiga ko'ra bu islohot podshoning markaziy hokimiyatini qo'llab-quvvatlaydigan sodiq dvoryanlar qatlamini kuchaytirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Bu islohot podshoning markaziy hokimiyatini qo'llab-quvvatlaydigan sodiq dvoryanlar qatlamini kuchaytirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Romanovlar sulolasi Rossiyani 1613-yildan boshlab nechanchi yilgacha boshqargan?",
+      "options": [
+        "1725-yilgacha",
+        "1815-yilgacha",
+        "1917-yil fevralgacha",
+        "1991-yilgacha"
+      ],
+      "answer": 2,
+      "explain": "Romanovlar Rossiya imperiyasini 300 yildan ortiq vaqt mobaynida boshqardilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Romanovlar sulolasi Rossiyani 1613-yildan boshlab nechanchi yilgacha boshqargan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "Shimoliy urushda Shvetsiya Sankt-Peterburgni egallab oldi",
+        "1613-yilda Mixail Romanov bilan boshlangan sulola 1917-yil fevraligacha hukmronlik qilgan"
+      ],
+      "answer": 3,
+      "explain": "Romanovlar Rossiya imperiyasini 300 yildan ortiq vaqt mobaynida boshqardilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Romanovlar sulolasi Rossiyani 1613-yildan boshlab nechanchi yilgacha boshqargan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan",
+        "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan. Aslida: Romanovlar Rossiya imperiyasini 300 yildan ortiq vaqt mobaynida boshqardilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1613-yilda Mixail Romanov bilan boshlangan sulola 1917-yil fevraligacha hukmronlik qilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Romanovlar Rossiya imperiyasini 300 yildan ortiq vaqt mobaynida boshqardilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Romanovlar Rossiya imperiyasini 300 yildan ortiq vaqt mobaynida boshqardilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik izohiga ko'ra Romanovlar Rossiya imperiyasini 300 yildan ortiq vaqt mobaynida boshqardilar.",
+      "answer": true,
+      "explain": "To'g'ri. Romanovlar Rossiya imperiyasini 300 yildan ortiq vaqt mobaynida boshqardilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Shimoliy urush (1700–1721) Rossiyaga qanday muhim geostrategik natija olib keldi?",
+      "options": [
+        "Rossiya Moskvadan ayrildi",
+        "Boltiq dengiziga chiqish yo'li ochilib, Rossiya yirik dengiz davlati va imperiyaga aylandi",
+        "Sibir yerlari Shvetsiyaga berildi",
+        "Qora dengizdagi barcha kemalar cho'ktirildi"
+      ],
+      "answer": 1,
+      "explain": "1721-yilda Senat va Sinod Pyotr I ga «Butunrossiya imperatori» va «Buyuk» unvonlarini berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Shimoliy urush (1700–1721) Rossiyaga qanday muhim geostrategik natija olib keldi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Shimoliy urushda Shvetsiya Sankt-Peterburgni egallab oldi",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "Nishtadt sulhi bilan yakunlangan Shimoliy urush Rossiyaga Boltiq bo'yi yerlarini va dengiz yo'lini berdi",
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan"
+      ],
+      "answer": 2,
+      "explain": "1721-yilda Senat va Sinod Pyotr I ga «Butunrossiya imperatori» va «Buyuk» unvonlarini berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Shimoliy urush (1700–1721) Rossiyaga qanday muhim geostrategik natija olib keldi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi",
+        "Shimoliy urushda Shvetsiya Sankt-Peterburgni egallab oldi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Shimoliy urushda Shvetsiya Sankt-Peterburgni egallab oldi. Aslida: 1721-yilda Senat va Sinod Pyotr I ga «Butunrossiya imperatori» va «Buyuk» unvonlarini berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Nishtadt sulhi bilan yakunlangan Shimoliy urush Rossiyaga Boltiq bo'yi yerlarini va dengiz yo'lini berdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1721-yilda Senat va Sinod Pyotr I ga «Butunrossiya imperatori» va «Buyuk» unvonlarini berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Shimoliy urushda Shvetsiya Sankt-Peterburgni egallab oldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1721-yilda Senat va Sinod Pyotr I ga «Butunrossiya imperatori» va «Buyuk» unvonlarini berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik izohiga ko'ra 1721-yilda Senat va Sinod Pyotr I ga «Butunrossiya imperatori» va «Buyuk» unvonlarini berdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1721-yilda Senat va Sinod Pyotr I ga «Butunrossiya imperatori» va «Buyuk» unvonlarini berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1722-yilgi Kaspiy yurishi natijasida Rossiya qaysi shaharlar va qirg'oqlarni vaqtincha egalladi?",
+      "options": [
+        "Resht, Boku va Astrobod hududlarini",
+        "Istanbul va Qohirani",
+        "Kalikutta va Bombeyni",
+        "Parij va Lyondan to'liq hududni"
+      ],
+      "answer": 0,
+      "explain": "Pyotr I ning Kaspiy yurishi Sharq bilan savdo yo'llarini nazorat qilishga qaratilgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1722-yilgi Kaspiy yurishi natijasida Rossiya qaysi shaharlar va qirg'oqlarni vaqtincha egalladi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1722-yilda Rossiya Kaspiy dengizi orqali Hindistonni to'liq zabt etdi",
+        "1722-yilgi Kaspiy yurishida Rossiya qo'shinlari Resht, Boku va Astrobodga qadar kirib bordi",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan"
+      ],
+      "answer": 1,
+      "explain": "Pyotr I ning Kaspiy yurishi Sharq bilan savdo yo'llarini nazorat qilishga qaratilgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1722-yilgi Kaspiy yurishi natijasida Rossiya qaysi shaharlar va qirg'oqlarni vaqtincha egalladi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "1722-yilda Rossiya Kaspiy dengizi orqali Hindistonni to'liq zabt etdi",
+        "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: 1722-yilda Rossiya Kaspiy dengizi orqali Hindistonni to'liq zabt etdi. Aslida: Pyotr I ning Kaspiy yurishi Sharq bilan savdo yo'llarini nazorat qilishga qaratilgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1722-yilgi Kaspiy yurishida Rossiya qo'shinlari Resht, Boku va Astrobodga qadar kirib bordi.",
+      "answer": true,
+      "explain": "To'g'ri. Pyotr I ning Kaspiy yurishi Sharq bilan savdo yo'llarini nazorat qilishga qaratilgan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1722-yilda Rossiya Kaspiy dengizi orqali Hindistonni to'liq zabt etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Pyotr I ning Kaspiy yurishi Sharq bilan savdo yo'llarini nazorat qilishga qaratilgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik izohiga ko'ra Pyotr I ning Kaspiy yurishi Sharq bilan savdo yo'llarini nazorat qilishga qaratilgan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Pyotr I ning Kaspiy yurishi Sharq bilan savdo yo'llarini nazorat qilishga qaratilgan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): XVIII asr oxiriga kelib Rossiya imperiyasining aholisi necha million kishiga yetdi?",
+      "options": [
+        "2 million kishiga",
+        "120 million kishiga",
+        "5 million kishiga",
+        "36 million kishiga"
+      ],
+      "answer": 3,
+      "explain": "Yangi qishloq xo'jaligi ekinlari tarqalgan bo'lsa-da, dehqonchilik asosan ekstensiv usulda qolgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «XVIII asr oxiriga kelib Rossiya imperiyasining aholisi necha million kishiga yetdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XVIII asr oxirida Rossiya aholisi 36 million kishiga yetib, qishloq xo'jaligida tamaki, kartoshka va kungaboqar ekila boshlandi",
+        "XVIII asr oxirida Rossiyada aholi soni 3 milliondan oshmasdi",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan"
+      ],
+      "answer": 0,
+      "explain": "Yangi qishloq xo'jaligi ekinlari tarqalgan bo'lsa-da, dehqonchilik asosan ekstensiv usulda qolgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «XVIII asr oxiriga kelib Rossiya imperiyasining aholisi necha million kishiga yetdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "XVIII asr oxirida Rossiyada aholi soni 3 milliondan oshmasdi",
+        "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: XVIII asr oxirida Rossiyada aholi soni 3 milliondan oshmasdi. Aslida: Yangi qishloq xo'jaligi ekinlari tarqalgan bo'lsa-da, dehqonchilik asosan ekstensiv usulda qolgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): XVIII asr oxirida Rossiya aholisi 36 million kishiga yetib, qishloq xo'jaligida tamaki, kartoshka va kungaboqar ekila boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. Yangi qishloq xo'jaligi ekinlari tarqalgan bo'lsa-da, dehqonchilik asosan ekstensiv usulda qolgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): XVIII asr oxirida Rossiyada aholi soni 3 milliondan oshmasdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Yangi qishloq xo'jaligi ekinlari tarqalgan bo'lsa-da, dehqonchilik asosan ekstensiv usulda qolgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik izohiga ko'ra yangi qishloq xo'jaligi ekinlari tarqalgan bo'lsa-da, dehqonchilik asosan ekstensiv usulda qolgan.",
+      "answer": true,
+      "explain": "To'g'ri. Yangi qishloq xo'jaligi ekinlari tarqalgan bo'lsa-da, dehqonchilik asosan ekstensiv usulda qolgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): XVIII asrda qaysi hukmdorlar davrida Rossiyada krepostnoylik zulmi eng yuqori cho'qqiga chiqib, qo'zg'olonga sabab bo'ldi?",
+      "options": [
+        "Boris Godunov va Kuzma Minin davrida",
+        "Faqat XX asrda",
+        "Yelizaveta Petrovna va Yekaterina II davrida",
+        "Kiev knyazlari davrida"
+      ],
+      "answer": 2,
+      "explain": "Dehqonlar huquqsizligi 1773–1775-yillardagi Yemelyan Pugachyov qo'zg'olonini keltirib chiqardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «XVIII asrda qaysi hukmdorlar davrida Rossiyada krepostnoylik zulmi eng yuqori cho'qqiga chiqib, qo'zg'olonga sabab bo'ldi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Yekaterina II 1773-yilda krepostnoylikni butunlay bekor qilgan edi",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan",
+        "Yelizaveta Petrovna va Yekaterina II dvoryanlarga dehqonlarni surgun qilish va sotish huquqini berib krepostnoylikni kuchaytirdi"
+      ],
+      "answer": 3,
+      "explain": "Dehqonlar huquqsizligi 1773–1775-yillardagi Yemelyan Pugachyov qo'zg'olonini keltirib chiqardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «XVIII asrda qaysi hukmdorlar davrida Rossiyada krepostnoylik zulmi eng yuqori cho'qqiga chiqib, qo'zg'olonga sabab bo'ldi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Yekaterina II 1773-yilda krepostnoylikni butunlay bekor qilgan edi",
+        "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Yekaterina II 1773-yilda krepostnoylikni butunlay bekor qilgan edi. Aslida: Dehqonlar huquqsizligi 1773–1775-yillardagi Yemelyan Pugachyov qo'zg'olonini keltirib chiqardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Yelizaveta Petrovna va Yekaterina II dvoryanlarga dehqonlarni surgun qilish va sotish huquqini berib krepostnoylikni kuchaytirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Dehqonlar huquqsizligi 1773–1775-yillardagi Yemelyan Pugachyov qo'zg'olonini keltirib chiqardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Yekaterina II 1773-yilda krepostnoylikni butunlay bekor qilgan edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Dehqonlar huquqsizligi 1773–1775-yillardagi Yemelyan Pugachyov qo'zg'olonini keltirib chiqardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik izohiga ko'ra dehqonlar huquqsizligi 1773–1775-yillardagi Yemelyan Pugachyov qo'zg'olonini keltirib chiqardi.",
+      "answer": true,
+      "explain": "To'g'ri. Dehqonlar huquqsizligi 1773–1775-yillardagi Yemelyan Pugachyov qo'zg'olonini keltirib chiqardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1654 va 1667-yillardagi voqealar Rossiya tarixida qaysi hududlarning qo'shilishi bilan bog'liq?",
+      "options": [
+        "Alyaska va Kaliforniyaning qo'shilishi",
+        "Ukrainaning Rossiyaga qo'shilishi va 1667-yilda Kiyev hamda Dneprning chap qirg'og'ining o'tishi",
+        "Polsha poytaxti Varshavaning berilishi",
+        "Finlyandiyaning Shvetsiyaga topshirilishi"
+      ],
+      "answer": 1,
+      "explain": "XVII asrda Rossiya g'arbda Ukraina yerlari hisobiga hududini kengaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1654 va 1667-yillardagi voqealar Rossiya tarixida qaysi hududlarning qo'shilishi bilan bog'liq» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1667-yilda Rossiya Kiev shahridan voz kechib Uraldan nariga chekindi",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "1654-yilda Ukraina Rossiyaga qo'shilishga qaror qildi, 1667-yilda esa Kiyev va chap qirg'oq Rossiyaga o'tdi",
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan"
+      ],
+      "answer": 2,
+      "explain": "XVII asrda Rossiya g'arbda Ukraina yerlari hisobiga hududini kengaytirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «1654 va 1667-yillardagi voqealar Rossiya tarixida qaysi hududlarning qo'shilishi bilan bog'liq» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi",
+        "1667-yilda Rossiya Kiev shahridan voz kechib Uraldan nariga chekindi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: 1667-yilda Rossiya Kiev shahridan voz kechib Uraldan nariga chekindi. Aslida: XVII asrda Rossiya g'arbda Ukraina yerlari hisobiga hududini kengaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1654-yilda Ukraina Rossiyaga qo'shilishga qaror qildi, 1667-yilda esa Kiyev va chap qirg'oq Rossiyaga o'tdi.",
+      "answer": true,
+      "explain": "To'g'ri. XVII asrda Rossiya g'arbda Ukraina yerlari hisobiga hududini kengaytirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1667-yilda Rossiya Kiev shahridan voz kechib Uraldan nariga chekindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. XVII asrda Rossiya g'arbda Ukraina yerlari hisobiga hududini kengaytirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik izohiga ko'ra XVII asrda Rossiya g'arbda Ukraina yerlari hisobiga hududini kengaytirdi.",
+      "answer": true,
+      "explain": "To'g'ri. XVII asrda Rossiya g'arbda Ukraina yerlari hisobiga hududini kengaytirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): XVIII asr oxirida Rossiya qaysi Yevropa davlatini uch marta bo'lib olishda (1772, 1793-yillarda) qatnashgan?",
+      "options": [
+        "Rech Pospolita (Polsha-Litva davlati)ni",
+        "Buyuk Britaniyani",
+        "Ispaniyani",
+        "Shveysariyani"
+      ],
+      "answer": 0,
+      "explain": "Rech Pospolita Avstriya, Prussiya va Rossiya o'rtasida uch marta taqsimlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «XVIII asr oxirida Rossiya qaysi Yevropa davlatini uch marta bo'lib olishda (1772, 1793-yillarda) qatnashgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Rossiya XVIII asrda Ispaniya va Italiyani bo'lib olishda qatnashgan",
+        "XVIII asr oxirida Rech Pospolitani bo'lib olish natijasida Rossiya g'arbiy yerlarini kengaytirdi",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan"
+      ],
+      "answer": 1,
+      "explain": "Rech Pospolita Avstriya, Prussiya va Rossiya o'rtasida uch marta taqsimlangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «XVIII asr oxirida Rossiya qaysi Yevropa davlatini uch marta bo'lib olishda (1772, 1793-yillarda) qatnashgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "Rossiya XVIII asrda Ispaniya va Italiyani bo'lib olishda qatnashgan",
+        "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Rossiya XVIII asrda Ispaniya va Italiyani bo'lib olishda qatnashgan. Aslida: Rech Pospolita Avstriya, Prussiya va Rossiya o'rtasida uch marta taqsimlangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): XVIII asr oxirida Rech Pospolitani bo'lib olish natijasida Rossiya g'arbiy yerlarini kengaytirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Rech Pospolita Avstriya, Prussiya va Rossiya o'rtasida uch marta taqsimlangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Rossiya XVIII asrda Ispaniya va Italiyani bo'lib olishda qatnashgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Rech Pospolita Avstriya, Prussiya va Rossiya o'rtasida uch marta taqsimlangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik izohiga ko'ra rech Pospolita Avstriya, Prussiya va Rossiya o'rtasida uch marta taqsimlangan.",
+      "answer": true,
+      "explain": "To'g'ri. Rech Pospolita Avstriya, Prussiya va Rossiya o'rtasida uch marta taqsimlangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Rus qutb tadqiqotchilari S. I. Chelyuskin va aka-uka Laptevlar qaysi geografik kashfiyotlarni amalga oshirgan?",
+      "options": [
+        "Avstraliya va Yangi Zelandiyani topishgan",
+        "San-Salvador orolini ochishgan",
+        "Nil daryosining boshlanishini topishgan",
+        "Taymir yarimorolini va Shimoliy Muz okeani qirg'oqlarini xaritaga tushirishgan"
+      ],
+      "answer": 3,
+      "explain": "Vitus Bering, Laptevlar va Chelyuskin kashfiyotlari Rossiyaning shimoli-sharqiy xaritasini aniqladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Rus qutb tadqiqotchilari S. I. Chelyuskin va aka-uka Laptevlar qaysi geografik kashfiyotlarni amalga oshirgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1741-yilda S. I. Chelyuskin Taymir yarimorolining eng shimoliy nuqtasiga yetib borgan",
+        "Chelyuskin va Laptevlar Afrika cho'llarini o'rganishgan",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan"
+      ],
+      "answer": 0,
+      "explain": "Vitus Bering, Laptevlar va Chelyuskin kashfiyotlari Rossiyaning shimoli-sharqiy xaritasini aniqladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «Rus qutb tadqiqotchilari S. I. Chelyuskin va aka-uka Laptevlar qaysi geografik kashfiyotlarni amalga oshirgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "Chelyuskin va Laptevlar Afrika cho'llarini o'rganishgan",
+        "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Chelyuskin va Laptevlar Afrika cho'llarini o'rganishgan. Aslida: Vitus Bering, Laptevlar va Chelyuskin kashfiyotlari Rossiyaning shimoli-sharqiy xaritasini aniqladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): 1741-yilda S. I. Chelyuskin Taymir yarimorolining eng shimoliy nuqtasiga yetib borgan.",
+      "answer": true,
+      "explain": "To'g'ri. Vitus Bering, Laptevlar va Chelyuskin kashfiyotlari Rossiyaning shimoli-sharqiy xaritasini aniqladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): Chelyuskin va Laptevlar Afrika cho'llarini o'rganishgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Vitus Bering, Laptevlar va Chelyuskin kashfiyotlari Rossiyaning shimoli-sharqiy xaritasini aniqladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): darslik izohiga ko'ra vitus Bering, Laptevlar va Chelyuskin kashfiyotlari Rossiyaning shimoli-sharqiy xaritasini aniqladi.",
+      "answer": true,
+      "explain": "To'g'ri. Vitus Bering, Laptevlar va Chelyuskin kashfiyotlari Rossiyaning shimoli-sharqiy xaritasini aniqladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): XVIII asr rus adabiyoti va teatr san'atining mashhur vakillari qatoriga kimlar kiradi?",
+      "options": [
+        "Shekspir va Servantes",
+        "Leonardo da Vinchi va Rafael",
+        "Shoirlar Derjavin, Fonvizin, Krilov va milliy teatr asoschisi F. G. Volkov",
+        "Motsart va Betxoven"
+      ],
+      "answer": 2,
+      "explain": "Rossiyada ma'rifat, fan va san'at XVIII asrda sezilarli rivojlanish bosqichiga kirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «XVIII asr rus adabiyoti va teatr san'atining mashhur vakillari qatoriga kimlar kiradi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XVIII asrda Rossiyada birorta ham badiiy asar yoki teatr bo'lmagan",
+        "Ivan IV barcha yerlarni faqat chet ellik savdogarlarga sotib yuborgan",
+        "Romanovlar sulolasi atigi 50 yil boshqarib 1663-yilda tugagan",
+        "F. G. Volkov rus milliy teatriga asos solgan, Derjavin, Fonvizin va Krilov adabiyotni rivojlantirgan"
+      ],
+      "answer": 3,
+      "explain": "Rossiyada ma'rifat, fan va san'at XVIII asrda sezilarli rivojlanish bosqichiga kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "10-mavzu (Rossiya imperiyasi sari): «XVIII asr rus adabiyoti va teatr san'atining mashhur vakillari qatoriga kimlar kiradi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "XVIII asrda Rossiyada birorta ham badiiy asar yoki teatr bo'lmagan",
+        "1547-yilda Moskva knyazi Ivan IV rus tarixida ilk bor «podsho» (sar) tojini kiydi",
+        "1549-yilda Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari boshlandi",
+        "1552-yilda ivan IV qo'shinlari Qozon xonligini bosib oldi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: XVIII asrda Rossiyada birorta ham badiiy asar yoki teatr bo'lmagan. Aslida: Rossiyada ma'rifat, fan va san'at XVIII asrda sezilarli rivojlanish bosqichiga kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): F. G. Volkov rus milliy teatriga asos solgan, Derjavin, Fonvizin va Krilov adabiyotni rivojlantirgan.",
+      "answer": true,
+      "explain": "To'g'ri. Rossiyada ma'rifat, fan va san'at XVIII asrda sezilarli rivojlanish bosqichiga kirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "10-mavzu (Rossiya imperiyasi sari): XVIII asrda Rossiyada birorta ham badiiy asar yoki teatr bo'lmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Rossiyada ma'rifat, fan va san'at XVIII asrda sezilarli rivojlanish bosqichiga kirdi.",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "OPRICHNINA",
+      "Ivan IV joriy etgan jazo tartibi"
+    ],
+    [
+      "ROMANOVLAR",
+      "1613–1917-yillardagi rus podsholari sulolasi"
+    ],
+    [
+      "LOMONOSOV",
+      "Moskva universiteti tashabbuskori olim"
+    ],
+    [
+      "POLZUNOV",
+      "Ikki silindrli bug' dvigateli ixtirochisi"
+    ],
+    [
+      "KULIBIN",
+      "«Rus Leonardo da Vinchisi» nomli ixtirochi"
+    ],
+    [
+      "PUGACHYOV",
+      "1773–1775-yillardagi qo'zg'olon rahbari"
+    ],
+    [
+      "NISHTADT",
+      "1721-yilda Shimoliy urushni yakunlagan sulh"
+    ],
+    [
+      "BOYARLAR",
+      "Votchina egalari bo'lgan eski zodagonlar"
+    ],
+    [
+      "DVORYANLAR",
+      "Pomestye olgan harbiy-xizmat qatlami"
+    ],
+    [
+      "CHELYUSKIN",
+      "Taymir yarimorolini o'rgangan tadqiqotchi"
+    ],
+    [
+      "MININ",
+      "1612-yilgi xalq lashkari tashkilotchisi"
+    ],
+    [
+      "POJARSKIY",
+      "Moskvani ozod qilgan rus sarkardasi"
+    ],
+    [
+      "1547-yil",
+      "Ivan IV birinchi podsho tojini kiydi"
+    ],
+    [
+      "1552 va 1556-yillar",
+      "Qozon va Astraxon xonliklari bosib olindi"
+    ],
+    [
+      "1598-yil",
+      "700 yillik Ryuriklar sulolasi tugadi"
+    ],
+    [
+      "1612-yil",
+      "Minin va Pojarskiy Moskvani ozod qildi"
+    ],
+    [
+      "1703-yil",
+      "Sankt-Peterburg shahriga asos solindi"
+    ],
+    [
+      "1721-yil",
+      "Pyotr I imperator unvonini oldi"
+    ],
+    [
+      "1755-yil",
+      "Moskva universiteti tashkil etildi"
+    ],
+    [
+      "1773–1775-yillar",
+      "Yemelyan Pugachyov qo'zg'oloni"
+    ],
+    [
+      "Krepostnoylik",
+      "Dehqonlarning yer va pomeshchik xo'jayinga majburiy biriktirilib qo'"
+    ],
+    [
+      "Zemstvo sobori",
+      "Rossiyada XVI–XVII asrlarda muhim davlat masalalarini hal qilish uch"
+    ],
+    [
+      "Nishtadt sulhi",
+      "1721-yilda Shimoliy urushni yakunlab, Rossiyaga Boltiq dengiziga chi"
+    ],
+    [
+      "Ivan IV Grozniy",
+      "1547-yilda birinchi podsho bo'lgan, oprichnina kiritgan va Qozon ham"
+    ],
+    [
+      "Boris Godunov",
+      "Fyodor Ivanovichdan so'ng taxtga o'tirgan va g'alayonlar davri arafa"
+    ],
+    [
+      "Kuzma Minin",
+      "1612-yilda Moskvani ozod qilish uchun xalq lashkarini to'plagan Nijn"
+    ],
+    [
+      "Dmitriy Pojarskiy",
+      "Minin bilan birga 1612-yilda Moskvani polyak bosqinchilaridan ozod q"
+    ],
+    [
+      "Mixail Romanov",
+      "1613-yilda Zemstvo soborida saylanib 1917-yilgacha davom etgan Roman"
+    ],
+    [
+      "Pyotr I",
+      "1689–1725-yillarda yirik islohotlar o'tkazib, 1721-yilda Rossiyani i"
+    ],
+    [
+      "Yemelyan Pugachyov",
+      "1773–1775-yillarda krepostnoy dehqonlar va kazaklar qo'zg'oloniga bo"
+    ],
+    [
+      "Mixail Lomonosov",
+      "1755-yilda Moskva universiteti ochilishiga asos solgan buyuk rus qom"
+    ],
+    [
+      "Ivan Polzunov",
+      "Rossiyada birinchi bug' mashinasini (dunyodagi ilk ikki silindrli bu"
+    ],
+    [
+      "Ivan Kulibin",
+      "«Rus Leonardo da Vinchisi» deb nomlangan va ko'plab mexanik soatlar,"
+    ],
+    [
+      "1549-yil",
+      "Rossiyada ilk Zemstvo sobori chaqirilib, markazlashuv islohotlari bo"
+    ],
+    [
+      "1552-yil",
+      "Ivan IV qo'shinlari Qozon xonligini bosib oldi"
+    ],
+    [
+      "1556-yil",
+      "Rossiya Volga bo'yidagi Astraxon xonligini o'ziga qo'shib oldi"
+    ],
+    [
+      "1565-yil",
+      "Ivan IV mamlakatda «oprichnina» tartibini joriy etdi (1572-yilgacha)"
+    ],
+    [
+      "1613-yil",
+      "Zemstvo soborida Mixail Romanov podsho etib saylanib, Romanovlar sul"
+    ],
+    [
+      "1773-yil",
+      "Yemelyan Pugachyov boshchiligida yirik dehqonlar qo'zg'oloni boshlan"
+    ]
+  ]
+}

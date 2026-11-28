@@ -1,0 +1,2917 @@
+{
+  "id": "g9-uz-jahon-tarixi-13-marifat-asri-ilm-fan-madaniyat",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "13-mavzu. Ma’rifat asri: ilm-fan va madaniyat rivoji",
+  "title": "13-mavzu. Ma’rifat asri: ilm-fan va madaniyat rivoji",
+  "source": "Jahon tarixi 9-sinf (2024), 13-mavzu, 70–76-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): qaysi yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi?",
+      "options": [
+        "1646-yil",
+        "1657-yil",
+        "1707-yil",
+        "1716-yil"
+      ],
+      "answer": 0,
+      "explain": "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati) mavzusiga ko'ra 1646-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi",
+        "Nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi"
+      ],
+      "answer": 1,
+      "explain": "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ____-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi. (Yilni kiriting)",
+      "answer": [
+        "1646",
+        "1646-yil",
+        "1646-yilda"
+      ],
+      "explain": "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1646-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1657-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1657-yilda emas, 1646-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik xronologiyasiga ko'ra 1707-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): qaysi yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi?",
+      "options": [
+        "1646-yil",
+        "1707-yil",
+        "1716-yil",
+        "1657-yil"
+      ],
+      "answer": 3,
+      "explain": "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati) mavzusiga ko'ra 1657-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi",
+        "Nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi"
+      ],
+      "answer": 0,
+      "explain": "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ____-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi. (Yilni kiriting)",
+      "answer": [
+        "1657",
+        "1657-yil",
+        "1657-yilda"
+      ],
+      "explain": "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1657-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1646-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1646-yilda emas, 1657-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik xronologiyasiga ko'ra 1707-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): qaysi yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi?",
+      "options": [
+        "1646-yil",
+        "1657-yil",
+        "1707-yil",
+        "1716-yil"
+      ],
+      "answer": 2,
+      "explain": "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati) mavzusiga ko'ra 1707-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "Golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "Nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 3,
+      "explain": "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ____-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi. (Yilni kiriting)",
+      "answer": [
+        "1707",
+        "1707-yil",
+        "1707-yilda"
+      ],
+      "explain": "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Buyuk matematik va mexanik Leonard Eyler tavallud topdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVIII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1707-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1646-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1646-yilda emas, 1707-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik xronologiyasiga ko'ra 1657-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): qaysi yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi?",
+      "options": [
+        "1646-yil",
+        "1716-yil",
+        "1657-yil",
+        "1707-yil"
+      ],
+      "answer": 1,
+      "explain": "1716-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati) mavzusiga ko'ra 1716-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "Golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "Nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 2,
+      "explain": "1716-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ____-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi. (Yilni kiriting)",
+      "answer": [
+        "1716",
+        "1716-yil",
+        "1716-yilda"
+      ],
+      "explain": "1716-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVIII asrda"
+      ],
+      "answer": 3,
+      "explain": "1716-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1716-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1716-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1646-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1646-yilda emas, 1716-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik xronologiyasiga ko'ra 1657-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1716-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): qaysi yilda Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi?",
+      "options": [
+        "1751-yil",
+        "1646-yil",
+        "1657-yil",
+        "1707-yil"
+      ],
+      "answer": 0,
+      "explain": "1751-yilda Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati) mavzusiga ko'ra 1751-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi",
+        "Golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 1,
+      "explain": "1751-yilda Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ____-yilda Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1751",
+        "1751-yil",
+        "1751-yilda"
+      ],
+      "explain": "1751-yilda Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVIII asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1751-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1751-yilda Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1751-yilda Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1646-yilda Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1646-yilda emas, 1751-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik xronologiyasiga ko'ra 1657-yilda Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1751-yilda Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): qaysi yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi?",
+      "options": [
+        "1646-yil",
+        "1657-yil",
+        "1707-yil",
+        "1780-yil"
+      ],
+      "answer": 3,
+      "explain": "1780-yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati) mavzusiga ko'ra 1780-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi",
+        "Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "Golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 0,
+      "explain": "1780-yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ____-yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi. (Yilni kiriting)",
+      "answer": [
+        "1780",
+        "1780-yil",
+        "1780-yilda"
+      ],
+      "explain": "1780-yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVIII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1780-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1780-yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1780-yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1646-yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1646-yilda emas, 1780-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik xronologiyasiga ko'ra 1657-yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1780-yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): qaysi yilda sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi?",
+      "options": [
+        "1646-yil",
+        "1657-yil",
+        "1783-yil",
+        "1707-yil"
+      ],
+      "answer": 2,
+      "explain": "1783-yilda sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati) mavzusiga ko'ra 1783-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "Golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi",
+        "Sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi"
+      ],
+      "answer": 3,
+      "explain": "1783-yilda sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ____-yilda sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi. (Yilni kiriting)",
+      "answer": [
+        "1783",
+        "1783-yil",
+        "1783-yilda"
+      ],
+      "explain": "1783-yilda sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVIII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1783-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1783-yilda sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1783-yilda sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1646-yilda sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1646-yilda emas, 1783-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik xronologiyasiga ko'ra 1657-yilda sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1783-yilda sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Differensial hisob va ikkilik sa...» hamda «Nemis olimi va faylasufi Gotfrid...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi",
+        "Nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi"
+      ],
+      "answer": 1,
+      "explain": "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Differensial hisob va ikkilik sa...» hamda «Nemis olimi va faylasufi Gotfrid...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "Golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "Nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 2,
+      "explain": "1716-yilda nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Buyuk matematik va mexanik Leona...» hamda «4000 obunachiga yetgan 35 jildli...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi",
+        "Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi",
+        "4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 3,
+      "explain": "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Buyuk matematik va mexanik Leona...» hamda «4000 obunachiga yetgan 35 jildli...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi",
+        "Buyuk matematik va mexanik Leonard Eyler tavallud topdi",
+        "Nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi",
+        "Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi"
+      ],
+      "answer": 0,
+      "explain": "1780-yilda 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi voqeasi golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1646-yil 1657-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi voqeasi differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi, 1657-yilda esa golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi voqeasi Buyuk matematik va mexanik Leonard Eyler tavallud topdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1646-yil 1707-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra Buyuk matematik va mexanik Leonard Eyler tavallud topdi voqeasi differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi, 1707-yilda esa Buyuk matematik va mexanik Leonard Eyler tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi voqeasi nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1646-yil 1716-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi voqeasi differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi, 1716-yilda esa nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi voqeasi Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1646-yil 1751-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi voqeasi differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi, 1751-yilda esa Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi voqeasi 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1646-yil 1780-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi voqeasi differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi, 1780-yilda esa 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi voqeasi sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1646-yil 1783-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi voqeasi differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi, 1783-yilda esa sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi voqeasi Buyuk matematik va mexanik Leonard Eyler tavallud topdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1657-yil 1707-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra Buyuk matematik va mexanik Leonard Eyler tavallud topdi voqeasi golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi, 1707-yilda esa Buyuk matematik va mexanik Leonard Eyler tavallud topdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi voqeasi nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1657-yil 1716-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi voqeasi golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi, 1716-yilda esa nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi voqeasi Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1657-yil 1751-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi voqeasi golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi, 1751-yilda esa Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi voqeasi 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1657-yil 1780-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi voqeasi golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi, 1780-yilda esa 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi voqeasi sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1657-yil 1783-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi voqeasi golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi, 1783-yilda esa sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler vafot etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra Buyuk matematik va mexanik Leonard Eyler tavallud topdi voqeasi nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1707-yil 1716-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi voqeasi Buyuk matematik va mexanik Leonard Eyler tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi, 1716-yilda esa nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra Buyuk matematik va mexanik Leonard Eyler tavallud topdi voqeasi Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1707-yil 1751-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi voqeasi Buyuk matematik va mexanik Leonard Eyler tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi, 1751-yilda esa Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr etila boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xronologiyaga ko'ra Buyuk matematik va mexanik Leonard Eyler tavallud topdi voqeasi 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1707-yil 1780-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy ketma-ketlikka ko'ra 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi voqeasi Buyuk matematik va mexanik Leonard Eyler tavallud topdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi, 1780-yilda esa 4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yakunlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Volter",
+        "Deni Didro",
+        "Sharl Monteskyo",
+        "Jan Jak Russo"
+      ],
+      "answer": 1,
+      "explain": "Deni Didro boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Deni Didroning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar",
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "Xalq suvereniteti va tenglik g'oyalarini ilgari surgan Ma'rifat asri mutafakkiri"
+      ],
+      "answer": 2,
+      "explain": "Deni Didro boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Deni Didro"
+      ],
+      "explain": "Deni Didro boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Deni Didro boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi.",
+      "answer": true,
+      "explain": "To'g'ri. Deni Didro boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Deni Didro — cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri.",
+      "answer": false,
+      "explain": "Noto'g'ri. Deni Didro boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Deni Didro «hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Deni Didro boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi».",
+      "options": [
+        "Volter",
+        "Sharl Monteskyo",
+        "Jan Jak Russo",
+        "Deni Didro"
+      ],
+      "answer": 3,
+      "explain": "Deni Didro boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «____ boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Deni Didro"
+      ],
+      "explain": "Deni Didro boshqargan «Ensiklopediya» (4000 obunachi) o'z davri ilm-fan yutuqlarini jamladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Volter",
+        "Deni Didro",
+        "Sharl Monteskyo",
+        "Jan Jak Russo"
+      ],
+      "answer": 0,
+      "explain": "Volter, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Volterning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar",
+        "Xalq suvereniteti va tenglik g'oyalarini ilgari surgan Ma'rifat asri mutafakkiri"
+      ],
+      "answer": 1,
+      "explain": "Volter, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Volter"
+      ],
+      "explain": "Volter, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Volter, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar.",
+      "answer": true,
+      "explain": "To'g'ri. Volter, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Volter — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Volter, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Volter «hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Volter, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar».",
+      "options": [
+        "Deni Didro",
+        "Sharl Monteskyo",
+        "Volter",
+        "Jan Jak Russo"
+      ],
+      "answer": 2,
+      "explain": "Volter, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «____, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Volter"
+      ],
+      "explain": "Volter, Monteskyo, Russo va Didro XVIII asr Ma'rifat asri g'oyalarini tarqatganlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Deni Didro",
+        "Volter",
+        "Jan Jak Russo",
+        "Sharl Monteskyo"
+      ],
+      "answer": 3,
+      "explain": "Monteskyo qonun ustuvorligi va siyosiy erkinlik tamoyillarini rivojlantirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Sharl Monteskyoning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar",
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "Xalq suvereniteti va tenglik g'oyalarini ilgari surgan Ma'rifat asri mutafakkiri"
+      ],
+      "answer": 0,
+      "explain": "Monteskyo qonun ustuvorligi va siyosiy erkinlik tamoyillarini rivojlantirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Sharl Monteskyo"
+      ],
+      "explain": "Monteskyo qonun ustuvorligi va siyosiy erkinlik tamoyillarini rivojlantirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Monteskyo qonun ustuvorligi va siyosiy erkinlik tamoyillarini rivojlantirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Monteskyo qonun ustuvorligi va siyosiy erkinlik tamoyillarini rivojlantirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Sharl Monteskyo — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Monteskyo qonun ustuvorligi va siyosiy erkinlik tamoyillarini rivojlantirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Sharl Monteskyo «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Monteskyo qonun ustuvorligi va siyosiy erkinlik tamoyillarini rivojlantirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «xalq suvereniteti va tenglik g'oyalarini ilgari surgan Ma'rifat asri mutafakkiri» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Deni Didro",
+        "Jan Jak Russo",
+        "Volter",
+        "Sharl Monteskyo"
+      ],
+      "answer": 1,
+      "explain": "Jan Jak Russo davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Jan Jak Russoning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "Xalq suvereniteti va tenglik g'oyalarini ilgari surgan Ma'rifat asri mutafakkiri",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar"
+      ],
+      "answer": 2,
+      "explain": "Jan Jak Russo davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): xalq suvereniteti va tenglik g'oyalarini ilgari surgan Ma'rifat asri mutafakkiri bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Jan Jak Russo"
+      ],
+      "explain": "Jan Jak Russo davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Jan Jak Russo davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan.",
+      "answer": true,
+      "explain": "To'g'ri. Jan Jak Russo davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Jan Jak Russo — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Jan Jak Russo davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Jan Jak Russo «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Jan Jak Russo davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan».",
+      "options": [
+        "Deni Didro",
+        "Volter",
+        "Sharl Monteskyo",
+        "Jan Jak Russo"
+      ],
+      "answer": 3,
+      "explain": "Jan Jak Russo davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «____ davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Jan Jak Russo"
+      ],
+      "explain": "Jan Jak Russo davlat hokimiyatining manbayi xalq ekanligini ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «0 va 1 raqamlariga asoslangan ikkilik sanoq tizimi hamda energiya saqlanish qonuni asoschisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Gotfrid Vilgelm Leybnis",
+        "Deni Didro",
+        "Volter",
+        "Sharl Monteskyo"
+      ],
+      "answer": 0,
+      "explain": "Leybnis (1646–1716) «tirik kuch» (kinetik energiya) va hisoblash mashinalari g'oyasini rivojlantirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Gotfrid Vilgelm Leybnisning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "0 va 1 raqamlariga asoslangan ikkilik sanoq tizimi hamda energiya saqlanish qonuni asoschisi",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar"
+      ],
+      "answer": 1,
+      "explain": "Leybnis (1646–1716) «tirik kuch» (kinetik energiya) va hisoblash mashinalari g'oyasini rivojlantirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 0 va 1 raqamlariga asoslangan ikkilik sanoq tizimi hamda energiya saqlanish qonuni asoschisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Gotfrid Vilgelm Leybnis"
+      ],
+      "explain": "Leybnis (1646–1716) «tirik kuch» (kinetik energiya) va hisoblash mashinalari g'oyasini rivojlantirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Leybnis (1646–1716) «tirik kuch» (kinetik energiya) va hisoblash mashinalari g'oyasini rivojlantirgan.",
+      "answer": true,
+      "explain": "To'g'ri. Leybnis (1646–1716) «tirik kuch» (kinetik energiya) va hisoblash mashinalari g'oyasini rivojlantirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Gotfrid Vilgelm Leybnis — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Leybnis (1646–1716) «tirik kuch» (kinetik energiya) va hisoblash mashinalari g'oyasini rivojlantirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Gotfrid Vilgelm Leybnis «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Leybnis (1646–1716) «tirik kuch» (kinetik energiya) va hisoblash mashinalari g'oyasini rivojlantirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «sonlar nazariyasi, variatsion hisoblash va kompleks o'zgaruvchili funksiyalar asoschisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Deni Didro",
+        "Volter",
+        "Leonard Eyler",
+        "Sharl Monteskyo"
+      ],
+      "answer": 2,
+      "explain": "Leonard Eyler (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Leonard Eylerning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar",
+        "Sonlar nazariyasi, variatsion hisoblash va kompleks o'zgaruvchili funksiyalar asoschisi"
+      ],
+      "answer": 3,
+      "explain": "Leonard Eyler (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): sonlar nazariyasi, variatsion hisoblash va kompleks o'zgaruvchili funksiyalar asoschisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Leonard Eyler"
+      ],
+      "explain": "Leonard Eyler (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Leonard Eyler (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan.",
+      "answer": true,
+      "explain": "To'g'ri. Leonard Eyler (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Leonard Eyler — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Leonard Eyler (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Leonard Eyler «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Leonard Eyler (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan».",
+      "options": [
+        "Leonard Eyler",
+        "Deni Didro",
+        "Volter",
+        "Sharl Monteskyo"
+      ],
+      "answer": 0,
+      "explain": "Leonard Eyler (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «____ (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Leonard Eyler"
+      ],
+      "explain": "Leonard Eyler (1707–1783) sirtlarning differensial geometriyasiga ham asos solgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «XVIII asr adabiyotining mashhur «Robinzon Kruzo» sarguzasht romani muallifi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Deni Didro",
+        "Daniel Defo",
+        "Volter",
+        "Sharl Monteskyo"
+      ],
+      "answer": 1,
+      "explain": "Ingliz adibi Daniel Defo «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Daniel Defoning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "XVIII asr adabiyotining mashhur «Robinzon Kruzo» sarguzasht romani muallifi",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar"
+      ],
+      "answer": 2,
+      "explain": "Ingliz adibi Daniel Defo «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): XVIII asr adabiyotining mashhur «Robinzon Kruzo» sarguzasht romani muallifi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Daniel Defo"
+      ],
+      "explain": "Ingliz adibi Daniel Defo «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Ingliz adibi Daniel Defo «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi.",
+      "answer": true,
+      "explain": "To'g'ri. Ingliz adibi Daniel Defo «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Daniel Defo — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ingliz adibi Daniel Defo «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Daniel Defo «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Ingliz adibi Daniel Defo «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Ingliz adibi ____ «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi».",
+      "options": [
+        "Deni Didro",
+        "Volter",
+        "Sharl Monteskyo",
+        "Daniel Defo"
+      ],
+      "answer": 3,
+      "explain": "Ingliz adibi Daniel Defo «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ingliz adibi ____ «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Daniel Defo"
+      ],
+      "explain": "Ingliz adibi Daniel Defo «Robinzon Kruzo»da mehnatsevar insonning tabiatni yengish qudratini ko'rsatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ««Gulliverning sayohati» asari muallifi va «Inson siz o'ylagandan ko'ra qudratliroq» fikri sohibi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Jonatan Svift",
+        "Deni Didro",
+        "Volter",
+        "Sharl Monteskyo"
+      ],
+      "answer": 0,
+      "explain": "Jonatan Svift o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Jonatan Sviftning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "«Gulliverning sayohati» asari muallifi va «Inson siz o'ylagandan ko'ra qudratliroq» fikri sohibi",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar"
+      ],
+      "answer": 1,
+      "explain": "Jonatan Svift o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Gulliverning sayohati» asari muallifi va «Inson siz o'ylagandan ko'ra qudratliroq» fikri sohibi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Jonatan Svift"
+      ],
+      "explain": "Jonatan Svift o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Jonatan Svift o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan.",
+      "answer": true,
+      "explain": "To'g'ri. Jonatan Svift o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Jonatan Svift — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Jonatan Svift o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Jonatan Svift «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Jonatan Svift o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan».",
+      "options": [
+        "Deni Didro",
+        "Volter",
+        "Jonatan Svift",
+        "Sharl Monteskyo"
+      ],
+      "answer": 2,
+      "explain": "Jonatan Svift o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «____ o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Jonatan Svift"
+      ],
+      "explain": "Jonatan Svift o'z asarida o'sha davr jamiyatining illatlarini keskin hajv ostiga olgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «60 yil davomida yaratilgan buyuk «Faust» fojiasi muallifi bo'lgan nemis shoiri» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Deni Didro",
+        "Volter",
+        "Sharl Monteskyo",
+        "Iogann Volfgang Gyote"
+      ],
+      "answer": 3,
+      "explain": "Gyote «Faust» asari ustida qariyb 60 yil ishlab, inson aqli va ijodini ulug'ladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Iogann Volfgang Gyotening tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "60 yil davomida yaratilgan buyuk «Faust» fojiasi muallifi bo'lgan nemis shoiri",
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar"
+      ],
+      "answer": 0,
+      "explain": "Gyote «Faust» asari ustida qariyb 60 yil ishlab, inson aqli va ijodini ulug'ladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 60 yil davomida yaratilgan buyuk «Faust» fojiasi muallifi bo'lgan nemis shoiri bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Iogann Volfgang Gyote"
+      ],
+      "explain": "Gyote «Faust» asari ustida qariyb 60 yil ishlab, inson aqli va ijodini ulug'ladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Gyote «Faust» asari ustida qariyb 60 yil ishlab, inson aqli va ijodini ulug'ladi.",
+      "answer": true,
+      "explain": "To'g'ri. Gyote «Faust» asari ustida qariyb 60 yil ishlab, inson aqli va ijodini ulug'ladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Iogann Volfgang Gyote — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Gyote «Faust» asari ustida qariyb 60 yil ishlab, inson aqli va ijodini ulug'ladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Iogann Volfgang Gyote «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Gyote «Faust» asari ustida qariyb 60 yil ishlab, inson aqli va ijodini ulug'ladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «3 yoshda musiqa chalgan, «Figaroning uylanishi» va «Rekviyem»ni yaratgan avstriyalik bastakor» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Deni Didro",
+        "Volfgang Amadey Motsart",
+        "Volter",
+        "Sharl Monteskyo"
+      ],
+      "answer": 1,
+      "explain": "Zalsburgda tug'ilgan Motsart 4 yoshda klavesin asarlari, 12 yoshda opera yozib, 14 yoshda Italiya akademiyasiga kirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Volfgang Amadey Motsartning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "3 yoshda musiqa chalgan, «Figaroning uylanishi» va «Rekviyem»ni yaratgan avstriyalik bastakor",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar"
+      ],
+      "answer": 2,
+      "explain": "Zalsburgda tug'ilgan Motsart 4 yoshda klavesin asarlari, 12 yoshda opera yozib, 14 yoshda Italiya akademiyasiga kirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 3 yoshda musiqa chalgan, «Figaroning uylanishi» va «Rekviyem»ni yaratgan avstriyalik bastakor bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Volfgang Amadey Motsart"
+      ],
+      "explain": "Zalsburgda tug'ilgan Motsart 4 yoshda klavesin asarlari, 12 yoshda opera yozib, 14 yoshda Italiya akademiyasiga kirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Zalsburgda tug'ilgan Motsart 4 yoshda klavesin asarlari, 12 yoshda opera yozib, 14 yoshda Italiya akademiyasiga kirgan.",
+      "answer": true,
+      "explain": "To'g'ri. Zalsburgda tug'ilgan Motsart 4 yoshda klavesin asarlari, 12 yoshda opera yozib, 14 yoshda Italiya akademiyasiga kirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Volfgang Amadey Motsart — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Zalsburgda tug'ilgan Motsart 4 yoshda klavesin asarlari, 12 yoshda opera yozib, 14 yoshda Italiya akademiyasiga kirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Volfgang Amadey Motsart «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Zalsburgda tug'ilgan Motsart 4 yoshda klavesin asarlari, 12 yoshda opera yozib, 14 yoshda Italiya akademiyasiga kirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «kar bo'lib qolishiga qaramay «Fantaziya yo'lida sonata» («Oydin») va «Qahramonona» simfoniyasini yozgan bastakor» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Deni Didro",
+        "Volter",
+        "Sharl Monteskyo",
+        "Lyudvig van Betxoven"
+      ],
+      "answer": 3,
+      "explain": "Betxoven 22 yoshidan Venada yashab jahon klassik musiqasining cho'qqilarini yaratdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Lyudvig van Betxovenning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Kar bo'lib qolishiga qaramay «Fantaziya yo'lida sonata» («Oydin») va «Qahramonona» simfoniyasini yozgan bastakor",
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar"
+      ],
+      "answer": 0,
+      "explain": "Betxoven 22 yoshidan Venada yashab jahon klassik musiqasining cho'qqilarini yaratdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): kar bo'lib qolishiga qaramay «Fantaziya yo'lida sonata» («Oydin») va «Qahramonona» simfoniyasini yozgan bastakor bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Lyudvig van Betxoven"
+      ],
+      "explain": "Betxoven 22 yoshidan Venada yashab jahon klassik musiqasining cho'qqilarini yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Betxoven 22 yoshidan Venada yashab jahon klassik musiqasining cho'qqilarini yaratdi.",
+      "answer": true,
+      "explain": "To'g'ri. Betxoven 22 yoshidan Venada yashab jahon klassik musiqasining cho'qqilarini yaratdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Lyudvig van Betxoven — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Betxoven 22 yoshidan Venada yashab jahon klassik musiqasining cho'qqilarini yaratdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Lyudvig van Betxoven «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Betxoven 22 yoshidan Venada yashab jahon klassik musiqasining cho'qqilarini yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ««Matto bayon etgan buyuk musibat» kabi o'lmas organ va xor asarlari yaratgan nemis bastakori» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Deni Didro",
+        "Iogann Sebastyan Bax",
+        "Volter",
+        "Sharl Monteskyo"
+      ],
+      "answer": 1,
+      "explain": "I. S. Bax musiqasi chuqur falsafiy ma'nosi bilan jahon madaniyatidan munosib o'rin olgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Iogann Sebastyan Baxning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar",
+        "Cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri",
+        "«Matto bayon etgan buyuk musibat» kabi o'lmas organ va xor asarlari yaratgan nemis bastakori",
+        "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini asoslagan ma'rifatparvar"
+      ],
+      "answer": 2,
+      "explain": "I. S. Bax musiqasi chuqur falsafiy ma'nosi bilan jahon madaniyatidan munosib o'rin olgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Matto bayon etgan buyuk musibat» kabi o'lmas organ va xor asarlari yaratgan nemis bastakori bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Iogann Sebastyan Bax"
+      ],
+      "explain": "I. S. Bax musiqasi chuqur falsafiy ma'nosi bilan jahon madaniyatidan munosib o'rin olgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): I. S. Bax musiqasi chuqur falsafiy ma'nosi bilan jahon madaniyatidan munosib o'rin olgan.",
+      "answer": true,
+      "explain": "To'g'ri. I. S. Bax musiqasi chuqur falsafiy ma'nosi bilan jahon madaniyatidan munosib o'rin olgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Iogann Sebastyan Bax — 1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik qilgan ma'rifatparvar.",
+      "answer": false,
+      "explain": "Noto'g'ri. I. S. Bax musiqasi chuqur falsafiy ma'nosi bilan jahon madaniyatidan munosib o'rin olgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikda Iogann Sebastyan Bax «cherkov mutaassibligi va tengsizlikni keskin tanqid qilgan XVIII asr fransuz mutafakkiri» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida I. S. Bax musiqasi chuqur falsafiy ma'nosi bilan jahon madaniyatidan munosib o'rin olgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Ensiklopediya",
+        "Ikkilik sanoq tizimi",
+        "Tabiiy huquq",
+        "Ma'rifat asri"
+      ],
+      "answer": 3,
+      "explain": "Ma'rifat asri — XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ma'rifat asri» atamasi nimani anglatadi?",
+      "options": [
+        "XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr",
+        "1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi",
+        "G. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi",
+        "Insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari"
+      ],
+      "answer": 0,
+      "explain": "Ma'rifat asri — XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Ma'rifat asri",
+        "ma'rifat asri"
+      ],
+      "explain": "Ma'rifat asri — XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ma'rifat asri» tushunchasi «XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Ma'rifat asri — XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ma'rifat asri» deganda 1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Ma'rifat asri — XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy lug'atga ko'ra «Ma'rifat asri» — «g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ma'rifat asri — XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Ma'rifat asri",
+        "Ensiklopediya",
+        "Ikkilik sanoq tizimi",
+        "Tabiiy huquq"
+      ],
+      "answer": 1,
+      "explain": "Ensiklopediya — 1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ensiklopediya» atamasi nimani anglatadi?",
+      "options": [
+        "XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr",
+        "G. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi",
+        "1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi",
+        "Insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari"
+      ],
+      "answer": 2,
+      "explain": "Ensiklopediya — 1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Ensiklopediya",
+        "ensiklopediya"
+      ],
+      "explain": "Ensiklopediya — 1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ensiklopediya» tushunchasi «1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Ensiklopediya — 1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ensiklopediya» deganda XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Ensiklopediya — 1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy lug'atga ko'ra «Ensiklopediya» — «g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ensiklopediya — 1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Ma'rifat asri",
+        "Ensiklopediya",
+        "Tabiiy huquq",
+        "Ikkilik sanoq tizimi"
+      ],
+      "answer": 3,
+      "explain": "Ikkilik sanoq tizimi — g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ikkilik sanoq tizimi» atamasi nimani anglatadi?",
+      "options": [
+        "G. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi",
+        "XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr",
+        "1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi",
+        "Insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari"
+      ],
+      "answer": 0,
+      "explain": "Ikkilik sanoq tizimi — g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Ikkilik sanoq tizimi",
+        "ikkilik sanoq tizimi"
+      ],
+      "explain": "Ikkilik sanoq tizimi — g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ikkilik sanoq tizimi» tushunchasi «g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Ikkilik sanoq tizimi — g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ikkilik sanoq tizimi» deganda XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Ikkilik sanoq tizimi — g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy lug'atga ko'ra «Ikkilik sanoq tizimi» — «1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ikkilik sanoq tizimi — g. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Ma'rifat asri",
+        "Tabiiy huquq",
+        "Ensiklopediya",
+        "Ikkilik sanoq tizimi"
+      ],
+      "answer": 1,
+      "explain": "Tabiiy huquq — insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Tabiiy huquq» atamasi nimani anglatadi?",
+      "options": [
+        "XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr",
+        "1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi",
+        "Insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari",
+        "G. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi"
+      ],
+      "answer": 2,
+      "explain": "Tabiiy huquq — insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Tabiiy huquq",
+        "tabiiy huquq"
+      ],
+      "explain": "Tabiiy huquq — insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Tabiiy huquq» tushunchasi «insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Tabiiy huquq — insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Tabiiy huquq» deganda XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tabiiy huquq — insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy lug'atga ko'ra «Tabiiy huquq» — «1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Tabiiy huquq — insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik va mulk huquqlari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «g. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kinetik energiya» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Ma'rifat asri",
+        "Ensiklopediya",
+        "Ikkilik sanoq tizimi",
+        "Tirik kuch"
+      ],
+      "answer": 3,
+      "explain": "Tirik kuch — g. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kinetik energiya.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Tirik kuch» atamasi nimani anglatadi?",
+      "options": [
+        "G. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kinetik energiya",
+        "XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr",
+        "1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi",
+        "G. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydalanuvchi sanoq tizimi"
+      ],
+      "answer": 0,
+      "explain": "Tirik kuch — g. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kinetik energiya.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «g. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kinetik energiya» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Tirik kuch",
+        "tirik kuch"
+      ],
+      "explain": "Tirik kuch — g. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kinetik energiya.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Tirik kuch» tushunchasi «g. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kinetik energiya» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Tirik kuch — g. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kinetik energiya.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Tirik kuch» deganda XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy taraqqiyot asosiga qo'ygan g'oyaviy davr tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tirik kuch — g. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kinetik energiya.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): tarixiy lug'atga ko'ra «Tirik kuch» — «1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli bilimlar qomusi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Tirik kuch — g. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kinetik energiya.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Ma'rifatparvarlar jamiyatni o'zgartirishda inqilobiy zo'ravonlikka qanday munosabatda bo'lishgan?",
+      "options": [
+        "Faqat qurolli qo'zg'olonni ma'qullashgan",
+        "Inqilobiy usullarga salbiy qarab, jamiyatni ta'lim, qonun va ma'rifat orqali isloh qilishni yoqlashgan",
+        "Maktab va kitoblarni yoqishni talab qilishgan",
+        "Feodalizmni qayta tiklashga intilishgan"
+      ],
+      "answer": 1,
+      "explain": "Ma'rifat asrining asosiy shiori inson aqli va ma'rifat kuchiga ishonish edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ma'rifatparvarlar jamiyatni o'zgartirishda inqilobiy zo'ravonlikka qanday munosabatda bo'lishgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan",
+        "«Ensiklopediya» atigi 2 jilddan iborat bo'lgan",
+        "Ma'rifatparvarlar inqilobiy to'ntarishlarga emas, balki bilim, ma'rifat va adolatli qonunlar orqali o'zgarishga ishonishgan",
+        "«Beparvo» kartinasini Nikolay Kopernik chizgan"
+      ],
+      "answer": 2,
+      "explain": "Ma'rifat asrining asosiy shiori inson aqli va ma'rifat kuchiga ishonish edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ma'rifatparvarlar jamiyatni o'zgartirishda inqilobiy zo'ravonlikka qanday munosabatda bo'lishgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi",
+        "Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan. Aslida: Ma'rifat asrining asosiy shiori inson aqli va ma'rifat kuchiga ishonish edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Ma'rifatparvarlar inqilobiy to'ntarishlarga emas, balki bilim, ma'rifat va adolatli qonunlar orqali o'zgarishga ishonishgan.",
+      "answer": true,
+      "explain": "To'g'ri. Ma'rifat asrining asosiy shiori inson aqli va ma'rifat kuchiga ishonish edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ma'rifat asrining asosiy shiori inson aqli va ma'rifat kuchiga ishonish edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik izohiga ko'ra ma'rifat asrining asosiy shiori inson aqli va ma'rifat kuchiga ishonish edi.",
+      "answer": true,
+      "explain": "To'g'ri. Ma'rifat asrining asosiy shiori inson aqli va ma'rifat kuchiga ishonish edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Deni Didro rahbarligida nashr etilgan 35 tomlik «Ensiklopediya»ga necha kishi obuna bo'lgan edi?",
+      "options": [
+        "4000 nafar obunachi",
+        "50 nafar obunachi",
+        "10 million obunachi",
+        "Hech kim obuna bo'lmagan"
+      ],
+      "answer": 0,
+      "explain": "«Ensiklopediya» Ma'rifat asrining eng yirik ilmiy va ma'rifiy loyihasi bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Deni Didro rahbarligida nashr etilgan 35 tomlik «Ensiklopediya»ga necha kishi obuna bo'lgan edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Ensiklopediya» atigi 2 jilddan iborat bo'lgan",
+        "1751–1780-yillarda chiqqan «Ensiklopediya» o'z davri uchun ulkan — 4000 obunachiga ega bo'lgan",
+        "Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan",
+        "«Beparvo» kartinasini Nikolay Kopernik chizgan"
+      ],
+      "answer": 1,
+      "explain": "«Ensiklopediya» Ma'rifat asrining eng yirik ilmiy va ma'rifiy loyihasi bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Deni Didro rahbarligida nashr etilgan 35 tomlik «Ensiklopediya»ga necha kishi obuna bo'lgan edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "«Ensiklopediya» atigi 2 jilddan iborat bo'lgan",
+        "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: «Ensiklopediya» atigi 2 jilddan iborat bo'lgan. Aslida: «Ensiklopediya» Ma'rifat asrining eng yirik ilmiy va ma'rifiy loyihasi bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1751–1780-yillarda chiqqan «Ensiklopediya» o'z davri uchun ulkan — 4000 obunachiga ega bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Ensiklopediya» Ma'rifat asrining eng yirik ilmiy va ma'rifiy loyihasi bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Ensiklopediya» atigi 2 jilddan iborat bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. «Ensiklopediya» Ma'rifat asrining eng yirik ilmiy va ma'rifiy loyihasi bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik izohiga ko'ra «Ensiklopediya» Ma'rifat asrining eng yirik ilmiy va ma'rifiy loyihasi bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. «Ensiklopediya» Ma'rifat asrining eng yirik ilmiy va ma'rifiy loyihasi bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1751–1780-yillarda Deni Didro boshchiligida chop etilgan «Ensiklopediya» jami ____ tomdan iborat edi. (Sonni yozing)",
+      "answer": [
+        "35",
+        "35 tom",
+        "35 jild"
+      ],
+      "explain": "«Ensiklopediya» Ma'rifat asrining eng yirik ilmiy va ma'rifiy loyihasi bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): XVIII asrda tasviriy san'atda «Qiyin taklif» va «Beparvo» asarlarini yaratgan mashhur fransuz rassomi kim?",
+      "options": [
+        "Rembrandt",
+        "Leonardo da Vinchi",
+        "Fransua Bushe",
+        "Antuan Vatto"
+      ],
+      "answer": 3,
+      "explain": "Antuan Vatto va Fransua Bushe XVIII asr fransuz tasviriy san'atining yirik vakillaridir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «XVIII asrda tasviriy san'atda «Qiyin taklif» va «Beparvo» asarlarini yaratgan mashhur fransuz rassomi kim» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Antuan Vatto «Qiyin taklif» va «Beparvo» kabi nafis rangtasvir asarlarini yaratgan",
+        "«Beparvo» kartinasini Nikolay Kopernik chizgan",
+        "Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan",
+        "«Ensiklopediya» atigi 2 jilddan iborat bo'lgan"
+      ],
+      "answer": 0,
+      "explain": "Antuan Vatto va Fransua Bushe XVIII asr fransuz tasviriy san'atining yirik vakillaridir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «XVIII asrda tasviriy san'atda «Qiyin taklif» va «Beparvo» asarlarini yaratgan mashhur fransuz rassomi kim» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "«Beparvo» kartinasini Nikolay Kopernik chizgan",
+        "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: «Beparvo» kartinasini Nikolay Kopernik chizgan. Aslida: Antuan Vatto va Fransua Bushe XVIII asr fransuz tasviriy san'atining yirik vakillaridir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Antuan Vatto «Qiyin taklif» va «Beparvo» kabi nafis rangtasvir asarlarini yaratgan.",
+      "answer": true,
+      "explain": "To'g'ri. Antuan Vatto va Fransua Bushe XVIII asr fransuz tasviriy san'atining yirik vakillaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Beparvo» kartinasini Nikolay Kopernik chizgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Antuan Vatto va Fransua Bushe XVIII asr fransuz tasviriy san'atining yirik vakillaridir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik izohiga ko'ra antuan Vatto va Fransua Bushe XVIII asr fransuz tasviriy san'atining yirik vakillaridir.",
+      "answer": true,
+      "explain": "To'g'ri. Antuan Vatto va Fransua Bushe XVIII asr fransuz tasviriy san'atining yirik vakillaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Iogann Volfgang Gyote o'zining jahonga mashhur «Faust» asari ustida necha yil davomida ishlagan?",
+      "options": [
+        "6 oy davomida",
+        "3 yil davomida",
+        "60 yil davomida",
+        "10 yil davomida"
+      ],
+      "answer": 2,
+      "explain": "«Faust» asarida insonning haqiqat, bilim va ezgulik izlash yo'lidagi kurashi tasvirlanadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Iogann Volfgang Gyote o'zining jahonga mashhur «Faust» asari ustida necha yil davomida ishlagan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Gyote «Faust»ni atigi ikki haftada yozib tugatgan",
+        "Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan",
+        "«Ensiklopediya» atigi 2 jilddan iborat bo'lgan",
+        "Gyote «Faust» fojiasi ustida qariyb 60 yil mehnat qilib uni hayotining bosh asariga aylantirgan"
+      ],
+      "answer": 3,
+      "explain": "«Faust» asarida insonning haqiqat, bilim va ezgulik izlash yo'lidagi kurashi tasvirlanadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Iogann Volfgang Gyote o'zining jahonga mashhur «Faust» asari ustida necha yil davomida ishlagan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Gyote «Faust»ni atigi ikki haftada yozib tugatgan",
+        "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Gyote «Faust»ni atigi ikki haftada yozib tugatgan. Aslida: «Faust» asarida insonning haqiqat, bilim va ezgulik izlash yo'lidagi kurashi tasvirlanadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Gyote «Faust» fojiasi ustida qariyb 60 yil mehnat qilib uni hayotining bosh asariga aylantirgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Faust» asarida insonning haqiqat, bilim va ezgulik izlash yo'lidagi kurashi tasvirlanadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Gyote «Faust»ni atigi ikki haftada yozib tugatgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. «Faust» asarida insonning haqiqat, bilim va ezgulik izlash yo'lidagi kurashi tasvirlanadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik izohiga ko'ra «Faust» asarida insonning haqiqat, bilim va ezgulik izlash yo'lidagi kurashi tasvirlanadi.",
+      "answer": true,
+      "explain": "To'g'ri. «Faust» asarida insonning haqiqat, bilim va ezgulik izlash yo'lidagi kurashi tasvirlanadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Iogann Volfgang Gyote «Faust» asari ustida qariyb ____ yil ishlagan. (Sonni yozing)",
+      "answer": [
+        "60",
+        "60 yil"
+      ],
+      "explain": "«Faust» asarida insonning haqiqat, bilim va ezgulik izlash yo'lidagi kurashi tasvirlanadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Zalsburgda tug'ilgan Volfgang Amadey Motsart necha yoshida Italiyaning Bolonya musiqiy akademiyasiga a'zo etib saylangan?",
+      "options": [
+        "40 yoshida",
+        "14 yoshida (3 yoshda chalib, 12 yoshda opera yozgan)",
+        "50 yoshida",
+        "Hech qachon Italiyaga bormagan"
+      ],
+      "answer": 1,
+      "explain": "«Figaroning uylanishi» va tugallanmay qolgan «Rekviyem» Motsart ijodining cho'qqilaridir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Zalsburgda tug'ilgan Volfgang Amadey Motsart necha yoshida Italiyaning Bolonya musiqiy akademiyasiga a'zo etib saylangan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Motsart musiqani 30 yoshidan keyin o'rgana boshlagan",
+        "Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan",
+        "Motsart 4 yoshida klavesinda asar yozgan, 12 yoshida birinchi operasini yaratib, 14 yoshida akademiyaga saylangan",
+        "«Ensiklopediya» atigi 2 jilddan iborat bo'lgan"
+      ],
+      "answer": 2,
+      "explain": "«Figaroning uylanishi» va tugallanmay qolgan «Rekviyem» Motsart ijodining cho'qqilaridir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Zalsburgda tug'ilgan Volfgang Amadey Motsart necha yoshida Italiyaning Bolonya musiqiy akademiyasiga a'zo etib saylangan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi",
+        "Motsart musiqani 30 yoshidan keyin o'rgana boshlagan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Motsart musiqani 30 yoshidan keyin o'rgana boshlagan. Aslida: «Figaroning uylanishi» va tugallanmay qolgan «Rekviyem» Motsart ijodining cho'qqilaridir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Motsart 4 yoshida klavesinda asar yozgan, 12 yoshida birinchi operasini yaratib, 14 yoshida akademiyaga saylangan.",
+      "answer": true,
+      "explain": "To'g'ri. «Figaroning uylanishi» va tugallanmay qolgan «Rekviyem» Motsart ijodining cho'qqilaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Motsart musiqani 30 yoshidan keyin o'rgana boshlagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. «Figaroning uylanishi» va tugallanmay qolgan «Rekviyem» Motsart ijodining cho'qqilaridir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik izohiga ko'ra «Figaroning uylanishi» va tugallanmay qolgan «Rekviyem» Motsart ijodining cho'qqilaridir.",
+      "answer": true,
+      "explain": "To'g'ri. «Figaroning uylanishi» va tugallanmay qolgan «Rekviyem» Motsart ijodining cho'qqilaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Fantaziya yo'lida sonata» (xalq orasida «Oydin sonata») va «Qahramonona» simfoniyasining muallifi kim?",
+      "options": [
+        "Lyudvig van Betxoven",
+        "Volfgang Amadey Motsart",
+        "Iogann Sebastyan Bax",
+        "Fransua Bushe"
+      ],
+      "answer": 0,
+      "explain": "Betxoven asarlari jasorat, ozodlik va inson ruhining yengilmasligini kuylaydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ««Fantaziya yo'lida sonata» (xalq orasida «Oydin sonata») va «Qahramonona» simfoniyasining muallifi kim» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Qahramonona» simfoniyasini Iogann Sebastyan Bax yozgan",
+        "22 yoshidan Venada ijod qilgan Betxoven eshitish qobiliyatini yo'qotsa-da, «Oydin» sonata va «Qahramonona» simfoniyasini yaratgan",
+        "Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan",
+        "«Ensiklopediya» atigi 2 jilddan iborat bo'lgan"
+      ],
+      "answer": 1,
+      "explain": "Betxoven asarlari jasorat, ozodlik va inson ruhining yengilmasligini kuylaydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ««Fantaziya yo'lida sonata» (xalq orasida «Oydin sonata») va «Qahramonona» simfoniyasining muallifi kim» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "«Qahramonona» simfoniyasini Iogann Sebastyan Bax yozgan",
+        "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: «Qahramonona» simfoniyasini Iogann Sebastyan Bax yozgan. Aslida: Betxoven asarlari jasorat, ozodlik va inson ruhining yengilmasligini kuylaydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 22 yoshidan Venada ijod qilgan Betxoven eshitish qobiliyatini yo'qotsa-da, «Oydin» sonata va «Qahramonona» simfoniyasini yaratgan.",
+      "answer": true,
+      "explain": "To'g'ri. Betxoven asarlari jasorat, ozodlik va inson ruhining yengilmasligini kuylaydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Qahramonona» simfoniyasini Iogann Sebastyan Bax yozgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Betxoven asarlari jasorat, ozodlik va inson ruhining yengilmasligini kuylaydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik izohiga ko'ra betxoven asarlari jasorat, ozodlik va inson ruhining yengilmasligini kuylaydi.",
+      "answer": true,
+      "explain": "To'g'ri. Betxoven asarlari jasorat, ozodlik va inson ruhining yengilmasligini kuylaydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1657-yilda mayatnikli soatni ixtiro qilib, vaqtni aniq o'lchashda inqilob qilgan olim kim edi?",
+      "options": [
+        "Isaak Nyuton",
+        "Leonard Eyler",
+        "Adam Smit",
+        "Xristian Gyuygens"
+      ],
+      "answer": 3,
+      "explain": "Gyuygens ixtirosi aniq mexanika va dengiz navigatsiyasi uchun juda muhim edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «1657-yilda mayatnikli soatni ixtiro qilib, vaqtni aniq o'lchashda inqilob qilgan olim kim edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1657-yilda Xristian Gyuygens tomonidan yaratilgan mayatnikli soat fizik va astronomik tajribalar aniqligini oshirdi",
+        "Mayatnikli soatni 1789-yilda Napoleon ixtiro qilgan",
+        "Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan",
+        "«Ensiklopediya» atigi 2 jilddan iborat bo'lgan"
+      ],
+      "answer": 0,
+      "explain": "Gyuygens ixtirosi aniq mexanika va dengiz navigatsiyasi uchun juda muhim edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «1657-yilda mayatnikli soatni ixtiro qilib, vaqtni aniq o'lchashda inqilob qilgan olim kim edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "Mayatnikli soatni 1789-yilda Napoleon ixtiro qilgan",
+        "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Mayatnikli soatni 1789-yilda Napoleon ixtiro qilgan. Aslida: Gyuygens ixtirosi aniq mexanika va dengiz navigatsiyasi uchun juda muhim edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): 1657-yilda Xristian Gyuygens tomonidan yaratilgan mayatnikli soat fizik va astronomik tajribalar aniqligini oshirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Gyuygens ixtirosi aniq mexanika va dengiz navigatsiyasi uchun juda muhim edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Mayatnikli soatni 1789-yilda Napoleon ixtiro qilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Gyuygens ixtirosi aniq mexanika va dengiz navigatsiyasi uchun juda muhim edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik izohiga ko'ra gyuygens ixtirosi aniq mexanika va dengiz navigatsiyasi uchun juda muhim edi.",
+      "answer": true,
+      "explain": "To'g'ri. Gyuygens ixtirosi aniq mexanika va dengiz navigatsiyasi uchun juda muhim edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Inson siz o'ylagandan ko'ra qudratliroq» degan mashhur fikr muallifi bo'lgan «Gulliverning sayohati» asari adibi kim?",
+      "options": [
+        "Daniel Defo",
+        "Tomas Mor",
+        "Jonatan Svift",
+        "Uilyam Shekspir"
+      ],
+      "answer": 2,
+      "explain": "Svift va Defo XVIII asr ingliz ma'rifatparvarlik adabiyotining yetuk namoyandalaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ««Inson siz o'ylagandan ko'ra qudratliroq» degan mashhur fikr muallifi bo'lgan «Gulliverning sayohati» asari adibi kim» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Gulliverning sayohati» asarini Daniel Defo yozgan",
+        "Volter va Monteskyo jamiyatni faqat fuqarolar urushi orqali o'zgartirish mumkin deb hisoblagan",
+        "«Ensiklopediya» atigi 2 jilddan iborat bo'lgan",
+        "Jonatan Svift «Gulliverning sayohati» romani orqali ma'rifatparvarlik davri adabiyotini boyitgan"
+      ],
+      "answer": 3,
+      "explain": "Svift va Defo XVIII asr ingliz ma'rifatparvarlik adabiyotining yetuk namoyandalaridir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): ««Inson siz o'ylagandan ko'ra qudratliroq» degan mashhur fikr muallifi bo'lgan «Gulliverning sayohati» asari adibi kim» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "«Gulliverning sayohati» asarini Daniel Defo yozgan",
+        "1646-yilda differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm Leybnis tug'ildi",
+        "1657-yilda golland olimi Xristian Gyuygens birinchi mayatnikli aniq soatni yaratdi",
+        "1707-yilda Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: «Gulliverning sayohati» asarini Daniel Defo yozgan. Aslida: Svift va Defo XVIII asr ingliz ma'rifatparvarlik adabiyotining yetuk namoyandalaridir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Jonatan Svift «Gulliverning sayohati» romani orqali ma'rifatparvarlik davri adabiyotini boyitgan.",
+      "answer": true,
+      "explain": "To'g'ri. Svift va Defo XVIII asr ingliz ma'rifatparvarlik adabiyotining yetuk namoyandalaridir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): «Gulliverning sayohati» asarini Daniel Defo yozgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Svift va Defo XVIII asr ingliz ma'rifatparvarlik adabiyotining yetuk namoyandalaridir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik izohiga ko'ra svift va Defo XVIII asr ingliz ma'rifatparvarlik adabiyotining yetuk namoyandalaridir.",
+      "answer": true,
+      "explain": "To'g'ri. Svift va Defo XVIII asr ingliz ma'rifatparvarlik adabiyotining yetuk namoyandalaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): XVIII asr Ma'rifat asrining mashhur fransuz mutafakkirlari qatoriga qaysi olim kirmaydi?",
+      "options": [
+        "Volter va Sharl Monteskyo",
+        "Martin Lyuter",
+        "Jan Jak Russo",
+        "Deni Didro"
+      ],
+      "answer": 1,
+      "explain": "Martin Lyuter XVI asrdagi Germaniya Reformatsiyasi rahbari bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Martin Lyuter XVI asrdagi Germaniya Reformatsiyasi rahbari bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. Martin Lyuter XVI asrdagi Germaniya Reformatsiyasi rahbari bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Ma'rifat asri fani yutuqlari ro'yxatiga qaysi ixtiro kirmaydi?",
+      "options": [
+        "Isaak Nyutonning differensial va integral hisobi",
+        "Gotfrid Leybnisning ikkilik sanoq tizimi",
+        "Universal bug' elektrovozida kosmosga uchish",
+        "Leonard Eylerning sonlar nazariyasi"
+      ],
+      "answer": 2,
+      "explain": "Nyuton, Leybnis va Eyler oliy matematika va mexanika fanlariga asos solishgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Nyuton, Leybnis va Eyler oliy matematika va mexanika fanlariga asos solishgan.",
+      "answer": true,
+      "explain": "To'g'ri. Nyuton, Leybnis va Eyler oliy matematika va mexanika fanlariga asos solishgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): XVIII asr musiqa san'atining uch buyuk dahosi qatoriga qaysi ism kirmaydi?",
+      "options": [
+        "Iogann Sebastyan Bax",
+        "Volfgang Amadey Motsart",
+        "Lyudvig van Betxoven",
+        "Fransua Bushe"
+      ],
+      "answer": 3,
+      "explain": "Fransua Bushe bastakor emas, XVIII asr fransuz rassomi bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Fransua Bushe bastakor emas, XVIII asr fransuz rassomi bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. Fransua Bushe bastakor emas, XVIII asr fransuz rassomi bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Iqtisodchi Adam Smit va boshqa ma'rifatparvarlarning jamiyat taraqqiyotidagi umumiy xizmati nimada edi?",
+      "options": [
+        "Erkin mehnat, tadbirkorlik, qonun ustuvorligi va shaxs huquqlarini ilmiy asoslab berishgan",
+        "Barcha zavod va birjalarni yopishga chaqirishgan",
+        "Tabiiy fanlarni o'qitishni taqiqlashni taklif qilishgan",
+        "O'rta asr krepostnoyligini himoya qilishgan"
+      ],
+      "answer": 0,
+      "explain": "Adam Smit iqtisodiy erkinlikni, fransuz ma'rifatparvarlari esa siyosiy-huquqiy tenglikni asosladilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): Isaak Nyuton yorug'likning tabiatini o'rganish, differensial-integral hisob va butun olam tortishish qonunlarini kashf etish bilan mashhur.",
+      "answer": true,
+      "explain": "To'g'ri. Nyuton va Leybnis bir-biridan mustaqil ravishda oliy matematikaning asosini yaratishgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik jadvali va tayanch ma'lumotlariga ko'ra «35 jildlik «Ensiklopediya» nashri» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1657-yil",
+        "1751–1780-yillar",
+        "Ikkilik tizim",
+        "«Oydin sonata»"
+      ],
+      "answer": 1,
+      "explain": "1751–1780-yillar — 35 jildlik «Ensiklopediya» nashri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): mavzudagi «1751–1780-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Gyuygensning mayatnikli soati",
+        "Leybnisning 0 va 1 sanoq tizimi",
+        "35 jildlik «Ensiklopediya» nashri",
+        "Lyudvig van Betxoven asari"
+      ],
+      "answer": 2,
+      "explain": "1751–1780-yillar — 35 jildlik «Ensiklopediya» nashri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikning tayanch ma'lumotlarida «1751–1780-yillar» — 35 jildlik «Ensiklopediya» nashri sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1751–1780-yillar — 35 jildlik «Ensiklopediya» nashri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik ma'lumotlariga ko'ra «1751–1780-yillar» — gyuygensning mayatnikli soati deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1751–1780-yillar» — 35 jildlik «Ensiklopediya» nashri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik jadvali va tayanch ma'lumotlariga ko'ra «Gyuygensning mayatnikli soati» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1751–1780-yillar",
+        "Ikkilik tizim",
+        "«Oydin sonata»",
+        "1657-yil"
+      ],
+      "answer": 3,
+      "explain": "1657-yil — gyuygensning mayatnikli soati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): mavzudagi «1657-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Gyuygensning mayatnikli soati",
+        "35 jildlik «Ensiklopediya» nashri",
+        "Leybnisning 0 va 1 sanoq tizimi",
+        "Lyudvig van Betxoven asari"
+      ],
+      "answer": 0,
+      "explain": "1657-yil — gyuygensning mayatnikli soati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikning tayanch ma'lumotlarida «1657-yil» — gyuygensning mayatnikli soati sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1657-yil — gyuygensning mayatnikli soati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik ma'lumotlariga ko'ra «1657-yil» — 35 jildlik «Ensiklopediya» nashri deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1657-yil» — gyuygensning mayatnikli soati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik jadvali va tayanch ma'lumotlariga ko'ra «Leybnisning 0 va 1 sanoq tizimi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1751–1780-yillar",
+        "Ikkilik tizim",
+        "1657-yil",
+        "«Oydin sonata»"
+      ],
+      "answer": 1,
+      "explain": "Ikkilik tizim — leybnisning 0 va 1 sanoq tizimi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): mavzudagi «Ikkilik tizim» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "35 jildlik «Ensiklopediya» nashri",
+        "Gyuygensning mayatnikli soati",
+        "Leybnisning 0 va 1 sanoq tizimi",
+        "Lyudvig van Betxoven asari"
+      ],
+      "answer": 2,
+      "explain": "Ikkilik tizim — leybnisning 0 va 1 sanoq tizimi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikning tayanch ma'lumotlarida «Ikkilik tizim» — leybnisning 0 va 1 sanoq tizimi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Ikkilik tizim — leybnisning 0 va 1 sanoq tizimi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik ma'lumotlariga ko'ra «Ikkilik tizim» — 35 jildlik «Ensiklopediya» nashri deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Ikkilik tizim» — leybnisning 0 va 1 sanoq tizimi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik jadvali va tayanch ma'lumotlariga ko'ra «Lyudvig van Betxoven asari» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1751–1780-yillar",
+        "1657-yil",
+        "Ikkilik tizim",
+        "«Oydin sonata»"
+      ],
+      "answer": 3,
+      "explain": "«Oydin sonata» — lyudvig van Betxoven asari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): mavzudagi ««Oydin sonata»» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Lyudvig van Betxoven asari",
+        "35 jildlik «Ensiklopediya» nashri",
+        "Gyuygensning mayatnikli soati",
+        "Leybnisning 0 va 1 sanoq tizimi"
+      ],
+      "answer": 0,
+      "explain": "«Oydin sonata» — lyudvig van Betxoven asari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikning tayanch ma'lumotlarida ««Oydin sonata»» — lyudvig van Betxoven asari sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Oydin sonata» — lyudvig van Betxoven asari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik ma'lumotlariga ko'ra ««Oydin sonata»» — 35 jildlik «Ensiklopediya» nashri deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida ««Oydin sonata»» — lyudvig van Betxoven asari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik jadvali va tayanch ma'lumotlariga ko'ra «Gyote 60 yil yozgan fojia» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1751–1780-yillar",
+        "«Faust»",
+        "1657-yil",
+        "Ikkilik tizim"
+      ],
+      "answer": 1,
+      "explain": "«Faust» — gyote 60 yil yozgan fojia.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): mavzudagi ««Faust»» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "35 jildlik «Ensiklopediya» nashri",
+        "Gyuygensning mayatnikli soati",
+        "Gyote 60 yil yozgan fojia",
+        "Leybnisning 0 va 1 sanoq tizimi"
+      ],
+      "answer": 2,
+      "explain": "«Faust» — gyote 60 yil yozgan fojia.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikning tayanch ma'lumotlarida ««Faust»» — gyote 60 yil yozgan fojia sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Faust» — gyote 60 yil yozgan fojia.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik ma'lumotlariga ko'ra ««Faust»» — 35 jildlik «Ensiklopediya» nashri deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida ««Faust»» — gyote 60 yil yozgan fojia.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Qiyin taklif» va «Beparvo» rassomi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1751–1780-yillar",
+        "1657-yil",
+        "Ikkilik tizim",
+        "Antuan Vatto"
+      ],
+      "answer": 3,
+      "explain": "Antuan Vatto — «Qiyin taklif» va «Beparvo» rassomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): mavzudagi «Antuan Vatto» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "«Qiyin taklif» va «Beparvo» rassomi",
+        "35 jildlik «Ensiklopediya» nashri",
+        "Gyuygensning mayatnikli soati",
+        "Leybnisning 0 va 1 sanoq tizimi"
+      ],
+      "answer": 0,
+      "explain": "Antuan Vatto — «Qiyin taklif» va «Beparvo» rassomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikning tayanch ma'lumotlarida «Antuan Vatto» — «Qiyin taklif» va «Beparvo» rassomi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Antuan Vatto — «Qiyin taklif» va «Beparvo» rassomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik ma'lumotlariga ko'ra «Antuan Vatto» — 35 jildlik «Ensiklopediya» nashri deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Antuan Vatto» — «Qiyin taklif» va «Beparvo» rassomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Matto bayon etgan buyuk musibat»» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1751–1780-yillar",
+        "I. S. Bax",
+        "1657-yil",
+        "Ikkilik tizim"
+      ],
+      "answer": 1,
+      "explain": "I. S. Bax — «Matto bayon etgan buyuk musibat».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): mavzudagi «I. S. Bax» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "35 jildlik «Ensiklopediya» nashri",
+        "Gyuygensning mayatnikli soati",
+        "«Matto bayon etgan buyuk musibat»",
+        "Leybnisning 0 va 1 sanoq tizimi"
+      ],
+      "answer": 2,
+      "explain": "I. S. Bax — «Matto bayon etgan buyuk musibat».",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikning tayanch ma'lumotlarida «I. S. Bax» — «Matto bayon etgan buyuk musibat» sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. I. S. Bax — «Matto bayon etgan buyuk musibat».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik ma'lumotlariga ko'ra «I. S. Bax» — 35 jildlik «Ensiklopediya» nashri deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «I. S. Bax» — «Matto bayon etgan buyuk musibat».",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik jadvali va tayanch ma'lumotlariga ko'ra «Ma'rifat asrining mashhur iqtisodchisi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1751–1780-yillar",
+        "1657-yil",
+        "Ikkilik tizim",
+        "Adam Smit"
+      ],
+      "answer": 3,
+      "explain": "Adam Smit — ma'rifat asrining mashhur iqtisodchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): mavzudagi «Adam Smit» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Ma'rifat asrining mashhur iqtisodchisi",
+        "35 jildlik «Ensiklopediya» nashri",
+        "Gyuygensning mayatnikli soati",
+        "Leybnisning 0 va 1 sanoq tizimi"
+      ],
+      "answer": 0,
+      "explain": "Adam Smit — ma'rifat asrining mashhur iqtisodchisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslikning tayanch ma'lumotlarida «Adam Smit» — ma'rifat asrining mashhur iqtisodchisi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Adam Smit — ma'rifat asrining mashhur iqtisodchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "13-mavzu (Ma'rifat asri madaniyati): darslik ma'lumotlariga ko'ra «Adam Smit» — 35 jildlik «Ensiklopediya» nashri deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Adam Smit» — ma'rifat asrining mashhur iqtisodchisi.",
+      "difficulty": "medium"
+    }
+  ],
+  "cards": [
+    [
+      "VOLTER",
+      "Mutaassiblikni tanqid qilgan mutafakkir"
+    ],
+    [
+      "MONTESKYO",
+      "Hokimiyat bo'linishini asoslagan olim"
+    ],
+    [
+      "RUSSO",
+      "Xalq suvereniteti g'oyasi muallifi"
+    ],
+    [
+      "DIDRO",
+      "35 jildli «Ensiklopediya» rahbari"
+    ],
+    [
+      "LEYBNIS",
+      "0 va 1 ikkilik sanoq tizimi asoschisi"
+    ],
+    [
+      "EYLER",
+      "Sonlar nazariyasi va sirt geometriyasi olimi"
+    ],
+    [
+      "GYUYGENS",
+      "1657-yilda mayatnikli soat ixtirochisi"
+    ],
+    [
+      "MOTSART",
+      "«Figaroning uylanishi» va «Rekviyem» bastakori"
+    ],
+    [
+      "BETXOVEN",
+      "«Oydin» sonata va «Qahramonona» muallifi"
+    ],
+    [
+      "GYOTE",
+      "60 yilda «Faust»ni yaratgan nemis shoiri"
+    ],
+    [
+      "SVIFT",
+      "«Gulliverning sayohati» asari muallifi"
+    ],
+    [
+      "DEFO",
+      "«Robinzon Kruzo» romanini yozgan adib"
+    ],
+    [
+      "1751–1780-yillar",
+      "35 jildlik «Ensiklopediya» nashri"
+    ],
+    [
+      "1657-yil",
+      "Gyuygensning mayatnikli soati"
+    ],
+    [
+      "Ikkilik tizim",
+      "Leybnisning 0 va 1 sanoq tizimi"
+    ],
+    [
+      "«Oydin sonata»",
+      "Lyudvig van Betxoven asari"
+    ],
+    [
+      "«Faust»",
+      "Gyote 60 yil yozgan fojia"
+    ],
+    [
+      "Antuan Vatto",
+      "«Qiyin taklif» va «Beparvo» rassomi"
+    ],
+    [
+      "I. S. Bax",
+      "«Matto bayon etgan buyuk musibat»"
+    ],
+    [
+      "Adam Smit",
+      "Ma'rifat asrining mashhur iqtisodchisi"
+    ],
+    [
+      "Ma'rifat asri",
+      "XVIII asrda Yevropada ilm-fan, aql-idrok va ma'rifatni ijtimoiy tara"
+    ],
+    [
+      "Ensiklopediya",
+      "1751–1780-yillarda Deni Didro boshchiligida chop etilgan 35 jildli b"
+    ],
+    [
+      "Ikkilik sanoq tizimi",
+      "G. V. Leybnis tomonidan asoslangan, faqat 0 va 1 raqamlaridan foydal"
+    ],
+    [
+      "Tabiiy huquq",
+      "Insonning tug'ilganidan egalik qiladigan ajralmas erkinlik, tenglik"
+    ],
+    [
+      "Tirik kuch",
+      "G. V. Leybnis fanga kiritgan tushuncha — zamonaviy fizikadagi kineti"
+    ],
+    [
+      "Deni Didro",
+      "1751–1780-yillarda 35 tomlik «Ensiklopediya»ni yaratishga boshchilik"
+    ],
+    [
+      "Sharl Monteskyo",
+      "Hokimiyatning qonun chiqaruvchi, ijro etuvchi va sudga bo'linishini"
+    ],
+    [
+      "Jan Jak Russo",
+      "Xalq suvereniteti va tenglik g'oyalarini ilgari surgan Ma'rifat asri"
+    ],
+    [
+      "Gotfrid Vilgelm Leybnis",
+      "0 va 1 raqamlariga asoslangan ikkilik sanoq tizimi hamda energiya sa"
+    ],
+    [
+      "Leonard Eyler",
+      "Sonlar nazariyasi, variatsion hisoblash va kompleks o'zgaruvchili fu"
+    ],
+    [
+      "Daniel Defo",
+      "XVIII asr adabiyotining mashhur «Robinzon Kruzo» sarguzasht romani m"
+    ],
+    [
+      "Jonatan Svift",
+      "«Gulliverning sayohati» asari muallifi va «Inson siz o'ylagandan ko'"
+    ],
+    [
+      "Iogann Volfgang Gyote",
+      "60 yil davomida yaratilgan buyuk «Faust» fojiasi muallifi bo'lgan ne"
+    ],
+    [
+      "Volfgang Amadey Motsart",
+      "3 yoshda musiqa chalgan, «Figaroning uylanishi» va «Rekviyem»ni yara"
+    ],
+    [
+      "Lyudvig van Betxoven",
+      "Kar bo'lib qolishiga qaramay «Fantaziya yo'lida sonata» («Oydin») va"
+    ],
+    [
+      "Iogann Sebastyan Bax",
+      "«Matto bayon etgan buyuk musibat» kabi o'lmas organ va xor asarlari"
+    ],
+    [
+      "1646-yil",
+      "Differensial hisob va ikkilik sanoq tizimi asoschisi Gotfrid Vilgelm"
+    ],
+    [
+      "1707-yil",
+      "Buyuk matematik va mexanik Leonard Eyler tavallud topdi"
+    ],
+    [
+      "1716-yil",
+      "Nemis olimi va faylasufi Gotfrid Vilgelm Leybnis vafot etdi"
+    ],
+    [
+      "1751-yil",
+      "Fransiyada Deni Didro boshchiligida 35 tomlik «Ensiklopediya» nashr"
+    ],
+    [
+      "1780-yil",
+      "4000 obunachiga yetgan 35 jildlik mashhur «Ensiklopediya» nashri yak"
+    ],
+    [
+      "1783-yil",
+      "Sonlar nazariyasi va variatsion hisoblash asoschisi Leonard Eyler va"
+    ]
+  ]
+}

@@ -1,0 +1,2315 @@
+{
+  "id": "g9-uz-jahon-tarixi-27-xitoy-qozgolon-va-urushlar",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "27-mavzu. Xitoy qo‘zg‘olon va urushlar davrida",
+  "title": "27-mavzu. Xitoy qo‘zg‘olon va urushlar davrida",
+  "source": "Jahon tarixi 9-sinf (2024), 27-mavzu, 151–156-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): qaysi yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi?",
+      "options": [
+        "1839-yil",
+        "1840-yil",
+        "1834-yil",
+        "1842-yil"
+      ],
+      "answer": 2,
+      "explain": "1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar) mavzusiga ko'ra 1834-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)",
+        "Birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi",
+        "Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi"
+      ],
+      "answer": 3,
+      "explain": "1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): ____-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi. (Yilni kiriting)",
+      "answer": [
+        "1834",
+        "1834-yil",
+        "1834-yilda"
+      ],
+      "explain": "1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1834-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1839-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1839-yilda emas, 1834-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik xronologiyasiga ko'ra 1840-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): qaysi yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi?",
+      "options": [
+        "1834-yil",
+        "1839-yil",
+        "1840-yil",
+        "1842-yil"
+      ],
+      "answer": 1,
+      "explain": "1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar) mavzusiga ko'ra 1839-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)",
+        "Kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "Birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi"
+      ],
+      "answer": 2,
+      "explain": "1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): ____-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi. (Yilni kiriting)",
+      "answer": [
+        "1839",
+        "1839-yil",
+        "1839-yilda"
+      ],
+      "explain": "1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1839-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1834-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1834-yilda emas, 1839-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik xronologiyasiga ko'ra 1840-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): qaysi yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)?",
+      "options": [
+        "1840-yil",
+        "1834-yil",
+        "1839-yil",
+        "1842-yil"
+      ],
+      "answer": 0,
+      "explain": "1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar) mavzusiga ko'ra 1840-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)",
+        "Kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "Birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi"
+      ],
+      "answer": 1,
+      "explain": "1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): ____-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha). (Yilni kiriting)",
+      "answer": [
+        "1840",
+        "1840-yil",
+        "1840-yilda"
+      ],
+      "explain": "1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1840-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha).",
+      "answer": true,
+      "explain": "To'g'ri. 1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1834-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1834-yilda emas, 1840-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik xronologiyasiga ko'ra 1839-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. 1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): qaysi yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi?",
+      "options": [
+        "1834-yil",
+        "1839-yil",
+        "1840-yil",
+        "1842-yil"
+      ],
+      "answer": 3,
+      "explain": "1842-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar) mavzusiga ko'ra 1842-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi",
+        "Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "Kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)"
+      ],
+      "answer": 0,
+      "explain": "1842-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): ____-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi. (Yilni kiriting)",
+      "answer": [
+        "1842",
+        "1842-yil",
+        "1842-yilda"
+      ],
+      "explain": "1842-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1842-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1842-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1842-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1834-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1834-yilda emas, 1842-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik xronologiyasiga ko'ra 1839-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1842-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): qaysi yilda guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi?",
+      "options": [
+        "1834-yil",
+        "1839-yil",
+        "1850-yil",
+        "1840-yil"
+      ],
+      "answer": 2,
+      "explain": "1850-yilda guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar) mavzusiga ko'ra 1850-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "Kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)",
+        "Guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi"
+      ],
+      "answer": 3,
+      "explain": "1850-yilda guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): ____-yilda guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1850",
+        "1850-yil",
+        "1850-yilda"
+      ],
+      "explain": "1850-yilda guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1850-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1850-yilda guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1850-yilda guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1834-yilda guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1834-yilda emas, 1850-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik xronologiyasiga ko'ra 1839-yilda guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1850-yilda guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): qaysi yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi?",
+      "options": [
+        "1834-yil",
+        "1864-yil",
+        "1839-yil",
+        "1840-yil"
+      ],
+      "answer": 1,
+      "explain": "1864-yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar) mavzusiga ko'ra 1864-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "Kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "Chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi",
+        "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)"
+      ],
+      "answer": 2,
+      "explain": "1864-yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): ____-yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi. (Yilni kiriting)",
+      "answer": [
+        "1864",
+        "1864-yil",
+        "1864-yilda"
+      ],
+      "explain": "1864-yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1864-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1864-yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1864-yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1834-yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1834-yilda emas, 1864-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik xronologiyasiga ko'ra 1839-yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1864-yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Buyuk Britaniyaning Ost Indiya k...» hamda «Birinchi afyun urushi Xitoyning...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "Kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)",
+        "Birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi"
+      ],
+      "answer": 0,
+      "explain": "1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Buyuk Britaniyaning Ost Indiya k...» hamda «Birinchi afyun urushi Xitoyning...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "Birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi",
+        "Kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)"
+      ],
+      "answer": 1,
+      "explain": "1842-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Buyuk Britaniya harbiy kemalari...» hamda «Chin qo'shinlari G'arb yordamida...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi",
+        "Guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi",
+        "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)",
+        "Chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi"
+      ],
+      "answer": 2,
+      "explain": "1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Buyuk Britaniya harbiy kemalari...» hamda «Chin qo'shinlari G'arb yordamida...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)",
+        "Birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi",
+        "Guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi",
+        "Chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi"
+      ],
+      "answer": 3,
+      "explain": "1864-yilda chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi voqeasi kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1834-yil 1839-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi voqeasi Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi, 1839-yilda esa kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi voqeasi Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1834-yil 1840-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) voqeasi Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi, 1840-yilda esa Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi voqeasi birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1834-yil 1842-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi voqeasi Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi, 1842-yilda esa birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi voqeasi guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1834-yil 1850-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi voqeasi Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi, 1850-yilda esa guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi voqeasi chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1834-yil 1864-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi voqeasi Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi, 1864-yilda esa chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi voqeasi Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1839-yil 1840-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) voqeasi kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi, 1840-yilda esa Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi voqeasi birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1839-yil 1842-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi voqeasi kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi, 1842-yilda esa birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi voqeasi guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1839-yil 1850-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi voqeasi kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi, 1850-yilda esa guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi voqeasi chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1839-yil 1864-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi voqeasi kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi, 1864-yilda esa chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) voqeasi birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1840-yil 1842-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi voqeasi Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha), 1842-yilda esa birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) voqeasi guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1840-yil 1850-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi voqeasi Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha), 1850-yilda esa guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) voqeasi chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1840-yil 1864-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi voqeasi Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha), 1864-yilda esa chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi voqeasi guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1842-yil 1850-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi voqeasi birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1842-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi, 1850-yilda esa guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar qo'zg'oloni boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): xronologiyaga ko'ra birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi voqeasi chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1842-yil 1864-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy ketma-ketlikka ko'ra chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi voqeasi birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1842-yilda birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Britaniyaga berildi va portlar ochildi, 1864-yilda esa chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinlar davlatini tor-mor etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1839-yilda Kantonda ingliz savdogarlarining afyun zahiralarini musodara qilib yo'q qilgan Xitoy amaldori» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Lin Szesyuy",
+        "Xun Syusyuan",
+        "Un Szishan",
+        "Xristofor Kolumb"
+      ],
+      "answer": 0,
+      "explain": "Guandun hokimi Lin Szesyuy mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Lin Szesyuyning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1850–1864-yillarda «Taypin tyango» («Buyuk huzur-halovat samo davlati»)ni tuzgan dehqonlar rahbari",
+        "1839-yilda Kantonda ingliz savdogarlarining afyun zahiralarini musodara qilib yo'q qilgan Xitoy amaldori",
+        "XIX asrda Xitoy tasviriy san'atida o'ziga xos manzara va gul tasvirlarini yaratgan mashhur rassom",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 1,
+      "explain": "Guandun hokimi Lin Szesyuy mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1839-yilda Kantonda ingliz savdogarlarining afyun zahiralarini musodara qilib yo'q qilgan Xitoy amaldori bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Lin Szesyuy"
+      ],
+      "explain": "Guandun hokimi Lin Szesyuy mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Guandun hokimi Lin Szesyuy mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi.",
+      "answer": true,
+      "explain": "To'g'ri. Guandun hokimi Lin Szesyuy mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Lin Szesyuy — 1850–1864-yillarda «Taypin tyango» («Buyuk huzur-halovat samo davlati»)ni tuzgan dehqonlar rahbari.",
+      "answer": false,
+      "explain": "Noto'g'ri. Guandun hokimi Lin Szesyuy mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikda Lin Szesyuy «XIX asrda Xitoy tasviriy san'atida o'ziga xos manzara va gul tasvirlarini yaratgan mashhur rassom» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Guandun hokimi Lin Szesyuy mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Guandun hokimi ____ mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi».",
+      "options": [
+        "Xun Syusyuan",
+        "Un Szishan",
+        "Lin Szesyuy",
+        "Xristofor Kolumb"
+      ],
+      "answer": 2,
+      "explain": "Guandun hokimi Lin Szesyuy mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Guandun hokimi ____ mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Lin Szesyuy"
+      ],
+      "explain": "Guandun hokimi Lin Szesyuy mamlakatni afyun ofatidan qutqarish uchun qat'iy kurash olib borgan vatanparvar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1850–1864-yillarda «Taypin tyango» («Buyuk huzur-halovat samo davlati»)ni tuzgan dehqonlar rahbari» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Lin Szesyuy",
+        "Un Szishan",
+        "Xristofor Kolumb",
+        "Xun Syusyuan"
+      ],
+      "answer": 3,
+      "explain": "Xun Syusyuan Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Xun Syusyuanning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1850–1864-yillarda «Taypin tyango» («Buyuk huzur-halovat samo davlati»)ni tuzgan dehqonlar rahbari",
+        "1839-yilda Kantonda ingliz savdogarlarining afyun zahiralarini musodara qilib yo'q qilgan Xitoy amaldori",
+        "XIX asrda Xitoy tasviriy san'atida o'ziga xos manzara va gul tasvirlarini yaratgan mashhur rassom",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 0,
+      "explain": "Xun Syusyuan Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1850–1864-yillarda «Taypin tyango» («Buyuk huzur-halovat samo davlati»)ni tuzgan dehqonlar rahbari bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Xun Syusyuan"
+      ],
+      "explain": "Xun Syusyuan Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Xun Syusyuan Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Xun Syusyuan Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Xun Syusyuan — 1839-yilda Kantonda ingliz savdogarlarining afyun zahiralarini musodara qilib yo'q qilgan Xitoy amaldori.",
+      "answer": false,
+      "explain": "Noto'g'ri. Xun Syusyuan Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikda Xun Syusyuan «XIX asrda Xitoy tasviriy san'atida o'ziga xos manzara va gul tasvirlarini yaratgan mashhur rassom» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Xun Syusyuan Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan».",
+      "options": [
+        "Lin Szesyuy",
+        "Xun Syusyuan",
+        "Un Szishan",
+        "Xristofor Kolumb"
+      ],
+      "answer": 1,
+      "explain": "Xun Syusyuan Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «____ Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Xun Syusyuan"
+      ],
+      "explain": "Xun Syusyuan Nankinni poytaxt qilib tenglik va tartib o'rnatgan, 1864-yilda shahar qulagach o'z joniga qasd qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «XIX asrda Xitoy tasviriy san'atida o'ziga xos manzara va gul tasvirlarini yaratgan mashhur rassom» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Lin Szesyuy",
+        "Xun Syusyuan",
+        "Un Szishan",
+        "Xristofor Kolumb"
+      ],
+      "answer": 2,
+      "explain": "Un Szishan asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Un Szishanning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1839-yilda Kantonda ingliz savdogarlarining afyun zahiralarini musodara qilib yo'q qilgan Xitoy amaldori",
+        "1850–1864-yillarda «Taypin tyango» («Buyuk huzur-halovat samo davlati»)ni tuzgan dehqonlar rahbari",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi",
+        "XIX asrda Xitoy tasviriy san'atida o'ziga xos manzara va gul tasvirlarini yaratgan mashhur rassom"
+      ],
+      "answer": 3,
+      "explain": "Un Szishan asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): XIX asrda Xitoy tasviriy san'atida o'ziga xos manzara va gul tasvirlarini yaratgan mashhur rassom bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Un Szishan"
+      ],
+      "explain": "Un Szishan asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Un Szishan asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi.",
+      "answer": true,
+      "explain": "To'g'ri. Un Szishan asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Un Szishan — 1839-yilda Kantonda ingliz savdogarlarining afyun zahiralarini musodara qilib yo'q qilgan Xitoy amaldori.",
+      "answer": false,
+      "explain": "Noto'g'ri. Un Szishan asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikda Un Szishan «1850–1864-yillarda «Taypin tyango» («Buyuk huzur-halovat samo davlati»)ni tuzgan dehqonlar rahbari» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Un Szishan asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi».",
+      "options": [
+        "Un Szishan",
+        "Lin Szesyuy",
+        "Xun Syusyuan",
+        "Xristofor Kolumb"
+      ],
+      "answer": 0,
+      "explain": "Un Szishan asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «____ asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Un Szishan"
+      ],
+      "explain": "Un Szishan asarlari Chin davri Xitoy rassomchiligining muhim yodgorliklaridan sanaladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori)» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Birinchi afyun urushi",
+        "Afyun",
+        "Taypin tyango",
+        "Uzun sochlilar"
+      ],
+      "answer": 1,
+      "explain": "Afyun — yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Afyun» atamasi nimani anglatadi?",
+      "options": [
+        "1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi",
+        "Xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati)",
+        "Yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori)",
+        "Manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom"
+      ],
+      "answer": 2,
+      "explain": "Afyun — yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori)» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Afyun",
+        "afyun"
+      ],
+      "explain": "Afyun — yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Afyun» tushunchasi «yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori)» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Afyun — yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Afyun» deganda 1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Afyun — yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy lug'atga ko'ra «Afyun» — «xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati)» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Afyun — yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Afyun",
+        "Taypin tyango",
+        "Uzun sochlilar",
+        "Birinchi afyun urushi"
+      ],
+      "answer": 3,
+      "explain": "Birinchi afyun urushi — 1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Birinchi afyun urushi» atamasi nimani anglatadi?",
+      "options": [
+        "1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi",
+        "Yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori)",
+        "Xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati)",
+        "Manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom"
+      ],
+      "answer": 0,
+      "explain": "Birinchi afyun urushi — 1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Birinchi afyun urushi",
+        "birinchi afyun urushi"
+      ],
+      "explain": "Birinchi afyun urushi — 1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Birinchi afyun urushi» tushunchasi «1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Birinchi afyun urushi — 1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Birinchi afyun urushi» deganda yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori) tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Birinchi afyun urushi — 1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy lug'atga ko'ra «Birinchi afyun urushi» — «xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati)» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Birinchi afyun urushi — 1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati)» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Afyun",
+        "Taypin tyango",
+        "Birinchi afyun urushi",
+        "Uzun sochlilar"
+      ],
+      "answer": 1,
+      "explain": "Taypin tyango — xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Taypin tyango» atamasi nimani anglatadi?",
+      "options": [
+        "Yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori)",
+        "1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi",
+        "Xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati)",
+        "Manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom"
+      ],
+      "answer": 2,
+      "explain": "Taypin tyango — xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati)» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Taypin tyango",
+        "taypin tyango"
+      ],
+      "explain": "Taypin tyango — xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Taypin tyango» tushunchasi «xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati)» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Taypin tyango — xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Taypin tyango» deganda yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori) tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Taypin tyango — xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy lug'atga ko'ra «Taypin tyango» — «1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Taypin tyango — xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Afyun",
+        "Birinchi afyun urushi",
+        "Taypin tyango",
+        "Uzun sochlilar"
+      ],
+      "answer": 3,
+      "explain": "Uzun sochlilar — manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Uzun sochlilar» atamasi nimani anglatadi?",
+      "options": [
+        "Manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom",
+        "Yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori)",
+        "1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi",
+        "Xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yillar taypinlar davlati)"
+      ],
+      "answer": 0,
+      "explain": "Uzun sochlilar — manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Uzun sochlilar",
+        "uzun sochlilar"
+      ],
+      "explain": "Uzun sochlilar — manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Uzun sochlilar» tushunchasi «manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Uzun sochlilar — manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Uzun sochlilar» deganda yunoncha «abijun» (uxlatuvchi) so'zidan kelib chiqqan, ko'knordan olinadigan giyohvand modda (qoradori) tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Uzun sochlilar — manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): tarixiy lug'atga ko'ra «Uzun sochlilar» — «1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan ochish uchun olib borgan bosqinchilik urushi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Uzun sochlilar — manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'ygan taypin isyonchilariga berilgan nom.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): XIX asr o'rtalarida Xitoy aholisi necha million kishiga yetib, yer shari aholisining qancha qismini tashkil etgan?",
+      "options": [
+        "30 million kishini (1 foiz)",
+        "Taxminan 400 million kishiga yetib, yer shari aholisining qariyb uchdan bir qismini tashkil etgan",
+        "10 million kishini",
+        "900 million kishini (yarmi)"
+      ],
+      "answer": 1,
+      "explain": "Ammo aholining ko'pligi va yopiq iqtisodiyot tufayli dehqon yerlari sudxo'rlar qo'liga o'tib inqiroz chuqurlashdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «XIX asr o'rtalarida Xitoy aholisi necha million kishiga yetib, yer shari aholisining qancha qismini tashkil etgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XIX asr o'rtalarida Xitoy aholisi 50 milliondan kam edi",
+        "Ingliz savdogarlari Xitoyga faqat dori-darmon va bug' mashinalari sotganlar",
+        "XIX asr o'rtalarida Xitoyda 400 millionga yaqin odam yashab, dunyo aholisining qariyb uchdan birini tashkil etardi",
+        "Taypinlar manchjur amaldorlarining barcha soliqlarini o'zgarishsiz qoldirishdi"
+      ],
+      "answer": 2,
+      "explain": "Ammo aholining ko'pligi va yopiq iqtisodiyot tufayli dehqon yerlari sudxo'rlar qo'liga o'tib inqiroz chuqurlashdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «XIX asr o'rtalarida Xitoy aholisi necha million kishiga yetib, yer shari aholisining qancha qismini tashkil etgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)",
+        "XIX asr o'rtalarida Xitoy aholisi 50 milliondan kam edi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: XIX asr o'rtalarida Xitoy aholisi 50 milliondan kam edi. Aslida: Ammo aholining ko'pligi va yopiq iqtisodiyot tufayli dehqon yerlari sudxo'rlar qo'liga o'tib inqiroz chuqurlashdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): XIX asr o'rtalarida Xitoyda 400 millionga yaqin odam yashab, dunyo aholisining qariyb uchdan birini tashkil etardi.",
+      "answer": true,
+      "explain": "To'g'ri. Ammo aholining ko'pligi va yopiq iqtisodiyot tufayli dehqon yerlari sudxo'rlar qo'liga o'tib inqiroz chuqurlashdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): XIX asr o'rtalarida Xitoy aholisi 50 milliondan kam edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ammo aholining ko'pligi va yopiq iqtisodiyot tufayli dehqon yerlari sudxo'rlar qo'liga o'tib inqiroz chuqurlashdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik izohiga ko'ra ammo aholining ko'pligi va yopiq iqtisodiyot tufayli dehqon yerlari sudxo'rlar qo'liga o'tib inqiroz chuqurlashdi.",
+      "answer": true,
+      "explain": "To'g'ri. Ammo aholining ko'pligi va yopiq iqtisodiyot tufayli dehqon yerlari sudxo'rlar qo'liga o'tib inqiroz chuqurlashdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Birinchi afyun urushi arafasida inglizlar Hindistondan Xitoyga olib kirayotgan qoradori (afyun) qiymati Xitoyga sotilayotgan barcha ingliz tovarlarining qancha qismini tashkil etardi?",
+      "options": [
+        "Yarmidan ko'p qismini",
+        "Atigi 1 foizini",
+        "10 foizini",
+        "Afyun umuman sotilmas edi"
+      ],
+      "answer": 0,
+      "explain": "O'sha paytda yevropaliklar uchun faqat Guanchjou (Kanton) porti ochiq bo'lib, portugallar Makoa (Aomin)da turar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Birinchi afyun urushi arafasida inglizlar Hindistondan Xitoyga olib kirayotgan qoradori (afyun) qiymati Xitoyga sotilayotgan barcha ingliz tovarlarining qancha qismini tashkil etardi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Ingliz savdogarlari Xitoyga faqat dori-darmon va bug' mashinalari sotganlar",
+        "Buyuk Britaniya savdogarlari Hindiston afyunini Xitoyga yashirincha olib kirib, kumush chiqib ketishiga sabab bo'lishdi",
+        "XIX asr o'rtalarida Xitoy aholisi 50 milliondan kam edi",
+        "Taypinlar manchjur amaldorlarining barcha soliqlarini o'zgarishsiz qoldirishdi"
+      ],
+      "answer": 1,
+      "explain": "O'sha paytda yevropaliklar uchun faqat Guanchjou (Kanton) porti ochiq bo'lib, portugallar Makoa (Aomin)da turar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Birinchi afyun urushi arafasida inglizlar Hindistondan Xitoyga olib kirayotgan qoradori (afyun) qiymati Xitoyga sotilayotgan barcha ingliz tovarlarining qancha qismini tashkil etardi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "Ingliz savdogarlari Xitoyga faqat dori-darmon va bug' mashinalari sotganlar",
+        "1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Ingliz savdogarlari Xitoyga faqat dori-darmon va bug' mashinalari sotganlar. Aslida: O'sha paytda yevropaliklar uchun faqat Guanchjou (Kanton) porti ochiq bo'lib, portugallar Makoa (Aomin)da turar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Buyuk Britaniya savdogarlari Hindiston afyunini Xitoyga yashirincha olib kirib, kumush chiqib ketishiga sabab bo'lishdi.",
+      "answer": true,
+      "explain": "To'g'ri. O'sha paytda yevropaliklar uchun faqat Guanchjou (Kanton) porti ochiq bo'lib, portugallar Makoa (Aomin)da turar edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Ingliz savdogarlari Xitoyga faqat dori-darmon va bug' mashinalari sotganlar.",
+      "answer": false,
+      "explain": "Noto'g'ri. O'sha paytda yevropaliklar uchun faqat Guanchjou (Kanton) porti ochiq bo'lib, portugallar Makoa (Aomin)da turar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik izohiga ko'ra o'sha paytda yevropaliklar uchun faqat Guanchjou (Kanton) porti ochiq bo'lib, portugallar Makoa (Aomin)da turar edi.",
+      "answer": true,
+      "explain": "To'g'ri. O'sha paytda yevropaliklar uchun faqat Guanchjou (Kanton) porti ochiq bo'lib, portugallar Makoa (Aomin)da turar edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Taypinlar davlati («Taypin tyango») hududida qanday ijtimoiy qoidalar va taqiqlar joriy etilgan edi?",
+      "options": [
+        "Afyun savdosi rag'batlantirildi",
+        "Ayollar barcha huquqdan mahrum qilindi",
+        "Qimorxonalar davlat hisobidan ochildi",
+        "Xususiy yer mulki bekor qilindi, erkak va ayol teng deb e'lon qilindi; oyoq bog'lash, afyun, tamaki va qimor taqiqlandi"
+      ],
+      "answer": 3,
+      "explain": "Biroq ichki hokimiyat uchun rahbarlar nizosi va G'arb davlatlarining aralashuvi Taypinlarni yengilishiga olib keldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Taypinlar davlati («Taypin tyango») hududida qanday ijtimoiy qoidalar va taqiqlar joriy etilgan edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Taypinlar yer va boylikda tenglik joriy etib, ayol-erkak tengligini e'lon qilishdi hamda afyun va qimorni taqiqlashdi",
+        "Taypinlar manchjur amaldorlarining barcha soliqlarini o'zgarishsiz qoldirishdi",
+        "XIX asr o'rtalarida Xitoy aholisi 50 milliondan kam edi",
+        "Ingliz savdogarlari Xitoyga faqat dori-darmon va bug' mashinalari sotganlar"
+      ],
+      "answer": 0,
+      "explain": "Biroq ichki hokimiyat uchun rahbarlar nizosi va G'arb davlatlarining aralashuvi Taypinlarni yengilishiga olib keldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Taypinlar davlati («Taypin tyango») hududida qanday ijtimoiy qoidalar va taqiqlar joriy etilgan edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "Taypinlar manchjur amaldorlarining barcha soliqlarini o'zgarishsiz qoldirishdi",
+        "1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Taypinlar manchjur amaldorlarining barcha soliqlarini o'zgarishsiz qoldirishdi. Aslida: Biroq ichki hokimiyat uchun rahbarlar nizosi va G'arb davlatlarining aralashuvi Taypinlarni yengilishiga olib keldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Taypinlar yer va boylikda tenglik joriy etib, ayol-erkak tengligini e'lon qilishdi hamda afyun va qimorni taqiqlashdi.",
+      "answer": true,
+      "explain": "To'g'ri. Biroq ichki hokimiyat uchun rahbarlar nizosi va G'arb davlatlarining aralashuvi Taypinlarni yengilishiga olib keldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Taypinlar manchjur amaldorlarining barcha soliqlarini o'zgarishsiz qoldirishdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Biroq ichki hokimiyat uchun rahbarlar nizosi va G'arb davlatlarining aralashuvi Taypinlarni yengilishiga olib keldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik izohiga ko'ra biroq ichki hokimiyat uchun rahbarlar nizosi va G'arb davlatlarining aralashuvi Taypinlarni yengilishiga olib keldi.",
+      "answer": true,
+      "explain": "To'g'ri. Biroq ichki hokimiyat uchun rahbarlar nizosi va G'arb davlatlarining aralashuvi Taypinlarni yengilishiga olib keldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1850–1864-yillardagi Taypinlar qo'zg'olonini bostirishda Chin (Sin) hukumatiga qaysi G'arb davlatlari harbiy yordam ko'rsatdi?",
+      "options": [
+        "Ispaniya va Portugaliya",
+        "Eron va Afg'oniston",
+        "Buyuk Britaniya, Fransiya va AQSH",
+        "Misr va Efiopiya"
+      ],
+      "answer": 2,
+      "explain": "1864-yilda Nankin shahri olinib, taypinlar davlati tor-mor etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1850–1864-yillardagi Taypinlar qo'zg'olonini bostirishda Chin (Sin) hukumatiga qaysi G'arb davlatlari harbiy yordam ko'rsatdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Buyuk Britaniya va Fransiya taypinlar davlatini tan olib unga qurol yetkazib berdi",
+        "XIX asr o'rtalarida Xitoy aholisi 50 milliondan kam edi",
+        "Ingliz savdogarlari Xitoyga faqat dori-darmon va bug' mashinalari sotganlar",
+        "Buyuk Britaniya, Fransiya va AQSH o'z savdo imtiyozlarini saqlash uchun Chin hukumatiga taypinlarni bostirishda yordam berdi"
+      ],
+      "answer": 3,
+      "explain": "1864-yilda Nankin shahri olinib, taypinlar davlati tor-mor etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1850–1864-yillardagi Taypinlar qo'zg'olonini bostirishda Chin (Sin) hukumatiga qaysi G'arb davlatlari harbiy yordam ko'rsatdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Buyuk Britaniya va Fransiya taypinlar davlatini tan olib unga qurol yetkazib berdi",
+        "1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Buyuk Britaniya va Fransiya taypinlar davlatini tan olib unga qurol yetkazib berdi. Aslida: 1864-yilda Nankin shahri olinib, taypinlar davlati tor-mor etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Buyuk Britaniya, Fransiya va AQSH o'z savdo imtiyozlarini saqlash uchun Chin hukumatiga taypinlarni bostirishda yordam berdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1864-yilda Nankin shahri olinib, taypinlar davlati tor-mor etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Buyuk Britaniya va Fransiya taypinlar davlatini tan olib unga qurol yetkazib berdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1864-yilda Nankin shahri olinib, taypinlar davlati tor-mor etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik izohiga ko'ra 1864-yilda Nankin shahri olinib, taypinlar davlati tor-mor etildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1864-yilda Nankin shahri olinib, taypinlar davlati tor-mor etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): XIX asrda Xitoyda keng ommalashgan san'at turlaridan biri — «soyalar teatri» bundan taxminan necha yil avval paydo bo'lgan edi?",
+      "options": [
+        "50 yil avval",
+        "1700 yil avval",
+        "100 yil avval",
+        "5 yil avval"
+      ],
+      "answer": 1,
+      "explain": "Xitoy xalq madaniyatida teatr va rassom Un Szishan asarlari alohida o'rin tutgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «XIX asrda Xitoyda keng ommalashgan san'at turlaridan biri — «soyalar teatri» bundan taxminan necha yil avval paydo bo'lgan edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Soyalar teatri Xitoyga XIX asrda Angliyadan keltirilgan",
+        "XIX asr o'rtalarida Xitoy aholisi 50 milliondan kam edi",
+        "Xitoyda opera va bundan 1700 yil avval vujudga kelgan «soyalar teatri» keng tarqalgan edi",
+        "Ingliz savdogarlari Xitoyga faqat dori-darmon va bug' mashinalari sotganlar"
+      ],
+      "answer": 2,
+      "explain": "Xitoy xalq madaniyatida teatr va rassom Un Szishan asarlari alohida o'rin tutgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «XIX asrda Xitoyda keng ommalashgan san'at turlaridan biri — «soyalar teatri» bundan taxminan necha yil avval paydo bo'lgan edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1834-yilda Buyuk Britaniyaning Ost Indiya kompaniyasi Xitoy bilan savdodagi yakka monopoliyasi tugatildi",
+        "1839-yilda kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini musodara qilib yo'q qildi",
+        "1840-yilda Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun urushi avj oldi (1842-yilgacha)",
+        "Soyalar teatri Xitoyga XIX asrda Angliyadan keltirilgan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Soyalar teatri Xitoyga XIX asrda Angliyadan keltirilgan. Aslida: Xitoy xalq madaniyatida teatr va rassom Un Szishan asarlari alohida o'rin tutgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Xitoyda opera va bundan 1700 yil avval vujudga kelgan «soyalar teatri» keng tarqalgan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Xitoy xalq madaniyatida teatr va rassom Un Szishan asarlari alohida o'rin tutgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Soyalar teatri Xitoyga XIX asrda Angliyadan keltirilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Xitoy xalq madaniyatida teatr va rassom Un Szishan asarlari alohida o'rin tutgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik izohiga ko'ra Xitoy xalq madaniyatida teatr va rassom Un Szishan asarlari alohida o'rin tutgan.",
+      "answer": true,
+      "explain": "To'g'ri. Xitoy xalq madaniyatida teatr va rassom Un Szishan asarlari alohida o'rin tutgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Taypinlar davlatida qonun bilan taqiqlangan odat va illatlar qatoriga qaysi biri kirmaydi?",
+      "options": [
+        "Ayollarning savod olishi va teng huquqliligi",
+        "Qizlarning oyog'ini bog'lab o'stirish",
+        "Afyun chekish va sotish",
+        "Tamaki va qimor o'yinlari"
+      ],
+      "answer": 0,
+      "explain": "Taypinlar ayollar tengligini qo'llab-quvvatlagan, aksincha afyun, tamaki, qimor va oyoq bog'lashni taqiqlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Taypinlar ayollar tengligini qo'llab-quvvatlagan, aksincha afyun, tamaki, qimor va oyoq bog'lashni taqiqlagan.",
+      "answer": true,
+      "explain": "To'g'ri. Taypinlar ayollar tengligini qo'llab-quvvatlagan, aksincha afyun, tamaki, qimor va oyoq bog'lashni taqiqlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Taypinlar qo'zg'olonining mag'lubiyatga uchrash sabablari qatoriga qaysi biri kirmaydi?",
+      "options": [
+        "Taypin rahbarlari o'rtasidagi ichki hokimiyat nizolari",
+        "Xun Syusyuanning Yaponiyaga ko'chib ketishi",
+        "Buyuk Britaniya, Fransiya va AQSHning Chin hukumatiga yordami",
+        "1864-yilda Nankin shahrining egallanishi"
+      ],
+      "answer": 1,
+      "explain": "Xun Syusyuan Yaponiyaga ko'chmagan, Nankin qulagan paytda 1864-yilda vafot etgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Xun Syusyuan Yaponiyaga ko'chmagan, Nankin qulagan paytda 1864-yilda vafot etgan.",
+      "answer": true,
+      "explain": "To'g'ri. Xun Syusyuan Yaponiyaga ko'chmagan, Nankin qulagan paytda 1864-yilda vafot etgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): Nima uchun Buyuk Britaniya 1840-yilda Xitoyga qarshi Birinchi afyun urushini boshlashga bahona topdi?",
+      "options": [
+        "Xitoy qo'shinlari London portiga hujum qilgani uchun",
+        "Xitoy hukumati Buyuk Britaniyaga bepul choy berishni boshlagani uchun",
+        "Kanton hokimi Lin Szesyuy ingliz savdogarlarining noqonuniy afyun yuklarini yo'q qilgani uchun",
+        "Makao orolida portugal kemalari cho'kib ketgani uchun"
+      ],
+      "answer": 2,
+      "explain": "Lin Szesyuyning qat'iy choralarini «erkin savdoga to'siq» deb bahona qilgan Britaniya harbiy bosqin uyushtirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): 1842-yilgi Nankin shartnomasidan so'ng Xitoy Gonkong orolini Buyuk Britaniyaga berishga va portlarini xorijiy savdoga ochishga majbur bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. Bu shartnoma Xitoyning yarim mustamlakaga aylanishi yo'lidagi birinchi tengsiz bitim bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik jadvali va tayanch ma'lumotlariga ko'ra «Ost Indiya monopoliyasining tugatilishi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1839-yil Kanton",
+        "1840–1842-yillar",
+        "1850–1864-yillar",
+        "1834-yil"
+      ],
+      "answer": 3,
+      "explain": "1834-yil — ost Indiya monopoliyasining tugatilishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): mavzudagi «1834-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Ost Indiya monopoliyasining tugatilishi",
+        "Lin Szesyuy afyunni «hibs»ga oldi",
+        "Birinchi afyun urushi va Gonkong yo'qotilishi",
+        "Xun Syusyuanning Taypinlar qo'zg'oloni"
+      ],
+      "answer": 0,
+      "explain": "1834-yil — ost Indiya monopoliyasining tugatilishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikning tayanch ma'lumotlarida «1834-yil» — ost Indiya monopoliyasining tugatilishi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1834-yil — ost Indiya monopoliyasining tugatilishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik ma'lumotlariga ko'ra «1834-yil» — lin Szesyuy afyunni «hibs»ga oldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1834-yil» — ost Indiya monopoliyasining tugatilishi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik jadvali va tayanch ma'lumotlariga ko'ra «Lin Szesyuy afyunni «hibs»ga oldi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1834-yil",
+        "1839-yil Kanton",
+        "1840–1842-yillar",
+        "1850–1864-yillar"
+      ],
+      "answer": 1,
+      "explain": "1839-yil Kanton — lin Szesyuy afyunni «hibs»ga oldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): mavzudagi «1839-yil Kanton» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Ost Indiya monopoliyasining tugatilishi",
+        "Birinchi afyun urushi va Gonkong yo'qotilishi",
+        "Lin Szesyuy afyunni «hibs»ga oldi",
+        "Xun Syusyuanning Taypinlar qo'zg'oloni"
+      ],
+      "answer": 2,
+      "explain": "1839-yil Kanton — lin Szesyuy afyunni «hibs»ga oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikning tayanch ma'lumotlarida «1839-yil Kanton» — lin Szesyuy afyunni «hibs»ga oldi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1839-yil Kanton — lin Szesyuy afyunni «hibs»ga oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik ma'lumotlariga ko'ra «1839-yil Kanton» — ost Indiya monopoliyasining tugatilishi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1839-yil Kanton» — lin Szesyuy afyunni «hibs»ga oldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik jadvali va tayanch ma'lumotlariga ko'ra «Birinchi afyun urushi va Gonkong yo'qotilishi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1834-yil",
+        "1839-yil Kanton",
+        "1850–1864-yillar",
+        "1840–1842-yillar"
+      ],
+      "answer": 3,
+      "explain": "1840–1842-yillar — birinchi afyun urushi va Gonkong yo'qotilishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): mavzudagi «1840–1842-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Birinchi afyun urushi va Gonkong yo'qotilishi",
+        "Ost Indiya monopoliyasining tugatilishi",
+        "Lin Szesyuy afyunni «hibs»ga oldi",
+        "Xun Syusyuanning Taypinlar qo'zg'oloni"
+      ],
+      "answer": 0,
+      "explain": "1840–1842-yillar — birinchi afyun urushi va Gonkong yo'qotilishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikning tayanch ma'lumotlarida «1840–1842-yillar» — birinchi afyun urushi va Gonkong yo'qotilishi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1840–1842-yillar — birinchi afyun urushi va Gonkong yo'qotilishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik ma'lumotlariga ko'ra «1840–1842-yillar» — ost Indiya monopoliyasining tugatilishi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1840–1842-yillar» — birinchi afyun urushi va Gonkong yo'qotilishi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik jadvali va tayanch ma'lumotlariga ko'ra «Xun Syusyuanning Taypinlar qo'zg'oloni» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1834-yil",
+        "1850–1864-yillar",
+        "1839-yil Kanton",
+        "1840–1842-yillar"
+      ],
+      "answer": 1,
+      "explain": "1850–1864-yillar — xun Syusyuanning Taypinlar qo'zg'oloni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): mavzudagi «1850–1864-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Ost Indiya monopoliyasining tugatilishi",
+        "Lin Szesyuy afyunni «hibs»ga oldi",
+        "Xun Syusyuanning Taypinlar qo'zg'oloni",
+        "Birinchi afyun urushi va Gonkong yo'qotilishi"
+      ],
+      "answer": 2,
+      "explain": "1850–1864-yillar — xun Syusyuanning Taypinlar qo'zg'oloni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikning tayanch ma'lumotlarida «1850–1864-yillar» — xun Syusyuanning Taypinlar qo'zg'oloni sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1850–1864-yillar — xun Syusyuanning Taypinlar qo'zg'oloni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik ma'lumotlariga ko'ra «1850–1864-yillar» — ost Indiya monopoliyasining tugatilishi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1850–1864-yillar» — xun Syusyuanning Taypinlar qo'zg'oloni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Buyuk huzur-halovat samo davlati»» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1834-yil",
+        "1839-yil Kanton",
+        "1840–1842-yillar",
+        "«Taypin tyango»"
+      ],
+      "answer": 3,
+      "explain": "«Taypin tyango» — «Buyuk huzur-halovat samo davlati».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): mavzudagi ««Taypin tyango»» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "«Buyuk huzur-halovat samo davlati»",
+        "Ost Indiya monopoliyasining tugatilishi",
+        "Lin Szesyuy afyunni «hibs»ga oldi",
+        "Birinchi afyun urushi va Gonkong yo'qotilishi"
+      ],
+      "answer": 0,
+      "explain": "«Taypin tyango» — «Buyuk huzur-halovat samo davlati».",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikning tayanch ma'lumotlarida ««Taypin tyango»» — «Buyuk huzur-halovat samo davlati» sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Taypin tyango» — «Buyuk huzur-halovat samo davlati».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik ma'lumotlariga ko'ra ««Taypin tyango»» — ost Indiya monopoliyasining tugatilishi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida ««Taypin tyango»» — «Buyuk huzur-halovat samo davlati».",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik jadvali va tayanch ma'lumotlariga ko'ra «XIX asr o'rtalaridagi Xitoy aholisi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1834-yil",
+        "400 million",
+        "1839-yil Kanton",
+        "1840–1842-yillar"
+      ],
+      "answer": 1,
+      "explain": "400 million — XIX asr o'rtalaridagi Xitoy aholisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): mavzudagi «400 million» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Ost Indiya monopoliyasining tugatilishi",
+        "Lin Szesyuy afyunni «hibs»ga oldi",
+        "XIX asr o'rtalaridagi Xitoy aholisi",
+        "Birinchi afyun urushi va Gonkong yo'qotilishi"
+      ],
+      "answer": 2,
+      "explain": "400 million — XIX asr o'rtalaridagi Xitoy aholisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikning tayanch ma'lumotlarida «400 million» — XIX asr o'rtalaridagi Xitoy aholisi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 400 million — XIX asr o'rtalaridagi Xitoy aholisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik ma'lumotlariga ko'ra «400 million» — ost Indiya monopoliyasining tugatilishi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «400 million» — XIX asr o'rtalaridagi Xitoy aholisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik jadvali va tayanch ma'lumotlariga ko'ra «Taypinlar davlatining mag'lubiyati» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1834-yil",
+        "1839-yil Kanton",
+        "1840–1842-yillar",
+        "1864-yil Nankin"
+      ],
+      "answer": 3,
+      "explain": "1864-yil Nankin — taypinlar davlatining mag'lubiyati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): mavzudagi «1864-yil Nankin» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Taypinlar davlatining mag'lubiyati",
+        "Ost Indiya monopoliyasining tugatilishi",
+        "Lin Szesyuy afyunni «hibs»ga oldi",
+        "Birinchi afyun urushi va Gonkong yo'qotilishi"
+      ],
+      "answer": 0,
+      "explain": "1864-yil Nankin — taypinlar davlatining mag'lubiyati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikning tayanch ma'lumotlarida «1864-yil Nankin» — taypinlar davlatining mag'lubiyati sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1864-yil Nankin — taypinlar davlatining mag'lubiyati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik ma'lumotlariga ko'ra «1864-yil Nankin» — ost Indiya monopoliyasining tugatilishi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1864-yil Nankin» — taypinlar davlatining mag'lubiyati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik jadvali va tayanch ma'lumotlariga ko'ra «1700 yildan beri mavjud Xitoy san'ati» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1834-yil",
+        "Soyalar teatri",
+        "1839-yil Kanton",
+        "1840–1842-yillar"
+      ],
+      "answer": 1,
+      "explain": "Soyalar teatri — 1700 yildan beri mavjud Xitoy san'ati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): mavzudagi «Soyalar teatri» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Ost Indiya monopoliyasining tugatilishi",
+        "Lin Szesyuy afyunni «hibs»ga oldi",
+        "1700 yildan beri mavjud Xitoy san'ati",
+        "Birinchi afyun urushi va Gonkong yo'qotilishi"
+      ],
+      "answer": 2,
+      "explain": "Soyalar teatri — 1700 yildan beri mavjud Xitoy san'ati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslikning tayanch ma'lumotlarida «Soyalar teatri» — 1700 yildan beri mavjud Xitoy san'ati sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Soyalar teatri — 1700 yildan beri mavjud Xitoy san'ati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): darslik ma'lumotlariga ko'ra «Soyalar teatri» — ost Indiya monopoliyasining tugatilishi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Soyalar teatri» — 1700 yildan beri mavjud Xitoy san'ati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «ko'knordan olinadigan giyohvand modda» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Taypinlar",
+        "Nankin",
+        "Guanchjou",
+        "Afyun"
+      ],
+      "answer": 3,
+      "explain": "Afyun — ko'knordan olinadigan giyohvand modda.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «ko'knordan olinadigan giyohvand modda» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Afyun",
+        "afyun",
+        "AFYUN"
+      ],
+      "explain": "Afyun — ko'knordan olinadigan giyohvand modda.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Afyun» tayanch atamasi/nomi «ko'knordan olinadigan giyohvand modda» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Afyun — ko'knordan olinadigan giyohvand modda.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Afyun» atamasi/nomi darslikda «1850–1864-yillardagi dehqon qo'zg'olonchilari» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Afyun — ko'knordan olinadigan giyohvand modda.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1850–1864-yillardagi dehqon qo'zg'olonchilari» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Taypinlar",
+        "Afyun",
+        "Nankin",
+        "Guanchjou"
+      ],
+      "answer": 0,
+      "explain": "Taypinlar — 1850–1864-yillardagi dehqon qo'zg'olonchilari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1850–1864-yillardagi dehqon qo'zg'olonchilari» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Taypinlar",
+        "taypinlar",
+        "TAYPINLAR"
+      ],
+      "explain": "Taypinlar — 1850–1864-yillardagi dehqon qo'zg'olonchilari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Taypinlar» tayanch atamasi/nomi «1850–1864-yillardagi dehqon qo'zg'olonchilari» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Taypinlar — 1850–1864-yillardagi dehqon qo'zg'olonchilari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Taypinlar» atamasi/nomi darslikda «ko'knordan olinadigan giyohvand modda» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Taypinlar — 1850–1864-yillardagi dehqon qo'zg'olonchilari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «taypin tyango davlatining poytaxti» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Afyun",
+        "Nankin",
+        "Taypinlar",
+        "Guanchjou"
+      ],
+      "answer": 1,
+      "explain": "Nankin — taypin tyango davlatining poytaxti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «taypin tyango davlatining poytaxti» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Nankin",
+        "nankin",
+        "NANKIN"
+      ],
+      "explain": "Nankin — taypin tyango davlatining poytaxti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Nankin» tayanch atamasi/nomi «taypin tyango davlatining poytaxti» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Nankin — taypin tyango davlatining poytaxti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Nankin» atamasi/nomi darslikda «ko'knordan olinadigan giyohvand modda» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Nankin — taypin tyango davlatining poytaxti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Yevropaliklar savdo qilgan janubiy port» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Afyun",
+        "Taypinlar",
+        "Guanchjou",
+        "Nankin"
+      ],
+      "answer": 2,
+      "explain": "Guanchjou — Yevropaliklar savdo qilgan janubiy port.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Yevropaliklar savdo qilgan janubiy port» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Guanchjou",
+        "guanchjou",
+        "GUANCHJOU"
+      ],
+      "explain": "Guanchjou — Yevropaliklar savdo qilgan janubiy port.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Guanchjou» tayanch atamasi/nomi «Yevropaliklar savdo qilgan janubiy port» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Guanchjou — Yevropaliklar savdo qilgan janubiy port.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Guanchjou» atamasi/nomi darslikda «ko'knordan olinadigan giyohvand modda» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Guanchjou — Yevropaliklar savdo qilgan janubiy port.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Portugallar nazoratidagi Xitoy bandargohi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Afyun",
+        "Taypinlar",
+        "Nankin",
+        "Makao"
+      ],
+      "answer": 3,
+      "explain": "Makao — Portugallar nazoratidagi Xitoy bandargohi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Portugallar nazoratidagi Xitoy bandargohi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Makao",
+        "makao",
+        "MAKAO"
+      ],
+      "explain": "Makao — Portugallar nazoratidagi Xitoy bandargohi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Makao» tayanch atamasi/nomi «Portugallar nazoratidagi Xitoy bandargohi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Makao — Portugallar nazoratidagi Xitoy bandargohi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Makao» atamasi/nomi darslikda «ko'knordan olinadigan giyohvand modda» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Makao — Portugallar nazoratidagi Xitoy bandargohi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1842-yilda Buyuk Britaniyaga o'tgan orol» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Gonkong",
+        "Afyun",
+        "Taypinlar",
+        "Nankin"
+      ],
+      "answer": 0,
+      "explain": "Gonkong — 1842-yilda Buyuk Britaniyaga o'tgan orol.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1842-yilda Buyuk Britaniyaga o'tgan orol» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Gonkong",
+        "gonkong",
+        "GONKONG"
+      ],
+      "explain": "Gonkong — 1842-yilda Buyuk Britaniyaga o'tgan orol.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Gonkong» tayanch atamasi/nomi «1842-yilda Buyuk Britaniyaga o'tgan orol» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Gonkong — 1842-yilda Buyuk Britaniyaga o'tgan orol.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Gonkong» atamasi/nomi darslikda «ko'knordan olinadigan giyohvand modda» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Gonkong — 1842-yilda Buyuk Britaniyaga o'tgan orol.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «1839-yilda afyunni musodara qilgan hokim» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Afyun",
+        "Lin Zesyuy",
+        "Taypinlar",
+        "Nankin"
+      ],
+      "answer": 1,
+      "explain": "Lin Zesyuy — 1839-yilda afyunni musodara qilgan hokim.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Lin Zesyuy» tayanch atamasi/nomi «1839-yilda afyunni musodara qilgan hokim» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Lin Zesyuy — 1839-yilda afyunni musodara qilgan hokim.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Lin Zesyuy» atamasi/nomi darslikda «ko'knordan olinadigan giyohvand modda» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Lin Zesyuy — 1839-yilda afyunni musodara qilgan hokim.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «qo'zg'olon boshlangan janubiy provinsiya» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Afyun",
+        "Taypinlar",
+        "Guandun",
+        "Nankin"
+      ],
+      "answer": 2,
+      "explain": "Guandun — qo'zg'olon boshlangan janubiy provinsiya.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «qo'zg'olon boshlangan janubiy provinsiya» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Guandun",
+        "guandun",
+        "GUANDUN"
+      ],
+      "explain": "Guandun — qo'zg'olon boshlangan janubiy provinsiya.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Guandun» tayanch atamasi/nomi «qo'zg'olon boshlangan janubiy provinsiya» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Guandun — qo'zg'olon boshlangan janubiy provinsiya.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Guandun» atamasi/nomi darslikda «ko'knordan olinadigan giyohvand modda» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Guandun — qo'zg'olon boshlangan janubiy provinsiya.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Xitoyda hukmronlik qilgan manchjur sulolasi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Afyun",
+        "Taypinlar",
+        "Nankin",
+        "Chinlar"
+      ],
+      "answer": 3,
+      "explain": "Chinlar — Xitoyda hukmronlik qilgan manchjur sulolasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Xitoyda hukmronlik qilgan manchjur sulolasi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Chinlar",
+        "chinlar",
+        "CHINLAR"
+      ],
+      "explain": "Chinlar — Xitoyda hukmronlik qilgan manchjur sulolasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Chinlar» tayanch atamasi/nomi «Xitoyda hukmronlik qilgan manchjur sulolasi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Chinlar — Xitoyda hukmronlik qilgan manchjur sulolasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Chinlar» atamasi/nomi darslikda «ko'knordan olinadigan giyohvand modda» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Chinlar — Xitoyda hukmronlik qilgan manchjur sulolasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «XIX asr Xitoy rassomi Un» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Szishan",
+        "Afyun",
+        "Taypinlar",
+        "Nankin"
+      ],
+      "answer": 0,
+      "explain": "Szishan — XIX asr Xitoy rassomi Un.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «XIX asr Xitoy rassomi Un» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Szishan",
+        "szishan",
+        "SZISHAN"
+      ],
+      "explain": "Szishan — XIX asr Xitoy rassomi Un.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Szishan» tayanch atamasi/nomi «XIX asr Xitoy rassomi Un» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Szishan — XIX asr Xitoy rassomi Un.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "27-mavzu (Xitoy: afyun va taypinlar): «Szishan» atamasi/nomi darslikda «ko'knordan olinadigan giyohvand modda» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Szishan — XIX asr Xitoy rassomi Un.",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "AFYUN",
+      "Ko'knordan olinadigan giyohvand modda"
+    ],
+    [
+      "TAYPINLAR",
+      "1850–1864-yillardagi dehqon qo'zg'olonchilari"
+    ],
+    [
+      "NANKIN",
+      "Taypin tyango davlatining poytaxti"
+    ],
+    [
+      "GUANCHJOU",
+      "Yevropaliklar savdo qilgan janubiy port"
+    ],
+    [
+      "MAKAO",
+      "Portugallar nazoratidagi Xitoy bandargohi"
+    ],
+    [
+      "GONKONG",
+      "1842-yilda Buyuk Britaniyaga o'tgan orol"
+    ],
+    [
+      "LINSZESYUY",
+      "1839-yilda afyunni musodara qilgan hokim"
+    ],
+    [
+      "GUANDUN",
+      "Qo'zg'olon boshlangan janubiy provinsiya"
+    ],
+    [
+      "CHINLAR",
+      "Xitoyda hukmronlik qilgan manchjur sulolasi"
+    ],
+    [
+      "SZISHAN",
+      "XIX asr Xitoy rassomi Un ..."
+    ],
+    [
+      "1834-yil",
+      "Ost Indiya monopoliyasining tugatilishi"
+    ],
+    [
+      "1839-yil Kanton",
+      "Lin Szesyuy afyunni «hibs»ga oldi"
+    ],
+    [
+      "1840–1842-yillar",
+      "Birinchi afyun urushi va Gonkong yo'qotilishi"
+    ],
+    [
+      "1850–1864-yillar",
+      "Xun Syusyuanning Taypinlar qo'zg'oloni"
+    ],
+    [
+      "«Taypin tyango»",
+      "«Buyuk huzur-halovat samo davlati»"
+    ],
+    [
+      "400 million",
+      "XIX asr o'rtalaridagi Xitoy aholisi"
+    ],
+    [
+      "1864-yil Nankin",
+      "Taypinlar davlatining mag'lubiyati"
+    ],
+    [
+      "Soyalar teatri",
+      "1700 yildan beri mavjud Xitoy san'ati"
+    ],
+    [
+      "Birinchi afyun urushi",
+      "1839/1840–1842-yillarda Buyuk Britaniya Xitoy portlarini majburan oc"
+    ],
+    [
+      "Taypin tyango",
+      "Xun Syusyuan tuzgan «Buyuk huzur-halovat samo davlati» (1850–1864-yi"
+    ],
+    [
+      "Uzun sochlilar",
+      "Manchjurlarga itoat ramzi bo'lgan kokilni kesib sochlarini erkin qo'"
+    ],
+    [
+      "Lin Szesyuy",
+      "1839-yilda Kantonda ingliz savdogarlarining afyun zahiralarini musod"
+    ],
+    [
+      "Xun Syusyuan",
+      "1850–1864-yillarda «Taypin tyango» («Buyuk huzur-halovat samo davlat"
+    ],
+    [
+      "Un Szishan",
+      "XIX asrda Xitoy tasviriy san'atida o'ziga xos manzara va gul tasvirl"
+    ],
+    [
+      "1839-yil",
+      "Kanton hokimi Lin Szesyuy inglizlarning qoradori (afyun) yuklarini m"
+    ],
+    [
+      "1840-yil",
+      "Buyuk Britaniya harbiy kemalari Xitoyga hujum qilib Birinchi afyun u"
+    ],
+    [
+      "1842-yil",
+      "Birinchi afyun urushi Xitoyning mag'lubiyati bilan tugab, Gonkong Br"
+    ],
+    [
+      "1850-yil",
+      "Guandunlik o'qituvchi Xun Syusyuan boshchiligida qudratli Taypinlar"
+    ],
+    [
+      "1864-yil",
+      "Chin qo'shinlari G'arb yordamida Nankinni egallab, 14 yillik Taypinl"
+    ]
+  ]
+}

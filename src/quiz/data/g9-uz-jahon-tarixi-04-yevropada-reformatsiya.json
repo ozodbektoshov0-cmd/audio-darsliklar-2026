@@ -1,0 +1,2906 @@
+{
+  "id": "g9-uz-jahon-tarixi-04-yevropada-reformatsiya",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "4-mavzu. Yevropada Reformatsiya: Yangi davr qadriyatlarining shakllanishi",
+  "title": "4-mavzu. Yevropada Reformatsiya: Yangi davr qadriyatlarining shakllanishi",
+  "source": "Jahon tarixi 9-sinf (2024), 4-mavzu, 20–24-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): qaysi yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi?",
+      "options": [
+        "1524-yil",
+        "1526-yil",
+        "1529-yil",
+        "1517-yil"
+      ],
+      "answer": 3,
+      "explain": "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya) mavzusiga ko'ra 1517-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi",
+        "Shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi"
+      ],
+      "answer": 0,
+      "explain": "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): ____-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi. (Yilni kiriting)",
+      "answer": [
+        "1517",
+        "1517-yil",
+        "1517-yilda"
+      ],
+      "explain": "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 1,
+      "explain": "1517-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi.",
+      "answer": true,
+      "explain": "To'g'ri. 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1524-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1524-yilda emas, 1517-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik xronologiyasiga ko'ra 1526-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): qaysi yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi?",
+      "options": [
+        "1517-yil",
+        "1526-yil",
+        "1524-yil",
+        "1529-yil"
+      ],
+      "answer": 2,
+      "explain": "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya) mavzusiga ko'ra 1524-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi",
+        "Shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi",
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi"
+      ],
+      "answer": 3,
+      "explain": "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): ____-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1524",
+        "1524-yil",
+        "1524-yilda"
+      ],
+      "explain": "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVI asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 0,
+      "explain": "1524-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1517-yilda emas, 1524-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik xronologiyasiga ko'ra 1526-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): qaysi yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi?",
+      "options": [
+        "1517-yil",
+        "1526-yil",
+        "1524-yil",
+        "1529-yil"
+      ],
+      "answer": 1,
+      "explain": "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya) mavzusiga ko'ra 1526-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi",
+        "Shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi"
+      ],
+      "answer": 2,
+      "explain": "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): ____-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi. (Yilni kiriting)",
+      "answer": [
+        "1526",
+        "1526-yil",
+        "1526-yilda"
+      ],
+      "explain": "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 3,
+      "explain": "1526-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1517-yilda emas, 1526-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik xronologiyasiga ko'ra 1524-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): qaysi yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi?",
+      "options": [
+        "1529-yil",
+        "1517-yil",
+        "1524-yil",
+        "1526-yil"
+      ],
+      "answer": 0,
+      "explain": "1529-yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya) mavzusiga ko'ra 1529-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi",
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 1,
+      "explain": "1529-yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): ____-yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi. (Yilni kiriting)",
+      "answer": [
+        "1529",
+        "1529-yil",
+        "1529-yilda"
+      ],
+      "explain": "1529-yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1529-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1529-yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1529-yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1517-yilda emas, 1529-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik xronologiyasiga ko'ra 1524-yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1529-yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): qaysi yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi?",
+      "options": [
+        "1517-yil",
+        "1524-yil",
+        "1526-yil",
+        "1540-yil"
+      ],
+      "answer": 3,
+      "explain": "1540-yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya) mavzusiga ko'ra 1540-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi",
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 0,
+      "explain": "1540-yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): ____-yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi. (Yilni kiriting)",
+      "answer": [
+        "1540",
+        "1540-yil",
+        "1540-yilda"
+      ],
+      "explain": "1540-yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 1,
+      "explain": "1540-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1540-yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1540-yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1517-yilda emas, 1540-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik xronologiyasiga ko'ra 1524-yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1540-yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): qaysi yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi?",
+      "options": [
+        "1517-yil",
+        "1524-yil",
+        "1565-yil",
+        "1526-yil"
+      ],
+      "answer": 2,
+      "explain": "1565-yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya) mavzusiga ko'ra 1565-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi",
+        "Niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi"
+      ],
+      "answer": 3,
+      "explain": "1565-yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): ____-yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1565",
+        "1565-yil",
+        "1565-yilda"
+      ],
+      "explain": "1565-yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVI asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 0,
+      "explain": "1565-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1565-yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1565-yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1517-yilda emas, 1565-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik xronologiyasiga ko'ra 1524-yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1565-yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): qaysi yilda «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi?",
+      "options": [
+        "1517-yil",
+        "1572-yil",
+        "1524-yil",
+        "1526-yil"
+      ],
+      "answer": 1,
+      "explain": "1572-yilda «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya) mavzusiga ko'ra 1572-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "«gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 2,
+      "explain": "1572-yilda «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): ____-yilda «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi. (Yilni kiriting)",
+      "answer": [
+        "1572",
+        "1572-yil",
+        "1572-yilda"
+      ],
+      "explain": "1572-yilda «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): ««gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 3,
+      "explain": "1572-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1572-yilda «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1572-yilda «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1517-yilda emas, 1572-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik xronologiyasiga ko'ra 1524-yilda «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1572-yilda «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): qaysi yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi?",
+      "options": [
+        "1579-yil",
+        "1517-yil",
+        "1524-yil",
+        "1526-yil"
+      ],
+      "answer": 0,
+      "explain": "1579-yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya) mavzusiga ko'ra 1579-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi",
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 1,
+      "explain": "1579-yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): ____-yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi. (Yilni kiriting)",
+      "answer": [
+        "1579",
+        "1579-yil",
+        "1579-yilda"
+      ],
+      "explain": "1579-yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1579-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1579-yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1579-yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1517-yilda emas, 1579-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik xronologiyasiga ko'ra 1524-yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1579-yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): qaysi yilda Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi?",
+      "options": [
+        "1517-yil",
+        "1524-yil",
+        "1526-yil",
+        "1609-yil"
+      ],
+      "answer": 3,
+      "explain": "1609-yilda Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya) mavzusiga ko'ra 1609-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi",
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 0,
+      "explain": "1609-yilda Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): ____-yilda Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi. (Yilni kiriting)",
+      "answer": [
+        "1609",
+        "1609-yil",
+        "1609-yilda"
+      ],
+      "explain": "1609-yilda Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1609-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1609-yilda Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1609-yilda Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1517-yilda emas, 1609-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik xronologiyasiga ko'ra 1524-yilda Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1609-yilda Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Martin Lyuter Vittenberg cherkov...» hamda «Shpeyer reyxstagida lyuteranlar...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi",
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi"
+      ],
+      "answer": 2,
+      "explain": "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Martin Lyuter Vittenberg cherkov...» hamda «Shpeyer reyxstagida lyuteranlar...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi",
+        "Shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi"
+      ],
+      "answer": 3,
+      "explain": "1529-yilda shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Germaniyadagi Buyuk dehqonlar qo...» hamda «Niderlandiyada qahraton qish va...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi",
+        "Shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi",
+        "Ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi",
+        "Niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi"
+      ],
+      "answer": 0,
+      "explain": "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Germaniyadagi Buyuk dehqonlar qo...» hamda «Niderlandiyada qahraton qish va...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi",
+        "Niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi",
+        "Shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi",
+        "Ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi"
+      ],
+      "answer": 1,
+      "explain": "1565-yilda niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Ignatiy Loyola kontrreformatsiya...» hamda «Niderlandiyaning shimoliy viloya...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi",
+        "«gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi",
+        "Ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi",
+        "Niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi"
+      ],
+      "answer": 2,
+      "explain": "1540-yilda ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Ignatiy Loyola kontrreformatsiya...» hamda «Niderlandiyaning shimoliy viloya...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi",
+        "Niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi",
+        "«gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi",
+        "Niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi"
+      ],
+      "answer": 3,
+      "explain": "1579-yilda niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi voqeasi germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1517-yil 1524-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi voqeasi martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi, 1524-yilda esa germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi voqeasi germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1517-yil 1526-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi voqeasi martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi, 1526-yilda esa germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi voqeasi shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1517-yil 1529-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi voqeasi martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi, 1529-yilda esa shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi voqeasi ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1517-yil 1540-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi voqeasi martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi, 1540-yilda esa ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi voqeasi niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1517-yil 1565-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi voqeasi martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi, 1565-yilda esa niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi voqeasi «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1517-yil 1572-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi voqeasi martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi, 1572-yilda esa «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi voqeasi niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1517-yil 1579-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi voqeasi martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi, 1579-yilda esa niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi voqeasi Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1517-yil 1609-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi voqeasi martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi, 1609-yilda esa Ispaniya Birlashgan provinsiyalar (Gollandiya Respublikasi) mustaqilligini tan olishga majbur bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi voqeasi germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1524-yil 1526-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi voqeasi germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi, 1526-yilda esa germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi voqeasi shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1524-yil 1529-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi voqeasi germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi, 1529-yilda esa shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» nomi paydo bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi voqeasi ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1524-yil 1540-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi voqeasi germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi, 1540-yilda esa ignatiy Loyola kontrreformatsiyaning tayanchi bo'lgan «Iso jamiyati» (iyezuitlar ordeni)ga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi voqeasi niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1524-yil 1565-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi voqeasi germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi, 1565-yilda esa niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchilik boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi voqeasi «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1524-yil 1572-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi voqeasi germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi, 1572-yilda esa «gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini boshlab yuborishdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): xronologiyaga ko'ra germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi voqeasi niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1524-yil 1579-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy ketma-ketlikka ko'ra niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi voqeasi germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi, 1579-yilda esa niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mustaqil ittifoq tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Martin Lyuter",
+        "Tomas Myunser",
+        "Jan Kalvin",
+        "Ignatiy Loyola"
+      ],
+      "answer": 0,
+      "explain": "Martin Lyuter 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Martin Lyuterning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari",
+        "1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi",
+        "Jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o'tkazgan fransuz",
+        "1540-yilda Rim Papasiga sodiq «Iso jamiyati» (iyezuitlar) ordeniga asos solgan ispan"
+      ],
+      "answer": 1,
+      "explain": "Martin Lyuter 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Martin Lyuter"
+      ],
+      "explain": "Martin Lyuter 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Martin Lyuter 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi.",
+      "answer": true,
+      "explain": "To'g'ri. Martin Lyuter 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Martin Lyuter — germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari.",
+      "answer": false,
+      "explain": "Noto'g'ri. Martin Lyuter 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikda Martin Lyuter «jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o'tkazgan fransuz» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Martin Lyuter 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi».",
+      "options": [
+        "Tomas Myunser",
+        "Jan Kalvin",
+        "Martin Lyuter",
+        "Ignatiy Loyola"
+      ],
+      "answer": 2,
+      "explain": "Martin Lyuter 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «____ 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Martin Lyuter"
+      ],
+      "explain": "Martin Lyuter 33 yoshida indulgensiyalar savdosini qoralab Reformatsiyaga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Martin Lyuter",
+        "Jan Kalvin",
+        "Ignatiy Loyola",
+        "Tomas Myunser"
+      ],
+      "answer": 3,
+      "explain": "Tomas Myunser dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Tomas Myunserning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari",
+        "1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi",
+        "Jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o'tkazgan fransuz",
+        "1540-yilda Rim Papasiga sodiq «Iso jamiyati» (iyezuitlar) ordeniga asos solgan ispan"
+      ],
+      "answer": 0,
+      "explain": "Tomas Myunser dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Tomas Myunser"
+      ],
+      "explain": "Tomas Myunser dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Tomas Myunser dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi.",
+      "answer": true,
+      "explain": "To'g'ri. Tomas Myunser dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Tomas Myunser — 1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Tomas Myunser dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikda Tomas Myunser «jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o'tkazgan fransuz» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tomas Myunser dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi».",
+      "options": [
+        "Martin Lyuter",
+        "Tomas Myunser",
+        "Jan Kalvin",
+        "Ignatiy Loyola"
+      ],
+      "answer": 1,
+      "explain": "Tomas Myunser dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «____ dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Tomas Myunser"
+      ],
+      "explain": "Tomas Myunser dehqonlar urushiga boshchilik qilib, qo'zg'olon mag'lubiyatidan so'ng qatl etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o'tkazgan fransuz» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Martin Lyuter",
+        "Tomas Myunser",
+        "Jan Kalvin",
+        "Ignatiy Loyola"
+      ],
+      "answer": 2,
+      "explain": "Jan Kalvin «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Jan Kalvinning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi",
+        "Germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari",
+        "1540-yilda Rim Papasiga sodiq «Iso jamiyati» (iyezuitlar) ordeniga asos solgan ispan",
+        "Jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o'tkazgan fransuz"
+      ],
+      "answer": 3,
+      "explain": "Jan Kalvin «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o'tkazgan fransuz bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Jan Kalvin"
+      ],
+      "explain": "Jan Kalvin «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Jan Kalvin «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi.",
+      "answer": true,
+      "explain": "To'g'ri. Jan Kalvin «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Jan Kalvin — 1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Jan Kalvin «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikda Jan Kalvin «germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Jan Kalvin «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi».",
+      "options": [
+        "Jan Kalvin",
+        "Martin Lyuter",
+        "Tomas Myunser",
+        "Ignatiy Loyola"
+      ],
+      "answer": 0,
+      "explain": "Jan Kalvin «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «____ «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Jan Kalvin"
+      ],
+      "explain": "Jan Kalvin «Duo o'qi va ishla!» shiori orqali tadbirkorlik va individualizm qadriyatlarini mustahkamladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «1540-yilda Rim Papasiga sodiq «Iso jamiyati» (iyezuitlar) ordeniga asos solgan ispan» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Martin Lyuter",
+        "Ignatiy Loyola",
+        "Tomas Myunser",
+        "Jan Kalvin"
+      ],
+      "answer": 1,
+      "explain": "Ignatiy Loyola asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Ignatiy Loyolaning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi",
+        "Germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari",
+        "1540-yilda Rim Papasiga sodiq «Iso jamiyati» (iyezuitlar) ordeniga asos solgan ispan",
+        "Jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o'tkazgan fransuz"
+      ],
+      "answer": 2,
+      "explain": "Ignatiy Loyola asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1540-yilda Rim Papasiga sodiq «Iso jamiyati» (iyezuitlar) ordeniga asos solgan ispan bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Ignatiy Loyola"
+      ],
+      "explain": "Ignatiy Loyola asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Ignatiy Loyola asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. Ignatiy Loyola asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Ignatiy Loyola — 1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ignatiy Loyola asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikda Ignatiy Loyola «germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Ignatiy Loyola asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi».",
+      "options": [
+        "Martin Lyuter",
+        "Tomas Myunser",
+        "Jan Kalvin",
+        "Ignatiy Loyola"
+      ],
+      "answer": 3,
+      "explain": "Ignatiy Loyola asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «____ asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Ignatiy Loyola"
+      ],
+      "explain": "Ignatiy Loyola asos solgan iyezuitlar ordeni kontrreformatsiyaning asosiy quroli bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «niderlandiyaga ispan inkvizitsiyasini joriy etib, qattiq zulm o'tkazgan Ispaniya qiroli» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Filipp II",
+        "Martin Lyuter",
+        "Tomas Myunser",
+        "Jan Kalvin"
+      ],
+      "answer": 0,
+      "explain": "Filipp II ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Filipp IIning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi",
+        "Niderlandiyaga ispan inkvizitsiyasini joriy etib, qattiq zulm o'tkazgan Ispaniya qiroli",
+        "Germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari",
+        "Jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o'tkazgan fransuz"
+      ],
+      "answer": 1,
+      "explain": "Filipp II ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): niderlandiyaga ispan inkvizitsiyasini joriy etib, qattiq zulm o'tkazgan Ispaniya qiroli bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Filipp II"
+      ],
+      "explain": "Filipp II ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Filipp II ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. Filipp II ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Filipp II — 1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Filipp II ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikda Filipp II «germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Filipp II ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi».",
+      "options": [
+        "Martin Lyuter",
+        "Tomas Myunser",
+        "Filipp II",
+        "Jan Kalvin"
+      ],
+      "answer": 2,
+      "explain": "Filipp II ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «____ ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Filipp II"
+      ],
+      "explain": "Filipp II ning soliqlari va diniy ta'qiblari Niderland burjua inqilobiga sabab bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Niderlandiya ozodlik kurashiga rahbarlik qilgan va Utrext uniyasini boshqargan knyaz» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Martin Lyuter",
+        "Tomas Myunser",
+        "Jan Kalvin",
+        "Villem van Oranye"
+      ],
+      "answer": 3,
+      "explain": "Shahzoda Villem van Oranye Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Villem van Oranyening tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Niderlandiya ozodlik kurashiga rahbarlik qilgan va Utrext uniyasini boshqargan knyaz",
+        "1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi",
+        "Germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari",
+        "Jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o'tkazgan fransuz"
+      ],
+      "answer": 0,
+      "explain": "Shahzoda Villem van Oranye Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): Niderlandiya ozodlik kurashiga rahbarlik qilgan va Utrext uniyasini boshqargan knyaz bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Villem van Oranye"
+      ],
+      "explain": "Shahzoda Villem van Oranye Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Shahzoda Villem van Oranye Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi.",
+      "answer": true,
+      "explain": "To'g'ri. Shahzoda Villem van Oranye Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Villem van Oranye — 1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini boshlagan ilohiyotchi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Shahzoda Villem van Oranye Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikda Villem van Oranye «germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbari» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Shahzoda Villem van Oranye Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Shahzoda ____ Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi».",
+      "options": [
+        "Martin Lyuter",
+        "Villem van Oranye",
+        "Tomas Myunser",
+        "Jan Kalvin"
+      ],
+      "answer": 1,
+      "explain": "Shahzoda Villem van Oranye Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Shahzoda ____ Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Villem van Oranye"
+      ],
+      "explain": "Shahzoda Villem van Oranye Niderlandiyaning ispan zulmidan ozod bo'lishida hal qiluvchi rol o'ynadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Indulgensiya",
+        "Protestantizm",
+        "Reformatsiya",
+        "Kontrreformatsiya"
+      ],
+      "answer": 2,
+      "explain": "Reformatsiya — XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Reformatsiya» atamasi nimani anglatadi?",
+      "options": [
+        "Katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq",
+        "Katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi",
+        "Katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari",
+        "XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat"
+      ],
+      "answer": 3,
+      "explain": "Reformatsiya — XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Reformatsiya",
+        "reformatsiya"
+      ],
+      "explain": "Reformatsiya — XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Reformatsiya» tushunchasi «XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Reformatsiya — XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Reformatsiya» deganda katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Reformatsiya — XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy lug'atga ko'ra «Reformatsiya» — «katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Reformatsiya — XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Indulgensiya",
+        "Reformatsiya",
+        "Protestantizm",
+        "Kontrreformatsiya"
+      ],
+      "answer": 0,
+      "explain": "Indulgensiya — katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Indulgensiya» atamasi nimani anglatadi?",
+      "options": [
+        "XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat",
+        "Katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq",
+        "Katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi",
+        "Katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari"
+      ],
+      "answer": 1,
+      "explain": "Indulgensiya — katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Indulgensiya",
+        "indulgensiya"
+      ],
+      "explain": "Indulgensiya — katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Indulgensiya» tushunchasi «katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Indulgensiya — katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Indulgensiya» deganda XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Indulgensiya — katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy lug'atga ko'ra «Indulgensiya» — «katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Indulgensiya — katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Reformatsiya",
+        "Indulgensiya",
+        "Protestantizm",
+        "Kontrreformatsiya"
+      ],
+      "answer": 2,
+      "explain": "Protestantizm — katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Protestantizm» atamasi nimani anglatadi?",
+      "options": [
+        "XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat",
+        "Katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq",
+        "Katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari",
+        "Katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi"
+      ],
+      "answer": 3,
+      "explain": "Protestantizm — katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Protestantizm",
+        "protestantizm"
+      ],
+      "explain": "Protestantizm — katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Protestantizm» tushunchasi «katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Protestantizm — katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Protestantizm» deganda XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Protestantizm — katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy lug'atga ko'ra «Protestantizm» — «katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Protestantizm — katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Kontrreformatsiya",
+        "Reformatsiya",
+        "Indulgensiya",
+        "Protestantizm"
+      ],
+      "answer": 0,
+      "explain": "Kontrreformatsiya — katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Kontrreformatsiya» atamasi nimani anglatadi?",
+      "options": [
+        "XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat",
+        "Katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari",
+        "Katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq",
+        "Katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi"
+      ],
+      "answer": 1,
+      "explain": "Kontrreformatsiya — katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Kontrreformatsiya",
+        "kontrreformatsiya"
+      ],
+      "explain": "Kontrreformatsiya — katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Kontrreformatsiya» tushunchasi «katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Kontrreformatsiya — katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Kontrreformatsiya» deganda XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kontrreformatsiya — katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy lug'atga ko'ra «Kontrreformatsiya» — «katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kontrreformatsiya — katolik cherkovining Reformatsiya harakatini to'xtatish va o'z mavqeini tiklashga qaratilgan chora-tadbirlari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «ignatiy Loyola tomonidan 1540-yilda tuzilgan va Papaga so'zsiz bo'ysunuvchi «Iso jamiyati» a'zolari» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Reformatsiya",
+        "Indulgensiya",
+        "Iyezuitlar",
+        "Protestantizm"
+      ],
+      "answer": 2,
+      "explain": "Iyezuitlar — ignatiy Loyola tomonidan 1540-yilda tuzilgan va Papaga so'zsiz bo'ysunuvchi «Iso jamiyati» a'zolari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Iyezuitlar» atamasi nimani anglatadi?",
+      "options": [
+        "XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat",
+        "Katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq",
+        "Katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi",
+        "Ignatiy Loyola tomonidan 1540-yilda tuzilgan va Papaga so'zsiz bo'ysunuvchi «Iso jamiyati» a'zolari"
+      ],
+      "answer": 3,
+      "explain": "Iyezuitlar — ignatiy Loyola tomonidan 1540-yilda tuzilgan va Papaga so'zsiz bo'ysunuvchi «Iso jamiyati» a'zolari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «ignatiy Loyola tomonidan 1540-yilda tuzilgan va Papaga so'zsiz bo'ysunuvchi «Iso jamiyati» a'zolari» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Iyezuitlar",
+        "iyezuitlar"
+      ],
+      "explain": "Iyezuitlar — ignatiy Loyola tomonidan 1540-yilda tuzilgan va Papaga so'zsiz bo'ysunuvchi «Iso jamiyati» a'zolari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Iyezuitlar» tushunchasi «ignatiy Loyola tomonidan 1540-yilda tuzilgan va Papaga so'zsiz bo'ysunuvchi «Iso jamiyati» a'zolari» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Iyezuitlar — ignatiy Loyola tomonidan 1540-yilda tuzilgan va Papaga so'zsiz bo'ysunuvchi «Iso jamiyati» a'zolari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Iyezuitlar» deganda XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Iyezuitlar — ignatiy Loyola tomonidan 1540-yilda tuzilgan va Papaga so'zsiz bo'ysunuvchi «Iso jamiyati» a'zolari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy lug'atga ko'ra «Iyezuitlar» — «katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Iyezuitlar — ignatiy Loyola tomonidan 1540-yilda tuzilgan va Papaga so'zsiz bo'ysunuvchi «Iso jamiyati» a'zolari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Niderlandiya inqilobida ispanlarga qarshi kurashgan vatanparvarlar (so'zma-so'z «gadolar»)» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Gyozlar",
+        "Reformatsiya",
+        "Indulgensiya",
+        "Protestantizm"
+      ],
+      "answer": 0,
+      "explain": "Gyozlar — Niderlandiya inqilobida ispanlarga qarshi kurashgan vatanparvarlar (so'zma-so'z «gadolar»).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Gyozlar» atamasi nimani anglatadi?",
+      "options": [
+        "XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat",
+        "Niderlandiya inqilobida ispanlarga qarshi kurashgan vatanparvarlar (so'zma-so'z «gadolar»)",
+        "Katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq",
+        "Katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi"
+      ],
+      "answer": 1,
+      "explain": "Gyozlar — Niderlandiya inqilobida ispanlarga qarshi kurashgan vatanparvarlar (so'zma-so'z «gadolar»).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Niderlandiya inqilobida ispanlarga qarshi kurashgan vatanparvarlar (so'zma-so'z «gadolar»)» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Gyozlar",
+        "gyozlar"
+      ],
+      "explain": "Gyozlar — Niderlandiya inqilobida ispanlarga qarshi kurashgan vatanparvarlar (so'zma-so'z «gadolar»).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Gyozlar» tushunchasi «Niderlandiya inqilobida ispanlarga qarshi kurashgan vatanparvarlar (so'zma-so'z «gadolar»)» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Gyozlar — Niderlandiya inqilobida ispanlarga qarshi kurashgan vatanparvarlar (so'zma-so'z «gadolar»).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Gyozlar» deganda XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Gyozlar — Niderlandiya inqilobida ispanlarga qarshi kurashgan vatanparvarlar (so'zma-so'z «gadolar»).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy lug'atga ko'ra «Gyozlar» — «katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Gyozlar — Niderlandiya inqilobida ispanlarga qarshi kurashgan vatanparvarlar (so'zma-so'z «gadolar»).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsiy mas'uliyatini ulug'lovchi tamoyil» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Reformatsiya",
+        "Indulgensiya",
+        "Individualizm",
+        "Protestantizm"
+      ],
+      "answer": 2,
+      "explain": "Individualizm — shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsiy mas'uliyatini ulug'lovchi tamoyil.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Individualizm» atamasi nimani anglatadi?",
+      "options": [
+        "XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat",
+        "Katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq",
+        "Katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarining umumiy nomi",
+        "Shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsiy mas'uliyatini ulug'lovchi tamoyil"
+      ],
+      "answer": 3,
+      "explain": "Individualizm — shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsiy mas'uliyatini ulug'lovchi tamoyil.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): «shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsiy mas'uliyatini ulug'lovchi tamoyil» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Individualizm",
+        "individualizm"
+      ],
+      "explain": "Individualizm — shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsiy mas'uliyatini ulug'lovchi tamoyil.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Individualizm» tushunchasi «shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsiy mas'uliyatini ulug'lovchi tamoyil» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Individualizm — shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsiy mas'uliyatini ulug'lovchi tamoyil.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Individualizm» deganda XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uchun boshlangan ijtimoiy-diniy harakat tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Individualizm — shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsiy mas'uliyatini ulug'lovchi tamoyil.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): tarixiy lug'atga ko'ra «Individualizm» — «katolik cherkovi tomonidan gunohlarni kechirish haqida pulga sotiladigan maxsus yorliq» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Individualizm — shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsiy mas'uliyatini ulug'lovchi tamoyil.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Reformatsiyagacha Muqaddas kitob — Injil Yevropada asosan qaysi tilda o'qilgan?",
+      "options": [
+        "Lotin tilida",
+        "Ingliz tilida",
+        "Nemis tilida",
+        "Golland tilida"
+      ],
+      "answer": 0,
+      "explain": "Oddiy xalq lotin tilini bilmagani uchun ruhoniylar matnlarni o'z xohishicha talqin qilishardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Reformatsiyagacha Muqaddas kitob — Injil Yevropada asosan qaysi tilda o'qilgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "Reformatsiyadan oldin Injil faqat ruhoniylar tushunadigan lotin tilida edi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan",
+        "Martin Lyuter Vorms sudida qo'rqib barcha tezislaridan voz kechdi"
+      ],
+      "answer": 1,
+      "explain": "Oddiy xalq lotin tilini bilmagani uchun ruhoniylar matnlarni o'z xohishicha talqin qilishardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Reformatsiyagacha Muqaddas kitob — Injil Yevropada asosan qaysi tilda o'qilgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi. Aslida: Oddiy xalq lotin tilini bilmagani uchun ruhoniylar matnlarni o'z xohishicha talqin qilishardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Reformatsiyadan oldin Injil faqat ruhoniylar tushunadigan lotin tilida edi.",
+      "answer": true,
+      "explain": "To'g'ri. Oddiy xalq lotin tilini bilmagani uchun ruhoniylar matnlarni o'z xohishicha talqin qilishardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Oddiy xalq lotin tilini bilmagani uchun ruhoniylar matnlarni o'z xohishicha talqin qilishardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik izohiga ko'ra oddiy xalq lotin tilini bilmagani uchun ruhoniylar matnlarni o'z xohishicha talqin qilishardi.",
+      "answer": true,
+      "explain": "To'g'ri. Oddiy xalq lotin tilini bilmagani uchun ruhoniylar matnlarni o'z xohishicha talqin qilishardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Martin Lyuterning «95 tezislar»i qaysi shahar cherkovi darvozasiga ilib qo'yilgan?",
+      "options": [
+        "Jeneva shahri",
+        "Vena shahri",
+        "Madrid shahri",
+        "Vittenberg shahri"
+      ],
+      "answer": 3,
+      "explain": "Vittenberg universiteti professori Lyuter 1517-yil 31-oktyabrda indulgensiyaga qarshi chiqdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Martin Lyuterning «95 tezislar»i qaysi shahar cherkovi darvozasiga ilib qo'yilgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1517-yilda Martin Lyuter Vittenberg cherkovi darvozasiga «95 tezislar»ini ilib qo'ydi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan",
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "Martin Lyuter Vorms sudida qo'rqib barcha tezislaridan voz kechdi"
+      ],
+      "answer": 0,
+      "explain": "Vittenberg universiteti professori Lyuter 1517-yil 31-oktyabrda indulgensiyaga qarshi chiqdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Martin Lyuterning «95 tezislar»i qaysi shahar cherkovi darvozasiga ilib qo'yilgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan",
+        "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan. Aslida: Vittenberg universiteti professori Lyuter 1517-yil 31-oktyabrda indulgensiyaga qarshi chiqdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda Martin Lyuter Vittenberg cherkovi darvozasiga «95 tezislar»ini ilib qo'ydi.",
+      "answer": true,
+      "explain": "To'g'ri. Vittenberg universiteti professori Lyuter 1517-yil 31-oktyabrda indulgensiyaga qarshi chiqdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Vittenberg universiteti professori Lyuter 1517-yil 31-oktyabrda indulgensiyaga qarshi chiqdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik izohiga ko'ra Vittenberg universiteti professori Lyuter 1517-yil 31-oktyabrda indulgensiyaga qarshi chiqdi.",
+      "answer": true,
+      "explain": "To'g'ri. Vittenberg universiteti professori Lyuter 1517-yil 31-oktyabrda indulgensiyaga qarshi chiqdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1517-yilda Martin Lyuter «95 tezislar»ini Germaniyaning ____ shahridagi cherkov darvozasiga osib qo'ydi. (Shaharni yozing)",
+      "answer": [
+        "Vittenberg"
+      ],
+      "explain": "Vittenberg universiteti professori Lyuter 1517-yil 31-oktyabrda indulgensiyaga qarshi chiqdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Martin Lyuterni Vorms sudida qaysi g'oya uchun jazolashmoqchi bo'lishgan, ammo u o'z so'zidan qaytmagan?",
+      "options": [
+        "Soliquni ikki barobar oshirish g'oyasi",
+        "Amerikani Ispaniyaga topshirish g'oyasi",
+        "Cherkov vositachiligisiz ham inson iymon orqali Xudoga yaqinlashishi mumkinligi",
+        "Injilni faqat lotin tilida qoldirish g'oyasi"
+      ],
+      "answer": 2,
+      "explain": "Lyuter «Boshqa yo'lim yo'q» deb Vormsda qat'iy turdi va Saksoniya knyazi uni himoya qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Martin Lyuterni Vorms sudida qaysi g'oya uchun jazolashmoqchi bo'lishgan, ammo u o'z so'zidan qaytmagan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Martin Lyuter Vorms sudida qo'rqib barcha tezislaridan voz kechdi",
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan",
+        "Vorms sudida Lyuter o'z qarashlaridan qaytishdan bosh tortib, Reformatsiya tarafdorlari ko'payishiga turtki berdi"
+      ],
+      "answer": 3,
+      "explain": "Lyuter «Boshqa yo'lim yo'q» deb Vormsda qat'iy turdi va Saksoniya knyazi uni himoya qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Martin Lyuterni Vorms sudida qaysi g'oya uchun jazolashmoqchi bo'lishgan, ammo u o'z so'zidan qaytmagan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Martin Lyuter Vorms sudida qo'rqib barcha tezislaridan voz kechdi",
+        "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Martin Lyuter Vorms sudida qo'rqib barcha tezislaridan voz kechdi. Aslida: Lyuter «Boshqa yo'lim yo'q» deb Vormsda qat'iy turdi va Saksoniya knyazi uni himoya qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Vorms sudida Lyuter o'z qarashlaridan qaytishdan bosh tortib, Reformatsiya tarafdorlari ko'payishiga turtki berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Lyuter «Boshqa yo'lim yo'q» deb Vormsda qat'iy turdi va Saksoniya knyazi uni himoya qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Martin Lyuter Vorms sudida qo'rqib barcha tezislaridan voz kechdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Lyuter «Boshqa yo'lim yo'q» deb Vormsda qat'iy turdi va Saksoniya knyazi uni himoya qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik izohiga ko'ra Lyuter «Boshqa yo'lim yo'q» deb Vormsda qat'iy turdi va Saksoniya knyazi uni himoya qildi.",
+      "answer": true,
+      "explain": "To'g'ri. Lyuter «Boshqa yo'lim yo'q» deb Vormsda qat'iy turdi va Saksoniya knyazi uni himoya qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Germaniyadagi 1524–1526-yillar dehqonlar urushi tarixda yana qanday nom bilan yuritiladi?",
+      "options": [
+        "«Shonli inqilob»",
+        "«Xalq Reformatsiyasi»",
+        "«Utrext uniyasi»",
+        "«Kontrreformatsiya»"
+      ],
+      "answer": 1,
+      "explain": "Oddiy xalq cherkov bilan birga feodal zulmni ham tugatishni talab qilib qo'zg'olon ko'tardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Germaniyadagi 1524–1526-yillar dehqonlar urushi tarixda yana qanday nom bilan yuritiladi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Germaniyadagi Buyuk dehqonlar urushini Martin Lyuterning o'zi boshqargan",
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "Tomas Myunser boshchiligidagi 1524–1526-yillar dehqonlar urushi «Xalq Reformatsiyasi» deb ham ataladi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan"
+      ],
+      "answer": 2,
+      "explain": "Oddiy xalq cherkov bilan birga feodal zulmni ham tugatishni talab qilib qo'zg'olon ko'tardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Germaniyadagi 1524–1526-yillar dehqonlar urushi tarixda yana qanday nom bilan yuritiladi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi",
+        "Germaniyadagi Buyuk dehqonlar urushini Martin Lyuterning o'zi boshqargan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Germaniyadagi Buyuk dehqonlar urushini Martin Lyuterning o'zi boshqargan. Aslida: Oddiy xalq cherkov bilan birga feodal zulmni ham tugatishni talab qilib qo'zg'olon ko'tardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Tomas Myunser boshchiligidagi 1524–1526-yillar dehqonlar urushi «Xalq Reformatsiyasi» deb ham ataladi.",
+      "answer": true,
+      "explain": "To'g'ri. Oddiy xalq cherkov bilan birga feodal zulmni ham tugatishni talab qilib qo'zg'olon ko'tardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Germaniyadagi Buyuk dehqonlar urushini Martin Lyuterning o'zi boshqargan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Oddiy xalq cherkov bilan birga feodal zulmni ham tugatishni talab qilib qo'zg'olon ko'tardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik izohiga ko'ra oddiy xalq cherkov bilan birga feodal zulmni ham tugatishni talab qilib qo'zg'olon ko'tardi.",
+      "answer": true,
+      "explain": "To'g'ri. Oddiy xalq cherkov bilan birga feodal zulmni ham tugatishni talab qilib qo'zg'olon ko'tardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Protestantlar» atamasi dastlab qanday voqea munosabati bilan vujudga kelgan?",
+      "options": [
+        "1529-yilgi Shpeyer reyxstagi qaroriga knyaz va shaharlarning «protestatio» (norozilik) bildirishidan",
+        "Fransuz dehqonlarining soliq to'lamasligidan",
+        "Niderlandiya portlarining yopilishidan",
+        "Iyezuitlarning yangi maktab ochishidan"
+      ],
+      "answer": 0,
+      "explain": "Lyuteranlar o'z e'tiqodlarini himoya qilib rasmiy norozilik (protestatio) bildirganlaridan shunday atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): ««Protestantlar» atamasi dastlab qanday voqea munosabati bilan vujudga kelgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Protestant» so'zi dastlab Rim Papasi tarafdorlariga berilgan unvon edi",
+        "«Protestant» atamasi lotincha «protestatio» (norozilik) so'zidan kelib chiqqan",
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan"
+      ],
+      "answer": 1,
+      "explain": "Lyuteranlar o'z e'tiqodlarini himoya qilib rasmiy norozilik (protestatio) bildirganlaridan shunday atalgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): ««Protestantlar» atamasi dastlab qanday voqea munosabati bilan vujudga kelgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "«Protestant» so'zi dastlab Rim Papasi tarafdorlariga berilgan unvon edi",
+        "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: «Protestant» so'zi dastlab Rim Papasi tarafdorlariga berilgan unvon edi. Aslida: Lyuteranlar o'z e'tiqodlarini himoya qilib rasmiy norozilik (protestatio) bildirganlaridan shunday atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Protestant» atamasi lotincha «protestatio» (norozilik) so'zidan kelib chiqqan.",
+      "answer": true,
+      "explain": "To'g'ri. Lyuteranlar o'z e'tiqodlarini himoya qilib rasmiy norozilik (protestatio) bildirganlaridan shunday atalgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Protestant» so'zi dastlab Rim Papasi tarafdorlariga berilgan unvon edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Lyuteranlar o'z e'tiqodlarini himoya qilib rasmiy norozilik (protestatio) bildirganlaridan shunday atalgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik izohiga ko'ra lyuteranlar o'z e'tiqodlarini himoya qilib rasmiy norozilik (protestatio) bildirganlaridan shunday atalgan.",
+      "answer": true,
+      "explain": "To'g'ri. Lyuteranlar o'z e'tiqodlarini himoya qilib rasmiy norozilik (protestatio) bildirganlaridan shunday atalgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): Protestant atamasi lotincha «____» (norozilik) so'zidan kelib chiqqan. (Lotincha so'zni yozing)",
+      "answer": [
+        "protestatio"
+      ],
+      "explain": "Lyuteranlar o'z e'tiqodlarini himoya qilib rasmiy norozilik (protestatio) bildirganlaridan shunday atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Jan Kalvin Jeneva shahrida qanday mashhur shiorni ilgari surdi?",
+      "options": [
+        "«Davlat — bu men!»",
+        "«Urush — tinchlik manbayi!»",
+        "«Mehnatdan qoch!»",
+        "«Duo o'qi va ishla!»"
+      ],
+      "answer": 3,
+      "explain": "Kalvinizm halol mehnat va tejamkorlikni diniy burch darajasiga ko'tarib burjuaziya qadriyatiga mos keldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Jan Kalvin Jeneva shahrida qanday mashhur shiorni ilgari surdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Jan Kalvin «Duo o'qi va ishla!» shiori ostida mehnatsevarlik va tejamkorlikni targ'ib qildi",
+        "Jan Kalvin savdo va foyda olishni gunoh deb e'lon qilgan",
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan"
+      ],
+      "answer": 0,
+      "explain": "Kalvinizm halol mehnat va tejamkorlikni diniy burch darajasiga ko'tarib burjuaziya qadriyatiga mos keldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Jan Kalvin Jeneva shahrida qanday mashhur shiorni ilgari surdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Jan Kalvin savdo va foyda olishni gunoh deb e'lon qilgan",
+        "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Jan Kalvin savdo va foyda olishni gunoh deb e'lon qilgan. Aslida: Kalvinizm halol mehnat va tejamkorlikni diniy burch darajasiga ko'tarib burjuaziya qadriyatiga mos keldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Jan Kalvin «Duo o'qi va ishla!» shiori ostida mehnatsevarlik va tejamkorlikni targ'ib qildi.",
+      "answer": true,
+      "explain": "To'g'ri. Kalvinizm halol mehnat va tejamkorlikni diniy burch darajasiga ko'tarib burjuaziya qadriyatiga mos keldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Jan Kalvin savdo va foyda olishni gunoh deb e'lon qilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kalvinizm halol mehnat va tejamkorlikni diniy burch darajasiga ko'tarib burjuaziya qadriyatiga mos keldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik izohiga ko'ra kalvinizm halol mehnat va tejamkorlikni diniy burch darajasiga ko'tarib burjuaziya qadriyatiga mos keldi.",
+      "answer": true,
+      "explain": "To'g'ri. Kalvinizm halol mehnat va tejamkorlikni diniy burch darajasiga ko'tarib burjuaziya qadriyatiga mos keldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Iyezuitlar ordenida rahbariyat buyrug'iga so'zsiz itoat etishni anglatuvchi mashhur qoida qanday edi?",
+      "options": [
+        "Har bir qarorni xalq muhokamasiga qo'yish",
+        "Faqat ilmiy tajribaga ishonish",
+        "Cherkov qora desa, oqni ham qora deyish",
+        "Kitob nashrini butunlay qo'llab-quvvatlash"
+      ],
+      "answer": 2,
+      "explain": "Ignatiy Loyola tuzgan iyezuitlar ordeni qattiq intizomi va maxfiy usullari bilan ajralib turardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Iyezuitlar ordenida rahbariyat buyrug'iga so'zsiz itoat etishni anglatuvchi mashhur qoida qanday edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Iyezuitlar ordenida har bir a'zo to'liq erkin fikr va muxolifat huquqiga ega edi",
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan",
+        "Iyezuitlar ordenida temir intizom bo'lib, boshliq oqni qora desa ham bo'ysunish talab etilgan"
+      ],
+      "answer": 3,
+      "explain": "Ignatiy Loyola tuzgan iyezuitlar ordeni qattiq intizomi va maxfiy usullari bilan ajralib turardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Iyezuitlar ordenida rahbariyat buyrug'iga so'zsiz itoat etishni anglatuvchi mashhur qoida qanday edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Iyezuitlar ordenida har bir a'zo to'liq erkin fikr va muxolifat huquqiga ega edi",
+        "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Iyezuitlar ordenida har bir a'zo to'liq erkin fikr va muxolifat huquqiga ega edi. Aslida: Ignatiy Loyola tuzgan iyezuitlar ordeni qattiq intizomi va maxfiy usullari bilan ajralib turardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Iyezuitlar ordenida temir intizom bo'lib, boshliq oqni qora desa ham bo'ysunish talab etilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Ignatiy Loyola tuzgan iyezuitlar ordeni qattiq intizomi va maxfiy usullari bilan ajralib turardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Iyezuitlar ordenida har bir a'zo to'liq erkin fikr va muxolifat huquqiga ega edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ignatiy Loyola tuzgan iyezuitlar ordeni qattiq intizomi va maxfiy usullari bilan ajralib turardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik izohiga ko'ra ignatiy Loyola tuzgan iyezuitlar ordeni qattiq intizomi va maxfiy usullari bilan ajralib turardi.",
+      "answer": true,
+      "explain": "To'g'ri. Ignatiy Loyola tuzgan iyezuitlar ordeni qattiq intizomi va maxfiy usullari bilan ajralib turardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Kontrreformatsiya davrida Rim cherkovi fikr erkinligini cheklash uchun qanday usullardan foydalangan?",
+      "options": [
+        "Hamma tillarda bepul kutubxonalar ochishdan",
+        "Inkvizitsiya sudlari va «Taqiqlangan kitoblar ro'yxati»ni joriy etishdan",
+        "Barcha soliqlarni bekor qilishdan",
+        "Parlament saylovlarini o'tkazishdan"
+      ],
+      "answer": 1,
+      "explain": "Kopernik va Galiley kabi olimlarning kitoblari ham «Taqiqlangan kitoblar ro'yxati»ga tushgan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Kontrreformatsiya davrida Rim cherkovi fikr erkinligini cheklash uchun qanday usullardan foydalangan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Kontrreformatsiya davrida inkvizitsiya butunlay tugatildi",
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "Katolik cherkovi o'zgacha fikrlovchilarga qarshi inkvizitsiya va «Taqiqlangan kitoblar ro'yxati»ni ishga soldi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan"
+      ],
+      "answer": 2,
+      "explain": "Kopernik va Galiley kabi olimlarning kitoblari ham «Taqiqlangan kitoblar ro'yxati»ga tushgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Kontrreformatsiya davrida Rim cherkovi fikr erkinligini cheklash uchun qanday usullardan foydalangan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi",
+        "Kontrreformatsiya davrida inkvizitsiya butunlay tugatildi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Kontrreformatsiya davrida inkvizitsiya butunlay tugatildi. Aslida: Kopernik va Galiley kabi olimlarning kitoblari ham «Taqiqlangan kitoblar ro'yxati»ga tushgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Katolik cherkovi o'zgacha fikrlovchilarga qarshi inkvizitsiya va «Taqiqlangan kitoblar ro'yxati»ni ishga soldi.",
+      "answer": true,
+      "explain": "To'g'ri. Kopernik va Galiley kabi olimlarning kitoblari ham «Taqiqlangan kitoblar ro'yxati»ga tushgan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Kontrreformatsiya davrida inkvizitsiya butunlay tugatildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kopernik va Galiley kabi olimlarning kitoblari ham «Taqiqlangan kitoblar ro'yxati»ga tushgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik izohiga ko'ra kopernik va Galiley kabi olimlarning kitoblari ham «Taqiqlangan kitoblar ro'yxati»ga tushgan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Kopernik va Galiley kabi olimlarning kitoblari ham «Taqiqlangan kitoblar ro'yxati»ga tushgan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Niderlandiya ozodlik kurashida vatanparvarlar qanday qilib «gyozlar» («gadolar») laqabini olishgan?",
+      "options": [
+        "Ispaniya noibi maslahatchisi ularni kamsitib «gadolar» degach, kurashchilar bu nomni faxr bilan qabul qilishgan",
+        "Ular faqat kambag'allardan pul yig'ishgani uchun",
+        "Bu so'z lotincha «zodagonlar» degan ma'noni bergani uchun",
+        "Qirol Filipp II ularga shunday rasmiy unvon bergani uchun"
+      ],
+      "answer": 0,
+      "explain": "1572-yilda dengiz gyozlari Bril shahrini egallab, Niderlandiya shimolida ozodlik urushini kengaytirdilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Niderlandiya ozodlik kurashida vatanparvarlar qanday qilib «gyozlar» («gadolar») laqabini olishgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Gyozlar» Ispaniya qirolining maxsus yollanma qo'shinlari edi",
+        "Niderland vatanparvarlari ispan amaldori tomonidan masxara qilib aytilgan «gyozlar» nomini o'z bayrog'iga aylantirdilar",
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan"
+      ],
+      "answer": 1,
+      "explain": "1572-yilda dengiz gyozlari Bril shahrini egallab, Niderlandiya shimolida ozodlik urushini kengaytirdilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Niderlandiya ozodlik kurashida vatanparvarlar qanday qilib «gyozlar» («gadolar») laqabini olishgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "«Gyozlar» Ispaniya qirolining maxsus yollanma qo'shinlari edi",
+        "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: «Gyozlar» Ispaniya qirolining maxsus yollanma qo'shinlari edi. Aslida: 1572-yilda dengiz gyozlari Bril shahrini egallab, Niderlandiya shimolida ozodlik urushini kengaytirdilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Niderland vatanparvarlari ispan amaldori tomonidan masxara qilib aytilgan «gyozlar» nomini o'z bayrog'iga aylantirdilar.",
+      "answer": true,
+      "explain": "To'g'ri. 1572-yilda dengiz gyozlari Bril shahrini egallab, Niderlandiya shimolida ozodlik urushini kengaytirdilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Gyozlar» Ispaniya qirolining maxsus yollanma qo'shinlari edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1572-yilda dengiz gyozlari Bril shahrini egallab, Niderlandiya shimolida ozodlik urushini kengaytirdilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik izohiga ko'ra 1572-yilda dengiz gyozlari Bril shahrini egallab, Niderlandiya shimolida ozodlik urushini kengaytirdilar.",
+      "answer": true,
+      "explain": "To'g'ri. 1572-yilda dengiz gyozlari Bril shahrini egallab, Niderlandiya shimolida ozodlik urushini kengaytirdilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Niderlandiyada tuzilgan Birlashgan provinsiyalar (Gollandiya Respublikasi) Yevropa tarixida qanday o'rin tutadi?",
+      "options": [
+        "Qit'adagi eng yirik mutlaq monarxiyaga aylandi",
+        "Okean savdosidan butunlay chetlatildi",
+        "Ispaniya tarkibida abadiy qoldi",
+        "Yevropadagi birinchi burjua respublikasi bo'ldi"
+      ],
+      "answer": 3,
+      "explain": "1579-yilgi Utrext uniyasi mustaqil Gollandiya Respublikasining huquqiy poydevori bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Niderlandiyada tuzilgan Birlashgan provinsiyalar (Gollandiya Respublikasi) Yevropa tarixida qanday o'rin tutadi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Niderland inqilobi natijasida Yevropadagi ilk burjua davlati — Gollandiya Respublikasi vujudga keldi",
+        "Niderland inqilobi to'liq mag'lubiyat bilan tugab mamlakat mustaqil bo'lolmadi",
+        "XVI asrgacha Injil har bir xalqning ona tilida erkin nashr etilardi",
+        "Martin Lyuter «95 tezislar»ini Rim shahrida e'lon qilgan"
+      ],
+      "answer": 0,
+      "explain": "1579-yilgi Utrext uniyasi mustaqil Gollandiya Respublikasining huquqiy poydevori bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): «Niderlandiyada tuzilgan Birlashgan provinsiyalar (Gollandiya Respublikasi) Yevropa tarixida qanday o'rin tutadi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1517-yilda martin Lyuter Vittenberg cherkovi darvozasiga indulgensiyaga qarshi «95 tezislar»ini mixladi",
+        "Niderland inqilobi to'liq mag'lubiyat bilan tugab mamlakat mustaqil bo'lolmadi",
+        "1524-yilda germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyasi») boshlandi",
+        "1526-yilda germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Tomas Myunser qatl etildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Niderland inqilobi to'liq mag'lubiyat bilan tugab mamlakat mustaqil bo'lolmadi. Aslida: 1579-yilgi Utrext uniyasi mustaqil Gollandiya Respublikasining huquqiy poydevori bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Niderland inqilobi natijasida Yevropadagi ilk burjua davlati — Gollandiya Respublikasi vujudga keldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1579-yilgi Utrext uniyasi mustaqil Gollandiya Respublikasining huquqiy poydevori bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Niderland inqilobi to'liq mag'lubiyat bilan tugab mamlakat mustaqil bo'lolmadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1579-yilgi Utrext uniyasi mustaqil Gollandiya Respublikasining huquqiy poydevori bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik izohiga ko'ra 1579-yilgi Utrext uniyasi mustaqil Gollandiya Respublikasining huquqiy poydevori bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1579-yilgi Utrext uniyasi mustaqil Gollandiya Respublikasining huquqiy poydevori bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1579-yilda Niderlandiyaning shimoliy viloyatlari «____ uniyasi»ni imzolashdi. (Shahar nomini kiriting)",
+      "answer": [
+        "Utrext"
+      ],
+      "explain": "1579-yilgi Utrext uniyasi mustaqil Gollandiya Respublikasining huquqiy poydevori bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Quyidagi ishlardan qaysi biri Katolik cherkovining Kontrreformatsiya harakatiga kirmaydi?",
+      "options": [
+        "«Iso jamiyati» (iyezuitlar) ordenini tuzish",
+        "Inkvizitsiya sudlarini kuchaytirish",
+        "Injilni xalq tillariga erkin tarjima qilib tarqatish",
+        "«Taqiqlangan kitoblar ro'yxati»ni joriy etish"
+      ],
+      "answer": 2,
+      "explain": "Injilni xalq tillariga tarjima qilish Reformatsiya g'oyasi edi; cherkov esa inkvizitsiya va iyezuitlar orqali bunga qarshi kurashdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Injilni xalq tillariga tarjima qilish Reformatsiya g'oyasi edi; cherkov esa inkvizitsiya va iyezuitlar orqali bunga qarshi kurashdi.",
+      "answer": true,
+      "explain": "To'g'ri. Injilni xalq tillariga tarjima qilish Reformatsiya g'oyasi edi; cherkov esa inkvizitsiya va iyezuitlar orqali bunga qarshi kurashdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Niderlandiya burjua inqilobini keltirib chiqargan sabablar qatoriga qaysi biri kirmaydi?",
+      "options": [
+        "Filipp II tomonidan og'ir soliqlar joriy qilinishi",
+        "Ispan inkvizitsiyasining protestantlarni ta'qib qilishi",
+        "1565–1566-yillardagi ocharchilik va ishsizlik",
+        "Ispaniyaning Niderlandiya portlarida barcha soliqlarni butunlay bekor qilishi"
+      ],
+      "answer": 3,
+      "explain": "Niderlandiyada ispan soliq zulmi, inkvizitsiya va ocharchilik xalq qo'zg'oloniga sabab bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Niderlandiyada ispan soliq zulmi, inkvizitsiya va ocharchilik xalq qo'zg'oloniga sabab bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. Niderlandiyada ispan soliq zulmi, inkvizitsiya va ocharchilik xalq qo'zg'oloniga sabab bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Quyidagi shaxslardan qaysi biri Protestantizm va Reformatsiya yetakchilariga kirmaydi?",
+      "options": [
+        "Ignatiy Loyola",
+        "Martin Lyuter",
+        "Jan Kalvin",
+        "Tomas Myunser"
+      ],
+      "answer": 0,
+      "explain": "Ignatiy Loyola protestant emas, aksincha katolik kontrreformatsiyasining bosh tayanchi — iyezuitlar asoschisidir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Ignatiy Loyola protestant emas, aksincha katolik kontrreformatsiyasining bosh tayanchi — iyezuitlar asoschisidir.",
+      "answer": true,
+      "explain": "To'g'ri. Ignatiy Loyola protestant emas, aksincha katolik kontrreformatsiyasining bosh tayanchi — iyezuitlar asoschisidir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Kalvinizm ta'limotida yuqori qadrlangan fazilatlar ro'yxatiga qaysi biri kirmaydi?",
+      "options": [
+        "Halol mehnatsevarlik",
+        "Yalqovlik va behuda isrofgarchilik",
+        "Tejamkorlik",
+        "Shaxsiy tashabbus va savodxonlik"
+      ],
+      "answer": 1,
+      "explain": "Kalvinizm mehnat, tejamkorlik, individualizm va savodxonlikni ulug'lagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): Kalvinizm mehnat, tejamkorlik, individualizm va savodxonlikni ulug'lagan.",
+      "answer": true,
+      "explain": "To'g'ri. Kalvinizm mehnat, tejamkorlik, individualizm va savodxonlikni ulug'lagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Nima uchun Martin Lyuter «95 tezislar»i butun Germaniyada juda tez tarqalib keng qo'llab-quvvatlandi?",
+      "options": [
+        "Germaniya qiroli Lyuterni o'zining bosh vaziri etib tayinlagani uchun",
+        "Ispaniya qiroli Germaniyadagi cherkovlarni qo'llab-quvvatlagani uchun",
+        "Rim Papasiga to'lanadigan soliqlar va indulgensiya savdosi barcha tabaqalarning noroziligiga sabab bo'lgan edi",
+        "Lyuter barcha soliqlarni mutlaqo bekor qilishni taklif etgani uchun"
+      ],
+      "answer": 2,
+      "explain": "Cherkov yerlari va indulgensiya savdosidan knyazlar ham, shaharliklar ham, dehqonlar ham norozi edilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): Kalvinizm nima sababdan savdogarlar va tadbirkor burjuaziya orasida tez tarqaldi?",
+      "options": [
+        "Chunki u barcha do'kon va banklarni yopishga chaqirdi",
+        "Chunki u faqat yirik feodal knyazlarga imtiyoz berdi",
+        "Chunki u lotin tilini majburiy qilib qo'ydi",
+        "Chunki u mehnat, tejamkorlik va halol boyishni Xudoning marhamati deb baholadi"
+      ],
+      "answer": 3,
+      "explain": "«Duo o'qi va ishla!» tamoyili tadbirkorlik va kapital to'plashni ma'naviy jihatdan oqladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): 1609-yilda Ispaniya shimoliy Niderlandiyaning — Gollandiya Respublikasining mustaqilligini tan olishga majbur bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. Uzoq davom etgan ozodlik urushidan so'ng Birlashgan provinsiyalar mustaqil deb tan olindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Martin Lyuter «95 tezislar»ni e'lon qildi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1517-yil",
+        "Indulgensiya",
+        "1524–1526-yillar",
+        "«Duo o'qi va ishla!»"
+      ],
+      "answer": 0,
+      "explain": "1517-yil — martin Lyuter «95 tezislar»ni e'lon qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): mavzudagi «1517-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Gunohlarni kechirish haqidagi sotma yorliq",
+        "Martin Lyuter «95 tezislar»ni e'lon qildi",
+        "Germaniyada «Buyuk dehqonlar» urushi",
+        "Jan Kalvinning mashhur shiori"
+      ],
+      "answer": 1,
+      "explain": "1517-yil — martin Lyuter «95 tezislar»ni e'lon qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikning tayanch ma'lumotlarida «1517-yil» — martin Lyuter «95 tezislar»ni e'lon qildi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1517-yil — martin Lyuter «95 tezislar»ni e'lon qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik ma'lumotlariga ko'ra «1517-yil» — gunohlarni kechirish haqidagi sotma yorliq deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1517-yil» — martin Lyuter «95 tezislar»ni e'lon qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Gunohlarni kechirish haqidagi sotma yorliq» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1517-yil",
+        "1524–1526-yillar",
+        "Indulgensiya",
+        "«Duo o'qi va ishla!»"
+      ],
+      "answer": 2,
+      "explain": "Indulgensiya — gunohlarni kechirish haqidagi sotma yorliq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): mavzudagi «Indulgensiya» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Martin Lyuter «95 tezislar»ni e'lon qildi",
+        "Germaniyada «Buyuk dehqonlar» urushi",
+        "Jan Kalvinning mashhur shiori",
+        "Gunohlarni kechirish haqidagi sotma yorliq"
+      ],
+      "answer": 3,
+      "explain": "Indulgensiya — gunohlarni kechirish haqidagi sotma yorliq.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikning tayanch ma'lumotlarida «Indulgensiya» — gunohlarni kechirish haqidagi sotma yorliq sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Indulgensiya — gunohlarni kechirish haqidagi sotma yorliq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik ma'lumotlariga ko'ra «Indulgensiya» — martin Lyuter «95 tezislar»ni e'lon qildi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Indulgensiya» — gunohlarni kechirish haqidagi sotma yorliq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Germaniyada «Buyuk dehqonlar» urushi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1524–1526-yillar",
+        "1517-yil",
+        "Indulgensiya",
+        "«Duo o'qi va ishla!»"
+      ],
+      "answer": 0,
+      "explain": "1524–1526-yillar — Germaniyada «Buyuk dehqonlar» urushi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): mavzudagi «1524–1526-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Martin Lyuter «95 tezislar»ni e'lon qildi",
+        "Germaniyada «Buyuk dehqonlar» urushi",
+        "Gunohlarni kechirish haqidagi sotma yorliq",
+        "Jan Kalvinning mashhur shiori"
+      ],
+      "answer": 1,
+      "explain": "1524–1526-yillar — Germaniyada «Buyuk dehqonlar» urushi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikning tayanch ma'lumotlarida «1524–1526-yillar» — Germaniyada «Buyuk dehqonlar» urushi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1524–1526-yillar — Germaniyada «Buyuk dehqonlar» urushi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik ma'lumotlariga ko'ra «1524–1526-yillar» — martin Lyuter «95 tezislar»ni e'lon qildi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1524–1526-yillar» — Germaniyada «Buyuk dehqonlar» urushi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Jan Kalvinning mashhur shiori» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1517-yil",
+        "Indulgensiya",
+        "«Duo o'qi va ishla!»",
+        "1524–1526-yillar"
+      ],
+      "answer": 2,
+      "explain": "«Duo o'qi va ishla!» — jan Kalvinning mashhur shiori.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): mavzudagi ««Duo o'qi va ishla!»» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Martin Lyuter «95 tezislar»ni e'lon qildi",
+        "Gunohlarni kechirish haqidagi sotma yorliq",
+        "Germaniyada «Buyuk dehqonlar» urushi",
+        "Jan Kalvinning mashhur shiori"
+      ],
+      "answer": 3,
+      "explain": "«Duo o'qi va ishla!» — jan Kalvinning mashhur shiori.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikning tayanch ma'lumotlarida ««Duo o'qi va ishla!»» — jan Kalvinning mashhur shiori sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Duo o'qi va ishla!» — jan Kalvinning mashhur shiori.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik ma'lumotlariga ko'ra ««Duo o'qi va ishla!»» — martin Lyuter «95 tezislar»ni e'lon qildi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida ««Duo o'qi va ishla!»» — jan Kalvinning mashhur shiori.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Iyezuitlar ordeniga asos solindi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1540-yil",
+        "1517-yil",
+        "Indulgensiya",
+        "1524–1526-yillar"
+      ],
+      "answer": 0,
+      "explain": "1540-yil — iyezuitlar ordeniga asos solindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): mavzudagi «1540-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Martin Lyuter «95 tezislar»ni e'lon qildi",
+        "Iyezuitlar ordeniga asos solindi",
+        "Gunohlarni kechirish haqidagi sotma yorliq",
+        "Germaniyada «Buyuk dehqonlar» urushi"
+      ],
+      "answer": 1,
+      "explain": "1540-yil — iyezuitlar ordeniga asos solindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikning tayanch ma'lumotlarida «1540-yil» — iyezuitlar ordeniga asos solindi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1540-yil — iyezuitlar ordeniga asos solindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik ma'lumotlariga ko'ra «1540-yil» — martin Lyuter «95 tezislar»ni e'lon qildi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1540-yil» — iyezuitlar ordeniga asos solindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Birlashgan provinsiyalar ittifoqi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1517-yil",
+        "Indulgensiya",
+        "1579-yil Utrext uniyasi",
+        "1524–1526-yillar"
+      ],
+      "answer": 2,
+      "explain": "1579-yil Utrext uniyasi — birlashgan provinsiyalar ittifoqi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "4-mavzu (Yevropada Reformatsiya): mavzudagi «1579-yil Utrext uniyasi» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Martin Lyuter «95 tezislar»ni e'lon qildi",
+        "Gunohlarni kechirish haqidagi sotma yorliq",
+        "Germaniyada «Buyuk dehqonlar» urushi",
+        "Birlashgan provinsiyalar ittifoqi"
+      ],
+      "answer": 3,
+      "explain": "1579-yil Utrext uniyasi — birlashgan provinsiyalar ittifoqi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslikning tayanch ma'lumotlarida «1579-yil Utrext uniyasi» — birlashgan provinsiyalar ittifoqi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1579-yil Utrext uniyasi — birlashgan provinsiyalar ittifoqi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "4-mavzu (Yevropada Reformatsiya): darslik ma'lumotlariga ko'ra «1579-yil Utrext uniyasi» — martin Lyuter «95 tezislar»ni e'lon qildi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1579-yil Utrext uniyasi» — birlashgan provinsiyalar ittifoqi.",
+      "difficulty": "medium"
+    }
+  ],
+  "cards": [
+    [
+      "LYUTER",
+      "1517-yilda Reformatsiyani boshlagan olim"
+    ],
+    [
+      "KALVIN",
+      "Jenevada islohot o'tkazgan fransuz"
+    ],
+    [
+      "GYOZLAR",
+      "Niderland ozodlik urushi qatnashchilari"
+    ],
+    [
+      "UTREXT",
+      "1579-yilgi Niderlandiya uniyasi shahri"
+    ],
+    [
+      "IYEZUITLAR",
+      "Ignatiy Loyola asos solgan orden"
+    ],
+    [
+      "MYUNSER",
+      "Germaniya dehqonlar urushi yo'lboshchisi"
+    ],
+    [
+      "VITTENBERG",
+      "«95 tezislar» ilingan Germaniya shahri"
+    ],
+    [
+      "LOYOLA",
+      "«Iso jamiyati» ordeni asoschisi"
+    ],
+    [
+      "PROTESTANT",
+      "1529-yildan boshlab tarqalgan diniy nom"
+    ],
+    [
+      "ORANYE",
+      "Niderland inqilobi rahbari Villem unvoni"
+    ],
+    [
+      "1517-yil",
+      "Martin Lyuter «95 tezislar»ni e'lon qildi"
+    ],
+    [
+      "Indulgensiya",
+      "Gunohlarni kechirish haqidagi sotma yorliq"
+    ],
+    [
+      "1524–1526-yillar",
+      "Germaniyada «Buyuk dehqonlar» urushi"
+    ],
+    [
+      "«Duo o'qi va ishla!»",
+      "Jan Kalvinning mashhur shiori"
+    ],
+    [
+      "1540-yil",
+      "Iyezuitlar ordeniga asos solindi"
+    ],
+    [
+      "1579-yil Utrext uniyasi",
+      "Birlashgan provinsiyalar ittifoqi"
+    ],
+    [
+      "1609-yil",
+      "Gollandiya Respublikasi tan olinishi"
+    ],
+    [
+      "Kontrreformatsiya",
+      "Katolik cherkovining aksil harakati"
+    ],
+    [
+      "Reformatsiya",
+      "XVI asrda Yevropada katolik cherkovini yangilash va isloh qilish uch"
+    ],
+    [
+      "Protestantizm",
+      "Katolik cherkovining hukmronligini rad etgan Reformatsiya oqimlarini"
+    ],
+    [
+      "Individualizm",
+      "Shaxsning mustaqilligi, tashabbuskorligi va o'z mehnati uchun shaxsi"
+    ],
+    [
+      "Martin Lyuter",
+      "1517-yilda Vittenbergda «95 tezislar» bilan Reformatsiya harakatini"
+    ],
+    [
+      "Tomas Myunser",
+      "Germaniyadagi «Xalq Reformatsiyasi» va Buyuk dehqonlar urushi rahbar"
+    ],
+    [
+      "Jan Kalvin",
+      "Jenevada qat'iy mehnatsevarlik va tejamkorlikka asoslangan islohot o"
+    ],
+    [
+      "Ignatiy Loyola",
+      "1540-yilda Rim Papasiga sodiq «Iso jamiyati» (iyezuitlar) ordeniga a"
+    ],
+    [
+      "Filipp II",
+      "Niderlandiyaga ispan inkvizitsiyasini joriy etib, qattiq zulm o'tkaz"
+    ],
+    [
+      "Villem van Oranye",
+      "Niderlandiya ozodlik kurashiga rahbarlik qilgan va Utrext uniyasini"
+    ],
+    [
+      "1524-yil",
+      "Germaniyaning janubida «Buyuk dehqonlar» urushi («Xalq Reformatsiyas"
+    ],
+    [
+      "1526-yil",
+      "Germaniyadagi Buyuk dehqonlar qo'zg'oloni shafqatsiz bostirilib Toma"
+    ],
+    [
+      "1529-yil",
+      "Shpeyer reyxstagida lyuteranlar noroziligi tufayli «protestantlar» n"
+    ],
+    [
+      "1565-yil",
+      "Niderlandiyada qahraton qish va hosilsizlik tufayli og'ir ocharchili"
+    ],
+    [
+      "1572-yil",
+      "«gyozlar» Niderlandiyadagi Bril shahrini egallab ozodlik kurashini b"
+    ],
+    [
+      "1579-yil",
+      "Niderlandiyaning shimoliy viloyatlari «Utrext uniyasi»ni imzolab mus"
+    ]
+  ]
+}

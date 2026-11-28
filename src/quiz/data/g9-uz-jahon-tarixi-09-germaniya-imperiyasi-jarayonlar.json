@@ -1,0 +1,2717 @@
+{
+  "id": "g9-uz-jahon-tarixi-09-germaniya-imperiyasi-jarayonlar",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "9-mavzu. Germaniya imperiyasidagi siyosiy-iqtisodiy jarayonlar",
+  "title": "9-mavzu. Germaniya imperiyasidagi siyosiy-iqtisodiy jarayonlar",
+  "source": "Jahon tarixi 9-sinf (2024), 9-mavzu, 46–50-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): qaysi yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi?",
+      "options": [
+        "1618-yil",
+        "1648-yil",
+        "1683-yil",
+        "1699-yil"
+      ],
+      "answer": 0,
+      "explain": "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi) mavzusiga ko'ra 1618-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi",
+        "26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi"
+      ],
+      "answer": 1,
+      "explain": "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): ____-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1618",
+        "1618-yil",
+        "1618-yilda"
+      ],
+      "explain": "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1618-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1648-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1648-yilda emas, 1618-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik xronologiyasiga ko'ra 1683-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): qaysi yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi?",
+      "options": [
+        "1618-yil",
+        "1683-yil",
+        "1699-yil",
+        "1648-yil"
+      ],
+      "answer": 3,
+      "explain": "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi) mavzusiga ko'ra 1648-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi",
+        "26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi"
+      ],
+      "answer": 0,
+      "explain": "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): ____-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi. (Yilni kiriting)",
+      "answer": [
+        "1648",
+        "1648-yil",
+        "1648-yilda"
+      ],
+      "explain": "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1648-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1618-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1618-yilda emas, 1648-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik xronologiyasiga ko'ra 1683-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): qaysi yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi?",
+      "options": [
+        "1618-yil",
+        "1648-yil",
+        "1683-yil",
+        "1699-yil"
+      ],
+      "answer": 2,
+      "explain": "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi) mavzusiga ko'ra 1683-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 3,
+      "explain": "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): ____-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi. (Yilni kiriting)",
+      "answer": [
+        "1683",
+        "1683-yil",
+        "1683-yilda"
+      ],
+      "explain": "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1683-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1618-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1618-yilda emas, 1683-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik xronologiyasiga ko'ra 1648-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): qaysi yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi?",
+      "options": [
+        "1618-yil",
+        "1699-yil",
+        "1648-yil",
+        "1683-yil"
+      ],
+      "answer": 1,
+      "explain": "1699-yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi) mavzusiga ko'ra 1699-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 2,
+      "explain": "1699-yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): ____-yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi. (Yilni kiriting)",
+      "answer": [
+        "1699",
+        "1699-yil",
+        "1699-yilda"
+      ],
+      "explain": "1699-yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 3,
+      "explain": "1699-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1699-yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1699-yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1618-yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1618-yilda emas, 1699-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik xronologiyasiga ko'ra 1648-yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1699-yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): qaysi yilda brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi?",
+      "options": [
+        "1701-yil",
+        "1618-yil",
+        "1648-yil",
+        "1683-yil"
+      ],
+      "answer": 0,
+      "explain": "1701-yilda brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi) mavzusiga ko'ra 1701-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi",
+        "Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 1,
+      "explain": "1701-yilda brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): ____-yilda brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi. (Yilni kiriting)",
+      "answer": [
+        "1701",
+        "1701-yil",
+        "1701-yilda"
+      ],
+      "explain": "1701-yilda brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVIII asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1701-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1701-yilda brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1701-yilda brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1618-yilda brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1618-yilda emas, 1701-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik xronologiyasiga ko'ra 1648-yilda brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1701-yilda brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): qaysi yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi?",
+      "options": [
+        "1618-yil",
+        "1648-yil",
+        "1683-yil",
+        "1713-yil"
+      ],
+      "answer": 3,
+      "explain": "1713-yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi) mavzusiga ko'ra 1713-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi",
+        "Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 0,
+      "explain": "1713-yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): ____-yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi. (Yilni kiriting)",
+      "answer": [
+        "1713",
+        "1713-yil",
+        "1713-yilda"
+      ],
+      "explain": "1713-yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVIII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1713-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1713-yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "answer": true,
+      "explain": "To'g'ri. 1713-yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1618-yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1618-yilda emas, 1713-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik xronologiyasiga ko'ra 1648-yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1713-yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): qaysi yilda Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi?",
+      "options": [
+        "1618-yil",
+        "1648-yil",
+        "1731-yil",
+        "1683-yil"
+      ],
+      "answer": 2,
+      "explain": "1731-yilda Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi) mavzusiga ko'ra 1731-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi",
+        "Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi"
+      ],
+      "answer": 3,
+      "explain": "1731-yilda Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): ____-yilda Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi. (Yilni kiriting)",
+      "answer": [
+        "1731",
+        "1731-yil",
+        "1731-yilda"
+      ],
+      "explain": "1731-yilda Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVIII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1731-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1731-yilda Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. 1731-yilda Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1618-yilda Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1618-yilda emas, 1731-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik xronologiyasiga ko'ra 1648-yilda Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1731-yilda Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Germaniyada diniy va siyosiy niz...» hamda «26-yanvarda Karlovits sulhi tuzi...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi",
+        "26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi"
+      ],
+      "answer": 1,
+      "explain": "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Germaniyada diniy va siyosiy niz...» hamda «26-yanvarda Karlovits sulhi tuzi...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 2,
+      "explain": "1699-yilda 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vena ostonalarida Usmoniylar imp...» hamda «Fridrix Vilgelm I («qirol-askar»...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi",
+        "Brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi",
+        "Fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 3,
+      "explain": "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vena ostonalarida Usmoniylar imp...» hamda «Fridrix Vilgelm I («qirol-askar»...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi",
+        "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi",
+        "26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi",
+        "Brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi"
+      ],
+      "answer": 0,
+      "explain": "1713-yilda fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi voqeasi vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1618-yil 1648-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi voqeasi Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi, 1648-yilda esa vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi voqeasi Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1618-yil 1683-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi voqeasi Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi, 1683-yilda esa Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi voqeasi 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1618-yil 1699-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi voqeasi Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi, 1699-yilda esa 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi voqeasi brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1618-yil 1701-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi voqeasi Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi, 1701-yilda esa brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi voqeasi fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1618-yil 1713-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi voqeasi Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi, 1713-yilda esa fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi voqeasi Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1618-yil 1731-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi voqeasi Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi, 1731-yilda esa Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi voqeasi Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1648-yil 1683-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi voqeasi vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi, 1683-yilda esa Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi voqeasi 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1648-yil 1699-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi voqeasi vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi, 1699-yilda esa 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi voqeasi brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1648-yil 1701-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi voqeasi vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi, 1701-yilda esa brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi voqeasi fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1648-yil 1713-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi voqeasi vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi, 1713-yilda esa fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi voqeasi Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1648-yil 1731-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi voqeasi vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi, 1731-yilda esa Germaniyada sex cheklovlarini qisman tartibga solgan «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi voqeasi 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1683-yil 1699-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi voqeasi Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi, 1699-yilda esa 26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorvatiya Gabsburglarga o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi voqeasi brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1683-yil 1701-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi voqeasi Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi, 1701-yilda esa brandenburg-Prussiya knyazligi mustaqil Prussiya qirolligiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): xronologiyaga ko'ra Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi voqeasi fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1683-yil 1713-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy ketma-ketlikka ko'ra fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi voqeasi Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi, 1713-yilda esa fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik armiya tuza boshladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): ««Qirol-askar» nomi bilan tanilgan va 85 ming kishilik muntazam armiya tuzgan Prussiya qiroli» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Fridrix II",
+        "Fridrix Vilgelm I",
+        "Gabsburglar",
+        "Xristofor Kolumb"
+      ],
+      "answer": 1,
+      "explain": "Fridrix Vilgelm I (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Fridrix Vilgelm Ining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Prussiya armiyasini 200 ming kishiga yetkazgan va Yevropada harbiy qudrat yaratgan qirol",
+        "Muqaddas Rim imperiyasi imperatori unvonini merosiy ravishda egallab kelgan Avstriya sulolasi",
+        "«Qirol-askar» nomi bilan tanilgan va 85 ming kishilik muntazam armiya tuzgan Prussiya qiroli",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 2,
+      "explain": "Fridrix Vilgelm I (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «Qirol-askar» nomi bilan tanilgan va 85 ming kishilik muntazam armiya tuzgan Prussiya qiroli bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Fridrix Vilgelm I"
+      ],
+      "explain": "Fridrix Vilgelm I (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Fridrix Vilgelm I (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan.",
+      "answer": true,
+      "explain": "To'g'ri. Fridrix Vilgelm I (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Fridrix Vilgelm I — Prussiya armiyasini 200 ming kishiga yetkazgan va Yevropada harbiy qudrat yaratgan qirol.",
+      "answer": false,
+      "explain": "Noto'g'ri. Fridrix Vilgelm I (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikda Fridrix Vilgelm I «muqaddas Rim imperiyasi imperatori unvonini merosiy ravishda egallab kelgan Avstriya sulolasi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Fridrix Vilgelm I (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan».",
+      "options": [
+        "Fridrix II",
+        "Gabsburglar",
+        "Xristofor Kolumb",
+        "Fridrix Vilgelm I"
+      ],
+      "answer": 3,
+      "explain": "Fridrix Vilgelm I (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «____ (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Fridrix Vilgelm I"
+      ],
+      "explain": "Fridrix Vilgelm I (1713-yildan) byudjetning katta qismini harbiy sohaga yo'naltirib qattiq «tayoq intizomi» o'rnatgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Prussiya armiyasini 200 ming kishiga yetkazgan va Yevropada harbiy qudrat yaratgan qirol» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Fridrix II",
+        "Fridrix Vilgelm I",
+        "Gabsburglar",
+        "Xristofor Kolumb"
+      ],
+      "answer": 0,
+      "explain": "Fridrix II davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Fridrix IIning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Qirol-askar» nomi bilan tanilgan va 85 ming kishilik muntazam armiya tuzgan Prussiya qiroli",
+        "Prussiya armiyasini 200 ming kishiga yetkazgan va Yevropada harbiy qudrat yaratgan qirol",
+        "Muqaddas Rim imperiyasi imperatori unvonini merosiy ravishda egallab kelgan Avstriya sulolasi",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 1,
+      "explain": "Fridrix II davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): Prussiya armiyasini 200 ming kishiga yetkazgan va Yevropada harbiy qudrat yaratgan qirol bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Fridrix II"
+      ],
+      "explain": "Fridrix II davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Fridrix II davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan.",
+      "answer": true,
+      "explain": "To'g'ri. Fridrix II davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Fridrix II — «Qirol-askar» nomi bilan tanilgan va 85 ming kishilik muntazam armiya tuzgan Prussiya qiroli.",
+      "answer": false,
+      "explain": "Noto'g'ri. Fridrix II davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikda Fridrix II «muqaddas Rim imperiyasi imperatori unvonini merosiy ravishda egallab kelgan Avstriya sulolasi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Fridrix II davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan».",
+      "options": [
+        "Fridrix Vilgelm I",
+        "Gabsburglar",
+        "Fridrix II",
+        "Xristofor Kolumb"
+      ],
+      "answer": 2,
+      "explain": "Fridrix II davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «____ davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Fridrix II"
+      ],
+      "explain": "Fridrix II davrida Prussiya davlat byudjetining uchdan ikki qismi armiyaga sarflangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «muqaddas Rim imperiyasi imperatori unvonini merosiy ravishda egallab kelgan Avstriya sulolasi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Fridrix Vilgelm I",
+        "Fridrix II",
+        "Xristofor Kolumb",
+        "Gabsburglar"
+      ],
+      "answer": 3,
+      "explain": "Gabsburglar Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Gabsburglarning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Muqaddas Rim imperiyasi imperatori unvonini merosiy ravishda egallab kelgan Avstriya sulolasi",
+        "«Qirol-askar» nomi bilan tanilgan va 85 ming kishilik muntazam armiya tuzgan Prussiya qiroli",
+        "Prussiya armiyasini 200 ming kishiga yetkazgan va Yevropada harbiy qudrat yaratgan qirol",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 0,
+      "explain": "Gabsburglar Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): muqaddas Rim imperiyasi imperatori unvonini merosiy ravishda egallab kelgan Avstriya sulolasi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Gabsburglar"
+      ],
+      "explain": "Gabsburglar Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Gabsburglar Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan.",
+      "answer": true,
+      "explain": "To'g'ri. Gabsburglar Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Gabsburglar — «Qirol-askar» nomi bilan tanilgan va 85 ming kishilik muntazam armiya tuzgan Prussiya qiroli.",
+      "answer": false,
+      "explain": "Noto'g'ri. Gabsburglar Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikda Gabsburglar «Prussiya armiyasini 200 ming kishiga yetkazgan va Yevropada harbiy qudrat yaratgan qirol» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Gabsburglar Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan».",
+      "options": [
+        "Fridrix Vilgelm I",
+        "Gabsburglar",
+        "Fridrix II",
+        "Xristofor Kolumb"
+      ],
+      "answer": 1,
+      "explain": "Gabsburglar Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «____ Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Gabsburglar"
+      ],
+      "explain": "Gabsburglar Vena markazidan turib ko'p millatli Avstriya va Germaniya imperiyasi taxtini boshqargan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Reyxstag",
+        "Qirol-askar",
+        "Vestfal sulhi",
+        "Karlovits sulhi"
+      ],
+      "answer": 2,
+      "explain": "Vestfal sulhi — 1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vestfal sulhi» atamasi nimani anglatadi?",
+      "options": [
+        "Muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi",
+        "Harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi",
+        "1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma",
+        "1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma"
+      ],
+      "answer": 3,
+      "explain": "Vestfal sulhi — 1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Vestfal sulhi",
+        "vestfal sulhi"
+      ],
+      "explain": "Vestfal sulhi — 1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vestfal sulhi» tushunchasi «1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Vestfal sulhi — 1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vestfal sulhi» deganda muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Vestfal sulhi — 1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy lug'atga ko'ra «Vestfal sulhi» — «harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Vestfal sulhi — 1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Reyxstag",
+        "Vestfal sulhi",
+        "Qirol-askar",
+        "Karlovits sulhi"
+      ],
+      "answer": 0,
+      "explain": "Reyxstag — muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Reyxstag» atamasi nimani anglatadi?",
+      "options": [
+        "1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma",
+        "Muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi",
+        "Harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi",
+        "1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma"
+      ],
+      "answer": 1,
+      "explain": "Reyxstag — muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Reyxstag",
+        "reyxstag"
+      ],
+      "explain": "Reyxstag — muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Reyxstag» tushunchasi «muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Reyxstag — muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Reyxstag» deganda 1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Reyxstag — muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy lug'atga ko'ra «Reyxstag» — «harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Reyxstag — muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Vestfal sulhi",
+        "Reyxstag",
+        "Qirol-askar",
+        "Karlovits sulhi"
+      ],
+      "answer": 2,
+      "explain": "Qirol-askar — harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Qirol-askar» atamasi nimani anglatadi?",
+      "options": [
+        "1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma",
+        "Muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi",
+        "1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma",
+        "Harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi"
+      ],
+      "answer": 3,
+      "explain": "Qirol-askar — harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Qirol-askar",
+        "qirol-askar"
+      ],
+      "explain": "Qirol-askar — harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Qirol-askar» tushunchasi «harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Qirol-askar — harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Qirol-askar» deganda 1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Qirol-askar — harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy lug'atga ko'ra «Qirol-askar» — «muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Qirol-askar — harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Karlovits sulhi",
+        "Vestfal sulhi",
+        "Reyxstag",
+        "Qirol-askar"
+      ],
+      "answer": 0,
+      "explain": "Karlovits sulhi — 1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Karlovits sulhi» atamasi nimani anglatadi?",
+      "options": [
+        "1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma",
+        "1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma",
+        "Muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi",
+        "Harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi"
+      ],
+      "answer": 1,
+      "explain": "Karlovits sulhi — 1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Karlovits sulhi",
+        "karlovits sulhi"
+      ],
+      "explain": "Karlovits sulhi — 1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Karlovits sulhi» tushunchasi «1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Karlovits sulhi — 1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Karlovits sulhi» deganda 1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Karlovits sulhi — 1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy lug'atga ko'ra «Karlovits sulhi» — «muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Karlovits sulhi — 1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Transilvaniyani bergan shartnoma.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi chinni manufakturasi mahsuloti» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Vestfal sulhi",
+        "Reyxstag",
+        "Meysen chinnisi",
+        "Qirol-askar"
+      ],
+      "answer": 2,
+      "explain": "Meysen chinnisi — saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi chinni manufakturasi mahsuloti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Meysen chinnisi» atamasi nimani anglatadi?",
+      "options": [
+        "1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma",
+        "Muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi",
+        "Harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I ning tarixiy laqabi",
+        "Saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi chinni manufakturasi mahsuloti"
+      ],
+      "answer": 3,
+      "explain": "Meysen chinnisi — saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi chinni manufakturasi mahsuloti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi chinni manufakturasi mahsuloti» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Meysen chinnisi",
+        "meysen chinnisi"
+      ],
+      "explain": "Meysen chinnisi — saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi chinni manufakturasi mahsuloti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Meysen chinnisi» tushunchasi «saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi chinni manufakturasi mahsuloti» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Meysen chinnisi — saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi chinni manufakturasi mahsuloti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Meysen chinnisi» deganda 1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar mustaqilligini mustahkamlagan shartnoma tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Meysen chinnisi — saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi chinni manufakturasi mahsuloti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): tarixiy lug'atga ko'ra «Meysen chinnisi» — «muqaddas Rim imperiyasidagi knyazlar, graf va erkin shahar vakillaridan iborat umumimperiya majlisi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Meysen chinnisi — saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi chinni manufakturasi mahsuloti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): 1648-yilgi Vestfal sulhi natijasida Germaniya imperiyasi nechta mayda davlatlarga parchalanib ketdi?",
+      "options": [
+        "250 dan ortiq knyazlik, graflik, abbatlik va erkin shaharlarga",
+        "Atigi 3 ta yirik viloyatga",
+        "Faqat 2 ta respublikaga",
+        "Yagona markazlashgan qirollikka"
+      ],
+      "answer": 0,
+      "explain": "Vestfal sulhidan so'ng imperator hokimiyati zaiflashib, Germaniya uzoq vaqt tarqoq qoldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «1648-yilgi Vestfal sulhi natijasida Germaniya imperiyasi nechta mayda davlatlarga parchalanib ketdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi",
+        "Vestfal sulhi Germaniyadagi 250 dan ortiq knyazlik va erkin shaharlar mustaqilligini qonunlashtirdi",
+        "Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi",
+        "Prussiya qirollari armiyaga deyarli mablag' ajratmay, faqat dengiz savdosiga pul tikishgan"
+      ],
+      "answer": 1,
+      "explain": "Vestfal sulhidan so'ng imperator hokimiyati zaiflashib, Germaniya uzoq vaqt tarqoq qoldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «1648-yilgi Vestfal sulhi natijasida Germaniya imperiyasi nechta mayda davlatlarga parchalanib ketdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi",
+        "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi. Aslida: Vestfal sulhidan so'ng imperator hokimiyati zaiflashib, Germaniya uzoq vaqt tarqoq qoldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Vestfal sulhi Germaniyadagi 250 dan ortiq knyazlik va erkin shaharlar mustaqilligini qonunlashtirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Vestfal sulhidan so'ng imperator hokimiyati zaiflashib, Germaniya uzoq vaqt tarqoq qoldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Vestfal sulhidan so'ng imperator hokimiyati zaiflashib, Germaniya uzoq vaqt tarqoq qoldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik izohiga ko'ra vestfal sulhidan so'ng imperator hokimiyati zaiflashib, Germaniya uzoq vaqt tarqoq qoldi.",
+      "answer": true,
+      "explain": "To'g'ri. Vestfal sulhidan so'ng imperator hokimiyati zaiflashib, Germaniya uzoq vaqt tarqoq qoldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): 1648-yildagi ____ sulhi Germaniyada 250 dan ortiq davlatlar mustaqilligini mustahkamladi. (Sulh nomini yozing)",
+      "answer": [
+        "Vestfal"
+      ],
+      "explain": "Vestfal sulhidan so'ng imperator hokimiyati zaiflashib, Germaniya uzoq vaqt tarqoq qoldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Germaniya reyxstagi XVIII asr davomida siyosiy jihatdan qanchalik zaiflashgan edi?",
+      "options": [
+        "Har kuni o'nlab qonun chiqargan",
+        "Qirollarni muntazam almashtirib turgan",
+        "Butun Yevropani boshqargan",
+        "Butun asr davomida bor-yo'g'i 2 tagina qonun qabul qilgan"
+      ],
+      "answer": 3,
+      "explain": "Har bir knyaz mustaqil siyosat yuritgani sababli umumimperiya majlisi o'z kuchini yo'qotgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Germaniya reyxstagi XVIII asr davomida siyosiy jihatdan qanchalik zaiflashgan edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Siyosiy tarqoqlik tufayli Germaniya reyxstagi XVIII asrda bor-yo'g'i 2 tagina qonun qabul qilgan",
+        "Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi",
+        "Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi",
+        "Prussiya qirollari armiyaga deyarli mablag' ajratmay, faqat dengiz savdosiga pul tikishgan"
+      ],
+      "answer": 0,
+      "explain": "Har bir knyaz mustaqil siyosat yuritgani sababli umumimperiya majlisi o'z kuchini yo'qotgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Germaniya reyxstagi XVIII asr davomida siyosiy jihatdan qanchalik zaiflashgan edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi",
+        "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi. Aslida: Har bir knyaz mustaqil siyosat yuritgani sababli umumimperiya majlisi o'z kuchini yo'qotgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Siyosiy tarqoqlik tufayli Germaniya reyxstagi XVIII asrda bor-yo'g'i 2 tagina qonun qabul qilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Har bir knyaz mustaqil siyosat yuritgani sababli umumimperiya majlisi o'z kuchini yo'qotgan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Har bir knyaz mustaqil siyosat yuritgani sababli umumimperiya majlisi o'z kuchini yo'qotgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik izohiga ko'ra har bir knyaz mustaqil siyosat yuritgani sababli umumimperiya majlisi o'z kuchini yo'qotgan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Har bir knyaz mustaqil siyosat yuritgani sababli umumimperiya majlisi o'z kuchini yo'qotgan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Prussiya qiroli Fridrix II davrida davlat byudjetining qancha qismi armiyaga sarflanar edi?",
+      "options": [
+        "O'ndan bir qismi",
+        "Besh foizi",
+        "Uchdan ikki qismi",
+        "Hyech qancha mablag' ajratilmagan"
+      ],
+      "answer": 2,
+      "explain": "Fridrix Vilgelm I tuzgan 85 minglik armiyani Fridrix II 200 ming kishiga yetkazdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Prussiya qiroli Fridrix II davrida davlat byudjetining qancha qismi armiyaga sarflanar edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Prussiya qirollari armiyaga deyarli mablag' ajratmay, faqat dengiz savdosiga pul tikishgan",
+        "Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi",
+        "Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi",
+        "Militaristik Prussiyada davlat byudjetining uchdan ikki qismi 200 minglik armiyani saqlashga ketardi"
+      ],
+      "answer": 3,
+      "explain": "Fridrix Vilgelm I tuzgan 85 minglik armiyani Fridrix II 200 ming kishiga yetkazdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Prussiya qiroli Fridrix II davrida davlat byudjetining qancha qismi armiyaga sarflanar edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Prussiya qirollari armiyaga deyarli mablag' ajratmay, faqat dengiz savdosiga pul tikishgan",
+        "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Prussiya qirollari armiyaga deyarli mablag' ajratmay, faqat dengiz savdosiga pul tikishgan. Aslida: Fridrix Vilgelm I tuzgan 85 minglik armiyani Fridrix II 200 ming kishiga yetkazdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Militaristik Prussiyada davlat byudjetining uchdan ikki qismi 200 minglik armiyani saqlashga ketardi.",
+      "answer": true,
+      "explain": "To'g'ri. Fridrix Vilgelm I tuzgan 85 minglik armiyani Fridrix II 200 ming kishiga yetkazdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Prussiya qirollari armiyaga deyarli mablag' ajratmay, faqat dengiz savdosiga pul tikishgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Fridrix Vilgelm I tuzgan 85 minglik armiyani Fridrix II 200 ming kishiga yetkazdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik izohiga ko'ra fridrix Vilgelm I tuzgan 85 minglik armiyani Fridrix II 200 ming kishiga yetkazdi.",
+      "answer": true,
+      "explain": "To'g'ri. Fridrix Vilgelm I tuzgan 85 minglik armiyani Fridrix II 200 ming kishiga yetkazdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Saksoniyaning qaysi ikki shahri XVIII asrda madaniyati bilan «Elbadagi Florensiya» va «Kichik Parij» nomlarini olgan?",
+      "options": [
+        "Berlin va Myunxen",
+        "Drezden («Elbadagi Florensiya») va Leypsig («Kichik Parij»)",
+        "Gamburg va Lyubek",
+        "Vena va Praga"
+      ],
+      "answer": 1,
+      "explain": "Saksoniya imperiyadagi eng rivojlangan iqtisodiy va madaniy hududlardan biri edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Saksoniyaning qaysi ikki shahri XVIII asrda madaniyati bilan «Elbadagi Florensiya» va «Kichik Parij» nomlarini olgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Elbadagi Florensiya» nomi London shahriga berilgan",
+        "Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi",
+        "Saksoniyaning Drezden shahri «Elbadagi Florensiya», Leypsig esa «Kichik Parij» deb shuhrat qozongan",
+        "Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi"
+      ],
+      "answer": 2,
+      "explain": "Saksoniya imperiyadagi eng rivojlangan iqtisodiy va madaniy hududlardan biri edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Saksoniyaning qaysi ikki shahri XVIII asrda madaniyati bilan «Elbadagi Florensiya» va «Kichik Parij» nomlarini olgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi",
+        "«Elbadagi Florensiya» nomi London shahriga berilgan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: «Elbadagi Florensiya» nomi London shahriga berilgan. Aslida: Saksoniya imperiyadagi eng rivojlangan iqtisodiy va madaniy hududlardan biri edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Saksoniyaning Drezden shahri «Elbadagi Florensiya», Leypsig esa «Kichik Parij» deb shuhrat qozongan.",
+      "answer": true,
+      "explain": "To'g'ri. Saksoniya imperiyadagi eng rivojlangan iqtisodiy va madaniy hududlardan biri edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Elbadagi Florensiya» nomi London shahriga berilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Saksoniya imperiyadagi eng rivojlangan iqtisodiy va madaniy hududlardan biri edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik izohiga ko'ra saksoniya imperiyadagi eng rivojlangan iqtisodiy va madaniy hududlardan biri edi.",
+      "answer": true,
+      "explain": "To'g'ri. Saksoniya imperiyadagi eng rivojlangan iqtisodiy va madaniy hududlardan biri edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Yevropada birinchi chinni manufakturasi Germaniyaning qaysi shahrida tashkil etilgan?",
+      "options": [
+        "Meysen shahrida",
+        "Gamburg shahrida",
+        "Bavariya qishlog'ida",
+        "Lyubek portida"
+      ],
+      "answer": 0,
+      "explain": "Meysen chinnisi butun Yevropada mashhur bo'lib, Xitoy chinnisi bilan raqobatlashgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Yevropada birinchi chinni manufakturasi Germaniyaning qaysi shahrida tashkil etilgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Yevropadagi ilk chinni manufakturasi Ispaniyaning Madeyra orolida qurilgan",
+        "Saksoniyadagi Meysen shahrida Yevropadagi birinchi chinni manufakturasi ochilgan",
+        "Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi",
+        "Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi"
+      ],
+      "answer": 1,
+      "explain": "Meysen chinnisi butun Yevropada mashhur bo'lib, Xitoy chinnisi bilan raqobatlashgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Yevropada birinchi chinni manufakturasi Germaniyaning qaysi shahrida tashkil etilgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "Yevropadagi ilk chinni manufakturasi Ispaniyaning Madeyra orolida qurilgan",
+        "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Yevropadagi ilk chinni manufakturasi Ispaniyaning Madeyra orolida qurilgan. Aslida: Meysen chinnisi butun Yevropada mashhur bo'lib, Xitoy chinnisi bilan raqobatlashgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Saksoniyadagi Meysen shahrida Yevropadagi birinchi chinni manufakturasi ochilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Meysen chinnisi butun Yevropada mashhur bo'lib, Xitoy chinnisi bilan raqobatlashgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Yevropadagi ilk chinni manufakturasi Ispaniyaning Madeyra orolida qurilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Meysen chinnisi butun Yevropada mashhur bo'lib, Xitoy chinnisi bilan raqobatlashgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik izohiga ko'ra meysen chinnisi butun Yevropada mashhur bo'lib, Xitoy chinnisi bilan raqobatlashgan.",
+      "answer": true,
+      "explain": "To'g'ri. Meysen chinnisi butun Yevropada mashhur bo'lib, Xitoy chinnisi bilan raqobatlashgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): Yevropadagi birinchi chinni manufakturasi Saksoniyaning ____ shahrida tashkil etilgan. (Shaharni yozing)",
+      "answer": [
+        "Meysen"
+      ],
+      "explain": "Meysen chinnisi butun Yevropada mashhur bo'lib, Xitoy chinnisi bilan raqobatlashgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Nima sababdan XVII–XVIII asrlarda Germaniya iqtisodiyoti G'arbiy Yevropadan orqada qoldi?",
+      "options": [
+        "Germaniyada hech qanday shahar bo'lmagani uchun",
+        "Barcha daryolar qurib qolgani uchun",
+        "Dengiz kemalari umuman bo'lmagani uchun",
+        "Jahon savdosining Atlantikaga ko'chishi, O'rtayer dengizi bozorlari susayishi va Amerikadan arzon mis kelishi tufayli"
+      ],
+      "answer": 3,
+      "explain": "Amerika konlari Germaniya mis sanoatiga zarba berdi, tarqoqlik esa yagona ichki bozor tuzishga to'sqinlik qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Nima sababdan XVII–XVIII asrlarda Germaniya iqtisodiyoti G'arbiy Yevropadan orqada qoldi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Atlantika savdo yo'llaridan chetda qolish va O'ttiz yillik urush vayronagarchiligi Germaniyani qoloqlashtirdi",
+        "Germaniya XVII asrda jahon okean savdosining bosh markaziga aylangan edi",
+        "Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi",
+        "Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi"
+      ],
+      "answer": 0,
+      "explain": "Amerika konlari Germaniya mis sanoatiga zarba berdi, tarqoqlik esa yagona ichki bozor tuzishga to'sqinlik qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «Nima sababdan XVII–XVIII asrlarda Germaniya iqtisodiyoti G'arbiy Yevropadan orqada qoldi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "Germaniya XVII asrda jahon okean savdosining bosh markaziga aylangan edi",
+        "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Germaniya XVII asrda jahon okean savdosining bosh markaziga aylangan edi. Aslida: Amerika konlari Germaniya mis sanoatiga zarba berdi, tarqoqlik esa yagona ichki bozor tuzishga to'sqinlik qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Atlantika savdo yo'llaridan chetda qolish va O'ttiz yillik urush vayronagarchiligi Germaniyani qoloqlashtirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Amerika konlari Germaniya mis sanoatiga zarba berdi, tarqoqlik esa yagona ichki bozor tuzishga to'sqinlik qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Germaniya XVII asrda jahon okean savdosining bosh markaziga aylangan edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Amerika konlari Germaniya mis sanoatiga zarba berdi, tarqoqlik esa yagona ichki bozor tuzishga to'sqinlik qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik izohiga ko'ra Amerika konlari Germaniya mis sanoatiga zarba berdi, tarqoqlik esa yagona ichki bozor tuzishga to'sqinlik qildi.",
+      "answer": true,
+      "explain": "To'g'ri. Amerika konlari Germaniya mis sanoatiga zarba berdi, tarqoqlik esa yagona ichki bozor tuzishga to'sqinlik qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): XVIII asrda Ganza ittifoqining qaysi shimoliy port shaharlari dengiz savdosini saqlab qolgan edi?",
+      "options": [
+        "Drezden va Meysen",
+        "Vena va Praga",
+        "Gamburg va Lyubek",
+        "Myunxen va Shtutgart"
+      ],
+      "answer": 2,
+      "explain": "Gamburg, Lyubek va Leypsig Germaniya shahar savdosining asosiy tayanchlari edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «XVIII asrda Ganza ittifoqining qaysi shimoliy port shaharlari dengiz savdosini saqlab qolgan edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Gamburg va Lyubek shaharlari Alp tog'larida joylashgan",
+        "Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi",
+        "Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi",
+        "Gamburg va Lyubek Germaniyaning shimolidagi muhim tashqi savdo portlari bo'lib qoldi"
+      ],
+      "answer": 3,
+      "explain": "Gamburg, Lyubek va Leypsig Germaniya shahar savdosining asosiy tayanchlari edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «XVIII asrda Ganza ittifoqining qaysi shimoliy port shaharlari dengiz savdosini saqlab qolgan edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Gamburg va Lyubek shaharlari Alp tog'larida joylashgan",
+        "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Gamburg va Lyubek shaharlari Alp tog'larida joylashgan. Aslida: Gamburg, Lyubek va Leypsig Germaniya shahar savdosining asosiy tayanchlari edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Gamburg va Lyubek Germaniyaning shimolidagi muhim tashqi savdo portlari bo'lib qoldi.",
+      "answer": true,
+      "explain": "To'g'ri. Gamburg, Lyubek va Leypsig Germaniya shahar savdosining asosiy tayanchlari edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Gamburg va Lyubek shaharlari Alp tog'larida joylashgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Gamburg, Lyubek va Leypsig Germaniya shahar savdosining asosiy tayanchlari edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik izohiga ko'ra gamburg, Lyubek va Leypsig Germaniya shahar savdosining asosiy tayanchlari edi.",
+      "answer": true,
+      "explain": "To'g'ri. Gamburg, Lyubek va Leypsig Germaniya shahar savdosining asosiy tayanchlari edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): 1699-yilgi Karlovits sulhi Gabsburglar imperiyasi hududini qaysi o'lkalar hisobiga kengaytirdi?",
+      "options": [
+        "Elzas va Lotaringiya",
+        "Vengriya, Transilvaniya va Xorvatiya",
+        "Prussiya va Saksoniya",
+        "Gollandiya va Shotlandiya"
+      ],
+      "answer": 1,
+      "explain": "Avstriya Gabsburglari Bolqon va Dunay havzasida o'z ta'sirini keskin kengaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «1699-yilgi Karlovits sulhi Gabsburglar imperiyasi hududini qaysi o'lkalar hisobiga kengaytirdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Karlovits sulhidan so'ng Vena shahri Usmoniylar qo'liga o'tdi",
+        "Vestfal sulhi Germaniyani yagona markazlashgan respublikaga birlashtirdi",
+        "1683-yilda Vena ostonalaridagi g'alabadan so'ng Karlovits sulhi Gabsburglarga Vengriya, Transilvaniya va Xorvatiyani berdi",
+        "Germaniya reyxstagi XVIII asrda Yevropadagi eng faol parlament edi"
+      ],
+      "answer": 2,
+      "explain": "Avstriya Gabsburglari Bolqon va Dunay havzasida o'z ta'sirini keskin kengaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «1699-yilgi Karlovits sulhi Gabsburglar imperiyasi hududini qaysi o'lkalar hisobiga kengaytirdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1618-yilda Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush boshlandi",
+        "1648-yilda vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250 dan ortiq davlatga parchalandi",
+        "1683-yilda Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uchratildi",
+        "Karlovits sulhidan so'ng Vena shahri Usmoniylar qo'liga o'tdi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Karlovits sulhidan so'ng Vena shahri Usmoniylar qo'liga o'tdi. Aslida: Avstriya Gabsburglari Bolqon va Dunay havzasida o'z ta'sirini keskin kengaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): 1683-yilda Vena ostonalaridagi g'alabadan so'ng Karlovits sulhi Gabsburglarga Vengriya, Transilvaniya va Xorvatiyani berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Avstriya Gabsburglari Bolqon va Dunay havzasida o'z ta'sirini keskin kengaytirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Karlovits sulhidan so'ng Vena shahri Usmoniylar qo'liga o'tdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Avstriya Gabsburglari Bolqon va Dunay havzasida o'z ta'sirini keskin kengaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik izohiga ko'ra Avstriya Gabsburglari Bolqon va Dunay havzasida o'z ta'sirini keskin kengaytirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Avstriya Gabsburglari Bolqon va Dunay havzasida o'z ta'sirini keskin kengaytirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Muqaddas Rim imperiyasi tarkibiga kirgan tarixiy hududlar ro'yxatiga qaysi biri kirmaydi?",
+      "options": [
+        "Gujorat va Bengaliya",
+        "Tyuringiya, Saksoniya va Bavariya",
+        "Avstriya va Chexiya",
+        "Elzas, Lotaringiya va Shvabiya"
+      ],
+      "answer": 0,
+      "explain": "Gujorat va Bengaliya Germaniya imperiyasiga emas, Hindistonga tegishli o'lkalardir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Gujorat va Bengaliya Germaniya imperiyasiga emas, Hindistonga tegishli o'lkalardir.",
+      "answer": true,
+      "explain": "To'g'ri. Gujorat va Bengaliya Germaniya imperiyasiga emas, Hindistonga tegishli o'lkalardir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Prussiya harbiy tizimiga xos bo'lmagan xususiyatni aniqlang.",
+      "options": [
+        "«Tayoq intizomi»ga asoslangan qattiq harbiy tartib",
+        "Yirik okean floti bilan butun Amerikani egallash",
+        "Byudjetning uchdan ikki qismini armiyaga sarflash",
+        "200 ming kishigacha o'sgan quruqlik qo'shini"
+      ],
+      "answer": 1,
+      "explain": "Prussiya dengiz mustamlakachi davlati emas, quruqlikdagi harbiylashgan byurokratik qirollik edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Prussiya dengiz mustamlakachi davlati emas, quruqlikdagi harbiylashgan byurokratik qirollik edi.",
+      "answer": true,
+      "explain": "To'g'ri. Prussiya dengiz mustamlakachi davlati emas, quruqlikdagi harbiylashgan byurokratik qirollik edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): 1699-yilgi Karlovits sulhiga ko'ra Gabsburglar qo'liga o'tgan hududlar qatoriga qaysi biri kirmaydi?",
+      "options": [
+        "Vengriya",
+        "Transilvaniya",
+        "Portugaliya",
+        "Xorvatiya"
+      ],
+      "answer": 2,
+      "explain": "Karlovits sulhi Usmoniylarga qarashli Vengriya, Transilvaniya va Xorvatiya hududlarini Gabsburglarga o'tkazdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Karlovits sulhi Usmoniylarga qarashli Vengriya, Transilvaniya va Xorvatiya hududlarini Gabsburglarga o'tkazdi.",
+      "answer": true,
+      "explain": "To'g'ri. Karlovits sulhi Usmoniylarga qarashli Vengriya, Transilvaniya va Xorvatiya hududlarini Gabsburglarga o'tkazdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): Nima uchun XVIII asrda Yevropa siyosatidagi gegemonlik Germaniyadan Fransiyaga o'tdi?",
+      "options": [
+        "Germaniya hukumati barcha qo'shinlarini Fransiyaga sovg'a qilgani uchun",
+        "Fransiyada birorta ham urush bo'lmagani uchun",
+        "Germaniya imperatori Parijda yashagani uchun",
+        "Germaniya Vestfal sulhidan so'ng yuzlab knyazliklarga bo'linib ketgani, Fransiya esa markazlashgan davlat bo'lgani uchun"
+      ],
+      "answer": 3,
+      "explain": "Siyosiy tarqoqlik Germaniyaning yagona tashqi siyosat yuritishiga imkon bermadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Germaniyada manufakturalar asosan qishloqlarda emas, sex tartiblariga qaram bo'lgan shaharlarda joylashgan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Shahar sexlari va byurokratiya cheklovlari manufakturalar rivojini sekinlashtirar edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): Berlinda to'qimachilik manufakturalari Prussiya armiyasini kiyim-kechak bilan ta'minlashda muhim rol o'ynagan.",
+      "answer": true,
+      "explain": "To'g'ri. Davlat buyurtmalari Berlin to'qimachilik sanoatini rivojlantirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik jadvali va tayanch ma'lumotlariga ko'ra «Germaniyadagi O'ttiz yillik urush» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1618–1648-yillar",
+        "1648-yil Vestfal sulhi",
+        "1701-yil",
+        "Fridrix Vilgelm I"
+      ],
+      "answer": 0,
+      "explain": "1618–1648-yillar — germaniyadagi O'ttiz yillik urush.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): mavzudagi «1618–1648-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "250+ mayda davlat mustaqilligi",
+        "Germaniyadagi O'ttiz yillik urush",
+        "Prussiya qirolligining tashkil topishi",
+        "«Qirol-askar», 85 ming armiya"
+      ],
+      "answer": 1,
+      "explain": "1618–1648-yillar — germaniyadagi O'ttiz yillik urush.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikning tayanch ma'lumotlarida «1618–1648-yillar» — germaniyadagi O'ttiz yillik urush sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1618–1648-yillar — germaniyadagi O'ttiz yillik urush.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik ma'lumotlariga ko'ra «1618–1648-yillar» — 250+ mayda davlat mustaqilligi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1618–1648-yillar» — germaniyadagi O'ttiz yillik urush.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik jadvali va tayanch ma'lumotlariga ko'ra «250+ mayda davlat mustaqilligi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1618–1648-yillar",
+        "1701-yil",
+        "1648-yil Vestfal sulhi",
+        "Fridrix Vilgelm I"
+      ],
+      "answer": 2,
+      "explain": "1648-yil Vestfal sulhi — 250+ mayda davlat mustaqilligi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): mavzudagi «1648-yil Vestfal sulhi» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Germaniyadagi O'ttiz yillik urush",
+        "Prussiya qirolligining tashkil topishi",
+        "«Qirol-askar», 85 ming armiya",
+        "250+ mayda davlat mustaqilligi"
+      ],
+      "answer": 3,
+      "explain": "1648-yil Vestfal sulhi — 250+ mayda davlat mustaqilligi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikning tayanch ma'lumotlarida «1648-yil Vestfal sulhi» — 250+ mayda davlat mustaqilligi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1648-yil Vestfal sulhi — 250+ mayda davlat mustaqilligi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik ma'lumotlariga ko'ra «1648-yil Vestfal sulhi» — germaniyadagi O'ttiz yillik urush deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1648-yil Vestfal sulhi» — 250+ mayda davlat mustaqilligi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik jadvali va tayanch ma'lumotlariga ko'ra «Prussiya qirolligining tashkil topishi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1701-yil",
+        "1618–1648-yillar",
+        "1648-yil Vestfal sulhi",
+        "Fridrix Vilgelm I"
+      ],
+      "answer": 0,
+      "explain": "1701-yil — Prussiya qirolligining tashkil topishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): mavzudagi «1701-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Germaniyadagi O'ttiz yillik urush",
+        "Prussiya qirolligining tashkil topishi",
+        "250+ mayda davlat mustaqilligi",
+        "«Qirol-askar», 85 ming armiya"
+      ],
+      "answer": 1,
+      "explain": "1701-yil — Prussiya qirolligining tashkil topishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikning tayanch ma'lumotlarida «1701-yil» — Prussiya qirolligining tashkil topishi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1701-yil — Prussiya qirolligining tashkil topishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik ma'lumotlariga ko'ra «1701-yil» — germaniyadagi O'ttiz yillik urush deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1701-yil» — Prussiya qirolligining tashkil topishi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Qirol-askar», 85 ming armiya» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1618–1648-yillar",
+        "1648-yil Vestfal sulhi",
+        "Fridrix Vilgelm I",
+        "1701-yil"
+      ],
+      "answer": 2,
+      "explain": "Fridrix Vilgelm I — «Qirol-askar», 85 ming armiya.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): mavzudagi «Fridrix Vilgelm I» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Germaniyadagi O'ttiz yillik urush",
+        "250+ mayda davlat mustaqilligi",
+        "Prussiya qirolligining tashkil topishi",
+        "«Qirol-askar», 85 ming armiya"
+      ],
+      "answer": 3,
+      "explain": "Fridrix Vilgelm I — «Qirol-askar», 85 ming armiya.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikning tayanch ma'lumotlarida «Fridrix Vilgelm I» — «Qirol-askar», 85 ming armiya sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Fridrix Vilgelm I — «Qirol-askar», 85 ming armiya.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik ma'lumotlariga ko'ra «Fridrix Vilgelm I» — germaniyadagi O'ttiz yillik urush deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Fridrix Vilgelm I» — «Qirol-askar», 85 ming armiya.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik jadvali va tayanch ma'lumotlariga ko'ra «200 minglik armiya, byudjetning 2/3 qismi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "Fridrix II",
+        "1618–1648-yillar",
+        "1648-yil Vestfal sulhi",
+        "1701-yil"
+      ],
+      "answer": 0,
+      "explain": "Fridrix II — 200 minglik armiya, byudjetning 2/3 qismi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): mavzudagi «Fridrix II» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Germaniyadagi O'ttiz yillik urush",
+        "200 minglik armiya, byudjetning 2/3 qismi",
+        "250+ mayda davlat mustaqilligi",
+        "Prussiya qirolligining tashkil topishi"
+      ],
+      "answer": 1,
+      "explain": "Fridrix II — 200 minglik armiya, byudjetning 2/3 qismi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikning tayanch ma'lumotlarida «Fridrix II» — 200 minglik armiya, byudjetning 2/3 qismi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Fridrix II — 200 minglik armiya, byudjetning 2/3 qismi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik ma'lumotlariga ko'ra «Fridrix II» — germaniyadagi O'ttiz yillik urush deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Fridrix II» — 200 minglik armiya, byudjetning 2/3 qismi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik jadvali va tayanch ma'lumotlariga ko'ra «Usmoniylar qo'shinining mag'lubiyati» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1618–1648-yillar",
+        "1648-yil Vestfal sulhi",
+        "1683-yil Vena",
+        "1701-yil"
+      ],
+      "answer": 2,
+      "explain": "1683-yil Vena — Usmoniylar qo'shinining mag'lubiyati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): mavzudagi «1683-yil Vena» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Germaniyadagi O'ttiz yillik urush",
+        "250+ mayda davlat mustaqilligi",
+        "Prussiya qirolligining tashkil topishi",
+        "Usmoniylar qo'shinining mag'lubiyati"
+      ],
+      "answer": 3,
+      "explain": "1683-yil Vena — Usmoniylar qo'shinining mag'lubiyati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikning tayanch ma'lumotlarida «1683-yil Vena» — Usmoniylar qo'shinining mag'lubiyati sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1683-yil Vena — Usmoniylar qo'shinining mag'lubiyati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik ma'lumotlariga ko'ra «1683-yil Vena» — germaniyadagi O'ttiz yillik urush deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1683-yil Vena» — Usmoniylar qo'shinining mag'lubiyati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Hunarmandchilik ustavi» qabul qilindi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1731-yil",
+        "1618–1648-yillar",
+        "1648-yil Vestfal sulhi",
+        "1701-yil"
+      ],
+      "answer": 0,
+      "explain": "1731-yil — «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): mavzudagi «1731-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Germaniyadagi O'ttiz yillik urush",
+        "«Hunarmandchilik ustavi» qabul qilindi",
+        "250+ mayda davlat mustaqilligi",
+        "Prussiya qirolligining tashkil topishi"
+      ],
+      "answer": 1,
+      "explain": "1731-yil — «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikning tayanch ma'lumotlarida «1731-yil» — «Hunarmandchilik ustavi» qabul qilindi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1731-yil — «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik ma'lumotlariga ko'ra «1731-yil» — germaniyadagi O'ttiz yillik urush deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1731-yil» — «Hunarmandchilik ustavi» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik jadvali va tayanch ma'lumotlariga ko'ra «XVIII asr davomida reyxstag chiqargan qonunlar» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1618–1648-yillar",
+        "1648-yil Vestfal sulhi",
+        "2 ta qonun",
+        "1701-yil"
+      ],
+      "answer": 2,
+      "explain": "2 ta qonun — XVIII asr davomida reyxstag chiqargan qonunlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): mavzudagi «2 ta qonun» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Germaniyadagi O'ttiz yillik urush",
+        "250+ mayda davlat mustaqilligi",
+        "Prussiya qirolligining tashkil topishi",
+        "XVIII asr davomida reyxstag chiqargan qonunlar"
+      ],
+      "answer": 3,
+      "explain": "2 ta qonun — XVIII asr davomida reyxstag chiqargan qonunlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslikning tayanch ma'lumotlarida «2 ta qonun» — XVIII asr davomida reyxstag chiqargan qonunlar sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 2 ta qonun — XVIII asr davomida reyxstag chiqargan qonunlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): darslik ma'lumotlariga ko'ra «2 ta qonun» — germaniyadagi O'ttiz yillik urush deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «2 ta qonun» — XVIII asr davomida reyxstag chiqargan qonunlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «1648-yilda O'ttiz yillik urushni tugatgan sulh» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Vestfal",
+        "Prussiya",
+        "Reyxstag",
+        "Meysen"
+      ],
+      "answer": 0,
+      "explain": "Vestfal — 1648-yilda O'ttiz yillik urushni tugatgan sulh.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «1648-yilda O'ttiz yillik urushni tugatgan sulh» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Vestfal",
+        "vestfal",
+        "VESTFAL"
+      ],
+      "explain": "Vestfal — 1648-yilda O'ttiz yillik urushni tugatgan sulh.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vestfal» tayanch atamasi/nomi «1648-yilda O'ttiz yillik urushni tugatgan sulh» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Vestfal — 1648-yilda O'ttiz yillik urushni tugatgan sulh.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vestfal» atamasi/nomi darslikda «1701-yilda tashkil topgan harbiy qirollik» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Vestfal — 1648-yilda O'ttiz yillik urushni tugatgan sulh.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «1701-yilda tashkil topgan harbiy qirollik» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Vestfal",
+        "Prussiya",
+        "Reyxstag",
+        "Meysen"
+      ],
+      "answer": 1,
+      "explain": "Prussiya — 1701-yilda tashkil topgan harbiy qirollik.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «1701-yilda tashkil topgan harbiy qirollik» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Prussiya",
+        "prussiya",
+        "PRUSSIYA"
+      ],
+      "explain": "Prussiya — 1701-yilda tashkil topgan harbiy qirollik.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Prussiya» tayanch atamasi/nomi «1701-yilda tashkil topgan harbiy qirollik» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Prussiya — 1701-yilda tashkil topgan harbiy qirollik.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Prussiya» atamasi/nomi darslikda «1648-yilda O'ttiz yillik urushni tugatgan sulh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Prussiya — 1701-yilda tashkil topgan harbiy qirollik.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «imperiya knyazlari va shaharlar majlisi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Vestfal",
+        "Prussiya",
+        "Reyxstag",
+        "Meysen"
+      ],
+      "answer": 2,
+      "explain": "Reyxstag — imperiya knyazlari va shaharlar majlisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «imperiya knyazlari va shaharlar majlisi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Reyxstag",
+        "reyxstag",
+        "REYXSTAG"
+      ],
+      "explain": "Reyxstag — imperiya knyazlari va shaharlar majlisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Reyxstag» tayanch atamasi/nomi «imperiya knyazlari va shaharlar majlisi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Reyxstag — imperiya knyazlari va shaharlar majlisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Reyxstag» atamasi/nomi darslikda «1648-yilda O'ttiz yillik urushni tugatgan sulh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Reyxstag — imperiya knyazlari va shaharlar majlisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «yevropadagi ilk chinni zavodi shahri» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Vestfal",
+        "Prussiya",
+        "Reyxstag",
+        "Meysen"
+      ],
+      "answer": 3,
+      "explain": "Meysen — yevropadagi ilk chinni zavodi shahri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «yevropadagi ilk chinni zavodi shahri» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Meysen",
+        "meysen",
+        "MEYSEN"
+      ],
+      "explain": "Meysen — yevropadagi ilk chinni zavodi shahri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Meysen» tayanch atamasi/nomi «yevropadagi ilk chinni zavodi shahri» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Meysen — yevropadagi ilk chinni zavodi shahri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Meysen» atamasi/nomi darslikda «1648-yilda O'ttiz yillik urushni tugatgan sulh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Meysen — yevropadagi ilk chinni zavodi shahri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): ««Elbadagi Florensiya» deb atalgan shahar» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Drezden",
+        "Vestfal",
+        "Prussiya",
+        "Reyxstag"
+      ],
+      "answer": 0,
+      "explain": "Drezden — «Elbadagi Florensiya» deb atalgan shahar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): ««Elbadagi Florensiya» deb atalgan shahar» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Drezden",
+        "drezden",
+        "DREZDEN"
+      ],
+      "explain": "Drezden — «Elbadagi Florensiya» deb atalgan shahar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Drezden» tayanch atamasi/nomi ««Elbadagi Florensiya» deb atalgan shahar» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Drezden — «Elbadagi Florensiya» deb atalgan shahar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Drezden» atamasi/nomi darslikda «1648-yilda O'ttiz yillik urushni tugatgan sulh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Drezden — «Elbadagi Florensiya» deb atalgan shahar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): ««Kichik Parij» nomini olgan savdo shahri» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Vestfal",
+        "Leypsig",
+        "Prussiya",
+        "Reyxstag"
+      ],
+      "answer": 1,
+      "explain": "Leypsig — «Kichik Parij» nomini olgan savdo shahri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): ««Kichik Parij» nomini olgan savdo shahri» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Leypsig",
+        "leypsig",
+        "LEYPSIG"
+      ],
+      "explain": "Leypsig — «Kichik Parij» nomini olgan savdo shahri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Leypsig» tayanch atamasi/nomi ««Kichik Parij» nomini olgan savdo shahri» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Leypsig — «Kichik Parij» nomini olgan savdo shahri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Leypsig» atamasi/nomi darslikda «1648-yilda O'ttiz yillik urushni tugatgan sulh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Leypsig — «Kichik Parij» nomini olgan savdo shahri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «1699-yilgi Gabsburg–Usmoniy sulhi joyi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Vestfal",
+        "Prussiya",
+        "Karlovits",
+        "Reyxstag"
+      ],
+      "answer": 2,
+      "explain": "Karlovits — 1699-yilgi Gabsburg–Usmoniy sulhi joyi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «1699-yilgi Gabsburg–Usmoniy sulhi joyi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Karlovits",
+        "karlovits",
+        "KARLOVITS"
+      ],
+      "explain": "Karlovits — 1699-yilgi Gabsburg–Usmoniy sulhi joyi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Karlovits» tayanch atamasi/nomi «1699-yilgi Gabsburg–Usmoniy sulhi joyi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Karlovits — 1699-yilgi Gabsburg–Usmoniy sulhi joyi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Karlovits» atamasi/nomi darslikda «1648-yilda O'ttiz yillik urushni tugatgan sulh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Karlovits — 1699-yilgi Gabsburg–Usmoniy sulhi joyi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «1699-yilda Gabsburglarga o'tgan o'lka» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Vestfal",
+        "Prussiya",
+        "Reyxstag",
+        "Vengriya"
+      ],
+      "answer": 3,
+      "explain": "Vengriya — 1699-yilda Gabsburglarga o'tgan o'lka.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «1699-yilda Gabsburglarga o'tgan o'lka» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Vengriya",
+        "vengriya",
+        "VENGRIYA"
+      ],
+      "explain": "Vengriya — 1699-yilda Gabsburglarga o'tgan o'lka.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vengriya» tayanch atamasi/nomi «1699-yilda Gabsburglarga o'tgan o'lka» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Vengriya — 1699-yilda Gabsburglarga o'tgan o'lka.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Vengriya» atamasi/nomi darslikda «1648-yilda O'ttiz yillik urushni tugatgan sulh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Vengriya — 1699-yilda Gabsburglarga o'tgan o'lka.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «shimoliy Germaniyaning yirik savdo porti» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Gamburg",
+        "Vestfal",
+        "Prussiya",
+        "Reyxstag"
+      ],
+      "answer": 0,
+      "explain": "Gamburg — shimoliy Germaniyaning yirik savdo porti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «shimoliy Germaniyaning yirik savdo porti» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Gamburg",
+        "gamburg",
+        "GAMBURG"
+      ],
+      "explain": "Gamburg — shimoliy Germaniyaning yirik savdo porti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Gamburg» tayanch atamasi/nomi «shimoliy Germaniyaning yirik savdo porti» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Gamburg — shimoliy Germaniyaning yirik savdo porti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Gamburg» atamasi/nomi darslikda «1648-yilda O'ttiz yillik urushni tugatgan sulh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Gamburg — shimoliy Germaniyaning yirik savdo porti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «iqtisodiy rivojlangan nemis knyazligi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Vestfal",
+        "Saksoniya",
+        "Prussiya",
+        "Reyxstag"
+      ],
+      "answer": 1,
+      "explain": "Saksoniya — iqtisodiy rivojlangan nemis knyazligi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «iqtisodiy rivojlangan nemis knyazligi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Saksoniya",
+        "saksoniya",
+        "SAKSONIYA"
+      ],
+      "explain": "Saksoniya — iqtisodiy rivojlangan nemis knyazligi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Saksoniya» tayanch atamasi/nomi «iqtisodiy rivojlangan nemis knyazligi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Saksoniya — iqtisodiy rivojlangan nemis knyazligi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Saksoniya» atamasi/nomi darslikda «1648-yilda O'ttiz yillik urushni tugatgan sulh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Saksoniya — iqtisodiy rivojlangan nemis knyazligi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "9-mavzu (Germaniya imperiyasi): «janubiy Germaniyadagi yirik knyazlik» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Vestfal",
+        "Prussiya",
+        "Bavariya",
+        "Reyxstag"
+      ],
+      "answer": 2,
+      "explain": "Bavariya — janubiy Germaniyadagi yirik knyazlik.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "9-mavzu (Germaniya imperiyasi): «janubiy Germaniyadagi yirik knyazlik» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Bavariya",
+        "bavariya",
+        "BAVARIYA"
+      ],
+      "explain": "Bavariya — janubiy Germaniyadagi yirik knyazlik.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Bavariya» tayanch atamasi/nomi «janubiy Germaniyadagi yirik knyazlik» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Bavariya — janubiy Germaniyadagi yirik knyazlik.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "9-mavzu (Germaniya imperiyasi): «Bavariya» atamasi/nomi darslikda «1648-yilda O'ttiz yillik urushni tugatgan sulh» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Bavariya — janubiy Germaniyadagi yirik knyazlik.",
+      "difficulty": "medium"
+    }
+  ],
+  "cards": [
+    [
+      "VESTFAL",
+      "1648-yilda O'ttiz yillik urushni tugatgan sulh"
+    ],
+    [
+      "PRUSSIYA",
+      "1701-yilda tashkil topgan harbiy qirollik"
+    ],
+    [
+      "REYXSTAG",
+      "Imperiya knyazlari va shaharlar majlisi"
+    ],
+    [
+      "MEYSEN",
+      "Yevropadagi ilk chinni zavodi shahri"
+    ],
+    [
+      "DREZDEN",
+      "«Elbadagi Florensiya» deb atalgan shahar"
+    ],
+    [
+      "LEYPSIG",
+      "«Kichik Parij» nomini olgan savdo shahri"
+    ],
+    [
+      "KARLOVITS",
+      "1699-yilgi Gabsburg–Usmoniy sulhi joyi"
+    ],
+    [
+      "VENGRIYA",
+      "1699-yilda Gabsburglarga o'tgan o'lka"
+    ],
+    [
+      "GAMBURG",
+      "Shimoliy Germaniyaning yirik savdo porti"
+    ],
+    [
+      "SAKSONIYA",
+      "Iqtisodiy rivojlangan nemis knyazligi"
+    ],
+    [
+      "BAVARIYA",
+      "Janubiy Germaniyadagi yirik knyazlik"
+    ],
+    [
+      "1618–1648-yillar",
+      "Germaniyadagi O'ttiz yillik urush"
+    ],
+    [
+      "1648-yil Vestfal sulhi",
+      "250+ mayda davlat mustaqilligi"
+    ],
+    [
+      "1701-yil",
+      "Prussiya qirolligining tashkil topishi"
+    ],
+    [
+      "Fridrix Vilgelm I",
+      "«Qirol-askar», 85 ming armiya"
+    ],
+    [
+      "Fridrix II",
+      "200 minglik armiya, byudjetning 2/3 qismi"
+    ],
+    [
+      "1683-yil Vena",
+      "Usmoniylar qo'shinining mag'lubiyati"
+    ],
+    [
+      "1731-yil",
+      "«Hunarmandchilik ustavi» qabul qilindi"
+    ],
+    [
+      "2 ta qonun",
+      "XVIII asr davomida reyxstag chiqargan qonunlar"
+    ],
+    [
+      "Vestfal sulhi",
+      "1648-yilda O'ttiz yillik urushni yakunlab, Germaniyada knyazliklar m"
+    ],
+    [
+      "Qirol-askar",
+      "Harbiy intizomga mukkasidan ketgan Prussiya qiroli Fridrix Vilgelm I"
+    ],
+    [
+      "Karlovits sulhi",
+      "1699-yilda Usmoniylar bilan tuzilib, Gabsburglarga Vengriya va Trans"
+    ],
+    [
+      "Meysen chinnisi",
+      "Saksoniyaning Meysen shahrida tashkil etilgan Yevropadagi birinchi c"
+    ],
+    [
+      "Gabsburglar",
+      "Muqaddas Rim imperiyasi imperatori unvonini merosiy ravishda egallab"
+    ],
+    [
+      "1618-yil",
+      "Germaniyada diniy va siyosiy nizolar tufayli O'ttiz yillik urush bos"
+    ],
+    [
+      "1648-yil",
+      "Vestfal sulhi imzolanib O'ttiz yillik urush tugadi va Germaniya 250"
+    ],
+    [
+      "1683-yil",
+      "Vena ostonalarida Usmoniylar imperiyasi qo'shinlari mag'lubiyatga uc"
+    ],
+    [
+      "1699-yil",
+      "26-yanvarda Karlovits sulhi tuzilib Vengriya, Transilvaniya va Xorva"
+    ],
+    [
+      "1713-yil",
+      "Fridrix Vilgelm I («qirol-askar») Prussiya taxtiga o'tirib yirik arm"
+    ]
+  ]
+}

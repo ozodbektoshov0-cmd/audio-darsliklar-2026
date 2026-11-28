@@ -1,0 +1,2908 @@
+{
+  "id": "g9-uz-jahon-tarixi-23-germaniya-va-italiyani-birlashtirish",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "23-mavzu. Germaniya va Italiyada mamlakatni birlashtirish uchun kurash",
+  "title": "23-mavzu. Germaniya va Italiyada mamlakatni birlashtirish uchun kurash",
+  "source": "Jahon tarixi 9-sinf (2024), 23-mavzu, 126–130-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): qaysi yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi?",
+      "options": [
+        "1847-yil",
+        "1848-yil",
+        "1815-yil",
+        "1850-yil"
+      ],
+      "answer": 2,
+      "explain": "1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi) mavzusiga ko'ra 1815-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi",
+        "Prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi",
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi"
+      ],
+      "answer": 3,
+      "explain": "1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ____-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi. (Yilni kiriting)",
+      "answer": [
+        "1815",
+        "1815-yil",
+        "1815-yilda"
+      ],
+      "explain": "1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1815-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1847-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1847-yilda emas, 1815-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik xronologiyasiga ko'ra 1848-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): qaysi yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi?",
+      "options": [
+        "1815-yil",
+        "1847-yil",
+        "1848-yil",
+        "1850-yil"
+      ],
+      "answer": 1,
+      "explain": "1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi) mavzusiga ko'ra 1847-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi",
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "Prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi"
+      ],
+      "answer": 2,
+      "explain": "1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ____-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi. (Yilni kiriting)",
+      "answer": [
+        "1847",
+        "1847-yil",
+        "1847-yilda"
+      ],
+      "explain": "1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1847-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi.",
+      "answer": true,
+      "explain": "To'g'ri. 1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1815-yilda emas, 1847-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik xronologiyasiga ko'ra 1848-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): qaysi yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi?",
+      "options": [
+        "1848-yil",
+        "1815-yil",
+        "1847-yil",
+        "1850-yil"
+      ],
+      "answer": 0,
+      "explain": "1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi) mavzusiga ko'ra 1848-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi",
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "Prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi"
+      ],
+      "answer": 1,
+      "explain": "1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ____-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi. (Yilni kiriting)",
+      "answer": [
+        "1848",
+        "1848-yil",
+        "1848-yilda"
+      ],
+      "explain": "1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1848-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. 1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1815-yilda emas, 1848-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik xronologiyasiga ko'ra 1847-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): qaysi yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi?",
+      "options": [
+        "1815-yil",
+        "1847-yil",
+        "1848-yil",
+        "1850-yil"
+      ],
+      "answer": 3,
+      "explain": "1850-yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi) mavzusiga ko'ra 1850-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi",
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi"
+      ],
+      "answer": 0,
+      "explain": "1850-yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ____-yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi. (Yilni kiriting)",
+      "answer": [
+        "1850",
+        "1850-yil",
+        "1850-yilda"
+      ],
+      "explain": "1850-yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1850-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1850-yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1850-yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1815-yilda emas, 1850-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik xronologiyasiga ko'ra 1847-yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1850-yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): qaysi yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi?",
+      "options": [
+        "1815-yil",
+        "1847-yil",
+        "1860-yil",
+        "1848-yil"
+      ],
+      "answer": 2,
+      "explain": "1860-yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi) mavzusiga ko'ra 1860-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi",
+        "Juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi"
+      ],
+      "answer": 3,
+      "explain": "1860-yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ____-yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi. (Yilni kiriting)",
+      "answer": [
+        "1860",
+        "1860-yil",
+        "1860-yilda"
+      ],
+      "explain": "1860-yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1860-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1860-yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1860-yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1815-yilda emas, 1860-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik xronologiyasiga ko'ra 1847-yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1860-yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): qaysi yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi?",
+      "options": [
+        "1815-yil",
+        "1861-yil",
+        "1847-yil",
+        "1848-yil"
+      ],
+      "answer": 1,
+      "explain": "1861-yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi) mavzusiga ko'ra 1861-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi"
+      ],
+      "answer": 2,
+      "explain": "1861-yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ____-yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi. (Yilni kiriting)",
+      "answer": [
+        "1861",
+        "1861-yil",
+        "1861-yilda"
+      ],
+      "explain": "1861-yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1861-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1861-yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. 1861-yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1815-yilda emas, 1861-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik xronologiyasiga ko'ra 1847-yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1861-yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): qaysi yilda Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi?",
+      "options": [
+        "1866-yil",
+        "1815-yil",
+        "1847-yil",
+        "1848-yil"
+      ],
+      "answer": 0,
+      "explain": "1866-yilda Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi) mavzusiga ko'ra 1866-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi",
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi"
+      ],
+      "answer": 1,
+      "explain": "1866-yilda Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ____-yilda Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi. (Yilni kiriting)",
+      "answer": [
+        "1866",
+        "1866-yil",
+        "1866-yilda"
+      ],
+      "explain": "1866-yilda Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1866-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1866-yilda Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1866-yilda Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilda Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1815-yilda emas, 1866-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik xronologiyasiga ko'ra 1847-yilda Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1866-yilda Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): qaysi yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi?",
+      "options": [
+        "1815-yil",
+        "1847-yil",
+        "1848-yil",
+        "1870-yil"
+      ],
+      "answer": 3,
+      "explain": "1870-yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi) mavzusiga ko'ra 1870-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi",
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi"
+      ],
+      "answer": 0,
+      "explain": "1870-yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ____-yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi. (Yilni kiriting)",
+      "answer": [
+        "1870",
+        "1870-yil",
+        "1870-yilda"
+      ],
+      "explain": "1870-yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1870-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1870-yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1870-yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1815-yilda emas, 1870-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik xronologiyasiga ko'ra 1847-yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1870-yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): qaysi yilda yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi?",
+      "options": [
+        "1815-yil",
+        "1847-yil",
+        "1871-yil",
+        "1848-yil"
+      ],
+      "answer": 2,
+      "explain": "1871-yilda yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi) mavzusiga ko'ra 1871-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi",
+        "Yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi"
+      ],
+      "answer": 3,
+      "explain": "1871-yilda yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ____-yilda yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi. (Yilni kiriting)",
+      "answer": [
+        "1871",
+        "1871-yil",
+        "1871-yilda"
+      ],
+      "explain": "1871-yilda yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1871-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1871-yilda yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. 1871-yilda yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilda yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1815-yilda emas, 1871-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik xronologiyasiga ko'ra 1847-yilda yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1871-yilda yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «8-iyunda Vena kongressi qarori b...» hamda «Prussiyada agrar munosabatlarni...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi",
+        "Prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi"
+      ],
+      "answer": 1,
+      "explain": "1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «8-iyunda Vena kongressi qarori b...» hamda «Prussiyada agrar munosabatlarni...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "Prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi"
+      ],
+      "answer": 2,
+      "explain": "1850-yilda prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Berlin ko'chalarida barrikada ja...» hamda «17-martda Viktor Emmanuil II bir...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi",
+        "Juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi",
+        "17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi"
+      ],
+      "answer": 3,
+      "explain": "1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Berlin ko'chalarida barrikada ja...» hamda «17-martda Viktor Emmanuil II bir...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi",
+        "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi",
+        "Prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi",
+        "Juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi"
+      ],
+      "answer": 0,
+      "explain": "1861-yilda 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Juzeppe Garibaldi «Minglar yuris...» hamda «Fransiya mag'lubiyatidan so'ng R...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi",
+        "Juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi",
+        "Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi",
+        "Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi"
+      ],
+      "answer": 1,
+      "explain": "1860-yilda juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Juzeppe Garibaldi «Minglar yuris...» hamda «Fransiya mag'lubiyatidan so'ng R...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi",
+        "17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi",
+        "Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi",
+        "Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi"
+      ],
+      "answer": 2,
+      "explain": "1870-yilda Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi voqeasi Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yil 1847-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi voqeasi 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi, 1847-yilda esa Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi voqeasi Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yil 1848-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi voqeasi 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi, 1848-yilda esa Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi voqeasi prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yil 1850-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi voqeasi 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi, 1850-yilda esa prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi voqeasi juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yil 1860-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi voqeasi 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi, 1860-yilda esa juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi voqeasi 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yil 1861-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi voqeasi 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi, 1861-yilda esa 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi voqeasi Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yil 1866-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi voqeasi 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi, 1866-yilda esa Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi voqeasi Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yil 1870-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi voqeasi 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi, 1870-yilda esa Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi voqeasi yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yil 1871-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi voqeasi 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi, 1871-yilda esa yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan Germaniya imperatori deb e'lon qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi voqeasi Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1847-yil 1848-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi voqeasi Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi, 1848-yilda esa Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi voqeasi prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1847-yil 1850-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi voqeasi Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi, 1850-yilda esa prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan dehqonlar farmoni chiqarildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi voqeasi juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1847-yil 1860-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi voqeasi Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi, 1860-yilda esa juzeppe Garibaldi «Minglar yurishi» bilan Sitsiliya (Palermo) va Neapolni ozod qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi voqeasi 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1847-yil 1861-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi voqeasi Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi, 1861-yilda esa 17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb e'lon qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi voqeasi Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1847-yil 1866-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi voqeasi Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi, 1866-yilda esa Prussiya Avstriyani yengib Shimoliy Germaniya ittifoqini tuzdi, Italiyaga esa Venetsiya qo'shildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): xronologiyaga ko'ra Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi voqeasi Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1847-yil 1870-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy ketma-ketlikka ko'ra Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi voqeasi Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi, 1870-yilda esa Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona poytaxtiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ««Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Vilgelm I",
+        "Alfred Krupp",
+        "Kamillo di Kavur",
+        "Otto fon Bismark"
+      ],
+      "answer": 3,
+      "explain": "Otto fon Bismark (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Otto fon Bismarkning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob",
+        "1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh",
+        "XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor",
+        "«Risorjimento» gazetasi noshiri va 1861-yilda birlashgan Italiya qirolligining birinchi bosh vaziri"
+      ],
+      "answer": 0,
+      "explain": "Otto fon Bismark (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Otto fon Bismark"
+      ],
+      "explain": "Otto fon Bismark (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Otto fon Bismark (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi.",
+      "answer": true,
+      "explain": "To'g'ri. Otto fon Bismark (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Otto fon Bismark — 1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh.",
+      "answer": false,
+      "explain": "Noto'g'ri. Otto fon Bismark (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikda Otto fon Bismark «XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Otto fon Bismark (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi».",
+      "options": [
+        "Vilgelm I",
+        "Otto fon Bismark",
+        "Alfred Krupp",
+        "Kamillo di Kavur"
+      ],
+      "answer": 1,
+      "explain": "Otto fon Bismark (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «____ (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Otto fon Bismark"
+      ],
+      "explain": "Otto fon Bismark (1815–1898) Avstriya va Fransiyaga qarshi g'alabali urushlar orqali Germaniya imperiyasini tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Otto fon Bismark",
+        "Alfred Krupp",
+        "Vilgelm I",
+        "Kamillo di Kavur"
+      ],
+      "answer": 2,
+      "explain": "Gogensollernlar sulolasidan Vilgelm I Prussiya boshchiligida Germaniyani birlashtirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Vilgelm Ining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob",
+        "XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor",
+        "«Risorjimento» gazetasi noshiri va 1861-yilda birlashgan Italiya qirolligining birinchi bosh vaziri",
+        "1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh"
+      ],
+      "answer": 3,
+      "explain": "Gogensollernlar sulolasidan Vilgelm I Prussiya boshchiligida Germaniyani birlashtirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Vilgelm I"
+      ],
+      "explain": "Gogensollernlar sulolasidan Vilgelm I Prussiya boshchiligida Germaniyani birlashtirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Gogensollernlar sulolasidan Vilgelm I Prussiya boshchiligida Germaniyani birlashtirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Gogensollernlar sulolasidan Vilgelm I Prussiya boshchiligida Germaniyani birlashtirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Vilgelm I — «Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob.",
+      "answer": false,
+      "explain": "Noto'g'ri. Gogensollernlar sulolasidan Vilgelm I Prussiya boshchiligida Germaniyani birlashtirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikda Vilgelm I «XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Gogensollernlar sulolasidan Vilgelm I Prussiya boshchiligida Germaniyani birlashtirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Gogensollernlar sulolasidan ____ Prussiya boshchiligida Germaniyani birlashtirdi».",
+      "options": [
+        "Vilgelm I",
+        "Otto fon Bismark",
+        "Alfred Krupp",
+        "Kamillo di Kavur"
+      ],
+      "answer": 0,
+      "explain": "Gogensollernlar sulolasidan Vilgelm I Prussiya boshchiligida Germaniyani birlashtirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Gogensollernlar sulolasidan ____ Prussiya boshchiligida Germaniyani birlashtirdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Vilgelm I"
+      ],
+      "explain": "Gogensollernlar sulolasidan Vilgelm I Prussiya boshchiligida Germaniyani birlashtirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Otto fon Bismark",
+        "Alfred Krupp",
+        "Vilgelm I",
+        "Kamillo di Kavur"
+      ],
+      "answer": 1,
+      "explain": "Krupp, Borzig (lokomotivlar), Simens va Galske (telegraf/kabel) Germaniya sanoatini ko'tardilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Alfred Kruppning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob",
+        "1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh",
+        "XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor",
+        "«Risorjimento» gazetasi noshiri va 1861-yilda birlashgan Italiya qirolligining birinchi bosh vaziri"
+      ],
+      "answer": 2,
+      "explain": "Krupp, Borzig (lokomotivlar), Simens va Galske (telegraf/kabel) Germaniya sanoatini ko'tardilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Alfred Krupp"
+      ],
+      "explain": "Krupp, Borzig (lokomotivlar), Simens va Galske (telegraf/kabel) Germaniya sanoatini ko'tardilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Krupp, Borzig (lokomotivlar), Simens va Galske (telegraf/kabel) Germaniya sanoatini ko'tardilar.",
+      "answer": true,
+      "explain": "To'g'ri. Krupp, Borzig (lokomotivlar), Simens va Galske (telegraf/kabel) Germaniya sanoatini ko'tardilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Alfred Krupp — «Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob.",
+      "answer": false,
+      "explain": "Noto'g'ri. Krupp, Borzig (lokomotivlar), Simens va Galske (telegraf/kabel) Germaniya sanoatini ko'tardilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikda Alfred Krupp «1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Krupp, Borzig (lokomotivlar), Simens va Galske (telegraf/kabel) Germaniya sanoatini ko'tardilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ««Risorjimento» gazetasi noshiri va 1861-yilda birlashgan Italiya qirolligining birinchi bosh vaziri» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Otto fon Bismark",
+        "Vilgelm I",
+        "Alfred Krupp",
+        "Kamillo di Kavur"
+      ],
+      "answer": 3,
+      "explain": "Kamillo di Kavur (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Kamillo di Kavurning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Risorjimento» gazetasi noshiri va 1861-yilda birlashgan Italiya qirolligining birinchi bosh vaziri",
+        "«Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob",
+        "1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh",
+        "XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor"
+      ],
+      "answer": 0,
+      "explain": "Kamillo di Kavur (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Risorjimento» gazetasi noshiri va 1861-yilda birlashgan Italiya qirolligining birinchi bosh vaziri bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Kamillo di Kavur"
+      ],
+      "explain": "Kamillo di Kavur (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Kamillo di Kavur (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi.",
+      "answer": true,
+      "explain": "To'g'ri. Kamillo di Kavur (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Kamillo di Kavur — «Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kamillo di Kavur (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikda Kamillo di Kavur «1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kamillo di Kavur (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi».",
+      "options": [
+        "Otto fon Bismark",
+        "Kamillo di Kavur",
+        "Vilgelm I",
+        "Alfred Krupp"
+      ],
+      "answer": 1,
+      "explain": "Kamillo di Kavur (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «____ (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Kamillo di Kavur"
+      ],
+      "explain": "Kamillo di Kavur (1810–1861) diplomatiya va iqtisodiy islohotlar orqali Italiya birlashuvini ta'minladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «italiyani respublika asosida birlashtirish uchun «Yosh Italiya» tashkilotini tuzgan vatanparvar» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Otto fon Bismark",
+        "Vilgelm I",
+        "Juzeppe Madzini",
+        "Alfred Krupp"
+      ],
+      "answer": 2,
+      "explain": "Juzeppe Madzini (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Juzeppe Madzinining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob",
+        "1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh",
+        "XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor",
+        "Italiyani respublika asosida birlashtirish uchun «Yosh Italiya» tashkilotini tuzgan vatanparvar"
+      ],
+      "answer": 3,
+      "explain": "Juzeppe Madzini (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): italiyani respublika asosida birlashtirish uchun «Yosh Italiya» tashkilotini tuzgan vatanparvar bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Juzeppe Madzini"
+      ],
+      "explain": "Juzeppe Madzini (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Juzeppe Madzini (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi.",
+      "answer": true,
+      "explain": "To'g'ri. Juzeppe Madzini (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Juzeppe Madzini — «Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob.",
+      "answer": false,
+      "explain": "Noto'g'ri. Juzeppe Madzini (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikda Juzeppe Madzini «1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Juzeppe Madzini (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi».",
+      "options": [
+        "Juzeppe Madzini",
+        "Otto fon Bismark",
+        "Vilgelm I",
+        "Alfred Krupp"
+      ],
+      "answer": 0,
+      "explain": "Juzeppe Madzini (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «____ (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Juzeppe Madzini"
+      ],
+      "explain": "Juzeppe Madzini (1805–1872) italyan xalqi orasida milliy uyg'onish va birlik g'oyalarini yoydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1860-yilda qizil ko'ylakli ko'ngillilar bilan Sitsiliya (Palermo) va Neapolni ozod qilgan xalq qahramoni» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Otto fon Bismark",
+        "Juzeppe Garibaldi",
+        "Vilgelm I",
+        "Alfred Krupp"
+      ],
+      "answer": 1,
+      "explain": "Juzeppe Garibaldi (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Juzeppe Garibaldining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob",
+        "1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh",
+        "1860-yilda qizil ko'ylakli ko'ngillilar bilan Sitsiliya (Palermo) va Neapolni ozod qilgan xalq qahramoni",
+        "XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor"
+      ],
+      "answer": 2,
+      "explain": "Juzeppe Garibaldi (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1860-yilda qizil ko'ylakli ko'ngillilar bilan Sitsiliya (Palermo) va Neapolni ozod qilgan xalq qahramoni bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Juzeppe Garibaldi"
+      ],
+      "explain": "Juzeppe Garibaldi (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Juzeppe Garibaldi (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi.",
+      "answer": true,
+      "explain": "To'g'ri. Juzeppe Garibaldi (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Juzeppe Garibaldi — «Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob.",
+      "answer": false,
+      "explain": "Noto'g'ri. Juzeppe Garibaldi (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikda Juzeppe Garibaldi «1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Juzeppe Garibaldi (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi».",
+      "options": [
+        "Otto fon Bismark",
+        "Vilgelm I",
+        "Alfred Krupp",
+        "Juzeppe Garibaldi"
+      ],
+      "answer": 3,
+      "explain": "Juzeppe Garibaldi (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «____ (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Juzeppe Garibaldi"
+      ],
+      "explain": "Juzeppe Garibaldi (1807–1882) ozod etgan janubiy yerlarni Italiya qirolligiga topshirib birlashuvni yakunladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1861-yil 17-martda birlashgan Italiya qirolligining birinchi qiroli deb e'lon qilingan hukmdor» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Viktor Emmanuil II",
+        "Otto fon Bismark",
+        "Vilgelm I",
+        "Alfred Krupp"
+      ],
+      "answer": 0,
+      "explain": "Viktor Emmanuil II boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Viktor Emmanuil IIning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob",
+        "1861-yil 17-martda birlashgan Italiya qirolligining birinchi qiroli deb e'lon qilingan hukmdor",
+        "1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh",
+        "XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga aylangan tadbirkor"
+      ],
+      "answer": 1,
+      "explain": "Viktor Emmanuil II boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1861-yil 17-martda birlashgan Italiya qirolligining birinchi qiroli deb e'lon qilingan hukmdor bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Viktor Emmanuil II"
+      ],
+      "explain": "Viktor Emmanuil II boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Viktor Emmanuil II boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. Viktor Emmanuil II boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Viktor Emmanuil II — «Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir va qon» bilan birlashtirgan arbob.",
+      "answer": false,
+      "explain": "Noto'g'ri. Viktor Emmanuil II boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikda Viktor Emmanuil II «1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasining birinchi imperatori bo'lgan shoh» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Viktor Emmanuil II boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi».",
+      "options": [
+        "Otto fon Bismark",
+        "Vilgelm I",
+        "Viktor Emmanuil II",
+        "Alfred Krupp"
+      ],
+      "answer": 2,
+      "explain": "Viktor Emmanuil II boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «____ boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Viktor Emmanuil II"
+      ],
+      "explain": "Viktor Emmanuil II boshchiligidagi Sardiniya-Pyemont qirolligi Italiya birlashuvining markazi bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Prusscha yo'l",
+        "Risorjimento",
+        "Karbonariylar",
+        "Yunker xo'jaligi"
+      ],
+      "answer": 3,
+      "explain": "Yunker xo'jaligi — prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Yunker xo'jaligi» atamasi nimani anglatadi?",
+      "options": [
+        "Prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi",
+        "Qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli",
+        "Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati",
+        "1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»)"
+      ],
+      "answer": 0,
+      "explain": "Yunker xo'jaligi — prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Yunker xo'jaligi",
+        "yunker xo'jaligi"
+      ],
+      "explain": "Yunker xo'jaligi — prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Yunker xo'jaligi» tushunchasi «prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Yunker xo'jaligi — prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Yunker xo'jaligi» deganda qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Yunker xo'jaligi — prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy lug'atga ko'ra «Yunker xo'jaligi» — «Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Yunker xo'jaligi — prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Yunker xo'jaligi",
+        "Prusscha yo'l",
+        "Risorjimento",
+        "Karbonariylar"
+      ],
+      "answer": 1,
+      "explain": "Prusscha yo'l — qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Prusscha yo'l» atamasi nimani anglatadi?",
+      "options": [
+        "Prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi",
+        "Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati",
+        "Qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli",
+        "1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»)"
+      ],
+      "answer": 2,
+      "explain": "Prusscha yo'l — qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Prusscha yo'l",
+        "prusscha yo'l"
+      ],
+      "explain": "Prusscha yo'l — qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Prusscha yo'l» tushunchasi «qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Prusscha yo'l — qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Prusscha yo'l» deganda prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Prusscha yo'l — qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy lug'atga ko'ra «Prusscha yo'l» — «Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Prusscha yo'l — qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Yunker xo'jaligi",
+        "Prusscha yo'l",
+        "Karbonariylar",
+        "Risorjimento"
+      ],
+      "answer": 3,
+      "explain": "Risorjimento — Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Risorjimento» atamasi nimani anglatadi?",
+      "options": [
+        "Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati",
+        "Prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi",
+        "Qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli",
+        "1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»)"
+      ],
+      "answer": 0,
+      "explain": "Risorjimento — Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Risorjimento",
+        "risorjimento"
+      ],
+      "explain": "Risorjimento — Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Risorjimento» tushunchasi «Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Risorjimento — Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Risorjimento» deganda prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Risorjimento — Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy lug'atga ko'ra «Risorjimento» — «qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Risorjimento — Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»)» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Yunker xo'jaligi",
+        "Karbonariylar",
+        "Prusscha yo'l",
+        "Risorjimento"
+      ],
+      "answer": 1,
+      "explain": "Karbonariylar — 1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Karbonariylar» atamasi nimani anglatadi?",
+      "options": [
+        "Prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi",
+        "Qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli",
+        "1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»)",
+        "Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati"
+      ],
+      "answer": 2,
+      "explain": "Karbonariylar — 1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»)» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Karbonariylar",
+        "karbonariylar"
+      ],
+      "explain": "Karbonariylar — 1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Karbonariylar» tushunchasi «1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»)» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Karbonariylar — 1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Karbonariylar» deganda prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Karbonariylar — 1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy lug'atga ko'ra «Karbonariylar» — «qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Karbonariylar — 1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashgan maxfiy jamiyat («ko'mirchilar»).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto fon Bismarkning tarixiy laqabi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Yunker xo'jaligi",
+        "Prusscha yo'l",
+        "Risorjimento",
+        "Temir kansler"
+      ],
+      "answer": 3,
+      "explain": "Temir kansler — germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto fon Bismarkning tarixiy laqabi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Temir kansler» atamasi nimani anglatadi?",
+      "options": [
+        "Germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto fon Bismarkning tarixiy laqabi",
+        "Prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi",
+        "Qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli",
+        "Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib birlashtirish harakati"
+      ],
+      "answer": 0,
+      "explain": "Temir kansler — germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto fon Bismarkning tarixiy laqabi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto fon Bismarkning tarixiy laqabi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Temir kansler",
+        "temir kansler"
+      ],
+      "explain": "Temir kansler — germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto fon Bismarkning tarixiy laqabi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Temir kansler» tushunchasi «germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto fon Bismarkning tarixiy laqabi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Temir kansler — germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto fon Bismarkning tarixiy laqabi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Temir kansler» deganda prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik bozorga o'tgan yirik pomeshchik xo'jaligi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Temir kansler — germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto fon Bismarkning tarixiy laqabi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): tarixiy lug'atga ko'ra «Temir kansler» — «qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kapitalizmga o'tish modeli» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Temir kansler — germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto fon Bismarkning tarixiy laqabi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yil 8-iyunda tuzilgan German ittifoqi tarkibiga nechta davlat va shahar kirgan hamda unga qaysi davlat doimiy raislik qilgan?",
+      "options": [
+        "Faqat 2 ta davlat; Fransiya raislik qilgan",
+        "34 ta davlat va 4 ta erkin shahar; Avstriya doimiy raislik qilgan",
+        "250 ta knyazlik; Rossiya raislik qilgan",
+        "10 ta respublika; Shveysariya raislik qilgan"
+      ],
+      "answer": 1,
+      "explain": "Avstriya va Prussiya o'rtasidagi raqobat Germaniyani birlashtirish masalasini belgilab berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1815-yil 8-iyunda tuzilgan German ittifoqi tarkibiga nechta davlat va shahar kirgan hamda unga qaysi davlat doimiy raislik qilgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1815-yilda tuzilgan German ittifoqiga Prussiya doimiy yakka raislik qilgan",
+        "XIX asr o'rtalarida Germaniyada birorta ham temiryo'l yoki mashinasozlik zavodi yo'q edi",
+        "German ittifoqiga 34 davlat va 4 erkin shahar kirib, Angliya (Gannover), Daniya (Golshteyn) va Niderlandiya (Luksemburg) qirollari ham a'zo edi",
+        "1866-yilgi urushda Avstriya Prussiyani tor-mor etib Berlinni egalladi"
+      ],
+      "answer": 2,
+      "explain": "Avstriya va Prussiya o'rtasidagi raqobat Germaniyani birlashtirish masalasini belgilab berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1815-yil 8-iyunda tuzilgan German ittifoqi tarkibiga nechta davlat va shahar kirgan hamda unga qaysi davlat doimiy raislik qilgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi",
+        "1815-yilda tuzilgan German ittifoqiga Prussiya doimiy yakka raislik qilgan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: 1815-yilda tuzilgan German ittifoqiga Prussiya doimiy yakka raislik qilgan. Aslida: Avstriya va Prussiya o'rtasidagi raqobat Germaniyani birlashtirish masalasini belgilab berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): German ittifoqiga 34 davlat va 4 erkin shahar kirib, Angliya (Gannover), Daniya (Golshteyn) va Niderlandiya (Luksemburg) qirollari ham a'zo edi.",
+      "answer": true,
+      "explain": "To'g'ri. Avstriya va Prussiya o'rtasidagi raqobat Germaniyani birlashtirish masalasini belgilab berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilda tuzilgan German ittifoqiga Prussiya doimiy yakka raislik qilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Avstriya va Prussiya o'rtasidagi raqobat Germaniyani birlashtirish masalasini belgilab berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik izohiga ko'ra Avstriya va Prussiya o'rtasidagi raqobat Germaniyani birlashtirish masalasini belgilab berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Avstriya va Prussiya o'rtasidagi raqobat Germaniyani birlashtirish masalasini belgilab berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): XIX asr o'rtalarida Germaniya sanoatida Borzig, Simens va Galske hamda fon Unru qaysi tarmoqlarda mashhur bo'lganlar?",
+      "options": [
+        "Borzig — lokomotivlar, Simens va Galske — telegraf va kabel, fon Unru — temiryo'l qurilishi",
+        "Barchasi faqat chinni idishlar yasagan",
+        "Ular shoir va musiqachilar edi",
+        "Faqat kemalar uchun yelkan tikkanlar"
+      ],
+      "answer": 0,
+      "explain": "Iqtisodiy birlikka bo'lgan ehtiyoj siyosiy birlashuvni ham tezlashtirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «XIX asr o'rtalarida Germaniya sanoatida Borzig, Simens va Galske hamda fon Unru qaysi tarmoqlarda mashhur bo'lganlar» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XIX asr o'rtalarida Germaniyada birorta ham temiryo'l yoki mashinasozlik zavodi yo'q edi",
+        "Borzig lokomotivlari, Krupp qurollari va Simens telegrafi Germaniyani kuchli sanoat davlatiga aylantirdi",
+        "1815-yilda tuzilgan German ittifoqiga Prussiya doimiy yakka raislik qilgan",
+        "1866-yilgi urushda Avstriya Prussiyani tor-mor etib Berlinni egalladi"
+      ],
+      "answer": 1,
+      "explain": "Iqtisodiy birlikka bo'lgan ehtiyoj siyosiy birlashuvni ham tezlashtirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «XIX asr o'rtalarida Germaniya sanoatida Borzig, Simens va Galske hamda fon Unru qaysi tarmoqlarda mashhur bo'lganlar» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "XIX asr o'rtalarida Germaniyada birorta ham temiryo'l yoki mashinasozlik zavodi yo'q edi",
+        "1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: XIX asr o'rtalarida Germaniyada birorta ham temiryo'l yoki mashinasozlik zavodi yo'q edi. Aslida: Iqtisodiy birlikka bo'lgan ehtiyoj siyosiy birlashuvni ham tezlashtirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Borzig lokomotivlari, Krupp qurollari va Simens telegrafi Germaniyani kuchli sanoat davlatiga aylantirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Iqtisodiy birlikka bo'lgan ehtiyoj siyosiy birlashuvni ham tezlashtirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): XIX asr o'rtalarida Germaniyada birorta ham temiryo'l yoki mashinasozlik zavodi yo'q edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Iqtisodiy birlikka bo'lgan ehtiyoj siyosiy birlashuvni ham tezlashtirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik izohiga ko'ra iqtisodiy birlikka bo'lgan ehtiyoj siyosiy birlashuvni ham tezlashtirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Iqtisodiy birlikka bo'lgan ehtiyoj siyosiy birlashuvni ham tezlashtirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1866-yilgi Prussiya–Avstriya urushi natijasida tuzilgan «Shimoliy Germaniya ittifoqi» konstitutsiyasi qaysi yilgacha amal qildi?",
+      "options": [
+        "1871-yilgacha atigi 5 yil",
+        "1945-yilgacha",
+        "Hozirgacha o'zgarishsiz",
+        "1919-yilda Veymar Respublikasi tuzilguniga qadar"
+      ],
+      "answer": 3,
+      "explain": "Gogensollernlarning oq-qora-qizil bayrog'i Germaniya imperiyasining davlat bayrog'iga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1866-yilgi Prussiya–Avstriya urushi natijasida tuzilgan «Shimoliy Germaniya ittifoqi» konstitutsiyasi qaysi yilgacha amal qildi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1866-yilgi konstitutsiya Shimoliy Germaniya ittifoqiga asos solib, keyinroq 1919-yil Veymar Respublikasigacha amal qilgan",
+        "1866-yilgi urushda Avstriya Prussiyani tor-mor etib Berlinni egalladi",
+        "1815-yilda tuzilgan German ittifoqiga Prussiya doimiy yakka raislik qilgan",
+        "XIX asr o'rtalarida Germaniyada birorta ham temiryo'l yoki mashinasozlik zavodi yo'q edi"
+      ],
+      "answer": 0,
+      "explain": "Gogensollernlarning oq-qora-qizil bayrog'i Germaniya imperiyasining davlat bayrog'iga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1866-yilgi Prussiya–Avstriya urushi natijasida tuzilgan «Shimoliy Germaniya ittifoqi» konstitutsiyasi qaysi yilgacha amal qildi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "1866-yilgi urushda Avstriya Prussiyani tor-mor etib Berlinni egalladi",
+        "1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: 1866-yilgi urushda Avstriya Prussiyani tor-mor etib Berlinni egalladi. Aslida: Gogensollernlarning oq-qora-qizil bayrog'i Germaniya imperiyasining davlat bayrog'iga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1866-yilgi konstitutsiya Shimoliy Germaniya ittifoqiga asos solib, keyinroq 1919-yil Veymar Respublikasigacha amal qilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Gogensollernlarning oq-qora-qizil bayrog'i Germaniya imperiyasining davlat bayrog'iga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1866-yilgi urushda Avstriya Prussiyani tor-mor etib Berlinni egalladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Gogensollernlarning oq-qora-qizil bayrog'i Germaniya imperiyasining davlat bayrog'iga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik izohiga ko'ra gogensollernlarning oq-qora-qizil bayrog'i Germaniya imperiyasining davlat bayrog'iga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. Gogensollernlarning oq-qora-qizil bayrog'i Germaniya imperiyasining davlat bayrog'iga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1871-yil yanvar oyida Germaniya imperiyasi tuzilgani qaysi mashhur joyda tantanali ravishda e'lon qilindi?",
+      "options": [
+        "Vena saroyida",
+        "Rim Kapitoliysida",
+        "Parij yaqinidagi Versal saroyida",
+        "London minoralarida"
+      ],
+      "answer": 2,
+      "explain": "Versalda Germaniya imperiyasi e'lon qilinishi Fransiya uchun og'ir siyosiy zarba bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1871-yil yanvar oyida Germaniya imperiyasi tuzilgani qaysi mashhur joyda tantanali ravishda e'lon qilindi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Germaniya imperiyasi 1871-yilda London parlamentida e'lon qilingan",
+        "1815-yilda tuzilgan German ittifoqiga Prussiya doimiy yakka raislik qilgan",
+        "XIX asr o'rtalarida Germaniyada birorta ham temiryo'l yoki mashinasozlik zavodi yo'q edi",
+        "Fransiya ustidan g'alabadan so'ng 1871-yil yanvarda Versal saroyida Vilgelm I Germaniya imperatori deb e'lon qilindi"
+      ],
+      "answer": 3,
+      "explain": "Versalda Germaniya imperiyasi e'lon qilinishi Fransiya uchun og'ir siyosiy zarba bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1871-yil yanvar oyida Germaniya imperiyasi tuzilgani qaysi mashhur joyda tantanali ravishda e'lon qilindi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Germaniya imperiyasi 1871-yilda London parlamentida e'lon qilingan",
+        "1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Germaniya imperiyasi 1871-yilda London parlamentida e'lon qilingan. Aslida: Versalda Germaniya imperiyasi e'lon qilinishi Fransiya uchun og'ir siyosiy zarba bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Fransiya ustidan g'alabadan so'ng 1871-yil yanvarda Versal saroyida Vilgelm I Germaniya imperatori deb e'lon qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. Versalda Germaniya imperiyasi e'lon qilinishi Fransiya uchun og'ir siyosiy zarba bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Germaniya imperiyasi 1871-yilda London parlamentida e'lon qilingan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Versalda Germaniya imperiyasi e'lon qilinishi Fransiya uchun og'ir siyosiy zarba bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik izohiga ko'ra versalda Germaniya imperiyasi e'lon qilinishi Fransiya uchun og'ir siyosiy zarba bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. Versalda Germaniya imperiyasi e'lon qilinishi Fransiya uchun og'ir siyosiy zarba bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1871-yil yanvarda birlashgan Germaniya imperiyasi Fransiyadagi ____ saroyida e'lon qilindi. (Saroy nomini yozing)",
+      "answer": [
+        "Versal"
+      ],
+      "explain": "Versalda Germaniya imperiyasi e'lon qilinishi Fransiya uchun og'ir siyosiy zarba bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): XIX asr boshlarida Italiyada 15 yil davomida qaysi davlat hukmronlik qilib, keyinroq Avstriya zulmiga almashtirilgan edi?",
+      "options": [
+        "Rossiya",
+        "Fransiya (Napoleon hukmronligi)",
+        "Ispaniya",
+        "Usmoniylar imperiyasi"
+      ],
+      "answer": 1,
+      "explain": "Chet el zulmi italyan xalqida ozodlik va milliy birlikka intilishni uyg'otdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «XIX asr boshlarida Italiyada 15 yil davomida qaysi davlat hukmronlik qilib, keyinroq Avstriya zulmiga almashtirilgan edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XIX asr boshlarida Italiya allaqachon yagona mustaqil imperiya edi",
+        "1815-yilda tuzilgan German ittifoqiga Prussiya doimiy yakka raislik qilgan",
+        "1800-yildan boshlab Italiya 15 yil fransuz hukmronligi ostida bo'ldi, 1815-yildan esa Avstriya nazorati kuchaydi",
+        "XIX asr o'rtalarida Germaniyada birorta ham temiryo'l yoki mashinasozlik zavodi yo'q edi"
+      ],
+      "answer": 2,
+      "explain": "Chet el zulmi italyan xalqida ozodlik va milliy birlikka intilishni uyg'otdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «XIX asr boshlarida Italiyada 15 yil davomida qaysi davlat hukmronlik qilib, keyinroq Avstriya zulmiga almashtirilgan edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi",
+        "XIX asr boshlarida Italiya allaqachon yagona mustaqil imperiya edi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: XIX asr boshlarida Italiya allaqachon yagona mustaqil imperiya edi. Aslida: Chet el zulmi italyan xalqida ozodlik va milliy birlikka intilishni uyg'otdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1800-yildan boshlab Italiya 15 yil fransuz hukmronligi ostida bo'ldi, 1815-yildan esa Avstriya nazorati kuchaydi.",
+      "answer": true,
+      "explain": "To'g'ri. Chet el zulmi italyan xalqida ozodlik va milliy birlikka intilishni uyg'otdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): XIX asr boshlarida Italiya allaqachon yagona mustaqil imperiya edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Chet el zulmi italyan xalqida ozodlik va milliy birlikka intilishni uyg'otdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik izohiga ko'ra chet el zulmi italyan xalqida ozodlik va milliy birlikka intilishni uyg'otdi.",
+      "answer": true,
+      "explain": "To'g'ri. Chet el zulmi italyan xalqida ozodlik va milliy birlikka intilishni uyg'otdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1866-yilda Venetsiya Italiyaga qo'shilganidan oldin Sardiniya qirolligi Fransiya yordami evaziga qaysi ikki viloyatni Fransiyaga bergan edi?",
+      "options": [
+        "Savoyya va Nitsa viloyatlarini",
+        "Sitsiliya va Neapolni",
+        "Rim va Milan shaharlarini",
+        "Venetsiya va Palermoni"
+      ],
+      "answer": 0,
+      "explain": "1866-yilda Avstriya Prussiyadan yengilgach Venetsiya Italiyaga o'tdi, 1870-yilda esa Rim poytaxt bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1866-yilda Venetsiya Italiyaga qo'shilganidan oldin Sardiniya qirolligi Fransiya yordami evaziga qaysi ikki viloyatni Fransiyaga bergan edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Italiya birlashuvi davomida Parij shahri Italiyaga qo'shib olingan",
+        "Italiyani birlashtirish yo'lidagi diplomatik kelishuvlarda Savoyya va Nitsa Fransiyaga berilgan",
+        "1815-yilda tuzilgan German ittifoqiga Prussiya doimiy yakka raislik qilgan",
+        "XIX asr o'rtalarida Germaniyada birorta ham temiryo'l yoki mashinasozlik zavodi yo'q edi"
+      ],
+      "answer": 1,
+      "explain": "1866-yilda Avstriya Prussiyadan yengilgach Venetsiya Italiyaga o'tdi, 1870-yilda esa Rim poytaxt bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «1866-yilda Venetsiya Italiyaga qo'shilganidan oldin Sardiniya qirolligi Fransiya yordami evaziga qaysi ikki viloyatni Fransiyaga bergan edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1815-yilda 8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan iborat German ittifoqi tuzildi",
+        "1847-yilda Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini chiqara boshladi",
+        "Italiya birlashuvi davomida Parij shahri Italiyaga qo'shib olingan",
+        "1848-yilda Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konstitutsiya qabul qilindi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Italiya birlashuvi davomida Parij shahri Italiyaga qo'shib olingan. Aslida: 1866-yilda Avstriya Prussiyadan yengilgach Venetsiya Italiyaga o'tdi, 1870-yilda esa Rim poytaxt bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Italiyani birlashtirish yo'lidagi diplomatik kelishuvlarda Savoyya va Nitsa Fransiyaga berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1866-yilda Avstriya Prussiyadan yengilgach Venetsiya Italiyaga o'tdi, 1870-yilda esa Rim poytaxt bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Italiya birlashuvi davomida Parij shahri Italiyaga qo'shib olingan.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1866-yilda Avstriya Prussiyadan yengilgach Venetsiya Italiyaga o'tdi, 1870-yilda esa Rim poytaxt bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik izohiga ko'ra 1866-yilda Avstriya Prussiyadan yengilgach Venetsiya Italiyaga o'tdi, 1870-yilda esa Rim poytaxt bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1866-yilda Avstriya Prussiyadan yengilgach Venetsiya Italiyaga o'tdi, 1870-yilda esa Rim poytaxt bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Italiyani birlashtirish kurashining uch asosiy yo'lboshchisi ro'yxatiga qaysi shaxs kirmaydi?",
+      "options": [
+        "Juzeppe Madzini",
+        "Kamillo di Kavur",
+        "Juzeppe Garibaldi",
+        "Otto fon Bismark"
+      ],
+      "answer": 3,
+      "explain": "Otto fon Bismark Germaniya birlashuvi rahbari bo'lgan; Madzini, Kavur va Garibaldi Italiya birlashuvi qahramonlaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Otto fon Bismark Germaniya birlashuvi rahbari bo'lgan; Madzini, Kavur va Garibaldi Italiya birlashuvi qahramonlaridir.",
+      "answer": true,
+      "explain": "To'g'ri. Otto fon Bismark Germaniya birlashuvi rahbari bo'lgan; Madzini, Kavur va Garibaldi Italiya birlashuvi qahramonlaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1815-yilgi German ittifoqiga chet el davlatlaridan qaysi biri o'z mulklari bilan a'zo sifatida kirmagan?",
+      "options": [
+        "Rossiya imperiyasi",
+        "Angliya (Gannover orqali)",
+        "Daniya (Golshteyn va Saksen-Lauenburg orqali)",
+        "Niderlandiya (Luksemburg orqali)"
+      ],
+      "answer": 0,
+      "explain": "Gannover, Golshteyn va Luksemburg orqali Angliya, Daniya va Niderlandiya monarxlari ittifoqda ishtirok etgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Gannover, Golshteyn va Luksemburg orqali Angliya, Daniya va Niderlandiya monarxlari ittifoqda ishtirok etgan.",
+      "answer": true,
+      "explain": "To'g'ri. Gannover, Golshteyn va Luksemburg orqali Angliya, Daniya va Niderlandiya monarxlari ittifoqda ishtirok etgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): XIX asr Germaniya sanoat rivojini ta'minlagan tadbirkorlar qatoriga qaysi ism kirmaydi?",
+      "options": [
+        "Borzig (lokomotiv)",
+        "Juzeppe Garibaldi",
+        "Alfred Krupp (qurolsozlik)",
+        "Simens va Galske (telegraf)"
+      ],
+      "answer": 1,
+      "explain": "Garibaldi italyan harbiy qahramonidir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Garibaldi italyan harbiy qahramonidir.",
+      "answer": true,
+      "explain": "To'g'ri. Garibaldi italyan harbiy qahramonidir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): Qishloq xo'jaligida kapitalizmning «prusscha yo'li» «amerikacha yo'l»dan nimasi bilan farq qilgan?",
+      "options": [
+        "Prussiyada barcha yerlar dehqonlarga bepul bo'lib berilgan",
+        "Amerikada dehqonchilik butunlay taqiqlangan",
+        "Prussiyada yirik pomeshchik-yunker yer egaligi saqlanib qolgan, AQSHda esa erkin fermer xo'jaliklari ustun bo'lgan",
+        "Prussiyada qishloq xo'jaligida faqat bug' mashinalari ishlatilgan"
+      ],
+      "answer": 2,
+      "explain": "«Prusscha yo'l»da eski dvoryan-yunker mulklari saqlanib, sekinlik bilan kapitalistik fermaga aylangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): 1870-yilda Fransiya qo'shinlari mag'lub bo'lgach, Italiya qo'shinlari «Abadiy shahar» — Rimni egallab poytaxtga aylantirdilar.",
+      "answer": true,
+      "explain": "To'g'ri. Rimning qo'shilishi bilan Italiyani hududiy birlashtirish jarayoni yakunlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik jadvali va tayanch ma'lumotlariga ko'ra «German ittifoqi (34 davlat, 4 shahar)» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1860-yil",
+        "1861-yil 17-mart",
+        "1866-yil",
+        "1815-yil 8-iyun"
+      ],
+      "answer": 3,
+      "explain": "1815-yil 8-iyun — german ittifoqi (34 davlat, 4 shahar).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): mavzudagi «1815-yil 8-iyun» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "German ittifoqi (34 davlat, 4 shahar)",
+        "Garibaldining Sitsiliya va Neapol yurishi",
+        "Viktor Emmanuil II Italiya qiroli bo'ldi",
+        "Shimoliy Germaniya ittifoqi va Venetsiya"
+      ],
+      "answer": 0,
+      "explain": "1815-yil 8-iyun — german ittifoqi (34 davlat, 4 shahar).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikning tayanch ma'lumotlarida «1815-yil 8-iyun» — german ittifoqi (34 davlat, 4 shahar) sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yil 8-iyun — german ittifoqi (34 davlat, 4 shahar).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik ma'lumotlariga ko'ra «1815-yil 8-iyun» — garibaldining Sitsiliya va Neapol yurishi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1815-yil 8-iyun» — german ittifoqi (34 davlat, 4 shahar).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik jadvali va tayanch ma'lumotlariga ko'ra «Garibaldining Sitsiliya va Neapol yurishi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1815-yil 8-iyun",
+        "1860-yil",
+        "1861-yil 17-mart",
+        "1866-yil"
+      ],
+      "answer": 1,
+      "explain": "1860-yil — garibaldining Sitsiliya va Neapol yurishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): mavzudagi «1860-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "German ittifoqi (34 davlat, 4 shahar)",
+        "Viktor Emmanuil II Italiya qiroli bo'ldi",
+        "Garibaldining Sitsiliya va Neapol yurishi",
+        "Shimoliy Germaniya ittifoqi va Venetsiya"
+      ],
+      "answer": 2,
+      "explain": "1860-yil — garibaldining Sitsiliya va Neapol yurishi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikning tayanch ma'lumotlarida «1860-yil» — garibaldining Sitsiliya va Neapol yurishi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1860-yil — garibaldining Sitsiliya va Neapol yurishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik ma'lumotlariga ko'ra «1860-yil» — german ittifoqi (34 davlat, 4 shahar) deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1860-yil» — garibaldining Sitsiliya va Neapol yurishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik jadvali va tayanch ma'lumotlariga ko'ra «Viktor Emmanuil II Italiya qiroli bo'ldi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1815-yil 8-iyun",
+        "1860-yil",
+        "1866-yil",
+        "1861-yil 17-mart"
+      ],
+      "answer": 3,
+      "explain": "1861-yil 17-mart — viktor Emmanuil II Italiya qiroli bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): mavzudagi «1861-yil 17-mart» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Viktor Emmanuil II Italiya qiroli bo'ldi",
+        "German ittifoqi (34 davlat, 4 shahar)",
+        "Garibaldining Sitsiliya va Neapol yurishi",
+        "Shimoliy Germaniya ittifoqi va Venetsiya"
+      ],
+      "answer": 0,
+      "explain": "1861-yil 17-mart — viktor Emmanuil II Italiya qiroli bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikning tayanch ma'lumotlarida «1861-yil 17-mart» — viktor Emmanuil II Italiya qiroli bo'ldi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1861-yil 17-mart — viktor Emmanuil II Italiya qiroli bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik ma'lumotlariga ko'ra «1861-yil 17-mart» — german ittifoqi (34 davlat, 4 shahar) deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1861-yil 17-mart» — viktor Emmanuil II Italiya qiroli bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik jadvali va tayanch ma'lumotlariga ko'ra «Shimoliy Germaniya ittifoqi va Venetsiya» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1815-yil 8-iyun",
+        "1866-yil",
+        "1860-yil",
+        "1861-yil 17-mart"
+      ],
+      "answer": 1,
+      "explain": "1866-yil — shimoliy Germaniya ittifoqi va Venetsiya.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): mavzudagi «1866-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "German ittifoqi (34 davlat, 4 shahar)",
+        "Garibaldining Sitsiliya va Neapol yurishi",
+        "Shimoliy Germaniya ittifoqi va Venetsiya",
+        "Viktor Emmanuil II Italiya qiroli bo'ldi"
+      ],
+      "answer": 2,
+      "explain": "1866-yil — shimoliy Germaniya ittifoqi va Venetsiya.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikning tayanch ma'lumotlarida «1866-yil» — shimoliy Germaniya ittifoqi va Venetsiya sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1866-yil — shimoliy Germaniya ittifoqi va Venetsiya.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik ma'lumotlariga ko'ra «1866-yil» — german ittifoqi (34 davlat, 4 shahar) deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1866-yil» — shimoliy Germaniya ittifoqi va Venetsiya.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Abadiy shahar» Italiya poytaxti bo'ldi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1815-yil 8-iyun",
+        "1860-yil",
+        "1861-yil 17-mart",
+        "1870-yil Rim"
+      ],
+      "answer": 3,
+      "explain": "1870-yil Rim — «Abadiy shahar» Italiya poytaxti bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): mavzudagi «1870-yil Rim» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "«Abadiy shahar» Italiya poytaxti bo'ldi",
+        "German ittifoqi (34 davlat, 4 shahar)",
+        "Garibaldining Sitsiliya va Neapol yurishi",
+        "Viktor Emmanuil II Italiya qiroli bo'ldi"
+      ],
+      "answer": 0,
+      "explain": "1870-yil Rim — «Abadiy shahar» Italiya poytaxti bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikning tayanch ma'lumotlarida «1870-yil Rim» — «Abadiy shahar» Italiya poytaxti bo'ldi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1870-yil Rim — «Abadiy shahar» Italiya poytaxti bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik ma'lumotlariga ko'ra «1870-yil Rim» — german ittifoqi (34 davlat, 4 shahar) deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1870-yil Rim» — «Abadiy shahar» Italiya poytaxti bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik jadvali va tayanch ma'lumotlariga ko'ra «Versalda Germaniya imperiyasi e'lon qilindi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1815-yil 8-iyun",
+        "1871-yil yanvar",
+        "1860-yil",
+        "1861-yil 17-mart"
+      ],
+      "answer": 1,
+      "explain": "1871-yil yanvar — versalda Germaniya imperiyasi e'lon qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): mavzudagi «1871-yil yanvar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "German ittifoqi (34 davlat, 4 shahar)",
+        "Garibaldining Sitsiliya va Neapol yurishi",
+        "Versalda Germaniya imperiyasi e'lon qilindi",
+        "Viktor Emmanuil II Italiya qiroli bo'ldi"
+      ],
+      "answer": 2,
+      "explain": "1871-yil yanvar — versalda Germaniya imperiyasi e'lon qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikning tayanch ma'lumotlarida «1871-yil yanvar» — versalda Germaniya imperiyasi e'lon qilindi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1871-yil yanvar — versalda Germaniya imperiyasi e'lon qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik ma'lumotlariga ko'ra «1871-yil yanvar» — german ittifoqi (34 davlat, 4 shahar) deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1871-yil yanvar» — versalda Germaniya imperiyasi e'lon qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Risorjimento» gazetasi asoschisi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1815-yil 8-iyun",
+        "1860-yil",
+        "1861-yil 17-mart",
+        "Kamillo di Kavur"
+      ],
+      "answer": 3,
+      "explain": "Kamillo di Kavur — «Risorjimento» gazetasi asoschisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): mavzudagi «Kamillo di Kavur» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "«Risorjimento» gazetasi asoschisi",
+        "German ittifoqi (34 davlat, 4 shahar)",
+        "Garibaldining Sitsiliya va Neapol yurishi",
+        "Viktor Emmanuil II Italiya qiroli bo'ldi"
+      ],
+      "answer": 0,
+      "explain": "Kamillo di Kavur — «Risorjimento» gazetasi asoschisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikning tayanch ma'lumotlarida «Kamillo di Kavur» — «Risorjimento» gazetasi asoschisi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Kamillo di Kavur — «Risorjimento» gazetasi asoschisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik ma'lumotlariga ko'ra «Kamillo di Kavur» — german ittifoqi (34 davlat, 4 shahar) deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Kamillo di Kavur» — «Risorjimento» gazetasi asoschisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik jadvali va tayanch ma'lumotlariga ko'ra «Yunker xo'jaligi saqlangan agrar islohot» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1815-yil 8-iyun",
+        "«Prusscha yo'l»",
+        "1860-yil",
+        "1861-yil 17-mart"
+      ],
+      "answer": 1,
+      "explain": "«Prusscha yo'l» — yunker xo'jaligi saqlangan agrar islohot.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): mavzudagi ««Prusscha yo'l»» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "German ittifoqi (34 davlat, 4 shahar)",
+        "Garibaldining Sitsiliya va Neapol yurishi",
+        "Yunker xo'jaligi saqlangan agrar islohot",
+        "Viktor Emmanuil II Italiya qiroli bo'ldi"
+      ],
+      "answer": 2,
+      "explain": "«Prusscha yo'l» — yunker xo'jaligi saqlangan agrar islohot.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslikning tayanch ma'lumotlarida ««Prusscha yo'l»» — yunker xo'jaligi saqlangan agrar islohot sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Prusscha yo'l» — yunker xo'jaligi saqlangan agrar islohot.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): darslik ma'lumotlariga ko'ra ««Prusscha yo'l»» — german ittifoqi (34 davlat, 4 shahar) deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida ««Prusscha yo'l»» — yunker xo'jaligi saqlangan agrar islohot.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ««Temir kansler» unvonli Prussiya kansleri» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Garibaldi",
+        "Kavur",
+        "Madzini",
+        "Bismark"
+      ],
+      "answer": 3,
+      "explain": "Bismark — «Temir kansler» unvonli Prussiya kansleri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ««Temir kansler» unvonli Prussiya kansleri» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Bismark",
+        "bismark",
+        "BISMARK"
+      ],
+      "explain": "Bismark — «Temir kansler» unvonli Prussiya kansleri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Bismark» tayanch atamasi/nomi ««Temir kansler» unvonli Prussiya kansleri» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Bismark — «Temir kansler» unvonli Prussiya kansleri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Bismark» atamasi/nomi darslikda «sitsiliya va Neapolni ozod qilgan qahramon» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Bismark — «Temir kansler» unvonli Prussiya kansleri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «sitsiliya va Neapolni ozod qilgan qahramon» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Garibaldi",
+        "Bismark",
+        "Kavur",
+        "Madzini"
+      ],
+      "answer": 0,
+      "explain": "Garibaldi — sitsiliya va Neapolni ozod qilgan qahramon.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «sitsiliya va Neapolni ozod qilgan qahramon» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Garibaldi",
+        "garibaldi",
+        "GARIBALDI"
+      ],
+      "explain": "Garibaldi — sitsiliya va Neapolni ozod qilgan qahramon.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Garibaldi» tayanch atamasi/nomi «sitsiliya va Neapolni ozod qilgan qahramon» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Garibaldi — sitsiliya va Neapolni ozod qilgan qahramon.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Garibaldi» atamasi/nomi darslikda ««Temir kansler» unvonli Prussiya kansleri» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Garibaldi — sitsiliya va Neapolni ozod qilgan qahramon.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ««Risorjimento» noshiri va birinchi bosh vazir» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Bismark",
+        "Kavur",
+        "Garibaldi",
+        "Madzini"
+      ],
+      "answer": 1,
+      "explain": "Kavur — «Risorjimento» noshiri va birinchi bosh vazir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ««Risorjimento» noshiri va birinchi bosh vazir» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Kavur",
+        "kavur",
+        "KAVUR"
+      ],
+      "explain": "Kavur — «Risorjimento» noshiri va birinchi bosh vazir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Kavur» tayanch atamasi/nomi ««Risorjimento» noshiri va birinchi bosh vazir» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Kavur — «Risorjimento» noshiri va birinchi bosh vazir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Kavur» atamasi/nomi darslikda ««Temir kansler» unvonli Prussiya kansleri» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kavur — «Risorjimento» noshiri va birinchi bosh vazir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ««Yosh Italiya» tashkilotining asoschisi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Bismark",
+        "Garibaldi",
+        "Madzini",
+        "Kavur"
+      ],
+      "answer": 2,
+      "explain": "Madzini — «Yosh Italiya» tashkilotining asoschisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ««Yosh Italiya» tashkilotining asoschisi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Madzini",
+        "madzini",
+        "MADZINI"
+      ],
+      "explain": "Madzini — «Yosh Italiya» tashkilotining asoschisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Madzini» tayanch atamasi/nomi ««Yosh Italiya» tashkilotining asoschisi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Madzini — «Yosh Italiya» tashkilotining asoschisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Madzini» atamasi/nomi darslikda ««Temir kansler» unvonli Prussiya kansleri» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Madzini — «Yosh Italiya» tashkilotining asoschisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ««Ko'mirchilar» nomli maxfiy italyan jamiyati» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Bismark",
+        "Garibaldi",
+        "Kavur",
+        "Karbonariy"
+      ],
+      "answer": 3,
+      "explain": "Karbonariy — «Ko'mirchilar» nomli maxfiy italyan jamiyati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): ««Ko'mirchilar» nomli maxfiy italyan jamiyati» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Karbonariy",
+        "karbonariy",
+        "KARBONARIY"
+      ],
+      "explain": "Karbonariy — «Ko'mirchilar» nomli maxfiy italyan jamiyati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Karbonariy» tayanch atamasi/nomi ««Ko'mirchilar» nomli maxfiy italyan jamiyati» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Karbonariy — «Ko'mirchilar» nomli maxfiy italyan jamiyati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Karbonariy» atamasi/nomi darslikda ««Temir kansler» unvonli Prussiya kansleri» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Karbonariy — «Ko'mirchilar» nomli maxfiy italyan jamiyati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «prussiyadagi kapitalistlashgan pomeshchik» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Yunker",
+        "Bismark",
+        "Garibaldi",
+        "Kavur"
+      ],
+      "answer": 0,
+      "explain": "Yunker — prussiyadagi kapitalistlashgan pomeshchik.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «prussiyadagi kapitalistlashgan pomeshchik» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Yunker",
+        "yunker",
+        "YUNKER"
+      ],
+      "explain": "Yunker — prussiyadagi kapitalistlashgan pomeshchik.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Yunker» tayanch atamasi/nomi «prussiyadagi kapitalistlashgan pomeshchik» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Yunker — prussiyadagi kapitalistlashgan pomeshchik.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Yunker» atamasi/nomi darslikda ««Temir kansler» unvonli Prussiya kansleri» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Yunker — prussiyadagi kapitalistlashgan pomeshchik.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «germaniyadagi yirik qurol-po'lat magnati» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Bismark",
+        "Krupp",
+        "Garibaldi",
+        "Kavur"
+      ],
+      "answer": 1,
+      "explain": "Krupp — germaniyadagi yirik qurol-po'lat magnati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «germaniyadagi yirik qurol-po'lat magnati» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Krupp",
+        "krupp",
+        "KRUPP"
+      ],
+      "explain": "Krupp — germaniyadagi yirik qurol-po'lat magnati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "23-mavzu (Germaniya va Italiya birlashuvi): «Krupp» tayanch atamasi/nomi «germaniyadagi yirik qurol-po'lat magnati» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Krupp — germaniyadagi yirik qurol-po'lat magnati.",
+      "difficulty": "easy"
+    }
+  ],
+  "cards": [
+    [
+      "BISMARK",
+      "«Temir kansler» unvonli Prussiya kansleri"
+    ],
+    [
+      "GARIBALDI",
+      "Sitsiliya va Neapolni ozod qilgan qahramon"
+    ],
+    [
+      "KAVUR",
+      "«Risorjimento» noshiri va birinchi bosh vazir"
+    ],
+    [
+      "MADZINI",
+      "«Yosh Italiya» tashkilotining asoschisi"
+    ],
+    [
+      "KARBONARIY",
+      "«Ko'mirchilar» nomli maxfiy italyan jamiyati"
+    ],
+    [
+      "YUNKER",
+      "Prussiyadagi kapitalistlashgan pomeshchik"
+    ],
+    [
+      "KRUPP",
+      "Germaniyadagi yirik qurol-po'lat magnati"
+    ],
+    [
+      "BORZIG",
+      "Mashhur nemis lokomotiv zavodi egasi"
+    ],
+    [
+      "SIMENS",
+      "Telegraf va kabel ixtirochisi, sanoatchi"
+    ],
+    [
+      "VENETSIYA",
+      "1866-yilda Italiyaga qo'shilgan shahar"
+    ],
+    [
+      "1815-yil 8-iyun",
+      "German ittifoqi (34 davlat, 4 shahar)"
+    ],
+    [
+      "1860-yil",
+      "Garibaldining Sitsiliya va Neapol yurishi"
+    ],
+    [
+      "1861-yil 17-mart",
+      "Viktor Emmanuil II Italiya qiroli bo'ldi"
+    ],
+    [
+      "1866-yil",
+      "Shimoliy Germaniya ittifoqi va Venetsiya"
+    ],
+    [
+      "1870-yil Rim",
+      "«Abadiy shahar» Italiya poytaxti bo'ldi"
+    ],
+    [
+      "1871-yil yanvar",
+      "Versalda Germaniya imperiyasi e'lon qilindi"
+    ],
+    [
+      "Kamillo di Kavur",
+      "«Risorjimento» gazetasi asoschisi"
+    ],
+    [
+      "«Prusscha yo'l»",
+      "Yunker xo'jaligi saqlangan agrar islohot"
+    ],
+    [
+      "Yunker xo'jaligi",
+      "Prussiyada feodal yer egaligi saqlanib qolgan holda kapitalistik boz"
+    ],
+    [
+      "Prusscha yo'l",
+      "Qishloq xo'jaligida pomeshchik yerlarini saqlab qolib asta-sekin kap"
+    ],
+    [
+      "Risorjimento",
+      "Italiyada milliy uyg'onish va mamlakatni Avstriya zulmidan ozod etib"
+    ],
+    [
+      "Karbonariylar",
+      "1807–1832-yillarda Italiyada ozodlik va konstitutsiya uchun kurashga"
+    ],
+    [
+      "Temir kansler",
+      "Germaniyani qat'iy siyosat va harbiy kuch bilan birlashtirgan Otto f"
+    ],
+    [
+      "Otto fon Bismark",
+      "«Temir kansler» laqabli Prussiya bosh vaziri va Germaniyani «temir v"
+    ],
+    [
+      "Vilgelm I",
+      "1871-yil yanvarda Versal saroyida birlashgan Germaniya imperiyasinin"
+    ],
+    [
+      "Alfred Krupp",
+      "XIX asrda Germaniyaning yirik qurol va po'lat sanoati magnatiga ayla"
+    ],
+    [
+      "Juzeppe Madzini",
+      "Italiyani respublika asosida birlashtirish uchun «Yosh Italiya» tash"
+    ],
+    [
+      "Juzeppe Garibaldi",
+      "1860-yilda qizil ko'ylakli ko'ngillilar bilan Sitsiliya (Palermo) va"
+    ],
+    [
+      "Viktor Emmanuil II",
+      "1861-yil 17-martda birlashgan Italiya qirolligining birinchi qiroli"
+    ],
+    [
+      "1815-yil",
+      "8-iyunda Vena kongressi qarori bilan 34 davlat va 4 erkin shahardan"
+    ],
+    [
+      "1847-yil",
+      "Italiyada Kamillo di Kavur «Risorjimento» («Uyg'onish») gazetasini c"
+    ],
+    [
+      "1848-yil",
+      "Berlin ko'chalarida barrikada janglari bo'lib o'tib Prussiyada konst"
+    ],
+    [
+      "1850-yil",
+      "Prussiyada agrar munosabatlarni «prusscha yo'l» bilan isloh qilgan d"
+    ],
+    [
+      "1861-yil",
+      "17-martda Viktor Emmanuil II birlashgan Italiya qirolligi qiroli deb"
+    ],
+    [
+      "1870-yil",
+      "Fransiya mag'lubiyatidan so'ng Rim ozod qilinib Italiyaning yagona p"
+    ],
+    [
+      "1871-yil",
+      "Yanvarda Versal saroyida Prussiya qiroli Vilgelm I birlashgan German"
+    ]
+  ]
+}

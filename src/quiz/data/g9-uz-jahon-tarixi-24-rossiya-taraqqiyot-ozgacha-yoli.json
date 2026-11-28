@@ -1,0 +1,2901 @@
+{
+  "id": "g9-uz-jahon-tarixi-24-rossiya-taraqqiyot-ozgacha-yoli",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "24-mavzu. Rossiya: taraqqiyotning o‘zgacha yo‘li",
+  "title": "24-mavzu. Rossiya: taraqqiyotning o‘zgacha yo‘li",
+  "source": "Jahon tarixi 9-sinf (2024), 24-mavzu, 131–137-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): qaysi yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi?",
+      "options": [
+        "1803-yil",
+        "1815-yil",
+        "1825-yil",
+        "1801-yil"
+      ],
+      "answer": 3,
+      "explain": "1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti) mavzusiga ko'ra 1801-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi",
+        "14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi"
+      ],
+      "answer": 0,
+      "explain": "1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): ____-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi. (Yilni kiriting)",
+      "answer": [
+        "1801",
+        "1801-yil",
+        "1801-yilda"
+      ],
+      "explain": "1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1801-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1803-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1803-yilda emas, 1801-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik xronologiyasiga ko'ra 1815-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): qaysi yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi?",
+      "options": [
+        "1801-yil",
+        "1815-yil",
+        "1803-yil",
+        "1825-yil"
+      ],
+      "answer": 2,
+      "explain": "1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti) mavzusiga ko'ra 1803-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi",
+        "14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi",
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi"
+      ],
+      "answer": 3,
+      "explain": "1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): ____-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi. (Yilni kiriting)",
+      "answer": [
+        "1803",
+        "1803-yil",
+        "1803-yilda"
+      ],
+      "explain": "1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1803-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. 1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1801-yilda emas, 1803-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik xronologiyasiga ko'ra 1815-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): qaysi yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi?",
+      "options": [
+        "1801-yil",
+        "1815-yil",
+        "1803-yil",
+        "1825-yil"
+      ],
+      "answer": 1,
+      "explain": "1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti) mavzusiga ko'ra 1815-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi",
+        "14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi"
+      ],
+      "answer": 2,
+      "explain": "1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): ____-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi. (Yilni kiriting)",
+      "answer": [
+        "1815",
+        "1815-yil",
+        "1815-yilda"
+      ],
+      "explain": "1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1815-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1801-yilda emas, 1815-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik xronologiyasiga ko'ra 1803-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): qaysi yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi?",
+      "options": [
+        "1825-yil",
+        "1801-yil",
+        "1803-yil",
+        "1815-yil"
+      ],
+      "answer": 0,
+      "explain": "1825-yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti) mavzusiga ko'ra 1825-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi",
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi"
+      ],
+      "answer": 1,
+      "explain": "1825-yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): ____-yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi. (Yilni kiriting)",
+      "answer": [
+        "1825",
+        "1825-yil",
+        "1825-yilda"
+      ],
+      "explain": "1825-yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1825-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1825-yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1825-yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801-yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1801-yilda emas, 1825-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik xronologiyasiga ko'ra 1803-yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1825-yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): qaysi yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi?",
+      "options": [
+        "1801-yil",
+        "1803-yil",
+        "1815-yil",
+        "1837-yil"
+      ],
+      "answer": 3,
+      "explain": "1837-yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti) mavzusiga ko'ra 1837-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi",
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi"
+      ],
+      "answer": 0,
+      "explain": "1837-yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): ____-yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi. (Yilni kiriting)",
+      "answer": [
+        "1837",
+        "1837-yil",
+        "1837-yilda"
+      ],
+      "explain": "1837-yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1837-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1837-yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1837-yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801-yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1801-yilda emas, 1837-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik xronologiyasiga ko'ra 1803-yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1837-yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): qaysi yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi)?",
+      "options": [
+        "1801-yil",
+        "1803-yil",
+        "1853-yil",
+        "1815-yil"
+      ],
+      "answer": 2,
+      "explain": "1853-yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti) mavzusiga ko'ra 1853-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi",
+        "Rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi)"
+      ],
+      "answer": 3,
+      "explain": "1853-yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): ____-yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi). (Yilni kiriting)",
+      "answer": [
+        "1853",
+        "1853-yil",
+        "1853-yilda"
+      ],
+      "explain": "1853-yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi)» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1853-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1853-yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi).",
+      "answer": true,
+      "explain": "To'g'ri. 1853-yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801-yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi).",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1801-yilda emas, 1853-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik xronologiyasiga ko'ra 1803-yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi).",
+      "answer": false,
+      "explain": "Noto'g'ri. 1853-yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): qaysi yilda sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi?",
+      "options": [
+        "1801-yil",
+        "1854-yil",
+        "1803-yil",
+        "1815-yil"
+      ],
+      "answer": 1,
+      "explain": "1854-yilda sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti) mavzusiga ko'ra 1854-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "Sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi"
+      ],
+      "answer": 2,
+      "explain": "1854-yilda sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): ____-yilda sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi. (Yilni kiriting)",
+      "answer": [
+        "1854",
+        "1854-yil",
+        "1854-yilda"
+      ],
+      "explain": "1854-yilda sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1854-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1854-yilda sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1854-yilda sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801-yilda sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1801-yilda emas, 1854-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik xronologiyasiga ko'ra 1803-yilda sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1854-yilda sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): qaysi yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi?",
+      "options": [
+        "1861-yil",
+        "1801-yil",
+        "1803-yil",
+        "1815-yil"
+      ],
+      "answer": 0,
+      "explain": "1861-yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti) mavzusiga ko'ra 1861-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi",
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi"
+      ],
+      "answer": 1,
+      "explain": "1861-yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): ____-yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi. (Yilni kiriting)",
+      "answer": [
+        "1861",
+        "1861-yil",
+        "1861-yilda"
+      ],
+      "explain": "1861-yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1861-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1861-yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi.",
+      "answer": true,
+      "explain": "To'g'ri. 1861-yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801-yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1801-yilda emas, 1861-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik xronologiyasiga ko'ra 1803-yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1861-yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): qaysi yilda 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi?",
+      "options": [
+        "1801-yil",
+        "1803-yil",
+        "1815-yil",
+        "1864-yil"
+      ],
+      "answer": 3,
+      "explain": "1864-yilda 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti) mavzusiga ko'ra 1864-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi",
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi"
+      ],
+      "answer": 0,
+      "explain": "1864-yilda 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): ____-yilda 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi. (Yilni kiriting)",
+      "answer": [
+        "1864",
+        "1864-yil",
+        "1864-yilda"
+      ],
+      "explain": "1864-yilda 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1864-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1864-yilda 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1864-yilda 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801-yilda 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1801-yilda emas, 1864-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik xronologiyasiga ko'ra 1803-yilda 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1864-yilda 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Aleksandr I taxtga o'tirdi va sa...» hamda «14-dekabr kuni Sankt-Peterburgda...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi",
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi"
+      ],
+      "answer": 2,
+      "explain": "1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Aleksandr I taxtga o'tirdi va sa...» hamda «14-dekabr kuni Sankt-Peterburgda...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi",
+        "14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi"
+      ],
+      "answer": 3,
+      "explain": "1825-yilda 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Rossiyada birinchi «Yelizaveta»...» hamda «Rossiyaning Qrim urushi boshland...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi",
+        "14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi",
+        "Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi",
+        "Rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi)"
+      ],
+      "answer": 0,
+      "explain": "1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Rossiyada birinchi «Yelizaveta»...» hamda «Rossiyaning Qrim urushi boshland...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi",
+        "Rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi)",
+        "14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi",
+        "Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi"
+      ],
+      "answer": 1,
+      "explain": "1853-yilda rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi) — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Rossiyada birinchi Sankt-Peterbu...» hamda «19-fevralda imperator Aleksandr...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi)",
+        "Sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi",
+        "Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi",
+        "19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi"
+      ],
+      "answer": 2,
+      "explain": "1837-yilda Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Rossiyada birinchi Sankt-Peterbu...» hamda «19-fevralda imperator Aleksandr...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi",
+        "Rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi)",
+        "Sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi",
+        "19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi"
+      ],
+      "answer": 3,
+      "explain": "1861-yilda 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi voqeasi Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1801-yil 1803-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi voqeasi Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi, 1803-yilda esa Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi voqeasi Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1801-yil 1815-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi voqeasi Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi, 1815-yilda esa Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi voqeasi 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1801-yil 1825-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi voqeasi Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi, 1825-yilda esa 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi voqeasi Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1801-yil 1837-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi voqeasi Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi, 1837-yilda esa Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi voqeasi rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1801-yil 1853-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi) voqeasi Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi, 1853-yilda esa rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi voqeasi sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1801-yil 1854-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi voqeasi Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi, 1854-yilda esa sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi voqeasi 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1801-yil 1861-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi voqeasi Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi, 1861-yilda esa 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi voqeasi 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1801-yil 1864-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi voqeasi Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi, 1864-yilda esa 1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi voqeasi Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1803-yil 1815-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi voqeasi Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi, 1815-yilda esa Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi voqeasi 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1803-yil 1825-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi voqeasi Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi, 1825-yilda esa 14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'zg'oloni yuz berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi voqeasi Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1803-yil 1837-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi voqeasi Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi, 1837-yilda esa Rossiyada birinchi Sankt-Peterburg – Sarskoye Selo temiryo'li ochildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi voqeasi rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1803-yil 1853-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi) voqeasi Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi, 1853-yilda esa rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yakunlandi).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi voqeasi sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1803-yil 1854-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi voqeasi Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi, 1854-yilda esa sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) qal'asi qurildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): xronologiyaga ko'ra Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi voqeasi 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1803-yil 1861-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy ketma-ketlikka ko'ra 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi voqeasi Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi, 1861-yilda esa 19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g'risidagi manifestni imzoladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Aleksandr I",
+        "Nikolay I",
+        "Aleksandr II",
+        "Mixail Bakunin"
+      ],
+      "answer": 0,
+      "explain": "Aleksandr I 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Aleksandr Ining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori",
+        "1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator",
+        "1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator",
+        "XIX asr 60–70-yillarida Rossiya narodniklarining anarxistik yo'nalishi nazariyotchisi"
+      ],
+      "answer": 1,
+      "explain": "Aleksandr I 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Aleksandr I"
+      ],
+      "explain": "Aleksandr I 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Aleksandr I 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi.",
+      "answer": true,
+      "explain": "To'g'ri. Aleksandr I 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Aleksandr I — 1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aleksandr I 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikda Aleksandr I «1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Aleksandr I 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi».",
+      "options": [
+        "Nikolay I",
+        "Aleksandr II",
+        "Aleksandr I",
+        "Mixail Bakunin"
+      ],
+      "answer": 2,
+      "explain": "Aleksandr I 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «____ 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Aleksandr I"
+      ],
+      "explain": "Aleksandr I 1801 va 1803-yillarda cheklangan agrar farmonlar chiqarib, Napoleon ustidan g'alabada boshchilik qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Aleksandr I",
+        "Aleksandr II",
+        "Mixail Bakunin",
+        "Nikolay I"
+      ],
+      "answer": 3,
+      "explain": "Nikolay I 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Nikolay Ining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori",
+        "1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator",
+        "1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator",
+        "XIX asr 60–70-yillarida Rossiya narodniklarining anarxistik yo'nalishi nazariyotchisi"
+      ],
+      "answer": 0,
+      "explain": "Nikolay I 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Nikolay I"
+      ],
+      "explain": "Nikolay I 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Nikolay I 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi.",
+      "answer": true,
+      "explain": "To'g'ri. Nikolay I 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Nikolay I — 1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator.",
+      "answer": false,
+      "explain": "Noto'g'ri. Nikolay I 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikda Nikolay I «1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Nikolay I 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi».",
+      "options": [
+        "Aleksandr I",
+        "Nikolay I",
+        "Aleksandr II",
+        "Mixail Bakunin"
+      ],
+      "answer": 1,
+      "explain": "Nikolay I 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «____ 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Nikolay I"
+      ],
+      "explain": "Nikolay I 5 nafar dekabrist rahbarni qatl ettirdi va 120 dan ortig'ini Sibirga surgun qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Aleksandr I",
+        "Nikolay I",
+        "Aleksandr II",
+        "Mixail Bakunin"
+      ],
+      "answer": 2,
+      "explain": "Aleksandr II Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Aleksandr IIning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator",
+        "1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori",
+        "XIX asr 60–70-yillarida Rossiya narodniklarining anarxistik yo'nalishi nazariyotchisi",
+        "1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator"
+      ],
+      "answer": 3,
+      "explain": "Aleksandr II Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Aleksandr II"
+      ],
+      "explain": "Aleksandr II Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Aleksandr II Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi.",
+      "answer": true,
+      "explain": "To'g'ri. Aleksandr II Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Aleksandr II — 1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aleksandr II Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikda Aleksandr II «1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Aleksandr II Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi».",
+      "options": [
+        "Aleksandr II",
+        "Aleksandr I",
+        "Nikolay I",
+        "Mixail Bakunin"
+      ],
+      "answer": 0,
+      "explain": "Aleksandr II Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «____ Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Aleksandr II"
+      ],
+      "explain": "Aleksandr II Qrim urushidagi mag'lubiyatdan so'ng Rossiyani isloh qilish zaruratini angladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr 60–70-yillarida Rossiya narodniklarining anarxistik yo'nalishi nazariyotchisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Aleksandr I",
+        "Mixail Bakunin",
+        "Nikolay I",
+        "Aleksandr II"
+      ],
+      "answer": 1,
+      "explain": "M. A. Bakunin davlat hokimiyatini darhol qo'zg'olon bilan tugatish g'oyasini ilgari surgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Mixail Bakuninning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator",
+        "1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori",
+        "XIX asr 60–70-yillarida Rossiya narodniklarining anarxistik yo'nalishi nazariyotchisi",
+        "1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator"
+      ],
+      "answer": 2,
+      "explain": "M. A. Bakunin davlat hokimiyatini darhol qo'zg'olon bilan tugatish g'oyasini ilgari surgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): XIX asr 60–70-yillarida Rossiya narodniklarining anarxistik yo'nalishi nazariyotchisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Mixail Bakunin"
+      ],
+      "explain": "M. A. Bakunin davlat hokimiyatini darhol qo'zg'olon bilan tugatish g'oyasini ilgari surgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): M. A. Bakunin davlat hokimiyatini darhol qo'zg'olon bilan tugatish g'oyasini ilgari surgan.",
+      "answer": true,
+      "explain": "To'g'ri. M. A. Bakunin davlat hokimiyatini darhol qo'zg'olon bilan tugatish g'oyasini ilgari surgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Mixail Bakunin — 1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator.",
+      "answer": false,
+      "explain": "Noto'g'ri. M. A. Bakunin davlat hokimiyatini darhol qo'zg'olon bilan tugatish g'oyasini ilgari surgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikda Mixail Bakunin «1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida M. A. Bakunin davlat hokimiyatini darhol qo'zg'olon bilan tugatish g'oyasini ilgari surgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «narodniklarning xalq orasida tinch targ'ibot va ma'rifat tarqatuvchi tashviqotchilik oqimi rahbari» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Aleksandr I",
+        "Nikolay I",
+        "Aleksandr II",
+        "Pyotr Lavrov"
+      ],
+      "answer": 3,
+      "explain": "P. L. Lavrov ziyolilarni «xalqqa borib» inqilobiy onglilikni uyg'otishga chaqirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Pyotr Lavrovning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Narodniklarning xalq orasida tinch targ'ibot va ma'rifat tarqatuvchi tashviqotchilik oqimi rahbari",
+        "1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator",
+        "1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori",
+        "1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator"
+      ],
+      "answer": 0,
+      "explain": "P. L. Lavrov ziyolilarni «xalqqa borib» inqilobiy onglilikni uyg'otishga chaqirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): narodniklarning xalq orasida tinch targ'ibot va ma'rifat tarqatuvchi tashviqotchilik oqimi rahbari bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Pyotr Lavrov"
+      ],
+      "explain": "P. L. Lavrov ziyolilarni «xalqqa borib» inqilobiy onglilikni uyg'otishga chaqirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): P. L. Lavrov ziyolilarni «xalqqa borib» inqilobiy onglilikni uyg'otishga chaqirgan.",
+      "answer": true,
+      "explain": "To'g'ri. P. L. Lavrov ziyolilarni «xalqqa borib» inqilobiy onglilikni uyg'otishga chaqirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Pyotr Lavrov — 1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator.",
+      "answer": false,
+      "explain": "Noto'g'ri. P. L. Lavrov ziyolilarni «xalqqa borib» inqilobiy onglilikni uyg'otishga chaqirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikda Pyotr Lavrov «1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida P. L. Lavrov ziyolilarni «xalqqa borib» inqilobiy onglilikni uyg'otishga chaqirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Narodniklar harakatining hokimiyatni maxfiy fitna yo'li bilan egallashni ko'zlagan fitnachilik oqimi yetakchisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Aleksandr I",
+        "Pyotr Tkachyov",
+        "Nikolay I",
+        "Aleksandr II"
+      ],
+      "answer": 1,
+      "explain": "60–70-yillardagi narodniklik Bakunin, Lavrov va Tkachyov yo'nalishlariga bo'lingan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Pyotr Tkachyovning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator",
+        "1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori",
+        "Narodniklar harakatining hokimiyatni maxfiy fitna yo'li bilan egallashni ko'zlagan fitnachilik oqimi yetakchisi",
+        "1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator"
+      ],
+      "answer": 2,
+      "explain": "60–70-yillardagi narodniklik Bakunin, Lavrov va Tkachyov yo'nalishlariga bo'lingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Narodniklar harakatining hokimiyatni maxfiy fitna yo'li bilan egallashni ko'zlagan fitnachilik oqimi yetakchisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Pyotr Tkachyov"
+      ],
+      "explain": "60–70-yillardagi narodniklik Bakunin, Lavrov va Tkachyov yo'nalishlariga bo'lingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 60–70-yillardagi narodniklik Bakunin, Lavrov va Tkachyov yo'nalishlariga bo'lingan.",
+      "answer": true,
+      "explain": "To'g'ri. 60–70-yillardagi narodniklik Bakunin, Lavrov va Tkachyov yo'nalishlariga bo'lingan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Pyotr Tkachyov — 1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator.",
+      "answer": false,
+      "explain": "Noto'g'ri. 60–70-yillardagi narodniklik Bakunin, Lavrov va Tkachyov yo'nalishlariga bo'lingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikda Pyotr Tkachyov «1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 60–70-yillardagi narodniklik Bakunin, Lavrov va Tkachyov yo'nalishlariga bo'lingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr rus adabiyotini jahon cho'qqisiga olib chiqqan buyuk rus shoiri va adibi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Aleksandr I",
+        "Nikolay I",
+        "Aleksandr II",
+        "Aleksandr Pushkin"
+      ],
+      "answer": 3,
+      "explain": "Pushkin, Lermontov, Gogol, Dostoyevskiy, Tolstoy va Chexov XIX asr rus adabiyoti asoschilaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Aleksandr Pushkinning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "XIX asr rus adabiyotini jahon cho'qqisiga olib chiqqan buyuk rus shoiri va adibi",
+        "1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator",
+        "1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori",
+        "1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator"
+      ],
+      "answer": 0,
+      "explain": "Pushkin, Lermontov, Gogol, Dostoyevskiy, Tolstoy va Chexov XIX asr rus adabiyoti asoschilaridir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): XIX asr rus adabiyotini jahon cho'qqisiga olib chiqqan buyuk rus shoiri va adibi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Aleksandr Pushkin"
+      ],
+      "explain": "Pushkin, Lermontov, Gogol, Dostoyevskiy, Tolstoy va Chexov XIX asr rus adabiyoti asoschilaridir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Pushkin, Lermontov, Gogol, Dostoyevskiy, Tolstoy va Chexov XIX asr rus adabiyoti asoschilaridir.",
+      "answer": true,
+      "explain": "To'g'ri. Pushkin, Lermontov, Gogol, Dostoyevskiy, Tolstoy va Chexov XIX asr rus adabiyoti asoschilaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Aleksandr Pushkin — 1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator.",
+      "answer": false,
+      "explain": "Noto'g'ri. Pushkin, Lermontov, Gogol, Dostoyevskiy, Tolstoy va Chexov XIX asr rus adabiyoti asoschilaridir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikda Aleksandr Pushkin «1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Pushkin, Lermontov, Gogol, Dostoyevskiy, Tolstoy va Chexov XIX asr rus adabiyoti asoschilaridir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr rus klassik musiqasining dunyoga mashhur bastakori» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Aleksandr I",
+        "Pyotr Chaykovskiy",
+        "Nikolay I",
+        "Aleksandr II"
+      ],
+      "answer": 1,
+      "explain": "M. Glinka, M. Musorgskiy, P. Chaykovskiy va N. Rimskiy-Korsakov rus musiqa maktabini yaratdilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Pyotr Chaykovskiyning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator",
+        "1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori",
+        "XIX asr rus klassik musiqasining dunyoga mashhur bastakori",
+        "1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqini bekor qilgan imperator"
+      ],
+      "answer": 2,
+      "explain": "M. Glinka, M. Musorgskiy, P. Chaykovskiy va N. Rimskiy-Korsakov rus musiqa maktabini yaratdilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): XIX asr rus klassik musiqasining dunyoga mashhur bastakori bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Pyotr Chaykovskiy"
+      ],
+      "explain": "M. Glinka, M. Musorgskiy, P. Chaykovskiy va N. Rimskiy-Korsakov rus musiqa maktabini yaratdilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): M. Glinka, M. Musorgskiy, P. Chaykovskiy va N. Rimskiy-Korsakov rus musiqa maktabini yaratdilar.",
+      "answer": true,
+      "explain": "To'g'ri. M. Glinka, M. Musorgskiy, P. Chaykovskiy va N. Rimskiy-Korsakov rus musiqa maktabini yaratdilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Pyotr Chaykovskiy — 1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va katorgani (1809) taqiqlagan imperator.",
+      "answer": false,
+      "explain": "Noto'g'ri. M. Glinka, M. Musorgskiy, P. Chaykovskiy va N. Rimskiy-Korsakov rus musiqa maktabini yaratdilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikda Pyotr Chaykovskiy «1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini boshlagan Rossiya imperatori» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida M. Glinka, M. Musorgskiy, P. Chaykovskiy va N. Rimskiy-Korsakov rus musiqa maktabini yaratdilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Narodniklik",
+        "Chek yerlar",
+        "Buxarest sulhi",
+        "Dekabristlar"
+      ],
+      "answer": 3,
+      "explain": "Dekabristlar — 1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Dekabristlar» atamasi nimani anglatadi?",
+      "options": [
+        "1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari",
+        "XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim",
+        "1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer",
+        "1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma"
+      ],
+      "answer": 0,
+      "explain": "Dekabristlar — 1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Dekabristlar",
+        "dekabristlar"
+      ],
+      "explain": "Dekabristlar — 1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Dekabristlar» tushunchasi «1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Dekabristlar — 1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Dekabristlar» deganda XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Dekabristlar — 1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy lug'atga ko'ra «Dekabristlar» — «1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Dekabristlar — 1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Dekabristlar",
+        "Narodniklik",
+        "Chek yerlar",
+        "Buxarest sulhi"
+      ],
+      "answer": 1,
+      "explain": "Narodniklik — XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Narodniklik» atamasi nimani anglatadi?",
+      "options": [
+        "1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari",
+        "1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer",
+        "XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim",
+        "1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma"
+      ],
+      "answer": 2,
+      "explain": "Narodniklik — XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Narodniklik",
+        "narodniklik"
+      ],
+      "explain": "Narodniklik — XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Narodniklik» tushunchasi «XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Narodniklik — XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Narodniklik» deganda 1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Narodniklik — XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy lug'atga ko'ra «Narodniklik» — «1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Narodniklik — XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Dekabristlar",
+        "Narodniklik",
+        "Buxarest sulhi",
+        "Chek yerlar"
+      ],
+      "answer": 3,
+      "explain": "Chek yerlar — 1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Chek yerlar» atamasi nimani anglatadi?",
+      "options": [
+        "1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer",
+        "1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari",
+        "XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim",
+        "1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma"
+      ],
+      "answer": 0,
+      "explain": "Chek yerlar — 1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Chek yerlar",
+        "chek yerlar"
+      ],
+      "explain": "Chek yerlar — 1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Chek yerlar» tushunchasi «1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Chek yerlar — 1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Chek yerlar» deganda 1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Chek yerlar — 1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy lug'atga ko'ra «Chek yerlar» — «XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Chek yerlar — 1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Dekabristlar",
+        "Buxarest sulhi",
+        "Narodniklik",
+        "Chek yerlar"
+      ],
+      "answer": 1,
+      "explain": "Buxarest sulhi — 1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Buxarest sulhi» atamasi nimani anglatadi?",
+      "options": [
+        "1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari",
+        "XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim",
+        "1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma",
+        "1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida sotib olish sharti bilan berilgan yer"
+      ],
+      "answer": 2,
+      "explain": "Buxarest sulhi — 1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Buxarest sulhi",
+        "buxarest sulhi"
+      ],
+      "explain": "Buxarest sulhi — 1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Buxarest sulhi» tushunchasi «1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Buxarest sulhi — 1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Buxarest sulhi» deganda 1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikka qarshi chiqqan dvoryan inqilobchilari tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Buxarest sulhi — 1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): tarixiy lug'atga ko'ra «Buxarest sulhi» — «XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolatli jamiyat qurmoqchi bo'lgan oqim» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Buxarest sulhi — 1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani Rossiyaga bergan shartnoma.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1861-yilgacha Rossiyada temiryo'l uzunligi qancha chaqirimni tashkil etardi va u Buyuk Britaniyadan necha barobar kam edi?",
+      "options": [
+        "100 ming chaqirim (Angliyadan 10 barobar ko'p)",
+        "50 ming chaqirim",
+        "Temiryo'l mutlaqo yo'q edi",
+        "1500 chaqirim temiryo'l (Angliyadan 15 barobar kam), paroxodlar esa 400 ta"
+      ],
+      "answer": 3,
+      "explain": "Sanoat rivoji krepostnoylik huquqi tufayli sust kechar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1861-yilgacha Rossiyada temiryo'l uzunligi qancha chaqirimni tashkil etardi va u Buyuk Britaniyadan necha barobar kam edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1861-yilga qadar Rossiyada atigi 1500 chaqirim temiryo'l bo'lib, Buyuk Britaniyadan 15 barobar orqada edi",
+        "1861-yilda Rossiya temiryo'l uzunligi bo'yicha dunyoda birinchi o'rinda turardi",
+        "1861-yilgi manifest dehqonlarni har qanday to'lov va qarzdan butunlay ozod qildi",
+        "Nikolay I dekabristlarning barcha talablarini darhol qabul qildi"
+      ],
+      "answer": 0,
+      "explain": "Sanoat rivoji krepostnoylik huquqi tufayli sust kechar edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1861-yilgacha Rossiyada temiryo'l uzunligi qancha chaqirimni tashkil etardi va u Buyuk Britaniyadan necha barobar kam edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "1861-yilda Rossiya temiryo'l uzunligi bo'yicha dunyoda birinchi o'rinda turardi",
+        "1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: 1861-yilda Rossiya temiryo'l uzunligi bo'yicha dunyoda birinchi o'rinda turardi. Aslida: Sanoat rivoji krepostnoylik huquqi tufayli sust kechar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1861-yilga qadar Rossiyada atigi 1500 chaqirim temiryo'l bo'lib, Buyuk Britaniyadan 15 barobar orqada edi.",
+      "answer": true,
+      "explain": "To'g'ri. Sanoat rivoji krepostnoylik huquqi tufayli sust kechar edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1861-yilda Rossiya temiryo'l uzunligi bo'yicha dunyoda birinchi o'rinda turardi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Sanoat rivoji krepostnoylik huquqi tufayli sust kechar edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik izohiga ko'ra sanoat rivoji krepostnoylik huquqi tufayli sust kechar edi.",
+      "answer": true,
+      "explain": "To'g'ri. Sanoat rivoji krepostnoylik huquqi tufayli sust kechar edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1861-yil 19-fevraldagi krepostnoylikni bekor qilish manifestiga ko'ra dehqonlarga yer qanday shartda berildi?",
+      "options": [
+        "Barcha yerlar dehqonlarga mutlaqo bepul berildi",
+        "Pomeshchiklarga hech qanday yer qoldirilmadi",
+        "Pomeshchiklar eng yaxshi yerning uchdan bir (cho'lda yarim) qismini saqlab qoldi; dehqonlar «chek yerlar» uchun 49 yil foizi bilan to'lashlari shart edi",
+        "Dehqonlar yer sotib olishdan ozod qilindi"
+      ],
+      "answer": 2,
+      "explain": "Bunday adolatsiz shartlar mamlakatda ijtimoiy norozilik va narodniklik harakatini kuchaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1861-yil 19-fevraldagi krepostnoylikni bekor qilish manifestiga ko'ra dehqonlarga yer qanday shartda berildi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1861-yilgi manifest dehqonlarni har qanday to'lov va qarzdan butunlay ozod qildi",
+        "1861-yilda Rossiya temiryo'l uzunligi bo'yicha dunyoda birinchi o'rinda turardi",
+        "Nikolay I dekabristlarning barcha talablarini darhol qabul qildi",
+        "1861-yilgi manifest dehqonlarga shaxsiy erkinlik bergan bo'lsa-da, «chek yerlar» uchun 49 yil davomida haq to'lashni yukladi"
+      ],
+      "answer": 3,
+      "explain": "Bunday adolatsiz shartlar mamlakatda ijtimoiy norozilik va narodniklik harakatini kuchaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1861-yil 19-fevraldagi krepostnoylikni bekor qilish manifestiga ko'ra dehqonlarga yer qanday shartda berildi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1861-yilgi manifest dehqonlarni har qanday to'lov va qarzdan butunlay ozod qildi",
+        "1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: 1861-yilgi manifest dehqonlarni har qanday to'lov va qarzdan butunlay ozod qildi. Aslida: Bunday adolatsiz shartlar mamlakatda ijtimoiy norozilik va narodniklik harakatini kuchaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1861-yilgi manifest dehqonlarga shaxsiy erkinlik bergan bo'lsa-da, «chek yerlar» uchun 49 yil davomida haq to'lashni yukladi.",
+      "answer": true,
+      "explain": "To'g'ri. Bunday adolatsiz shartlar mamlakatda ijtimoiy norozilik va narodniklik harakatini kuchaytirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1861-yilgi manifest dehqonlarni har qanday to'lov va qarzdan butunlay ozod qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Bunday adolatsiz shartlar mamlakatda ijtimoiy norozilik va narodniklik harakatini kuchaytirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik izohiga ko'ra bunday adolatsiz shartlar mamlakatda ijtimoiy norozilik va narodniklik harakatini kuchaytirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Bunday adolatsiz shartlar mamlakatda ijtimoiy norozilik va narodniklik harakatini kuchaytirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1825-yil 14-dekabrdagi dekabristlar qo'zg'oloni bostirilgach, Nikolay I hukumati qanday jazo choralarini qo'lladi?",
+      "options": [
+        "Qo'zg'olonchilarga konstitutsiya topshirildi",
+        "5 nafar rahbar qatl etildi va 120 nafar qatnashchi Sibirga surgun qilindi",
+        "Hamma afv etilib vazir qilindi",
+        "Hech kim jazolanmadi"
+      ],
+      "answer": 1,
+      "explain": "Dekabristlardan so'ng 30–40-yillarda jamoatchilik fikriga V. G. Belinskiy va A. I. Gersen kuchli ta'sir ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1825-yil 14-dekabrdagi dekabristlar qo'zg'oloni bostirilgach, Nikolay I hukumati qanday jazo choralarini qo'lladi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Nikolay I dekabristlarning barcha talablarini darhol qabul qildi",
+        "1861-yilda Rossiya temiryo'l uzunligi bo'yicha dunyoda birinchi o'rinda turardi",
+        "Senat maydonidagi qo'zg'olondan so'ng 5 nafar dekabrist osib o'ldirildi, 120 nafari Sibirga surgun qilindi",
+        "1861-yilgi manifest dehqonlarni har qanday to'lov va qarzdan butunlay ozod qildi"
+      ],
+      "answer": 2,
+      "explain": "Dekabristlardan so'ng 30–40-yillarda jamoatchilik fikriga V. G. Belinskiy va A. I. Gersen kuchli ta'sir ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1825-yil 14-dekabrdagi dekabristlar qo'zg'oloni bostirilgach, Nikolay I hukumati qanday jazo choralarini qo'lladi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi",
+        "Nikolay I dekabristlarning barcha talablarini darhol qabul qildi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Nikolay I dekabristlarning barcha talablarini darhol qabul qildi. Aslida: Dekabristlardan so'ng 30–40-yillarda jamoatchilik fikriga V. G. Belinskiy va A. I. Gersen kuchli ta'sir ko'rsatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Senat maydonidagi qo'zg'olondan so'ng 5 nafar dekabrist osib o'ldirildi, 120 nafari Sibirga surgun qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. Dekabristlardan so'ng 30–40-yillarda jamoatchilik fikriga V. G. Belinskiy va A. I. Gersen kuchli ta'sir ko'rsatdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Nikolay I dekabristlarning barcha talablarini darhol qabul qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Dekabristlardan so'ng 30–40-yillarda jamoatchilik fikriga V. G. Belinskiy va A. I. Gersen kuchli ta'sir ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik izohiga ko'ra dekabristlardan so'ng 30–40-yillarda jamoatchilik fikriga V. G. Belinskiy va A. I. Gersen kuchli ta'sir ko'rsatdi.",
+      "answer": true,
+      "explain": "To'g'ri. Dekabristlardan so'ng 30–40-yillarda jamoatchilik fikriga V. G. Belinskiy va A. I. Gersen kuchli ta'sir ko'rsatdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): XIX asr birinchi yarmida Rossiya o'z hududini qaysi qo'shni o'lkalar hisobiga kengaytirdi?",
+      "options": [
+        "Gruziya (1801–1804), Shimoliy Ozarbayjon (1804–1813), Sharqiy Moldaviya (1812) va Polsha qirolligi (1832)",
+        "Italiya, Fransiya va Ispaniya hisobiga",
+        "Yaponiya va Avstraliya hisobiga",
+        "Braziliya va Kuba hisobiga"
+      ],
+      "answer": 0,
+      "explain": "Shuningdek, 1854-yildan Sirdaryo va Sibir yo'nalishlaridan Qo'qon, Xiva va Buxoro xonliklariga tazyiq boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr birinchi yarmida Rossiya o'z hududini qaysi qo'shni o'lkalar hisobiga kengaytirdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XIX asrda Rossiya imperiyasining chegaralari umuman kengaymagan",
+        "Rossiya 1804–1813-yillar rus–eron urushida Ozarbayjonni qo'shib olib Kaspiyda harbiy flot huquqini oldi",
+        "1861-yilda Rossiya temiryo'l uzunligi bo'yicha dunyoda birinchi o'rinda turardi",
+        "1861-yilgi manifest dehqonlarni har qanday to'lov va qarzdan butunlay ozod qildi"
+      ],
+      "answer": 1,
+      "explain": "Shuningdek, 1854-yildan Sirdaryo va Sibir yo'nalishlaridan Qo'qon, Xiva va Buxoro xonliklariga tazyiq boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr birinchi yarmida Rossiya o'z hududini qaysi qo'shni o'lkalar hisobiga kengaytirdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "XIX asrda Rossiya imperiyasining chegaralari umuman kengaymagan",
+        "1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: XIX asrda Rossiya imperiyasining chegaralari umuman kengaymagan. Aslida: Shuningdek, 1854-yildan Sirdaryo va Sibir yo'nalishlaridan Qo'qon, Xiva va Buxoro xonliklariga tazyiq boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Rossiya 1804–1813-yillar rus–eron urushida Ozarbayjonni qo'shib olib Kaspiyda harbiy flot huquqini oldi.",
+      "answer": true,
+      "explain": "To'g'ri. Shuningdek, 1854-yildan Sirdaryo va Sibir yo'nalishlaridan Qo'qon, Xiva va Buxoro xonliklariga tazyiq boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): XIX asrda Rossiya imperiyasining chegaralari umuman kengaymagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Shuningdek, 1854-yildan Sirdaryo va Sibir yo'nalishlaridan Qo'qon, Xiva va Buxoro xonliklariga tazyiq boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik izohiga ko'ra shuningdek, 1854-yildan Sirdaryo va Sibir yo'nalishlaridan Qo'qon, Xiva va Buxoro xonliklariga tazyiq boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. Shuningdek, 1854-yildan Sirdaryo va Sibir yo'nalishlaridan Qo'qon, Xiva va Buxoro xonliklariga tazyiq boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): XIX asr rus klassitsizm me'morchiligi (Voronixin, Zaxarov, Tomon, Bove, Rossi, Manferran) yaratgan mashhur binolarga qaysilar kiradi?",
+      "options": [
+        "Toj Mahal va Shoh masjidi",
+        "Globus teatri va Versal",
+        "To'pqopi saroyi",
+        "Qozon va Isaakiyev ibodatxonalari, Admiralteystvo va Mixaylov saroyi"
+      ],
+      "answer": 3,
+      "explain": "Shuningdek tarixchi N. Karamzin, rassomlar V. Tropinin va A. Venetsianov rus madaniyatida yorqin iz qoldirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr rus klassitsizm me'morchiligi (Voronixin, Zaxarov, Tomon, Bove, Rossi, Manferran) yaratgan mashhur binolarga qaysilar kiradi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Sankt-Peterburgdagi Qozon va Isaakiyev ibodatxonalari, Admiralteystvo hamda Mixaylov saroyi rus klassitsizmi namunalari edi",
+        "XIX asr Rossiyasida klassitsizm me'morchiligi umuman rivojlanmagan",
+        "1861-yilda Rossiya temiryo'l uzunligi bo'yicha dunyoda birinchi o'rinda turardi",
+        "1861-yilgi manifest dehqonlarni har qanday to'lov va qarzdan butunlay ozod qildi"
+      ],
+      "answer": 0,
+      "explain": "Shuningdek tarixchi N. Karamzin, rassomlar V. Tropinin va A. Venetsianov rus madaniyatida yorqin iz qoldirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr rus klassitsizm me'morchiligi (Voronixin, Zaxarov, Tomon, Bove, Rossi, Manferran) yaratgan mashhur binolarga qaysilar kiradi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1801-yilda Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer sotib olishga ruxsat berdi",
+        "XIX asr Rossiyasida klassitsizm me'morchiligi umuman rivojlanmagan",
+        "1803-yilda Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'allakorlar» toifasi joriy qilindi",
+        "1815-yilda Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: XIX asr Rossiyasida klassitsizm me'morchiligi umuman rivojlanmagan. Aslida: Shuningdek tarixchi N. Karamzin, rassomlar V. Tropinin va A. Venetsianov rus madaniyatida yorqin iz qoldirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Sankt-Peterburgdagi Qozon va Isaakiyev ibodatxonalari, Admiralteystvo hamda Mixaylov saroyi rus klassitsizmi namunalari edi.",
+      "answer": true,
+      "explain": "To'g'ri. Shuningdek tarixchi N. Karamzin, rassomlar V. Tropinin va A. Venetsianov rus madaniyatida yorqin iz qoldirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): XIX asr Rossiyasida klassitsizm me'morchiligi umuman rivojlanmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Shuningdek tarixchi N. Karamzin, rassomlar V. Tropinin va A. Venetsianov rus madaniyatida yorqin iz qoldirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik izohiga ko'ra shuningdek tarixchi N. Karamzin, rassomlar V. Tropinin va A. Venetsianov rus madaniyatida yorqin iz qoldirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Shuningdek tarixchi N. Karamzin, rassomlar V. Tropinin va A. Venetsianov rus madaniyatida yorqin iz qoldirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): XIX asr 60–70-yillari rus narodniklik harakatining uch asosiy yo'nalishi rahbarlariga qaysi ism kirmaydi?",
+      "options": [
+        "M. A. Bakunin (anarxistik)",
+        "P. L. Lavrov (tashviqotchilik)",
+        "Otto fon Bismark",
+        "P. N. Tkachyov (fitnachilik)"
+      ],
+      "answer": 2,
+      "explain": "Narodniklarning uch asosiy oqimi Bakunin, Lavrov va Tkachyov nomi bilan bog'liq.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Narodniklarning uch asosiy oqimi Bakunin, Lavrov va Tkachyov nomi bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Narodniklarning uch asosiy oqimi Bakunin, Lavrov va Tkachyov nomi bilan bog'liq.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): XIX asr buyuk rus adabiyoti va musiqasi vakillari qatoriga qaysi shaxs kirmaydi?",
+      "options": [
+        "A. S. Pushkin, M. Y. Lermontov, L. N. Tolstoy",
+        "F. M. Dostoyevskiy, N. V. Gogol, A. P. Chexov",
+        "M. I. Glinka va P. I. Chaykovskiy",
+        "Juzeppe Madzini"
+      ],
+      "answer": 3,
+      "explain": "Juzeppe Madzini italyan inqilobchisidir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Juzeppe Madzini italyan inqilobchisidir.",
+      "answer": true,
+      "explain": "To'g'ri. Juzeppe Madzini italyan inqilobchisidir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1801–1864-yillarda Rossiya olib borgan urushlar va tashqi bosqinlar ro'yxatiga qaysi biri kirmaydi?",
+      "options": [
+        "AQSH fuqarolar urushi",
+        "1804–1813-yillar rus–eron urushi",
+        "1806–1812-yillar usmoniy–rus urushi",
+        "1817–1864-yillar Kavkaz urushi"
+      ],
+      "answer": 0,
+      "explain": "AQSH fuqarolar urushi Shimoliy Amerikada bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): AQSH fuqarolar urushi Shimoliy Amerikada bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. AQSH fuqarolar urushi Shimoliy Amerikada bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): Nima uchun 1853–1856-yillardagi Qrim urushidagi mag'lubiyat 1861-yilgi krepostnoylik islohotini muqarrar qilib qo'ydi?",
+      "options": [
+        "Qrim urushida Rossiya g'alaba qozonib barcha soliqlarni bekor qildi",
+        "Urush Rossiyaning temiryo'l, harbiy texnika va sanoat jihatidan Yevropa davlatlaridan keskin orqada ekanini fosh etdi",
+        "Urushda Rossiya barcha shaharlarini yo'qotib faqat qishloq xo'jaligiga o'tdi",
+        "Nikolay I urushdan keyin darhol islohotlarni amalga oshirgan edi"
+      ],
+      "answer": 1,
+      "explain": "Qoloqlik sababi krepostnoylik tuzumi ekani ayon bo'lib, sanoat va armiya uchun erkin mehnat bozori zarurligi ko'rindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): 1818-yilda Rossiyada dehqonlarga ham zavod va manufaktura qurishga ruxsat berilishi sanoatda ko'p ukladlilikni kuchaytirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Krepostnoylik saqlanib qolgan sharoitda ham savdogarlar va boyigan dehqonlar tadbirkorlikka kirisha boshlaganlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik jadvali va tayanch ma'lumotlariga ko'ra «Senat maydonidagi dekabristlar qo'zg'oloni» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1837-yil",
+        "1853–1856-yillar",
+        "1825-yil 14-dekabr",
+        "1861-yil 19-fevral"
+      ],
+      "answer": 2,
+      "explain": "1825-yil 14-dekabr — Senat maydonidagi dekabristlar qo'zg'oloni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): mavzudagi «1825-yil 14-dekabr» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Ilk S.-Peterburg – Sarskoye Selo temiryo'li",
+        "Qrim urushi va islohot zarurati",
+        "Krepostnoylikni bekor qilish manifesti",
+        "Senat maydonidagi dekabristlar qo'zg'oloni"
+      ],
+      "answer": 3,
+      "explain": "1825-yil 14-dekabr — Senat maydonidagi dekabristlar qo'zg'oloni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikning tayanch ma'lumotlarida «1825-yil 14-dekabr» — Senat maydonidagi dekabristlar qo'zg'oloni sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1825-yil 14-dekabr — Senat maydonidagi dekabristlar qo'zg'oloni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik ma'lumotlariga ko'ra «1825-yil 14-dekabr» — ilk S.-Peterburg – Sarskoye Selo temiryo'li deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1825-yil 14-dekabr» — Senat maydonidagi dekabristlar qo'zg'oloni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik jadvali va tayanch ma'lumotlariga ko'ra «Ilk S.-Peterburg – Sarskoye Selo temiryo'li» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1837-yil",
+        "1825-yil 14-dekabr",
+        "1853–1856-yillar",
+        "1861-yil 19-fevral"
+      ],
+      "answer": 0,
+      "explain": "1837-yil — ilk S.-Peterburg – Sarskoye Selo temiryo'li.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): mavzudagi «1837-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Senat maydonidagi dekabristlar qo'zg'oloni",
+        "Ilk S.-Peterburg – Sarskoye Selo temiryo'li",
+        "Qrim urushi va islohot zarurati",
+        "Krepostnoylikni bekor qilish manifesti"
+      ],
+      "answer": 1,
+      "explain": "1837-yil — ilk S.-Peterburg – Sarskoye Selo temiryo'li.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikning tayanch ma'lumotlarida «1837-yil» — ilk S.-Peterburg – Sarskoye Selo temiryo'li sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1837-yil — ilk S.-Peterburg – Sarskoye Selo temiryo'li.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik ma'lumotlariga ko'ra «1837-yil» — Senat maydonidagi dekabristlar qo'zg'oloni deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1837-yil» — ilk S.-Peterburg – Sarskoye Selo temiryo'li.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik jadvali va tayanch ma'lumotlariga ko'ra «Qrim urushi va islohot zarurati» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1825-yil 14-dekabr",
+        "1837-yil",
+        "1853–1856-yillar",
+        "1861-yil 19-fevral"
+      ],
+      "answer": 2,
+      "explain": "1853–1856-yillar — qrim urushi va islohot zarurati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): mavzudagi «1853–1856-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Senat maydonidagi dekabristlar qo'zg'oloni",
+        "Ilk S.-Peterburg – Sarskoye Selo temiryo'li",
+        "Krepostnoylikni bekor qilish manifesti",
+        "Qrim urushi va islohot zarurati"
+      ],
+      "answer": 3,
+      "explain": "1853–1856-yillar — qrim urushi va islohot zarurati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikning tayanch ma'lumotlarida «1853–1856-yillar» — qrim urushi va islohot zarurati sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1853–1856-yillar — qrim urushi va islohot zarurati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik ma'lumotlariga ko'ra «1853–1856-yillar» — Senat maydonidagi dekabristlar qo'zg'oloni deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1853–1856-yillar» — qrim urushi va islohot zarurati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik jadvali va tayanch ma'lumotlariga ko'ra «Krepostnoylikni bekor qilish manifesti» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1861-yil 19-fevral",
+        "1825-yil 14-dekabr",
+        "1837-yil",
+        "1853–1856-yillar"
+      ],
+      "answer": 0,
+      "explain": "1861-yil 19-fevral — krepostnoylikni bekor qilish manifesti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): mavzudagi «1861-yil 19-fevral» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Senat maydonidagi dekabristlar qo'zg'oloni",
+        "Krepostnoylikni bekor qilish manifesti",
+        "Ilk S.-Peterburg – Sarskoye Selo temiryo'li",
+        "Qrim urushi va islohot zarurati"
+      ],
+      "answer": 1,
+      "explain": "1861-yil 19-fevral — krepostnoylikni bekor qilish manifesti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikning tayanch ma'lumotlarida «1861-yil 19-fevral» — krepostnoylikni bekor qilish manifesti sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1861-yil 19-fevral — krepostnoylikni bekor qilish manifesti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik ma'lumotlariga ko'ra «1861-yil 19-fevral» — Senat maydonidagi dekabristlar qo'zg'oloni deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1861-yil 19-fevral» — krepostnoylikni bekor qilish manifesti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Chek yerlar» uchun dehqonlar to'lovi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1825-yil 14-dekabr",
+        "1837-yil",
+        "49 yil to'lov",
+        "1853–1856-yillar"
+      ],
+      "answer": 2,
+      "explain": "49 yil to'lov — «Chek yerlar» uchun dehqonlar to'lovi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): mavzudagi «49 yil to'lov» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Senat maydonidagi dekabristlar qo'zg'oloni",
+        "Ilk S.-Peterburg – Sarskoye Selo temiryo'li",
+        "Qrim urushi va islohot zarurati",
+        "«Chek yerlar» uchun dehqonlar to'lovi"
+      ],
+      "answer": 3,
+      "explain": "49 yil to'lov — «Chek yerlar» uchun dehqonlar to'lovi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikning tayanch ma'lumotlarida «49 yil to'lov» — «Chek yerlar» uchun dehqonlar to'lovi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 49 yil to'lov — «Chek yerlar» uchun dehqonlar to'lovi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik ma'lumotlariga ko'ra «49 yil to'lov» — Senat maydonidagi dekabristlar qo'zg'oloni deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «49 yil to'lov» — «Chek yerlar» uchun dehqonlar to'lovi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik jadvali va tayanch ma'lumotlariga ko'ra «30–40-yillar rus tanqidiy tafakkuri» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "V. G. Belinskiy",
+        "1825-yil 14-dekabr",
+        "1837-yil",
+        "1853–1856-yillar"
+      ],
+      "answer": 0,
+      "explain": "V. G. Belinskiy — 30–40-yillar rus tanqidiy tafakkuri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): mavzudagi «V. G. Belinskiy» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Senat maydonidagi dekabristlar qo'zg'oloni",
+        "30–40-yillar rus tanqidiy tafakkuri",
+        "Ilk S.-Peterburg – Sarskoye Selo temiryo'li",
+        "Qrim urushi va islohot zarurati"
+      ],
+      "answer": 1,
+      "explain": "V. G. Belinskiy — 30–40-yillar rus tanqidiy tafakkuri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikning tayanch ma'lumotlarida «V. G. Belinskiy» — 30–40-yillar rus tanqidiy tafakkuri sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. V. G. Belinskiy — 30–40-yillar rus tanqidiy tafakkuri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik ma'lumotlariga ko'ra «V. G. Belinskiy» — Senat maydonidagi dekabristlar qo'zg'oloni deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «V. G. Belinskiy» — 30–40-yillar rus tanqidiy tafakkuri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Kolokol» va ozodlik g'oyalari targ'ibotchisi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1825-yil 14-dekabr",
+        "1837-yil",
+        "A. I. Gersen",
+        "1853–1856-yillar"
+      ],
+      "answer": 2,
+      "explain": "A. I. Gersen — «Kolokol» va ozodlik g'oyalari targ'ibotchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): mavzudagi «A. I. Gersen» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Senat maydonidagi dekabristlar qo'zg'oloni",
+        "Ilk S.-Peterburg – Sarskoye Selo temiryo'li",
+        "Qrim urushi va islohot zarurati",
+        "«Kolokol» va ozodlik g'oyalari targ'ibotchisi"
+      ],
+      "answer": 3,
+      "explain": "A. I. Gersen — «Kolokol» va ozodlik g'oyalari targ'ibotchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikning tayanch ma'lumotlarida «A. I. Gersen» — «Kolokol» va ozodlik g'oyalari targ'ibotchisi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. A. I. Gersen — «Kolokol» va ozodlik g'oyalari targ'ibotchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik ma'lumotlariga ko'ra «A. I. Gersen» — Senat maydonidagi dekabristlar qo'zg'oloni deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «A. I. Gersen» — «Kolokol» va ozodlik g'oyalari targ'ibotchisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik jadvali va tayanch ma'lumotlariga ko'ra «Uzoq davom etgan Kavkaz urushi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1817–1864-yillar",
+        "1825-yil 14-dekabr",
+        "1837-yil",
+        "1853–1856-yillar"
+      ],
+      "answer": 0,
+      "explain": "1817–1864-yillar — uzoq davom etgan Kavkaz urushi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): mavzudagi «1817–1864-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Senat maydonidagi dekabristlar qo'zg'oloni",
+        "Uzoq davom etgan Kavkaz urushi",
+        "Ilk S.-Peterburg – Sarskoye Selo temiryo'li",
+        "Qrim urushi va islohot zarurati"
+      ],
+      "answer": 1,
+      "explain": "1817–1864-yillar — uzoq davom etgan Kavkaz urushi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslikning tayanch ma'lumotlarida «1817–1864-yillar» — uzoq davom etgan Kavkaz urushi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1817–1864-yillar — uzoq davom etgan Kavkaz urushi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): darslik ma'lumotlariga ko'ra «1817–1864-yillar» — Senat maydonidagi dekabristlar qo'zg'oloni deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1817–1864-yillar» — uzoq davom etgan Kavkaz urushi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Narodnik",
+        "Bakunin",
+        "Dekabrist",
+        "Lavrov"
+      ],
+      "answer": 2,
+      "explain": "Dekabrist — 1825-yil 14-dekabr qo'zg'oloni ishtirokchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Dekabrist",
+        "dekabrist",
+        "DEKABRIST"
+      ],
+      "explain": "Dekabrist — 1825-yil 14-dekabr qo'zg'oloni ishtirokchisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Dekabrist» tayanch atamasi/nomi «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Dekabrist — 1825-yil 14-dekabr qo'zg'oloni ishtirokchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Dekabrist» atamasi/nomi darslikda «dehqon jamoasiga tayangan inqilobchi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Dekabrist — 1825-yil 14-dekabr qo'zg'oloni ishtirokchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «dehqon jamoasiga tayangan inqilobchi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Dekabrist",
+        "Bakunin",
+        "Lavrov",
+        "Narodnik"
+      ],
+      "answer": 3,
+      "explain": "Narodnik — dehqon jamoasiga tayangan inqilobchi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «dehqon jamoasiga tayangan inqilobchi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Narodnik",
+        "narodnik",
+        "NARODNIK"
+      ],
+      "explain": "Narodnik — dehqon jamoasiga tayangan inqilobchi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Narodnik» tayanch atamasi/nomi «dehqon jamoasiga tayangan inqilobchi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Narodnik — dehqon jamoasiga tayangan inqilobchi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Narodnik» atamasi/nomi darslikda «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Narodnik — dehqon jamoasiga tayangan inqilobchi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «anarxistik narodniklik nazariyotchisi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Bakunin",
+        "Dekabrist",
+        "Narodnik",
+        "Lavrov"
+      ],
+      "answer": 0,
+      "explain": "Bakunin — anarxistik narodniklik nazariyotchisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «anarxistik narodniklik nazariyotchisi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Bakunin",
+        "bakunin",
+        "BAKUNIN"
+      ],
+      "explain": "Bakunin — anarxistik narodniklik nazariyotchisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Bakunin» tayanch atamasi/nomi «anarxistik narodniklik nazariyotchisi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Bakunin — anarxistik narodniklik nazariyotchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Bakunin» atamasi/nomi darslikda «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Bakunin — anarxistik narodniklik nazariyotchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «tashviqotchilik oqimi rahbari» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Dekabrist",
+        "Lavrov",
+        "Narodnik",
+        "Bakunin"
+      ],
+      "answer": 1,
+      "explain": "Lavrov — tashviqotchilik oqimi rahbari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «tashviqotchilik oqimi rahbari» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Lavrov",
+        "lavrov",
+        "LAVROV"
+      ],
+      "explain": "Lavrov — tashviqotchilik oqimi rahbari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Lavrov» tayanch atamasi/nomi «tashviqotchilik oqimi rahbari» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Lavrov — tashviqotchilik oqimi rahbari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Lavrov» atamasi/nomi darslikda «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Lavrov — tashviqotchilik oqimi rahbari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «fitnachilik yo'nalishi yetakchisi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Dekabrist",
+        "Narodnik",
+        "Tkachyov",
+        "Bakunin"
+      ],
+      "answer": 2,
+      "explain": "Tkachyov — fitnachilik yo'nalishi yetakchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «fitnachilik yo'nalishi yetakchisi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Tkachyov",
+        "tkachyov",
+        "TKACHYOV"
+      ],
+      "explain": "Tkachyov — fitnachilik yo'nalishi yetakchisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Tkachyov» tayanch atamasi/nomi «fitnachilik yo'nalishi yetakchisi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Tkachyov — fitnachilik yo'nalishi yetakchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Tkachyov» atamasi/nomi darslikda «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tkachyov — fitnachilik yo'nalishi yetakchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Buyuk rus klassik bastakori» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Dekabrist",
+        "Narodnik",
+        "Bakunin",
+        "Chaykovskiy"
+      ],
+      "answer": 3,
+      "explain": "Chaykovskiy — Buyuk rus klassik bastakori.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Buyuk rus klassik bastakori» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Chaykovskiy",
+        "chaykovskiy",
+        "CHAYKOVSKIY"
+      ],
+      "explain": "Chaykovskiy — Buyuk rus klassik bastakori.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Chaykovskiy» tayanch atamasi/nomi «Buyuk rus klassik bastakori» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Chaykovskiy — Buyuk rus klassik bastakori.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Chaykovskiy» atamasi/nomi darslikda «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Chaykovskiy — Buyuk rus klassik bastakori.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr buyuk rus shoiri va yozuvchisi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Pushkin",
+        "Dekabrist",
+        "Narodnik",
+        "Bakunin"
+      ],
+      "answer": 0,
+      "explain": "Pushkin — XIX asr buyuk rus shoiri va yozuvchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «XIX asr buyuk rus shoiri va yozuvchisi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Pushkin",
+        "pushkin",
+        "PUSHKIN"
+      ],
+      "explain": "Pushkin — XIX asr buyuk rus shoiri va yozuvchisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Pushkin» tayanch atamasi/nomi «XIX asr buyuk rus shoiri va yozuvchisi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Pushkin — XIX asr buyuk rus shoiri va yozuvchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Pushkin» atamasi/nomi darslikda «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Pushkin — XIX asr buyuk rus shoiri va yozuvchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1854-yilda qurilgan Olmaota qal'asi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Dekabrist",
+        "Verniy",
+        "Narodnik",
+        "Bakunin"
+      ],
+      "answer": 1,
+      "explain": "Verniy — 1854-yilda qurilgan Olmaota qal'asi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1854-yilda qurilgan Olmaota qal'asi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Verniy",
+        "verniy",
+        "VERNIY"
+      ],
+      "explain": "Verniy — 1854-yilda qurilgan Olmaota qal'asi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Verniy» tayanch atamasi/nomi «1854-yilda qurilgan Olmaota qal'asi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Verniy — 1854-yilda qurilgan Olmaota qal'asi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Verniy» atamasi/nomi darslikda «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Verniy — 1854-yilda qurilgan Olmaota qal'asi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1812-yilgi rus–turk sulhi shahri» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Dekabrist",
+        "Narodnik",
+        "Buxarest",
+        "Bakunin"
+      ],
+      "answer": 2,
+      "explain": "Buxarest — 1812-yilgi rus–turk sulhi shahri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1812-yilgi rus–turk sulhi shahri» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Buxarest",
+        "buxarest",
+        "BUXAREST"
+      ],
+      "explain": "Buxarest — 1812-yilgi rus–turk sulhi shahri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Buxarest» tayanch atamasi/nomi «1812-yilgi rus–turk sulhi shahri» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Buxarest — 1812-yilgi rus–turk sulhi shahri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Buxarest» atamasi/nomi darslikda «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Buxarest — 1812-yilgi rus–turk sulhi shahri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1815-yilgi ilk rus paroxodi nomi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Dekabrist",
+        "Narodnik",
+        "Bakunin",
+        "Yelizaveta"
+      ],
+      "answer": 3,
+      "explain": "Yelizaveta — 1815-yilgi ilk rus paroxodi nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «1815-yilgi ilk rus paroxodi nomi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Yelizaveta",
+        "yelizaveta",
+        "YELIZAVETA"
+      ],
+      "explain": "Yelizaveta — 1815-yilgi ilk rus paroxodi nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Yelizaveta» tayanch atamasi/nomi «1815-yilgi ilk rus paroxodi nomi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Yelizaveta — 1815-yilgi ilk rus paroxodi nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "24-mavzu (Rossiya: 1861-yil islohoti): «Yelizaveta» atamasi/nomi darslikda «1825-yil 14-dekabr qo'zg'oloni ishtirokchisi» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Yelizaveta — 1815-yilgi ilk rus paroxodi nomi.",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "DEKABRIST",
+      "1825-yil 14-dekabr qo'zg'oloni ishtirokchisi"
+    ],
+    [
+      "NARODNIK",
+      "Dehqon jamoasiga tayangan inqilobchi"
+    ],
+    [
+      "BAKUNIN",
+      "Anarxistik narodniklik nazariyotchisi"
+    ],
+    [
+      "LAVROV",
+      "Tashviqotchilik oqimi rahbari"
+    ],
+    [
+      "TKACHYOV",
+      "Fitnachilik yo'nalishi yetakchisi"
+    ],
+    [
+      "CHAYKOVSKIY",
+      "Buyuk rus klassik bastakori"
+    ],
+    [
+      "PUSHKIN",
+      "XIX asr buyuk rus shoiri va yozuvchisi"
+    ],
+    [
+      "VERNIY",
+      "1854-yilda qurilgan Olmaota qal'asi"
+    ],
+    [
+      "BUXAREST",
+      "1812-yilgi rus–turk sulhi shahri"
+    ],
+    [
+      "YELIZAVETA",
+      "1815-yilgi ilk rus paroxodi nomi"
+    ],
+    [
+      "1825-yil 14-dekabr",
+      "Senat maydonidagi dekabristlar qo'zg'oloni"
+    ],
+    [
+      "1837-yil",
+      "Ilk S.-Peterburg – Sarskoye Selo temiryo'li"
+    ],
+    [
+      "1853–1856-yillar",
+      "Qrim urushi va islohot zarurati"
+    ],
+    [
+      "1861-yil 19-fevral",
+      "Krepostnoylikni bekor qilish manifesti"
+    ],
+    [
+      "49 yil to'lov",
+      "«Chek yerlar» uchun dehqonlar to'lovi"
+    ],
+    [
+      "V. G. Belinskiy",
+      "30–40-yillar rus tanqidiy tafakkuri"
+    ],
+    [
+      "A. I. Gersen",
+      "«Kolokol» va ozodlik g'oyalari targ'ibotchisi"
+    ],
+    [
+      "1817–1864-yillar",
+      "Uzoq davom etgan Kavkaz urushi"
+    ],
+    [
+      "Dekabristlar",
+      "1825-yil 14-dekabrda Senat maydonida samoderjaviye va krepostnoylikk"
+    ],
+    [
+      "Narodniklik",
+      "XIX asr 60–70-yillarida Rossiyada dehqonlar jamoasiga tayanib adolat"
+    ],
+    [
+      "Chek yerlar",
+      "1861-yilgi islohotdan so'ng ozod bo'lgan dehqonlarga 49 yil davomida"
+    ],
+    [
+      "Buxarest sulhi",
+      "1806–1812-yillardagi rus–turk urushini yakunlab Sharqiy Moldaviyani"
+    ],
+    [
+      "Aleksandr I",
+      "1801-yilda taxtga chiqib, yarmarkada dehqon sotishni (1808) va kator"
+    ],
+    [
+      "Nikolay I",
+      "1825-yilda dekabristlar qo'zg'olonini bostirgan va Qrim urushini bos"
+    ],
+    [
+      "Aleksandr II",
+      "1861-yil 19-fevraldagi manifest bilan Rossiyada krepostnoylik huquqi"
+    ],
+    [
+      "Mixail Bakunin",
+      "XIX asr 60–70-yillarida Rossiya narodniklarining anarxistik yo'nalis"
+    ],
+    [
+      "Pyotr Lavrov",
+      "Narodniklarning xalq orasida tinch targ'ibot va ma'rifat tarqatuvchi"
+    ],
+    [
+      "Pyotr Tkachyov",
+      "Narodniklar harakatining hokimiyatni maxfiy fitna yo'li bilan egalla"
+    ],
+    [
+      "Aleksandr Pushkin",
+      "XIX asr rus adabiyotini jahon cho'qqisiga olib chiqqan buyuk rus sho"
+    ],
+    [
+      "Pyotr Chaykovskiy",
+      "XIX asr rus klassik musiqasining dunyoga mashhur bastakori"
+    ],
+    [
+      "1801-yil",
+      "Aleksandr I taxtga o'tirdi va savdogar hamda erkin dehqonlarga yer s"
+    ],
+    [
+      "1803-yil",
+      "Rossiyada pomeshchiklar bilan kelishuv va to'lov evaziga «erkin g'al"
+    ],
+    [
+      "1815-yil",
+      "Rossiyada birinchi «Yelizaveta» paroxodi suvga tushirildi"
+    ],
+    [
+      "1825-yil",
+      "14-dekabr kuni Sankt-Peterburgdagi Senat maydonida dekabristlar qo'z"
+    ],
+    [
+      "1853-yil",
+      "Rossiyaning Qrim urushi boshlandi (1856-yilda mag'lubiyat bilan yaku"
+    ],
+    [
+      "1854-yil",
+      "Sirdaryo va Sibir harbiy liniyalari tutashtirilib Verniy (Olmaota) q"
+    ],
+    [
+      "1861-yil",
+      "19-fevralda imperator Aleksandr II krepostnoylikni bekor qilish to'g"
+    ],
+    [
+      "1864-yil",
+      "1817-yilda boshlangan uzoq Kavkaz urushi rasman yakunlandi"
+    ]
+  ]
+}

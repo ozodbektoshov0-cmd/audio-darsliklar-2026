@@ -1,0 +1,2940 @@
+{
+  "id": "g9-uz-jahon-tarixi-01-buyuk-geografik-kashfiyotlar",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "1-mavzu. Buyuk geografik kashfiyotlar. Mustamlaka tizimining shakllanishi",
+  "title": "1-mavzu. Buyuk geografik kashfiyotlar. Mustamlaka tizimining shakllanishi",
+  "source": "Jahon tarixi 9-sinf (2024), Kirish va 1-mavzu, 5–11-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi?",
+      "options": [
+        "1419-yil",
+        "1453-yil",
+        "1492-yil",
+        "1498-yil"
+      ],
+      "answer": 0,
+      "explain": "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1419-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi",
+        "Vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi"
+      ],
+      "answer": 1,
+      "explain": "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi. (Yilni kiriting)",
+      "answer": [
+        "1419",
+        "1419-yil",
+        "1419-yilda"
+      ],
+      "explain": "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1419-yil XV asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1453-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1453-yilda emas, 1419-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1492-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi?",
+      "options": [
+        "1419-yil",
+        "1492-yil",
+        "1498-yil",
+        "1453-yil"
+      ],
+      "answer": 3,
+      "explain": "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1453-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi",
+        "Vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi"
+      ],
+      "answer": 0,
+      "explain": "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi. (Yilni kiriting)",
+      "answer": [
+        "1453",
+        "1453-yil",
+        "1453-yilda"
+      ],
+      "explain": "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 1,
+      "explain": "1453-yil XV asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1453-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1492-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi?",
+      "options": [
+        "1419-yil",
+        "1453-yil",
+        "1492-yil",
+        "1498-yil"
+      ],
+      "answer": 2,
+      "explain": "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1492-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 3,
+      "explain": "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi. (Yilni kiriting)",
+      "answer": [
+        "1492",
+        "1492-yil",
+        "1492-yilda"
+      ],
+      "explain": "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XV asrda",
+        "XIV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 0,
+      "explain": "1492-yil XV asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1492-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1453-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi?",
+      "options": [
+        "1419-yil",
+        "1498-yil",
+        "1453-yil",
+        "1492-yil"
+      ],
+      "answer": 1,
+      "explain": "1498-yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1498-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 2,
+      "explain": "1498-yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi. (Yilni kiriting)",
+      "answer": [
+        "1498",
+        "1498-yil",
+        "1498-yilda"
+      ],
+      "explain": "1498-yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XVII asrda",
+        "XV asrda"
+      ],
+      "answer": 3,
+      "explain": "1498-yil XV asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1498-yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi.",
+      "answer": true,
+      "explain": "To'g'ri. 1498-yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1498-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1453-yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1498-yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi?",
+      "options": [
+        "1499-yil",
+        "1419-yil",
+        "1453-yil",
+        "1492-yil"
+      ],
+      "answer": 0,
+      "explain": "1499-yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1499-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 1,
+      "explain": "1499-yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi. (Yilni kiriting)",
+      "answer": [
+        "1499",
+        "1499-yil",
+        "1499-yilda"
+      ],
+      "explain": "1499-yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1499-yil XV asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1499-yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1499-yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1499-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1453-yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1499-yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi?",
+      "options": [
+        "1419-yil",
+        "1453-yil",
+        "1492-yil",
+        "1501-yil"
+      ],
+      "answer": 3,
+      "explain": "1501-yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1501-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi",
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 0,
+      "explain": "1501-yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi. (Yilni kiriting)",
+      "answer": [
+        "1501",
+        "1501-yil",
+        "1501-yilda"
+      ],
+      "explain": "1501-yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 1,
+      "explain": "1501-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1501-yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi.",
+      "answer": true,
+      "explain": "To'g'ri. 1501-yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1501-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1453-yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1501-yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi?",
+      "options": [
+        "1419-yil",
+        "1453-yil",
+        "1519-yil",
+        "1492-yil"
+      ],
+      "answer": 2,
+      "explain": "1519-yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1519-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi",
+        "Fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi"
+      ],
+      "answer": 3,
+      "explain": "1519-yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi. (Yilni kiriting)",
+      "answer": [
+        "1519",
+        "1519-yil",
+        "1519-yilda"
+      ],
+      "explain": "1519-yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVI asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 0,
+      "explain": "1519-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1519-yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1519-yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1519-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1453-yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1519-yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi?",
+      "options": [
+        "1419-yil",
+        "1521-yil",
+        "1453-yil",
+        "1492-yil"
+      ],
+      "answer": 1,
+      "explain": "1521-yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1521-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 2,
+      "explain": "1521-yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi. (Yilni kiriting)",
+      "answer": [
+        "1521",
+        "1521-yil",
+        "1521-yilda"
+      ],
+      "explain": "1521-yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 3,
+      "explain": "1521-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1521-yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi.",
+      "answer": true,
+      "explain": "To'g'ri. 1521-yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1521-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1453-yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1521-yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi?",
+      "options": [
+        "1522-yil",
+        "1419-yil",
+        "1453-yil",
+        "1492-yil"
+      ],
+      "answer": 0,
+      "explain": "1522-yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1522-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 1,
+      "explain": "1522-yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi. (Yilni kiriting)",
+      "answer": [
+        "1522",
+        "1522-yil",
+        "1522-yilda"
+      ],
+      "explain": "1522-yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1522-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1522-yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi.",
+      "answer": true,
+      "explain": "To'g'ri. 1522-yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1522-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1453-yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1522-yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi?",
+      "options": [
+        "1419-yil",
+        "1453-yil",
+        "1492-yil",
+        "1605-yil"
+      ],
+      "answer": 3,
+      "explain": "1605-yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1605-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi",
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 0,
+      "explain": "1605-yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi. (Yilni kiriting)",
+      "answer": [
+        "1605",
+        "1605-yil",
+        "1605-yilda"
+      ],
+      "explain": "1605-yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1605-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1605-yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1605-yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1605-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1453-yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1605-yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi?",
+      "options": [
+        "1419-yil",
+        "1453-yil",
+        "1606-yil",
+        "1492-yil"
+      ],
+      "answer": 2,
+      "explain": "1606-yilda gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1606-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi",
+        "Gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi"
+      ],
+      "answer": 3,
+      "explain": "1606-yilda gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi. (Yilni kiriting)",
+      "answer": [
+        "1606",
+        "1606-yil",
+        "1606-yilda"
+      ],
+      "explain": "1606-yilda gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1606-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1606-yilda gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi.",
+      "answer": true,
+      "explain": "To'g'ri. 1606-yilda gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1606-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1453-yilda gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1606-yilda gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): qaysi yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi?",
+      "options": [
+        "1419-yil",
+        "1642-yil",
+        "1453-yil",
+        "1492-yil"
+      ],
+      "answer": 1,
+      "explain": "1642-yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar) mavzusiga ko'ra 1642-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 2,
+      "explain": "1642-yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): ____-yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi. (Yilni kiriting)",
+      "answer": [
+        "1642",
+        "1642-yil",
+        "1642-yilda"
+      ],
+      "explain": "1642-yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 3,
+      "explain": "1642-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1642-yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi.",
+      "answer": true,
+      "explain": "To'g'ri. 1642-yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1419-yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1419-yilda emas, 1642-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik xronologiyasiga ko'ra 1453-yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1642-yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Portugallar Atlantika okeanidagi...» hamda «Vasko da Gama Afrikani aylanib o...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi",
+        "Vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi"
+      ],
+      "answer": 0,
+      "explain": "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Portugallar Atlantika okeanidagi...» hamda «Vasko da Gama Afrikani aylanib o...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi",
+        "Turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 1,
+      "explain": "1498-yilda vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Xristofor Kolumb ekspeditsiyasi...» hamda «Amerigo Vespuchchi Braziliya qir...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi",
+        "Vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi",
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi",
+        "Amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi"
+      ],
+      "answer": 2,
+      "explain": "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Xristofor Kolumb ekspeditsiyasi...» hamda «Amerigo Vespuchchi Braziliya qir...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi",
+        "Vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi",
+        "Vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi",
+        "Amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi"
+      ],
+      "answer": 3,
+      "explain": "1501-yilda amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Vasko da Gama ekspeditsiyasi Lis...» hamda «Magellan ekspeditsiyasi Mariana...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi",
+        "Amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi",
+        "Fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi",
+        "Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi"
+      ],
+      "answer": 0,
+      "explain": "1499-yilda vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Vasko da Gama ekspeditsiyasi Lis...» hamda «Magellan ekspeditsiyasi Mariana...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi",
+        "Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi",
+        "Amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi",
+        "Fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi"
+      ],
+      "answer": 1,
+      "explain": "1521-yilda Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Fernando Magellan Ispaniyadan du...» hamda «Ispan dengizchisi Luis Torres Ti...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi",
+        "Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi",
+        "Fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi",
+        "Ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi"
+      ],
+      "answer": 2,
+      "explain": "1519-yilda fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Fernando Magellan Ispaniyadan du...» hamda «Ispan dengizchisi Luis Torres Ti...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi",
+        "Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi",
+        "Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi",
+        "Ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi"
+      ],
+      "answer": 3,
+      "explain": "1605-yilda ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Magellan ekspeditsiyasidan omon...» hamda «Gollandiyalik Abel Tasman Yangi...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi",
+        "Ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi",
+        "Gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi",
+        "Gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi"
+      ],
+      "answer": 0,
+      "explain": "1522-yilda Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Magellan ekspeditsiyasidan omon...» hamda «Gollandiyalik Abel Tasman Yangi...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi",
+        "Gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi",
+        "Ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi",
+        "Gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi"
+      ],
+      "answer": 1,
+      "explain": "1642-yilda gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1453-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1453-yilda esa turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1492-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1492-yilda esa xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1498-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1498-yilda esa vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1499-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1499-yilda esa vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1501-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1501-yilda esa amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi qit'a ekanini isbotladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1519-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1519-yilda esa fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1521-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1521-yilda esa Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1522-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1522-yilda esa Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo aylana sayohatni yakunladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1605-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1605-yilda esa ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan yaqinlashdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1606-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1606-yilda esa gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi voqeasi gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1419-yil 1642-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi voqeasi portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi, 1642-yilda esa gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyaning alohida qit'a ekanini isbotladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi voqeasi xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1453-yil 1492-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi voqeasi turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi, 1492-yilda esa xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi voqeasi vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1453-yil 1498-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi voqeasi turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi, 1498-yilda esa vasko da Gama Afrikani aylanib o'tib Hindistonning Kalikutta shahriga yetib bordi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): xronologiyaga ko'ra turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi voqeasi vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1453-yil 1499-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy ketma-ketlikka ko'ra vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi voqeasi turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi, 1499-yilda esa vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda keltirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Vasko da Gama",
+        "Ahmad ibn Majid",
+        "Xristofor Kolumb",
+        "Amerigo Vespuchchi"
+      ],
+      "answer": 2,
+      "explain": "Xristofor Kolumb 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Xristofor Kolumbning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi",
+        "Vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi",
+        "Braziliya qirg'oqlarini o'rganib, yangi qit'a ekanini isbotlagan italiyalik sayyoh",
+        "1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi"
+      ],
+      "answer": 3,
+      "explain": "Xristofor Kolumb 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Xristofor Kolumb"
+      ],
+      "explain": "Xristofor Kolumb 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Xristofor Kolumb 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi.",
+      "answer": true,
+      "explain": "To'g'ri. Xristofor Kolumb 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Xristofor Kolumb — afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Xristofor Kolumb 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslikda Xristofor Kolumb «vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Xristofor Kolumb 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi».",
+      "options": [
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Ahmad ibn Majid",
+        "Amerigo Vespuchchi"
+      ],
+      "answer": 0,
+      "explain": "Xristofor Kolumb 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «____ 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Xristofor Kolumb"
+      ],
+      "explain": "Xristofor Kolumb 1492-yil 3-avgustda yo'lga chiqib, 12-oktyabrda San-Salvador oroliga yetib bordi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Ahmad ibn Majid",
+        "Amerigo Vespuchchi"
+      ],
+      "answer": 1,
+      "explain": "Vasko da Gama 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Vasko da Gamaning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi",
+        "Vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi",
+        "Afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi",
+        "Braziliya qirg'oqlarini o'rganib, yangi qit'a ekanini isbotlagan italiyalik sayyoh"
+      ],
+      "answer": 2,
+      "explain": "Vasko da Gama 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Vasko da Gama"
+      ],
+      "explain": "Vasko da Gama 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Vasko da Gama 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi.",
+      "answer": true,
+      "explain": "To'g'ri. Vasko da Gama 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Vasko da Gama — 1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Vasko da Gama 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslikda Vasko da Gama «vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Vasko da Gama 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi».",
+      "options": [
+        "Xristofor Kolumb",
+        "Ahmad ibn Majid",
+        "Amerigo Vespuchchi",
+        "Vasko da Gama"
+      ],
+      "answer": 3,
+      "explain": "Vasko da Gama 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «____ 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Vasko da Gama"
+      ],
+      "explain": "Vasko da Gama 1498-yilda arab dengizchisi Ahmad ibn Majid ko'magida Kalikutta shahriga yetib keldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Ahmad ibn Majid",
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Amerigo Vespuchchi"
+      ],
+      "answer": 0,
+      "explain": "Ahmad ibn Majid Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Ahmad ibn Majidning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi",
+        "Vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi",
+        "Afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi",
+        "Braziliya qirg'oqlarini o'rganib, yangi qit'a ekanini isbotlagan italiyalik sayyoh"
+      ],
+      "answer": 1,
+      "explain": "Ahmad ibn Majid Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Ahmad ibn Majid"
+      ],
+      "explain": "Ahmad ibn Majid Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Ahmad ibn Majid Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Ahmad ibn Majid Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Ahmad ibn Majid — 1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ahmad ibn Majid Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslikda Ahmad ibn Majid «afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Ahmad ibn Majid Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan».",
+      "options": [
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Ahmad ibn Majid",
+        "Amerigo Vespuchchi"
+      ],
+      "answer": 2,
+      "explain": "Ahmad ibn Majid Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «____ Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Ahmad ibn Majid"
+      ],
+      "explain": "Ahmad ibn Majid Afrika sharqiy qirg'oqlaridan Hindistonga suzishda Vasko da Gamaga yo'lboshchilik qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Braziliya qirg'oqlarini o'rganib, yangi qit'a ekanini isbotlagan italiyalik sayyoh» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Ahmad ibn Majid",
+        "Amerigo Vespuchchi"
+      ],
+      "answer": 3,
+      "explain": "Amerigo Vespuchchi sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Amerigo Vespuchchining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Braziliya qirg'oqlarini o'rganib, yangi qit'a ekanini isbotlagan italiyalik sayyoh",
+        "1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi",
+        "Afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi",
+        "Vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi"
+      ],
+      "answer": 0,
+      "explain": "Amerigo Vespuchchi sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Braziliya qirg'oqlarini o'rganib, yangi qit'a ekanini isbotlagan italiyalik sayyoh bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Amerigo Vespuchchi"
+      ],
+      "explain": "Amerigo Vespuchchi sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Amerigo Vespuchchi sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Amerigo Vespuchchi sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Amerigo Vespuchchi — 1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Amerigo Vespuchchi sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslikda Amerigo Vespuchchi «afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Amerigo Vespuchchi sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan».",
+      "options": [
+        "Xristofor Kolumb",
+        "Amerigo Vespuchchi",
+        "Vasko da Gama",
+        "Ahmad ibn Majid"
+      ],
+      "answer": 1,
+      "explain": "Amerigo Vespuchchi sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «____ sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Amerigo Vespuchchi"
+      ],
+      "explain": "Amerigo Vespuchchi sharafiga yangi kashf etilgan qit'aga Amerika nomi berilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «yerning sharsimon ekanini amalda isbotlagan ilk dunyo aylana sayohati rahbari» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Fernando Magellan",
+        "Ahmad ibn Majid"
+      ],
+      "answer": 2,
+      "explain": "Fernando Magellan 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Fernando Magellanning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi",
+        "Afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi",
+        "Vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi",
+        "Yerning sharsimon ekanini amalda isbotlagan ilk dunyo aylana sayohati rahbari"
+      ],
+      "answer": 3,
+      "explain": "Fernando Magellan 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): yerning sharsimon ekanini amalda isbotlagan ilk dunyo aylana sayohati rahbari bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Fernando Magellan"
+      ],
+      "explain": "Fernando Magellan 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Fernando Magellan 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi.",
+      "answer": true,
+      "explain": "To'g'ri. Fernando Magellan 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Fernando Magellan — 1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Fernando Magellan 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslikda Fernando Magellan «afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Fernando Magellan 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi».",
+      "options": [
+        "Fernando Magellan",
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Ahmad ibn Majid"
+      ],
+      "answer": 0,
+      "explain": "Fernando Magellan 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «____ 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Fernando Magellan"
+      ],
+      "explain": "Fernando Magellan 1519-yilda boshlagan ekspeditsiya dunyoni aylanib chiqib, Tinch okeanini kashf etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «1605-yilda Avstraliya va Yangi Gvineya oralig'idagi bo'g'ozdan o'tgan ispan dengizchisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Xristofor Kolumb",
+        "Luis Torres",
+        "Vasko da Gama",
+        "Ahmad ibn Majid"
+      ],
+      "answer": 1,
+      "explain": "Luis Torres Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Luis Torresning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi",
+        "Afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi",
+        "1605-yilda Avstraliya va Yangi Gvineya oralig'idagi bo'g'ozdan o'tgan ispan dengizchisi",
+        "Vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi"
+      ],
+      "answer": 2,
+      "explain": "Luis Torres Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1605-yilda Avstraliya va Yangi Gvineya oralig'idagi bo'g'ozdan o'tgan ispan dengizchisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Luis Torres"
+      ],
+      "explain": "Luis Torres Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Luis Torres Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan.",
+      "answer": true,
+      "explain": "To'g'ri. Luis Torres Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Luis Torres — 1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Luis Torres Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslikda Luis Torres «afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Luis Torres Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan».",
+      "options": [
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Ahmad ibn Majid",
+        "Luis Torres"
+      ],
+      "answer": 3,
+      "explain": "Luis Torres Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «____ Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Luis Torres"
+      ],
+      "explain": "Luis Torres Avstraliyaga shimoldan yaqinlashgan va bo'g'oz uning nomi bilan atalgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «1606-yilda Avstraliya qirg'oqlariga ilk bor qadam qo'ygan gollandiyalik sayyoh» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Villem Yanszon",
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Ahmad ibn Majid"
+      ],
+      "answer": 0,
+      "explain": "Villem Yanszon 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Villem Yanszonning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi",
+        "1606-yilda Avstraliya qirg'oqlariga ilk bor qadam qo'ygan gollandiyalik sayyoh",
+        "Afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi",
+        "Vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi"
+      ],
+      "answer": 1,
+      "explain": "Villem Yanszon 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1606-yilda Avstraliya qirg'oqlariga ilk bor qadam qo'ygan gollandiyalik sayyoh bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Villem Yanszon"
+      ],
+      "explain": "Villem Yanszon 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Villem Yanszon 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. Villem Yanszon 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Villem Yanszon — 1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Villem Yanszon 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslikda Villem Yanszon «afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Villem Yanszon 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi».",
+      "options": [
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Villem Yanszon",
+        "Ahmad ibn Majid"
+      ],
+      "answer": 2,
+      "explain": "Villem Yanszon 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «____ 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Villem Yanszon"
+      ],
+      "explain": "Villem Yanszon 1606-yilda Avstraliya qirg'oqlariga qadam qo'ygan birinchi yevropalik sayyoh bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «1642-yilda Yangi Zelandiyani kashf etgan gollandiyalik dengiz sayyohi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Xristofor Kolumb",
+        "Vasko da Gama",
+        "Ahmad ibn Majid",
+        "Abel Tasman"
+      ],
+      "answer": 3,
+      "explain": "Abel Tasman Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Abel Tasmanning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1642-yilda Yangi Zelandiyani kashf etgan gollandiyalik dengiz sayyohi",
+        "1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi",
+        "Afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi",
+        "Vasko da Gamaga Hindistonga olib boruvchi dengiz yo'lini ko'rsatgan arab dengizchisi"
+      ],
+      "answer": 0,
+      "explain": "Abel Tasman Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1642-yilda Yangi Zelandiyani kashf etgan gollandiyalik dengiz sayyohi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Abel Tasman"
+      ],
+      "explain": "Abel Tasman Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Abel Tasman Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi.",
+      "answer": true,
+      "explain": "To'g'ri. Abel Tasman Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Abel Tasman — 1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz sayyohi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Abel Tasman Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslikda Abel Tasman «afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal dengizchisi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Abel Tasman Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi».",
+      "options": [
+        "Xristofor Kolumb",
+        "Abel Tasman",
+        "Vasko da Gama",
+        "Ahmad ibn Majid"
+      ],
+      "answer": 1,
+      "explain": "Abel Tasman Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «____ Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Abel Tasman"
+      ],
+      "explain": "Abel Tasman Avstraliya alohida qit'a ekanini isbotladi va Yangi Zelandiyani kashf etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Usturlob",
+        "Konkista",
+        "Karavella",
+        "Metis"
+      ],
+      "answer": 2,
+      "explain": "Karavella — ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Karavella» atamasi nimani anglatadi?",
+      "options": [
+        "Yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob",
+        "Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati",
+        "Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili",
+        "Ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema"
+      ],
+      "answer": 3,
+      "explain": "Karavella — ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Karavella",
+        "karavella"
+      ],
+      "explain": "Karavella — ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Karavella» tushunchasi «ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Karavella — ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Karavella» deganda yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Karavella — ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy lug'atga ko'ra «Karavella» — «Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Karavella — ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Usturlob",
+        "Karavella",
+        "Konkista",
+        "Metis"
+      ],
+      "answer": 0,
+      "explain": "Usturlob — yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Usturlob» atamasi nimani anglatadi?",
+      "options": [
+        "Ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema",
+        "Yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob",
+        "Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati",
+        "Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili"
+      ],
+      "answer": 1,
+      "explain": "Usturlob — yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Usturlob",
+        "usturlob"
+      ],
+      "explain": "Usturlob — yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Usturlob» tushunchasi «yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Usturlob — yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Usturlob» deganda ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Usturlob — yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy lug'atga ko'ra «Usturlob» — «Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Usturlob — yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Karavella",
+        "Usturlob",
+        "Konkista",
+        "Metis"
+      ],
+      "answer": 2,
+      "explain": "Konkista — Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Konkista» atamasi nimani anglatadi?",
+      "options": [
+        "Ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema",
+        "Yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob",
+        "Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili",
+        "Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati"
+      ],
+      "answer": 3,
+      "explain": "Konkista — Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Konkista",
+        "konkista"
+      ],
+      "explain": "Konkista — Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Konkista» tushunchasi «Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Konkista — Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Konkista» deganda ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Konkista — Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy lug'atga ko'ra «Konkista» — «yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Konkista — Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Metis",
+        "Karavella",
+        "Usturlob",
+        "Konkista"
+      ],
+      "answer": 0,
+      "explain": "Metis — Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Metis» atamasi nimani anglatadi?",
+      "options": [
+        "Ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema",
+        "Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili",
+        "Yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob",
+        "Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati"
+      ],
+      "answer": 1,
+      "explain": "Metis — Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Metis",
+        "metis"
+      ],
+      "explain": "Metis — Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Metis» tushunchasi «Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Metis — Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Metis» deganda ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Metis — Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy lug'atga ko'ra «Metis» — «yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Metis — Yevropaliklar bilan mahalliy hindu aholisi nikohidan tug'ilgan avlod vakili.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Yevropaliklar bilan Afrikadan keltirilgan qora tanlilar nikohidan tug'ilgan avlod» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Karavella",
+        "Usturlob",
+        "Mulat",
+        "Konkista"
+      ],
+      "answer": 2,
+      "explain": "Mulat — Yevropaliklar bilan Afrikadan keltirilgan qora tanlilar nikohidan tug'ilgan avlod.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Mulat» atamasi nimani anglatadi?",
+      "options": [
+        "Ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema",
+        "Yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob",
+        "Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati",
+        "Yevropaliklar bilan Afrikadan keltirilgan qora tanlilar nikohidan tug'ilgan avlod"
+      ],
+      "answer": 3,
+      "explain": "Mulat — Yevropaliklar bilan Afrikadan keltirilgan qora tanlilar nikohidan tug'ilgan avlod.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Yevropaliklar bilan Afrikadan keltirilgan qora tanlilar nikohidan tug'ilgan avlod» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Mulat",
+        "mulat"
+      ],
+      "explain": "Mulat — Yevropaliklar bilan Afrikadan keltirilgan qora tanlilar nikohidan tug'ilgan avlod.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Mulat» tushunchasi «Yevropaliklar bilan Afrikadan keltirilgan qora tanlilar nikohidan tug'ilgan avlod» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Mulat — Yevropaliklar bilan Afrikadan keltirilgan qora tanlilar nikohidan tug'ilgan avlod.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Mulat» deganda ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Mulat — Yevropaliklar bilan Afrikadan keltirilgan qora tanlilar nikohidan tug'ilgan avlod.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy lug'atga ko'ra «Mulat» — «yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Mulat — Yevropaliklar bilan Afrikadan keltirilgan qora tanlilar nikohidan tug'ilgan avlod.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «adan shahrida joylashgan va Sharq savdosida muhim o'rin tutgan yirik savdogarlar uyushmasi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Karimiylar",
+        "Karavella",
+        "Usturlob",
+        "Konkista"
+      ],
+      "answer": 0,
+      "explain": "Karimiylar — adan shahrida joylashgan va Sharq savdosida muhim o'rin tutgan yirik savdogarlar uyushmasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Karimiylar» atamasi nimani anglatadi?",
+      "options": [
+        "Ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema",
+        "Adan shahrida joylashgan va Sharq savdosida muhim o'rin tutgan yirik savdogarlar uyushmasi",
+        "Yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob",
+        "Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati"
+      ],
+      "answer": 1,
+      "explain": "Karimiylar — adan shahrida joylashgan va Sharq savdosida muhim o'rin tutgan yirik savdogarlar uyushmasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «adan shahrida joylashgan va Sharq savdosida muhim o'rin tutgan yirik savdogarlar uyushmasi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Karimiylar",
+        "karimiylar"
+      ],
+      "explain": "Karimiylar — adan shahrida joylashgan va Sharq savdosida muhim o'rin tutgan yirik savdogarlar uyushmasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Karimiylar» tushunchasi «adan shahrida joylashgan va Sharq savdosida muhim o'rin tutgan yirik savdogarlar uyushmasi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Karimiylar — adan shahrida joylashgan va Sharq savdosida muhim o'rin tutgan yirik savdogarlar uyushmasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Karimiylar» deganda ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Karimiylar — adan shahrida joylashgan va Sharq savdosida muhim o'rin tutgan yirik savdogarlar uyushmasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy lug'atga ko'ra «Karimiylar» — «yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Karimiylar — adan shahrida joylashgan va Sharq savdosida muhim o'rin tutgan yirik savdogarlar uyushmasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlatilgan yelkanli kema» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Karavella",
+        "Usturlob",
+        "Jonka",
+        "Konkista"
+      ],
+      "answer": 2,
+      "explain": "Jonka — sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlatilgan yelkanli kema.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Jonka» atamasi nimani anglatadi?",
+      "options": [
+        "Ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema",
+        "Yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob",
+        "Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati",
+        "Sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlatilgan yelkanli kema"
+      ],
+      "answer": 3,
+      "explain": "Jonka — sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlatilgan yelkanli kema.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlatilgan yelkanli kema» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Jonka",
+        "jonka"
+      ],
+      "explain": "Jonka — sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlatilgan yelkanli kema.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Jonka» tushunchasi «sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlatilgan yelkanli kema» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Jonka — sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlatilgan yelkanli kema.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Jonka» deganda ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Jonka — sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlatilgan yelkanli kema.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy lug'atga ko'ra «Jonka» — «yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Jonka — sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlatilgan yelkanli kema.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «egasi uchun qo'shimcha foyda va boylik keltiruvchi mablag' hamda ishlab chiqarish vositalari» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Kapital",
+        "Karavella",
+        "Usturlob",
+        "Konkista"
+      ],
+      "answer": 0,
+      "explain": "Kapital — egasi uchun qo'shimcha foyda va boylik keltiruvchi mablag' hamda ishlab chiqarish vositalari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Kapital» atamasi nimani anglatadi?",
+      "options": [
+        "Ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema",
+        "Egasi uchun qo'shimcha foyda va boylik keltiruvchi mablag' hamda ishlab chiqarish vositalari",
+        "Yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob",
+        "Ispaniya va Portugaliyaning Amerika hamda boshqa qit'alarni kuch bilan bosib olish harakati"
+      ],
+      "answer": 1,
+      "explain": "Kapital — egasi uchun qo'shimcha foyda va boylik keltiruvchi mablag' hamda ishlab chiqarish vositalari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «egasi uchun qo'shimcha foyda va boylik keltiruvchi mablag' hamda ishlab chiqarish vositalari» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Kapital",
+        "kapital"
+      ],
+      "explain": "Kapital — egasi uchun qo'shimcha foyda va boylik keltiruvchi mablag' hamda ishlab chiqarish vositalari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Kapital» tushunchasi «egasi uchun qo'shimcha foyda va boylik keltiruvchi mablag' hamda ishlab chiqarish vositalari» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Kapital — egasi uchun qo'shimcha foyda va boylik keltiruvchi mablag' hamda ishlab chiqarish vositalari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Kapital» deganda ochiq okeanda suzishga moslashtirilgan, uch ustunli va yuqori manevrli yengil yelkanli kema tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kapital — egasi uchun qo'shimcha foyda va boylik keltiruvchi mablag' hamda ishlab chiqarish vositalari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): tarixiy lug'atga ko'ra «Kapital» — «yulduzlarga qarab kemaning dengizdagi joylashuv kengligini aniqlovchi astronomik asbob» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kapital — egasi uchun qo'shimcha foyda va boylik keltiruvchi mablag' hamda ishlab chiqarish vositalari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Yangi tarix davri qaysi yillar oralig'ini o'z ichiga oladi?",
+      "options": [
+        "X asrdan XV asr o'rtalarigacha",
+        "XVII asrdan XX asr oxirigacha",
+        "XV asr oxiridan 1918-yilgacha",
+        "XVIII asrdan 1945-yilgacha"
+      ],
+      "answer": 2,
+      "explain": "Yangi tarix XV asr oxiridan 1918-yilgacha bo'lib, ikki bosqichga bo'linadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Yangi tarix davri qaysi yillar oralig'ini o'z ichiga oladi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi",
+        "Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan",
+        "Gujoratdagi Kambey va Surat portlari faqat XVIII asrda qurilgan",
+        "Yangi tarix davri XV asr oxiridan 1918-yilgacha bo'lgan davrni qamrab oladi"
+      ],
+      "answer": 3,
+      "explain": "Yangi tarix XV asr oxiridan 1918-yilgacha bo'lib, ikki bosqichga bo'linadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Yangi tarix davri qaysi yillar oralig'ini o'z ichiga oladi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi",
+        "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi. Aslida: Yangi tarix XV asr oxiridan 1918-yilgacha bo'lib, ikki bosqichga bo'linadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Yangi tarix davri XV asr oxiridan 1918-yilgacha bo'lgan davrni qamrab oladi.",
+      "answer": true,
+      "explain": "To'g'ri. Yangi tarix XV asr oxiridan 1918-yilgacha bo'lib, ikki bosqichga bo'linadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Yangi tarix XV asr oxiridan 1918-yilgacha bo'lib, ikki bosqichga bo'linadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik izohiga ko'ra yangi tarix XV asr oxiridan 1918-yilgacha bo'lib, ikki bosqichga bo'linadi.",
+      "answer": true,
+      "explain": "To'g'ri. Yangi tarix XV asr oxiridan 1918-yilgacha bo'lib, ikki bosqichga bo'linadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Darslikka ko'ra Yangi tarix davri XV asr oxiridan ____-yilgacha davom etadi. (Yilni kiriting)",
+      "answer": [
+        "1918",
+        "1918-yil"
+      ],
+      "explain": "Yangi tarix XV asr oxiridan 1918-yilgacha bo'lib, ikki bosqichga bo'linadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Agrar sivilizatsiya qaysi tarixiy davrlar oralig'ida mavjud bo'lgan?",
+      "options": [
+        "Milodiy I asrdan XV asrgacha",
+        "Neolit davridan XVIII asr 60-yillaridagi sanoat inqilobigacha",
+        "Bronza davridan XIX asr oxirigacha",
+        "Paleolitdan XII asrgacha"
+      ],
+      "answer": 1,
+      "explain": "Agrar sivilizatsiya neolitdan XVIII asr 60-yillarida boshlangan sanoat inqilobigacha bo'lgan davrni qamrab oladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Agrar sivilizatsiya qaysi tarixiy davrlar oralig'ida mavjud bo'lgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan",
+        "Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi",
+        "Agrar sivilizatsiya neolitdan XVIII asr 60-yillaridagi sanoat inqilobigacha davom etgan",
+        "Gujoratdagi Kambey va Surat portlari faqat XVIII asrda qurilgan"
+      ],
+      "answer": 2,
+      "explain": "Agrar sivilizatsiya neolitdan XVIII asr 60-yillarida boshlangan sanoat inqilobigacha bo'lgan davrni qamrab oladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Agrar sivilizatsiya qaysi tarixiy davrlar oralig'ida mavjud bo'lgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi",
+        "Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan. Aslida: Agrar sivilizatsiya neolitdan XVIII asr 60-yillarida boshlangan sanoat inqilobigacha bo'lgan davrni qamrab oladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Agrar sivilizatsiya neolitdan XVIII asr 60-yillaridagi sanoat inqilobigacha davom etgan.",
+      "answer": true,
+      "explain": "To'g'ri. Agrar sivilizatsiya neolitdan XVIII asr 60-yillarida boshlangan sanoat inqilobigacha bo'lgan davrni qamrab oladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Agrar sivilizatsiya neolitdan XVIII asr 60-yillarida boshlangan sanoat inqilobigacha bo'lgan davrni qamrab oladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik izohiga ko'ra agrar sivilizatsiya neolitdan XVIII asr 60-yillarida boshlangan sanoat inqilobigacha bo'lgan davrni qamrab oladi.",
+      "answer": true,
+      "explain": "To'g'ri. Agrar sivilizatsiya neolitdan XVIII asr 60-yillarida boshlangan sanoat inqilobigacha bo'lgan davrni qamrab oladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Buyuk geografik kashfiyotlarga qadar Hindistonning qaysi portlari jahon savdosida muhim o'rin tutgan?",
+      "options": [
+        "Kambey va Surat",
+        "Sevilya va Lissabon",
+        "Venetsiya va Genuya",
+        "Antverpen va London"
+      ],
+      "answer": 0,
+      "explain": "Gujoratdagi Kambey va Surat portlari Hind okeani savdosida muhim rol o'ynagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Buyuk geografik kashfiyotlarga qadar Hindistonning qaysi portlari jahon savdosida muhim o'rin tutgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Gujoratdagi Kambey va Surat portlari faqat XVIII asrda qurilgan",
+        "Gujorat viloyatidagi Kambey va Surat portlari Sharq dengiz savdosining asosiy markazlaridan edi",
+        "Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi",
+        "Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan"
+      ],
+      "answer": 1,
+      "explain": "Gujoratdagi Kambey va Surat portlari Hind okeani savdosida muhim rol o'ynagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Buyuk geografik kashfiyotlarga qadar Hindistonning qaysi portlari jahon savdosida muhim o'rin tutgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Gujoratdagi Kambey va Surat portlari faqat XVIII asrda qurilgan",
+        "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Gujoratdagi Kambey va Surat portlari faqat XVIII asrda qurilgan. Aslida: Gujoratdagi Kambey va Surat portlari Hind okeani savdosida muhim rol o'ynagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Gujorat viloyatidagi Kambey va Surat portlari Sharq dengiz savdosining asosiy markazlaridan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Gujoratdagi Kambey va Surat portlari Hind okeani savdosida muhim rol o'ynagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Gujoratdagi Kambey va Surat portlari faqat XVIII asrda qurilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Gujoratdagi Kambey va Surat portlari Hind okeani savdosida muhim rol o'ynagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik izohiga ko'ra gujoratdagi Kambey va Surat portlari Hind okeani savdosida muhim rol o'ynagan.",
+      "answer": true,
+      "explain": "To'g'ri. Gujoratdagi Kambey va Surat portlari Hind okeani savdosida muhim rol o'ynagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Hindistonning Gujorat viloyatidagi yirik savdo portlari Kambey va ____ bo'lgan. (Shaharni yozing)",
+      "answer": [
+        "Surat"
+      ],
+      "explain": "Gujoratdagi Kambey va Surat portlari Hind okeani savdosida muhim rol o'ynagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Okinava — Malakka — Xitoy «savdo uchburchagi»da savdogarlar necha foizgacha daromad olishgan?",
+      "options": [
+        "100 foizgacha",
+        "250 foizgacha",
+        "50 foizgacha",
+        "1000 foizgacha"
+      ],
+      "answer": 3,
+      "explain": "Malakka, Okinava va Xitoy o'rtasidagi «savdo uchburchagi»da daromad 1000 foizga yetgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Okinava — Malakka — Xitoy «savdo uchburchagi»da savdogarlar necha foizgacha daromad olishgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Sharqiy Osiyodagi «savdo uchburchagi»da daromad 1000 foizgacha yetgan",
+        "Okinava savdo uchburchagida daromad 20 foizdan oshmagan",
+        "Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi",
+        "Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan"
+      ],
+      "answer": 0,
+      "explain": "Malakka, Okinava va Xitoy o'rtasidagi «savdo uchburchagi»da daromad 1000 foizga yetgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Okinava — Malakka — Xitoy «savdo uchburchagi»da savdogarlar necha foizgacha daromad olishgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Okinava savdo uchburchagida daromad 20 foizdan oshmagan",
+        "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Okinava savdo uchburchagida daromad 20 foizdan oshmagan. Aslida: Malakka, Okinava va Xitoy o'rtasidagi «savdo uchburchagi»da daromad 1000 foizga yetgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Sharqiy Osiyodagi «savdo uchburchagi»da daromad 1000 foizgacha yetgan.",
+      "answer": true,
+      "explain": "To'g'ri. Malakka, Okinava va Xitoy o'rtasidagi «savdo uchburchagi»da daromad 1000 foizga yetgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Okinava savdo uchburchagida daromad 20 foizdan oshmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Malakka, Okinava va Xitoy o'rtasidagi «savdo uchburchagi»da daromad 1000 foizga yetgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik izohiga ko'ra Malakka, Okinava va Xitoy o'rtasidagi «savdo uchburchagi»da daromad 1000 foizga yetgan.",
+      "answer": true,
+      "explain": "To'g'ri. Malakka, Okinava va Xitoy o'rtasidagi «savdo uchburchagi»da daromad 1000 foizga yetgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Xristofor Kolumb 1492-yilda qaysi uchta kema bilan g'arbga suzib ketgan?",
+      "options": [
+        "«Viktoriya», «Trinidad» va «Konsepsion»",
+        "«Meyflauer», «Armada» va «Globus»",
+        "«Santa-Mariya», «Pinta» va «Ninya»",
+        "«San-Gabriel», «Berrion» va «Avrora»"
+      ],
+      "answer": 2,
+      "explain": "1492-yil 3-avgustda Kolumb «Santa-Mariya», «Pinta» va «Ninya» kemalarida yo'lga chiqqan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Xristofor Kolumb 1492-yilda qaysi uchta kema bilan g'arbga suzib ketgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Kolumb ekspeditsiyasi faqat bitta yirik kema bilan yo'lga chiqqan",
+        "Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi",
+        "Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan",
+        "Kolumb ekspeditsiyasi «Santa-Mariya», «Pinta» va «Ninya» kemalaridan iborat edi"
+      ],
+      "answer": 3,
+      "explain": "1492-yil 3-avgustda Kolumb «Santa-Mariya», «Pinta» va «Ninya» kemalarida yo'lga chiqqan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Xristofor Kolumb 1492-yilda qaysi uchta kema bilan g'arbga suzib ketgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Kolumb ekspeditsiyasi faqat bitta yirik kema bilan yo'lga chiqqan",
+        "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Kolumb ekspeditsiyasi faqat bitta yirik kema bilan yo'lga chiqqan. Aslida: 1492-yil 3-avgustda Kolumb «Santa-Mariya», «Pinta» va «Ninya» kemalarida yo'lga chiqqan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb ekspeditsiyasi «Santa-Mariya», «Pinta» va «Ninya» kemalaridan iborat edi.",
+      "answer": true,
+      "explain": "To'g'ri. 1492-yil 3-avgustda Kolumb «Santa-Mariya», «Pinta» va «Ninya» kemalarida yo'lga chiqqan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb ekspeditsiyasi faqat bitta yirik kema bilan yo'lga chiqqan.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1492-yil 3-avgustda Kolumb «Santa-Mariya», «Pinta» va «Ninya» kemalarida yo'lga chiqqan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik izohiga ko'ra 1492-yil 3-avgustda Kolumb «Santa-Mariya», «Pinta» va «Ninya» kemalarida yo'lga chiqqan.",
+      "answer": true,
+      "explain": "To'g'ri. 1492-yil 3-avgustda Kolumb «Santa-Mariya», «Pinta» va «Ninya» kemalarida yo'lga chiqqan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb ekspeditsiyasi «____», «Pinta» va «Ninya» kemalaridan iborat bo'lgan. (Flagman kema nomini kiriting)",
+      "answer": [
+        "Santa-Mariya",
+        "Santa Mariya"
+      ],
+      "explain": "1492-yil 3-avgustda Kolumb «Santa-Mariya», «Pinta» va «Ninya» kemalarida yo'lga chiqqan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb kemalari Atlantika okeanini necha kun suzib o'tib San-Salvador oroliga yetib borgan?",
+      "options": [
+        "30 kun",
+        "70 kun",
+        "120 kun",
+        "180 kun"
+      ],
+      "answer": 1,
+      "explain": "1492-yil 3-avgustda yo'lga chiqqan sayyohlar 70 kun o'tib 12-oktyabrda quruqlikni ko'rishgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Kolumb kemalari Atlantika okeanini necha kun suzib o'tib San-Salvador oroliga yetib borgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Kolumb kemalari Atlantika okeanini 15 kunda kesib o'tgan",
+        "Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi",
+        "Kolumb ekspeditsiyasi 70 kunlik suzishdan so'ng 1492-yil 12-oktyabrda San-Salvadorga yetib borgan",
+        "Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan"
+      ],
+      "answer": 2,
+      "explain": "1492-yil 3-avgustda yo'lga chiqqan sayyohlar 70 kun o'tib 12-oktyabrda quruqlikni ko'rishgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Kolumb kemalari Atlantika okeanini necha kun suzib o'tib San-Salvador oroliga yetib borgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi",
+        "Kolumb kemalari Atlantika okeanini 15 kunda kesib o'tgan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Kolumb kemalari Atlantika okeanini 15 kunda kesib o'tgan. Aslida: 1492-yil 3-avgustda yo'lga chiqqan sayyohlar 70 kun o'tib 12-oktyabrda quruqlikni ko'rishgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb ekspeditsiyasi 70 kunlik suzishdan so'ng 1492-yil 12-oktyabrda San-Salvadorga yetib borgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1492-yil 3-avgustda yo'lga chiqqan sayyohlar 70 kun o'tib 12-oktyabrda quruqlikni ko'rishgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb kemalari Atlantika okeanini 15 kunda kesib o'tgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1492-yil 3-avgustda yo'lga chiqqan sayyohlar 70 kun o'tib 12-oktyabrda quruqlikni ko'rishgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik izohiga ko'ra 1492-yil 3-avgustda yo'lga chiqqan sayyohlar 70 kun o'tib 12-oktyabrda quruqlikni ko'rishgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1492-yil 3-avgustda yo'lga chiqqan sayyohlar 70 kun o'tib 12-oktyabrda quruqlikni ko'rishgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb ekspeditsiyasi Atlantika okeanida ____ kun suzgach, San-Salvador oroliga yetib bordi. (Sonni yozing)",
+      "answer": [
+        "70",
+        "70 kun"
+      ],
+      "explain": "1492-yil 3-avgustda yo'lga chiqqan sayyohlar 70 kun o'tib 12-oktyabrda quruqlikni ko'rishgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb o'zining birinchi sayohatida San-Salvadordan tashqari qaysi yirik orollarni kashf etgan?",
+      "options": [
+        "Gaiti va Kuba",
+        "Tasmaniya va Yangi Zelandiya",
+        "Madeyra va Kanar",
+        "Filippin va Molukka"
+      ],
+      "answer": 0,
+      "explain": "1492-yilgi birinchi safarda Kolumb San-Salvador, Gaiti va Kuba orollariga bordi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Kolumb o'zining birinchi sayohatida San-Salvadordan tashqari qaysi yirik orollarni kashf etgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Kolumb birinchi sayohatida Avstraliya va Yaponiyani kashf etgan",
+        "Birinchi sayohat davomida Kolumb San-Salvador, Gaiti va Kuba orollarini kashf etdi",
+        "Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi",
+        "Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan"
+      ],
+      "answer": 1,
+      "explain": "1492-yilgi birinchi safarda Kolumb San-Salvador, Gaiti va Kuba orollariga bordi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Kolumb o'zining birinchi sayohatida San-Salvadordan tashqari qaysi yirik orollarni kashf etgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "Kolumb birinchi sayohatida Avstraliya va Yaponiyani kashf etgan",
+        "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Kolumb birinchi sayohatida Avstraliya va Yaponiyani kashf etgan. Aslida: 1492-yilgi birinchi safarda Kolumb San-Salvador, Gaiti va Kuba orollariga bordi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Birinchi sayohat davomida Kolumb San-Salvador, Gaiti va Kuba orollarini kashf etdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1492-yilgi birinchi safarda Kolumb San-Salvador, Gaiti va Kuba orollariga bordi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb birinchi sayohatida Avstraliya va Yaponiyani kashf etgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1492-yilgi birinchi safarda Kolumb San-Salvador, Gaiti va Kuba orollariga bordi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): darslik izohiga ko'ra 1492-yilgi birinchi safarda Kolumb San-Salvador, Gaiti va Kuba orollariga bordi.",
+      "answer": true,
+      "explain": "To'g'ri. 1492-yilgi birinchi safarda Kolumb San-Salvador, Gaiti va Kuba orollariga bordi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb 1493–1504-yillardagi keyingi sayohatlarida qaysi hududlarni kashf etgan?",
+      "options": [
+        "Braziliya, Peru va Chilini",
+        "Madeyra, Azor va Yashil Burun orollarini",
+        "Kanada, Alyaska va Kaliforniyani",
+        "Kichik Antil, Puerto-Riko, Yamayka va Trinidad orollarini"
+      ],
+      "answer": 3,
+      "explain": "Keyingi ekspeditsiyalarida Kolumb Kichik Antil, Puerto-Riko, Yamayka, Trinidad va Janubiy Amerika sohillarini o'rgandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Kolumb 1493–1504-yillardagi keyingi sayohatlarida qaysi hududlarni kashf etgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1493–1504-yillarda Kolumb Kichik Antil, Puerto-Riko, Yamayka va Trinidad orollarini kashf qildi",
+        "Kolumb 1492-yildan keyin boshqa dengiz sayohatiga chiqmagan",
+        "Yangi tarix davri 1789-yildan boshlanib 1991-yilgacha davom etadi",
+        "Agrar sivilizatsiya XIX asr oxirida paydo bo'lgan"
+      ],
+      "answer": 0,
+      "explain": "Keyingi ekspeditsiyalarida Kolumb Kichik Antil, Puerto-Riko, Yamayka, Trinidad va Janubiy Amerika sohillarini o'rgandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): «Kolumb 1493–1504-yillardagi keyingi sayohatlarida qaysi hududlarni kashf etgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1419-yilda portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi",
+        "Kolumb 1492-yildan keyin boshqa dengiz sayohatiga chiqmagan",
+        "1453-yilda turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'llarini yopib qo'yishdi",
+        "1492-yilda xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Amerikani kashf etdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Kolumb 1492-yildan keyin boshqa dengiz sayohatiga chiqmagan. Aslida: Keyingi ekspeditsiyalarida Kolumb Kichik Antil, Puerto-Riko, Yamayka, Trinidad va Janubiy Amerika sohillarini o'rgandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): 1493–1504-yillarda Kolumb Kichik Antil, Puerto-Riko, Yamayka va Trinidad orollarini kashf qildi.",
+      "answer": true,
+      "explain": "To'g'ri. Keyingi ekspeditsiyalarida Kolumb Kichik Antil, Puerto-Riko, Yamayka, Trinidad va Janubiy Amerika sohillarini o'rgandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "1-mavzu (Buyuk geografik kashfiyotlar): Kolumb 1492-yildan keyin boshqa dengiz sayohatiga chiqmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Keyingi ekspeditsiyalarida Kolumb Kichik Antil, Puerto-Riko, Yamayka, Trinidad va Janubiy Amerika sohillarini o'rgandi.",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "KARAVELLA",
+      "Okeanda suzishga mos yengil yelkanli kema"
+    ],
+    [
+      "USTURLOB",
+      "Yulduzlar orqali kenglikni aniqlovchi asbob"
+    ],
+    [
+      "KONKISTA",
+      "Amerikani kuch bilan bosib olish harakati"
+    ],
+    [
+      "KOLUMB",
+      "1492-yilda Amerikani kashf etgan sayyoh"
+    ],
+    [
+      "MAGELLAN",
+      "Ilk dunyo aylana sayohati rahbari"
+    ],
+    [
+      "VESPUCHCHI",
+      "Sharafiga Amerika qit'asi atalgan sayyoh"
+    ],
+    [
+      "TASMAN",
+      "Yangi Zelandiyani kashf etgan dengizchi"
+    ],
+    [
+      "METIS",
+      "Yevropalik va hindu nikohidan tug'ilgan avlod"
+    ],
+    [
+      "MULAT",
+      "Yevropalik va qora tanli nikohidan avlod"
+    ],
+    [
+      "KARIMIYLAR",
+      "Adandagi yirik Sharq savdogarlari uyushmasi"
+    ],
+    [
+      "KAPITAL",
+      "Foyda keltiruvchi mablag' va mulk"
+    ],
+    [
+      "PANAMA",
+      "1519-yilda qurilgan ilk mustamlaka shahar"
+    ],
+    [
+      "1492-yil 12-oktyabr",
+      "Kolumb San-Salvador oroliga yetib keldi"
+    ],
+    [
+      "1498-yil",
+      "Vasko da Gama Kalikuttaga yetib bordi"
+    ],
+    [
+      "1519–1522-yillar",
+      "Magellanning dunyo aylana sayohati"
+    ],
+    [
+      "Ahmad ibn Majid",
+      "Vasko da Gamaga yo'l ko'rsatgan arab dengizchi"
+    ],
+    [
+      "800 foiz foyda",
+      "Vasko da Gama olib kelgan ziravorlar daromadi"
+    ],
+    [
+      "«Santa-Mariya»",
+      "Kolumbning asosiy flagman kemasi"
+    ],
+    [
+      "Okinava uchburchagi",
+      "1000 foizgacha foyda keltirgan savdo tarmog'i"
+    ],
+    [
+      "Narx-navo inqilobi",
+      "Oltin-kumush ko'payishidan narxlar oshishi"
+    ],
+    [
+      "Jonka",
+      "Sharqiy Osiyoda, xususan Xitoy va Okinava savdo uchburchagida ishlat"
+    ],
+    [
+      "Xristofor Kolumb",
+      "1492-yilda uch kema bilan g'arbga suzib Amerikani kashf etgan dengiz"
+    ],
+    [
+      "Vasko da Gama",
+      "Afrikani aylanib o'tib Hindistonga dengiz yo'lini ochgan portugal de"
+    ],
+    [
+      "Amerigo Vespuchchi",
+      "Braziliya qirg'oqlarini o'rganib, yangi qit'a ekanini isbotlagan ita"
+    ],
+    [
+      "Fernando Magellan",
+      "Yerning sharsimon ekanini amalda isbotlagan ilk dunyo aylana sayohat"
+    ],
+    [
+      "Luis Torres",
+      "1605-yilda Avstraliya va Yangi Gvineya oralig'idagi bo'g'ozdan o'tga"
+    ],
+    [
+      "Villem Yanszon",
+      "1606-yilda Avstraliya qirg'oqlariga ilk bor qadam qo'ygan gollandiya"
+    ],
+    [
+      "Abel Tasman",
+      "1642-yilda Yangi Zelandiyani kashf etgan gollandiyalik dengiz sayyoh"
+    ],
+    [
+      "1419-yil",
+      "portugallar Atlantika okeanidagi Madeyra orolini kashf etishdi"
+    ],
+    [
+      "1453-yil",
+      "turklar Konstantinopolni egallab, Yevropaning Sharq bilan savdo yo'l"
+    ],
+    [
+      "1492-yil",
+      "Xristofor Kolumb ekspeditsiyasi San-Salvador oroliga yetib borib Ame"
+    ],
+    [
+      "1499-yil",
+      "Vasko da Gama ekspeditsiyasi Lissabonga qaytib kelib 800 foiz foyda"
+    ],
+    [
+      "1501-yil",
+      "Amerigo Vespuchchi Braziliya qirg'oqlarini tadqiq etib, bu yer yangi"
+    ],
+    [
+      "1519-yil",
+      "Fernando Magellan Ispaniyadan dunyo bo'ylab sayohatga chiqdi"
+    ],
+    [
+      "1521-yil",
+      "Magellan ekspeditsiyasi Mariana va Filippin orollariga yetib bordi"
+    ],
+    [
+      "1522-yil",
+      "Magellan ekspeditsiyasidan omon qolgan kema Ispaniyaga qaytib dunyo"
+    ],
+    [
+      "1605-yil",
+      "ispan dengizchisi Luis Torres Tinch okeanidan Avstraliyaga shimoldan"
+    ],
+    [
+      "1606-yil",
+      "gollandiyalik Villem Yanszon Avstraliya qirg'oqlariga qadam qo'ydi"
+    ],
+    [
+      "1642-yil",
+      "gollandiyalik Abel Tasman Yangi Zelandiyani kashf etib, Avstraliyani"
+    ]
+  ]
+}

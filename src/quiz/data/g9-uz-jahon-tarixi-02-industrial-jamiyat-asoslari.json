@@ -1,0 +1,2901 @@
+{
+  "id": "g9-uz-jahon-tarixi-02-industrial-jamiyat-asoslari",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "2-mavzu. G‘arbiy Yevropa mamlakatlarida industrial jamiyat asoslarining yaratilishi",
+  "title": "2-mavzu. G‘arbiy Yevropa mamlakatlarida industrial jamiyat asoslarining yaratilishi",
+  "source": "Jahon tarixi 9-sinf (2024), 2-mavzu, 12–15-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): qaysi yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi?",
+      "options": [
+        "1453-yil",
+        "1407-yil",
+        "1517-yil",
+        "1588-yil"
+      ],
+      "answer": 1,
+      "explain": "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari) mavzusiga ko'ra 1407-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "Gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi",
+        "Genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi"
+      ],
+      "answer": 2,
+      "explain": "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): ____-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi. (Yilni kiriting)",
+      "answer": [
+        "1407",
+        "1407-yil",
+        "1407-yilda"
+      ],
+      "explain": "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVI asrda",
+        "XVII asrda",
+        "XV asrda"
+      ],
+      "answer": 3,
+      "explain": "1407-yil XV asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): 1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): 1453-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1453-yilda emas, 1407-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik xronologiyasiga ko'ra 1517-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): qaysi yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi?",
+      "options": [
+        "1602-yil",
+        "1550-yil",
+        "1640-yil",
+        "1700-yil"
+      ],
+      "answer": 0,
+      "explain": "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari) mavzusiga ko'ra 1602-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "Gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi",
+        "London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi"
+      ],
+      "answer": 1,
+      "explain": "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): ____-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1602",
+        "1602-yil",
+        "1602-yilda"
+      ],
+      "explain": "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1602-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): 1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): 1550-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1550-yilda emas, 1602-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik xronologiyasiga ko'ra 1640-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): qaysi yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi?",
+      "options": [
+        "1580-yil",
+        "1688-yil",
+        "1720-yil",
+        "1636-yil"
+      ],
+      "answer": 3,
+      "explain": "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari) mavzusiga ko'ra 1636-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi",
+        "Genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi"
+      ],
+      "answer": 0,
+      "explain": "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): ____-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi. (Yilni kiriting)",
+      "answer": [
+        "1636",
+        "1636-yil",
+        "1636-yilda"
+      ],
+      "explain": "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1636-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): 1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): 1580-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1580-yilda emas, 1636-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik xronologiyasiga ko'ra 1688-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): qaysi yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi?",
+      "options": [
+        "1500-yil",
+        "1760-yil",
+        "1660-yil",
+        "1815-yil"
+      ],
+      "answer": 2,
+      "explain": "1660-yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari) mavzusiga ko'ra 1660-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "Gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi",
+        "London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi"
+      ],
+      "answer": 3,
+      "explain": "1660-yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): ____-yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi. (Yilni kiriting)",
+      "answer": [
+        "1660",
+        "1660-yil",
+        "1660-yilda"
+      ],
+      "explain": "1660-yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1660-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): 1660-yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1660-yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): 1500-yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1500-yilda emas, 1660-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik xronologiyasiga ko'ra 1760-yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1660-yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Genuyada ilk yirik banklardan bi...» hamda «London XVII asrda aholisi va sav...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "Genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "Gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi",
+        "London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi"
+      ],
+      "answer": 1,
+      "explain": "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Genuyada ilk yirik banklardan bi...» hamda «London XVII asrda aholisi va sav...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi",
+        "Gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 2,
+      "explain": "1660-yilda London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): xronologiyaga ko'ra genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi voqeasi Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1407-yil 1602-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy ketma-ketlikka ko'ra Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi voqeasi genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi, 1602-yilda esa Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): xronologiyaga ko'ra genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi voqeasi gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1407-yil 1636-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy ketma-ketlikka ko'ra gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi voqeasi genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi, 1636-yilda esa gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): xronologiyaga ko'ra genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi voqeasi London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1407-yil 1660-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy ketma-ketlikka ko'ra London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi voqeasi genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi, 1660-yilda esa London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): xronologiyaga ko'ra Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi voqeasi gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1602-yil 1636-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy ketma-ketlikka ko'ra gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi voqeasi Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi, 1636-yilda esa gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): xronologiyaga ko'ra Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi voqeasi London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1602-yil 1660-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy ketma-ketlikka ko'ra London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi voqeasi Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi, 1660-yilda esa London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): xronologiyaga ko'ra gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi voqeasi London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1636-yil 1660-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy ketma-ketlikka ko'ra London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi voqeasi gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi, 1660-yilda esa London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik markaziga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): ««Oltin — bu barkamollik!» deb yozib, qimmatbaho metallarga bo'lgan intilishni ifodalagan sayyoh» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Qirol Fernando",
+        "Qirolicha Izabella",
+        "Vasko da Gama",
+        "Xristofor Kolumb"
+      ],
+      "answer": 3,
+      "explain": "Kolumb Ispaniya qiroliga yozgan maktubida oltinning dunyodagi qudratini alohida ta'kidlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Xristofor Kolumbning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Oltin — bu barkamollik!» deb yozib, qimmatbaho metallarga bo'lgan intilishni ifodalagan sayyoh",
+        "Kolumb oltin haqidagi mashhur maktubini yo'llagan Ispaniya qirolligining hukmdori",
+        "Kolumb ekspeditsiyasini qo'llab-quvvatlagan va oltin haqida xat olgan Ispaniya malikasi",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 0,
+      "explain": "Kolumb Ispaniya qiroliga yozgan maktubida oltinning dunyodagi qudratini alohida ta'kidlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Oltin — bu barkamollik!» deb yozib, qimmatbaho metallarga bo'lgan intilishni ifodalagan sayyoh bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Xristofor Kolumb"
+      ],
+      "explain": "Kolumb Ispaniya qiroliga yozgan maktubida oltinning dunyodagi qudratini alohida ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Kolumb Ispaniya qiroliga yozgan maktubida oltinning dunyodagi qudratini alohida ta'kidlagan.",
+      "answer": true,
+      "explain": "To'g'ri. Kolumb Ispaniya qiroliga yozgan maktubida oltinning dunyodagi qudratini alohida ta'kidlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Xristofor Kolumb — Kolumb oltin haqidagi mashhur maktubini yo'llagan Ispaniya qirolligining hukmdori.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kolumb Ispaniya qiroliga yozgan maktubida oltinning dunyodagi qudratini alohida ta'kidlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikda Xristofor Kolumb «Kolumb ekspeditsiyasini qo'llab-quvvatlagan va oltin haqida xat olgan Ispaniya malikasi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kolumb Ispaniya qiroliga yozgan maktubida oltinning dunyodagi qudratini alohida ta'kidlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Kolumb oltin haqidagi mashhur maktubini yo'llagan Ispaniya qirolligining hukmdori» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Xristofor Kolumb",
+        "Qirol Fernando",
+        "Qirolicha Izabella",
+        "Vasko da Gama"
+      ],
+      "answer": 1,
+      "explain": "Kolumb qirol Fernando va qirolicha Izabellaga oltin haqida maktub yozgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Qirol Fernandoning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "«Oltin — bu barkamollik!» deb yozib, qimmatbaho metallarga bo'lgan intilishni ifodalagan sayyoh",
+        "Kolumb ekspeditsiyasini qo'llab-quvvatlagan va oltin haqida xat olgan Ispaniya malikasi",
+        "Kolumb oltin haqidagi mashhur maktubini yo'llagan Ispaniya qirolligining hukmdori",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 2,
+      "explain": "Kolumb qirol Fernando va qirolicha Izabellaga oltin haqida maktub yozgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Kolumb oltin haqidagi mashhur maktubini yo'llagan Ispaniya qirolligining hukmdori bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Qirol Fernando"
+      ],
+      "explain": "Kolumb qirol Fernando va qirolicha Izabellaga oltin haqida maktub yozgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Kolumb qirol Fernando va qirolicha Izabellaga oltin haqida maktub yozgan.",
+      "answer": true,
+      "explain": "To'g'ri. Kolumb qirol Fernando va qirolicha Izabellaga oltin haqida maktub yozgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Qirol Fernando — «Oltin — bu barkamollik!» deb yozib, qimmatbaho metallarga bo'lgan intilishni ifodalagan sayyoh.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kolumb qirol Fernando va qirolicha Izabellaga oltin haqida maktub yozgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikda Qirol Fernando «Kolumb ekspeditsiyasini qo'llab-quvvatlagan va oltin haqida xat olgan Ispaniya malikasi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kolumb qirol Fernando va qirolicha Izabellaga oltin haqida maktub yozgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Kolumb ekspeditsiyasini qo'llab-quvvatlagan va oltin haqida xat olgan Ispaniya malikasi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Xristofor Kolumb",
+        "Qirol Fernando",
+        "Vasko da Gama",
+        "Qirolicha Izabella"
+      ],
+      "answer": 3,
+      "explain": "Kolumbning maktubida Fernando va Izabellaga oltinning qudrati haqida so'z boradi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Qirolicha Izabellaning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Kolumb ekspeditsiyasini qo'llab-quvvatlagan va oltin haqida xat olgan Ispaniya malikasi",
+        "«Oltin — bu barkamollik!» deb yozib, qimmatbaho metallarga bo'lgan intilishni ifodalagan sayyoh",
+        "Kolumb oltin haqidagi mashhur maktubini yo'llagan Ispaniya qirolligining hukmdori",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 0,
+      "explain": "Kolumbning maktubida Fernando va Izabellaga oltinning qudrati haqida so'z boradi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Kolumb ekspeditsiyasini qo'llab-quvvatlagan va oltin haqida xat olgan Ispaniya malikasi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Qirolicha Izabella"
+      ],
+      "explain": "Kolumbning maktubida Fernando va Izabellaga oltinning qudrati haqida so'z boradi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Kolumbning maktubida Fernando va Izabellaga oltinning qudrati haqida so'z boradi.",
+      "answer": true,
+      "explain": "To'g'ri. Kolumbning maktubida Fernando va Izabellaga oltinning qudrati haqida so'z boradi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Qirolicha Izabella — «Oltin — bu barkamollik!» deb yozib, qimmatbaho metallarga bo'lgan intilishni ifodalagan sayyoh.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kolumbning maktubida Fernando va Izabellaga oltinning qudrati haqida so'z boradi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikda Qirolicha Izabella «Kolumb oltin haqidagi mashhur maktubini yo'llagan Ispaniya qirolligining hukmdori» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kolumbning maktubida Fernando va Izabellaga oltinning qudrati haqida so'z boradi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Bank",
+        "Birja",
+        "Aksiya",
+        "Raqobat"
+      ],
+      "answer": 1,
+      "explain": "Birja — tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Birja» atamasi nimani anglatadi?",
+      "options": [
+        "Pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa",
+        "Egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz",
+        "Tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori",
+        "Ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash"
+      ],
+      "answer": 2,
+      "explain": "Birja — tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Birja",
+        "birja"
+      ],
+      "explain": "Birja — tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Birja» tushunchasi «tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Birja — tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Birja» deganda pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Birja — tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy lug'atga ko'ra «Birja» — «egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Birja — tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Birja",
+        "Aksiya",
+        "Raqobat",
+        "Bank"
+      ],
+      "answer": 3,
+      "explain": "Bank — pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Bank» atamasi nimani anglatadi?",
+      "options": [
+        "Pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa",
+        "Tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori",
+        "Egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz",
+        "Ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash"
+      ],
+      "answer": 0,
+      "explain": "Bank — pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Bank",
+        "bank"
+      ],
+      "explain": "Bank — pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Bank» tushunchasi «pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Bank — pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Bank» deganda tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Bank — pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy lug'atga ko'ra «Bank» — «egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Bank — pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Birja",
+        "Aksiya",
+        "Bank",
+        "Raqobat"
+      ],
+      "answer": 1,
+      "explain": "Aksiya — egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Aksiya» atamasi nimani anglatadi?",
+      "options": [
+        "Tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori",
+        "Pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa",
+        "Egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz",
+        "Ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash"
+      ],
+      "answer": 2,
+      "explain": "Aksiya — egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Aksiya",
+        "aksiya"
+      ],
+      "explain": "Aksiya — egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Aksiya» tushunchasi «egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Aksiya — egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Aksiya» deganda tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Aksiya — egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy lug'atga ko'ra «Aksiya» — «pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aksiya — egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Birja",
+        "Bank",
+        "Aksiya",
+        "Raqobat"
+      ],
+      "answer": 3,
+      "explain": "Raqobat — ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Raqobat» atamasi nimani anglatadi?",
+      "options": [
+        "Ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash",
+        "Tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori",
+        "Pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa",
+        "Egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz"
+      ],
+      "answer": 0,
+      "explain": "Raqobat — ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Raqobat",
+        "raqobat"
+      ],
+      "explain": "Raqobat — ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Raqobat» tushunchasi «ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Raqobat — ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Raqobat» deganda tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Raqobat — ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy lug'atga ko'ra «Raqobat» — «pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Raqobat — ishlab chiqaruvchilar va savdogarlar o'rtasidagi foydali bozor sharoitlari uchun kurash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «mehnat taqsimotiga asoslangan va qo'l mehnati bilan ishlaydigan yirik sanoat korxonasi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Birja",
+        "Manufaktura",
+        "Bank",
+        "Aksiya"
+      ],
+      "answer": 1,
+      "explain": "Manufaktura — mehnat taqsimotiga asoslangan va qo'l mehnati bilan ishlaydigan yirik sanoat korxonasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Manufaktura» atamasi nimani anglatadi?",
+      "options": [
+        "Tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori",
+        "Pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa",
+        "Mehnat taqsimotiga asoslangan va qo'l mehnati bilan ishlaydigan yirik sanoat korxonasi",
+        "Egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz"
+      ],
+      "answer": 2,
+      "explain": "Manufaktura — mehnat taqsimotiga asoslangan va qo'l mehnati bilan ishlaydigan yirik sanoat korxonasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «mehnat taqsimotiga asoslangan va qo'l mehnati bilan ishlaydigan yirik sanoat korxonasi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Manufaktura",
+        "manufaktura"
+      ],
+      "explain": "Manufaktura — mehnat taqsimotiga asoslangan va qo'l mehnati bilan ishlaydigan yirik sanoat korxonasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Manufaktura» tushunchasi «mehnat taqsimotiga asoslangan va qo'l mehnati bilan ishlaydigan yirik sanoat korxonasi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Manufaktura — mehnat taqsimotiga asoslangan va qo'l mehnati bilan ishlaydigan yirik sanoat korxonasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Manufaktura» deganda tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Manufaktura — mehnat taqsimotiga asoslangan va qo'l mehnati bilan ishlaydigan yirik sanoat korxonasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy lug'atga ko'ra «Manufaktura» — «pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Manufaktura — mehnat taqsimotiga asoslangan va qo'l mehnati bilan ishlaydigan yirik sanoat korxonasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «o'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali foyda oluvchi tadbirkor» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Birja",
+        "Bank",
+        "Aksiya",
+        "Kapitalist"
+      ],
+      "answer": 3,
+      "explain": "Kapitalist — o'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali foyda oluvchi tadbirkor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Kapitalist» atamasi nimani anglatadi?",
+      "options": [
+        "O'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali foyda oluvchi tadbirkor",
+        "Tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori",
+        "Pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa",
+        "Egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz"
+      ],
+      "answer": 0,
+      "explain": "Kapitalist — o'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali foyda oluvchi tadbirkor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «o'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali foyda oluvchi tadbirkor» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Kapitalist",
+        "kapitalist"
+      ],
+      "explain": "Kapitalist — o'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali foyda oluvchi tadbirkor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Kapitalist» tushunchasi «o'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali foyda oluvchi tadbirkor» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Kapitalist — o'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali foyda oluvchi tadbirkor.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Kapitalist» deganda tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kapitalist — o'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali foyda oluvchi tadbirkor.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy lug'atga ko'ra «Kapitalist» — «pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kapitalist — o'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali foyda oluvchi tadbirkor.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «mulkdan mahrum bo'lib, tirikchilik uchun o'z ishchi kuchini sotishga majbur yollanma ishchilar sinfi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Birja",
+        "Proletariat",
+        "Bank",
+        "Aksiya"
+      ],
+      "answer": 1,
+      "explain": "Proletariat — mulkdan mahrum bo'lib, tirikchilik uchun o'z ishchi kuchini sotishga majbur yollanma ishchilar sinfi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Proletariat» atamasi nimani anglatadi?",
+      "options": [
+        "Tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori",
+        "Pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa",
+        "Mulkdan mahrum bo'lib, tirikchilik uchun o'z ishchi kuchini sotishga majbur yollanma ishchilar sinfi",
+        "Egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz"
+      ],
+      "answer": 2,
+      "explain": "Proletariat — mulkdan mahrum bo'lib, tirikchilik uchun o'z ishchi kuchini sotishga majbur yollanma ishchilar sinfi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «mulkdan mahrum bo'lib, tirikchilik uchun o'z ishchi kuchini sotishga majbur yollanma ishchilar sinfi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Proletariat",
+        "proletariat"
+      ],
+      "explain": "Proletariat — mulkdan mahrum bo'lib, tirikchilik uchun o'z ishchi kuchini sotishga majbur yollanma ishchilar sinfi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Proletariat» tushunchasi «mulkdan mahrum bo'lib, tirikchilik uchun o'z ishchi kuchini sotishga majbur yollanma ishchilar sinfi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Proletariat — mulkdan mahrum bo'lib, tirikchilik uchun o'z ishchi kuchini sotishga majbur yollanma ishchilar sinfi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Proletariat» deganda tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Proletariat — mulkdan mahrum bo'lib, tirikchilik uchun o'z ishchi kuchini sotishga majbur yollanma ishchilar sinfi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy lug'atga ko'ra «Proletariat» — «pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Proletariat — mulkdan mahrum bo'lib, tirikchilik uchun o'z ishchi kuchini sotishga majbur yollanma ishchilar sinfi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «yangi davrda shaharlarda shakllangan mulkdor tadbirkorlar, savdogarlar va bankirlar sinfi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Birja",
+        "Bank",
+        "Aksiya",
+        "Burjuaziya"
+      ],
+      "answer": 3,
+      "explain": "Burjuaziya — yangi davrda shaharlarda shakllangan mulkdor tadbirkorlar, savdogarlar va bankirlar sinfi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Burjuaziya» atamasi nimani anglatadi?",
+      "options": [
+        "Yangi davrda shaharlarda shakllangan mulkdor tadbirkorlar, savdogarlar va bankirlar sinfi",
+        "Tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori",
+        "Pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa",
+        "Egasiga kompaniya foydasidan ulush olish va boshqaruvda qatnashish huquqini beruvchi qimmatli qog'oz"
+      ],
+      "answer": 0,
+      "explain": "Burjuaziya — yangi davrda shaharlarda shakllangan mulkdor tadbirkorlar, savdogarlar va bankirlar sinfi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «yangi davrda shaharlarda shakllangan mulkdor tadbirkorlar, savdogarlar va bankirlar sinfi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Burjuaziya",
+        "burjuaziya"
+      ],
+      "explain": "Burjuaziya — yangi davrda shaharlarda shakllangan mulkdor tadbirkorlar, savdogarlar va bankirlar sinfi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Burjuaziya» tushunchasi «yangi davrda shaharlarda shakllangan mulkdor tadbirkorlar, savdogarlar va bankirlar sinfi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Burjuaziya — yangi davrda shaharlarda shakllangan mulkdor tadbirkorlar, savdogarlar va bankirlar sinfi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Burjuaziya» deganda tovarlar, qimmatli qog'ozlar va valyutalar ulgurji sotiladigan muntazam savdo bozori tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Burjuaziya — yangi davrda shaharlarda shakllangan mulkdor tadbirkorlar, savdogarlar va bankirlar sinfi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): tarixiy lug'atga ko'ra «Burjuaziya» — «pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlarni amalga oshiruvchi muassasa» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Burjuaziya — yangi davrda shaharlarda shakllangan mulkdor tadbirkorlar, savdogarlar va bankirlar sinfi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Italiyadagi ilk banklar nomi qaysi so'zdan kelib chiqqan?",
+      "options": [
+        "Lotincha «altin» so'zidan",
+        "Sarroflar o'tiradigan kursi — «banco» so'zidan",
+        "Fransuzcha «savdo» so'zidan",
+        "Grekcha «kemalar» so'zidan"
+      ],
+      "answer": 1,
+      "explain": "XV asrda Genuya va Italiya shaharlarida sarroflar kursisi «banco» deyilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Italiyadagi ilk banklar nomi qaysi so'zdan kelib chiqqan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan",
+        "«Bank» atamasi italiyalik sarroflar o'tirgan kursi — «banco» so'zidan kelib chiqqan",
+        "XVI asrda Yevropada yerlarning hammasi yaylovga aylantirilib ekin ekilmay qo'yildi"
+      ],
+      "answer": 2,
+      "explain": "XV asrda Genuya va Italiya shaharlarida sarroflar kursisi «banco» deyilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Italiyadagi ilk banklar nomi qaysi so'zdan kelib chiqqan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: «Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan. Aslida: XV asrda Genuya va Italiya shaharlarida sarroflar kursisi «banco» deyilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Bank» atamasi italiyalik sarroflar o'tirgan kursi — «banco» so'zidan kelib chiqqan.",
+      "answer": true,
+      "explain": "To'g'ri. XV asrda Genuya va Italiya shaharlarida sarroflar kursisi «banco» deyilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan.",
+      "answer": false,
+      "explain": "Noto'g'ri. XV asrda Genuya va Italiya shaharlarida sarroflar kursisi «banco» deyilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra XV asrda Genuya va Italiya shaharlarida sarroflar kursisi «banco» deyilgan.",
+      "answer": true,
+      "explain": "To'g'ri. XV asrda Genuya va Italiya shaharlarida sarroflar kursisi «banco» deyilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Italiyada sarroflar o'tiradigan kursi «____» deb atalgani sababli bank atamasi paydo bo'ldi. (So'zni yozing)",
+      "answer": [
+        "banco"
+      ],
+      "explain": "XV asrda Genuya va Italiya shaharlarida sarroflar kursisi «banco» deyilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XV asrda Genuyada tashkil etilgan mashhur bank qanday nomlangan?",
+      "options": [
+        "Avliyo Georgiy banki",
+        "Avliyo Pyotr banki",
+        "San-Salvador banki",
+        "Madeyra banki"
+      ],
+      "answer": 0,
+      "explain": "Genuya shahrida tashkil etilgan Avliyo Georgiy banki Yevropaning eng nufuzli banklaridan biri edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XV asrda Genuyada tashkil etilgan mashhur bank qanday nomlangan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan",
+        "XV asrda Genuyada Avliyo Georgiy banki faoliyat yuritgan",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "XVI asrda Yevropada yerlarning hammasi yaylovga aylantirilib ekin ekilmay qo'yildi"
+      ],
+      "answer": 1,
+      "explain": "Genuya shahrida tashkil etilgan Avliyo Georgiy banki Yevropaning eng nufuzli banklaridan biri edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XV asrda Genuyada tashkil etilgan mashhur bank qanday nomlangan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Avliyo Georgiy banki Parijda XIX asrda ochilgan. Aslida: Genuya shahrida tashkil etilgan Avliyo Georgiy banki Yevropaning eng nufuzli banklaridan biri edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XV asrda Genuyada Avliyo Georgiy banki faoliyat yuritgan.",
+      "answer": true,
+      "explain": "To'g'ri. Genuya shahrida tashkil etilgan Avliyo Georgiy banki Yevropaning eng nufuzli banklaridan biri edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Avliyo Georgiy banki Parijda XIX asrda ochilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Genuya shahrida tashkil etilgan Avliyo Georgiy banki Yevropaning eng nufuzli banklaridan biri edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra genuya shahrida tashkil etilgan Avliyo Georgiy banki Yevropaning eng nufuzli banklaridan biri edi.",
+      "answer": true,
+      "explain": "To'g'ri. Genuya shahrida tashkil etilgan Avliyo Georgiy banki Yevropaning eng nufuzli banklaridan biri edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Qishloq xo'jaligida hosildorlikni oshirish uchun uch dalali almashlab ekishdan qanday tizimga o'tildi?",
+      "options": [
+        "Bir dalali qadimiy tizimga",
+        "Faqat sholi ekish tizimiga",
+        "Yer haydamasdan ekish usuliga",
+        "Ko'p dalali almashlab ekish tizimiga"
+      ],
+      "answer": 3,
+      "explain": "Ko'p dalali almashlab ekish yerlarning unumdorligini saqlab, hosildorlikni keskin oshirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Qishloq xo'jaligida hosildorlikni oshirish uchun uch dalali almashlab ekishdan qanday tizimga o'tildi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "G'arbiy Yevropada uch dalali tizim o'rnini ko'p dalali almashlab ekish egalladi",
+        "XVI asrda Yevropada yerlarning hammasi yaylovga aylantirilib ekin ekilmay qo'yildi",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan"
+      ],
+      "answer": 0,
+      "explain": "Ko'p dalali almashlab ekish yerlarning unumdorligini saqlab, hosildorlikni keskin oshirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Qishloq xo'jaligida hosildorlikni oshirish uchun uch dalali almashlab ekishdan qanday tizimga o'tildi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "XVI asrda Yevropada yerlarning hammasi yaylovga aylantirilib ekin ekilmay qo'yildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: XVI asrda Yevropada yerlarning hammasi yaylovga aylantirilib ekin ekilmay qo'yildi. Aslida: Ko'p dalali almashlab ekish yerlarning unumdorligini saqlab, hosildorlikni keskin oshirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): G'arbiy Yevropada uch dalali tizim o'rnini ko'p dalali almashlab ekish egalladi.",
+      "answer": true,
+      "explain": "To'g'ri. Ko'p dalali almashlab ekish yerlarning unumdorligini saqlab, hosildorlikni keskin oshirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XVI asrda Yevropada yerlarning hammasi yaylovga aylantirilib ekin ekilmay qo'yildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ko'p dalali almashlab ekish yerlarning unumdorligini saqlab, hosildorlikni keskin oshirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra ko'p dalali almashlab ekish yerlarning unumdorligini saqlab, hosildorlikni keskin oshirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Ko'p dalali almashlab ekish yerlarning unumdorligini saqlab, hosildorlikni keskin oshirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Yangi davr boshlarida Yevropada energiya manbayi sifatida qaysi qurilmalar keng qo'llanilgan?",
+      "options": [
+        "Elektr stansiyalari va atom reaktorlari",
+        "Ichki yonuv dvigatellari",
+        "Suv charxpalagi va shamol tegirmonlari",
+        "Quyosh batareyalari"
+      ],
+      "answer": 2,
+      "explain": "Suv charxpalagi va shamol tegirmoni konchilik, metallurgiya va tegirmonchilikda keng qo'llanilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Yangi davr boshlarida Yevropada energiya manbayi sifatida qaysi qurilmalar keng qo'llanilgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XVI asrda barcha manufakturalar elektr energiyasi bilan ishlagan",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan",
+        "Manufaktura va xo'jaliklarda suv charxpalagi hamda shamol tegirmoni asosiy mexanik kuch bo'lgan"
+      ],
+      "answer": 3,
+      "explain": "Suv charxpalagi va shamol tegirmoni konchilik, metallurgiya va tegirmonchilikda keng qo'llanilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Yangi davr boshlarida Yevropada energiya manbayi sifatida qaysi qurilmalar keng qo'llanilgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "XVI asrda barcha manufakturalar elektr energiyasi bilan ishlagan",
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: XVI asrda barcha manufakturalar elektr energiyasi bilan ishlagan. Aslida: Suv charxpalagi va shamol tegirmoni konchilik, metallurgiya va tegirmonchilikda keng qo'llanilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Manufaktura va xo'jaliklarda suv charxpalagi hamda shamol tegirmoni asosiy mexanik kuch bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. Suv charxpalagi va shamol tegirmoni konchilik, metallurgiya va tegirmonchilikda keng qo'llanilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XVI asrda barcha manufakturalar elektr energiyasi bilan ishlagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Suv charxpalagi va shamol tegirmoni konchilik, metallurgiya va tegirmonchilikda keng qo'llanilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra suv charxpalagi va shamol tegirmoni konchilik, metallurgiya va tegirmonchilikda keng qo'llanilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Suv charxpalagi va shamol tegirmoni konchilik, metallurgiya va tegirmonchilikda keng qo'llanilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Kapitalizm rivojlanishi uchun zarur bo'lgan ikkita asosiy shart qaysilar edi?",
+      "options": [
+        "Faqat qirol farmonlari va qullar mehnati",
+        "Bir tomonda kapital to'planishi, ikkinchi tomonda mulksiz erkin ishchi kuchining mavjudligi",
+        "Shaharlarning yopilishi va natural xo'jalik",
+        "Oltin konlari va cheksiz urushlar"
+      ],
+      "answer": 1,
+      "explain": "Mulkdor tadbirkor qo'lida kapital to'planishi va erkin yollanma ishchi kuchining paydo bo'lishi kapitalizm asosidir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Kapitalizm rivojlanishi uchun zarur bo'lgan ikkita asosiy shart qaysilar edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Kapitalizm rivojlanishi uchun faqat qul mehnati yetarli hisoblangan",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Kapitalizm uchun kapital to'planishi va ishlab chiqarish vositalaridan mahrum erkin ishchi kuchi zarur edi",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan"
+      ],
+      "answer": 2,
+      "explain": "Mulkdor tadbirkor qo'lida kapital to'planishi va erkin yollanma ishchi kuchining paydo bo'lishi kapitalizm asosidir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Kapitalizm rivojlanishi uchun zarur bo'lgan ikkita asosiy shart qaysilar edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi",
+        "Kapitalizm rivojlanishi uchun faqat qul mehnati yetarli hisoblangan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Kapitalizm rivojlanishi uchun faqat qul mehnati yetarli hisoblangan. Aslida: Mulkdor tadbirkor qo'lida kapital to'planishi va erkin yollanma ishchi kuchining paydo bo'lishi kapitalizm asosidir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Kapitalizm uchun kapital to'planishi va ishlab chiqarish vositalaridan mahrum erkin ishchi kuchi zarur edi.",
+      "answer": true,
+      "explain": "To'g'ri. Mulkdor tadbirkor qo'lida kapital to'planishi va erkin yollanma ishchi kuchining paydo bo'lishi kapitalizm asosidir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Kapitalizm rivojlanishi uchun faqat qul mehnati yetarli hisoblangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Mulkdor tadbirkor qo'lida kapital to'planishi va erkin yollanma ishchi kuchining paydo bo'lishi kapitalizm asosidir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra mulkdor tadbirkor qo'lida kapital to'planishi va erkin yollanma ishchi kuchining paydo bo'lishi kapitalizm asosidir.",
+      "answer": true,
+      "explain": "To'g'ri. Mulkdor tadbirkor qo'lida kapital to'planishi va erkin yollanma ishchi kuchining paydo bo'lishi kapitalizm asosidir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Manufaktura» atamasi qaysi ikki lotincha so'z birikmasidan hosil bo'lgan?",
+      "options": [
+        "«Manus» (qo'l) va «factura» (tayyorlash)",
+        "«Mona» (yakka) va «faktur» (mashina)",
+        "«Magna» (katta) va «karta» (qog'oz)",
+        "«Man» (inson) va «terra» (yer)"
+      ],
+      "answer": 0,
+      "explain": "Manufakturaning asosiy xususiyati — qo'l mehnati va mehnat taqsimotidir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): ««Manufaktura» atamasi qaysi ikki lotincha so'z birikmasidan hosil bo'lgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Manufaktura» so'zi grekcha «mashinalar zavodi» degan ma'noni bildiradi",
+        "«Manufaktura» lotincha «manus» — qo'l va «factura» — tayyorlash so'zlaridan olingan",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan"
+      ],
+      "answer": 1,
+      "explain": "Manufakturaning asosiy xususiyati — qo'l mehnati va mehnat taqsimotidir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): ««Manufaktura» atamasi qaysi ikki lotincha so'z birikmasidan hosil bo'lgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "«Manufaktura» so'zi grekcha «mashinalar zavodi» degan ma'noni bildiradi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: «Manufaktura» so'zi grekcha «mashinalar zavodi» degan ma'noni bildiradi. Aslida: Manufakturaning asosiy xususiyati — qo'l mehnati va mehnat taqsimotidir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Manufaktura» lotincha «manus» — qo'l va «factura» — tayyorlash so'zlaridan olingan.",
+      "answer": true,
+      "explain": "To'g'ri. Manufakturaning asosiy xususiyati — qo'l mehnati va mehnat taqsimotidir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Manufaktura» so'zi grekcha «mashinalar zavodi» degan ma'noni bildiradi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Manufakturaning asosiy xususiyati — qo'l mehnati va mehnat taqsimotidir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra manufakturaning asosiy xususiyati — qo'l mehnati va mehnat taqsimotidir.",
+      "answer": true,
+      "explain": "To'g'ri. Manufakturaning asosiy xususiyati — qo'l mehnati va mehnat taqsimotidir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Manufaktura lotincha «manus» (____) va «factura» (tayyorlash) so'zlaridan kelib chiqqan. (O'zbekcha so'zni kiriting)",
+      "answer": [
+        "qo'l",
+        "qol"
+      ],
+      "explain": "Manufakturaning asosiy xususiyati — qo'l mehnati va mehnat taqsimotidir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Manufakturaning oddiy hunarmandchilik ustaxonasidan asosiy farqi nimada edi?",
+      "options": [
+        "Unda faqat bitta usta yakka o'zi ishlashi",
+        "Mahsulot sotishning taqiqlanishi",
+        "Hech qanday asbob ishlatilmasligi",
+        "Ish jarayonining alohida operatsiyalarga bo'linishi (mehnat taqsimoti) va mehnat unumdorligining yuqoriligi"
+      ],
+      "answer": 3,
+      "explain": "Har bir ishchining bitta muayyan operatsiyaga ixtisoslashuvi mahsulot chiqarishni tezlashtirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Manufakturaning oddiy hunarmandchilik ustaxonasidan asosiy farqi nimada edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Manufakturada mehnat taqsimoti tufayli ish unumdorligi hunarmand ustaxonasidan ancha yuqori bo'lgan",
+        "Manufakturada mehnat taqsimoti umuman qo'llanilmagan",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan"
+      ],
+      "answer": 0,
+      "explain": "Har bir ishchining bitta muayyan operatsiyaga ixtisoslashuvi mahsulot chiqarishni tezlashtirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Manufakturaning oddiy hunarmandchilik ustaxonasidan asosiy farqi nimada edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "Manufakturada mehnat taqsimoti umuman qo'llanilmagan",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Manufakturada mehnat taqsimoti umuman qo'llanilmagan. Aslida: Har bir ishchining bitta muayyan operatsiyaga ixtisoslashuvi mahsulot chiqarishni tezlashtirgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Manufakturada mehnat taqsimoti tufayli ish unumdorligi hunarmand ustaxonasidan ancha yuqori bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. Har bir ishchining bitta muayyan operatsiyaga ixtisoslashuvi mahsulot chiqarishni tezlashtirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Manufakturada mehnat taqsimoti umuman qo'llanilmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Har bir ishchining bitta muayyan operatsiyaga ixtisoslashuvi mahsulot chiqarishni tezlashtirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra har bir ishchining bitta muayyan operatsiyaga ixtisoslashuvi mahsulot chiqarishni tezlashtirgan.",
+      "answer": true,
+      "explain": "To'g'ri. Har bir ishchining bitta muayyan operatsiyaga ixtisoslashuvi mahsulot chiqarishni tezlashtirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Qadimgi Rimda «proletarius» (proletariat) so'zi qanday kishilarga nisbatan ishlatilgan?",
+      "options": [
+        "Yirik yer egalari va senatorlarga",
+        "Dengiz floti admirallariga",
+        "Mulk-boyligi yo'q, faqat farzandlarigagina ega bo'lgan kambag'al fuqarolarga",
+        "Oltin koni boshliqlariga"
+      ],
+      "answer": 2,
+      "explain": "Proletariat — ishlab chiqarish vositalariga ega bo'lmay, o'z mehnatini sotib kun ko'ruvchi yollanma ishchilardir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Qadimgi Rimda «proletarius» (proletariat) so'zi qanday kishilarga nisbatan ishlatilgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Proletarius» atamasi eng boy bankirlarni bildirish uchun qo'llanilgan",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan",
+        "«Proletarius» so'zi dastlab mulksiz kambag'al kishilarni anglatgan"
+      ],
+      "answer": 3,
+      "explain": "Proletariat — ishlab chiqarish vositalariga ega bo'lmay, o'z mehnatini sotib kun ko'ruvchi yollanma ishchilardir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Qadimgi Rimda «proletarius» (proletariat) so'zi qanday kishilarga nisbatan ishlatilgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "«Proletarius» atamasi eng boy bankirlarni bildirish uchun qo'llanilgan",
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: «Proletarius» atamasi eng boy bankirlarni bildirish uchun qo'llanilgan. Aslida: Proletariat — ishlab chiqarish vositalariga ega bo'lmay, o'z mehnatini sotib kun ko'ruvchi yollanma ishchilardir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Proletarius» so'zi dastlab mulksiz kambag'al kishilarni anglatgan.",
+      "answer": true,
+      "explain": "To'g'ri. Proletariat — ishlab chiqarish vositalariga ega bo'lmay, o'z mehnatini sotib kun ko'ruvchi yollanma ishchilardir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Proletarius» atamasi eng boy bankirlarni bildirish uchun qo'llanilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Proletariat — ishlab chiqarish vositalariga ega bo'lmay, o'z mehnatini sotib kun ko'ruvchi yollanma ishchilardir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra proletariat — ishlab chiqarish vositalariga ega bo'lmay, o'z mehnatini sotib kun ko'ruvchi yollanma ishchilardir.",
+      "answer": true,
+      "explain": "To'g'ri. Proletariat — ishlab chiqarish vositalariga ega bo'lmay, o'z mehnatini sotib kun ko'ruvchi yollanma ishchilardir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Yangi davr boshlarida Angliya va Yevropada bozor sharoitiga moslashib tadbirkorlik bilan shug'ullangan zamindorlar qanday atalgan?",
+      "options": [
+        "«Oqsuyak ritsarlar»",
+        "«Yangi zodagonlar»",
+        "«Yanicharlar»",
+        "«Karimiylar»"
+      ],
+      "answer": 1,
+      "explain": "«Yangi zodagonlar» qishloq xo'jaligi mahsulotlarini bozorga chiqarib kapitalistlar safiga yaqinlashgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Yangi davr boshlarida Angliya va Yevropada bozor sharoitiga moslashib tadbirkorlik bilan shug'ullangan zamindorlar qanday atalgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Yangi zodagonlar» savdo bilan shug'ullanishni qat'iyan rad etishgan",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Tovar xo'jaligiga o'tib daromad olgan dvoryanlar «yangi zodagonlar» deb atalgan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan"
+      ],
+      "answer": 2,
+      "explain": "«Yangi zodagonlar» qishloq xo'jaligi mahsulotlarini bozorga chiqarib kapitalistlar safiga yaqinlashgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Yangi davr boshlarida Angliya va Yevropada bozor sharoitiga moslashib tadbirkorlik bilan shug'ullangan zamindorlar qanday atalgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi",
+        "«Yangi zodagonlar» savdo bilan shug'ullanishni qat'iyan rad etishgan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: «Yangi zodagonlar» savdo bilan shug'ullanishni qat'iyan rad etishgan. Aslida: «Yangi zodagonlar» qishloq xo'jaligi mahsulotlarini bozorga chiqarib kapitalistlar safiga yaqinlashgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Tovar xo'jaligiga o'tib daromad olgan dvoryanlar «yangi zodagonlar» deb atalgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Yangi zodagonlar» qishloq xo'jaligi mahsulotlarini bozorga chiqarib kapitalistlar safiga yaqinlashgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Yangi zodagonlar» savdo bilan shug'ullanishni qat'iyan rad etishgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. «Yangi zodagonlar» qishloq xo'jaligi mahsulotlarini bozorga chiqarib kapitalistlar safiga yaqinlashgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra «Yangi zodagonlar» qishloq xo'jaligi mahsulotlarini bozorga chiqarib kapitalistlar safiga yaqinlashgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Yangi zodagonlar» qishloq xo'jaligi mahsulotlarini bozorga chiqarib kapitalistlar safiga yaqinlashgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XVI asrning birinchi yarmida Yevropa savdosida qaysi Pireney shaharlari yetakchi o'rin tutgan?",
+      "options": [
+        "Lissabon va Sevilya",
+        "Berlin va Vena",
+        "Krakov va Varshava",
+        "Rim va Afina"
+      ],
+      "answer": 0,
+      "explain": "Portugaliya poytaxti Lissabon va Ispaniyaning Sevilya shahri mustamlaka tovarlarini qabul qiluvchi bosh portlar edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XVI asrning birinchi yarmida Yevropa savdosida qaysi Pireney shaharlari yetakchi o'rin tutgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XVI asrda Atlantika savdosida eng asosiy port Moskva bo'lgan",
+        "Lissabon va Sevilya XVI asr boshlarida okean savdosining markazlariga aylandi",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan"
+      ],
+      "answer": 1,
+      "explain": "Portugaliya poytaxti Lissabon va Ispaniyaning Sevilya shahri mustamlaka tovarlarini qabul qiluvchi bosh portlar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XVI asrning birinchi yarmida Yevropa savdosida qaysi Pireney shaharlari yetakchi o'rin tutgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "XVI asrda Atlantika savdosida eng asosiy port Moskva bo'lgan",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: XVI asrda Atlantika savdosida eng asosiy port Moskva bo'lgan. Aslida: Portugaliya poytaxti Lissabon va Ispaniyaning Sevilya shahri mustamlaka tovarlarini qabul qiluvchi bosh portlar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Lissabon va Sevilya XVI asr boshlarida okean savdosining markazlariga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. Portugaliya poytaxti Lissabon va Ispaniyaning Sevilya shahri mustamlaka tovarlarini qabul qiluvchi bosh portlar edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XVI asrda Atlantika savdosida eng asosiy port Moskva bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Portugaliya poytaxti Lissabon va Ispaniyaning Sevilya shahri mustamlaka tovarlarini qabul qiluvchi bosh portlar edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra Portugaliya poytaxti Lissabon va Ispaniyaning Sevilya shahri mustamlaka tovarlarini qabul qiluvchi bosh portlar edi.",
+      "answer": true,
+      "explain": "To'g'ri. Portugaliya poytaxti Lissabon va Ispaniyaning Sevilya shahri mustamlaka tovarlarini qabul qiluvchi bosh portlar edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XVI asrning ikkinchi yarmida jahon savdo va moliya markazi sifatida qaysi shahar yuksaldi?",
+      "options": [
+        "Marsel",
+        "Neapol",
+        "Drezden",
+        "Antverpen"
+      ],
+      "answer": 3,
+      "explain": "Antverpen XVI asr ikkinchi yarmida jahon savdo va kredit operatsiyalarining markaziga aylangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XVI asrning ikkinchi yarmida jahon savdo va moliya markazi sifatida qaysi shahar yuksaldi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XVI asr ikkinchi yarmida Antverpen Yevropaning eng yirik savdo va birja markaziga aylandi",
+        "Antverpen XVI asrda dengizdan uzilgan kichik qishloq edi",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan"
+      ],
+      "answer": 0,
+      "explain": "Antverpen XVI asr ikkinchi yarmida jahon savdo va kredit operatsiyalarining markaziga aylangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XVI asrning ikkinchi yarmida jahon savdo va moliya markazi sifatida qaysi shahar yuksaldi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "Antverpen XVI asrda dengizdan uzilgan kichik qishloq edi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Antverpen XVI asrda dengizdan uzilgan kichik qishloq edi. Aslida: Antverpen XVI asr ikkinchi yarmida jahon savdo va kredit operatsiyalarining markaziga aylangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XVI asr ikkinchi yarmida Antverpen Yevropaning eng yirik savdo va birja markaziga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. Antverpen XVI asr ikkinchi yarmida jahon savdo va kredit operatsiyalarining markaziga aylangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Antverpen XVI asrda dengizdan uzilgan kichik qishloq edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Antverpen XVI asr ikkinchi yarmida jahon savdo va kredit operatsiyalarining markaziga aylangan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra antverpen XVI asr ikkinchi yarmida jahon savdo va kredit operatsiyalarining markaziga aylangan.",
+      "answer": true,
+      "explain": "To'g'ri. Antverpen XVI asr ikkinchi yarmida jahon savdo va kredit operatsiyalarining markaziga aylangan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XVI asr ikkinchi yarmida Yevropa savdosining bosh markazi Niderlandiyadagi ____ shahri bo'ldi. (Shaharni kiriting)",
+      "answer": [
+        "Antverpen"
+      ],
+      "explain": "Antverpen XVI asr ikkinchi yarmida jahon savdo va kredit operatsiyalarining markaziga aylangan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XVII asrga kelib aholisi 10 barobar ko'payib, Yevropaning yirik savdo markaziga aylangan Temza bo'yidagi shahar qaysi?",
+      "options": [
+        "Madeyra",
+        "Venetsiya",
+        "London",
+        "Genuya"
+      ],
+      "answer": 2,
+      "explain": "London qulay port va savdo markazi sifatida XVII asrda jadal o'sdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XVII asrga kelib aholisi 10 barobar ko'payib, Yevropaning yirik savdo markaziga aylangan Temza bo'yidagi shahar qaysi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "London shahri Sena daryosi bo'yida joylashgan",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan",
+        "Temza daryosi bo'yidagi London aholisi XVII asrda keskin o'sib yirik savdo markaziga aylandi"
+      ],
+      "answer": 3,
+      "explain": "London qulay port va savdo markazi sifatida XVII asrda jadal o'sdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XVII asrga kelib aholisi 10 barobar ko'payib, Yevropaning yirik savdo markaziga aylangan Temza bo'yidagi shahar qaysi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "London shahri Sena daryosi bo'yida joylashgan",
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: London shahri Sena daryosi bo'yida joylashgan. Aslida: London qulay port va savdo markazi sifatida XVII asrda jadal o'sdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Temza daryosi bo'yidagi London aholisi XVII asrda keskin o'sib yirik savdo markaziga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. London qulay port va savdo markazi sifatida XVII asrda jadal o'sdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): London shahri Sena daryosi bo'yida joylashgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. London qulay port va savdo markazi sifatida XVII asrda jadal o'sdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra London qulay port va savdo markazi sifatida XVII asrda jadal o'sdi.",
+      "answer": true,
+      "explain": "To'g'ri. London qulay port va savdo markazi sifatida XVII asrda jadal o'sdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XVI–XVII asrlarda Amsterdam birjasida qaysi o'simlik piyozi ustida misli ko'rilmagan chayqovchilik («talvasa») avj olgan?",
+      "options": [
+        "Kungaboqar",
+        "Lola",
+        "Paxta",
+        "Choy"
+      ],
+      "answer": 1,
+      "explain": "«Lola talvasasi» davrida nodir lola navlari birjalarda uy yoki yer narxida sotilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XVI–XVII asrlarda Amsterdam birjasida qaysi o'simlik piyozi ustida misli ko'rilmagan chayqovchilik («talvasa») avj olgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Amsterdam birjasida faqat bug'doy ustida «talvasa» yuz bergan",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Amsterdam birjasida «lola talvasasi» vaqtida bir dona lola piyozi ulkan boylikka tenglashgan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan"
+      ],
+      "answer": 2,
+      "explain": "«Lola talvasasi» davrida nodir lola navlari birjalarda uy yoki yer narxida sotilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XVI–XVII asrlarda Amsterdam birjasida qaysi o'simlik piyozi ustida misli ko'rilmagan chayqovchilik («talvasa») avj olgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi",
+        "Amsterdam birjasida faqat bug'doy ustida «talvasa» yuz bergan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Amsterdam birjasida faqat bug'doy ustida «talvasa» yuz bergan. Aslida: «Lola talvasasi» davrida nodir lola navlari birjalarda uy yoki yer narxida sotilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Amsterdam birjasida «lola talvasasi» vaqtida bir dona lola piyozi ulkan boylikka tenglashgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Lola talvasasi» davrida nodir lola navlari birjalarda uy yoki yer narxida sotilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Amsterdam birjasida faqat bug'doy ustida «talvasa» yuz bergan.",
+      "answer": false,
+      "explain": "Noto'g'ri. «Lola talvasasi» davrida nodir lola navlari birjalarda uy yoki yer narxida sotilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra «Lola talvasasi» davrida nodir lola navlari birjalarda uy yoki yer narxida sotilgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Lola talvasasi» davrida nodir lola navlari birjalarda uy yoki yer narxida sotilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Amsterdam birjasida XVI–XVII asrlarda yuz bergan mashhur chayqovchilik «____ talvasasi» deb nomlangan. (Gul nomini kiriting)",
+      "answer": [
+        "lola",
+        "Lola"
+      ],
+      "explain": "«Lola talvasasi» davrida nodir lola navlari birjalarda uy yoki yer narxida sotilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Natural xo'jalikdan tovar ishlab chiqaruvchi xo'jalikka o'tish jamiyat tuzilishida qanday o'zgarishga olib keldi?",
+      "options": [
+        "Sinfiy jamiyat — burjuaziya va yollanma ishchilar sinfining shakllanishiga",
+        "Feodal tarqoqlikning abadiylashishiga",
+        "Shaharlarning butunlay bo'shab qolishiga",
+        "Pul muomalasining bekor qilinishiga"
+      ],
+      "answer": 0,
+      "explain": "Kapitalistik munosabatlar natijasida burjuaziya va yollanma ishchilar asosiy sinflarga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Natural xo'jalikdan tovar ishlab chiqaruvchi xo'jalikka o'tish jamiyat tuzilishida qanday o'zgarishga olib keldi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Tovar ishlab chiqarish feodal qaramlikni yanada mustahkamladi",
+        "Tovar xo'jaligi rivojlanishi jamiyatda burjuaziya va proletariat sinflarini shakllantirdi",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan"
+      ],
+      "answer": 1,
+      "explain": "Kapitalistik munosabatlar natijasida burjuaziya va yollanma ishchilar asosiy sinflarga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Natural xo'jalikdan tovar ishlab chiqaruvchi xo'jalikka o'tish jamiyat tuzilishida qanday o'zgarishga olib keldi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "Tovar ishlab chiqarish feodal qaramlikni yanada mustahkamladi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Tovar ishlab chiqarish feodal qaramlikni yanada mustahkamladi. Aslida: Kapitalistik munosabatlar natijasida burjuaziya va yollanma ishchilar asosiy sinflarga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Tovar xo'jaligi rivojlanishi jamiyatda burjuaziya va proletariat sinflarini shakllantirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Kapitalistik munosabatlar natijasida burjuaziya va yollanma ishchilar asosiy sinflarga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Tovar ishlab chiqarish feodal qaramlikni yanada mustahkamladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kapitalistik munosabatlar natijasida burjuaziya va yollanma ishchilar asosiy sinflarga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra kapitalistik munosabatlar natijasida burjuaziya va yollanma ishchilar asosiy sinflarga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. Kapitalistik munosabatlar natijasida burjuaziya va yollanma ishchilar asosiy sinflarga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Oltin — bu barkamollik! Unga ega bo'lgan kishi dunyoda o'zi xohlagan barcha narsani qila oladi» degan fikr kimga tegishli?",
+      "options": [
+        "Isaak Nyutonga",
+        "Martin Lyuterga",
+        "Tomas Morga",
+        "Xristofor Kolumbga"
+      ],
+      "answer": 3,
+      "explain": "Xristofor Kolumb o'z maktubida Yangi davr boshidagi boylik va oltinga intilish ruhini yaqqol ko'rsatgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): ««Oltin — bu barkamollik! Unga ega bo'lgan kishi dunyoda o'zi xohlagan barcha narsani qila oladi» degan fikr kimga tegishli» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Kolumb qirol Fernando va Izabellaga yozgan maktubida oltinni barkamollik deb ta'riflagan",
+        "Oltin haqidagi mashhur iqtibos Leonardo da Vinchining kundaligidan olingan",
+        "«Bank» so'zi Ispaniyadagi kumush konlari nomidan olingan",
+        "Avliyo Georgiy banki Parijda XIX asrda ochilgan"
+      ],
+      "answer": 0,
+      "explain": "Xristofor Kolumb o'z maktubida Yangi davr boshidagi boylik va oltinga intilish ruhini yaqqol ko'rsatgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): ««Oltin — bu barkamollik! Unga ega bo'lgan kishi dunyoda o'zi xohlagan barcha narsani qila oladi» degan fikr kimga tegishli» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1407-yilda genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil etildi",
+        "Oltin haqidagi mashhur iqtibos Leonardo da Vinchining kundaligidan olingan",
+        "1602-yilda Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari sotila boshlandi",
+        "1636-yilda gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada oltin narxida sotildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Oltin haqidagi mashhur iqtibos Leonardo da Vinchining kundaligidan olingan. Aslida: Xristofor Kolumb o'z maktubida Yangi davr boshidagi boylik va oltinga intilish ruhini yaqqol ko'rsatgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Kolumb qirol Fernando va Izabellaga yozgan maktubida oltinni barkamollik deb ta'riflagan.",
+      "answer": true,
+      "explain": "To'g'ri. Xristofor Kolumb o'z maktubida Yangi davr boshidagi boylik va oltinga intilish ruhini yaqqol ko'rsatgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Oltin haqidagi mashhur iqtibos Leonardo da Vinchining kundaligidan olingan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Xristofor Kolumb o'z maktubida Yangi davr boshidagi boylik va oltinga intilish ruhini yaqqol ko'rsatgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik izohiga ko'ra xristofor Kolumb o'z maktubida Yangi davr boshidagi boylik va oltinga intilish ruhini yaqqol ko'rsatgan.",
+      "answer": true,
+      "explain": "To'g'ri. Xristofor Kolumb o'z maktubida Yangi davr boshidagi boylik va oltinga intilish ruhini yaqqol ko'rsatgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Quyidagi tushunchalardan qaysi biri kapitalistik bozor iqtisodiyoti bilan bevosita bog'liq emas?",
+      "options": [
+        "Birja va aksiya savdosi",
+        "Aksionerlik kompaniyalari",
+        "Natural ayirboshlashning mutlaq hukmronligi",
+        "Erkin bozor raqobati"
+      ],
+      "answer": 2,
+      "explain": "Birja, aksionerlik kompaniyalari va raqobat kapitalistik xo'jalik belgilaridir; natural xo'jalik esa o'rta asrlarga xos.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Birja, aksionerlik kompaniyalari va raqobat kapitalistik xo'jalik belgilaridir; natural xo'jalik esa o'rta asrlarga xos.",
+      "answer": true,
+      "explain": "To'g'ri. Birja, aksionerlik kompaniyalari va raqobat kapitalistik xo'jalik belgilaridir; natural xo'jalik esa o'rta asrlarga xos.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): XVI–XVII asrlarda Yevropada asosiy savdo markaziga aylangan shaharlar qatoriga qaysi biri kirmaydi?",
+      "options": [
+        "Lissabon va Sevilya",
+        "Antverpen va Amsterdam",
+        "London va Parij",
+        "Tokio (Edo)"
+      ],
+      "answer": 3,
+      "explain": "Tokio (Edo) Sharqiy Osiyodagi Yaponiya poytaxti bo'lib, Yevropa savdo markazlari qatoriga kirmaydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Tokio (Edo) Sharqiy Osiyodagi Yaponiya poytaxti bo'lib, Yevropa savdo markazlari qatoriga kirmaydi.",
+      "answer": true,
+      "explain": "To'g'ri. Tokio (Edo) Sharqiy Osiyodagi Yaponiya poytaxti bo'lib, Yevropa savdo markazlari qatoriga kirmaydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Manufaktura ishlab chiqarishiga xos bo'lmagan belgini toping.",
+      "options": [
+        "Barcha jarayonlarning to'liq avtomatlashtirilgan bug' mashinalari bilan bajarilishi",
+        "Ishchilar o'rtasida mehnat taqsimoti",
+        "Qo'l mehnati ustunligi",
+        "Yollanma mehnatdan foydalanish"
+      ],
+      "answer": 0,
+      "explain": "Manufaktura qo'l mehnati va mehnat taqsimotiga tayanadi; mashinali ishlab chiqarish esa keyinchalik fabrika bosqichida paydo bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Manufaktura qo'l mehnati va mehnat taqsimotiga tayanadi; mashinali ishlab chiqarish esa keyinchalik fabrika bosqichida paydo bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. Manufaktura qo'l mehnati va mehnat taqsimotiga tayanadi; mashinali ishlab chiqarish esa keyinchalik fabrika bosqichida paydo bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Qishloq xo'jaligida mehnat unumdorligini oshirgan omillar qatoriga qaysi biri kirmaydi?",
+      "options": [
+        "Ko'p dalali almashlab ekishga o'tish",
+        "Dehqonlarning faqat ikki dalali tizimga qaytishi",
+        "Suv charxpalagi va shamol tegirmonidan foydalanish",
+        "Mahsulotni bozor uchun yetishtirish"
+      ],
+      "answer": 1,
+      "explain": "Ko'p dalali almashlab ekish va yangi mexanizmlar qishloq xo'jaligi samaradorligini oshirgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Ko'p dalali almashlab ekish va yangi mexanizmlar qishloq xo'jaligi samaradorligini oshirgan.",
+      "answer": true,
+      "explain": "To'g'ri. Ko'p dalali almashlab ekish va yangi mexanizmlar qishloq xo'jaligi samaradorligini oshirgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Yangi davrda Yevropa jamiyatida shakllangan yangi ijtimoiy qatlamlar qatoriga qaysi biri kirmaydi?",
+      "options": [
+        "Burjuaziya",
+        "Yangi zodagonlar",
+        "Qadimgi rimlik gladiatorlar",
+        "Proletariat"
+      ],
+      "answer": 2,
+      "explain": "Burjuaziya, yangi zodagonlar va proletariat Yangi davr ijtimoiy qatlamlaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Burjuaziya, yangi zodagonlar va proletariat Yangi davr ijtimoiy qatlamlaridir.",
+      "answer": true,
+      "explain": "To'g'ri. Burjuaziya, yangi zodagonlar va proletariat Yangi davr ijtimoiy qatlamlaridir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Aksionerlik kompaniyalari nima uchun Yangi davr savdosida keng tarqaldi?",
+      "options": [
+        "Faqat bitta qirolga barcha boylikni topshirishni majburiy qilgani uchun",
+        "Tovarlarni pulga sotishni taqiqlagani uchun",
+        "Solig'lardan butunlay ozod etilgani uchun",
+        "Uzoq dengiz safarlari va yirik korxonalar uchun ko'pchilikning mablag'ini birlashtirish imkonini bergani uchun"
+      ],
+      "answer": 3,
+      "explain": "Aksionerlik kompaniyasi aksiyalar sotish orqali katta sarmoya to'plab, xavf-xatarni aksionerlar o'rtasida taqsimlagan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Narxlar inqilobi» qaysi ijtimoiy guruhlar foydasiga ishladi?",
+      "options": [
+        "Tovar ishlab chiqaruvchi tadbirkorlar va yollanma mehnatdan foydalanuvchi yangi zodagonlar foydasiga",
+        "Faqat qat'iy pul solig'iga kun ko'rgan eski feodallar foydasiga",
+        "Mahsulot sotmaydigan yakka dehqonlar foydasiga",
+        "Ish haqi oshirilmagan kambag'al oilalar foydasiga"
+      ],
+      "answer": 0,
+      "explain": "Mahsulot narxlari oshishi tadbirkorlar va savdogarlarning tez boyishiga sharoit yaratdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): Industrial jamiyatga o'tish poydevori G'arbiy Yevropada savdo, bank-moliya va manufakturalar rivoji bilan yaratildi.",
+      "answer": true,
+      "explain": "To'g'ri. XVI–XVII asrlardagi iqtisodiy o'zgarishlar industrial sivilizatsiya uchun zamin hozirladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik jadvali va tayanch ma'lumotlariga ko'ra «XV asr Genuya moliya markazi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "«Banco»",
+        "Avliyo Georgiy banki",
+        "Manufaktura",
+        "Proletariat"
+      ],
+      "answer": 1,
+      "explain": "Avliyo Georgiy banki — XV asr Genuya moliya markazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): mavzudagi «Avliyo Georgiy banki» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Sarroflar o'tiradigan kursi nomi",
+        "Mehnat taqsimotiga asoslangan qo'l mehnati korxonasi",
+        "XV asr Genuya moliya markazi",
+        "Ishchi kuchini sotuvchi yollanma ishchilar"
+      ],
+      "answer": 2,
+      "explain": "Avliyo Georgiy banki — XV asr Genuya moliya markazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikning tayanch ma'lumotlarida «Avliyo Georgiy banki» — XV asr Genuya moliya markazi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Avliyo Georgiy banki — XV asr Genuya moliya markazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik ma'lumotlariga ko'ra «Avliyo Georgiy banki» — sarroflar o'tiradigan kursi nomi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Avliyo Georgiy banki» — XV asr Genuya moliya markazi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Sarroflar o'tiradigan kursi nomi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "Avliyo Georgiy banki",
+        "Manufaktura",
+        "Proletariat",
+        "«Banco»"
+      ],
+      "answer": 3,
+      "explain": "«Banco» — sarroflar o'tiradigan kursi nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): mavzudagi ««Banco»» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Sarroflar o'tiradigan kursi nomi",
+        "XV asr Genuya moliya markazi",
+        "Mehnat taqsimotiga asoslangan qo'l mehnati korxonasi",
+        "Ishchi kuchini sotuvchi yollanma ishchilar"
+      ],
+      "answer": 0,
+      "explain": "«Banco» — sarroflar o'tiradigan kursi nomi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikning tayanch ma'lumotlarida ««Banco»» — sarroflar o'tiradigan kursi nomi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Banco» — sarroflar o'tiradigan kursi nomi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik ma'lumotlariga ko'ra ««Banco»» — XV asr Genuya moliya markazi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida ««Banco»» — sarroflar o'tiradigan kursi nomi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Mehnat taqsimotiga asoslangan qo'l mehnati korxonasi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "Avliyo Georgiy banki",
+        "Manufaktura",
+        "«Banco»",
+        "Proletariat"
+      ],
+      "answer": 1,
+      "explain": "Manufaktura — mehnat taqsimotiga asoslangan qo'l mehnati korxonasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): mavzudagi «Manufaktura» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "XV asr Genuya moliya markazi",
+        "Sarroflar o'tiradigan kursi nomi",
+        "Mehnat taqsimotiga asoslangan qo'l mehnati korxonasi",
+        "Ishchi kuchini sotuvchi yollanma ishchilar"
+      ],
+      "answer": 2,
+      "explain": "Manufaktura — mehnat taqsimotiga asoslangan qo'l mehnati korxonasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikning tayanch ma'lumotlarida «Manufaktura» — mehnat taqsimotiga asoslangan qo'l mehnati korxonasi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Manufaktura — mehnat taqsimotiga asoslangan qo'l mehnati korxonasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik ma'lumotlariga ko'ra «Manufaktura» — XV asr Genuya moliya markazi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Manufaktura» — mehnat taqsimotiga asoslangan qo'l mehnati korxonasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Ishchi kuchini sotuvchi yollanma ishchilar» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "Avliyo Georgiy banki",
+        "«Banco»",
+        "Manufaktura",
+        "Proletariat"
+      ],
+      "answer": 3,
+      "explain": "Proletariat — ishchi kuchini sotuvchi yollanma ishchilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): mavzudagi «Proletariat» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Ishchi kuchini sotuvchi yollanma ishchilar",
+        "XV asr Genuya moliya markazi",
+        "Sarroflar o'tiradigan kursi nomi",
+        "Mehnat taqsimotiga asoslangan qo'l mehnati korxonasi"
+      ],
+      "answer": 0,
+      "explain": "Proletariat — ishchi kuchini sotuvchi yollanma ishchilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikning tayanch ma'lumotlarida «Proletariat» — ishchi kuchini sotuvchi yollanma ishchilar sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Proletariat — ishchi kuchini sotuvchi yollanma ishchilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik ma'lumotlariga ko'ra «Proletariat» — XV asr Genuya moliya markazi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Proletariat» — ishchi kuchini sotuvchi yollanma ishchilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Bozor uchun ishlagan tadbirkor zamindorlar» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "Avliyo Georgiy banki",
+        "Yangi zodagonlar",
+        "«Banco»",
+        "Manufaktura"
+      ],
+      "answer": 1,
+      "explain": "Yangi zodagonlar — bozor uchun ishlagan tadbirkor zamindorlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): mavzudagi «Yangi zodagonlar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "XV asr Genuya moliya markazi",
+        "Sarroflar o'tiradigan kursi nomi",
+        "Bozor uchun ishlagan tadbirkor zamindorlar",
+        "Mehnat taqsimotiga asoslangan qo'l mehnati korxonasi"
+      ],
+      "answer": 2,
+      "explain": "Yangi zodagonlar — bozor uchun ishlagan tadbirkor zamindorlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikning tayanch ma'lumotlarida «Yangi zodagonlar» — bozor uchun ishlagan tadbirkor zamindorlar sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Yangi zodagonlar — bozor uchun ishlagan tadbirkor zamindorlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik ma'lumotlariga ko'ra «Yangi zodagonlar» — XV asr Genuya moliya markazi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Yangi zodagonlar» — bozor uchun ishlagan tadbirkor zamindorlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Amsterdam birjasidagi chayqovchilik» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "Avliyo Georgiy banki",
+        "«Banco»",
+        "Manufaktura",
+        "Lola talvasasi"
+      ],
+      "answer": 3,
+      "explain": "Lola talvasasi — Amsterdam birjasidagi chayqovchilik.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): mavzudagi «Lola talvasasi» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Amsterdam birjasidagi chayqovchilik",
+        "XV asr Genuya moliya markazi",
+        "Sarroflar o'tiradigan kursi nomi",
+        "Mehnat taqsimotiga asoslangan qo'l mehnati korxonasi"
+      ],
+      "answer": 0,
+      "explain": "Lola talvasasi — Amsterdam birjasidagi chayqovchilik.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikning tayanch ma'lumotlarida «Lola talvasasi» — Amsterdam birjasidagi chayqovchilik sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Lola talvasasi — Amsterdam birjasidagi chayqovchilik.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik ma'lumotlariga ko'ra «Lola talvasasi» — XV asr Genuya moliya markazi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Lola talvasasi» — Amsterdam birjasidagi chayqovchilik.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik jadvali va tayanch ma'lumotlariga ko'ra «Hosildorlikni oshirgan dehqonchilik usuli» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "Avliyo Georgiy banki",
+        "Ko'p dalali tizim",
+        "«Banco»",
+        "Manufaktura"
+      ],
+      "answer": 1,
+      "explain": "Ko'p dalali tizim — hosildorlikni oshirgan dehqonchilik usuli.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): mavzudagi «Ko'p dalali tizim» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "XV asr Genuya moliya markazi",
+        "Sarroflar o'tiradigan kursi nomi",
+        "Hosildorlikni oshirgan dehqonchilik usuli",
+        "Mehnat taqsimotiga asoslangan qo'l mehnati korxonasi"
+      ],
+      "answer": 2,
+      "explain": "Ko'p dalali tizim — hosildorlikni oshirgan dehqonchilik usuli.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikning tayanch ma'lumotlarida «Ko'p dalali tizim» — hosildorlikni oshirgan dehqonchilik usuli sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Ko'p dalali tizim — hosildorlikni oshirgan dehqonchilik usuli.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik ma'lumotlariga ko'ra «Ko'p dalali tizim» — XV asr Genuya moliya markazi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Ko'p dalali tizim» — hosildorlikni oshirgan dehqonchilik usuli.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Narxlar inqilobi»ning bosh sababchisi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "Avliyo Georgiy banki",
+        "«Banco»",
+        "Manufaktura",
+        "Oltin va kumush"
+      ],
+      "answer": 3,
+      "explain": "Oltin va kumush — «Narxlar inqilobi»ning bosh sababchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): mavzudagi «Oltin va kumush» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "«Narxlar inqilobi»ning bosh sababchisi",
+        "XV asr Genuya moliya markazi",
+        "Sarroflar o'tiradigan kursi nomi",
+        "Mehnat taqsimotiga asoslangan qo'l mehnati korxonasi"
+      ],
+      "answer": 0,
+      "explain": "Oltin va kumush — «Narxlar inqilobi»ning bosh sababchisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslikning tayanch ma'lumotlarida «Oltin va kumush» — «Narxlar inqilobi»ning bosh sababchisi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Oltin va kumush — «Narxlar inqilobi»ning bosh sababchisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): darslik ma'lumotlariga ko'ra «Oltin va kumush» — XV asr Genuya moliya markazi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Oltin va kumush» — «Narxlar inqilobi»ning bosh sababchisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «qimmatli qog'oz va tovar savdo bozori» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Aksiya",
+        "Birja",
+        "Raqobat",
+        "Kapital"
+      ],
+      "answer": 1,
+      "explain": "Birja — qimmatli qog'oz va tovar savdo bozori.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «qimmatli qog'oz va tovar savdo bozori» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Birja",
+        "birja",
+        "BIRJA"
+      ],
+      "explain": "Birja — qimmatli qog'oz va tovar savdo bozori.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Birja» tayanch atamasi/nomi «qimmatli qog'oz va tovar savdo bozori» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Birja — qimmatli qog'oz va tovar savdo bozori.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Birja» atamasi/nomi darslikda «kompaniya foydasidan ulush beruvchi qog'oz» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Birja — qimmatli qog'oz va tovar savdo bozori.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «kompaniya foydasidan ulush beruvchi qog'oz» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Birja",
+        "Raqobat",
+        "Aksiya",
+        "Kapital"
+      ],
+      "answer": 2,
+      "explain": "Aksiya — kompaniya foydasidan ulush beruvchi qog'oz.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «kompaniya foydasidan ulush beruvchi qog'oz» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Aksiya",
+        "aksiya",
+        "AKSIYA"
+      ],
+      "explain": "Aksiya — kompaniya foydasidan ulush beruvchi qog'oz.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Aksiya» tayanch atamasi/nomi «kompaniya foydasidan ulush beruvchi qog'oz» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Aksiya — kompaniya foydasidan ulush beruvchi qog'oz.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Aksiya» atamasi/nomi darslikda «qimmatli qog'oz va tovar savdo bozori» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Aksiya — kompaniya foydasidan ulush beruvchi qog'oz.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «foydali bozor sharoiti uchun kurash» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Birja",
+        "Aksiya",
+        "Kapital",
+        "Raqobat"
+      ],
+      "answer": 3,
+      "explain": "Raqobat — foydali bozor sharoiti uchun kurash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «foydali bozor sharoiti uchun kurash» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Raqobat",
+        "raqobat",
+        "RAQOBAT"
+      ],
+      "explain": "Raqobat — foydali bozor sharoiti uchun kurash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Raqobat» tayanch atamasi/nomi «foydali bozor sharoiti uchun kurash» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Raqobat — foydali bozor sharoiti uchun kurash.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Raqobat» atamasi/nomi darslikda «qimmatli qog'oz va tovar savdo bozori» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Raqobat — foydali bozor sharoiti uchun kurash.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «daromad keltiruvchi mablag' va mulk» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Kapital",
+        "Birja",
+        "Aksiya",
+        "Raqobat"
+      ],
+      "answer": 0,
+      "explain": "Kapital — daromad keltiruvchi mablag' va mulk.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «daromad keltiruvchi mablag' va mulk» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Kapital",
+        "kapital",
+        "KAPITAL"
+      ],
+      "explain": "Kapital — daromad keltiruvchi mablag' va mulk.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Kapital» tayanch atamasi/nomi «daromad keltiruvchi mablag' va mulk» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Kapital — daromad keltiruvchi mablag' va mulk.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Kapital» atamasi/nomi darslikda «qimmatli qog'oz va tovar savdo bozori» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kapital — daromad keltiruvchi mablag' va mulk.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «tadbirkor va mulkdorlar sinfi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Birja",
+        "Burjuaziya",
+        "Aksiya",
+        "Raqobat"
+      ],
+      "answer": 1,
+      "explain": "Burjuaziya — tadbirkor va mulkdorlar sinfi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «tadbirkor va mulkdorlar sinfi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Burjuaziya",
+        "burjuaziya",
+        "BURJUAZIYA"
+      ],
+      "explain": "Burjuaziya — tadbirkor va mulkdorlar sinfi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Burjuaziya» tayanch atamasi/nomi «tadbirkor va mulkdorlar sinfi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Burjuaziya — tadbirkor va mulkdorlar sinfi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Burjuaziya» atamasi/nomi darslikda «qimmatli qog'oz va tovar savdo bozori» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Burjuaziya — tadbirkor va mulkdorlar sinfi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «avliyo Georgiy banki joylashgan shahar» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Birja",
+        "Aksiya",
+        "Genuya",
+        "Raqobat"
+      ],
+      "answer": 2,
+      "explain": "Genuya — avliyo Georgiy banki joylashgan shahar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «avliyo Georgiy banki joylashgan shahar» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Genuya",
+        "genuya",
+        "GENUYA"
+      ],
+      "explain": "Genuya — avliyo Georgiy banki joylashgan shahar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Genuya» tayanch atamasi/nomi «avliyo Georgiy banki joylashgan shahar» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Genuya — avliyo Georgiy banki joylashgan shahar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Genuya» atamasi/nomi darslikda «qimmatli qog'oz va tovar savdo bozori» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Genuya — avliyo Georgiy banki joylashgan shahar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XVI asr ikkinchi yarmidagi savdo markazi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Birja",
+        "Aksiya",
+        "Raqobat",
+        "Antverpen"
+      ],
+      "answer": 3,
+      "explain": "Antverpen — XVI asr ikkinchi yarmidagi savdo markazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «XVI asr ikkinchi yarmidagi savdo markazi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Antverpen",
+        "antverpen",
+        "ANTVERPEN"
+      ],
+      "explain": "Antverpen — XVI asr ikkinchi yarmidagi savdo markazi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Antverpen» tayanch atamasi/nomi «XVI asr ikkinchi yarmidagi savdo markazi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Antverpen — XVI asr ikkinchi yarmidagi savdo markazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Antverpen» atamasi/nomi darslikda «qimmatli qog'oz va tovar savdo bozori» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Antverpen — XVI asr ikkinchi yarmidagi savdo markazi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «portugaliyaning bosh okean savdo porti» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Lissabon",
+        "Birja",
+        "Aksiya",
+        "Raqobat"
+      ],
+      "answer": 0,
+      "explain": "Lissabon — portugaliyaning bosh okean savdo porti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «portugaliyaning bosh okean savdo porti» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Lissabon",
+        "lissabon",
+        "LISSABON"
+      ],
+      "explain": "Lissabon — portugaliyaning bosh okean savdo porti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Lissabon» tayanch atamasi/nomi «portugaliyaning bosh okean savdo porti» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Lissabon — portugaliyaning bosh okean savdo porti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Lissabon» atamasi/nomi darslikda «qimmatli qog'oz va tovar savdo bozori» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Lissabon — portugaliyaning bosh okean savdo porti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «ispaniyaning yirik mustamlaka savdo porti» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Birja",
+        "Sevilya",
+        "Aksiya",
+        "Raqobat"
+      ],
+      "answer": 1,
+      "explain": "Sevilya — ispaniyaning yirik mustamlaka savdo porti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «ispaniyaning yirik mustamlaka savdo porti» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Sevilya",
+        "sevilya",
+        "SEVILYA"
+      ],
+      "explain": "Sevilya — ispaniyaning yirik mustamlaka savdo porti.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Sevilya» tayanch atamasi/nomi «ispaniyaning yirik mustamlaka savdo porti» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Sevilya — ispaniyaning yirik mustamlaka savdo porti.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «Sevilya» atamasi/nomi darslikda «qimmatli qog'oz va tovar savdo bozori» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Sevilya — ispaniyaning yirik mustamlaka savdo porti.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «temza bo'yidagi yirik savdo markazi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Birja",
+        "Aksiya",
+        "London",
+        "Raqobat"
+      ],
+      "answer": 2,
+      "explain": "London — temza bo'yidagi yirik savdo markazi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "2-mavzu (Industrial jamiyat asoslari): «temza bo'yidagi yirik savdo markazi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "London",
+        "london",
+        "LONDON"
+      ],
+      "explain": "London — temza bo'yidagi yirik savdo markazi.",
+      "difficulty": "medium"
+    }
+  ],
+  "cards": [
+    [
+      "BIRJA",
+      "Qimmatli qog'oz va tovar savdo bozori"
+    ],
+    [
+      "AKSIYA",
+      "Kompaniya foydasidan ulush beruvchi qog'oz"
+    ],
+    [
+      "RAQOBAT",
+      "Foydali bozor sharoiti uchun kurash"
+    ],
+    [
+      "KAPITAL",
+      "Daromad keltiruvchi mablag' va mulk"
+    ],
+    [
+      "BURJUAZIYA",
+      "Tadbirkor va mulkdorlar sinfi"
+    ],
+    [
+      "GENUYA",
+      "Avliyo Georgiy banki joylashgan shahar"
+    ],
+    [
+      "ANTVERPEN",
+      "XVI asr ikkinchi yarmidagi savdo markazi"
+    ],
+    [
+      "LISSABON",
+      "Portugaliyaning bosh okean savdo porti"
+    ],
+    [
+      "SEVILYA",
+      "Ispaniyaning yirik mustamlaka savdo porti"
+    ],
+    [
+      "LONDON",
+      "Temza bo'yidagi yirik savdo markazi"
+    ],
+    [
+      "AMSTERDAM",
+      "Lola talvasasi yuz bergan birja shahri"
+    ],
+    [
+      "Avliyo Georgiy banki",
+      "XV asr Genuya moliya markazi"
+    ],
+    [
+      "«Banco»",
+      "Sarroflar o'tiradigan kursi nomi"
+    ],
+    [
+      "Manufaktura",
+      "Mehnat taqsimotiga asoslangan qo'l mehnati korxonasi"
+    ],
+    [
+      "Proletariat",
+      "Ishchi kuchini sotuvchi yollanma ishchilar"
+    ],
+    [
+      "Yangi zodagonlar",
+      "Bozor uchun ishlagan tadbirkor zamindorlar"
+    ],
+    [
+      "Lola talvasasi",
+      "Amsterdam birjasidagi chayqovchilik"
+    ],
+    [
+      "Ko'p dalali tizim",
+      "Hosildorlikni oshirgan dehqonchilik usuli"
+    ],
+    [
+      "Oltin va kumush",
+      "«Narxlar inqilobi»ning bosh sababchisi"
+    ],
+    [
+      "Bank",
+      "Pul mablag'larini jamlovchi, saqlovchi, kredit beruvchi va to'lovlar"
+    ],
+    [
+      "Kapitalist",
+      "O'z kapitalini korxonaga tikib, yollanma ishchilar mehnati orqali fo"
+    ],
+    [
+      "Xristofor Kolumb",
+      "«Oltin — bu barkamollik!» deb yozib, qimmatbaho metallarga bo'lgan i"
+    ],
+    [
+      "Qirol Fernando",
+      "Kolumb oltin haqidagi mashhur maktubini yo'llagan Ispaniya qirolligi"
+    ],
+    [
+      "Qirolicha Izabella",
+      "Kolumb ekspeditsiyasini qo'llab-quvvatlagan va oltin haqida xat olga"
+    ],
+    [
+      "1407-yil",
+      "Genuyada ilk yirik banklardan biri — Avliyo Georgiy banki tashkil et"
+    ],
+    [
+      "1602-yil",
+      "Amsterdam fond birjasida ilk aksionerlik kompaniyalari aksiyalari so"
+    ],
+    [
+      "1636-yil",
+      "Gollandiyada mashhur «lola talvasasi» avjiga chiqib, gullar birjada"
+    ],
+    [
+      "1660-yil",
+      "London XVII asrda aholisi va savdosi keskin o'sib Yevropaning yirik"
+    ]
+  ]
+}

@@ -1,0 +1,2861 @@
+{
+  "id": "g9-uz-jahon-tarixi-31-afrika-qul-savdosi-mustamlakachilik",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "31-mavzu. Afrika: qul savdosi va mustamlakachilikning kuchayishi",
+  "title": "31-mavzu. Afrika: qul savdosi va mustamlakachilikning kuchayishi",
+  "source": "Jahon tarixi 9-sinf (2024), 31-mavzu, 174–178-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): qaysi yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi?",
+      "options": [
+        "1805-yil",
+        "1807-yil",
+        "1795-yil",
+        "1808-yil"
+      ],
+      "answer": 2,
+      "explain": "1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik) mavzusiga ko'ra 1795-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi",
+        "AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi",
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi"
+      ],
+      "answer": 3,
+      "explain": "1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): ____-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi. (Yilni kiriting)",
+      "answer": [
+        "1795",
+        "1795-yil",
+        "1795-yilda"
+      ],
+      "explain": "1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVIII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1795-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1805-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1805-yilda emas, 1795-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik xronologiyasiga ko'ra 1807-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): qaysi yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi?",
+      "options": [
+        "1795-yil",
+        "1805-yil",
+        "1807-yil",
+        "1808-yil"
+      ],
+      "answer": 1,
+      "explain": "1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik) mavzusiga ko'ra 1805-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi"
+      ],
+      "answer": 2,
+      "explain": "1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): ____-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi. (Yilni kiriting)",
+      "answer": [
+        "1805",
+        "1805-yil",
+        "1805-yilda"
+      ],
+      "explain": "1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1805-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1795-yilda emas, 1805-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik xronologiyasiga ko'ra 1807-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): qaysi yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi?",
+      "options": [
+        "1807-yil",
+        "1795-yil",
+        "1805-yil",
+        "1808-yil"
+      ],
+      "answer": 0,
+      "explain": "1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik) mavzusiga ko'ra 1807-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi"
+      ],
+      "answer": 1,
+      "explain": "1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): ____-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi. (Yilni kiriting)",
+      "answer": [
+        "1807",
+        "1807-yil",
+        "1807-yilda"
+      ],
+      "explain": "1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1807-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1795-yilda emas, 1807-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik xronologiyasiga ko'ra 1805-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): qaysi yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi?",
+      "options": [
+        "1795-yil",
+        "1805-yil",
+        "1807-yil",
+        "1808-yil"
+      ],
+      "answer": 3,
+      "explain": "1808-yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik) mavzusiga ko'ra 1808-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi",
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 0,
+      "explain": "1808-yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): ____-yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi. (Yilni kiriting)",
+      "answer": [
+        "1808",
+        "1808-yil",
+        "1808-yilda"
+      ],
+      "explain": "1808-yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1808-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1808-yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1808-yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795-yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1795-yilda emas, 1808-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik xronologiyasiga ko'ra 1805-yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1808-yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): qaysi yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha)?",
+      "options": [
+        "1795-yil",
+        "1805-yil",
+        "1820-yil",
+        "1807-yil"
+      ],
+      "answer": 2,
+      "explain": "1820-yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik) mavzusiga ko'ra 1820-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi",
+        "Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha)"
+      ],
+      "answer": 3,
+      "explain": "1820-yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): ____-yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha). (Yilni kiriting)",
+      "answer": [
+        "1820",
+        "1820-yil",
+        "1820-yilda"
+      ],
+      "explain": "1820-yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha)» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1820-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1820-yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha).",
+      "answer": true,
+      "explain": "To'g'ri. 1820-yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795-yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1795-yilda emas, 1820-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik xronologiyasiga ko'ra 1805-yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. 1820-yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): qaysi yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi?",
+      "options": [
+        "1795-yil",
+        "1830-yil",
+        "1805-yil",
+        "1807-yil"
+      ],
+      "answer": 1,
+      "explain": "1830-yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik) mavzusiga ko'ra 1830-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 2,
+      "explain": "1830-yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): ____-yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi. (Yilni kiriting)",
+      "answer": [
+        "1830",
+        "1830-yil",
+        "1830-yilda"
+      ],
+      "explain": "1830-yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1830-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1830-yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi.",
+      "answer": true,
+      "explain": "To'g'ri. 1830-yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795-yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1795-yilda emas, 1830-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik xronologiyasiga ko'ra 1805-yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1830-yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): qaysi yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi?",
+      "options": [
+        "1832-yil",
+        "1795-yil",
+        "1805-yil",
+        "1807-yil"
+      ],
+      "answer": 0,
+      "explain": "1832-yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik) mavzusiga ko'ra 1832-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 1,
+      "explain": "1832-yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): ____-yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1832",
+        "1832-yil",
+        "1832-yilda"
+      ],
+      "explain": "1832-yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1832-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1832-yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1832-yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795-yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1795-yilda emas, 1832-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik xronologiyasiga ko'ra 1805-yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1832-yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): qaysi yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi?",
+      "options": [
+        "1795-yil",
+        "1805-yil",
+        "1807-yil",
+        "1847-yil"
+      ],
+      "answer": 3,
+      "explain": "1847-yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik) mavzusiga ko'ra 1847-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "G'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi",
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 0,
+      "explain": "1847-yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): ____-yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi. (Yilni kiriting)",
+      "answer": [
+        "1847",
+        "1847-yil",
+        "1847-yilda"
+      ],
+      "explain": "1847-yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «G'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1847-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1847-yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. 1847-yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795-yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1795-yilda emas, 1847-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik xronologiyasiga ko'ra 1805-yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1847-yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): qaysi yilda Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi?",
+      "options": [
+        "1795-yil",
+        "1805-yil",
+        "1848-yil",
+        "1807-yil"
+      ],
+      "answer": 2,
+      "explain": "1848-yilda Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik) mavzusiga ko'ra 1848-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi",
+        "Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi"
+      ],
+      "answer": 3,
+      "explain": "1848-yilda Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): ____-yilda Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi. (Yilni kiriting)",
+      "answer": [
+        "1848",
+        "1848-yil",
+        "1848-yilda"
+      ],
+      "explain": "1848-yilda Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1848-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1848-yilda Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1848-yilda Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795-yilda Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1795-yilda emas, 1848-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik xronologiyasiga ko'ra 1805-yilda Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1848-yilda Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): qaysi yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi)?",
+      "options": [
+        "1795-yil",
+        "1859-yil",
+        "1805-yil",
+        "1807-yil"
+      ],
+      "answer": 1,
+      "explain": "1859-yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik) mavzusiga ko'ra 1859-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi)",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 2,
+      "explain": "1859-yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): ____-yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi). (Yilni kiriting)",
+      "answer": [
+        "1859",
+        "1859-yil",
+        "1859-yilda"
+      ],
+      "explain": "1859-yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi)» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1859-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1859-yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi).",
+      "answer": true,
+      "explain": "To'g'ri. 1859-yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795-yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi).",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1795-yilda emas, 1859-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik xronologiyasiga ko'ra 1805-yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi).",
+      "answer": false,
+      "explain": "Noto'g'ri. 1859-yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Liviyada Yusuf Qaramoniy boshqar...» hamda «AQSHda ham tashqi qul savdosini...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi",
+        "AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi"
+      ],
+      "answer": 0,
+      "explain": "1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Liviyada Yusuf Qaramoniy boshqar...» hamda «AQSHda ham tashqi qul savdosini...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi",
+        "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 1,
+      "explain": "1808-yilda AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Buyuk Britaniya parlamenti qul s...» hamda «Fransiya qo'shinlari Shimoliy Af...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi",
+        "Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha)",
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi",
+        "Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi"
+      ],
+      "answer": 2,
+      "explain": "1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Buyuk Britaniya parlamenti qul s...» hamda «Fransiya qo'shinlari Shimoliy Af...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi",
+        "AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi",
+        "Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha)",
+        "Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi"
+      ],
+      "answer": 3,
+      "explain": "1830-yilda Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Misr hukmdori Muhammad Ali Sudan...» hamda «G'arbiy Afrikada sobiq qullar to...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha)",
+        "Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi",
+        "Jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi",
+        "G'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi"
+      ],
+      "answer": 0,
+      "explain": "1820-yilda Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha) — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Misr hukmdori Muhammad Ali Sudan...» hamda «G'arbiy Afrikada sobiq qullar to...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha)",
+        "G'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi",
+        "Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi",
+        "Jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi"
+      ],
+      "answer": 1,
+      "explain": "1847-yilda g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Jazoirda fransuz bosqinchilariga...» hamda «Misrda Suvaysh kanalini qazish i...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "G'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi",
+        "Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi",
+        "Jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi",
+        "Misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi)"
+      ],
+      "answer": 2,
+      "explain": "1832-yilda jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Jazoirda fransuz bosqinchilariga...» hamda «Misrda Suvaysh kanalini qazish i...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi",
+        "G'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi",
+        "Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi",
+        "Misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi)"
+      ],
+      "answer": 3,
+      "explain": "1859-yilda misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi) — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi voqeasi misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1795-yil 1805-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi voqeasi liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi, 1805-yilda esa misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi voqeasi Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1795-yil 1807-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi voqeasi liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi, 1807-yilda esa Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi voqeasi AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1795-yil 1808-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi voqeasi liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi, 1808-yilda esa AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi voqeasi Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1795-yil 1820-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha) voqeasi liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi, 1820-yilda esa Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi voqeasi Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1795-yil 1830-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi voqeasi liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi, 1830-yilda esa Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi voqeasi jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1795-yil 1832-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi voqeasi liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi, 1832-yilda esa jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi voqeasi g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1795-yil 1847-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi voqeasi liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi, 1847-yilda esa g'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Liberiya davlati e'lon qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi voqeasi Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1795-yil 1848-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi voqeasi liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi, 1848-yilda esa Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tarkibiy qismi deb e'lon qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi voqeasi misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1795-yil 1859-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi) voqeasi liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi, 1859-yilda esa misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunlandi).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi voqeasi Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1805-yil 1807-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi voqeasi misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi, 1807-yilda esa Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi voqeasi AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1805-yil 1808-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi voqeasi misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi, 1808-yilda esa AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi voqeasi Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1805-yil 1820-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha) voqeasi misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi, 1820-yilda esa Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi voqeasi Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1805-yil 1830-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi voqeasi misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi, 1830-yilda esa Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshlab poytaxtini egalladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): xronologiyaga ko'ra misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi voqeasi jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1805-yil 1832-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy ketma-ketlikka ko'ra jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi voqeasi misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi, 1832-yilda esa jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligida ozodlik urushi boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Muhammad Ali (Misr)",
+        "Amir Abdulqodir",
+        "Yusuf Qaramoniy",
+        "Muhammad ben Ali as-Senusiy"
+      ],
+      "answer": 0,
+      "explain": "Muhammad Ali (1769–1849) mamluklar yerini musodara qildi, harbiy maktab, majburiy ta'lim va qand-qurol zavodlari qurdirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Muhammad Ali (Misr)ning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon",
+        "1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho",
+        "1795–1832-yillarda Liviyani boshqargan Qaramoniylar sulolasi hukmdori",
+        "XIX asr 40–50-yillarida Liviya va Sahroda keng yoyilgan Senusiyya diniy-siyosiy harakati asoschisi"
+      ],
+      "answer": 1,
+      "explain": "Muhammad Ali (1769–1849) mamluklar yerini musodara qildi, harbiy maktab, majburiy ta'lim va qand-qurol zavodlari qurdirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Muhammad Ali (Misr)"
+      ],
+      "explain": "Muhammad Ali (1769–1849) mamluklar yerini musodara qildi, harbiy maktab, majburiy ta'lim va qand-qurol zavodlari qurdirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Muhammad Ali (1769–1849) mamluklar yerini musodara qildi, harbiy maktab, majburiy ta'lim va qand-qurol zavodlari qurdirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Muhammad Ali (1769–1849) mamluklar yerini musodara qildi, harbiy maktab, majburiy ta'lim va qand-qurol zavodlari qurdirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Muhammad Ali (Misr) — 1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon.",
+      "answer": false,
+      "explain": "Noto'g'ri. Muhammad Ali (1769–1849) mamluklar yerini musodara qildi, harbiy maktab, majburiy ta'lim va qand-qurol zavodlari qurdirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikda Muhammad Ali (Misr) «1795–1832-yillarda Liviyani boshqargan Qaramoniylar sulolasi hukmdori» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Muhammad Ali (1769–1849) mamluklar yerini musodara qildi, harbiy maktab, majburiy ta'lim va qand-qurol zavodlari qurdirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Muhammad Ali (Misr)",
+        "Yusuf Qaramoniy",
+        "Amir Abdulqodir",
+        "Muhammad ben Ali as-Senusiy"
+      ],
+      "answer": 2,
+      "explain": "Amir Abdulqodir 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Amir Abdulqodirning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho",
+        "1795–1832-yillarda Liviyani boshqargan Qaramoniylar sulolasi hukmdori",
+        "XIX asr 40–50-yillarida Liviya va Sahroda keng yoyilgan Senusiyya diniy-siyosiy harakati asoschisi",
+        "1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon"
+      ],
+      "answer": 3,
+      "explain": "Amir Abdulqodir 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Amir Abdulqodir"
+      ],
+      "explain": "Amir Abdulqodir 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Amir Abdulqodir 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. Amir Abdulqodir 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Amir Abdulqodir — 1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho.",
+      "answer": false,
+      "explain": "Noto'g'ri. Amir Abdulqodir 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikda Amir Abdulqodir «1795–1832-yillarda Liviyani boshqargan Qaramoniylar sulolasi hukmdori» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Amir Abdulqodir 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi».",
+      "options": [
+        "Amir Abdulqodir",
+        "Muhammad Ali (Misr)",
+        "Yusuf Qaramoniy",
+        "Muhammad ben Ali as-Senusiy"
+      ],
+      "answer": 0,
+      "explain": "Amir Abdulqodir 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «____ 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Amir Abdulqodir"
+      ],
+      "explain": "Amir Abdulqodir 1834-yilgi bitimdan so'ng ham kurashni davom ettirib Jazoir xalqi mustaqilligi ramziga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1795–1832-yillarda Liviyani boshqargan Qaramoniylar sulolasi hukmdori» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Muhammad Ali (Misr)",
+        "Yusuf Qaramoniy",
+        "Amir Abdulqodir",
+        "Muhammad ben Ali as-Senusiy"
+      ],
+      "answer": 1,
+      "explain": "Undan keyin Ali Qaramoniy taxtga chiqqach, 1835-yilda Mustafo Najib posho Qaramoniylarni ag'dardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Yusuf Qaramoniyning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho",
+        "1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon",
+        "1795–1832-yillarda Liviyani boshqargan Qaramoniylar sulolasi hukmdori",
+        "XIX asr 40–50-yillarida Liviya va Sahroda keng yoyilgan Senusiyya diniy-siyosiy harakati asoschisi"
+      ],
+      "answer": 2,
+      "explain": "Undan keyin Ali Qaramoniy taxtga chiqqach, 1835-yilda Mustafo Najib posho Qaramoniylarni ag'dardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1795–1832-yillarda Liviyani boshqargan Qaramoniylar sulolasi hukmdori bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Yusuf Qaramoniy"
+      ],
+      "explain": "Undan keyin Ali Qaramoniy taxtga chiqqach, 1835-yilda Mustafo Najib posho Qaramoniylarni ag'dardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Undan keyin Ali Qaramoniy taxtga chiqqach, 1835-yilda Mustafo Najib posho Qaramoniylarni ag'dardi.",
+      "answer": true,
+      "explain": "To'g'ri. Undan keyin Ali Qaramoniy taxtga chiqqach, 1835-yilda Mustafo Najib posho Qaramoniylarni ag'dardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Yusuf Qaramoniy — 1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho.",
+      "answer": false,
+      "explain": "Noto'g'ri. Undan keyin Ali Qaramoniy taxtga chiqqach, 1835-yilda Mustafo Najib posho Qaramoniylarni ag'dardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikda Yusuf Qaramoniy «1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Undan keyin Ali Qaramoniy taxtga chiqqach, 1835-yilda Mustafo Najib posho Qaramoniylarni ag'dardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «XIX asr 40–50-yillarida Liviya va Sahroda keng yoyilgan Senusiyya diniy-siyosiy harakati asoschisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Muhammad Ali (Misr)",
+        "Amir Abdulqodir",
+        "Yusuf Qaramoniy",
+        "Muhammad ben Ali as-Senusiy"
+      ],
+      "answer": 3,
+      "explain": "Senusiyya harakati Liviyada chet el ta'siriga qarshi birlik va diniy uyg'onish tayanchiga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Muhammad ben Ali as-Senusiyning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "XIX asr 40–50-yillarida Liviya va Sahroda keng yoyilgan Senusiyya diniy-siyosiy harakati asoschisi",
+        "1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho",
+        "1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon",
+        "1795–1832-yillarda Liviyani boshqargan Qaramoniylar sulolasi hukmdori"
+      ],
+      "answer": 0,
+      "explain": "Senusiyya harakati Liviyada chet el ta'siriga qarshi birlik va diniy uyg'onish tayanchiga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): XIX asr 40–50-yillarida Liviya va Sahroda keng yoyilgan Senusiyya diniy-siyosiy harakati asoschisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Muhammad ben Ali as-Senusiy"
+      ],
+      "explain": "Senusiyya harakati Liviyada chet el ta'siriga qarshi birlik va diniy uyg'onish tayanchiga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Senusiyya harakati Liviyada chet el ta'siriga qarshi birlik va diniy uyg'onish tayanchiga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. Senusiyya harakati Liviyada chet el ta'siriga qarshi birlik va diniy uyg'onish tayanchiga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Muhammad ben Ali as-Senusiy — 1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho.",
+      "answer": false,
+      "explain": "Noto'g'ri. Senusiyya harakati Liviyada chet el ta'siriga qarshi birlik va diniy uyg'onish tayanchiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikda Muhammad ben Ali as-Senusiy «1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Senusiyya harakati Liviyada chet el ta'siriga qarshi birlik va diniy uyg'onish tayanchiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «31-mavzu yakunida keltirilgan Afrika ozodligi mavzusidagi «Qabrdagi gulchambar» romani muallifi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Muhammad Ali (Misr)",
+        "Piter Abrahams",
+        "Amir Abdulqodir",
+        "Yusuf Qaramoniy"
+      ],
+      "answer": 1,
+      "explain": "Janubiy afrikalik yozuvchi Piter Abrahamsning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Piter Abrahamsning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho",
+        "1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon",
+        "31-mavzu yakunida keltirilgan Afrika ozodligi mavzusidagi «Qabrdagi gulchambar» romani muallifi",
+        "1795–1832-yillarda Liviyani boshqargan Qaramoniylar sulolasi hukmdori"
+      ],
+      "answer": 2,
+      "explain": "Janubiy afrikalik yozuvchi Piter Abrahamsning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 31-mavzu yakunida keltirilgan Afrika ozodligi mavzusidagi «Qabrdagi gulchambar» romani muallifi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Piter Abrahams"
+      ],
+      "explain": "Janubiy afrikalik yozuvchi Piter Abrahamsning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Janubiy afrikalik yozuvchi Piter Abrahamsning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan.",
+      "answer": true,
+      "explain": "To'g'ri. Janubiy afrikalik yozuvchi Piter Abrahamsning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Piter Abrahams — 1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vakayi al-Misr» gazetasini chiqargan posho.",
+      "answer": false,
+      "explain": "Noto'g'ri. Janubiy afrikalik yozuvchi Piter Abrahamsning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikda Piter Abrahams «1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik ozodlik kurashini boshqargan qahramon» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Janubiy afrikalik yozuvchi Piter Abrahamsning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Janubiy afrikalik yozuvchi ____ning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan».",
+      "options": [
+        "Muhammad Ali (Misr)",
+        "Amir Abdulqodir",
+        "Yusuf Qaramoniy",
+        "Piter Abrahams"
+      ],
+      "answer": 3,
+      "explain": "Janubiy afrikalik yozuvchi Piter Abrahamsning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Janubiy afrikalik yozuvchi ____ning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Piter Abrahams"
+      ],
+      "explain": "Janubiy afrikalik yozuvchi Piter Abrahamsning «Qabrdagi gulchambar» asari darslik topshiriqlarida tilga olingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Rasizm",
+        "Intervensiya",
+        "Al-Vakayi al-Misr",
+        "Liberiya"
+      ],
+      "answer": 0,
+      "explain": "Rasizm — inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Rasizm» atamasi nimani anglatadi?",
+      "options": [
+        "Bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi",
+        "Inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash",
+        "Muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta",
+        "1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri"
+      ],
+      "answer": 1,
+      "explain": "Rasizm — inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Rasizm",
+        "rasizm"
+      ],
+      "explain": "Rasizm — inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Rasizm» tushunchasi «inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Rasizm — inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Rasizm» deganda bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Rasizm — inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy lug'atga ko'ra «Rasizm» — «muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Rasizm — inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Rasizm",
+        "Al-Vakayi al-Misr",
+        "Intervensiya",
+        "Liberiya"
+      ],
+      "answer": 2,
+      "explain": "Intervensiya — bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Intervensiya» atamasi nimani anglatadi?",
+      "options": [
+        "Inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash",
+        "Muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta",
+        "1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri",
+        "Bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi"
+      ],
+      "answer": 3,
+      "explain": "Intervensiya — bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Intervensiya",
+        "intervensiya"
+      ],
+      "explain": "Intervensiya — bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Intervensiya» tushunchasi «bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Intervensiya — bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Intervensiya» deganda inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Intervensiya — bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy lug'atga ko'ra «Intervensiya» — «muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Intervensiya — bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Al-Vakayi al-Misr",
+        "Rasizm",
+        "Intervensiya",
+        "Liberiya"
+      ],
+      "answer": 0,
+      "explain": "Al-Vakayi al-Misr — muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Al-Vakayi al-Misr» atamasi nimani anglatadi?",
+      "options": [
+        "Inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash",
+        "Muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta",
+        "Bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi",
+        "1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri"
+      ],
+      "answer": 1,
+      "explain": "Al-Vakayi al-Misr — muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Al-Vakayi al-Misr",
+        "al-vakayi al-misr"
+      ],
+      "explain": "Al-Vakayi al-Misr — muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Al-Vakayi al-Misr» tushunchasi «muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Al-Vakayi al-Misr — muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Al-Vakayi al-Misr» deganda inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Al-Vakayi al-Misr — muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy lug'atga ko'ra «Al-Vakayi al-Misr» — «bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Al-Vakayi al-Misr — muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Rasizm",
+        "Intervensiya",
+        "Liberiya",
+        "Al-Vakayi al-Misr"
+      ],
+      "answer": 2,
+      "explain": "Liberiya — 1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Liberiya» atamasi nimani anglatadi?",
+      "options": [
+        "Inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash",
+        "Bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi",
+        "Muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi birinchi rasmiy gazeta",
+        "1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri"
+      ],
+      "answer": 3,
+      "explain": "Liberiya — 1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Liberiya",
+        "liberiya"
+      ],
+      "explain": "Liberiya — 1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Liberiya» tushunchasi «1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Liberiya — 1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Liberiya» deganda inson irqlarining teng emasligi haqidagi g'ayriilmiy va mustamlakachilikni oqlovchi kamsituvchi qarash tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Liberiya — 1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): tarixiy lug'atga ko'ra «Liberiya» — «bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli kuch bilan zo'ravonlik aralashuvi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Liberiya — 1847-yilda mustaqil respublika bo'lgan va Efiopiya bilan birga Afrikada mustaqil qolgan ikki davlatdan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Misr hukmdori Muhammad Ali posho (1805–1849) mamlakatni kuchaytirish uchun qanday tub islohotlarni amalga oshirdi?",
+      "options": [
+        "Mamluklar yerini musodara qildi, harbiy yurt va majburiy ta'lim ochdi, qand-qurol-temir zavodlari va «Al-Vakayi al-Misr» gazetasini yo'lga qo'ydi",
+        "Maktablarni yopib, barcha zavodlarni sotib yubordi",
+        "Mamluklarga cheksiz hokimiyat berdi",
+        "Gazeta chop etishni taqiqladi"
+      ],
+      "answer": 0,
+      "explain": "Muhammad Ali Misrni kuchli mintaqaviy davlatga aylantirib, 1820–1822-yillarda Sudanni ham zabt etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Misr hukmdori Muhammad Ali posho (1805–1849) mamlakatni kuchaytirish uchun qanday tub islohotlarni amalga oshirdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Muhammad Ali posho faqat qishloq xo'jaligini saqlab, sanoat va harbiy o'quv yurtlari qurilishiga qarshi chiqqan",
+        "Muhammad Ali posho Misrda ilk arab gazetasi — «Al-Vakayi al-Misr»ni chiqarib, zamonaviy sanoat va majburiy ta'limni boshladi",
+        "Suvaysh kanali 1798-yilda 6 oy ichida qurib bitkazilgan",
+        "Qul savdosi tufayli 1650–1850-yillarda Afrika aholisi Yevropadan tezroq o'sgan"
+      ],
+      "answer": 1,
+      "explain": "Muhammad Ali Misrni kuchli mintaqaviy davlatga aylantirib, 1820–1822-yillarda Sudanni ham zabt etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Misr hukmdori Muhammad Ali posho (1805–1849) mamlakatni kuchaytirish uchun qanday tub islohotlarni amalga oshirdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "Muhammad Ali posho faqat qishloq xo'jaligini saqlab, sanoat va harbiy o'quv yurtlari qurilishiga qarshi chiqqan",
+        "1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Muhammad Ali posho faqat qishloq xo'jaligini saqlab, sanoat va harbiy o'quv yurtlari qurilishiga qarshi chiqqan. Aslida: Muhammad Ali Misrni kuchli mintaqaviy davlatga aylantirib, 1820–1822-yillarda Sudanni ham zabt etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Muhammad Ali posho Misrda ilk arab gazetasi — «Al-Vakayi al-Misr»ni chiqarib, zamonaviy sanoat va majburiy ta'limni boshladi.",
+      "answer": true,
+      "explain": "To'g'ri. Muhammad Ali Misrni kuchli mintaqaviy davlatga aylantirib, 1820–1822-yillarda Sudanni ham zabt etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Muhammad Ali posho faqat qishloq xo'jaligini saqlab, sanoat va harbiy o'quv yurtlari qurilishiga qarshi chiqqan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Muhammad Ali Misrni kuchli mintaqaviy davlatga aylantirib, 1820–1822-yillarda Sudanni ham zabt etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik izohiga ko'ra muhammad Ali Misrni kuchli mintaqaviy davlatga aylantirib, 1820–1822-yillarda Sudanni ham zabt etdi.",
+      "answer": true,
+      "explain": "To'g'ri. Muhammad Ali Misrni kuchli mintaqaviy davlatga aylantirib, 1820–1822-yillarda Sudanni ham zabt etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1859-yilda boshlanib, 10 yil davomida qurilgan va 1869-yilda ochilgan jahon ahamiyatidagi inshoot qaysi?",
+      "options": [
+        "Panama kanali",
+        "Eri kanali",
+        "Vena temiryo'li",
+        "Misrdagi Suvaysh kanali"
+      ],
+      "answer": 3,
+      "explain": "Kanalning qurilishi minglab misrlik dehqonlarning og'ir mehnati hisobiga amalga oshirildi va keyinchalik Britaniya-Fransiya nazoratiga o'tdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1859-yilda boshlanib, 10 yil davomida qurilgan va 1869-yilda ochilgan jahon ahamiyatidagi inshoot qaysi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1859–1869-yillarda qazilgan Suvaysh kanali O'rtayer dengizini Qizil dengiz bilan bog'lab dengiz yo'lini keskin qisqartirdi",
+        "Suvaysh kanali 1798-yilda 6 oy ichida qurib bitkazilgan",
+        "Muhammad Ali posho faqat qishloq xo'jaligini saqlab, sanoat va harbiy o'quv yurtlari qurilishiga qarshi chiqqan",
+        "Qul savdosi tufayli 1650–1850-yillarda Afrika aholisi Yevropadan tezroq o'sgan"
+      ],
+      "answer": 0,
+      "explain": "Kanalning qurilishi minglab misrlik dehqonlarning og'ir mehnati hisobiga amalga oshirildi va keyinchalik Britaniya-Fransiya nazoratiga o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1859-yilda boshlanib, 10 yil davomida qurilgan va 1869-yilda ochilgan jahon ahamiyatidagi inshoot qaysi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "Suvaysh kanali 1798-yilda 6 oy ichida qurib bitkazilgan",
+        "1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Suvaysh kanali 1798-yilda 6 oy ichida qurib bitkazilgan. Aslida: Kanalning qurilishi minglab misrlik dehqonlarning og'ir mehnati hisobiga amalga oshirildi va keyinchalik Britaniya-Fransiya nazoratiga o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1859–1869-yillarda qazilgan Suvaysh kanali O'rtayer dengizini Qizil dengiz bilan bog'lab dengiz yo'lini keskin qisqartirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Kanalning qurilishi minglab misrlik dehqonlarning og'ir mehnati hisobiga amalga oshirildi va keyinchalik Britaniya-Fransiya nazoratiga o'tdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Suvaysh kanali 1798-yilda 6 oy ichida qurib bitkazilgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kanalning qurilishi minglab misrlik dehqonlarning og'ir mehnati hisobiga amalga oshirildi va keyinchalik Britaniya-Fransiya nazoratiga o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik izohiga ko'ra kanalning qurilishi minglab misrlik dehqonlarning og'ir mehnati hisobiga amalga oshirildi va keyinchalik Britaniya-Fransiya nazoratiga o'tdi.",
+      "answer": true,
+      "explain": "To'g'ri. Kanalning qurilishi minglab misrlik dehqonlarning og'ir mehnati hisobiga amalga oshirildi va keyinchalik Britaniya-Fransiya nazoratiga o'tdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1859–1869-yillarda Misr hududida qazilgan va dengiz savdosini inqilob qilgan kanal ____ kanali edi. (Nomini yozing)",
+      "answer": [
+        "Suvaysh"
+      ],
+      "explain": "Kanalning qurilishi minglab misrlik dehqonlarning og'ir mehnati hisobiga amalga oshirildi va keyinchalik Britaniya-Fransiya nazoratiga o'tdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): BMT ma'lumotlariga ko'ra qul savdosi avj olgan 1650–1850-yillar oralig'ida Afrika qit'asi aholisi soni qanday ahvolda qolgan?",
+      "options": [
+        "10 barobar ko'payib 1 milliardga yetgan",
+        "500 millionga yetgan",
+        "200 yil davomida 100 million kishida turib qolib, deyarli o'smagan",
+        "5 milliongacha kamaygan"
+      ],
+      "answer": 2,
+      "explain": "Vaholanki shu yillarda Yevropa va Osiyo aholisi keskin o'sayotgan edi; Afrika qul ovi tufayli eng yosh aholisidan ayrilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «BMT ma'lumotlariga ko'ra qul savdosi avj olgan 1650–1850-yillar oralig'ida Afrika qit'asi aholisi soni qanday ahvolda qolgan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Qul savdosi tufayli 1650–1850-yillarda Afrika aholisi Yevropadan tezroq o'sgan",
+        "Muhammad Ali posho faqat qishloq xo'jaligini saqlab, sanoat va harbiy o'quv yurtlari qurilishiga qarshi chiqqan",
+        "Suvaysh kanali 1798-yilda 6 oy ichida qurib bitkazilgan",
+        "BMT ma'lumotlariga binoan 1650–1850-yillarda Afrikada aholi o'sishi to'xtab, 100 million atrofida turib qolgan"
+      ],
+      "answer": 3,
+      "explain": "Vaholanki shu yillarda Yevropa va Osiyo aholisi keskin o'sayotgan edi; Afrika qul ovi tufayli eng yosh aholisidan ayrilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «BMT ma'lumotlariga ko'ra qul savdosi avj olgan 1650–1850-yillar oralig'ida Afrika qit'asi aholisi soni qanday ahvolda qolgan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Qul savdosi tufayli 1650–1850-yillarda Afrika aholisi Yevropadan tezroq o'sgan",
+        "1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Qul savdosi tufayli 1650–1850-yillarda Afrika aholisi Yevropadan tezroq o'sgan. Aslida: Vaholanki shu yillarda Yevropa va Osiyo aholisi keskin o'sayotgan edi; Afrika qul ovi tufayli eng yosh aholisidan ayrilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): BMT ma'lumotlariga binoan 1650–1850-yillarda Afrikada aholi o'sishi to'xtab, 100 million atrofida turib qolgan.",
+      "answer": true,
+      "explain": "To'g'ri. Vaholanki shu yillarda Yevropa va Osiyo aholisi keskin o'sayotgan edi; Afrika qul ovi tufayli eng yosh aholisidan ayrilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Qul savdosi tufayli 1650–1850-yillarda Afrika aholisi Yevropadan tezroq o'sgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Vaholanki shu yillarda Yevropa va Osiyo aholisi keskin o'sayotgan edi; Afrika qul ovi tufayli eng yosh aholisidan ayrilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik izohiga ko'ra vaholanki shu yillarda Yevropa va Osiyo aholisi keskin o'sayotgan edi; Afrika qul ovi tufayli eng yosh aholisidan ayrilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Vaholanki shu yillarda Yevropa va Osiyo aholisi keskin o'sayotgan edi; Afrika qul ovi tufayli eng yosh aholisidan ayrilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Qul savdosidan tushgan ulkan daromadlar evaziga qaysi Yevropa va Amerika port shaharlari tez rivojlanib boyigan?",
+      "options": [
+        "Moskva, Qozon va Buxoro",
+        "Bristol, Liverpul, Manchester, London, Nant, Ruan, Amsterdam, Nyu York, Yangi Orlean va Rio-de-Janeyro",
+        "Tehron, Kobul va Isfahon",
+        "Tokio, Kioto va Seul"
+      ],
+      "answer": 1,
+      "explain": "Afrikada esa aksincha Benin va Kongo kabi qadimiy davlatlar parchalanib, faqat ayrim qul sotuvchi Vida va Ardra kabi shaharlar boyigan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Qul savdosidan tushgan ulkan daromadlar evaziga qaysi Yevropa va Amerika port shaharlari tez rivojlanib boyigan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Qul savdosi Yevropaning birorta ham shahri iqtisodiyotiga foyda keltirmagan",
+        "Muhammad Ali posho faqat qishloq xo'jaligini saqlab, sanoat va harbiy o'quv yurtlari qurilishiga qarshi chiqqan",
+        "Liverpul, Bristol, Nant, Ruan va Nyu York kabi port shaharlarining yuksalishida qul savdosi daromadlari katta rol o'ynagan",
+        "Suvaysh kanali 1798-yilda 6 oy ichida qurib bitkazilgan"
+      ],
+      "answer": 2,
+      "explain": "Afrikada esa aksincha Benin va Kongo kabi qadimiy davlatlar parchalanib, faqat ayrim qul sotuvchi Vida va Ardra kabi shaharlar boyigan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Qul savdosidan tushgan ulkan daromadlar evaziga qaysi Yevropa va Amerika port shaharlari tez rivojlanib boyigan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi",
+        "Qul savdosi Yevropaning birorta ham shahri iqtisodiyotiga foyda keltirmagan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Qul savdosi Yevropaning birorta ham shahri iqtisodiyotiga foyda keltirmagan. Aslida: Afrikada esa aksincha Benin va Kongo kabi qadimiy davlatlar parchalanib, faqat ayrim qul sotuvchi Vida va Ardra kabi shaharlar boyigan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Liverpul, Bristol, Nant, Ruan va Nyu York kabi port shaharlarining yuksalishida qul savdosi daromadlari katta rol o'ynagan.",
+      "answer": true,
+      "explain": "To'g'ri. Afrikada esa aksincha Benin va Kongo kabi qadimiy davlatlar parchalanib, faqat ayrim qul sotuvchi Vida va Ardra kabi shaharlar boyigan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Qul savdosi Yevropaning birorta ham shahri iqtisodiyotiga foyda keltirmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Afrikada esa aksincha Benin va Kongo kabi qadimiy davlatlar parchalanib, faqat ayrim qul sotuvchi Vida va Ardra kabi shaharlar boyigan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik izohiga ko'ra Afrikada esa aksincha Benin va Kongo kabi qadimiy davlatlar parchalanib, faqat ayrim qul sotuvchi Vida va Ardra kabi shaharlar boyigan.",
+      "answer": true,
+      "explain": "To'g'ri. Afrikada esa aksincha Benin va Kongo kabi qadimiy davlatlar parchalanib, faqat ayrim qul sotuvchi Vida va Ardra kabi shaharlar boyigan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1800–1870-yillarda yevropaliklar Afrika ichkarisini o'rganish va bo'lib olish uchun nechadan ortiq ilmiy-geografik ekspeditsiya uyushtirdilar?",
+      "options": [
+        "70 dan ortiq ekspeditsiyalar (Senegal, Gambiya, Niger, Chad, Tanganika va Viktoriya ko'llarigacha)",
+        "Atigi 1 ta ekspeditsiya",
+        "Birorta ham ekspeditsiya bo'lmagan",
+        "Faqat 3 ta ekspeditsiya"
+      ],
+      "answer": 0,
+      "explain": "Ekspeditsiyalar Afrikaning boy tabiiy zaxiralari va daryo yo'llarini aniqlab berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1800–1870-yillarda yevropaliklar Afrika ichkarisini o'rganish va bo'lib olish uchun nechadan ortiq ilmiy-geografik ekspeditsiya uyushtirdilar» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XIX asrda yevropaliklar Sahroyi Kabirdan janubga birorta ham ekspeditsiya yuborishmagan",
+        "1800–1870-yillardagi 70 dan ortiq ekspeditsiyalar Niger, Chad, Tanganika va Viktoriya ko'llarini xaritaga tushirib bosqinga yo'l ochdi",
+        "Muhammad Ali posho faqat qishloq xo'jaligini saqlab, sanoat va harbiy o'quv yurtlari qurilishiga qarshi chiqqan",
+        "Suvaysh kanali 1798-yilda 6 oy ichida qurib bitkazilgan"
+      ],
+      "answer": 1,
+      "explain": "Ekspeditsiyalar Afrikaning boy tabiiy zaxiralari va daryo yo'llarini aniqlab berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1800–1870-yillarda yevropaliklar Afrika ichkarisini o'rganish va bo'lib olish uchun nechadan ortiq ilmiy-geografik ekspeditsiya uyushtirdilar» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "XIX asrda yevropaliklar Sahroyi Kabirdan janubga birorta ham ekspeditsiya yuborishmagan",
+        "1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: XIX asrda yevropaliklar Sahroyi Kabirdan janubga birorta ham ekspeditsiya yuborishmagan. Aslida: Ekspeditsiyalar Afrikaning boy tabiiy zaxiralari va daryo yo'llarini aniqlab berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1800–1870-yillardagi 70 dan ortiq ekspeditsiyalar Niger, Chad, Tanganika va Viktoriya ko'llarini xaritaga tushirib bosqinga yo'l ochdi.",
+      "answer": true,
+      "explain": "To'g'ri. Ekspeditsiyalar Afrikaning boy tabiiy zaxiralari va daryo yo'llarini aniqlab berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): XIX asrda yevropaliklar Sahroyi Kabirdan janubga birorta ham ekspeditsiya yuborishmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ekspeditsiyalar Afrikaning boy tabiiy zaxiralari va daryo yo'llarini aniqlab berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik izohiga ko'ra ekspeditsiyalar Afrikaning boy tabiiy zaxiralari va daryo yo'llarini aniqlab berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Ekspeditsiyalar Afrikaning boy tabiiy zaxiralari va daryo yo'llarini aniqlab berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): XIX asr oxirigacha butun Afrika qit'asida rasmiy mustaqilligini saqlab qola olgan ikkita davlat qaysilar edi?",
+      "options": [
+        "Jazoir va Misr",
+        "Sudan va Tunis",
+        "Liviya va Marokash",
+        "Efiopiya va Liberiya (1847)"
+      ],
+      "answer": 3,
+      "explain": "Shuningdek o'tmishda Afrikada Gana, Mali, Songay va Monomotapa kabi buyuk sivilizatsiyalar gullab-yashnagan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «XIX asr oxirigacha butun Afrika qit'asida rasmiy mustaqilligini saqlab qola olgan ikkita davlat qaysilar edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XIX asr oxirida Afrikaning deyarli barcha hududi bo'lib olinganda faqat Efiopiya va Liberiya mustaqil bo'lib qoldi",
+        "XIX asrda butun Afrika davlatlari to'liq mustaqillikka erishgan edilar",
+        "Muhammad Ali posho faqat qishloq xo'jaligini saqlab, sanoat va harbiy o'quv yurtlari qurilishiga qarshi chiqqan",
+        "Suvaysh kanali 1798-yilda 6 oy ichida qurib bitkazilgan"
+      ],
+      "answer": 0,
+      "explain": "Shuningdek o'tmishda Afrikada Gana, Mali, Songay va Monomotapa kabi buyuk sivilizatsiyalar gullab-yashnagan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «XIX asr oxirigacha butun Afrika qit'asida rasmiy mustaqilligini saqlab qola olgan ikkita davlat qaysilar edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1795-yilda liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yirik geografik ekspeditsiyalar uyushtirildi",
+        "XIX asrda butun Afrika davlatlari to'liq mustaqillikka erishgan edilar",
+        "1805-yilda misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali posho hukmdor bo'ldi",
+        "1807-yilda Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qonunni qabul qildi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: XIX asrda butun Afrika davlatlari to'liq mustaqillikka erishgan edilar. Aslida: Shuningdek o'tmishda Afrikada Gana, Mali, Songay va Monomotapa kabi buyuk sivilizatsiyalar gullab-yashnagan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): XIX asr oxirida Afrikaning deyarli barcha hududi bo'lib olinganda faqat Efiopiya va Liberiya mustaqil bo'lib qoldi.",
+      "answer": true,
+      "explain": "To'g'ri. Shuningdek o'tmishda Afrikada Gana, Mali, Songay va Monomotapa kabi buyuk sivilizatsiyalar gullab-yashnagan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): XIX asrda butun Afrika davlatlari to'liq mustaqillikka erishgan edilar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Shuningdek o'tmishda Afrikada Gana, Mali, Songay va Monomotapa kabi buyuk sivilizatsiyalar gullab-yashnagan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik izohiga ko'ra shuningdek o'tmishda Afrikada Gana, Mali, Songay va Monomotapa kabi buyuk sivilizatsiyalar gullab-yashnagan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Shuningdek o'tmishda Afrikada Gana, Mali, Songay va Monomotapa kabi buyuk sivilizatsiyalar gullab-yashnagan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Qul savdosini qonun bilan taqiqlash yillariga oid qaysi sana xato berilgan?",
+      "options": [
+        "Buyuk Britaniyada 1807-yilda qul savdosi taqiqlandi",
+        "AQSHda 1808-yilda tashqi qul savdosi taqiqlandi",
+        "Rossiyada 1700-yilda Afrika qul savdosi taqiqlandi",
+        "Fransiyada 1848-yilda qul savdosi bekor qilindi"
+      ],
+      "answer": 2,
+      "explain": "Rossiya Afrika qul savdosida qatnashmagan; Buyuk Britaniya (1807), AQSH (1808) va Fransiya (1848) qul savdosini taqiqlagan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Rossiya Afrika qul savdosida qatnashmagan; Buyuk Britaniya (1807), AQSH (1808) va Fransiya (1848) qul savdosini taqiqlagan.",
+      "answer": true,
+      "explain": "To'g'ri. Rossiya Afrika qul savdosida qatnashmagan; Buyuk Britaniya (1807), AQSH (1808) va Fransiya (1848) qul savdosini taqiqlagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Muhammad Ali poshoning Misrda amalga oshirgan islohotlariga qaysi biri kirmaydi?",
+      "options": [
+        "Mamluklar yerlarini musodara qilish",
+        "Harbiy yurtlar va majburiy ta'limni joriy etish",
+        "Qand, qurol, temir zavodlari qurish va gazeta chiqarish",
+        "Mamluklar qo'shiniga mamlakatning barcha yerlarini bo'lib berish"
+      ],
+      "answer": 3,
+      "explain": "Muhammad Ali posho mamluklar hukmronligiga barham berib, ularning yerlarini davlat ixtiyoriga oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Muhammad Ali posho mamluklar hukmronligiga barham berib, ularning yerlarini davlat ixtiyoriga oldi.",
+      "answer": true,
+      "explain": "To'g'ri. Muhammad Ali posho mamluklar hukmronligiga barham berib, ularning yerlarini davlat ixtiyoriga oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): 1800–1870-yillardagi Afrika ekspeditsiyalari o'rgangan geografik obyektlar qatoriga qaysi biri kirmaydi?",
+      "options": [
+        "Taymir yarimoroli",
+        "Senegal, Gambiya va Niger daryolari",
+        "Chad ko'li, Kano va Sokoto",
+        "Tanganika va Viktoriya ko'llari"
+      ],
+      "answer": 0,
+      "explain": "Taymir yarimoroli Afrikada emas, Rossiyaning Shimoliy Muz okeani qirg'og'ida joylashgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Taymir yarimoroli Afrikada emas, Rossiyaning Shimoliy Muz okeani qirg'og'ida joylashgan.",
+      "answer": true,
+      "explain": "To'g'ri. Taymir yarimoroli Afrikada emas, Rossiyaning Shimoliy Muz okeani qirg'og'ida joylashgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Nima uchun Yevropa mamlakatlari (1807, 1808, 1848-yillar) rasman qul savdosini taqiqlaganidan keyin ham Afrikaga mustamlakachilik bosimi kuchaydi?",
+      "options": [
+        "Afrikada qul savdosi butunlay tugab hamma davlatlar boyib ketgani uchun",
+        "Sanoatlashgan Yevropaga endi qullardan ko'ra Afrikaning o'zidagi arzon ishchi kuchi, foydali qazilmalar va bozorlar kerak bo'lgani uchun",
+        "Yevropada fabrikalar yopilgani uchun",
+        "Afrika davlatlari Yevropani bosib olgani uchun"
+      ],
+      "answer": 1,
+      "explain": "XIX asr ikkinchi yarmida Yevropa kapitali Afrikani hududiy bo'lib olish va xomashyo qazib olishga o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): Jazoir amiri Abdulqodir boshchiligidagi ozodlik urushi 1832-yildan boshlanib, 1839-yilda Konstantin va 1844-yilda Jazoir shahri atrofidagi janglar bilan davom etgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1848–1851-yillarda Fransiya Jazoirni o'z tarkibiy qismi deb e'lon qilsa-da, xalq qarshiligi uzoq davom etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik jadvali va tayanch ma'lumotlariga ko'ra «Muhammad Ali posho hokimiyatga keldi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "«Al-Vakayi al-Misr»",
+        "1832–1847-yillar",
+        "1805-yil Misr",
+        "1807 / 1808 / 1848"
+      ],
+      "answer": 2,
+      "explain": "1805-yil Misr — muhammad Ali posho hokimiyatga keldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): mavzudagi «1805-yil Misr» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Misrdagi birinchi arab gazetasi",
+        "Jazoirda amir Abdulqodir kurashi",
+        "Britaniya, AQSH, Fransiyada qul savdosi taqiqi",
+        "Muhammad Ali posho hokimiyatga keldi"
+      ],
+      "answer": 3,
+      "explain": "1805-yil Misr — muhammad Ali posho hokimiyatga keldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikning tayanch ma'lumotlarida «1805-yil Misr» — muhammad Ali posho hokimiyatga keldi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1805-yil Misr — muhammad Ali posho hokimiyatga keldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik ma'lumotlariga ko'ra «1805-yil Misr» — misrdagi birinchi arab gazetasi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1805-yil Misr» — muhammad Ali posho hokimiyatga keldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik jadvali va tayanch ma'lumotlariga ko'ra «Misrdagi birinchi arab gazetasi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "«Al-Vakayi al-Misr»",
+        "1805-yil Misr",
+        "1832–1847-yillar",
+        "1807 / 1808 / 1848"
+      ],
+      "answer": 0,
+      "explain": "«Al-Vakayi al-Misr» — misrdagi birinchi arab gazetasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): mavzudagi ««Al-Vakayi al-Misr»» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Muhammad Ali posho hokimiyatga keldi",
+        "Misrdagi birinchi arab gazetasi",
+        "Jazoirda amir Abdulqodir kurashi",
+        "Britaniya, AQSH, Fransiyada qul savdosi taqiqi"
+      ],
+      "answer": 1,
+      "explain": "«Al-Vakayi al-Misr» — misrdagi birinchi arab gazetasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikning tayanch ma'lumotlarida ««Al-Vakayi al-Misr»» — misrdagi birinchi arab gazetasi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Al-Vakayi al-Misr» — misrdagi birinchi arab gazetasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik ma'lumotlariga ko'ra ««Al-Vakayi al-Misr»» — muhammad Ali posho hokimiyatga keldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida ««Al-Vakayi al-Misr»» — misrdagi birinchi arab gazetasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik jadvali va tayanch ma'lumotlariga ko'ra «Jazoirda amir Abdulqodir kurashi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1805-yil Misr",
+        "«Al-Vakayi al-Misr»",
+        "1832–1847-yillar",
+        "1807 / 1808 / 1848"
+      ],
+      "answer": 2,
+      "explain": "1832–1847-yillar — jazoirda amir Abdulqodir kurashi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): mavzudagi «1832–1847-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Muhammad Ali posho hokimiyatga keldi",
+        "Misrdagi birinchi arab gazetasi",
+        "Britaniya, AQSH, Fransiyada qul savdosi taqiqi",
+        "Jazoirda amir Abdulqodir kurashi"
+      ],
+      "answer": 3,
+      "explain": "1832–1847-yillar — jazoirda amir Abdulqodir kurashi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikning tayanch ma'lumotlarida «1832–1847-yillar» — jazoirda amir Abdulqodir kurashi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1832–1847-yillar — jazoirda amir Abdulqodir kurashi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik ma'lumotlariga ko'ra «1832–1847-yillar» — muhammad Ali posho hokimiyatga keldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1832–1847-yillar» — jazoirda amir Abdulqodir kurashi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik jadvali va tayanch ma'lumotlariga ko'ra «Britaniya, AQSH, Fransiyada qul savdosi taqiqi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1807 / 1808 / 1848",
+        "1805-yil Misr",
+        "«Al-Vakayi al-Misr»",
+        "1832–1847-yillar"
+      ],
+      "answer": 0,
+      "explain": "1807 / 1808 / 1848 — Britaniya, AQSH, Fransiyada qul savdosi taqiqi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): mavzudagi «1807 / 1808 / 1848» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Muhammad Ali posho hokimiyatga keldi",
+        "Britaniya, AQSH, Fransiyada qul savdosi taqiqi",
+        "Misrdagi birinchi arab gazetasi",
+        "Jazoirda amir Abdulqodir kurashi"
+      ],
+      "answer": 1,
+      "explain": "1807 / 1808 / 1848 — Britaniya, AQSH, Fransiyada qul savdosi taqiqi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikning tayanch ma'lumotlarida «1807 / 1808 / 1848» — Britaniya, AQSH, Fransiyada qul savdosi taqiqi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1807 / 1808 / 1848 — Britaniya, AQSH, Fransiyada qul savdosi taqiqi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik ma'lumotlariga ko'ra «1807 / 1808 / 1848» — muhammad Ali posho hokimiyatga keldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1807 / 1808 / 1848» — Britaniya, AQSH, Fransiyada qul savdosi taqiqi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik jadvali va tayanch ma'lumotlariga ko'ra «Afrikadagi mustaqil ikki davlatdan biri» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1805-yil Misr",
+        "«Al-Vakayi al-Misr»",
+        "1847-yil Liberiya",
+        "1832–1847-yillar"
+      ],
+      "answer": 2,
+      "explain": "1847-yil Liberiya — afrikadagi mustaqil ikki davlatdan biri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): mavzudagi «1847-yil Liberiya» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Muhammad Ali posho hokimiyatga keldi",
+        "Misrdagi birinchi arab gazetasi",
+        "Jazoirda amir Abdulqodir kurashi",
+        "Afrikadagi mustaqil ikki davlatdan biri"
+      ],
+      "answer": 3,
+      "explain": "1847-yil Liberiya — afrikadagi mustaqil ikki davlatdan biri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikning tayanch ma'lumotlarida «1847-yil Liberiya» — afrikadagi mustaqil ikki davlatdan biri sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1847-yil Liberiya — afrikadagi mustaqil ikki davlatdan biri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik ma'lumotlariga ko'ra «1847-yil Liberiya» — muhammad Ali posho hokimiyatga keldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1847-yil Liberiya» — afrikadagi mustaqil ikki davlatdan biri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik jadvali va tayanch ma'lumotlariga ko'ra «Suvaysh kanali qurilishi (10 yil)» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1859–1869-yillar",
+        "1805-yil Misr",
+        "«Al-Vakayi al-Misr»",
+        "1832–1847-yillar"
+      ],
+      "answer": 0,
+      "explain": "1859–1869-yillar — suvaysh kanali qurilishi (10 yil).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): mavzudagi «1859–1869-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Muhammad Ali posho hokimiyatga keldi",
+        "Suvaysh kanali qurilishi (10 yil)",
+        "Misrdagi birinchi arab gazetasi",
+        "Jazoirda amir Abdulqodir kurashi"
+      ],
+      "answer": 1,
+      "explain": "1859–1869-yillar — suvaysh kanali qurilishi (10 yil).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikning tayanch ma'lumotlarida «1859–1869-yillar» — suvaysh kanali qurilishi (10 yil) sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1859–1869-yillar — suvaysh kanali qurilishi (10 yil).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik ma'lumotlariga ko'ra «1859–1869-yillar» — muhammad Ali posho hokimiyatga keldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1859–1869-yillar» — suvaysh kanali qurilishi (10 yil).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik jadvali va tayanch ma'lumotlariga ko'ra «1650–1850-yillarda o'smay qolgan Afrika aholisi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1805-yil Misr",
+        "«Al-Vakayi al-Misr»",
+        "100 million kishi",
+        "1832–1847-yillar"
+      ],
+      "answer": 2,
+      "explain": "100 million kishi — 1650–1850-yillarda o'smay qolgan Afrika aholisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): mavzudagi «100 million kishi» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Muhammad Ali posho hokimiyatga keldi",
+        "Misrdagi birinchi arab gazetasi",
+        "Jazoirda amir Abdulqodir kurashi",
+        "1650–1850-yillarda o'smay qolgan Afrika aholisi"
+      ],
+      "answer": 3,
+      "explain": "100 million kishi — 1650–1850-yillarda o'smay qolgan Afrika aholisi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikning tayanch ma'lumotlarida «100 million kishi» — 1650–1850-yillarda o'smay qolgan Afrika aholisi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 100 million kishi — 1650–1850-yillarda o'smay qolgan Afrika aholisi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik ma'lumotlariga ko'ra «100 million kishi» — muhammad Ali posho hokimiyatga keldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «100 million kishi» — 1650–1850-yillarda o'smay qolgan Afrika aholisi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Qabrdagi gulchambar» romani muallifi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "Piter Abrahams",
+        "1805-yil Misr",
+        "«Al-Vakayi al-Misr»",
+        "1832–1847-yillar"
+      ],
+      "answer": 0,
+      "explain": "Piter Abrahams — «Qabrdagi gulchambar» romani muallifi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): mavzudagi «Piter Abrahams» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Muhammad Ali posho hokimiyatga keldi",
+        "«Qabrdagi gulchambar» romani muallifi",
+        "Misrdagi birinchi arab gazetasi",
+        "Jazoirda amir Abdulqodir kurashi"
+      ],
+      "answer": 1,
+      "explain": "Piter Abrahams — «Qabrdagi gulchambar» romani muallifi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslikning tayanch ma'lumotlarida «Piter Abrahams» — «Qabrdagi gulchambar» romani muallifi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Piter Abrahams — «Qabrdagi gulchambar» romani muallifi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): darslik ma'lumotlariga ko'ra «Piter Abrahams» — muhammad Ali posho hokimiyatga keldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Piter Abrahams» — «Qabrdagi gulchambar» romani muallifi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «jazoirda fransuzlarga qarshi kurashgan amir» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Liberiya",
+        "Rasizm",
+        "Abdulqodir",
+        "Senusiyya"
+      ],
+      "answer": 2,
+      "explain": "Abdulqodir — jazoirda fransuzlarga qarshi kurashgan amir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «jazoirda fransuzlarga qarshi kurashgan amir» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Abdulqodir",
+        "abdulqodir",
+        "ABDULQODIR"
+      ],
+      "explain": "Abdulqodir — jazoirda fransuzlarga qarshi kurashgan amir.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Abdulqodir» tayanch atamasi/nomi «jazoirda fransuzlarga qarshi kurashgan amir» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Abdulqodir — jazoirda fransuzlarga qarshi kurashgan amir.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Abdulqodir» atamasi/nomi darslikda «1847-yilda tuzilgan mustaqil Afrika davlati» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Abdulqodir — jazoirda fransuzlarga qarshi kurashgan amir.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1847-yilda tuzilgan mustaqil Afrika davlati» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Abdulqodir",
+        "Rasizm",
+        "Senusiyya",
+        "Liberiya"
+      ],
+      "answer": 3,
+      "explain": "Liberiya — 1847-yilda tuzilgan mustaqil Afrika davlati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «1847-yilda tuzilgan mustaqil Afrika davlati» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Liberiya",
+        "liberiya",
+        "LIBERIYA"
+      ],
+      "explain": "Liberiya — 1847-yilda tuzilgan mustaqil Afrika davlati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Liberiya» tayanch atamasi/nomi «1847-yilda tuzilgan mustaqil Afrika davlati» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Liberiya — 1847-yilda tuzilgan mustaqil Afrika davlati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Liberiya» atamasi/nomi darslikda «jazoirda fransuzlarga qarshi kurashgan amir» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Liberiya — 1847-yilda tuzilgan mustaqil Afrika davlati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «irqlarni kamsituvchi g'ayriilmiy nazariya» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Rasizm",
+        "Abdulqodir",
+        "Liberiya",
+        "Senusiyya"
+      ],
+      "answer": 0,
+      "explain": "Rasizm — irqlarni kamsituvchi g'ayriilmiy nazariya.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «irqlarni kamsituvchi g'ayriilmiy nazariya» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Rasizm",
+        "rasizm",
+        "RASIZM"
+      ],
+      "explain": "Rasizm — irqlarni kamsituvchi g'ayriilmiy nazariya.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Rasizm» tayanch atamasi/nomi «irqlarni kamsituvchi g'ayriilmiy nazariya» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Rasizm — irqlarni kamsituvchi g'ayriilmiy nazariya.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Rasizm» atamasi/nomi darslikda «jazoirda fransuzlarga qarshi kurashgan amir» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Rasizm — irqlarni kamsituvchi g'ayriilmiy nazariya.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «liviyada yoyilgan diniy-siyosiy harakat» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Abdulqodir",
+        "Senusiyya",
+        "Liberiya",
+        "Rasizm"
+      ],
+      "answer": 1,
+      "explain": "Senusiyya — liviyada yoyilgan diniy-siyosiy harakat.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «liviyada yoyilgan diniy-siyosiy harakat» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Senusiyya",
+        "senusiyya",
+        "SENUSIYYA"
+      ],
+      "explain": "Senusiyya — liviyada yoyilgan diniy-siyosiy harakat.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Senusiyya» tayanch atamasi/nomi «liviyada yoyilgan diniy-siyosiy harakat» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Senusiyya — liviyada yoyilgan diniy-siyosiy harakat.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Senusiyya» atamasi/nomi darslikda «jazoirda fransuzlarga qarshi kurashgan amir» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Senusiyya — liviyada yoyilgan diniy-siyosiy harakat.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «ekspeditsiyalar o'rgangan ulkan Afrika ko'li» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Abdulqodir",
+        "Liberiya",
+        "Viktoriya",
+        "Rasizm"
+      ],
+      "answer": 2,
+      "explain": "Viktoriya — ekspeditsiyalar o'rgangan ulkan Afrika ko'li.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «ekspeditsiyalar o'rgangan ulkan Afrika ko'li» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Viktoriya",
+        "viktoriya",
+        "VIKTORIYA"
+      ],
+      "explain": "Viktoriya — ekspeditsiyalar o'rgangan ulkan Afrika ko'li.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Viktoriya» tayanch atamasi/nomi «ekspeditsiyalar o'rgangan ulkan Afrika ko'li» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Viktoriya — ekspeditsiyalar o'rgangan ulkan Afrika ko'li.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Viktoriya» atamasi/nomi darslikda «jazoirda fransuzlarga qarshi kurashgan amir» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Viktoriya — ekspeditsiyalar o'rgangan ulkan Afrika ko'li.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «XIX asrda xaritaga tushirilgan ko'l» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Abdulqodir",
+        "Liberiya",
+        "Rasizm",
+        "Tanganika"
+      ],
+      "answer": 3,
+      "explain": "Tanganika — XIX asrda xaritaga tushirilgan ko'l.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «XIX asrda xaritaga tushirilgan ko'l» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Tanganika",
+        "tanganika",
+        "TANGANIKA"
+      ],
+      "explain": "Tanganika — XIX asrda xaritaga tushirilgan ko'l.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Tanganika» tayanch atamasi/nomi «XIX asrda xaritaga tushirilgan ko'l» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Tanganika — XIX asrda xaritaga tushirilgan ko'l.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Tanganika» atamasi/nomi darslikda «jazoirda fransuzlarga qarshi kurashgan amir» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tanganika — XIX asrda xaritaga tushirilgan ko'l.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «g'arbiy Afrika ekspeditsiyalari borgan o'lka» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Sokoto",
+        "Abdulqodir",
+        "Liberiya",
+        "Rasizm"
+      ],
+      "answer": 0,
+      "explain": "Sokoto — g'arbiy Afrika ekspeditsiyalari borgan o'lka.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «g'arbiy Afrika ekspeditsiyalari borgan o'lka» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Sokoto",
+        "sokoto",
+        "SOKOTO"
+      ],
+      "explain": "Sokoto — g'arbiy Afrika ekspeditsiyalari borgan o'lka.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Sokoto» tayanch atamasi/nomi «g'arbiy Afrika ekspeditsiyalari borgan o'lka» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Sokoto — g'arbiy Afrika ekspeditsiyalari borgan o'lka.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Sokoto» atamasi/nomi darslikda «jazoirda fransuzlarga qarshi kurashgan amir» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Sokoto — g'arbiy Afrika ekspeditsiyalari borgan o'lka.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Yevropaliklar o'rgangan yirik Afrika daryosi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Abdulqodir",
+        "Niger",
+        "Liberiya",
+        "Rasizm"
+      ],
+      "answer": 1,
+      "explain": "Niger — Yevropaliklar o'rgangan yirik Afrika daryosi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Yevropaliklar o'rgangan yirik Afrika daryosi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Niger",
+        "niger",
+        "NIGER"
+      ],
+      "explain": "Niger — Yevropaliklar o'rgangan yirik Afrika daryosi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Niger» tayanch atamasi/nomi «Yevropaliklar o'rgangan yirik Afrika daryosi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Niger — Yevropaliklar o'rgangan yirik Afrika daryosi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Niger» atamasi/nomi darslikda «jazoirda fransuzlarga qarshi kurashgan amir» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Niger — Yevropaliklar o'rgangan yirik Afrika daryosi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «qul savdosi oqibatida tarqalgan Afrika davlati» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Abdulqodir",
+        "Liberiya",
+        "Benin",
+        "Rasizm"
+      ],
+      "answer": 2,
+      "explain": "Benin — qul savdosi oqibatida tarqalgan Afrika davlati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «qul savdosi oqibatida tarqalgan Afrika davlati» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Benin",
+        "benin",
+        "BENIN"
+      ],
+      "explain": "Benin — qul savdosi oqibatida tarqalgan Afrika davlati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Benin» tayanch atamasi/nomi «qul savdosi oqibatida tarqalgan Afrika davlati» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Benin — qul savdosi oqibatida tarqalgan Afrika davlati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Benin» atamasi/nomi darslikda «jazoirda fransuzlarga qarshi kurashgan amir» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Benin — qul savdosi oqibatida tarqalgan Afrika davlati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «liviyani 1795–1832-yillarda boshqargan Yusuf» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Abdulqodir",
+        "Liberiya",
+        "Rasizm",
+        "Qaramoniy"
+      ],
+      "answer": 3,
+      "explain": "Qaramoniy — liviyani 1795–1832-yillarda boshqargan Yusuf.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «liviyani 1795–1832-yillarda boshqargan Yusuf» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Qaramoniy",
+        "qaramoniy",
+        "QARAMONIY"
+      ],
+      "explain": "Qaramoniy — liviyani 1795–1832-yillarda boshqargan Yusuf.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Qaramoniy» tayanch atamasi/nomi «liviyani 1795–1832-yillarda boshqargan Yusuf» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Qaramoniy — liviyani 1795–1832-yillarda boshqargan Yusuf.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "31-mavzu (Afrika: XIX asrda mustamlakachilik): «Qaramoniy» atamasi/nomi darslikda «jazoirda fransuzlarga qarshi kurashgan amir» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Qaramoniy — liviyani 1795–1832-yillarda boshqargan Yusuf.",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "ABDULQODIR",
+      "Jazoirda fransuzlarga qarshi kurashgan amir"
+    ],
+    [
+      "LIBERIYA",
+      "1847-yilda tuzilgan mustaqil Afrika davlati"
+    ],
+    [
+      "RASIZM",
+      "Irqlarni kamsituvchi g'ayriilmiy nazariya"
+    ],
+    [
+      "SENUSIYYA",
+      "Liviyada yoyilgan diniy-siyosiy harakat"
+    ],
+    [
+      "VIKTORIYA",
+      "Ekspeditsiyalar o'rgangan ulkan Afrika ko'li"
+    ],
+    [
+      "TANGANIKA",
+      "XIX asrda xaritaga tushirilgan ko'l"
+    ],
+    [
+      "SOKOTO",
+      "G'arbiy Afrika ekspeditsiyalari borgan o'lka"
+    ],
+    [
+      "NIGER",
+      "Yevropaliklar o'rgangan yirik Afrika daryosi"
+    ],
+    [
+      "BENIN",
+      "Qul savdosi oqibatida tarqalgan Afrika davlati"
+    ],
+    [
+      "QARAMONIY",
+      "Liviyani 1795–1832-yillarda boshqargan Yusuf"
+    ],
+    [
+      "1805-yil Misr",
+      "Muhammad Ali posho hokimiyatga keldi"
+    ],
+    [
+      "«Al-Vakayi al-Misr»",
+      "Misrdagi birinchi arab gazetasi"
+    ],
+    [
+      "1832–1847-yillar",
+      "Jazoirda amir Abdulqodir kurashi"
+    ],
+    [
+      "1807 / 1808 / 1848",
+      "Britaniya, AQSH, Fransiyada qul savdosi taqiqi"
+    ],
+    [
+      "1847-yil Liberiya",
+      "Afrikadagi mustaqil ikki davlatdan biri"
+    ],
+    [
+      "1859–1869-yillar",
+      "Suvaysh kanali qurilishi (10 yil)"
+    ],
+    [
+      "100 million kishi",
+      "1650–1850-yillarda o'smay qolgan Afrika aholisi"
+    ],
+    [
+      "Piter Abrahams",
+      "«Qabrdagi gulchambar» romani muallifi"
+    ],
+    [
+      "Intervensiya",
+      "Bir yoki bir necha davlatning boshqa davlat ichki ishlariga qurolli"
+    ],
+    [
+      "Al-Vakayi al-Misr",
+      "Muhammad Ali posho davrida Misrda chop etilgan arab dunyosidagi biri"
+    ],
+    [
+      "Muhammad Ali (Misr)",
+      "1805–1849-yillarda Misrda zamonaviy islohotlar o'tkazgan va «Al-Vaka"
+    ],
+    [
+      "Amir Abdulqodir",
+      "1832–1847-yillarda Jazoirda fransuz bosqinchilariga qarshi 15 yillik"
+    ],
+    [
+      "Yusuf Qaramoniy",
+      "1795–1832-yillarda Liviyani boshqargan Qaramoniylar sulolasi hukmdor"
+    ],
+    [
+      "Muhammad ben Ali as-Senusiy",
+      "XIX asr 40–50-yillarida Liviya va Sahroda keng yoyilgan Senusiyya di"
+    ],
+    [
+      "1795-yil",
+      "Liviyada Yusuf Qaramoniy boshqaruvi boshlandi va G'arbiy Afrikada yi"
+    ],
+    [
+      "1805-yil",
+      "Misrda Xurshid posho ag'darilib alban korpusi boshlig'i Muhammad Ali"
+    ],
+    [
+      "1807-yil",
+      "Buyuk Britaniya parlamenti qul savdosini taqiqlash to'g'risidagi qon"
+    ],
+    [
+      "1808-yil",
+      "AQSHda ham tashqi qul savdosini taqiqlash to'g'risidagi qonun kuchga"
+    ],
+    [
+      "1820-yil",
+      "Misr hukmdori Muhammad Ali Sudanni bosib olishga kirishdi (1822-yilg"
+    ],
+    [
+      "1830-yil",
+      "Fransiya qo'shinlari Shimoliy Afrikadagi Jazoirga intervensiya boshl"
+    ],
+    [
+      "1832-yil",
+      "Jazoirda fransuz bosqinchilariga qarshi amir Abdulqodir boshchiligid"
+    ],
+    [
+      "1847-yil",
+      "G'arbiy Afrikada sobiq qullar tomonidan tashkil etilgan mustaqil Lib"
+    ],
+    [
+      "1848-yil",
+      "Fransiya ham qul savdosini bekor qildi va Jazoirni Fransiyaning tark"
+    ],
+    [
+      "1859-yil",
+      "Misrda Suvaysh kanalini qazish ishlari boshlandi (1869-yilda yakunla"
+    ]
+  ]
+}

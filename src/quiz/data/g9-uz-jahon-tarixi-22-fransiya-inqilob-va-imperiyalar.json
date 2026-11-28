@@ -1,0 +1,2934 @@
+{
+  "id": "g9-uz-jahon-tarixi-22-fransiya-inqilob-va-imperiyalar",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "22-mavzu. Fransiya inqilob va imperiyalar davrida",
+  "title": "22-mavzu. Fransiya inqilob va imperiyalar davrida",
+  "source": "Jahon tarixi 9-sinf (2024), 22-mavzu, 120–125-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi?",
+      "options": [
+        "1807-yil",
+        "1804-yil",
+        "1812-yil",
+        "1813-yil"
+      ],
+      "answer": 1,
+      "explain": "1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1804-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi",
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi"
+      ],
+      "answer": 2,
+      "explain": "1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi. (Yilni kiriting)",
+      "answer": [
+        "1804",
+        "1804-yil",
+        "1804-yilda"
+      ],
+      "explain": "1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1804-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1807-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1807-yilda emas, 1804-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1812-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi?",
+      "options": [
+        "1807-yil",
+        "1804-yil",
+        "1812-yil",
+        "1813-yil"
+      ],
+      "answer": 0,
+      "explain": "1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1807-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi",
+        "Leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi"
+      ],
+      "answer": 1,
+      "explain": "1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi. (Yilni kiriting)",
+      "answer": [
+        "1807",
+        "1807-yil",
+        "1807-yilda"
+      ],
+      "explain": "1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1807-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1807-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1812-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi?",
+      "options": [
+        "1804-yil",
+        "1807-yil",
+        "1813-yil",
+        "1812-yil"
+      ],
+      "answer": 3,
+      "explain": "1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1812-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi",
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi"
+      ],
+      "answer": 0,
+      "explain": "1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi. (Yilni kiriting)",
+      "answer": [
+        "1812",
+        "1812-yil",
+        "1812-yilda"
+      ],
+      "explain": "1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1812-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1812-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1807-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi?",
+      "options": [
+        "1804-yil",
+        "1807-yil",
+        "1813-yil",
+        "1812-yil"
+      ],
+      "answer": 2,
+      "explain": "1813-yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1813-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi",
+        "Leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi"
+      ],
+      "answer": 3,
+      "explain": "1813-yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi. (Yilni kiriting)",
+      "answer": [
+        "1813",
+        "1813-yil",
+        "1813-yilda"
+      ],
+      "explain": "1813-yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1813-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1813-yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi.",
+      "answer": true,
+      "explain": "To'g'ri. 1813-yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1813-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1807-yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1813-yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi?",
+      "options": [
+        "1804-yil",
+        "1814-yil",
+        "1807-yil",
+        "1812-yil"
+      ],
+      "answer": 1,
+      "explain": "1814-yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1814-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 2,
+      "explain": "1814-yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi. (Yilni kiriting)",
+      "answer": [
+        "1814",
+        "1814-yil",
+        "1814-yilda"
+      ],
+      "explain": "1814-yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1814-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1814-yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1814-yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1814-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1807-yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1814-yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi?",
+      "options": [
+        "1815-yil",
+        "1804-yil",
+        "1807-yil",
+        "1812-yil"
+      ],
+      "answer": 0,
+      "explain": "1815-yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1815-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 1,
+      "explain": "1815-yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi. (Yilni kiriting)",
+      "answer": [
+        "1815",
+        "1815-yil",
+        "1815-yilda"
+      ],
+      "explain": "1815-yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1815-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1815-yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1815-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1807-yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1815-yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi?",
+      "options": [
+        "1804-yil",
+        "1807-yil",
+        "1812-yil",
+        "1830-yil"
+      ],
+      "answer": 3,
+      "explain": "1830-yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1830-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi",
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 0,
+      "explain": "1830-yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi. (Yilni kiriting)",
+      "answer": [
+        "1830",
+        "1830-yil",
+        "1830-yilda"
+      ],
+      "explain": "1830-yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1830-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1830-yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1830-yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1830-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1807-yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1830-yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi?",
+      "options": [
+        "1804-yil",
+        "1807-yil",
+        "1848-yil",
+        "1812-yil"
+      ],
+      "answer": 2,
+      "explain": "1848-yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1848-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi",
+        "Fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi"
+      ],
+      "answer": 3,
+      "explain": "1848-yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi. (Yilni kiriting)",
+      "answer": [
+        "1848",
+        "1848-yil",
+        "1848-yilda"
+      ],
+      "explain": "1848-yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1848-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1848-yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1848-yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1848-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1807-yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1848-yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi?",
+      "options": [
+        "1804-yil",
+        "1852-yil",
+        "1807-yil",
+        "1812-yil"
+      ],
+      "answer": 1,
+      "explain": "1852-yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1852-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 2,
+      "explain": "1852-yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi. (Yilni kiriting)",
+      "answer": [
+        "1852",
+        "1852-yil",
+        "1852-yilda"
+      ],
+      "explain": "1852-yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1852-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1852-yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1852-yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1852-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1807-yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1852-yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi?",
+      "options": [
+        "1869-yil",
+        "1804-yil",
+        "1807-yil",
+        "1812-yil"
+      ],
+      "answer": 0,
+      "explain": "1869-yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1869-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 1,
+      "explain": "1869-yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi. (Yilni kiriting)",
+      "answer": [
+        "1869",
+        "1869-yil",
+        "1869-yilda"
+      ],
+      "explain": "1869-yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1869-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1869-yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi.",
+      "answer": true,
+      "explain": "To'g'ri. 1869-yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1869-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1807-yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1869-yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi?",
+      "options": [
+        "1804-yil",
+        "1807-yil",
+        "1812-yil",
+        "1870-yil"
+      ],
+      "answer": 3,
+      "explain": "1870-yilda Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1870-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi",
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 0,
+      "explain": "1870-yilda Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi. (Yilni kiriting)",
+      "answer": [
+        "1870",
+        "1870-yil",
+        "1870-yilda"
+      ],
+      "explain": "1870-yilda Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1870-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1870-yilda Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi.",
+      "answer": true,
+      "explain": "To'g'ri. 1870-yilda Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1870-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1807-yilda Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1870-yilda Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): qaysi yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi?",
+      "options": [
+        "1804-yil",
+        "1807-yil",
+        "1871-yil",
+        "1812-yil"
+      ],
+      "answer": 2,
+      "explain": "1871-yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri) mavzusiga ko'ra 1871-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi",
+        "Parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi"
+      ],
+      "answer": 3,
+      "explain": "1871-yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): ____-yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi. (Yilni kiriting)",
+      "answer": [
+        "1871",
+        "1871-yil",
+        "1871-yilda"
+      ],
+      "explain": "1871-yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1871-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1871-yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1871-yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804-yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1804-yilda emas, 1871-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik xronologiyasiga ko'ra 1807-yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1871-yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Senat Napoleon Bonapartni Fransi...» hamda «Leypsig yaqinidagi «Xalqlar jang...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi",
+        "Leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi"
+      ],
+      "answer": 1,
+      "explain": "1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Senat Napoleon Bonapartni Fransi...» hamda «Leypsig yaqinidagi «Xalqlar jang...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "Leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 2,
+      "explain": "1813-yilda leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleon Rossiyaga bostirib kird...» hamda «Napoleonning «100 kun»i Vaterloo...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi",
+        "Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi",
+        "Napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 3,
+      "explain": "1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleon Rossiyaga bostirib kird...» hamda «Napoleonning «100 kun»i Vaterloo...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi",
+        "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi",
+        "Leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi",
+        "Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi"
+      ],
+      "answer": 0,
+      "explain": "1815-yilda napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleon taxtdan voz kechib Elba...» hamda «Fevral inqilobi Ikkinchi Respubl...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi",
+        "Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi",
+        "Iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi",
+        "Fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi"
+      ],
+      "answer": 1,
+      "explain": "1814-yilda Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleon taxtdan voz kechib Elba...» hamda «Fevral inqilobi Ikkinchi Respubl...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi",
+        "Napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi",
+        "Fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi",
+        "Iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi"
+      ],
+      "answer": 2,
+      "explain": "1848-yilda fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Iyul inqilobi natijasida Karl X...» hamda «Fransiyada 26 200 bug' mashinasi...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi",
+        "2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi",
+        "Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi",
+        "Iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi"
+      ],
+      "answer": 3,
+      "explain": "1830-yilda iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Iyul inqilobi natijasida Karl X...» hamda «Fransiyada 26 200 bug' mashinasi...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi",
+        "Iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi",
+        "Fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi",
+        "2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi"
+      ],
+      "answer": 0,
+      "explain": "1869-yilda Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «2-dekabrda Lui Napoleon o'zini i...» hamda «Parijda 72 kun davom etgan tarix...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi",
+        "2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi",
+        "Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi",
+        "Parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi"
+      ],
+      "answer": 1,
+      "explain": "1852-yilda 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «2-dekabrda Lui Napoleon o'zini i...» hamda «Parijda 72 kun davom etgan tarix...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi",
+        "Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi",
+        "Parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi",
+        "Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi"
+      ],
+      "answer": 2,
+      "explain": "1871-yilda parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1807-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1807-yilda esa Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1812-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1812-yilda esa Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1813-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1813-yilda esa leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1814-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1814-yilda esa Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1815-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1815-yilda esa napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab, Vena kongressi yakunlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1830-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1830-yilda esa iyul inqilobi natijasida Karl X ag'darilib, Lui Filipp boshchiligida «Iyul monarxiyasi» o'rnatildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1848-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1848-yilda esa fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Napoleon prezident bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1852-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1852-yilda esa 2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qilib Ikkinchi imperiyani tuzdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1869-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1869-yilda esa Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib Sharqqa yo'l 8 ming km qisqardi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1870-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1870-yilda esa Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkinchi imperiya quladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi voqeasi parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil 1871-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi voqeasi Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi, 1871-yilda esa parijda 72 kun davom etgan tarixdagi ilk ishchilar hukumati — Parij Kommunasi faoliyat yuritdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi voqeasi Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1807-yil 1812-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi voqeasi Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi, 1812-yilda esa Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi voqeasi leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1807-yil 1813-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi voqeasi Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi, 1813-yilda esa leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilardan mag'lubiyatga uchradi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): xronologiyaga ko'ra Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi voqeasi Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1807-yil 1814-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy ketma-ketlikka ko'ra Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi voqeasi Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi, 1814-yilda esa Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar (Lyudovik XVIII) qaytdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Mixail Kutuzov",
+        "Lyudovik XVIII",
+        "Lui Filipp",
+        "Napoleon I Bonapart"
+      ],
+      "answer": 3,
+      "explain": "Napoleon I 1815-yilda Vaterlooda mag'lub bo'lgach Muqaddas Yelena oroliga surgun qilinib, 1821-yilda vafot etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Napoleon I Bonapartning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda",
+        "1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal",
+        "1814-yilda Napoleon surgun qilinganidan so'ng Fransiyada Burbonlar taxtini tiklagan qirol",
+        "1830-yilgi Iyul inqilobidan so'ng taxtga o'tirgan «Iyul monarxiyasi» qiroli"
+      ],
+      "answer": 0,
+      "explain": "Napoleon I 1815-yilda Vaterlooda mag'lub bo'lgach Muqaddas Yelena oroliga surgun qilinib, 1821-yilda vafot etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Napoleon I Bonapart"
+      ],
+      "explain": "Napoleon I 1815-yilda Vaterlooda mag'lub bo'lgach Muqaddas Yelena oroliga surgun qilinib, 1821-yilda vafot etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Napoleon I 1815-yilda Vaterlooda mag'lub bo'lgach Muqaddas Yelena oroliga surgun qilinib, 1821-yilda vafot etdi.",
+      "answer": true,
+      "explain": "To'g'ri. Napoleon I 1815-yilda Vaterlooda mag'lub bo'lgach Muqaddas Yelena oroliga surgun qilinib, 1821-yilda vafot etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Napoleon I Bonapart — 1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal.",
+      "answer": false,
+      "explain": "Noto'g'ri. Napoleon I 1815-yilda Vaterlooda mag'lub bo'lgach Muqaddas Yelena oroliga surgun qilinib, 1821-yilda vafot etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikda Napoleon I Bonapart «1814-yilda Napoleon surgun qilinganidan so'ng Fransiyada Burbonlar taxtini tiklagan qirol» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Napoleon I 1815-yilda Vaterlooda mag'lub bo'lgach Muqaddas Yelena oroliga surgun qilinib, 1821-yilda vafot etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Napoleon I Bonapart",
+        "Mixail Kutuzov",
+        "Lyudovik XVIII",
+        "Lui Filipp"
+      ],
+      "answer": 1,
+      "explain": "M. I. Kutuzov strategiyasi Napoleonning buyuk armiyasini Rossiyada tor-mor etishda hal qiluvchi rol o'ynadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Mixail Kutuzovning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda",
+        "1814-yilda Napoleon surgun qilinganidan so'ng Fransiyada Burbonlar taxtini tiklagan qirol",
+        "1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal",
+        "1830-yilgi Iyul inqilobidan so'ng taxtga o'tirgan «Iyul monarxiyasi» qiroli"
+      ],
+      "answer": 2,
+      "explain": "M. I. Kutuzov strategiyasi Napoleonning buyuk armiyasini Rossiyada tor-mor etishda hal qiluvchi rol o'ynadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Mixail Kutuzov"
+      ],
+      "explain": "M. I. Kutuzov strategiyasi Napoleonning buyuk armiyasini Rossiyada tor-mor etishda hal qiluvchi rol o'ynadi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): M. I. Kutuzov strategiyasi Napoleonning buyuk armiyasini Rossiyada tor-mor etishda hal qiluvchi rol o'ynadi.",
+      "answer": true,
+      "explain": "To'g'ri. M. I. Kutuzov strategiyasi Napoleonning buyuk armiyasini Rossiyada tor-mor etishda hal qiluvchi rol o'ynadi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Mixail Kutuzov — 1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda.",
+      "answer": false,
+      "explain": "Noto'g'ri. M. I. Kutuzov strategiyasi Napoleonning buyuk armiyasini Rossiyada tor-mor etishda hal qiluvchi rol o'ynadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikda Mixail Kutuzov «1814-yilda Napoleon surgun qilinganidan so'ng Fransiyada Burbonlar taxtini tiklagan qirol» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida M. I. Kutuzov strategiyasi Napoleonning buyuk armiyasini Rossiyada tor-mor etishda hal qiluvchi rol o'ynadi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1814-yilda Napoleon surgun qilinganidan so'ng Fransiyada Burbonlar taxtini tiklagan qirol» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Napoleon I Bonapart",
+        "Mixail Kutuzov",
+        "Lui Filipp",
+        "Lyudovik XVIII"
+      ],
+      "answer": 3,
+      "explain": "Lyudovik XVIII va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Lyudovik XVIIIning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1814-yilda Napoleon surgun qilinganidan so'ng Fransiyada Burbonlar taxtini tiklagan qirol",
+        "1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda",
+        "1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal",
+        "1830-yilgi Iyul inqilobidan so'ng taxtga o'tirgan «Iyul monarxiyasi» qiroli"
+      ],
+      "answer": 0,
+      "explain": "Lyudovik XVIII va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1814-yilda Napoleon surgun qilinganidan so'ng Fransiyada Burbonlar taxtini tiklagan qirol bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Lyudovik XVIII"
+      ],
+      "explain": "Lyudovik XVIII va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Lyudovik XVIII va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi.",
+      "answer": true,
+      "explain": "To'g'ri. Lyudovik XVIII va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Lyudovik XVIII — 1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda.",
+      "answer": false,
+      "explain": "Noto'g'ri. Lyudovik XVIII va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikda Lyudovik XVIII «1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Lyudovik XVIII va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi».",
+      "options": [
+        "Napoleon I Bonapart",
+        "Lyudovik XVIII",
+        "Mixail Kutuzov",
+        "Lui Filipp"
+      ],
+      "answer": 1,
+      "explain": "Lyudovik XVIII va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «____ va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Lyudovik XVIII"
+      ],
+      "explain": "Lyudovik XVIII va undan keyingi Karl X davrida Burbonlar eski tartiblarni qisman tiklashga urindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1830-yilgi Iyul inqilobidan so'ng taxtga o'tirgan «Iyul monarxiyasi» qiroli» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Napoleon I Bonapart",
+        "Mixail Kutuzov",
+        "Lui Filipp",
+        "Lyudovik XVIII"
+      ],
+      "answer": 2,
+      "explain": "Lui Filipp yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Lui Filippning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda",
+        "1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal",
+        "1814-yilda Napoleon surgun qilinganidan so'ng Fransiyada Burbonlar taxtini tiklagan qirol",
+        "1830-yilgi Iyul inqilobidan so'ng taxtga o'tirgan «Iyul monarxiyasi» qiroli"
+      ],
+      "answer": 3,
+      "explain": "Lui Filipp yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1830-yilgi Iyul inqilobidan so'ng taxtga o'tirgan «Iyul monarxiyasi» qiroli bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Lui Filipp"
+      ],
+      "explain": "Lui Filipp yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Lui Filipp yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Lui Filipp yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Lui Filipp — 1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda.",
+      "answer": false,
+      "explain": "Noto'g'ri. Lui Filipp yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikda Lui Filipp «1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Lui Filipp yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan».",
+      "options": [
+        "Lui Filipp",
+        "Napoleon I Bonapart",
+        "Mixail Kutuzov",
+        "Lyudovik XVIII"
+      ],
+      "answer": 0,
+      "explain": "Lui Filipp yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «____ yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Lui Filipp"
+      ],
+      "explain": "Lui Filipp yirik moliyaviy burjuaziya manfaatlarini himoya qilgan va 1848-yil fevralda ag'darilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1848-yilda prezident, 1852-yilda imperator bo'lib 1870-yilgacha Ikkinchi imperiyani boshqargan hukmdor» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Napoleon I Bonapart",
+        "Napoleon III",
+        "Mixail Kutuzov",
+        "Lyudovik XVIII"
+      ],
+      "answer": 1,
+      "explain": "Lui Napoleon Bonapart (Napoleon III) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Napoleon IIIning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda",
+        "1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal",
+        "1848-yilda prezident, 1852-yilda imperator bo'lib 1870-yilgacha Ikkinchi imperiyani boshqargan hukmdor",
+        "1814-yilda Napoleon surgun qilinganidan so'ng Fransiyada Burbonlar taxtini tiklagan qirol"
+      ],
+      "answer": 2,
+      "explain": "Lui Napoleon Bonapart (Napoleon III) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1848-yilda prezident, 1852-yilda imperator bo'lib 1870-yilgacha Ikkinchi imperiyani boshqargan hukmdor bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Napoleon III"
+      ],
+      "explain": "Lui Napoleon Bonapart (Napoleon III) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Lui Napoleon Bonapart (Napoleon III) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi.",
+      "answer": true,
+      "explain": "To'g'ri. Lui Napoleon Bonapart (Napoleon III) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Napoleon III — 1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbuskori va buyuk sarkarda.",
+      "answer": false,
+      "explain": "Noto'g'ri. Lui Napoleon Bonapart (Napoleon III) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikda Napoleon III «1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mondonlik qilgan feldmarshal» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Lui Napoleon Bonapart (Napoleon III) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Lui Napoleon Bonapart (____) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi».",
+      "options": [
+        "Napoleon I Bonapart",
+        "Mixail Kutuzov",
+        "Lyudovik XVIII",
+        "Napoleon III"
+      ],
+      "answer": 3,
+      "explain": "Lui Napoleon Bonapart (Napoleon III) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Lui Napoleon Bonapart (____) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Napoleon III"
+      ],
+      "explain": "Lui Napoleon Bonapart (Napoleon III) davrida Fransiya sanoati jadal rivojlandi, ammo Prussiya bilan urushda yengildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Fuqarolik kodeksi",
+        "Qit'a qamali",
+        "Vena kongressi",
+        "Muqaddas ittifoq"
+      ],
+      "answer": 0,
+      "explain": "Fuqarolik kodeksi — 1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Fuqarolik kodeksi» atamasi nimani anglatadi?",
+      "options": [
+        "Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati",
+        "1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami",
+        "1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman",
+        "1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi"
+      ],
+      "answer": 1,
+      "explain": "Fuqarolik kodeksi — 1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Fuqarolik kodeksi",
+        "fuqarolik kodeksi"
+      ],
+      "explain": "Fuqarolik kodeksi — 1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Fuqarolik kodeksi» tushunchasi «1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Fuqarolik kodeksi — 1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Fuqarolik kodeksi» deganda Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Fuqarolik kodeksi — 1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy lug'atga ko'ra «Fuqarolik kodeksi» — «1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Fuqarolik kodeksi — 1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Fuqarolik kodeksi",
+        "Vena kongressi",
+        "Qit'a qamali",
+        "Muqaddas ittifoq"
+      ],
+      "answer": 2,
+      "explain": "Qit'a qamali — Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Qit'a qamali» atamasi nimani anglatadi?",
+      "options": [
+        "1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami",
+        "1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman",
+        "1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi",
+        "Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati"
+      ],
+      "answer": 3,
+      "explain": "Qit'a qamali — Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Qit'a qamali",
+        "qit'a qamali"
+      ],
+      "explain": "Qit'a qamali — Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Qit'a qamali» tushunchasi «Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Qit'a qamali — Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Qit'a qamali» deganda 1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Qit'a qamali — Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy lug'atga ko'ra «Qit'a qamali» — «1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Qit'a qamali — Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Vena kongressi",
+        "Fuqarolik kodeksi",
+        "Qit'a qamali",
+        "Muqaddas ittifoq"
+      ],
+      "answer": 0,
+      "explain": "Vena kongressi — 1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Vena kongressi» atamasi nimani anglatadi?",
+      "options": [
+        "1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami",
+        "1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman",
+        "Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati",
+        "1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi"
+      ],
+      "answer": 1,
+      "explain": "Vena kongressi — 1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Vena kongressi",
+        "vena kongressi"
+      ],
+      "explain": "Vena kongressi — 1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Vena kongressi» tushunchasi «1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Vena kongressi — 1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Vena kongressi» deganda 1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Vena kongressi — 1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy lug'atga ko'ra «Vena kongressi» — «Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Vena kongressi — 1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Fuqarolik kodeksi",
+        "Qit'a qamali",
+        "Muqaddas ittifoq",
+        "Vena kongressi"
+      ],
+      "answer": 2,
+      "explain": "Muqaddas ittifoq — 1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Muqaddas ittifoq» atamasi nimani anglatadi?",
+      "options": [
+        "1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami",
+        "Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati",
+        "1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman",
+        "1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi"
+      ],
+      "answer": 3,
+      "explain": "Muqaddas ittifoq — 1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Muqaddas ittifoq",
+        "muqaddas ittifoq"
+      ],
+      "explain": "Muqaddas ittifoq — 1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Muqaddas ittifoq» tushunchasi «1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Muqaddas ittifoq — 1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Muqaddas ittifoq» deganda 1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Muqaddas ittifoq — 1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy lug'atga ko'ra «Muqaddas ittifoq» — «Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Muqaddas ittifoq — 1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining inqiloblarga qarshi tuzgan ittifoqi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xalq hokimiyati» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Parij Kommunasi",
+        "Fuqarolik kodeksi",
+        "Qit'a qamali",
+        "Vena kongressi"
+      ],
+      "answer": 0,
+      "explain": "Parij Kommunasi — 1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xalq hokimiyati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Parij Kommunasi» atamasi nimani anglatadi?",
+      "options": [
+        "1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami",
+        "1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xalq hokimiyati",
+        "Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati",
+        "1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralari va qirollik sulolalarini qayta belgilagan anjuman"
+      ],
+      "answer": 1,
+      "explain": "Parij Kommunasi — 1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xalq hokimiyati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xalq hokimiyati» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Parij Kommunasi",
+        "parij kommunasi"
+      ],
+      "explain": "Parij Kommunasi — 1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xalq hokimiyati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Parij Kommunasi» tushunchasi «1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xalq hokimiyati» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Parij Kommunasi — 1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xalq hokimiyati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Parij Kommunasi» deganda 1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mulk daxlsizligini kafolatlagan qonunlar to'plami tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Parij Kommunasi — 1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xalq hokimiyati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): tarixiy lug'atga ko'ra «Parij Kommunasi» — «Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun uning Yevropa bilan savdosini taqiqlash siyosati» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Parij Kommunasi — 1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xalq hokimiyati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Napoleon I Rossiya va Avstriya qo'shinlari ustidan qaysi mashhur jangda «Uch imperator jangi» nomi bilan tarixga kirgan g'alabaga erishdi?",
+      "options": [
+        "Vaterloo jangida",
+        "Borodino jangida",
+        "Austerlis jangida",
+        "Panipat jangida"
+      ],
+      "answer": 2,
+      "explain": "Shundan so'ng Napoleon Yevropa qit'asida Buyuk Britaniyaga qarshi «qit'a qamali» siyosatini e'lon qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleon I Rossiya va Avstriya qo'shinlari ustidan qaysi mashhur jangda «Uch imperator jangi» nomi bilan tarixga kirgan g'alabaga erishdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Uch imperator jangi» deb 1815-yilgi Vaterloo mag'lubiyati ataladi",
+        "Vena kongressida Fransiya 1812-yilgi barcha bosib olgan yerlarini o'zida saqlab qoldi",
+        "«Muqaddas ittifoq» Fransiya va AQSH o'rtasidagi savdo shartnomasi edi",
+        "Austerlis jangi tarixga «Uch imperator jangi» nomi bilan kirib, Napoleonning yirik g'alabasi bilan tugagan"
+      ],
+      "answer": 3,
+      "explain": "Shundan so'ng Napoleon Yevropa qit'asida Buyuk Britaniyaga qarshi «qit'a qamali» siyosatini e'lon qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Napoleon I Rossiya va Avstriya qo'shinlari ustidan qaysi mashhur jangda «Uch imperator jangi» nomi bilan tarixga kirgan g'alabaga erishdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "«Uch imperator jangi» deb 1815-yilgi Vaterloo mag'lubiyati ataladi",
+        "1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: «Uch imperator jangi» deb 1815-yilgi Vaterloo mag'lubiyati ataladi. Aslida: Shundan so'ng Napoleon Yevropa qit'asida Buyuk Britaniyaga qarshi «qit'a qamali» siyosatini e'lon qildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Austerlis jangi tarixga «Uch imperator jangi» nomi bilan kirib, Napoleonning yirik g'alabasi bilan tugagan.",
+      "answer": true,
+      "explain": "To'g'ri. Shundan so'ng Napoleon Yevropa qit'asida Buyuk Britaniyaga qarshi «qit'a qamali» siyosatini e'lon qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Uch imperator jangi» deb 1815-yilgi Vaterloo mag'lubiyati ataladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Shundan so'ng Napoleon Yevropa qit'asida Buyuk Britaniyaga qarshi «qit'a qamali» siyosatini e'lon qildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik izohiga ko'ra shundan so'ng Napoleon Yevropa qit'asida Buyuk Britaniyaga qarshi «qit'a qamali» siyosatini e'lon qildi.",
+      "answer": true,
+      "explain": "To'g'ri. Shundan so'ng Napoleon Yevropa qit'asida Buyuk Britaniyaga qarshi «qit'a qamali» siyosatini e'lon qildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1814–1815-yilgi Vena kongressi qarorlariga ko'ra Yevropa davlatlariga qaysi hududlar topshirildi?",
+      "options": [
+        "Fransiyaga butun Germaniya va Italiya berildi",
+        "Rossiyaga — Varshava gersogligi, Prussiyaga — Reyn/Vestfaliya, Avstriyaga — Lombardiya/Venetsiya, Angliyaga — Malta/Seylon/Kap",
+        "Barcha mustamlakalar Ispaniyaga qaytarildi",
+        "Rossiyaga Parij va London topshirildi"
+      ],
+      "answer": 1,
+      "explain": "Kongressda shuningdek qul savdosini taqiqlash haqida maxsus deklaratsiya ham qabul qilingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1814–1815-yilgi Vena kongressi qarorlariga ko'ra Yevropa davlatlariga qaysi hududlar topshirildi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Vena kongressida Fransiya 1812-yilgi barcha bosib olgan yerlarini o'zida saqlab qoldi",
+        "«Uch imperator jangi» deb 1815-yilgi Vaterloo mag'lubiyati ataladi",
+        "Vena kongressi Fransiyani 1789-yilgi chegaralariga qaytarib, Malta, Seylon va Kapni Britaniyaga berdi",
+        "«Muqaddas ittifoq» Fransiya va AQSH o'rtasidagi savdo shartnomasi edi"
+      ],
+      "answer": 2,
+      "explain": "Kongressda shuningdek qul savdosini taqiqlash haqida maxsus deklaratsiya ham qabul qilingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1814–1815-yilgi Vena kongressi qarorlariga ko'ra Yevropa davlatlariga qaysi hududlar topshirildi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi",
+        "Vena kongressida Fransiya 1812-yilgi barcha bosib olgan yerlarini o'zida saqlab qoldi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Vena kongressida Fransiya 1812-yilgi barcha bosib olgan yerlarini o'zida saqlab qoldi. Aslida: Kongressda shuningdek qul savdosini taqiqlash haqida maxsus deklaratsiya ham qabul qilingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Vena kongressi Fransiyani 1789-yilgi chegaralariga qaytarib, Malta, Seylon va Kapni Britaniyaga berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Kongressda shuningdek qul savdosini taqiqlash haqida maxsus deklaratsiya ham qabul qilingan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Vena kongressida Fransiya 1812-yilgi barcha bosib olgan yerlarini o'zida saqlab qoldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kongressda shuningdek qul savdosini taqiqlash haqida maxsus deklaratsiya ham qabul qilingan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik izohiga ko'ra kongressda shuningdek qul savdosini taqiqlash haqida maxsus deklaratsiya ham qabul qilingan.",
+      "answer": true,
+      "explain": "To'g'ri. Kongressda shuningdek qul savdosini taqiqlash haqida maxsus deklaratsiya ham qabul qilingan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1815-yil 26-sentyabrda «Muqaddas ittifoq»ni tuzgan uchta Yevropa monarxi kimlar edi?",
+      "options": [
+        "Rossiya imperatori Aleksandr I, Avstriya imperatori Frans II va Prussiya qiroli Fridrix Vilgelm III",
+        "Napoleon I, Jorj Vashington va Akbarshoh",
+        "Lyudovik XVIII, Karl X va Bismark",
+        "Salim III, Shoh Abbos va Georg I"
+      ],
+      "answer": 0,
+      "explain": "Bu ittifoq Yevropada monarxiyalarni saqlab qolish va milliy-ozodlik harakatlariga qarshi kurashishni maqsad qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1815-yil 26-sentyabrda «Muqaddas ittifoq»ni tuzgan uchta Yevropa monarxi kimlar edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Muqaddas ittifoq» Fransiya va AQSH o'rtasidagi savdo shartnomasi edi",
+        "«Muqaddas ittifoq» Aleksandr I, Frans II va Fridrix Vilgelm III tomonidan inqilobiy harakatlarni bostirish uchun tuzildi",
+        "«Uch imperator jangi» deb 1815-yilgi Vaterloo mag'lubiyati ataladi",
+        "Vena kongressida Fransiya 1812-yilgi barcha bosib olgan yerlarini o'zida saqlab qoldi"
+      ],
+      "answer": 1,
+      "explain": "Bu ittifoq Yevropada monarxiyalarni saqlab qolish va milliy-ozodlik harakatlariga qarshi kurashishni maqsad qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1815-yil 26-sentyabrda «Muqaddas ittifoq»ni tuzgan uchta Yevropa monarxi kimlar edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "«Muqaddas ittifoq» Fransiya va AQSH o'rtasidagi savdo shartnomasi edi",
+        "1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: «Muqaddas ittifoq» Fransiya va AQSH o'rtasidagi savdo shartnomasi edi. Aslida: Bu ittifoq Yevropada monarxiyalarni saqlab qolish va milliy-ozodlik harakatlariga qarshi kurashishni maqsad qilgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Muqaddas ittifoq» Aleksandr I, Frans II va Fridrix Vilgelm III tomonidan inqilobiy harakatlarni bostirish uchun tuzildi.",
+      "answer": true,
+      "explain": "To'g'ri. Bu ittifoq Yevropada monarxiyalarni saqlab qolish va milliy-ozodlik harakatlariga qarshi kurashishni maqsad qilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Muqaddas ittifoq» Fransiya va AQSH o'rtasidagi savdo shartnomasi edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Bu ittifoq Yevropada monarxiyalarni saqlab qolish va milliy-ozodlik harakatlariga qarshi kurashishni maqsad qilgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik izohiga ko'ra bu ittifoq Yevropada monarxiyalarni saqlab qolish va milliy-ozodlik harakatlariga qarshi kurashishni maqsad qilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Bu ittifoq Yevropada monarxiyalarni saqlab qolish va milliy-ozodlik harakatlariga qarshi kurashishni maqsad qilgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1848-yil 25-fevralda Fransiyada Ikkinchi Respublika e'lon qilingach, saylov huquqi borasida qanday muhim yangilik kiritildi?",
+      "options": [
+        "Saylov huquqi butunlay bekor qilindi",
+        "Faqat qirol qarindoshlarigina ovoz bera oldi",
+        "Saylov yoshi 60 yosh etib belgilandi",
+        "21 yoshga to'lgan barcha erkak fuqarolarga umumiy saylov huquqi berildi"
+      ],
+      "answer": 3,
+      "explain": "Keyinroq o'tkazilgan saylovda Lui Napoleon Bonapart prezident etib saylandi, 1851-yilda to'ntarish qilib, 1852-yilda imperator bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1848-yil 25-fevralda Fransiyada Ikkinchi Respublika e'lon qilingach, saylov huquqi borasida qanday muhim yangilik kiritildi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Ikkinchi Respublika 21 yoshdan boshlab barcha erkaklarga saylov huquqini berdi",
+        "1848-yilgi fevral inqilobi Fransiyada mutlaq monarxiyani tikladi",
+        "«Uch imperator jangi» deb 1815-yilgi Vaterloo mag'lubiyati ataladi",
+        "Vena kongressida Fransiya 1812-yilgi barcha bosib olgan yerlarini o'zida saqlab qoldi"
+      ],
+      "answer": 0,
+      "explain": "Keyinroq o'tkazilgan saylovda Lui Napoleon Bonapart prezident etib saylandi, 1851-yilda to'ntarish qilib, 1852-yilda imperator bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1848-yil 25-fevralda Fransiyada Ikkinchi Respublika e'lon qilingach, saylov huquqi borasida qanday muhim yangilik kiritildi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "1848-yilgi fevral inqilobi Fransiyada mutlaq monarxiyani tikladi",
+        "1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: 1848-yilgi fevral inqilobi Fransiyada mutlaq monarxiyani tikladi. Aslida: Keyinroq o'tkazilgan saylovda Lui Napoleon Bonapart prezident etib saylandi, 1851-yilda to'ntarish qilib, 1852-yilda imperator bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Ikkinchi Respublika 21 yoshdan boshlab barcha erkaklarga saylov huquqini berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Keyinroq o'tkazilgan saylovda Lui Napoleon Bonapart prezident etib saylandi, 1851-yilda to'ntarish qilib, 1852-yilda imperator bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1848-yilgi fevral inqilobi Fransiyada mutlaq monarxiyani tikladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Keyinroq o'tkazilgan saylovda Lui Napoleon Bonapart prezident etib saylandi, 1851-yilda to'ntarish qilib, 1852-yilda imperator bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik izohiga ko'ra keyinroq o'tkazilgan saylovda Lui Napoleon Bonapart prezident etib saylandi, 1851-yilda to'ntarish qilib, 1852-yilda imperator bo'ldi.",
+      "answer": true,
+      "explain": "To'g'ri. Keyinroq o'tkazilgan saylovda Lui Napoleon Bonapart prezident etib saylandi, 1851-yilda to'ntarish qilib, 1852-yilda imperator bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Ikkinchi imperiya davrida (1852–1869) Fransiya sanoatida bug' mashinalari va metallurgiya necha barobarga o'sdi?",
+      "options": [
+        "Sanoat ikki barobar kamaydi",
+        "Hech qanday bug' mashinasi qolmadi",
+        "Bug' mashinalari 6 mingdan 26 200 taga yetdi; toshko'mir va cho'yan 3 barobar, po'lat eritish 8 barobar oshdi",
+        "Faqat 100 ta zavod ishladi"
+      ],
+      "answer": 2,
+      "explain": "1869-yilda fransuz muhandislari ishtirokida ochilgan Suvaysh kanali ham Sharqqa dengiz yo'lini 8 ming km ga qisqartirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Ikkinchi imperiya davrida (1852–1869) Fransiya sanoatida bug' mashinalari va metallurgiya necha barobarga o'sdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Napoleon III davrida Fransiyada temiryo'l va bug' mashinalari taqiqlangan edi",
+        "«Uch imperator jangi» deb 1815-yilgi Vaterloo mag'lubiyati ataladi",
+        "Vena kongressida Fransiya 1812-yilgi barcha bosib olgan yerlarini o'zida saqlab qoldi",
+        "1852–1869-yillarda Fransiyada sanoat to'ntarishi yakunlanib, po'lat eritish 8 barobarga ko'paydi"
+      ],
+      "answer": 3,
+      "explain": "1869-yilda fransuz muhandislari ishtirokida ochilgan Suvaysh kanali ham Sharqqa dengiz yo'lini 8 ming km ga qisqartirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Ikkinchi imperiya davrida (1852–1869) Fransiya sanoatida bug' mashinalari va metallurgiya necha barobarga o'sdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Napoleon III davrida Fransiyada temiryo'l va bug' mashinalari taqiqlangan edi",
+        "1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Napoleon III davrida Fransiyada temiryo'l va bug' mashinalari taqiqlangan edi. Aslida: 1869-yilda fransuz muhandislari ishtirokida ochilgan Suvaysh kanali ham Sharqqa dengiz yo'lini 8 ming km ga qisqartirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1852–1869-yillarda Fransiyada sanoat to'ntarishi yakunlanib, po'lat eritish 8 barobarga ko'paydi.",
+      "answer": true,
+      "explain": "To'g'ri. 1869-yilda fransuz muhandislari ishtirokida ochilgan Suvaysh kanali ham Sharqqa dengiz yo'lini 8 ming km ga qisqartirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Napoleon III davrida Fransiyada temiryo'l va bug' mashinalari taqiqlangan edi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1869-yilda fransuz muhandislari ishtirokida ochilgan Suvaysh kanali ham Sharqqa dengiz yo'lini 8 ming km ga qisqartirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik izohiga ko'ra 1869-yilda fransuz muhandislari ishtirokida ochilgan Suvaysh kanali ham Sharqqa dengiz yo'lini 8 ming km ga qisqartirdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1869-yilda fransuz muhandislari ishtirokida ochilgan Suvaysh kanali ham Sharqqa dengiz yo'lini 8 ming km ga qisqartirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1870-yil iyulda boshlangan Fransiya–Prussiya urushida Fransiya qo'shinlari qachon taslim bo'ldi va imperiya quladi?",
+      "options": [
+        "1875-yilda Berlinni egallab g'alaba qozondi",
+        "1870-yil 2-sentyabrda Sedan jangida taslim bo'ldi va 4-sentyabrda Ikkinchi imperiya quladi",
+        "Urushsiz sulh tuzildi",
+        "1815-yilda Vaterlooda quladi"
+      ],
+      "answer": 1,
+      "explain": "Imperiya qulagach Uchinchi Respublika tuzildi va 1871-yilda 72 kunlik Parij Kommunasi yuz berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1870-yil iyulda boshlangan Fransiya–Prussiya urushida Fransiya qo'shinlari qachon taslim bo'ldi va imperiya quladi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Fransiya–Prussiya urushida Napoleon III Prussiyani butunlay bosib oldi",
+        "«Uch imperator jangi» deb 1815-yilgi Vaterloo mag'lubiyati ataladi",
+        "1870-yil 2-sentyabrda fransuz qo'shinlari taslim bo'lgach, 4-sentyabrda Ikkinchi imperiya ag'darildi",
+        "Vena kongressida Fransiya 1812-yilgi barcha bosib olgan yerlarini o'zida saqlab qoldi"
+      ],
+      "answer": 2,
+      "explain": "Imperiya qulagach Uchinchi Respublika tuzildi va 1871-yilda 72 kunlik Parij Kommunasi yuz berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1870-yil iyulda boshlangan Fransiya–Prussiya urushida Fransiya qo'shinlari qachon taslim bo'ldi va imperiya quladi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1804-yilda Senat Napoleon Bonapartni Fransiya imperatori deb e'lon qildi va «Fuqarolik kodeksi» qabul qilindi",
+        "1807-yilda Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh shartnomasi imzolandi",
+        "1812-yilda Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino jangi bo'lib o'tdi",
+        "Fransiya–Prussiya urushida Napoleon III Prussiyani butunlay bosib oldi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Fransiya–Prussiya urushida Napoleon III Prussiyani butunlay bosib oldi. Aslida: Imperiya qulagach Uchinchi Respublika tuzildi va 1871-yilda 72 kunlik Parij Kommunasi yuz berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1870-yil 2-sentyabrda fransuz qo'shinlari taslim bo'lgach, 4-sentyabrda Ikkinchi imperiya ag'darildi.",
+      "answer": true,
+      "explain": "To'g'ri. Imperiya qulagach Uchinchi Respublika tuzildi va 1871-yilda 72 kunlik Parij Kommunasi yuz berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Fransiya–Prussiya urushida Napoleon III Prussiyani butunlay bosib oldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Imperiya qulagach Uchinchi Respublika tuzildi va 1871-yilda 72 kunlik Parij Kommunasi yuz berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik izohiga ko'ra imperiya qulagach Uchinchi Respublika tuzildi va 1871-yilda 72 kunlik Parij Kommunasi yuz berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Imperiya qulagach Uchinchi Respublika tuzildi va 1871-yilda 72 kunlik Parij Kommunasi yuz berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1814–1815-yilgi Vena kongressi yakunlarida ko'rilgan qarorlar ro'yxatiga qaysi biri kirmaydi?",
+      "options": [
+        "AQSHni Buyuk Britaniya mustamlakasiga qaytarish",
+        "Fransiyani 1789-yilgi chegaralariga qaytarish",
+        "Rossiyaga Varshava gersogligini berish",
+        "Qul savdosini taqiqlash deklaratsiyasini qabul qilish"
+      ],
+      "answer": 0,
+      "explain": "Vena kongressi Yevropa chegaralarini belgilagan bo'lib, AQSH mustaqilligiga daxl qilmagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Vena kongressi Yevropa chegaralarini belgilagan bo'lib, AQSH mustaqilligiga daxl qilmagan.",
+      "answer": true,
+      "explain": "To'g'ri. Vena kongressi Yevropa chegaralarini belgilagan bo'lib, AQSH mustaqilligiga daxl qilmagan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Napoleon I Bonapart davri (1804–1815) voqealariga qaysi biri tegishli emas?",
+      "options": [
+        "1804-yilgi «Fuqarolik kodeksi»",
+        "1871-yilgi Parij Kommunasi",
+        "1812-yilgi Borodino jangi",
+        "1813-yilgi Leypsig («Xalqlar jangi») va 1815-yilgi Vaterloo"
+      ],
+      "answer": 1,
+      "explain": "Parij Kommunasi 1871-yilda — Napoleon III boshqargan Ikkinchi imperiya qulaganidan so'ng yuz bergan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Parij Kommunasi 1871-yilda — Napoleon III boshqargan Ikkinchi imperiya qulaganidan so'ng yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. Parij Kommunasi 1871-yilda — Napoleon III boshqargan Ikkinchi imperiya qulaganidan so'ng yuz bergan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1815–1871-yillarda Fransiyada birin-ketin almashgan boshqaruv tuzumlariga qaysi biri kirmaydi?",
+      "options": [
+        "Burbonlar restavratsiyasi va «Iyul monarxiyasi» (1830)",
+        "Ikkinchi Respublika (1848)",
+        "Syogunat",
+        "Ikkinchi imperiya (1852–1870) va Parij Kommunasi (1871)"
+      ],
+      "answer": 2,
+      "explain": "Syogunat Fransiyada emas, Yaponiyada mavjud bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Syogunat Fransiyada emas, Yaponiyada mavjud bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. Syogunat Fransiyada emas, Yaponiyada mavjud bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): Napoleon Bonapartning «Fuqarolik kodeksi» (1804) Yevropa huquq tarixida nima uchun ulkan ahamiyatga ega?",
+      "options": [
+        "U feodal qaramlik va tabaqa imtiyozlarini qayta tikladi",
+        "U barcha mamlakatlarda qullikni majburiy qildi",
+        "U soliq to'lashni faqat kambag'allarga yukladi",
+        "U qonun oldida barcha fuqarolar tengligini, shaxs va xususiy mulk daxlsizligini mustahkamladi"
+      ],
+      "answer": 3,
+      "explain": "Napoleon kodeksi burjua inqilobi yutuqlarini huquqiy jihatdan mustahkamlab, ko'plab Yevropa mamlakatlariga namuna bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): 1815-yil mart oyida Napoleon Elba orolidan qochib Fransiyada 100 kun hukmronlik qildi, ammo Vaterloo jangidan so'ng Muqaddas Yelena oroliga surgun etildi.",
+      "answer": true,
+      "explain": "To'g'ri. Napoleonning «100 kun»i 1815-yil iyunidagi Vaterloo mag'lubiyati bilan yakunlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik jadvali va tayanch ma'lumotlariga ko'ra «Napoleon I imperator bo'ldi, Fuqarolik kodeksi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1804-yil",
+        "1812-yil 7-sentyabr",
+        "1814–1815-yillar",
+        "1815-yil Vaterloo"
+      ],
+      "answer": 0,
+      "explain": "1804-yil — Napoleon I imperator bo'ldi, Fuqarolik kodeksi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): mavzudagi «1804-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Borodino jangi (Kutuzov)",
+        "Napoleon I imperator bo'ldi, Fuqarolik kodeksi",
+        "Vena kongressi va «Muqaddas ittifoq»",
+        "Napoleon «100 kun»ining yakuni"
+      ],
+      "answer": 1,
+      "explain": "1804-yil — Napoleon I imperator bo'ldi, Fuqarolik kodeksi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikning tayanch ma'lumotlarida «1804-yil» — Napoleon I imperator bo'ldi, Fuqarolik kodeksi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1804-yil — Napoleon I imperator bo'ldi, Fuqarolik kodeksi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik ma'lumotlariga ko'ra «1804-yil» — Borodino jangi (Kutuzov) deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1804-yil» — Napoleon I imperator bo'ldi, Fuqarolik kodeksi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik jadvali va tayanch ma'lumotlariga ko'ra «Borodino jangi (Kutuzov)» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1804-yil",
+        "1814–1815-yillar",
+        "1812-yil 7-sentyabr",
+        "1815-yil Vaterloo"
+      ],
+      "answer": 2,
+      "explain": "1812-yil 7-sentyabr — Borodino jangi (Kutuzov).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): mavzudagi «1812-yil 7-sentyabr» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Napoleon I imperator bo'ldi, Fuqarolik kodeksi",
+        "Vena kongressi va «Muqaddas ittifoq»",
+        "Napoleon «100 kun»ining yakuni",
+        "Borodino jangi (Kutuzov)"
+      ],
+      "answer": 3,
+      "explain": "1812-yil 7-sentyabr — Borodino jangi (Kutuzov).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikning tayanch ma'lumotlarida «1812-yil 7-sentyabr» — Borodino jangi (Kutuzov) sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1812-yil 7-sentyabr — Borodino jangi (Kutuzov).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik ma'lumotlariga ko'ra «1812-yil 7-sentyabr» — Napoleon I imperator bo'ldi, Fuqarolik kodeksi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1812-yil 7-sentyabr» — Borodino jangi (Kutuzov).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik jadvali va tayanch ma'lumotlariga ko'ra «Vena kongressi va «Muqaddas ittifoq»» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1814–1815-yillar",
+        "1804-yil",
+        "1812-yil 7-sentyabr",
+        "1815-yil Vaterloo"
+      ],
+      "answer": 0,
+      "explain": "1814–1815-yillar — Vena kongressi va «Muqaddas ittifoq».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): mavzudagi «1814–1815-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Napoleon I imperator bo'ldi, Fuqarolik kodeksi",
+        "Vena kongressi va «Muqaddas ittifoq»",
+        "Borodino jangi (Kutuzov)",
+        "Napoleon «100 kun»ining yakuni"
+      ],
+      "answer": 1,
+      "explain": "1814–1815-yillar — Vena kongressi va «Muqaddas ittifoq».",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikning tayanch ma'lumotlarida «1814–1815-yillar» — Vena kongressi va «Muqaddas ittifoq» sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1814–1815-yillar — Vena kongressi va «Muqaddas ittifoq».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik ma'lumotlariga ko'ra «1814–1815-yillar» — Napoleon I imperator bo'ldi, Fuqarolik kodeksi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1814–1815-yillar» — Vena kongressi va «Muqaddas ittifoq».",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik jadvali va tayanch ma'lumotlariga ko'ra «Napoleon «100 kun»ining yakuni» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1804-yil",
+        "1812-yil 7-sentyabr",
+        "1815-yil Vaterloo",
+        "1814–1815-yillar"
+      ],
+      "answer": 2,
+      "explain": "1815-yil Vaterloo — Napoleon «100 kun»ining yakuni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): mavzudagi «1815-yil Vaterloo» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Napoleon I imperator bo'ldi, Fuqarolik kodeksi",
+        "Borodino jangi (Kutuzov)",
+        "Vena kongressi va «Muqaddas ittifoq»",
+        "Napoleon «100 kun»ining yakuni"
+      ],
+      "answer": 3,
+      "explain": "1815-yil Vaterloo — Napoleon «100 kun»ining yakuni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikning tayanch ma'lumotlarida «1815-yil Vaterloo» — Napoleon «100 kun»ining yakuni sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1815-yil Vaterloo — Napoleon «100 kun»ining yakuni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik ma'lumotlariga ko'ra «1815-yil Vaterloo» — Napoleon I imperator bo'ldi, Fuqarolik kodeksi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1815-yil Vaterloo» — Napoleon «100 kun»ining yakuni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik jadvali va tayanch ma'lumotlariga ko'ra ««Iyul monarxiyasi» (Lui Filipp)» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1830-yil",
+        "1804-yil",
+        "1812-yil 7-sentyabr",
+        "1814–1815-yillar"
+      ],
+      "answer": 0,
+      "explain": "1830-yil — «Iyul monarxiyasi» (Lui Filipp).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): mavzudagi «1830-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Napoleon I imperator bo'ldi, Fuqarolik kodeksi",
+        "«Iyul monarxiyasi» (Lui Filipp)",
+        "Borodino jangi (Kutuzov)",
+        "Vena kongressi va «Muqaddas ittifoq»"
+      ],
+      "answer": 1,
+      "explain": "1830-yil — «Iyul monarxiyasi» (Lui Filipp).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikning tayanch ma'lumotlarida «1830-yil» — «Iyul monarxiyasi» (Lui Filipp) sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1830-yil — «Iyul monarxiyasi» (Lui Filipp).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik ma'lumotlariga ko'ra «1830-yil» — Napoleon I imperator bo'ldi, Fuqarolik kodeksi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1830-yil» — «Iyul monarxiyasi» (Lui Filipp).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik jadvali va tayanch ma'lumotlariga ko'ra «Ikkinchi Respublika e'lon qilindi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1804-yil",
+        "1812-yil 7-sentyabr",
+        "1848-yil 25-fevral",
+        "1814–1815-yillar"
+      ],
+      "answer": 2,
+      "explain": "1848-yil 25-fevral — ikkinchi Respublika e'lon qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): mavzudagi «1848-yil 25-fevral» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Napoleon I imperator bo'ldi, Fuqarolik kodeksi",
+        "Borodino jangi (Kutuzov)",
+        "Vena kongressi va «Muqaddas ittifoq»",
+        "Ikkinchi Respublika e'lon qilindi"
+      ],
+      "answer": 3,
+      "explain": "1848-yil 25-fevral — ikkinchi Respublika e'lon qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikning tayanch ma'lumotlarida «1848-yil 25-fevral» — ikkinchi Respublika e'lon qilindi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1848-yil 25-fevral — ikkinchi Respublika e'lon qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik ma'lumotlariga ko'ra «1848-yil 25-fevral» — Napoleon I imperator bo'ldi, Fuqarolik kodeksi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1848-yil 25-fevral» — ikkinchi Respublika e'lon qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik jadvali va tayanch ma'lumotlariga ko'ra «Napoleon III — Ikkinchi imperiya» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1852–1870-yillar",
+        "1804-yil",
+        "1812-yil 7-sentyabr",
+        "1814–1815-yillar"
+      ],
+      "answer": 0,
+      "explain": "1852–1870-yillar — Napoleon III — Ikkinchi imperiya.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): mavzudagi «1852–1870-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Napoleon I imperator bo'ldi, Fuqarolik kodeksi",
+        "Napoleon III — Ikkinchi imperiya",
+        "Borodino jangi (Kutuzov)",
+        "Vena kongressi va «Muqaddas ittifoq»"
+      ],
+      "answer": 1,
+      "explain": "1852–1870-yillar — Napoleon III — Ikkinchi imperiya.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikning tayanch ma'lumotlarida «1852–1870-yillar» — Napoleon III — Ikkinchi imperiya sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1852–1870-yillar — Napoleon III — Ikkinchi imperiya.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik ma'lumotlariga ko'ra «1852–1870-yillar» — Napoleon I imperator bo'ldi, Fuqarolik kodeksi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1852–1870-yillar» — Napoleon III — Ikkinchi imperiya.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik jadvali va tayanch ma'lumotlariga ko'ra «72 kunlik Parij Kommunasi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1804-yil",
+        "1812-yil 7-sentyabr",
+        "1871-yil",
+        "1814–1815-yillar"
+      ],
+      "answer": 2,
+      "explain": "1871-yil — 72 kunlik Parij Kommunasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): mavzudagi «1871-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Napoleon I imperator bo'ldi, Fuqarolik kodeksi",
+        "Borodino jangi (Kutuzov)",
+        "Vena kongressi va «Muqaddas ittifoq»",
+        "72 kunlik Parij Kommunasi"
+      ],
+      "answer": 3,
+      "explain": "1871-yil — 72 kunlik Parij Kommunasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslikning tayanch ma'lumotlarida «1871-yil» — 72 kunlik Parij Kommunasi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1871-yil — 72 kunlik Parij Kommunasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): darslik ma'lumotlariga ko'ra «1871-yil» — Napoleon I imperator bo'ldi, Fuqarolik kodeksi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1871-yil» — 72 kunlik Parij Kommunasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «mashhur «Uch imperator jangi» bo'lgan joy» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Austerlis",
+        "Borodino",
+        "Kutuzov",
+        "Leypsig"
+      ],
+      "answer": 0,
+      "explain": "Austerlis — mashhur «Uch imperator jangi» bo'lgan joy.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «mashhur «Uch imperator jangi» bo'lgan joy» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Austerlis",
+        "austerlis",
+        "AUSTERLIS"
+      ],
+      "explain": "Austerlis — mashhur «Uch imperator jangi» bo'lgan joy.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Austerlis» tayanch atamasi/nomi «mashhur «Uch imperator jangi» bo'lgan joy» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Austerlis — mashhur «Uch imperator jangi» bo'lgan joy.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Austerlis» atamasi/nomi darslikda «1812-yil 7-sentyabrdagi yirik jang» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Austerlis — mashhur «Uch imperator jangi» bo'lgan joy.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1812-yil 7-sentyabrdagi yirik jang» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Austerlis",
+        "Borodino",
+        "Kutuzov",
+        "Leypsig"
+      ],
+      "answer": 1,
+      "explain": "Borodino — 1812-yil 7-sentyabrdagi yirik jang.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1812-yil 7-sentyabrdagi yirik jang» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Borodino",
+        "borodino",
+        "BORODINO"
+      ],
+      "explain": "Borodino — 1812-yil 7-sentyabrdagi yirik jang.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Borodino» tayanch atamasi/nomi «1812-yil 7-sentyabrdagi yirik jang» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Borodino — 1812-yil 7-sentyabrdagi yirik jang.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Borodino» atamasi/nomi darslikda «mashhur «Uch imperator jangi» bo'lgan joy» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Borodino — 1812-yil 7-sentyabrdagi yirik jang.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1812-yilda rus armiyasini boshqargan sarkarda» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Austerlis",
+        "Borodino",
+        "Kutuzov",
+        "Leypsig"
+      ],
+      "answer": 2,
+      "explain": "Kutuzov — 1812-yilda rus armiyasini boshqargan sarkarda.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1812-yilda rus armiyasini boshqargan sarkarda» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Kutuzov",
+        "kutuzov",
+        "KUTUZOV"
+      ],
+      "explain": "Kutuzov — 1812-yilda rus armiyasini boshqargan sarkarda.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Kutuzov» tayanch atamasi/nomi «1812-yilda rus armiyasini boshqargan sarkarda» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Kutuzov — 1812-yilda rus armiyasini boshqargan sarkarda.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Kutuzov» atamasi/nomi darslikda «mashhur «Uch imperator jangi» bo'lgan joy» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kutuzov — 1812-yilda rus armiyasini boshqargan sarkarda.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1813-yilgi «Xalqlar jangi» bo'lgan shahar» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Austerlis",
+        "Borodino",
+        "Kutuzov",
+        "Leypsig"
+      ],
+      "answer": 3,
+      "explain": "Leypsig — 1813-yilgi «Xalqlar jangi» bo'lgan shahar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1813-yilgi «Xalqlar jangi» bo'lgan shahar» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Leypsig",
+        "leypsig",
+        "LEYPSIG"
+      ],
+      "explain": "Leypsig — 1813-yilgi «Xalqlar jangi» bo'lgan shahar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Leypsig» tayanch atamasi/nomi «1813-yilgi «Xalqlar jangi» bo'lgan shahar» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Leypsig — 1813-yilgi «Xalqlar jangi» bo'lgan shahar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Leypsig» atamasi/nomi darslikda «mashhur «Uch imperator jangi» bo'lgan joy» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Leypsig — 1813-yilgi «Xalqlar jangi» bo'lgan shahar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1815-yilda Napoleon yengilgan hal qiluvchi jang» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Vaterloo",
+        "Austerlis",
+        "Borodino",
+        "Kutuzov"
+      ],
+      "answer": 0,
+      "explain": "Vaterloo — 1815-yilda Napoleon yengilgan hal qiluvchi jang.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1815-yilda Napoleon yengilgan hal qiluvchi jang» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Vaterloo",
+        "vaterloo",
+        "VATERLOO"
+      ],
+      "explain": "Vaterloo — 1815-yilda Napoleon yengilgan hal qiluvchi jang.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Vaterloo» tayanch atamasi/nomi «1815-yilda Napoleon yengilgan hal qiluvchi jang» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Vaterloo — 1815-yilda Napoleon yengilgan hal qiluvchi jang.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «Vaterloo» atamasi/nomi darslikda «mashhur «Uch imperator jangi» bo'lgan joy» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Vaterloo — 1815-yilda Napoleon yengilgan hal qiluvchi jang.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "22-mavzu (Fransiya: imperiyalar davri): «1807-yilgi Fransiya–Rossiya sulhi shahri» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Austerlis",
+        "Tilzit",
+        "Borodino",
+        "Kutuzov"
+      ],
+      "answer": 1,
+      "explain": "Tilzit — 1807-yilgi Fransiya–Rossiya sulhi shahri.",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "AUSTERLIS",
+      "Mashhur «Uch imperator jangi» bo'lgan joy"
+    ],
+    [
+      "BORODINO",
+      "1812-yil 7-sentyabrdagi yirik jang"
+    ],
+    [
+      "KUTUZOV",
+      "1812-yilda rus armiyasini boshqargan sarkarda"
+    ],
+    [
+      "LEYPSIG",
+      "1813-yilgi «Xalqlar jangi» bo'lgan shahar"
+    ],
+    [
+      "VATERLOO",
+      "1815-yilda Napoleon yengilgan hal qiluvchi jang"
+    ],
+    [
+      "TILZIT",
+      "1807-yilgi Fransiya–Rossiya sulhi shahri"
+    ],
+    [
+      "KOMMUNA",
+      "1871-yilda Parijda 72 kun turgan hokimiyat"
+    ],
+    [
+      "KODEKS",
+      "1804-yilda Napoleon chiqargan fuqarolik qonuni"
+    ],
+    [
+      "YELENA",
+      "Napoleon umrining oxirigacha surgun qilingan orol"
+    ],
+    [
+      "ELBA",
+      "1814-yilda Napoleon ilk bor surgun qilingan orol"
+    ],
+    [
+      "1804-yil",
+      "Napoleon I imperator bo'ldi, Fuqarolik kodeksi"
+    ],
+    [
+      "1812-yil 7-sentyabr",
+      "Borodino jangi (Kutuzov)"
+    ],
+    [
+      "1814–1815-yillar",
+      "Vena kongressi va «Muqaddas ittifoq»"
+    ],
+    [
+      "1815-yil Vaterloo",
+      "Napoleon «100 kun»ining yakuni"
+    ],
+    [
+      "1830-yil",
+      "«Iyul monarxiyasi» (Lui Filipp)"
+    ],
+    [
+      "1848-yil 25-fevral",
+      "Ikkinchi Respublika e'lon qilindi"
+    ],
+    [
+      "1852–1870-yillar",
+      "Napoleon III — Ikkinchi imperiya"
+    ],
+    [
+      "1871-yil",
+      "72 kunlik Parij Kommunasi"
+    ],
+    [
+      "Fuqarolik kodeksi",
+      "1804-yilda Napoleon qabul qilgan, qonun oldida tenglik va xususiy mu"
+    ],
+    [
+      "Qit'a qamali",
+      "Napoleon I tomonidan Buyuk Britaniya iqtisodiyotini bo'g'ish uchun u"
+    ],
+    [
+      "Vena kongressi",
+      "1814–1815-yillarda Napoleon mag'lubiyatidan so'ng Yevropa chegaralar"
+    ],
+    [
+      "Muqaddas ittifoq",
+      "1815-yil 26-sentyabrda Rossiya, Avstriya va Prussiya monarxlarining"
+    ],
+    [
+      "Parij Kommunasi",
+      "1871-yilda Fransiyada 72 kun hokimiyatda turgan inqilobiy ishchi-xal"
+    ],
+    [
+      "Napoleon I Bonapart",
+      "1804–1814-yillarda Fransiya imperatori, «Fuqarolik kodeksi» tashabbu"
+    ],
+    [
+      "Mixail Kutuzov",
+      "1812-yilgi Vatan urushida Borodino jangida rus qo'shinlariga qo'mond"
+    ],
+    [
+      "Lyudovik XVIII",
+      "1814-yilda Napoleon surgun qilinganidan so'ng Fransiyada Burbonlar t"
+    ],
+    [
+      "Lui Filipp",
+      "1830-yilgi Iyul inqilobidan so'ng taxtga o'tirgan «Iyul monarxiyasi»"
+    ],
+    [
+      "Napoleon III",
+      "1848-yilda prezident, 1852-yilda imperator bo'lib 1870-yilgacha Ikki"
+    ],
+    [
+      "1807-yil",
+      "Fransiya va Rossiya o'rtasida Yevropani taqsimlovchi Tilzit sulh sha"
+    ],
+    [
+      "1812-yil",
+      "Napoleon Rossiyaga bostirib kirdi va 7-sentyabrda mashhur Borodino j"
+    ],
+    [
+      "1813-yil",
+      "Leypsig yaqinidagi «Xalqlar jangi»da Napoleon armiyasi ittifoqchilar"
+    ],
+    [
+      "1814-yil",
+      "Napoleon taxtdan voz kechib Elba oroliga surgun qilindi va Burbonlar"
+    ],
+    [
+      "1815-yil",
+      "Napoleonning «100 kun»i Vaterloo jangidagi mag'lubiyat bilan tugab,"
+    ],
+    [
+      "1848-yil",
+      "Fevral inqilobi Ikkinchi Respublikani e'lon qildi va dekabrda Lui Na"
+    ],
+    [
+      "1852-yil",
+      "2-dekabrda Lui Napoleon o'zini imperator Napoleon III deb e'lon qili"
+    ],
+    [
+      "1869-yil",
+      "Fransiyada 26 200 bug' mashinasi ishladi va Suvaysh kanali ochilib S"
+    ],
+    [
+      "1870-yil",
+      "Fransiya–Prussiya urushidagi mag'lubiyatdan so'ng 4-sentyabrda Ikkin"
+    ]
+  ]
+}

@@ -1,0 +1,2441 @@
+{
+  "id": "g9-uz-jahon-tarixi-26-yaponiya-meydzi-va-koreya",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "26-mavzu. Yaponiya va Koreya: ma’rifatli boshqaruv va mustaqil taraqqiyot uchun kurash",
+  "title": "26-mavzu. Yaponiya va Koreya: ma’rifatli boshqaruv va mustaqil taraqqiyot uchun kurash",
+  "source": "Jahon tarixi 9-sinf (2024), 26-mavzu, 145–150-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): qaysi yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi?",
+      "options": [
+        "1831-yil",
+        "1813-yil",
+        "1832-yil",
+        "1854-yil"
+      ],
+      "answer": 1,
+      "explain": "1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya) mavzusiga ko'ra 1813-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi",
+        "Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi»"
+      ],
+      "answer": 2,
+      "explain": "1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): ____-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi. (Yilni kiriting)",
+      "answer": [
+        "1813",
+        "1813-yil",
+        "1813-yilda"
+      ],
+      "explain": "1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1813-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1831-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1831-yilda emas, 1813-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik xronologiyasiga ko'ra 1832-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): qaysi yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi?",
+      "options": [
+        "1831-yil",
+        "1813-yil",
+        "1832-yil",
+        "1854-yil"
+      ],
+      "answer": 0,
+      "explain": "1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya) mavzusiga ko'ra 1831-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "Vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi",
+        "AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi»"
+      ],
+      "answer": 1,
+      "explain": "1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): ____-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi. (Yilni kiriting)",
+      "answer": [
+        "1831",
+        "1831-yil",
+        "1831-yilda"
+      ],
+      "explain": "1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1831-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi.",
+      "answer": true,
+      "explain": "To'g'ri. 1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1813-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1813-yilda emas, 1831-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik xronologiyasiga ko'ra 1832-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): qaysi yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi?",
+      "options": [
+        "1813-yil",
+        "1831-yil",
+        "1854-yil",
+        "1832-yil"
+      ],
+      "answer": 3,
+      "explain": "1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya) mavzusiga ko'ra 1832-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi",
+        "Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "Vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi»"
+      ],
+      "answer": 0,
+      "explain": "1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): ____-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi. (Yilni kiriting)",
+      "answer": [
+        "1832",
+        "1832-yil",
+        "1832-yilda"
+      ],
+      "explain": "1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XIX asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1832-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1813-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1813-yilda emas, 1832-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik xronologiyasiga ko'ra 1831-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): qaysi yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi»?",
+      "options": [
+        "1813-yil",
+        "1831-yil",
+        "1854-yil",
+        "1832-yil"
+      ],
+      "answer": 2,
+      "explain": "1854-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya) mavzusiga ko'ra 1854-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "Vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi",
+        "AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi»"
+      ],
+      "answer": 3,
+      "explain": "1854-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): ____-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi». (Yilni kiriting)",
+      "answer": [
+        "1854",
+        "1854-yil",
+        "1854-yilda"
+      ],
+      "explain": "1854-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi»» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIX asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1854-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1854-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "answer": true,
+      "explain": "To'g'ri. 1854-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1813-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1813-yilda emas, 1854-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik xronologiyasiga ko'ra 1831-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "answer": false,
+      "explain": "Noto'g'ri. 1854-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): qaysi yilda fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi?",
+      "options": [
+        "1813-yil",
+        "1868-yil",
+        "1831-yil",
+        "1832-yil"
+      ],
+      "answer": 1,
+      "explain": "1868-yilda fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya) mavzusiga ko'ra 1868-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "Vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "Fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi",
+        "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi"
+      ],
+      "answer": 2,
+      "explain": "1868-yilda fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): ____-yilda fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1868",
+        "1868-yil",
+        "1868-yilda"
+      ],
+      "explain": "1868-yilda fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XIX asrda"
+      ],
+      "answer": 3,
+      "explain": "1868-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1868-yilda fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1868-yilda fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1813-yilda fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1813-yilda emas, 1868-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik xronologiyasiga ko'ra 1831-yilda fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1868-yilda fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): qaysi yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi?",
+      "options": [
+        "1869-yil",
+        "1813-yil",
+        "1831-yil",
+        "1832-yil"
+      ],
+      "answer": 0,
+      "explain": "1869-yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya) mavzusiga ko'ra 1869-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "Bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi",
+        "Vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi"
+      ],
+      "answer": 1,
+      "explain": "1869-yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): ____-yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi. (Yilni kiriting)",
+      "answer": [
+        "1869",
+        "1869-yil",
+        "1869-yilda"
+      ],
+      "explain": "1869-yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XIX asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1869-yil XIX asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1869-yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "answer": true,
+      "explain": "To'g'ri. 1869-yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1813-yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1813-yilda emas, 1869-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik xronologiyasiga ko'ra 1831-yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1869-yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreyada hukumat zulmiga qarshi...» hamda «AQSH harbiy floti bosimi ostida...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi",
+        "AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi»",
+        "Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi"
+      ],
+      "answer": 3,
+      "explain": "1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreyada hukumat zulmiga qarshi...» hamda «AQSH harbiy floti bosimi ostida...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi»",
+        "Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "Vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi"
+      ],
+      "answer": 0,
+      "explain": "1854-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreya hukumati Buyuk Britaniyan...» hamda «Bahorda Xokkaydo orolidagi qarsh...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi»",
+        "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi",
+        "Fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi",
+        "Bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi"
+      ],
+      "answer": 1,
+      "explain": "1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreya hukumati Buyuk Britaniyan...» hamda «Bahorda Xokkaydo orolidagi qarsh...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi",
+        "AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi»",
+        "Bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi",
+        "Fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi"
+      ],
+      "answer": 2,
+      "explain": "1869-yilda bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi voqeasi vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1813-yil 1831-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi voqeasi Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi, 1831-yilda esa vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi voqeasi Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1813-yil 1832-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi voqeasi Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi, 1832-yilda esa Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi voqeasi AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1813-yil 1854-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» voqeasi Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi, 1854-yilda esa AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi voqeasi fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1813-yil 1868-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi voqeasi Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi, 1868-yilda esa fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi voqeasi bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1813-yil 1869-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi voqeasi Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi, 1869-yilda esa bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi voqeasi Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1831-yil 1832-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi voqeasi vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi, 1832-yilda esa Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi voqeasi AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1831-yil 1854-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» voqeasi vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi, 1854-yilda esa AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi voqeasi fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1831-yil 1868-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi voqeasi vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi, 1868-yilda esa fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi voqeasi bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1831-yil 1869-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi voqeasi vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi, 1869-yilda esa bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi voqeasi AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1832-yil 1854-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» voqeasi Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi, 1854-yilda esa AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi».",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi voqeasi fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1832-yil 1868-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi voqeasi Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi, 1868-yilda esa fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi voqeasi bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1832-yil 1869-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi voqeasi Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi, 1869-yilda esa bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» voqeasi fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1854-yil 1868-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi voqeasi AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1854-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi», 1868-yilda esa fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Meydzi inqilobi» boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): xronologiyaga ko'ra AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» voqeasi bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1854-yil 1869-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy ketma-ketlikka ko'ra bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi voqeasi AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi» hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1854-yilda AQSH harbiy floti bosimi ostida Yaponiya «Tinchlik va do'stlik to'g'risida» shartnoma imzolab «ochildi», 1869-yilda esa bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butunlay tugatildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1868-yildan boshlab «Meydzi» («ma'rifatli boshqaruv») davri islohotlarini boshqargan yapon imperatori» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Li Xa In",
+        "Xon Gyon Ne",
+        "Xristofor Kolumb",
+        "Musuxito"
+      ],
+      "answer": 3,
+      "explain": "Imperator Musuxito davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Musuxitoning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1868-yildan boshlab «Meydzi» («ma'rifatli boshqaruv») davri islohotlarini boshqargan yapon imperatori",
+        "XIX asr 60–70-yillarida «tevongun» (hokim) bo'lib Koreyada noron partiyasini zaiflashtirgan davlat arbobi",
+        "XIX asr boshlarida Koreyada Li sulolasi inqirozi va soliq zulmiga qarshi yirik qo'zg'olon rahbari",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 0,
+      "explain": "Imperator Musuxito davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1868-yildan boshlab «Meydzi» («ma'rifatli boshqaruv») davri islohotlarini boshqargan yapon imperatori bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Musuxito"
+      ],
+      "explain": "Imperator Musuxito davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Imperator Musuxito davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. Imperator Musuxito davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Musuxito — XIX asr 60–70-yillarida «tevongun» (hokim) bo'lib Koreyada noron partiyasini zaiflashtirgan davlat arbobi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Imperator Musuxito davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikda Musuxito «XIX asr boshlarida Koreyada Li sulolasi inqirozi va soliq zulmiga qarshi yirik qo'zg'olon rahbari» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Imperator Musuxito davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Imperator ____ davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi».",
+      "options": [
+        "Li Xa In",
+        "Musuxito",
+        "Xon Gyon Ne",
+        "Xristofor Kolumb"
+      ],
+      "answer": 1,
+      "explain": "Imperator Musuxito davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Imperator ____ davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Musuxito"
+      ],
+      "explain": "Imperator Musuxito davrida Yaponiya qisqa vaqt ichida feodal qoloqlikdan zamonaviy industrial davlatga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «XIX asr 60–70-yillarida «tevongun» (hokim) bo'lib Koreyada noron partiyasini zaiflashtirgan davlat arbobi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Musuxito",
+        "Xon Gyon Ne",
+        "Li Xa In",
+        "Xristofor Kolumb"
+      ],
+      "answer": 2,
+      "explain": "Tevongun Li Xa In uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Li Xa Inning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1868-yildan boshlab «Meydzi» («ma'rifatli boshqaruv») davri islohotlarini boshqargan yapon imperatori",
+        "XIX asr boshlarida Koreyada Li sulolasi inqirozi va soliq zulmiga qarshi yirik qo'zg'olon rahbari",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi",
+        "XIX asr 60–70-yillarida «tevongun» (hokim) bo'lib Koreyada noron partiyasini zaiflashtirgan davlat arbobi"
+      ],
+      "answer": 3,
+      "explain": "Tevongun Li Xa In uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): XIX asr 60–70-yillarida «tevongun» (hokim) bo'lib Koreyada noron partiyasini zaiflashtirgan davlat arbobi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Li Xa In"
+      ],
+      "explain": "Tevongun Li Xa In uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Tevongun Li Xa In uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi.",
+      "answer": true,
+      "explain": "To'g'ri. Tevongun Li Xa In uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Li Xa In — 1868-yildan boshlab «Meydzi» («ma'rifatli boshqaruv») davri islohotlarini boshqargan yapon imperatori.",
+      "answer": false,
+      "explain": "Noto'g'ri. Tevongun Li Xa In uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikda Li Xa In «XIX asr boshlarida Koreyada Li sulolasi inqirozi va soliq zulmiga qarshi yirik qo'zg'olon rahbari» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tevongun Li Xa In uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Tevongun ____ uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi».",
+      "options": [
+        "Li Xa In",
+        "Musuxito",
+        "Xon Gyon Ne",
+        "Xristofor Kolumb"
+      ],
+      "answer": 0,
+      "explain": "Tevongun Li Xa In uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Tevongun ____ uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Li Xa In"
+      ],
+      "explain": "Tevongun Li Xa In uy boshi solig'ini kiritib, Kyonbokkun saroyini tikladi va Yevropa davlatlariga qarshilik ko'rsatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «XIX asr boshlarida Koreyada Li sulolasi inqirozi va soliq zulmiga qarshi yirik qo'zg'olon rahbari» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Musuxito",
+        "Xon Gyon Ne",
+        "Li Xa In",
+        "Xristofor Kolumb"
+      ],
+      "answer": 1,
+      "explain": "Xon Gyon Ne qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Xon Gyon Nening tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1868-yildan boshlab «Meydzi» («ma'rifatli boshqaruv») davri islohotlarini boshqargan yapon imperatori",
+        "XIX asr 60–70-yillarida «tevongun» (hokim) bo'lib Koreyada noron partiyasini zaiflashtirgan davlat arbobi",
+        "XIX asr boshlarida Koreyada Li sulolasi inqirozi va soliq zulmiga qarshi yirik qo'zg'olon rahbari",
+        "Buyuk geografik kashfiyotlar davri dengiz sayyohi"
+      ],
+      "answer": 2,
+      "explain": "Xon Gyon Ne qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): XIX asr boshlarida Koreyada Li sulolasi inqirozi va soliq zulmiga qarshi yirik qo'zg'olon rahbari bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Xon Gyon Ne"
+      ],
+      "explain": "Xon Gyon Ne qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Xon Gyon Ne qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi.",
+      "answer": true,
+      "explain": "To'g'ri. Xon Gyon Ne qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Xon Gyon Ne — 1868-yildan boshlab «Meydzi» («ma'rifatli boshqaruv») davri islohotlarini boshqargan yapon imperatori.",
+      "answer": false,
+      "explain": "Noto'g'ri. Xon Gyon Ne qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikda Xon Gyon Ne «XIX asr 60–70-yillarida «tevongun» (hokim) bo'lib Koreyada noron partiyasini zaiflashtirgan davlat arbobi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Xon Gyon Ne qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi».",
+      "options": [
+        "Musuxito",
+        "Li Xa In",
+        "Xristofor Kolumb",
+        "Xon Gyon Ne"
+      ],
+      "answer": 3,
+      "explain": "Xon Gyon Ne qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «____ qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Xon Gyon Ne"
+      ],
+      "explain": "Xon Gyon Ne qo'zg'oloni va 1813-yilgi Chjechjyu orolidagi isyon Koreyadagi ijtimoiy keskinlikni ko'rsatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Meydzi inqilobi",
+        "Iyena",
+        "Busido",
+        "Missionerlik"
+      ],
+      "answer": 0,
+      "explain": "Meydzi inqilobi — 1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi inqilobi» atamasi nimani anglatadi?",
+      "options": [
+        "Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi",
+        "1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar",
+        "Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi",
+        "Boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati"
+      ],
+      "answer": 1,
+      "explain": "Meydzi inqilobi — 1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Meydzi inqilobi",
+        "meydzi inqilobi"
+      ],
+      "explain": "Meydzi inqilobi — 1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi inqilobi» tushunchasi «1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Meydzi inqilobi — 1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi inqilobi» deganda Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Meydzi inqilobi — 1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy lug'atga ko'ra «Meydzi inqilobi» — «Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Meydzi inqilobi — 1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Meydzi inqilobi",
+        "Busido",
+        "Iyena",
+        "Missionerlik"
+      ],
+      "answer": 2,
+      "explain": "Iyena — Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Iyena» atamasi nimani anglatadi?",
+      "options": [
+        "1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar",
+        "Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi",
+        "Boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati",
+        "Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi"
+      ],
+      "answer": 3,
+      "explain": "Iyena — Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Iyena",
+        "iyena"
+      ],
+      "explain": "Iyena — Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Iyena» tushunchasi «Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Iyena — Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Iyena» deganda 1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Iyena — Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy lug'atga ko'ra «Iyena» — «Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Iyena — Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Busido",
+        "Meydzi inqilobi",
+        "Iyena",
+        "Missionerlik"
+      ],
+      "answer": 0,
+      "explain": "Busido — Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Busido» atamasi nimani anglatadi?",
+      "options": [
+        "1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar",
+        "Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi",
+        "Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi",
+        "Boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati"
+      ],
+      "answer": 1,
+      "explain": "Busido — Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Busido",
+        "busido"
+      ],
+      "explain": "Busido — Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Busido» tushunchasi «Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Busido — Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Busido» deganda 1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Busido — Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy lug'atga ko'ra «Busido» — «Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Busido — Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Meydzi inqilobi",
+        "Iyena",
+        "Missionerlik",
+        "Busido"
+      ],
+      "answer": 2,
+      "explain": "Missionerlik — boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Missionerlik» atamasi nimani anglatadi?",
+      "options": [
+        "1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar",
+        "Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi",
+        "Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi",
+        "Boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati"
+      ],
+      "answer": 3,
+      "explain": "Missionerlik — boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Missionerlik",
+        "missionerlik"
+      ],
+      "explain": "Missionerlik — boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Missionerlik» tushunchasi «boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Missionerlik — boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Missionerlik» deganda 1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Missionerlik — boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy lug'atga ko'ra «Missionerlik» — «Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Missionerlik — boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orqali siyosiy ta'sir o'tkazish faoliyati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreyada yosh qirol nomidan davlatni boshqargan Li Xa In («hokim») unvoni» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Tevongun",
+        "Meydzi inqilobi",
+        "Iyena",
+        "Busido"
+      ],
+      "answer": 0,
+      "explain": "Tevongun — Koreyada yosh qirol nomidan davlatni boshqargan Li Xa In («hokim») unvoni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Tevongun» atamasi nimani anglatadi?",
+      "options": [
+        "1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar",
+        "Koreyada yosh qirol nomidan davlatni boshqargan Li Xa In («hokim») unvoni",
+        "Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi",
+        "Yaponiyada zamonaviy armiyaga ham tatbiq etilgan qadimiy samuraylar shon-sharaf va sadoqat kodeksi"
+      ],
+      "answer": 1,
+      "explain": "Tevongun — Koreyada yosh qirol nomidan davlatni boshqargan Li Xa In («hokim») unvoni.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreyada yosh qirol nomidan davlatni boshqargan Li Xa In («hokim») unvoni» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Tevongun",
+        "tevongun"
+      ],
+      "explain": "Tevongun — Koreyada yosh qirol nomidan davlatni boshqargan Li Xa In («hokim») unvoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Tevongun» tushunchasi «Koreyada yosh qirol nomidan davlatni boshqargan Li Xa In («hokim») unvoni» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Tevongun — Koreyada yosh qirol nomidan davlatni boshqargan Li Xa In («hokim») unvoni.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Tevongun» deganda 1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yaponiyani modernizatsiya qilgan islohotlar tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tevongun — Koreyada yosh qirol nomidan davlatni boshqargan Li Xa In («hokim») unvoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): tarixiy lug'atga ko'ra «Tevongun» — «Meydzi islohotlari davrida Yaponiyada butun mamlakat uchun joriy etilgan yagona pul birligi» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Tevongun — Koreyada yosh qirol nomidan davlatni boshqargan Li Xa In («hokim») unvoni.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1854-yilda AQSH harbiy floti bilan imzolangan «Tinchlik va do'stlik to'g'risida»gi shartnoma Yaponiyada nimani o'zgartirdi?",
+      "options": [
+        "Yaponiya AQSHning shtatiga aylandi",
+        "Barcha portlar abadiy yopildi",
+        "Yaponiyaning 200 yillik «yopiq eshiklar» siyosatiga barham berib, 2 ta port va AQSH konsulligini ochdi",
+        "Yaponiya Xitoyga qo'shib olindi"
+      ],
+      "answer": 2,
+      "explain": "Shundan so'ng Buyuk Britaniya, Fransiya va Rossiya ham Yaponiya bilan tengsiz savdo bitimlari tuzdilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1854-yilda AQSH harbiy floti bilan imzolangan «Tinchlik va do'stlik to'g'risida»gi shartnoma Yaponiyada nimani o'zgartirdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1854-yilda Yaponiya AQSH harbiy flotini butunlay yo'q qilib hech qanday shartnoma tuzmadi",
+        "«Meydzi» atamasi «Syogunlar qaytishi» degan ma'noni anglatadi",
+        "Meydzi islohoti yer sotishni qat'iy taqiqlab qo'ydi",
+        "1854-yilgi AQSH–Yaponiya shartnomasi Yaponiya portlarining xorijiy kemalar uchun ochilishini boshlab berdi"
+      ],
+      "answer": 3,
+      "explain": "Shundan so'ng Buyuk Britaniya, Fransiya va Rossiya ham Yaponiya bilan tengsiz savdo bitimlari tuzdilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1854-yilda AQSH harbiy floti bilan imzolangan «Tinchlik va do'stlik to'g'risida»gi shartnoma Yaponiyada nimani o'zgartirdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1854-yilda Yaponiya AQSH harbiy flotini butunlay yo'q qilib hech qanday shartnoma tuzmadi",
+        "1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: 1854-yilda Yaponiya AQSH harbiy flotini butunlay yo'q qilib hech qanday shartnoma tuzmadi. Aslida: Shundan so'ng Buyuk Britaniya, Fransiya va Rossiya ham Yaponiya bilan tengsiz savdo bitimlari tuzdilar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1854-yilgi AQSH–Yaponiya shartnomasi Yaponiya portlarining xorijiy kemalar uchun ochilishini boshlab berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Shundan so'ng Buyuk Britaniya, Fransiya va Rossiya ham Yaponiya bilan tengsiz savdo bitimlari tuzdilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1854-yilda Yaponiya AQSH harbiy flotini butunlay yo'q qilib hech qanday shartnoma tuzmadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Shundan so'ng Buyuk Britaniya, Fransiya va Rossiya ham Yaponiya bilan tengsiz savdo bitimlari tuzdilar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik izohiga ko'ra shundan so'ng Buyuk Britaniya, Fransiya va Rossiya ham Yaponiya bilan tengsiz savdo bitimlari tuzdilar.",
+      "answer": true,
+      "explain": "To'g'ri. Shundan so'ng Buyuk Britaniya, Fransiya va Rossiya ham Yaponiya bilan tengsiz savdo bitimlari tuzdilar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi» so'zi yapon tilidan o'zbekchaga qanday tarjima qilinadi?",
+      "options": [
+        "«Yopiq eshik»",
+        "«Ma'rifatli boshqaruv»",
+        "«Temir qilich»",
+        "«Harbiy diktatura»"
+      ],
+      "answer": 1,
+      "explain": "Meydzi islohotlari Yaponiyaning mustamlakaga aylanib qolishining oldini oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): ««Meydzi» so'zi yapon tilidan o'zbekchaga qanday tarjima qilinadi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "«Meydzi» atamasi «Syogunlar qaytishi» degan ma'noni anglatadi",
+        "1854-yilda Yaponiya AQSH harbiy flotini butunlay yo'q qilib hech qanday shartnoma tuzmadi",
+        "Imperator Musuxito davri (1868-yildan) tarixga «Meydzi» — «ma'rifatli boshqaruv» nomi bilan kirgan",
+        "Meydzi islohoti yer sotishni qat'iy taqiqlab qo'ydi"
+      ],
+      "answer": 2,
+      "explain": "Meydzi islohotlari Yaponiyaning mustamlakaga aylanib qolishining oldini oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): ««Meydzi» so'zi yapon tilidan o'zbekchaga qanday tarjima qilinadi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi",
+        "«Meydzi» atamasi «Syogunlar qaytishi» degan ma'noni anglatadi"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: «Meydzi» atamasi «Syogunlar qaytishi» degan ma'noni anglatadi. Aslida: Meydzi islohotlari Yaponiyaning mustamlakaga aylanib qolishining oldini oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Imperator Musuxito davri (1868-yildan) tarixga «Meydzi» — «ma'rifatli boshqaruv» nomi bilan kirgan.",
+      "answer": true,
+      "explain": "To'g'ri. Meydzi islohotlari Yaponiyaning mustamlakaga aylanib qolishining oldini oldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi» atamasi «Syogunlar qaytishi» degan ma'noni anglatadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Meydzi islohotlari Yaponiyaning mustamlakaga aylanib qolishining oldini oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik izohiga ko'ra Meydzi islohotlari Yaponiyaning mustamlakaga aylanib qolishining oldini oldi.",
+      "answer": true,
+      "explain": "To'g'ri. Meydzi islohotlari Yaponiyaning mustamlakaga aylanib qolishining oldini oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Yaponiyada 1868-yilda boshlangan «Meydzi» atamasi o'zbek tilida «____ boshqaruv» ma'nosini bildiradi. (Sifatni yozing)",
+      "answer": [
+        "ma'rifatli",
+        "marifatli"
+      ],
+      "explain": "Meydzi islohotlari Yaponiyaning mustamlakaga aylanib qolishining oldini oldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Meydzi agrar islohotidan keyin Yaponiyada qancha yer ulushi 10 yil ichida boy zamindorlar va sudxo'rlar qo'lida to'plandi?",
+      "options": [
+        "Yarim daromad solig'ini to'lay olmagan dehqonlar tufayli ekin yerlarning uchdan bir qismi boylarga o'tdi",
+        "Yerning barchasi davlatda bepul qoldi",
+        "Dehqonlar biror foiz ham yer yo'qotmadi",
+        "Barcha yerlar chet elliklarga sotildi"
+      ],
+      "answer": 0,
+      "explain": "Shu tariqa yerlar erkin bozor mulkiga aylanib, sanoat uchun kapital to'plandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi agrar islohotidan keyin Yaponiyada qancha yer ulushi 10 yil ichida boy zamindorlar va sudxo'rlar qo'lida to'plandi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Meydzi islohoti yer sotishni qat'iy taqiqlab qo'ydi",
+        "Meydzi agrar islohoti yer savdosiga ruxsat berib 50 foizlik daromad solig'i kiritgach, 10 yilda yerning uchdan biri boylarga o'tdi",
+        "1854-yilda Yaponiya AQSH harbiy flotini butunlay yo'q qilib hech qanday shartnoma tuzmadi",
+        "«Meydzi» atamasi «Syogunlar qaytishi» degan ma'noni anglatadi"
+      ],
+      "answer": 1,
+      "explain": "Shu tariqa yerlar erkin bozor mulkiga aylanib, sanoat uchun kapital to'plandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi agrar islohotidan keyin Yaponiyada qancha yer ulushi 10 yil ichida boy zamindorlar va sudxo'rlar qo'lida to'plandi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "Meydzi islohoti yer sotishni qat'iy taqiqlab qo'ydi",
+        "1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Meydzi islohoti yer sotishni qat'iy taqiqlab qo'ydi. Aslida: Shu tariqa yerlar erkin bozor mulkiga aylanib, sanoat uchun kapital to'plandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Meydzi agrar islohoti yer savdosiga ruxsat berib 50 foizlik daromad solig'i kiritgach, 10 yilda yerning uchdan biri boylarga o'tdi.",
+      "answer": true,
+      "explain": "To'g'ri. Shu tariqa yerlar erkin bozor mulkiga aylanib, sanoat uchun kapital to'plandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Meydzi islohoti yer sotishni qat'iy taqiqlab qo'ydi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Shu tariqa yerlar erkin bozor mulkiga aylanib, sanoat uchun kapital to'plandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik izohiga ko'ra shu tariqa yerlar erkin bozor mulkiga aylanib, sanoat uchun kapital to'plandi.",
+      "answer": true,
+      "explain": "To'g'ri. Shu tariqa yerlar erkin bozor mulkiga aylanib, sanoat uchun kapital to'plandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Yaponiya Meydzi harbiy va sanoat islohotlarini amalga oshirishda qanday yo'l tutdi?",
+      "options": [
+        "Armiyani tarqatib yubordi",
+        "Zavod qurishni butunlay man etdi",
+        "Faqat qishloq xo'jaligini saqlab qoldi",
+        "Umumiy harbiy majburiyat joriy etdi, fransuz mutaxassislarini chaqirdi va davlat korxonalarini xususiy tadbirkorlarga sotdi/ijaraga berdi"
+      ],
+      "answer": 3,
+      "explain": "Ma'muriy islohotda knyazliklar (daymyo) tugatilib o'rniga gubernatorliklar tashkil etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Yaponiya Meydzi harbiy va sanoat islohotlarini amalga oshirishda qanday yo'l tutdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Davlat byudjeti hisobidan qurilgan zavodlar keyinroq arzon narxda xususiy tadbirkorlarga berilishi yapon sanoatini tez rivojlantirdi",
+        "Meydzi hukumati harbiy sohada faqat o'rta asr qilich va kamonlaridan foydalanishni buyurdi",
+        "1854-yilda Yaponiya AQSH harbiy flotini butunlay yo'q qilib hech qanday shartnoma tuzmadi",
+        "«Meydzi» atamasi «Syogunlar qaytishi» degan ma'noni anglatadi"
+      ],
+      "answer": 0,
+      "explain": "Ma'muriy islohotda knyazliklar (daymyo) tugatilib o'rniga gubernatorliklar tashkil etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Yaponiya Meydzi harbiy va sanoat islohotlarini amalga oshirishda qanday yo'l tutdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "Meydzi hukumati harbiy sohada faqat o'rta asr qilich va kamonlaridan foydalanishni buyurdi",
+        "1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Meydzi hukumati harbiy sohada faqat o'rta asr qilich va kamonlaridan foydalanishni buyurdi. Aslida: Ma'muriy islohotda knyazliklar (daymyo) tugatilib o'rniga gubernatorliklar tashkil etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Davlat byudjeti hisobidan qurilgan zavodlar keyinroq arzon narxda xususiy tadbirkorlarga berilishi yapon sanoatini tez rivojlantirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Ma'muriy islohotda knyazliklar (daymyo) tugatilib o'rniga gubernatorliklar tashkil etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Meydzi hukumati harbiy sohada faqat o'rta asr qilich va kamonlaridan foydalanishni buyurdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Ma'muriy islohotda knyazliklar (daymyo) tugatilib o'rniga gubernatorliklar tashkil etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik izohiga ko'ra ma'muriy islohotda knyazliklar (daymyo) tugatilib o'rniga gubernatorliklar tashkil etildi.",
+      "answer": true,
+      "explain": "To'g'ri. Ma'muriy islohotda knyazliklar (daymyo) tugatilib o'rniga gubernatorliklar tashkil etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): XIX asr o'rtalarida Koreyaga fransuz harbiy kemalari bostirib kirishiga nima sabab bo'ldi va yurish qanday tugadi?",
+      "options": [
+        "Fransiya butun Koreyani 1831-yilda egallab oldi",
+        "Koreya Fransiyaga urush e'lon qilgani uchun",
+        "Koreyada fransuz missionerlarining o'ldirilishi; ammo fransuz kemalaridan 2 tasi sayozlikka o'tirib qolib ortga qaytishga majbur bo'ldi",
+        "Koreyada tillo konlari topilgani uchun"
+      ],
+      "answer": 2,
+      "explain": "Biroq keyinchalik Koreya kuchaygan Yaponiyaning tazyiqiga uchrab, yakunda uning mustamlakasiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «XIX asr o'rtalarida Koreyaga fransuz harbiy kemalari bostirib kirishiga nima sabab bo'ldi va yurish qanday tugadi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "1866-yilda fransuz kemalari Seulni egallab Koreyani mustamlakaga aylantirdi",
+        "1854-yilda Yaponiya AQSH harbiy flotini butunlay yo'q qilib hech qanday shartnoma tuzmadi",
+        "«Meydzi» atamasi «Syogunlar qaytishi» degan ma'noni anglatadi",
+        "Li Xa In (tevongun) davrida xorijiy bosqinlarga qarshi keskin kurash olib borildi va fransuz kemalari chekindi"
+      ],
+      "answer": 3,
+      "explain": "Biroq keyinchalik Koreya kuchaygan Yaponiyaning tazyiqiga uchrab, yakunda uning mustamlakasiga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «XIX asr o'rtalarida Koreyaga fransuz harbiy kemalari bostirib kirishiga nima sabab bo'ldi va yurish qanday tugadi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1866-yilda fransuz kemalari Seulni egallab Koreyani mustamlakaga aylantirdi",
+        "1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: 1866-yilda fransuz kemalari Seulni egallab Koreyani mustamlakaga aylantirdi. Aslida: Biroq keyinchalik Koreya kuchaygan Yaponiyaning tazyiqiga uchrab, yakunda uning mustamlakasiga aylandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Li Xa In (tevongun) davrida xorijiy bosqinlarga qarshi keskin kurash olib borildi va fransuz kemalari chekindi.",
+      "answer": true,
+      "explain": "To'g'ri. Biroq keyinchalik Koreya kuchaygan Yaponiyaning tazyiqiga uchrab, yakunda uning mustamlakasiga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1866-yilda fransuz kemalari Seulni egallab Koreyani mustamlakaga aylantirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Biroq keyinchalik Koreya kuchaygan Yaponiyaning tazyiqiga uchrab, yakunda uning mustamlakasiga aylandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik izohiga ko'ra biroq keyinchalik Koreya kuchaygan Yaponiyaning tazyiqiga uchrab, yakunda uning mustamlakasiga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. Biroq keyinchalik Koreya kuchaygan Yaponiyaning tazyiqiga uchrab, yakunda uning mustamlakasiga aylandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Tevongun Li Xa In Koreyada qanday ichki islohotlar va cheklovlarni joriy etgan edi?",
+      "options": [
+        "Parlamentli respublika tuzdi",
+        "Noron partiyasini zaiflashtirdi, uy boshi solig'ini kiritdi, Kyonbokkun saroyini tikladi va qora oyoq kiyimni taqiqladi",
+        "Kyonbokkun saroyini buzdirib tashladi",
+        "Yaponiyaga ixtiyoriy ravishda qo'shildi"
+      ],
+      "answer": 1,
+      "explain": "U yosh qirol davrida an'anaviy davlatni mustahkamlash orqali G'arb bosqinini to'xtatmoqchi bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Tevongun Li Xa In Koreyada qanday ichki islohotlar va cheklovlarni joriy etgan edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Li Xa In Koreyada barcha saroylarni buzib o'rniga zavodlar qurdirgan",
+        "1854-yilda Yaponiya AQSH harbiy flotini butunlay yo'q qilib hech qanday shartnoma tuzmadi",
+        "Li Xa In soliqlarni tartibga solib, zodagon noron partiyasining ta'sirini kamaytirishga intildi",
+        "«Meydzi» atamasi «Syogunlar qaytishi» degan ma'noni anglatadi"
+      ],
+      "answer": 2,
+      "explain": "U yosh qirol davrida an'anaviy davlatni mustahkamlash orqali G'arb bosqinini to'xtatmoqchi bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Tevongun Li Xa In Koreyada qanday ichki islohotlar va cheklovlarni joriy etgan edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1813-yilda Koreyada hukumat zulmiga qarshi Xon Gyon Ne qo'zg'oloni va Chjechjyu oroli g'alayoni davri yuz berdi",
+        "1831-yilda vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missionerlik kuchaydi",
+        "1832-yilda Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklifini rad etdi",
+        "Li Xa In Koreyada barcha saroylarni buzib o'rniga zavodlar qurdirgan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Li Xa In Koreyada barcha saroylarni buzib o'rniga zavodlar qurdirgan. Aslida: U yosh qirol davrida an'anaviy davlatni mustahkamlash orqali G'arb bosqinini to'xtatmoqchi bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Li Xa In soliqlarni tartibga solib, zodagon noron partiyasining ta'sirini kamaytirishga intildi.",
+      "answer": true,
+      "explain": "To'g'ri. U yosh qirol davrida an'anaviy davlatni mustahkamlash orqali G'arb bosqinini to'xtatmoqchi bo'lgan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Li Xa In Koreyada barcha saroylarni buzib o'rniga zavodlar qurdirgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. U yosh qirol davrida an'anaviy davlatni mustahkamlash orqali G'arb bosqinini to'xtatmoqchi bo'lgan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik izohiga ko'ra u yosh qirol davrida an'anaviy davlatni mustahkamlash orqali G'arb bosqinini to'xtatmoqchi bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. U yosh qirol davrida an'anaviy davlatni mustahkamlash orqali G'arb bosqinini to'xtatmoqchi bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Yaponiyadagi Meydzi islohotlari (1868-yildan) tarkibiga qaysi chora kirmaydi?",
+      "options": [
+        "Mamlakat portlarini barcha tashqi savdo uchun butunlay yopib qo'yish",
+        "Yagona iyena pul birligini joriy etish",
+        "Daymyo knyazliklarini tugatib gubernatorliklar tuzish",
+        "Umumiy harbiy majburiyat va Yevropa usulidagi zavodlarni qurish"
+      ],
+      "answer": 0,
+      "explain": "Meydzi hukumati yopiq siyosatdan voz kechib, Yevropa texnikasi va ilmini jadal o'zlashtirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Meydzi hukumati yopiq siyosatdan voz kechib, Yevropa texnikasi va ilmini jadal o'zlashtirdi.",
+      "answer": true,
+      "explain": "To'g'ri. Meydzi hukumati yopiq siyosatdan voz kechib, Yevropa texnikasi va ilmini jadal o'zlashtirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Yaponiyada yangi armiyada tarbiya asosi qilib olingan g'oyalarga qaysi biri kirmaydi?",
+      "options": [
+        "Busido kodeksi",
+        "Konfederatsiya qullik qonunlari",
+        "«Yaponcha milliy ruh»",
+        "Amaterasu ma'budasi va imperatorga sadoqat"
+      ],
+      "answer": 1,
+      "explain": "Yapon harbiylari «busido» kodeksi va imperatorga sodiqlik ruhida tarbiyalanganlar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Yapon harbiylari «busido» kodeksi va imperatorga sodiqlik ruhida tarbiyalanganlar.",
+      "answer": true,
+      "explain": "To'g'ri. Yapon harbiylari «busido» kodeksi va imperatorga sodiqlik ruhida tarbiyalanganlar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): Nima uchun Yaponiya XIX asr oxirida Osiyodagi boshqa mamlakatlardan farqli o'laroq mustamlakaga aylanmay, o'z mustaqilligini saqlab qoldi?",
+      "options": [
+        "Yaponiyaga birorta ham Yevropa kemasi kelmagani uchun",
+        "Yaponiya AQSH bilan yagona davlatga birlashgani uchun",
+        "1868-yilgi Meydzi inqilobi tufayli ma'muriy, iqtisodiy va harbiy sohalarni jadal zamonaviylashtirgani uchun",
+        "Yaponiyada aholi juda kam bo'lgani uchun"
+      ],
+      "answer": 2,
+      "explain": "Zamonaviy sanoat, moliya (iyena) va harbiy islohotlar Yaponiyani teng huquqli kuchli davlatga aylantirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): 1868-yilda Fusima va Toba janglarida imperator tarafdorlari g'alaba qozonib, 1869-yil bahorda Xokkaydoda syogunatga uzil-kesil nuqta qo'ydilar.",
+      "answer": true,
+      "explain": "To'g'ri. Shu tariqa 1192-yildan beri davom etib kelgan syogunlar boshqaruvi tugatildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «AQSH bilan «Tinchlik va do'stlik» shartnomasi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1868-yil Meydzi",
+        "1869-yil bahor",
+        "Iyena puli",
+        "1854-yil"
+      ],
+      "answer": 3,
+      "explain": "1854-yil — AQSH bilan «Tinchlik va do'stlik» shartnomasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): mavzudagi «1854-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "AQSH bilan «Tinchlik va do'stlik» shartnomasi",
+        "Fusima va Toba jangi, syogunat qulashi",
+        "Xokkaydoda syogunatning yakunlanishi",
+        "Meydzi moliya islohoti natijasi"
+      ],
+      "answer": 0,
+      "explain": "1854-yil — AQSH bilan «Tinchlik va do'stlik» shartnomasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikning tayanch ma'lumotlarida «1854-yil» — AQSH bilan «Tinchlik va do'stlik» shartnomasi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1854-yil — AQSH bilan «Tinchlik va do'stlik» shartnomasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik ma'lumotlariga ko'ra «1854-yil» — fusima va Toba jangi, syogunat qulashi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1854-yil» — AQSH bilan «Tinchlik va do'stlik» shartnomasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Fusima va Toba jangi, syogunat qulashi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1854-yil",
+        "1868-yil Meydzi",
+        "1869-yil bahor",
+        "Iyena puli"
+      ],
+      "answer": 1,
+      "explain": "1868-yil Meydzi — fusima va Toba jangi, syogunat qulashi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): mavzudagi «1868-yil Meydzi» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "AQSH bilan «Tinchlik va do'stlik» shartnomasi",
+        "Xokkaydoda syogunatning yakunlanishi",
+        "Fusima va Toba jangi, syogunat qulashi",
+        "Meydzi moliya islohoti natijasi"
+      ],
+      "answer": 2,
+      "explain": "1868-yil Meydzi — fusima va Toba jangi, syogunat qulashi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikning tayanch ma'lumotlarida «1868-yil Meydzi» — fusima va Toba jangi, syogunat qulashi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1868-yil Meydzi — fusima va Toba jangi, syogunat qulashi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik ma'lumotlariga ko'ra «1868-yil Meydzi» — AQSH bilan «Tinchlik va do'stlik» shartnomasi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1868-yil Meydzi» — fusima va Toba jangi, syogunat qulashi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Xokkaydoda syogunatning yakunlanishi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1854-yil",
+        "1868-yil Meydzi",
+        "Iyena puli",
+        "1869-yil bahor"
+      ],
+      "answer": 3,
+      "explain": "1869-yil bahor — xokkaydoda syogunatning yakunlanishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): mavzudagi «1869-yil bahor» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Xokkaydoda syogunatning yakunlanishi",
+        "AQSH bilan «Tinchlik va do'stlik» shartnomasi",
+        "Fusima va Toba jangi, syogunat qulashi",
+        "Meydzi moliya islohoti natijasi"
+      ],
+      "answer": 0,
+      "explain": "1869-yil bahor — xokkaydoda syogunatning yakunlanishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikning tayanch ma'lumotlarida «1869-yil bahor» — xokkaydoda syogunatning yakunlanishi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1869-yil bahor — xokkaydoda syogunatning yakunlanishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik ma'lumotlariga ko'ra «1869-yil bahor» — AQSH bilan «Tinchlik va do'stlik» shartnomasi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1869-yil bahor» — xokkaydoda syogunatning yakunlanishi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Meydzi moliya islohoti natijasi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1854-yil",
+        "Iyena puli",
+        "1868-yil Meydzi",
+        "1869-yil bahor"
+      ],
+      "answer": 1,
+      "explain": "Iyena puli — Meydzi moliya islohoti natijasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): mavzudagi «Iyena puli» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "AQSH bilan «Tinchlik va do'stlik» shartnomasi",
+        "Fusima va Toba jangi, syogunat qulashi",
+        "Meydzi moliya islohoti natijasi",
+        "Xokkaydoda syogunatning yakunlanishi"
+      ],
+      "answer": 2,
+      "explain": "Iyena puli — Meydzi moliya islohoti natijasi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikning tayanch ma'lumotlarida «Iyena puli» — Meydzi moliya islohoti natijasi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Iyena puli — Meydzi moliya islohoti natijasi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik ma'lumotlariga ko'ra «Iyena puli» — AQSH bilan «Tinchlik va do'stlik» shartnomasi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Iyena puli» — Meydzi moliya islohoti natijasi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Kyonbokkun saroyini tiklagan hokim» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1854-yil",
+        "1868-yil Meydzi",
+        "1869-yil bahor",
+        "Tevongun Li Xa In"
+      ],
+      "answer": 3,
+      "explain": "Tevongun Li Xa In — kyonbokkun saroyini tiklagan hokim.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): mavzudagi «Tevongun Li Xa In» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Kyonbokkun saroyini tiklagan hokim",
+        "AQSH bilan «Tinchlik va do'stlik» shartnomasi",
+        "Fusima va Toba jangi, syogunat qulashi",
+        "Xokkaydoda syogunatning yakunlanishi"
+      ],
+      "answer": 0,
+      "explain": "Tevongun Li Xa In — kyonbokkun saroyini tiklagan hokim.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikning tayanch ma'lumotlarida «Tevongun Li Xa In» — kyonbokkun saroyini tiklagan hokim sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Tevongun Li Xa In — kyonbokkun saroyini tiklagan hokim.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik ma'lumotlariga ko'ra «Tevongun Li Xa In» — AQSH bilan «Tinchlik va do'stlik» shartnomasi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Tevongun Li Xa In» — kyonbokkun saroyini tiklagan hokim.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Buyuk Britaniya savdo taklifi rad etilishi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1854-yil",
+        "1832-yil Koreya",
+        "1868-yil Meydzi",
+        "1869-yil bahor"
+      ],
+      "answer": 1,
+      "explain": "1832-yil Koreya — Buyuk Britaniya savdo taklifi rad etilishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): mavzudagi «1832-yil Koreya» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "AQSH bilan «Tinchlik va do'stlik» shartnomasi",
+        "Fusima va Toba jangi, syogunat qulashi",
+        "Buyuk Britaniya savdo taklifi rad etilishi",
+        "Xokkaydoda syogunatning yakunlanishi"
+      ],
+      "answer": 2,
+      "explain": "1832-yil Koreya — Buyuk Britaniya savdo taklifi rad etilishi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikning tayanch ma'lumotlarida «1832-yil Koreya» — Buyuk Britaniya savdo taklifi rad etilishi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1832-yil Koreya — Buyuk Britaniya savdo taklifi rad etilishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik ma'lumotlariga ko'ra «1832-yil Koreya» — AQSH bilan «Tinchlik va do'stlik» shartnomasi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1832-yil Koreya» — Buyuk Britaniya savdo taklifi rad etilishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Koreyada Chjechjyu oroli g'alayonlari» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1854-yil",
+        "1868-yil Meydzi",
+        "1869-yil bahor",
+        "1813-yil"
+      ],
+      "answer": 3,
+      "explain": "1813-yil — Koreyada Chjechjyu oroli g'alayonlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): mavzudagi «1813-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Koreyada Chjechjyu oroli g'alayonlari",
+        "AQSH bilan «Tinchlik va do'stlik» shartnomasi",
+        "Fusima va Toba jangi, syogunat qulashi",
+        "Xokkaydoda syogunatning yakunlanishi"
+      ],
+      "answer": 0,
+      "explain": "1813-yil — Koreyada Chjechjyu oroli g'alayonlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikning tayanch ma'lumotlarida «1813-yil» — Koreyada Chjechjyu oroli g'alayonlari sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1813-yil — Koreyada Chjechjyu oroli g'alayonlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik ma'lumotlariga ko'ra «1813-yil» — AQSH bilan «Tinchlik va do'stlik» shartnomasi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1813-yil» — Koreyada Chjechjyu oroli g'alayonlari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Yaponiya harbiy tarbiyasining asosi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1854-yil",
+        "Busido kodeksi",
+        "1868-yil Meydzi",
+        "1869-yil bahor"
+      ],
+      "answer": 1,
+      "explain": "Busido kodeksi — Yaponiya harbiy tarbiyasining asosi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): mavzudagi «Busido kodeksi» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "AQSH bilan «Tinchlik va do'stlik» shartnomasi",
+        "Fusima va Toba jangi, syogunat qulashi",
+        "Yaponiya harbiy tarbiyasining asosi",
+        "Xokkaydoda syogunatning yakunlanishi"
+      ],
+      "answer": 2,
+      "explain": "Busido kodeksi — Yaponiya harbiy tarbiyasining asosi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslikning tayanch ma'lumotlarida «Busido kodeksi» — Yaponiya harbiy tarbiyasining asosi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. Busido kodeksi — Yaponiya harbiy tarbiyasining asosi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): darslik ma'lumotlariga ko'ra «Busido kodeksi» — AQSH bilan «Tinchlik va do'stlik» shartnomasi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «Busido kodeksi» — Yaponiya harbiy tarbiyasining asosi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1868-yildan boshlangan «ma'rifatli boshqaruv»» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Musuxito",
+        "Iyena",
+        "Busido",
+        "Meydzi"
+      ],
+      "answer": 3,
+      "explain": "Meydzi — 1868-yildan boshlangan «ma'rifatli boshqaruv».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1868-yildan boshlangan «ma'rifatli boshqaruv»» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Meydzi",
+        "meydzi",
+        "MEYDZI"
+      ],
+      "explain": "Meydzi — 1868-yildan boshlangan «ma'rifatli boshqaruv».",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi» tayanch atamasi/nomi «1868-yildan boshlangan «ma'rifatli boshqaruv»» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Meydzi — 1868-yildan boshlangan «ma'rifatli boshqaruv».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi» atamasi/nomi darslikda «Meydzi islohotlarini o'tkazgan imperator» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Meydzi — 1868-yildan boshlangan «ma'rifatli boshqaruv».",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi islohotlarini o'tkazgan imperator» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Musuxito",
+        "Meydzi",
+        "Iyena",
+        "Busido"
+      ],
+      "answer": 0,
+      "explain": "Musuxito — Meydzi islohotlarini o'tkazgan imperator.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Meydzi islohotlarini o'tkazgan imperator» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Musuxito",
+        "musuxito",
+        "MUSUXITO"
+      ],
+      "explain": "Musuxito — Meydzi islohotlarini o'tkazgan imperator.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Musuxito» tayanch atamasi/nomi «Meydzi islohotlarini o'tkazgan imperator» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Musuxito — Meydzi islohotlarini o'tkazgan imperator.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Musuxito» atamasi/nomi darslikda «1868-yildan boshlangan «ma'rifatli boshqaruv»» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Musuxito — Meydzi islohotlarini o'tkazgan imperator.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «yaponiyaning yagona yangi pul birligi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Meydzi",
+        "Iyena",
+        "Musuxito",
+        "Busido"
+      ],
+      "answer": 1,
+      "explain": "Iyena — yaponiyaning yagona yangi pul birligi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «yaponiyaning yagona yangi pul birligi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Iyena",
+        "iyena",
+        "IYENA"
+      ],
+      "explain": "Iyena — yaponiyaning yagona yangi pul birligi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Iyena» tayanch atamasi/nomi «yaponiyaning yagona yangi pul birligi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Iyena — yaponiyaning yagona yangi pul birligi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Iyena» atamasi/nomi darslikda «1868-yildan boshlangan «ma'rifatli boshqaruv»» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Iyena — yaponiyaning yagona yangi pul birligi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «samuraylar shon-sharaf va sadoqat kodeksi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Meydzi",
+        "Musuxito",
+        "Busido",
+        "Iyena"
+      ],
+      "answer": 2,
+      "explain": "Busido — samuraylar shon-sharaf va sadoqat kodeksi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «samuraylar shon-sharaf va sadoqat kodeksi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Busido",
+        "busido",
+        "BUSIDO"
+      ],
+      "explain": "Busido — samuraylar shon-sharaf va sadoqat kodeksi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Busido» tayanch atamasi/nomi «samuraylar shon-sharaf va sadoqat kodeksi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Busido — samuraylar shon-sharaf va sadoqat kodeksi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Busido» atamasi/nomi darslikda «1868-yildan boshlangan «ma'rifatli boshqaruv»» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Busido — samuraylar shon-sharaf va sadoqat kodeksi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreyada Li Xa In boshqargan hokimlik» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Meydzi",
+        "Musuxito",
+        "Iyena",
+        "Tevongun"
+      ],
+      "answer": 3,
+      "explain": "Tevongun — Koreyada Li Xa In boshqargan hokimlik.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreyada Li Xa In boshqargan hokimlik» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Tevongun",
+        "tevongun",
+        "TEVONGUN"
+      ],
+      "explain": "Tevongun — Koreyada Li Xa In boshqargan hokimlik.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Tevongun» tayanch atamasi/nomi «Koreyada Li Xa In boshqargan hokimlik» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Tevongun — Koreyada Li Xa In boshqargan hokimlik.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Tevongun» atamasi/nomi darslikda «1868-yildan boshlangan «ma'rifatli boshqaruv»» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tevongun — Koreyada Li Xa In boshqargan hokimlik.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1869-yilda syogun qoldiqlari yengilgan orol» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Xokkaydo",
+        "Meydzi",
+        "Musuxito",
+        "Iyena"
+      ],
+      "answer": 0,
+      "explain": "Xokkaydo — 1869-yilda syogun qoldiqlari yengilgan orol.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1869-yilda syogun qoldiqlari yengilgan orol» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Xokkaydo",
+        "xokkaydo",
+        "XOKKAYDO"
+      ],
+      "explain": "Xokkaydo — 1869-yilda syogun qoldiqlari yengilgan orol.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Xokkaydo» tayanch atamasi/nomi «1869-yilda syogun qoldiqlari yengilgan orol» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Xokkaydo — 1869-yilda syogun qoldiqlari yengilgan orol.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Xokkaydo» atamasi/nomi darslikda «1868-yildan boshlangan «ma'rifatli boshqaruv»» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Xokkaydo — 1869-yilda syogun qoldiqlari yengilgan orol.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreyada Li Xa In zaiflashtirgan partiya» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Meydzi",
+        "Noron",
+        "Musuxito",
+        "Iyena"
+      ],
+      "answer": 1,
+      "explain": "Noron — Koreyada Li Xa In zaiflashtirgan partiya.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Koreyada Li Xa In zaiflashtirgan partiya» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Noron",
+        "noron",
+        "NORON"
+      ],
+      "explain": "Noron — Koreyada Li Xa In zaiflashtirgan partiya.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Noron» tayanch atamasi/nomi «Koreyada Li Xa In zaiflashtirgan partiya» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Noron — Koreyada Li Xa In zaiflashtirgan partiya.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Noron» atamasi/nomi darslikda «1868-yildan boshlangan «ma'rifatli boshqaruv»» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Noron — Koreyada Li Xa In zaiflashtirgan partiya.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1868-yilda syogun qo'shini yengilgan jang joyi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Meydzi",
+        "Musuxito",
+        "Fusima",
+        "Iyena"
+      ],
+      "answer": 2,
+      "explain": "Fusima — 1868-yilda syogun qo'shini yengilgan jang joyi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1868-yilda syogun qo'shini yengilgan jang joyi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Fusima",
+        "fusima",
+        "FUSIMA"
+      ],
+      "explain": "Fusima — 1868-yilda syogun qo'shini yengilgan jang joyi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Fusima» tayanch atamasi/nomi «1868-yilda syogun qo'shini yengilgan jang joyi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Fusima — 1868-yilda syogun qo'shini yengilgan jang joyi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Fusima» atamasi/nomi darslikda «1868-yildan boshlangan «ma'rifatli boshqaruv»» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Fusima — 1868-yilda syogun qo'shini yengilgan jang joyi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «o'z dinini targ'ib qiluvchi elchi» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Meydzi",
+        "Musuxito",
+        "Iyena",
+        "Missioner"
+      ],
+      "answer": 3,
+      "explain": "Missioner — o'z dinini targ'ib qiluvchi elchi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «o'z dinini targ'ib qiluvchi elchi» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Missioner",
+        "missioner",
+        "MISSIONER"
+      ],
+      "explain": "Missioner — o'z dinini targ'ib qiluvchi elchi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Missioner» tayanch atamasi/nomi «o'z dinini targ'ib qiluvchi elchi» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Missioner — o'z dinini targ'ib qiluvchi elchi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Missioner» atamasi/nomi darslikda «1868-yildan boshlangan «ma'rifatli boshqaruv»» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Missioner — o'z dinini targ'ib qiluvchi elchi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1813-yilda qo'zg'olon ko'targan Koreya oroli» izohiga mos keluvchi asosiy nom yoki atama qaysi?",
+      "options": [
+        "Chjechjyu",
+        "Meydzi",
+        "Musuxito",
+        "Iyena"
+      ],
+      "answer": 0,
+      "explain": "Chjechjyu — 1813-yilda qo'zg'olon ko'targan Koreya oroli.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "fill",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «1813-yilda qo'zg'olon ko'targan Koreya oroli» ta'rifiga mos tayanch so'z yoki nomni yozing: ____.",
+      "answer": [
+        "Chjechjyu",
+        "chjechjyu",
+        "CHJECHJYU"
+      ],
+      "explain": "Chjechjyu — 1813-yilda qo'zg'olon ko'targan Koreya oroli.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Chjechjyu» tayanch atamasi/nomi «1813-yilda qo'zg'olon ko'targan Koreya oroli» bilan bog'liq.",
+      "answer": true,
+      "explain": "To'g'ri. Chjechjyu — 1813-yilda qo'zg'olon ko'targan Koreya oroli.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "26-mavzu (Yaponiya (Meydzi) va Koreya): «Chjechjyu» atamasi/nomi darslikda «1868-yildan boshlangan «ma'rifatli boshqaruv»» sifatida izohlanadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Chjechjyu — 1813-yilda qo'zg'olon ko'targan Koreya oroli.",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "MEYDZI",
+      "1868-yildan boshlangan «ma'rifatli boshqaruv»"
+    ],
+    [
+      "MUSUXITO",
+      "Meydzi islohotlarini o'tkazgan imperator"
+    ],
+    [
+      "IYENA",
+      "Yaponiyaning yagona yangi pul birligi"
+    ],
+    [
+      "BUSIDO",
+      "Samuraylar shon-sharaf va sadoqat kodeksi"
+    ],
+    [
+      "TEVONGUN",
+      "Koreyada Li Xa In boshqargan hokimlik"
+    ],
+    [
+      "XOKKAYDO",
+      "1869-yilda syogun qoldiqlari yengilgan orol"
+    ],
+    [
+      "NORON",
+      "Koreyada Li Xa In zaiflashtirgan partiya"
+    ],
+    [
+      "FUSIMA",
+      "1868-yilda syogun qo'shini yengilgan jang joyi"
+    ],
+    [
+      "MISSIONER",
+      "O'z dinini targ'ib qiluvchi elchi"
+    ],
+    [
+      "CHJECHJYU",
+      "1813-yilda qo'zg'olon ko'targan Koreya oroli"
+    ],
+    [
+      "1854-yil",
+      "AQSH bilan «Tinchlik va do'stlik» shartnomasi"
+    ],
+    [
+      "1868-yil Meydzi",
+      "Fusima va Toba jangi, syogunat qulashi"
+    ],
+    [
+      "1869-yil bahor",
+      "Xokkaydoda syogunatning yakunlanishi"
+    ],
+    [
+      "Iyena puli",
+      "Meydzi moliya islohoti natijasi"
+    ],
+    [
+      "Tevongun Li Xa In",
+      "Kyonbokkun saroyini tiklagan hokim"
+    ],
+    [
+      "1832-yil Koreya",
+      "Buyuk Britaniya savdo taklifi rad etilishi"
+    ],
+    [
+      "1813-yil",
+      "Koreyada Chjechjyu oroli g'alayonlari"
+    ],
+    [
+      "Busido kodeksi",
+      "Yaponiya harbiy tarbiyasining asosi"
+    ],
+    [
+      "Meydzi inqilobi",
+      "1868-yilda syogunat ag'darilib, imperator Musuxito boshchiligida Yap"
+    ],
+    [
+      "Missionerlik",
+      "Boshqa din vakillari orasida o'z diniy ta'limotini yoyish va shu orq"
+    ],
+    [
+      "Li Xa In",
+      "XIX asr 60–70-yillarida «tevongun» (hokim) bo'lib Koreyada noron par"
+    ],
+    [
+      "Xon Gyon Ne",
+      "XIX asr boshlarida Koreyada Li sulolasi inqirozi va soliq zulmiga qa"
+    ],
+    [
+      "1831-yil",
+      "Vatikan tomonidan Koreyada katolik yepiskopligi tashkil etilib missi"
+    ],
+    [
+      "1832-yil",
+      "Koreya hukumati Buyuk Britaniyaning savdo aloqalari o'rnatish taklif"
+    ],
+    [
+      "1868-yil",
+      "Fusima va Toba janglarida syogun qo'shinlari yengilib Yaponiyada «Me"
+    ],
+    [
+      "1869-yil",
+      "Bahorda Xokkaydo orolidagi qarshilik bostirilib syogunat tuzumi butu"
+    ]
+  ]
+}

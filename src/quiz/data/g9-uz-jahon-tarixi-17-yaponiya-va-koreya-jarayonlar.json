@@ -1,0 +1,2922 @@
+{
+  "id": "g9-uz-jahon-tarixi-17-yaponiya-va-koreya-jarayonlar",
+  "subjectId": "g9-uz-jahon-tarixi",
+  "grade": "9",
+  "lang": "uz",
+  "subjectName": "Jahon tarixi",
+  "topicTitle": "17-mavzu. Yaponiya va Koreyada ijtimoiy-siyosiy jarayonlar",
+  "title": "17-mavzu. Yaponiya va Koreyada ijtimoiy-siyosiy jarayonlar",
+  "source": "Jahon tarixi 9-sinf (2024), 17-mavzu, 94–98-betlar",
+  "questions": [
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)?",
+      "options": [
+        "1192-yil",
+        "1542-yil",
+        "1592-yil",
+        "1593-yil"
+      ],
+      "answer": 0,
+      "explain": "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1192-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi",
+        "Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi"
+      ],
+      "answer": 1,
+      "explain": "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha). (Yilni kiriting)",
+      "answer": [
+        "1192",
+        "1192-yil",
+        "1192-yilda"
+      ],
+      "explain": "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha).",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1542-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1542-yilda emas, 1192-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1592-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi?",
+      "options": [
+        "1192-yil",
+        "1592-yil",
+        "1542-yil",
+        "1593-yil"
+      ],
+      "answer": 2,
+      "explain": "1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1542-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi",
+        "Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi"
+      ],
+      "answer": 3,
+      "explain": "1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi. (Yilni kiriting)",
+      "answer": [
+        "1542",
+        "1542-yil",
+        "1542-yilda"
+      ],
+      "explain": "1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVI asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda"
+      ],
+      "answer": 0,
+      "explain": "1542-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1542-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1592-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi?",
+      "options": [
+        "1192-yil",
+        "1592-yil",
+        "1542-yil",
+        "1593-yil"
+      ],
+      "answer": 1,
+      "explain": "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1592-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi",
+        "Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi"
+      ],
+      "answer": 2,
+      "explain": "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi. (Yilni kiriting)",
+      "answer": [
+        "1592",
+        "1592-yil",
+        "1592-yilda"
+      ],
+      "explain": "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 3,
+      "explain": "1592-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1592-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1542-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi?",
+      "options": [
+        "1593-yil",
+        "1192-yil",
+        "1542-yil",
+        "1592-yil"
+      ],
+      "answer": 0,
+      "explain": "1593-yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1593-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 1,
+      "explain": "1593-yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi. (Yilni kiriting)",
+      "answer": [
+        "1593",
+        "1593-yil",
+        "1593-yilda"
+      ],
+      "explain": "1593-yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 2,
+      "explain": "1593-yil XVI asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1593-yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1593-yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1593-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1542-yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1593-yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi?",
+      "options": [
+        "1192-yil",
+        "1542-yil",
+        "1592-yil",
+        "1603-yil"
+      ],
+      "answer": 3,
+      "explain": "1603-yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1603-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi",
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 0,
+      "explain": "1603-yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi. (Yilni kiriting)",
+      "answer": [
+        "1603",
+        "1603-yil",
+        "1603-yilda"
+      ],
+      "explain": "1603-yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1603-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1603-yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1603-yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1603-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1542-yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1603-yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi?",
+      "options": [
+        "1192-yil",
+        "1542-yil",
+        "1614-yil",
+        "1592-yil"
+      ],
+      "answer": 2,
+      "explain": "1614-yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1614-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi",
+        "Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi"
+      ],
+      "answer": 3,
+      "explain": "1614-yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi. (Yilni kiriting)",
+      "answer": [
+        "1614",
+        "1614-yil",
+        "1614-yilda"
+      ],
+      "explain": "1614-yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1614-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1614-yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. 1614-yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1614-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1542-yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1614-yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi?",
+      "options": [
+        "1192-yil",
+        "1627-yil",
+        "1542-yil",
+        "1592-yil"
+      ],
+      "answer": 1,
+      "explain": "1627-yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1627-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 2,
+      "explain": "1627-yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi. (Yilni kiriting)",
+      "answer": [
+        "1627",
+        "1627-yil",
+        "1627-yilda"
+      ],
+      "explain": "1627-yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVII asrda"
+      ],
+      "answer": 3,
+      "explain": "1627-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1627-yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1627-yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1627-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1542-yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1627-yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi?",
+      "options": [
+        "1637-yil",
+        "1192-yil",
+        "1542-yil",
+        "1592-yil"
+      ],
+      "answer": 0,
+      "explain": "1637-yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1637-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 1,
+      "explain": "1637-yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi. (Yilni kiriting)",
+      "answer": [
+        "1637",
+        "1637-yil",
+        "1637-yilda"
+      ],
+      "explain": "1637-yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVII asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1637-yil XVII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1637-yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi.",
+      "answer": true,
+      "explain": "To'g'ri. 1637-yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1637-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1542-yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1637-yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha)?",
+      "options": [
+        "1192-yil",
+        "1542-yil",
+        "1592-yil",
+        "1716-yil"
+      ],
+      "answer": 3,
+      "explain": "1716-yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1716-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha)",
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 0,
+      "explain": "1716-yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha). (Yilni kiriting)",
+      "answer": [
+        "1716",
+        "1716-yil",
+        "1716-yilda"
+      ],
+      "explain": "1716-yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha)» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XVIII asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 1,
+      "explain": "1716-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1716-yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha).",
+      "answer": true,
+      "explain": "To'g'ri. 1716-yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1716-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1542-yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. 1716-yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha)?",
+      "options": [
+        "1192-yil",
+        "1542-yil",
+        "1725-yil",
+        "1592-yil"
+      ],
+      "answer": 2,
+      "explain": "1725-yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1725-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi",
+        "Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha)"
+      ],
+      "answer": 3,
+      "explain": "1725-yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha). (Yilni kiriting)",
+      "answer": [
+        "1725",
+        "1725-yil",
+        "1725-yilda"
+      ],
+      "explain": "1725-yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha).",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha)» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XVIII asrda",
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda"
+      ],
+      "answer": 0,
+      "explain": "1725-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1725-yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha).",
+      "answer": true,
+      "explain": "To'g'ri. 1725-yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha).",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1725-yilda yuz bergan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1542-yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha).",
+      "answer": false,
+      "explain": "Noto'g'ri. 1725-yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi?",
+      "options": [
+        "1192-yil",
+        "1742-yil",
+        "1542-yil",
+        "1592-yil"
+      ],
+      "answer": 1,
+      "explain": "1742-yilda syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1742-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 2,
+      "explain": "1742-yilda syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi. (Yilni kiriting)",
+      "answer": [
+        "1742",
+        "1742-yil",
+        "1742-yilda"
+      ],
+      "explain": "1742-yilda syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVI asrda",
+        "XVIII asrda"
+      ],
+      "answer": 3,
+      "explain": "1742-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1742-yilda syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1742-yilda syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1742-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1542-yilda syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1742-yilda syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): qaysi yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi?",
+      "options": [
+        "1785-yil",
+        "1192-yil",
+        "1542-yil",
+        "1592-yil"
+      ],
+      "answer": 0,
+      "explain": "1785-yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya) mavzusiga ko'ra 1785-yilda qanday muhim voqea sodir bo'lgan?",
+      "options": [
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 1,
+      "explain": "1785-yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): ____-yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi. (Yilni kiriting)",
+      "answer": [
+        "1785",
+        "1785-yil",
+        "1785-yilda"
+      ],
+      "explain": "1785-yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi» voqeasi nechanchi asrda yuz bergan?",
+      "options": [
+        "XIV asrda",
+        "XV asrda",
+        "XVIII asrda",
+        "XVI asrda"
+      ],
+      "answer": 2,
+      "explain": "1785-yil XVIII asrga to'g'ri keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1785-yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. 1785-yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1192-yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida bu voqea 1192-yilda emas, 1785-yilda yuz bergan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik xronologiyasiga ko'ra 1542-yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1785-yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyada haqiqiy harbiy hukmdo...» hamda «Koreya va Xitoyning 50 minglik b...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi",
+        "Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi",
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)"
+      ],
+      "answer": 3,
+      "explain": "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyada haqiqiy harbiy hukmdo...» hamda «Koreya va Xitoyning 50 minglik b...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi",
+        "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 0,
+      "explain": "1593-yilda Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Toyotomi Xideyosi boshchiligidag...» hamda «Yaponiyada xristianlik rasman ta...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi",
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi",
+        "Tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi",
+        "Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi"
+      ],
+      "answer": 1,
+      "explain": "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Toyotomi Xideyosi boshchiligidag...» hamda «Yaponiyada xristianlik rasman ta...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi",
+        "Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi",
+        "Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi",
+        "Tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi"
+      ],
+      "answer": 2,
+      "explain": "1614-yilda Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Tokugava Ieyasu syogun deb e'lon...» hamda «Manchjurlarning ikkinchi yurishi...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi",
+        "Manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi",
+        "Manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi",
+        "Tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi"
+      ],
+      "answer": 3,
+      "explain": "1603-yilda tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Tokugava Ieyasu syogun deb e'lon...» hamda «Manchjurlarning ikkinchi yurishi...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi",
+        "Tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi",
+        "Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi",
+        "Manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi"
+      ],
+      "answer": 0,
+      "explain": "1637-yilda manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Manchjurlar Koreyaga birinchi ma...» hamda «Koreyada don omborlari va qonun...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi",
+        "Manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi",
+        "Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha)",
+        "Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha)"
+      ],
+      "answer": 1,
+      "explain": "1627-yilda manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Manchjurlar Koreyaga birinchi ma...» hamda «Koreyada don omborlari va qonun...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi",
+        "Manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi",
+        "Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha)",
+        "Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha)"
+      ],
+      "answer": 2,
+      "explain": "1725-yilda Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha) — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyada islohotchi 8-syogun Y...» hamda «Koreyada «Qonunlarning buyuk to'...» qatoridagi 4 voqeadan qaysi biri eng avval sodir bo'lgan?",
+      "options": [
+        "Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha)",
+        "Syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi",
+        "Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi",
+        "Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha)"
+      ],
+      "answer": 3,
+      "explain": "1716-yilda Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha) — bu ro'yxatdagi eng dastlabki voqea.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyada islohotchi 8-syogun Y...» hamda «Koreyada «Qonunlarning buyuk to'...» qatoridagi 4 voqeadan qaysi biri eng keyin yuz bergan?",
+      "options": [
+        "Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi",
+        "Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha)",
+        "Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha)",
+        "Syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi"
+      ],
+      "answer": 0,
+      "explain": "1785-yilda Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi — bu hodisalar ichida eng oxirgi sodir bo'lgani.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1542-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1542-yilda esa yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1592-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1592-yilda esa toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1593-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1593-yilda esa Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1603-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1603-yilda esa tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1614-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1614-yilda esa Yaponiyada xristianlik rasman taqiqlanib, mamlakatning o'zini o'zi ajratib qo'yishi boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1627-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1627-yilda esa manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1637-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1637-yilda esa manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga vassallikni tan oldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1716-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha) voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1716-yilda esa Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (1745-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha) hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1725-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha) voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1725-yilda esa Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongjo taxtga chiqdi (1776-yilgacha).",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1742-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1742-yilda esa syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) voqeasi Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1192-yil 1785-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi voqeasi Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha) hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha), 1785-yilda esa Koreyada «Qonunlarning buyuk to'plami» rasman qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi voqeasi toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1542-yil 1592-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi voqeasi yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi, 1592-yilda esa toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi voqeasi Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1542-yil 1593-yildan oldin keladi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi voqeasi yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi, 1593-yilda esa Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin floti bosqinchilarni chekintirdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): xronologiyaga ko'ra yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi voqeasi tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi hodisasidan oldin yuz bergan.",
+      "answer": true,
+      "explain": "To'g'ri. 1542-yil 1603-yildan oldin keladi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy ketma-ketlikka ko'ra tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi voqeasi yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi hodisasidan avval sodir bo'lgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida 1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi, 1603-yilda esa tokugava Ieyasu syogun deb e'lon qilinib, Edo (Tokio)ni poytaxt qilgan yangi sulolaga asos soldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Toyotomi Xideyosi",
+        "Oda Nobunaga",
+        "Tokugava Ieyasu",
+        "Yosimune"
+      ],
+      "answer": 1,
+      "explain": "Oda Nobunaga, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Oda Nobunaganing tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "Yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor",
+        "1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi",
+        "XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi",
+        "1716–1745-yillarda ma'murlarning 80 foizini almashtirib, «100 moddali farmon» chiqargan 8-syogun"
+      ],
+      "answer": 2,
+      "explain": "Oda Nobunaga, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Oda Nobunaga"
+      ],
+      "explain": "Oda Nobunaga, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Oda Nobunaga, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi.",
+      "answer": true,
+      "explain": "To'g'ri. Oda Nobunaga, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Oda Nobunaga — yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor.",
+      "answer": false,
+      "explain": "Noto'g'ri. Oda Nobunaga, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikda Oda Nobunaga «1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Oda Nobunaga, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi».",
+      "options": [
+        "Toyotomi Xideyosi",
+        "Tokugava Ieyasu",
+        "Yosimune",
+        "Oda Nobunaga"
+      ],
+      "answer": 3,
+      "explain": "Oda Nobunaga, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «____, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Oda Nobunaga"
+      ],
+      "explain": "Oda Nobunaga, Toyotomi Xideyosi va Tokugava Ieyasu Yaponiyani markazlashtirgan uch arbob edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Toyotomi Xideyosi",
+        "Oda Nobunaga",
+        "Tokugava Ieyasu",
+        "Yosimune"
+      ],
+      "answer": 0,
+      "explain": "Xideyosi davrida qat'iy toifa chegaralari belgilandi va 1592-yilda Koreya urushi boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Toyotomi Xideyosining tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi",
+        "Yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor",
+        "1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi",
+        "1716–1745-yillarda ma'murlarning 80 foizini almashtirib, «100 moddali farmon» chiqargan 8-syogun"
+      ],
+      "answer": 1,
+      "explain": "Xideyosi davrida qat'iy toifa chegaralari belgilandi va 1592-yilda Koreya urushi boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Toyotomi Xideyosi"
+      ],
+      "explain": "Xideyosi davrida qat'iy toifa chegaralari belgilandi va 1592-yilda Koreya urushi boshlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Xideyosi davrida qat'iy toifa chegaralari belgilandi va 1592-yilda Koreya urushi boshlandi.",
+      "answer": true,
+      "explain": "To'g'ri. Xideyosi davrida qat'iy toifa chegaralari belgilandi va 1592-yilda Koreya urushi boshlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Toyotomi Xideyosi — XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Xideyosi davrida qat'iy toifa chegaralari belgilandi va 1592-yilda Koreya urushi boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikda Toyotomi Xideyosi «1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Xideyosi davrida qat'iy toifa chegaralari belgilandi va 1592-yilda Koreya urushi boshlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Oda Nobunaga",
+        "Toyotomi Xideyosi",
+        "Tokugava Ieyasu",
+        "Yosimune"
+      ],
+      "answer": 2,
+      "explain": "Tokugava Ieyasu Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Tokugava Ieyasuning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi",
+        "Yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor",
+        "1716–1745-yillarda ma'murlarning 80 foizini almashtirib, «100 moddali farmon» chiqargan 8-syogun",
+        "1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi"
+      ],
+      "answer": 3,
+      "explain": "Tokugava Ieyasu Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): 1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Tokugava Ieyasu"
+      ],
+      "explain": "Tokugava Ieyasu Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Tokugava Ieyasu Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi.",
+      "answer": true,
+      "explain": "To'g'ri. Tokugava Ieyasu Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Tokugava Ieyasu — XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Tokugava Ieyasu Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikda Tokugava Ieyasu «yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Tokugava Ieyasu Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi».",
+      "options": [
+        "Tokugava Ieyasu",
+        "Oda Nobunaga",
+        "Toyotomi Xideyosi",
+        "Yosimune"
+      ],
+      "answer": 0,
+      "explain": "Tokugava Ieyasu Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «____ Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Tokugava Ieyasu"
+      ],
+      "explain": "Tokugava Ieyasu Yaponiyada ikki asrdan ortiq ichki tinchlik va «yopiq eshiklar» tartibini o'rnatdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «1716–1745-yillarda ma'murlarning 80 foizini almashtirib, «100 moddali farmon» chiqargan 8-syogun» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Oda Nobunaga",
+        "Yosimune",
+        "Toyotomi Xideyosi",
+        "Tokugava Ieyasu"
+      ],
+      "answer": 1,
+      "explain": "Syogun Yosimune korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Yosimunening tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi",
+        "Yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor",
+        "1716–1745-yillarda ma'murlarning 80 foizini almashtirib, «100 moddali farmon» chiqargan 8-syogun",
+        "1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi"
+      ],
+      "answer": 2,
+      "explain": "Syogun Yosimune korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): 1716–1745-yillarda ma'murlarning 80 foizini almashtirib, «100 moddali farmon» chiqargan 8-syogun bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Yosimune"
+      ],
+      "explain": "Syogun Yosimune korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Syogun Yosimune korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi.",
+      "answer": true,
+      "explain": "To'g'ri. Syogun Yosimune korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Yosimune — XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Syogun Yosimune korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikda Yosimune «yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Syogun Yosimune korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Syogun ____ korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi».",
+      "options": [
+        "Oda Nobunaga",
+        "Toyotomi Xideyosi",
+        "Tokugava Ieyasu",
+        "Yosimune"
+      ],
+      "answer": 3,
+      "explain": "Syogun Yosimune korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «Syogun ____ korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Yosimune"
+      ],
+      "explain": "Syogun Yosimune korrupsiyaga o'lim jazosi belgiladi, sholi hosildorligini rag'batlantirdi va 1742-yilda Yevropa kitoblariga ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «1592–1593-yillardagi yapon bosqinida dushman kemalarini tor-mor qilgan buyuk koreys admirali» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Li Sun Sin",
+        "Oda Nobunaga",
+        "Toyotomi Xideyosi",
+        "Tokugava Ieyasu"
+      ],
+      "answer": 0,
+      "explain": "Admiral Li Sun Sin floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Li Sun Sinning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi",
+        "1592–1593-yillardagi yapon bosqinida dushman kemalarini tor-mor qilgan buyuk koreys admirali",
+        "Yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor",
+        "1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi"
+      ],
+      "answer": 1,
+      "explain": "Admiral Li Sun Sin floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): 1592–1593-yillardagi yapon bosqinida dushman kemalarini tor-mor qilgan buyuk koreys admirali bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Li Sun Sin"
+      ],
+      "explain": "Admiral Li Sun Sin floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Admiral Li Sun Sin floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi.",
+      "answer": true,
+      "explain": "To'g'ri. Admiral Li Sun Sin floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Li Sun Sin — XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Admiral Li Sun Sin floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikda Li Sun Sin «yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Admiral Li Sun Sin floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Admiral ____ floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi».",
+      "options": [
+        "Oda Nobunaga",
+        "Toyotomi Xideyosi",
+        "Li Sun Sin",
+        "Tokugava Ieyasu"
+      ],
+      "answer": 2,
+      "explain": "Admiral Li Sun Sin floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «Admiral ____ floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Li Sun Sin"
+      ],
+      "explain": "Admiral Li Sun Sin floti va «Haq ish uchun» partizan harakati Koreya mustaqilligini saqlab qoldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «1725–1776-yillarda don omborlari qurdirib, oyoq sindirish qiynoqlarini taqiqlagan Koreya qiroli» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Oda Nobunaga",
+        "Toyotomi Xideyosi",
+        "Tokugava Ieyasu",
+        "Yeongjo"
+      ],
+      "answer": 3,
+      "explain": "Qirol Yeongjo qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Yeongjoning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "1725–1776-yillarda don omborlari qurdirib, oyoq sindirish qiynoqlarini taqiqlagan Koreya qiroli",
+        "XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi",
+        "Yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor",
+        "1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi"
+      ],
+      "answer": 0,
+      "explain": "Qirol Yeongjo qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): 1725–1776-yillarda don omborlari qurdirib, oyoq sindirish qiynoqlarini taqiqlagan Koreya qiroli bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Yeongjo"
+      ],
+      "explain": "Qirol Yeongjo qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Qirol Yeongjo qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan.",
+      "answer": true,
+      "explain": "To'g'ri. Qirol Yeongjo qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Yeongjo — XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Qirol Yeongjo qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikda Yeongjo «yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Qirol Yeongjo qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «Qirol ____ qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan».",
+      "options": [
+        "Oda Nobunaga",
+        "Yeongjo",
+        "Toyotomi Xideyosi",
+        "Tokugava Ieyasu"
+      ],
+      "answer": 1,
+      "explain": "Qirol Yeongjo qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «Qirol ____ qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Yeongjo"
+      ],
+      "explain": "Qirol Yeongjo qul ayoldan tug'ilgan nevaralarni qullikdan ozod qilish haqida ham farmon chiqargan.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «XVII asr yapon adabiyotida qisqa she'riy shakl — xokku janrini cho'qqiga olib chiqqan shoir» sifatida darslikda kim tilga olingan?",
+      "options": [
+        "Oda Nobunaga",
+        "Toyotomi Xideyosi",
+        "Masuo Basyo",
+        "Tokugava Ieyasu"
+      ],
+      "answer": 2,
+      "explain": "Masuo Basyo tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Masuo Basyoning tarixdagi asosiy o'rni yoki xizmati nimadan iborat?",
+      "options": [
+        "XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi",
+        "Yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor",
+        "1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgacha hukm surgan sulola asoschisi",
+        "XVII asr yapon adabiyotida qisqa she'riy shakl — xokku janrini cho'qqiga olib chiqqan shoir"
+      ],
+      "answer": 3,
+      "explain": "Masuo Basyo tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): XVII asr yapon adabiyotida qisqa she'riy shakl — xokku janrini cho'qqiga olib chiqqan shoir bo'lgan tarixiy shaxs nomini yozing: ____.",
+      "answer": [
+        "Masuo Basyo"
+      ],
+      "explain": "Masuo Basyo tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Masuo Basyo tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur.",
+      "answer": true,
+      "explain": "To'g'ri. Masuo Basyo tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Masuo Basyo — XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik lashkarboshi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Masuo Basyo tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikda Masuo Basyo «yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish uyushtirgan hukmdor» sifatida ta'riflangan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Masuo Basyo tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): nuqtalar o'rniga mos tarixiy shaxsni tanlang — «____ tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur».",
+      "options": [
+        "Masuo Basyo",
+        "Oda Nobunaga",
+        "Toyotomi Xideyosi",
+        "Tokugava Ieyasu"
+      ],
+      "answer": 0,
+      "explain": "Masuo Basyo tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «____ tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur» jumlasida tushirib qoldirilgan tarixiy shaxs nomini kiriting.",
+      "answer": [
+        "Masuo Basyo"
+      ],
+      "explain": "Masuo Basyo tabiat va inson uyg'unligini aks ettirgan xokku she'rlari bilan mashhur.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Mikado",
+        "Syogun",
+        "Si-No-Ko-Syo",
+        "Kabuki"
+      ],
+      "answer": 1,
+      "explain": "Syogun — Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Syogun» atamasi nimani anglatadi?",
+      "options": [
+        "Kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator",
+        "Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar",
+        "Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda",
+        "XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri"
+      ],
+      "answer": 2,
+      "explain": "Syogun — Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Syogun",
+        "syogun"
+      ],
+      "explain": "Syogun — Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Syogun» tushunchasi «Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Syogun — Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Syogun» deganda kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Syogun — Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy lug'atga ko'ra «Syogun» — «Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Syogun — Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Syogun",
+        "Si-No-Ko-Syo",
+        "Kabuki",
+        "Mikado"
+      ],
+      "answer": 3,
+      "explain": "Mikado — kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Mikado» atamasi nimani anglatadi?",
+      "options": [
+        "Kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator",
+        "Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda",
+        "Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar",
+        "XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri"
+      ],
+      "answer": 0,
+      "explain": "Mikado — kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Mikado",
+        "mikado"
+      ],
+      "explain": "Mikado — kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Mikado» tushunchasi «kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Mikado — kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Mikado» deganda Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Mikado — kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy lug'atga ko'ra «Mikado» — «Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Mikado — kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Syogun",
+        "Si-No-Ko-Syo",
+        "Mikado",
+        "Kabuki"
+      ],
+      "answer": 1,
+      "explain": "Si-No-Ko-Syo — Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Si-No-Ko-Syo» atamasi nimani anglatadi?",
+      "options": [
+        "Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda",
+        "Kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator",
+        "Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar",
+        "XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri"
+      ],
+      "answer": 2,
+      "explain": "Si-No-Ko-Syo — Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Si-No-Ko-Syo",
+        "si-no-ko-syo"
+      ],
+      "explain": "Si-No-Ko-Syo — Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Si-No-Ko-Syo» tushunchasi «Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Si-No-Ko-Syo — Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Si-No-Ko-Syo» deganda Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Si-No-Ko-Syo — Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy lug'atga ko'ra «Si-No-Ko-Syo» — «kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Si-No-Ko-Syo — Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Syogun",
+        "Mikado",
+        "Si-No-Ko-Syo",
+        "Kabuki"
+      ],
+      "answer": 3,
+      "explain": "Kabuki — XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Kabuki» atamasi nimani anglatadi?",
+      "options": [
+        "XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri",
+        "Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda",
+        "Kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator",
+        "Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar"
+      ],
+      "answer": 0,
+      "explain": "Kabuki — XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Kabuki",
+        "kabuki"
+      ],
+      "explain": "Kabuki — XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Kabuki» tushunchasi «XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Kabuki — XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Kabuki» deganda Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Kabuki — XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy lug'atga ko'ra «Kabuki» — «kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Kabuki — XVII asrda Yaponiyada paydo bo'lgan va barcha rollarni erkak aktyorlar ijro etadigan xalq teatri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «masuo Basyo ijodida yuksalgan qisqa va teran mazmunli an'anaviy yapon she'riyati janri» ta'rifi qaysi tarixiy atama yoki tushunchaga tegishli?",
+      "options": [
+        "Syogun",
+        "Xokku",
+        "Mikado",
+        "Si-No-Ko-Syo"
+      ],
+      "answer": 1,
+      "explain": "Xokku — masuo Basyo ijodida yuksalgan qisqa va teran mazmunli an'anaviy yapon she'riyati janri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Xokku» atamasi nimani anglatadi?",
+      "options": [
+        "Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda",
+        "Kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator",
+        "Masuo Basyo ijodida yuksalgan qisqa va teran mazmunli an'anaviy yapon she'riyati janri",
+        "Yaponiya jamiyatining to'rtta qat'iy toifasi: samuray, dehqon, hunarmand va savdogar"
+      ],
+      "answer": 2,
+      "explain": "Xokku — masuo Basyo ijodida yuksalgan qisqa va teran mazmunli an'anaviy yapon she'riyati janri.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "fill",
+      "q": "17-mavzu (Yaponiya va Koreya): «masuo Basyo ijodida yuksalgan qisqa va teran mazmunli an'anaviy yapon she'riyati janri» ma'nosini bildiruvchi atama/tushunchani kiriting: ____.",
+      "answer": [
+        "Xokku",
+        "xokku"
+      ],
+      "explain": "Xokku — masuo Basyo ijodida yuksalgan qisqa va teran mazmunli an'anaviy yapon she'riyati janri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Xokku» tushunchasi «masuo Basyo ijodida yuksalgan qisqa va teran mazmunli an'anaviy yapon she'riyati janri» degan ma'noni anglatadi.",
+      "answer": true,
+      "explain": "To'g'ri. Xokku — masuo Basyo ijodida yuksalgan qisqa va teran mazmunli an'anaviy yapon she'riyati janri.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Xokku» deganda Yaponiyada 1192–1867-yillarda haqiqiy davlat va harbiy hokimiyatni boshqargan oliy sarkarda tushuniladi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida Xokku — masuo Basyo ijodida yuksalgan qisqa va teran mazmunli an'anaviy yapon she'riyati janri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): tarixiy lug'atga ko'ra «Xokku» — «kioto shahrida yashagan, sintoizmda quyosh ma'budasi Amaterasu avlodi — «tirik xudo» sanalgan imperator» deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Xokku — masuo Basyo ijodida yuksalgan qisqa va teran mazmunli an'anaviy yapon she'riyati janri.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Yaponiyada mikado (imperator) haqiqiy hokimiyatga ega bo'lmasa ham, xalq orasida qanday maqomga ega edi?",
+      "options": [
+        "Muntazam armiya qo'mondoni edi",
+        "Parlament raisi sifatida soliq yig'ardi",
+        "Umuman hurmat qilinmas edi",
+        "Sintoizm bo'yicha quyosh ma'budasi Amaterasu avlodi va «tirik xudo» sifatida Kiotoda e'zozlanar edi"
+      ],
+      "answer": 3,
+      "explain": "Yaponiyada 1192–1867-yillarda Minamoto, Ashikaga va Tokugava syogun sulolalari haqiqiy hokimiyatni yuritdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyada mikado (imperator) haqiqiy hokimiyatga ega bo'lmasa ham, xalq orasida qanday maqomga ega edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Mikado Kiotoda yashab rasmiy va diniy ramz — «tirik xudo» sanalgan, amalda esa syogun boshqargan",
+        "Mikado Tokugava davrida Edoda o'tirib barcha urushlarni shaxsan boshqargan",
+        "Portugallar Yaponiyaga birinchi marta 1854-yilda kelgan",
+        "Tokugava syogunlari barcha yaponlarga Yevropada o'qishni majburiy qilgan edilar"
+      ],
+      "answer": 0,
+      "explain": "Yaponiyada 1192–1867-yillarda Minamoto, Ashikaga va Tokugava syogun sulolalari haqiqiy hokimiyatni yuritdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Yaponiyada mikado (imperator) haqiqiy hokimiyatga ega bo'lmasa ham, xalq orasida qanday maqomga ega edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "Mikado Tokugava davrida Edoda o'tirib barcha urushlarni shaxsan boshqargan",
+        "1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: Mikado Tokugava davrida Edoda o'tirib barcha urushlarni shaxsan boshqargan. Aslida: Yaponiyada 1192–1867-yillarda Minamoto, Ashikaga va Tokugava syogun sulolalari haqiqiy hokimiyatni yuritdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Mikado Kiotoda yashab rasmiy va diniy ramz — «tirik xudo» sanalgan, amalda esa syogun boshqargan.",
+      "answer": true,
+      "explain": "To'g'ri. Yaponiyada 1192–1867-yillarda Minamoto, Ashikaga va Tokugava syogun sulolalari haqiqiy hokimiyatni yuritdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Mikado Tokugava davrida Edoda o'tirib barcha urushlarni shaxsan boshqargan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Yaponiyada 1192–1867-yillarda Minamoto, Ashikaga va Tokugava syogun sulolalari haqiqiy hokimiyatni yuritdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik izohiga ko'ra Yaponiyada 1192–1867-yillarda Minamoto, Ashikaga va Tokugava syogun sulolalari haqiqiy hokimiyatni yuritdi.",
+      "answer": true,
+      "explain": "To'g'ri. Yaponiyada 1192–1867-yillarda Minamoto, Ashikaga va Tokugava syogun sulolalari haqiqiy hokimiyatni yuritdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): 1542-yilda Yaponiyaga ilk bor yetib kelgan portugal savdogarlari va missionerlari o'zlari bilan qanday texnik yangilik olib keldilar?",
+      "options": [
+        "Bug' lokomotivi",
+        "Teleskop",
+        "O't ochar qurollar (arkebuza va mushketlar)",
+        "Birja qog'ozlari"
+      ],
+      "answer": 2,
+      "explain": "Yapon knyazlari tez orada o't ochar qurollarni o'zlari ishlab chiqara boshladilar, ammo 1614-yilda xristianlik taqiqlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «1542-yilda Yaponiyaga ilk bor yetib kelgan portugal savdogarlari va missionerlari o'zlari bilan qanday texnik yangilik olib keldilar» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Portugallar Yaponiyaga birinchi marta 1854-yilda kelgan",
+        "Mikado Tokugava davrida Edoda o'tirib barcha urushlarni shaxsan boshqargan",
+        "Tokugava syogunlari barcha yaponlarga Yevropada o'qishni majburiy qilgan edilar",
+        "1542-yilda portugallar Yaponiyaga o't ochar qurollar — arkebuza va mushketlarni keltirishgan"
+      ],
+      "answer": 3,
+      "explain": "Yapon knyazlari tez orada o't ochar qurollarni o'zlari ishlab chiqara boshladilar, ammo 1614-yilda xristianlik taqiqlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «1542-yilda Yaponiyaga ilk bor yetib kelgan portugal savdogarlari va missionerlari o'zlari bilan qanday texnik yangilik olib keldilar» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Portugallar Yaponiyaga birinchi marta 1854-yilda kelgan",
+        "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Portugallar Yaponiyaga birinchi marta 1854-yilda kelgan. Aslida: Yapon knyazlari tez orada o't ochar qurollarni o'zlari ishlab chiqara boshladilar, ammo 1614-yilda xristianlik taqiqlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1542-yilda portugallar Yaponiyaga o't ochar qurollar — arkebuza va mushketlarni keltirishgan.",
+      "answer": true,
+      "explain": "To'g'ri. Yapon knyazlari tez orada o't ochar qurollarni o'zlari ishlab chiqara boshladilar, ammo 1614-yilda xristianlik taqiqlandi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Portugallar Yaponiyaga birinchi marta 1854-yilda kelgan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Yapon knyazlari tez orada o't ochar qurollarni o'zlari ishlab chiqara boshladilar, ammo 1614-yilda xristianlik taqiqlandi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik izohiga ko'ra yapon knyazlari tez orada o't ochar qurollarni o'zlari ishlab chiqara boshladilar, ammo 1614-yilda xristianlik taqiqlandi.",
+      "answer": true,
+      "explain": "To'g'ri. Yapon knyazlari tez orada o't ochar qurollarni o'zlari ishlab chiqara boshladilar, ammo 1614-yilda xristianlik taqiqlandi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Tokugava sulolasi Yaponiyani tashqi dunyodan ajratib qo'yish siyosatini qancha vaqt davom ettirdi?",
+      "options": [
+        "Atigi 5 yil",
+        "200 yildan ortiq vaqt davomida",
+        "30 yil",
+        "1000 yil"
+      ],
+      "answer": 1,
+      "explain": "Chet elliklarning kirishi va yaponlarning chetga chiqishi qat'iyan cheklangan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Tokugava sulolasi Yaponiyani tashqi dunyodan ajratib qo'yish siyosatini qancha vaqt davom ettirdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Tokugava syogunlari barcha yaponlarga Yevropada o'qishni majburiy qilgan edilar",
+        "Mikado Tokugava davrida Edoda o'tirib barcha urushlarni shaxsan boshqargan",
+        "1614-yilda xristianlik taqiqlanganidan so'ng Yaponiya 200 yildan ortiq vaqt o'zini tashqi dunyodan ajratib qo'ydi",
+        "Portugallar Yaponiyaga birinchi marta 1854-yilda kelgan"
+      ],
+      "answer": 2,
+      "explain": "Chet elliklarning kirishi va yaponlarning chetga chiqishi qat'iyan cheklangan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Tokugava sulolasi Yaponiyani tashqi dunyodan ajratib qo'yish siyosatini qancha vaqt davom ettirdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi",
+        "Tokugava syogunlari barcha yaponlarga Yevropada o'qishni majburiy qilgan edilar"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: Tokugava syogunlari barcha yaponlarga Yevropada o'qishni majburiy qilgan edilar. Aslida: Chet elliklarning kirishi va yaponlarning chetga chiqishi qat'iyan cheklangan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1614-yilda xristianlik taqiqlanganidan so'ng Yaponiya 200 yildan ortiq vaqt o'zini tashqi dunyodan ajratib qo'ydi.",
+      "answer": true,
+      "explain": "To'g'ri. Chet elliklarning kirishi va yaponlarning chetga chiqishi qat'iyan cheklangan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Tokugava syogunlari barcha yaponlarga Yevropada o'qishni majburiy qilgan edilar.",
+      "answer": false,
+      "explain": "Noto'g'ri. Chet elliklarning kirishi va yaponlarning chetga chiqishi qat'iyan cheklangan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik izohiga ko'ra chet elliklarning kirishi va yaponlarning chetga chiqishi qat'iyan cheklangan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Chet elliklarning kirishi va yaponlarning chetga chiqishi qat'iyan cheklangan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): 8-syogun Yosimune (1716–1745) davlat boshqaruvini yaxshilash uchun qanday keskin chora ko'rdi?",
+      "options": [
+        "Ma'murlarning 80 foizini almashtirib, poraxo'rlikka o'lim jazosi joriy etdi va «100 moddali farmon» chiqardi",
+        "Barcha sholi maydonlarini yoqib yubordi",
+        "Syogunlikni tugatib respublika tuzdi",
+        "Barcha qonunlarni bekor qildi"
+      ],
+      "answer": 0,
+      "explain": "1742-yilda Yosimune Yevropa ilmiy kitoblarini o'rganishga ham ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «8-syogun Yosimune (1716–1745) davlat boshqaruvini yaxshilash uchun qanday keskin chora ko'rdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Syogun Yosimune Yevropa fan kitoblarini o'qishni umrbod taqiqlagan",
+        "Syogun Yosimune korrupsiyaga qarshi o'lim jazosini joriy etib, yaxshi sholi hosili uchun mukofotlar berdi",
+        "Mikado Tokugava davrida Edoda o'tirib barcha urushlarni shaxsan boshqargan",
+        "Portugallar Yaponiyaga birinchi marta 1854-yilda kelgan"
+      ],
+      "answer": 1,
+      "explain": "1742-yilda Yosimune Yevropa ilmiy kitoblarini o'rganishga ham ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «8-syogun Yosimune (1716–1745) davlat boshqaruvini yaxshilash uchun qanday keskin chora ko'rdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "Syogun Yosimune Yevropa fan kitoblarini o'qishni umrbod taqiqlagan",
+        "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 2,
+      "explain": "Noto'g'ri fikr: Syogun Yosimune Yevropa fan kitoblarini o'qishni umrbod taqiqlagan. Aslida: 1742-yilda Yosimune Yevropa ilmiy kitoblarini o'rganishga ham ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Syogun Yosimune korrupsiyaga qarshi o'lim jazosini joriy etib, yaxshi sholi hosili uchun mukofotlar berdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1742-yilda Yosimune Yevropa ilmiy kitoblarini o'rganishga ham ruxsat berdi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Syogun Yosimune Yevropa fan kitoblarini o'qishni umrbod taqiqlagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. 1742-yilda Yosimune Yevropa ilmiy kitoblarini o'rganishga ham ruxsat berdi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik izohiga ko'ra 1742-yilda Yosimune Yevropa ilmiy kitoblarini o'rganishga ham ruxsat berdi.",
+      "answer": true,
+      "explain": "To'g'ri. 1742-yilda Yosimune Yevropa ilmiy kitoblarini o'rganishga ham ruxsat berdi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): 1592-yilda Yaponiya bosqiniga qarshi Koreyada ko'tarilgan xalq harakati qanday nomlangan?",
+      "options": [
+        "«Gyozlar» harakati",
+        "«Luddchilar» harakati",
+        "«Bobiylar» qo'zg'oloni",
+        "«Haq ish uchun» partizan harakati"
+      ],
+      "answer": 3,
+      "explain": "Partizanlar, Li Sun Sin floti va Xitoy yordami bilan 1593-yilda koreys yerlari ozod etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «1592-yilda Yaponiya bosqiniga qarshi Koreyada ko'tarilgan xalq harakati qanday nomlangan» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Yapon qo'shinlari Seul va Pxenyanni egallaganda koreys xalqi «Haq ish uchun» partizan otryadlarini tuzdi",
+        "1592-yilda koreys xalqi yapon bosqinchilariga hech qanday qarshilik ko'rsatmadi",
+        "Mikado Tokugava davrida Edoda o'tirib barcha urushlarni shaxsan boshqargan",
+        "Portugallar Yaponiyaga birinchi marta 1854-yilda kelgan"
+      ],
+      "answer": 0,
+      "explain": "Partizanlar, Li Sun Sin floti va Xitoy yordami bilan 1593-yilda koreys yerlari ozod etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «1592-yilda Yaponiya bosqiniga qarshi Koreyada ko'tarilgan xalq harakati qanday nomlangan» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "1592-yilda koreys xalqi yapon bosqinchilariga hech qanday qarshilik ko'rsatmadi",
+        "1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 1,
+      "explain": "Noto'g'ri fikr: 1592-yilda koreys xalqi yapon bosqinchilariga hech qanday qarshilik ko'rsatmadi. Aslida: Partizanlar, Li Sun Sin floti va Xitoy yordami bilan 1593-yilda koreys yerlari ozod etildi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Yapon qo'shinlari Seul va Pxenyanni egallaganda koreys xalqi «Haq ish uchun» partizan otryadlarini tuzdi.",
+      "answer": true,
+      "explain": "To'g'ri. Partizanlar, Li Sun Sin floti va Xitoy yordami bilan 1593-yilda koreys yerlari ozod etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1592-yilda koreys xalqi yapon bosqinchilariga hech qanday qarshilik ko'rsatmadi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Partizanlar, Li Sun Sin floti va Xitoy yordami bilan 1593-yilda koreys yerlari ozod etildi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik izohiga ko'ra partizanlar, Li Sun Sin floti va Xitoy yordami bilan 1593-yilda koreys yerlari ozod etildi.",
+      "answer": true,
+      "explain": "To'g'ri. Partizanlar, Li Sun Sin floti va Xitoy yordami bilan 1593-yilda koreys yerlari ozod etildi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Koreya qiroli Yeongjo (1725–1776) ijtimoiy hayotda qanday insonparvar islohotlarni amalga oshirdi?",
+      "options": [
+        "Barcha maktablarni yopdi",
+        "Qulchilikni ikki barobar kuchaytirdi",
+        "Oyoq sindirish qiynoqlarini taqiqladi, qul ayoldan tug'ilgan nevaralarni ozod qildi va don omborlari qurdirdi",
+        "O'z poytaxtini Pekinga ko'chirdi"
+      ],
+      "answer": 2,
+      "explain": "Uning islohotlari davomi sifatida 1785-yilda «Qonunlarning buyuk to'plami» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Koreya qiroli Yeongjo (1725–1776) ijtimoiy hayotda qanday insonparvar islohotlarni amalga oshirdi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "Qirol Yeongjo davrida Koreyada qiynoqlar yanada kuchaytirildi",
+        "Mikado Tokugava davrida Edoda o'tirib barcha urushlarni shaxsan boshqargan",
+        "Portugallar Yaponiyaga birinchi marta 1854-yilda kelgan",
+        "Qirol Yeongjo qiynoqlarni cheklab, ocharchilikka qarshi don zaxiralari va adolatli soliq choralarini joriy etdi"
+      ],
+      "answer": 3,
+      "explain": "Uning islohotlari davomi sifatida 1785-yilda «Qonunlarning buyuk to'plami» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «Koreya qiroli Yeongjo (1725–1776) ijtimoiy hayotda qanday insonparvar islohotlarni amalga oshirdi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "Qirol Yeongjo davrida Koreyada qiynoqlar yanada kuchaytirildi",
+        "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi"
+      ],
+      "answer": 0,
+      "explain": "Noto'g'ri fikr: Qirol Yeongjo davrida Koreyada qiynoqlar yanada kuchaytirildi. Aslida: Uning islohotlari davomi sifatida 1785-yilda «Qonunlarning buyuk to'plami» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Qirol Yeongjo qiynoqlarni cheklab, ocharchilikka qarshi don zaxiralari va adolatli soliq choralarini joriy etdi.",
+      "answer": true,
+      "explain": "To'g'ri. Uning islohotlari davomi sifatida 1785-yilda «Qonunlarning buyuk to'plami» qabul qilindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Qirol Yeongjo davrida Koreyada qiynoqlar yanada kuchaytirildi.",
+      "answer": false,
+      "explain": "Noto'g'ri. Uning islohotlari davomi sifatida 1785-yilda «Qonunlarning buyuk to'plami» qabul qilindi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik izohiga ko'ra uning islohotlari davomi sifatida 1785-yilda «Qonunlarning buyuk to'plami» qabul qilindi.",
+      "answer": true,
+      "explain": "To'g'ri. Uning islohotlari davomi sifatida 1785-yilda «Qonunlarning buyuk to'plami» qabul qilindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): XVII–XVIII asr Koreya tasviriy san'atida «tog' va suv» yo'nalishini yaratgan mashhur rassomlar kimlar edi?",
+      "options": [
+        "Leonardo, Rafael va Vatto",
+        "Chon Son, Li Myonuk va Kim Xondo",
+        "Soib Tabriziy va Kamoliddin Behzod",
+        "Un Szishan va Li Shi Chjen"
+      ],
+      "answer": 1,
+      "explain": "Shuningdek, Koreyada o'zbek baxshichiligiga o'xshash an'anaviy qo'shiqchilik ham keng tarqalgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «XVII–XVIII asr Koreya tasviriy san'atida «tog' va suv» yo'nalishini yaratgan mashhur rassomlar kimlar edi» masalasiga oid quyidagi hukmlardan qaysi biri to'g'ri?",
+      "options": [
+        "XVIII asrda Koreyada tasviriy san'at va xalq qo'shiqchiligi umuman rivojlanmagan",
+        "Mikado Tokugava davrida Edoda o'tirib barcha urushlarni shaxsan boshqargan",
+        "Chon Son, Li Myonuk va Kim Xondo koreys manzara va maishiy rangtasvirining («tog' va suv») yirik ustalari edilar",
+        "Portugallar Yaponiyaga birinchi marta 1854-yilda kelgan"
+      ],
+      "answer": 2,
+      "explain": "Shuningdek, Koreyada o'zbek baxshichiligiga o'xshash an'anaviy qo'shiqchilik ham keng tarqalgan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): «XVII–XVIII asr Koreya tasviriy san'atida «tog' va suv» yo'nalishini yaratgan mashhur rassomlar kimlar edi» mavzusiga tegishli quyidagi fikrlardan qaysi biri NOTO'G'RI?",
+      "options": [
+        "1192-yilda Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (1867-yilgacha)",
+        "1542-yilda yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari keldi",
+        "1592-yilda toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bostirib kirdi",
+        "XVIII asrda Koreyada tasviriy san'at va xalq qo'shiqchiligi umuman rivojlanmagan"
+      ],
+      "answer": 3,
+      "explain": "Noto'g'ri fikr: XVIII asrda Koreyada tasviriy san'at va xalq qo'shiqchiligi umuman rivojlanmagan. Aslida: Shuningdek, Koreyada o'zbek baxshichiligiga o'xshash an'anaviy qo'shiqchilik ham keng tarqalgan edi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Chon Son, Li Myonuk va Kim Xondo koreys manzara va maishiy rangtasvirining («tog' va suv») yirik ustalari edilar.",
+      "answer": true,
+      "explain": "To'g'ri. Shuningdek, Koreyada o'zbek baxshichiligiga o'xshash an'anaviy qo'shiqchilik ham keng tarqalgan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): XVIII asrda Koreyada tasviriy san'at va xalq qo'shiqchiligi umuman rivojlanmagan.",
+      "answer": false,
+      "explain": "Noto'g'ri. Shuningdek, Koreyada o'zbek baxshichiligiga o'xshash an'anaviy qo'shiqchilik ham keng tarqalgan edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik izohiga ko'ra shuningdek, Koreyada o'zbek baxshichiligiga o'xshash an'anaviy qo'shiqchilik ham keng tarqalgan edi.",
+      "answer": true,
+      "explain": "To'g'ri. Shuningdek, Koreyada o'zbek baxshichiligiga o'xshash an'anaviy qo'shiqchilik ham keng tarqalgan edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Yaponiyada Tokugava davri jamiyatining to'rtta asosiy toifasi («Si-No-Ko-Syo»)ga qaysi biri kirmaydi?",
+      "options": [
+        "Inkvizitorlar",
+        "Samuraylar",
+        "Dehqonlar",
+        "Hunarmandlar va savdogarlar"
+      ],
+      "answer": 0,
+      "explain": "«Si-No-Ko-Syo» tizimi samuray, dehqon, hunarmand va savdogar toifalaridan iborat edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): «Si-No-Ko-Syo» tizimi samuray, dehqon, hunarmand va savdogar toifalaridan iborat edi.",
+      "answer": true,
+      "explain": "To'g'ri. «Si-No-Ko-Syo» tizimi samuray, dehqon, hunarmand va savdogar toifalaridan iborat edi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Yaponiyani XI asr oxiridan XIX asrgacha boshqargan uch syogun sulolasiga qaysi biri kirmaydi?",
+      "options": [
+        "Minamoto",
+        "Safaviylar",
+        "Ashikaga",
+        "Tokugava"
+      ],
+      "answer": 1,
+      "explain": "Safaviylar Yaponiya emas, Eron hukmron sulolasi bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Safaviylar Yaponiya emas, Eron hukmron sulolasi bo'lgan.",
+      "answer": true,
+      "explain": "To'g'ri. Safaviylar Yaponiya emas, Eron hukmron sulolasi bo'lgan.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): 1592–1593-yillarda Koreyaga qilingan yapon bosqinini qaytarishda qaysi omil ishtirok etmagan?",
+      "options": [
+        "«Haq ish uchun» partizan harakati",
+        "Admiral Li Sun Sin floti",
+        "Buyuk Britaniya dengiz flotining yordami",
+        "Xitoyning 50 minglik harbiy yordami"
+      ],
+      "answer": 2,
+      "explain": "Koreya mustaqilligi partizanlar, admiral Li Sun Sin floti va Xitoy qo'shini ko'magi bilan saqlab qolindi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): Koreya mustaqilligi partizanlar, admiral Li Sun Sin floti va Xitoy qo'shini ko'magi bilan saqlab qolindi.",
+      "answer": true,
+      "explain": "To'g'ri. Koreya mustaqilligi partizanlar, admiral Li Sun Sin floti va Xitoy qo'shini ko'magi bilan saqlab qolindi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): Nima uchun Yaponiyada Toyotomi Xideyosi va Tokugava davrida dehqon, hunarmand va savdogarlarning bir toifadan boshqasiga o'tishi qat'iy taqiqlangan edi?",
+      "options": [
+        "Yaponiyada aholi soni juda kam bo'lgani uchun",
+        "Xitoy imperatori shuni talab qilgani uchun",
+        "Hunarmandchilik butunlay yo'q bo'lib ketgani uchun",
+        "Jamiyat barqarorligini va samuraylar hukmronligini abadiy saqlab qolish uchun"
+      ],
+      "answer": 3,
+      "explain": "Qat'iy tabaqalanish syogunatning ichki urushlarga chek qo'yib markaziy nazoratni ushlab turish vositasi edi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): 1627 va 1637-yillardagi manchjur bosqinlaridan so'ng Koreya Xitoydagi Sin imperiyasining vassaliga aylandi.",
+      "answer": true,
+      "explain": "To'g'ri. Koreya o'z ichki boshqaruvini saqlab qolsa-da, manchjurlarga o'lpon to'lashga majbur bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Tokugava Ieyasu syogun bo'ldi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1603-yil",
+        "1614-yil",
+        "1592–1593-yillar",
+        "«Haq ish uchun»"
+      ],
+      "answer": 0,
+      "explain": "1603-yil — tokugava Ieyasu syogun bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): mavzudagi «1603-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Xristianlikning taqiqlanishi",
+        "Tokugava Ieyasu syogun bo'ldi",
+        "Yaponiyaning Koreyaga bosqini",
+        "Koreys partizanlari harakati"
+      ],
+      "answer": 1,
+      "explain": "1603-yil — tokugava Ieyasu syogun bo'ldi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikning tayanch ma'lumotlarida «1603-yil» — tokugava Ieyasu syogun bo'ldi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1603-yil — tokugava Ieyasu syogun bo'ldi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik ma'lumotlariga ko'ra «1603-yil» — xristianlikning taqiqlanishi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1603-yil» — tokugava Ieyasu syogun bo'ldi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Xristianlikning taqiqlanishi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1603-yil",
+        "1592–1593-yillar",
+        "1614-yil",
+        "«Haq ish uchun»"
+      ],
+      "answer": 2,
+      "explain": "1614-yil — xristianlikning taqiqlanishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): mavzudagi «1614-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Tokugava Ieyasu syogun bo'ldi",
+        "Yaponiyaning Koreyaga bosqini",
+        "Koreys partizanlari harakati",
+        "Xristianlikning taqiqlanishi"
+      ],
+      "answer": 3,
+      "explain": "1614-yil — xristianlikning taqiqlanishi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikning tayanch ma'lumotlarida «1614-yil» — xristianlikning taqiqlanishi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1614-yil — xristianlikning taqiqlanishi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik ma'lumotlariga ko'ra «1614-yil» — tokugava Ieyasu syogun bo'ldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1614-yil» — xristianlikning taqiqlanishi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Yaponiyaning Koreyaga bosqini» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1592–1593-yillar",
+        "1603-yil",
+        "1614-yil",
+        "«Haq ish uchun»"
+      ],
+      "answer": 0,
+      "explain": "1592–1593-yillar — yaponiyaning Koreyaga bosqini.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): mavzudagi «1592–1593-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Tokugava Ieyasu syogun bo'ldi",
+        "Yaponiyaning Koreyaga bosqini",
+        "Xristianlikning taqiqlanishi",
+        "Koreys partizanlari harakati"
+      ],
+      "answer": 1,
+      "explain": "1592–1593-yillar — yaponiyaning Koreyaga bosqini.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikning tayanch ma'lumotlarida «1592–1593-yillar» — yaponiyaning Koreyaga bosqini sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1592–1593-yillar — yaponiyaning Koreyaga bosqini.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik ma'lumotlariga ko'ra «1592–1593-yillar» — tokugava Ieyasu syogun bo'ldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1592–1593-yillar» — yaponiyaning Koreyaga bosqini.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Koreys partizanlari harakati» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1603-yil",
+        "1614-yil",
+        "«Haq ish uchun»",
+        "1592–1593-yillar"
+      ],
+      "answer": 2,
+      "explain": "«Haq ish uchun» — koreys partizanlari harakati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): mavzudagi ««Haq ish uchun»» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Tokugava Ieyasu syogun bo'ldi",
+        "Xristianlikning taqiqlanishi",
+        "Yaponiyaning Koreyaga bosqini",
+        "Koreys partizanlari harakati"
+      ],
+      "answer": 3,
+      "explain": "«Haq ish uchun» — koreys partizanlari harakati.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikning tayanch ma'lumotlarida ««Haq ish uchun»» — koreys partizanlari harakati sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. «Haq ish uchun» — koreys partizanlari harakati.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik ma'lumotlariga ko'ra ««Haq ish uchun»» — tokugava Ieyasu syogun bo'ldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida ««Haq ish uchun»» — koreys partizanlari harakati.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «8-syogun Yosimune islohotlari» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1716–1745-yillar",
+        "1603-yil",
+        "1614-yil",
+        "1592–1593-yillar"
+      ],
+      "answer": 0,
+      "explain": "1716–1745-yillar — 8-syogun Yosimune islohotlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): mavzudagi «1716–1745-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Tokugava Ieyasu syogun bo'ldi",
+        "8-syogun Yosimune islohotlari",
+        "Xristianlikning taqiqlanishi",
+        "Yaponiyaning Koreyaga bosqini"
+      ],
+      "answer": 1,
+      "explain": "1716–1745-yillar — 8-syogun Yosimune islohotlari.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikning tayanch ma'lumotlarida «1716–1745-yillar» — 8-syogun Yosimune islohotlari sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1716–1745-yillar — 8-syogun Yosimune islohotlari.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik ma'lumotlariga ko'ra «1716–1745-yillar» — tokugava Ieyasu syogun bo'ldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1716–1745-yillar» — 8-syogun Yosimune islohotlari.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Qirol Yeongjo hukmronligi» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1603-yil",
+        "1614-yil",
+        "1725–1776-yillar",
+        "1592–1593-yillar"
+      ],
+      "answer": 2,
+      "explain": "1725–1776-yillar — qirol Yeongjo hukmronligi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): mavzudagi «1725–1776-yillar» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Tokugava Ieyasu syogun bo'ldi",
+        "Xristianlikning taqiqlanishi",
+        "Yaponiyaning Koreyaga bosqini",
+        "Qirol Yeongjo hukmronligi"
+      ],
+      "answer": 3,
+      "explain": "1725–1776-yillar — qirol Yeongjo hukmronligi.",
+      "difficulty": "hard"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikning tayanch ma'lumotlarida «1725–1776-yillar» — qirol Yeongjo hukmronligi sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1725–1776-yillar — qirol Yeongjo hukmronligi.",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik ma'lumotlariga ko'ra «1725–1776-yillar» — tokugava Ieyasu syogun bo'ldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1725–1776-yillar» — qirol Yeongjo hukmronligi.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Koreya «Qonunlarning buyuk to'plami»» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1785-yil",
+        "1603-yil",
+        "1614-yil",
+        "1592–1593-yillar"
+      ],
+      "answer": 0,
+      "explain": "1785-yil — Koreya «Qonunlarning buyuk to'plami».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): mavzudagi «1785-yil» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Tokugava Ieyasu syogun bo'ldi",
+        "Koreya «Qonunlarning buyuk to'plami»",
+        "Xristianlikning taqiqlanishi",
+        "Yaponiyaning Koreyaga bosqini"
+      ],
+      "answer": 1,
+      "explain": "1785-yil — Koreya «Qonunlarning buyuk to'plami».",
+      "difficulty": "medium"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslikning tayanch ma'lumotlarida «1785-yil» — Koreya «Qonunlarning buyuk to'plami» sifatida berilgan.",
+      "answer": true,
+      "explain": "To'g'ri. 1785-yil — Koreya «Qonunlarning buyuk to'plami».",
+      "difficulty": "easy"
+    },
+    {
+      "type": "truefalse",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik ma'lumotlariga ko'ra «1785-yil» — tokugava Ieyasu syogun bo'ldi deganidir.",
+      "answer": false,
+      "explain": "Noto'g'ri. Aslida «1785-yil» — Koreya «Qonunlarning buyuk to'plami».",
+      "difficulty": "hard"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): darslik jadvali va tayanch ma'lumotlariga ko'ra «Yaponiyadagi 4 ijtimoiy toifa» qaysi sana, shaxs yoki tushunchaga tegishli?",
+      "options": [
+        "1603-yil",
+        "1614-yil",
+        "Si-No-Ko-Syo",
+        "1592–1593-yillar"
+      ],
+      "answer": 2,
+      "explain": "Si-No-Ko-Syo — yaponiyadagi 4 ijtimoiy toifa.",
+      "difficulty": "medium"
+    },
+    {
+      "type": "choice",
+      "q": "17-mavzu (Yaponiya va Koreya): mavzudagi «Si-No-Ko-Syo» tayanch tushunchasi/sanasi nimani bildiradi?",
+      "options": [
+        "Tokugava Ieyasu syogun bo'ldi",
+        "Xristianlikning taqiqlanishi",
+        "Yaponiyaning Koreyaga bosqini",
+        "Yaponiyadagi 4 ijtimoiy toifa"
+      ],
+      "answer": 3,
+      "explain": "Si-No-Ko-Syo — yaponiyadagi 4 ijtimoiy toifa.",
+      "difficulty": "hard"
+    }
+  ],
+  "cards": [
+    [
+      "SYOGUN",
+      "Yaponiyaning haqiqiy harbiy hukmdori"
+    ],
+    [
+      "MIKADO",
+      "Kiotodagi «tirik xudo» sanalgan imperator"
+    ],
+    [
+      "KABUKI",
+      "Erkak aktyorlar o'ynaydigan yapon teatri"
+    ],
+    [
+      "XOKKU",
+      "Masuo Basyo rivojlantirgan she'r janri"
+    ],
+    [
+      "YOSIMUNE",
+      "Korrupsiyaga qarshi kurashgan 8-syogun"
+    ],
+    [
+      "LISUNSIN",
+      "Koreys flotining buyuk admirali"
+    ],
+    [
+      "YEONGJO",
+      "Koreyada qonun islohoti qilgan qirol"
+    ],
+    [
+      "EDOSHARI",
+      "Tokugava davrida poytaxt bo'lgan Tokio"
+    ],
+    [
+      "KIOTO",
+      "Yaponiya imperatori mikado qarorgohi"
+    ],
+    [
+      "ARKEBUZA",
+      "1542-yilda portugallar keltirgan qurol"
+    ],
+    [
+      "1603-yil",
+      "Tokugava Ieyasu syogun bo'ldi"
+    ],
+    [
+      "1614-yil",
+      "Xristianlikning taqiqlanishi"
+    ],
+    [
+      "1592–1593-yillar",
+      "Yaponiyaning Koreyaga bosqini"
+    ],
+    [
+      "«Haq ish uchun»",
+      "Koreys partizanlari harakati"
+    ],
+    [
+      "1716–1745-yillar",
+      "8-syogun Yosimune islohotlari"
+    ],
+    [
+      "1725–1776-yillar",
+      "Qirol Yeongjo hukmronligi"
+    ],
+    [
+      "1785-yil",
+      "Koreya «Qonunlarning buyuk to'plami»"
+    ],
+    [
+      "Si-No-Ko-Syo",
+      "Yaponiyadagi 4 ijtimoiy toifa"
+    ],
+    [
+      "Oda Nobunaga",
+      "XVI asrda tarqoq Yaponiyani birlashtirish kurashini boshlagan yirik"
+    ],
+    [
+      "Toyotomi Xideyosi",
+      "Yaponiyani birlashtirishni davom ettirib, 1592-yilda Koreyaga yurish"
+    ],
+    [
+      "Tokugava Ieyasu",
+      "1603-yilda syogun bo'lib, poytaxtni Edoga ko'chirgan va 1867-yilgach"
+    ],
+    [
+      "Li Sun Sin",
+      "1592–1593-yillardagi yapon bosqinida dushman kemalarini tor-mor qilg"
+    ],
+    [
+      "Masuo Basyo",
+      "XVII asr yapon adabiyotida qisqa she'riy shakl — xokku janrini cho'q"
+    ],
+    [
+      "1192-yil",
+      "Yaponiyada haqiqiy harbiy hukmdorlik — syogunat tizimi boshlandi (18"
+    ],
+    [
+      "1542-yil",
+      "Yaponiyaga dastlabki portugal savdogarlari va iyezuit missionerlari"
+    ],
+    [
+      "1592-yil",
+      "Toyotomi Xideyosi boshchiligidagi Yaponiya qo'shinlari Koreyaga bost"
+    ],
+    [
+      "1593-yil",
+      "Koreya va Xitoyning 50 minglik birlashgan qo'shini hamda Li Sun Sin"
+    ],
+    [
+      "1627-yil",
+      "Manchjurlar Koreyaga birinchi marta harbiy yurish qilib bostirib kir"
+    ],
+    [
+      "1637-yil",
+      "Manchjurlarning ikkinchi yurishidan so'ng Koreya Sin imperiyasiga va"
+    ],
+    [
+      "1716-yil",
+      "Yaponiyada islohotchi 8-syogun Yosimune hokimiyat tepasiga keldi (17"
+    ],
+    [
+      "1725-yil",
+      "Koreyada don omborlari va qonun islohotlarini o'tkazgan qirol Yeongj"
+    ],
+    [
+      "1742-yil",
+      "Syogun Yosimune Yaponiyada Yevropa ilmiy kitoblarini o'qishga ruxsat"
+    ]
+  ]
+}
